@@ -17,4 +17,4 @@ EXPOSE 4000
 ENV JEKYLL_ENV=development
 
 # Default command builds & serves mounted source
-CMD bundle exec jekyll serve --source /site --host 0.0.0.0 --port 4000 --livereload --force_polling
+CMD bundle exec jekyll serve --config _config.yml,_config_local.yml --source /site --host 0.0.0.0 --port 4000 --livereload --force_polling
