@@ -1,7 +1,7 @@
 title: SmartDrivingCar
 description: The latest news in mobility and autonomy
-baseurl: ""
-url: "https://smartdrivingcar.github.io"
+baseurl: "/smartdrivingcar" # repo name for organization project site
+url: "https://princetonuniversity.github.io" # org GitHub Pages root
 permalink: pretty
 theme: minima
 plugins:

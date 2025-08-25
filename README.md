@@ -72,11 +72,37 @@ Gem layer note: Gems are installed in the image (/app) so mounting the project a
 ## Slider Notes
 Simple interval-based rotation (7s). No controls yet; add pause/prev/next if user interaction required.
 
-## License / Attribution
-Original content & media remain © SmartDrivingCar.com. The refactor code (layout & CSS simplification) can be MIT licensed if desired—add a LICENSE file to formalize.
-
 ## Removed Legacy Directories
 The previous `wp-content` (and nested uploads) hierarchy has been flattened. After confirming no references remain, the `wp-content` directory may be deleted (it is safe now given images live under `assets/img/`).
 
----
-Feel free to request expansion (blog import, pagination, feeds, categories) and I can scaffold it.
+## Newsletter Workflow
+
+The site now supports a `newsletters` collection for the weekly SmartDrivingCars email.
+
+### Add a New Issue (Fast Path)
+1. Save the email as `.eml` (or copy raw HTML to clipboard).
+2. Run the import script:
+	```bash
+	python3 scripts/import_newsletter.py --date 2025-08-22 --title "Automated Vehicles Update" --input path/to/email.eml
+	# or from clipboard (HTML)
+	pbpaste | python3 scripts/import_newsletter.py --date 2025-08-22 --title "Automated Vehicles Update" --raw-html
+	```
+3. Open the generated file in `_newsletters/` to spot‑fix formatting.
+4. Commit & push. The archive at `/newsletter/` updates automatically.
+
+### File Naming & URLs
+`_newsletters/YYYY-MM-DD-slug.md` -> `/newsletter/YYYY/MM/DD/slug/` (configurable in `_config.yml`).
+
+### Editing / Re-importing
+Script refuses to overwrite an existing file. Delete or rename the old file if you need to regenerate.
+
+### Conversion Notes
+- Minimal HTML→Markdown: headings, links, lists, paragraphs handled; complex tables or inline styles need manual cleanup.
+- For more advanced conversion you could integrate Pandoc later.
+
+### Future Enhancements (Optional)
+- Add tagging (front matter `tags:`) and filtered views.
+- Generate an Atom feed for newsletters distinct from main feed.
+- Add full-text search or Algolia integration.
+- Automate email ingestion via a forwarding address + GitHub Action (parse & commit).
+

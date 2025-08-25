@@ -1,0 +1,87 @@
+name: Build & Deploy (Dual Config)
+
+on:
+  push:
+    branches: [ main ]
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '3.3'
+          bundler-cache: true
+
+      - name: Install Gems
+        run: bundle install --path vendor/bundle
+
+      - name: Determine build mode
+        id: mode
+        run: |
+          if [ -f CNAME ]; then
+            echo "mode=prod" >> $GITHUB_OUTPUT
+            echo "Using production config (custom domain)"
+          else
+            echo "mode=preview" >> $GITHUB_OUTPUT
+            echo "Using preview (project site) config"
+          fi
+
+      - name: Build site
+        run: |
+          if [ "${{ steps.mode.outputs.mode }}" = "prod" ]; then
+            bundle exec jekyll build --config _config.yml,_config_prod.yml
+          else
+            bundle exec jekyll build --config _config.yml
+          fi
+        env:
+          JEKYLL_ENV: production
+
+      - name: Link check (internal only)
+        uses: lycheeverse/lychee-action@v1
+        with:
+          args: --no-progress --format detailed --offline ./_site
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Upload artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: site
+          path: _site
+
+  deploy:
+    needs: build
+    if: github.ref == 'refs/heads/main'
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Download artifact
+        uses: actions/download-artifact@v4
+        with:
+          name: site
+          path: _site
+      - name: Deploy to Pages
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+
+  publish:
+    needs: deploy
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    steps:
+      - name: Deploy
+        id: deployment
+        uses: actions/deploy-pages@v4
