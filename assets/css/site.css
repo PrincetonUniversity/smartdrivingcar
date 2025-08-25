@@ -1,0 +1,97 @@
+body{font-family:'Open Sans',Arial,sans-serif;margin:0;color:#666;line-height:1.6;background:#fff}
+.skip-link{position:absolute;left:-999px;top:auto;width:1px;height:1px;overflow:hidden}
+.skip-link:focus{left:10px;top:10px;width:auto;height:auto;padding:10px 14px;background:#000;color:#fff;z-index:1000;border-radius:4px;text-decoration:none}
+.container{width:80%;max-width:1080px;margin:0 auto}
+header#site-header{background:#fff;border-bottom:1px solid rgba(0,0,0,.1);position:sticky;top:0;z-index:50}
+#site-header .logo img{max-height:70px;width:auto;display:block}
+.header-bar{display:flex;align-items:center;justify-content:space-between;gap:40px}
+.primary-nav ul{list-style:none;margin:0;padding:0;display:flex;gap:32px;align-items:center}
+.primary-nav a{text-decoration:none;color:rgba(0,0,0,.7);font-weight:600;padding:20px 0;display:block}
+.primary-nav a:hover,.primary-nav a:focus{opacity:.7}
+.primary-nav a:focus-visible{outline:3px solid #2ea3f2;outline-offset:2px}
+.primary-nav li{position:relative}
+.primary-nav li ul.sub{display:none;position:absolute;left:0;top:100%;background:#fff;padding:15px 0;margin:0;list-style:none;border-top:3px solid #2ea3f2;box-shadow:0 2px 5px rgba(0,0,0,.1)}
+.primary-nav li:hover>ul.sub{display:block}
+.primary-nav li ul.sub li a{padding:6px 20px;white-space:nowrap}
+.primary-nav li ul.sub li a:hover{background:rgba(0,0,0,.03)}
+#content{padding-top:40px}
+.fullwidth-slider{position:relative;overflow:hidden;min-height:400px}
+.slide{opacity:0;position:absolute;inset:0;display:flex;flex-direction:column;justify-content:center;align-items:center;padding:120px 20px;color:#fff;background:#222;background-size:cover;background-position:center;transition:opacity 1s ease-in-out}
+.slide.active{opacity:1;position:absolute}
+.slide h2 a,.slide h2{color:#fff;text-decoration:none;font-size:46px;font-weight:300;margin:0 0 10px}
+.slide .slide-text{font-size:18px;max-width:800px;margin:0 auto 20px}
+/* Buttons */
+.btn{display:inline-block;border:2px solid #fff;color:#fff;padding:.6em 1.4em;border-radius:3px;text-decoration:none;transition:.2s;font-weight:600;background:transparent}
+.btn:hover,.btn:focus{background:#fff;color:#222;text-decoration:none}
+.subscribe-dark .btn{border-color:#ffcc33;color:#ffcc33}
+.subscribe-dark .btn:hover,.subscribe-dark .btn:focus{background:#ffcc33;color:#222}
+.slider-controls{position:absolute;bottom:15px;right:15px;display:flex;gap:8px;z-index:5}
+.slider-controls button{background:rgba(0,0,0,.5);color:#fff;border:1px solid #fff;padding:6px 12px;font:inherit;cursor:pointer;border-radius:4px;line-height:1}
+.slider-controls .pause::before{content:"❚❚";display:inline-block;font-size:14px}
+.slider-controls .pause[aria-pressed="true"]::before{content:"▶"}
+.slider-controls .pause .visually-hidden{clip:rect(1px,1px,1px,1px);clip-path:inset(50%);height:1px;width:1px;overflow:hidden;position:absolute;white-space:nowrap}
+.slider-controls button:hover,.slider-controls button:focus{background:#fff;color:#222;outline:none}
+.slider-controls button:focus-visible{outline:3px solid #ffcc33;outline-offset:2px}
+.visually-hidden{position:absolute!important;width:1px;height:1px;padding:0;margin:-1px;overflow:hidden;clip:rect(0 0 0 0);white-space:nowrap;border:0}
+.media-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(320px,1fr));gap:40px;align-items:start}
+.divider{height:1px;background:#e2e2e2;margin:60px 0}
+.flex{display:flex;flex-wrap:wrap;gap:40px;align-items:center}
+.flex .col{flex:1 1 300px}
+#site-footer{background:#303030;color:#fff;text-align:center;padding:54px 0 30px;}
+#site-footer p{margin:0}
+/* Spacing between sections */
+section{margin-bottom:80px}
+section:last-of-type{margin-bottom:0}
+/* Utility classes (namespaced with u-) */
+.u-rounded{border-radius:12px}
+.u-img-fluid{max-width:100%;height:auto;display:block}
+.u-items-center{align-items:center}
+.u-mt-60{margin-top:60px}
+.u-maxw-400{max-width:400px}
+
+/* Legacy class support (temporary) */
+.rounded{border-radius:12px}
+.img-fluid{max-width:100%;height:auto;display:block}
+.items-center{align-items:center}
+.mt-60{margin-top:60px}
+.maxw-400{max-width:400px}
+
+/* Subscribe section styling */
+#subscribe{background:#303030;color:#fff;margin:0;width:100%}
+#subscribe .subscribe-inner{width:80%;max-width:1080px;margin:0 auto;padding:60px 0;display:flex;flex-wrap:wrap;gap:40px;align-items:center}
+@media (max-width:900px){#subscribe .subscribe-inner{padding:50px 0}}
+#subscribe .col p{margin-top:0}
+#subscribe a{color:#ffcc33}
+#subscribe a:hover,#subscribe a:focus{text-decoration:none;color:#222;background:#ffcc33}
+#subscribe .img-fluid{border:4px solid #444}
+
+/* Mobile nav */
+.nav-toggle{display:none;background:none;border:none;cursor:pointer;padding:8px}
+.nav-toggle .bar{display:block;width:24px;height:3px;background:#333;margin:4px 0;transition:.3s}
+.primary-nav{display:flex}
+.primary-nav.open{display:flex}
+
+@media (max-width:900px){
+	.primary-nav{position:absolute;top:100%;left:0;right:0;background:#fff;flex-direction:column;align-items:flex-start;padding:10px 30px;display:none;border-bottom:1px solid #eee}
+	.primary-nav.open{display:flex}
+	.primary-nav ul{flex-direction:column;gap:10px;width:100%}
+	.primary-nav a{padding:10px 0}
+	.nav-toggle{display:block}
+	.header-bar{gap:20px}
+}
+
+/* Submenu hover accessible fallback */
+.primary-nav li.has-sub > a:focus + .sub,
+.primary-nav li.has-sub:hover > .sub{display:block}
+.primary-nav li ul.sub[hidden]{display:none!important}
+.primary-nav li ul.sub:not([hidden]){display:block}
+
+/* Hero slide specific backgrounds (ensure all assets used) */
+#hero-slider .slide[data-title="Summit"]{background-image:url('/assets/img/wallhaven-580198.jpeg')}
+#hero-slider .slide[data-title="Newsletter"]{background-image:linear-gradient(rgba(0,0,0,.5),rgba(0,0,0,.5)),url('/assets/img/Screen-Shot-2020-02-02-at-12.24.04-AM.png')}
+#hero-slider .slide[data-title="Podcast"]{background-image:linear-gradient(rgba(0,0,0,.4),rgba(0,0,0,.4)),url('/assets/img/Nvidia-Drive-PX-2-shown-in-action1.jpeg')}
+#hero-slider .slide[data-title="Join Us"]{background-image:linear-gradient(rgba(0,0,0,.55),rgba(0,0,0,.55)),url('/assets/img/Screen-Shot-2020-04-04-at-2.45.49-PM.png')}
+
+/* Improve contrast on overlay text */
+.slide::after{content:"";position:absolute;inset:0;background:linear-gradient(to bottom,rgba(0,0,0,.4),rgba(0,0,0,.55));z-index:0}
+.slide > *{position:relative;z-index:1}

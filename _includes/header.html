@@ -1,0 +1,46 @@
+<header id="site-header" class="site-header">
+  <div class="container header-bar">
+    <a class="logo" href="{{ '/' | relative_url }}" aria-label="{{ site.title }} home">
+      <img src="{{ '/assets/img/image030-17.png' | relative_url }}" alt="{{ site.title }} logo" />
+    </a>
+    <button class="nav-toggle" aria-expanded="false" aria-controls="primary-menu" aria-label="Toggle navigation">
+      <span class="bar"></span><span class="bar"></span><span class="bar"></span>
+    </button>
+    <nav class="primary-nav" id="primary-menu" role="navigation" aria-label="Primary">
+      <ul>
+  <li><a href="{{ '/' | relative_url }}" {% if page.url == '/' or page.permalink == '/' %}aria-current="page"{% endif %}>Welcome</a></li>
+        <li><a href="https://kornhauser.princeton.edu/newsletter/archive">Newsletter</a></li>
+  <li class="has-sub"><a href="#" class="submenu-toggle" aria-haspopup="true" aria-expanded="false" aria-controls="podcasts-sub">Podcasts</a>
+            <ul class="sub" id="podcasts-sub" aria-label="Podcasts submenu" hidden>
+            <li><a href="https://smartdrivingcar.com/podcast/video">Video</a></li>
+            <li><a href="https://smartdrivingcar.com/podcast/audio">Audio</a></li>
+          </ul>
+        </li>
+        <li><a href="https://smartdrivingcar.com/papers">Papers</a></li>
+      </ul>
+    </nav>
+  </div>
+</header>
+<script>
+// Mobile nav toggle
+(function(){
+  const btn = document.querySelector('.nav-toggle');
+  const menu = document.getElementById('primary-menu');
+    const subToggle = document.querySelector('.submenu-toggle');
+    const submenu = document.getElementById('podcasts-sub');
+  if(!btn||!menu) return;
+  btn.addEventListener('click',()=>{
+    const expanded = btn.getAttribute('aria-expanded')==='true';
+    btn.setAttribute('aria-expanded', String(!expanded));
+    menu.classList.toggle('open');
+  });
+    function closeSub(){ if(submenu && !submenu.hasAttribute('hidden')){ submenu.setAttribute('hidden',''); subToggle.setAttribute('aria-expanded','false'); } }
+    function toggleSub(e){ e.preventDefault(); if(!submenu) return; const open = !submenu.hasAttribute('hidden'); if(open){ submenu.setAttribute('hidden',''); subToggle.setAttribute('aria-expanded','false'); } else { submenu.removeAttribute('hidden'); subToggle.setAttribute('aria-expanded','true'); submenu.querySelector('a')?.focus(); } }
+    if(subToggle && submenu){
+      subToggle.addEventListener('click',toggleSub);
+      subToggle.addEventListener('keydown',e=>{ if(e.key==='Enter' || e.key===' '){ toggleSub(e); } else if(e.key==='ArrowDown' && submenu.hasAttribute('hidden')){ toggleSub(e); } });
+      submenu.addEventListener('keydown',e=>{ if(e.key==='Escape'){ closeSub(); subToggle.focus(); } });
+      document.addEventListener('click',e=>{ if(!submenu.contains(e.target) && !subToggle.contains(e.target)){ closeSub(); } }, true);
+    }
+})();
+</script>
