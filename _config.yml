@@ -1,0 +1,29 @@
+title: SmartDrivingCar
+description: The latest news in mobility and autonomy
+baseurl: ""
+url: "https://smartdrivingcar.github.io"
+permalink: pretty
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+collections:
+  pages:
+    output: true
+  newsletters:
+    output: true
+    permalink: /newsletter/:year/:month/:day/:slug/
+defaults:
+  - scope:
+      path: ""
+      type: "newsletters"
+    values:
+      layout: newsletter
+sass:
+  style: compressed
+exclude:
+  - node_modules
+  - Gemfile*
+  - vendor
+  - scripts
