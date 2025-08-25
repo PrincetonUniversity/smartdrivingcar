@@ -1,25 +1,23 @@
-# SmartDrivingCar (Jekyll)
+# SmartDrivingCar Site
 
-Static refactor of the former WordPress (Divi) landing page for hosting on GitHub Pages.
+Static refactor of the former WordPress (Divi theme) landing page for Prof. Alain Kornhauser's [smartdrivingcar.com](https://smartdrivingcar.com).
 
-## What Was Migrated
+## Migration
 - Global header & navigation recreated in `_includes/header.html`.
 - Footer copyright moved to `_includes/footer.html`.
-- Hero slider content (4 original slides) reproduced with a lightweight CSS/JS slider in `index.html`.
-- Embedded media (Spotify + YouTube playlist) preserved.
-- Key images reused from the original `wp-content/uploads` directory (left in place for now).
+- Hero slider (4 original slides) reproduced with a lightweight CSS/JS slider in `index.html`.
+- Images reused from the original `wp-content/uploads` directory. 
 - Basic brand typography (Open Sans Google Font) and simplified styling (`assets/css/site.css`).
 
-## Project Structure
+## Structure
 ```
 _config.yml        # Jekyll site configuration
 Gemfile            # GitHub Pages gem
 _layouts/default.html
 _includes/header.html
 _includes/footer.html
-assets/css/site.css
+assets/css/site.css # Styling
 index.html         # New Jekyll front page with front matter
-wp-content/        # Legacy WP assets (images, etc.) kept for now
 ```
 
 ## Run Locally
@@ -38,7 +36,6 @@ Build image (only needed when Gem dependencies change):
 ```bash
 docker build -t smartdrivingcar-site .
 ```
-
 Run container, mapping port 4000 and mounting source for live edits:
 
 ```bash
@@ -57,29 +54,16 @@ Gem layer note: Gems are installed in the image (/app) so mounting the project a
 ```
 
 ## Deployment (GitHub Pages)
+
 1. Push repository to GitHub (e.g. `smartdrivingcar/smartdrivingcar.github.io` or any repo with Pages enabled).
 2. If using a project (not user) site, set `url` and `baseurl` in `_config.yml` accordingly.
 3. Enable GitHub Pages with the `GitHub Pages` build (default) using the branch (usually `main`).
 
-## To Do / Next Steps
-- Migrate additional WordPress pages/posts (create markdown files with front matter under root or collections).
-- Replace direct external links (newsletter/podcast/papers) with internal pages if those will also migrate.
-- Optimize images (WebP, resizing) and move only used assets to an `assets/img` folder.
-- Add a proper sitemap (`jekyll-sitemap` plugin) and analytics if needed.
-- Consider accessibility & performance pass (contrast, alt text completeness, defer non-critical JS).
-- Move inline slider script into a separate JS file under `assets/js/` if more scripting is added.
-
-## Slider Notes
-Simple interval-based rotation (7s). No controls yet; add pause/prev/next if user interaction required.
-
-## Removed Legacy Directories
-The previous `wp-content` (and nested uploads) hierarchy has been flattened. After confirming no references remain, the `wp-content` directory may be deleted (it is safe now given images live under `assets/img/`).
-
 ## Newsletter Workflow
 
-The site now supports a `newsletters` collection for the weekly SmartDrivingCars email.
+Site now supports a `newsletters` collection for the weekly SmartDrivingCars email.
 
-### Add a New Issue (Fast Path)
+### Add a New Newsletter Issue 
 1. Save the email as `.eml` (or copy raw HTML to clipboard).
 2. Run the import script:
 	```bash
@@ -93,16 +77,27 @@ The site now supports a `newsletters` collection for the weekly SmartDrivingCars
 ### File Naming & URLs
 `_newsletters/YYYY-MM-DD-slug.md` -> `/newsletter/YYYY/MM/DD/slug/` (configurable in `_config.yml`).
 
-### Editing / Re-importing
-Script refuses to overwrite an existing file. Delete or rename the old file if you need to regenerate.
+## Modes & Makefile
 
-### Conversion Notes
-- Minimal HTML→Markdown: headings, links, lists, paragraphs handled; complex tables or inline styles need manual cleanup.
-- For more advanced conversion you could integrate Pandoc later.
+Three run/build modes:
 
-### Future Enhancements (Optional)
-- Add tagging (front matter `tags:`) and filtered views.
-- Generate an Atom feed for newsletters distinct from main feed.
-- Add full-text search or Algolia integration.
-- Automate email ingestion via a forwarding address + GitHub Action (parse & commit).
+| Mode | Purpose | Config Files | Base URL | Make Serve |
+|------|---------|--------------|----------|------------|
+| Local | Develop at `http://localhost:4000/` | `_config.yml,_config_local.yml` | (empty) | `make serve-local` |
+| Preview | Simulate project site path on org pages | `_config.yml` | `/smartdrivingcar` | `make serve-preview` |
+| Production | Custom domain build (smartdrivingcar.com) | `_config.yml,_config_prod.yml` | (empty) | `make serve-prod` |
 
+Build only:
+```bash
+make build-preview
+make build-prod
+```
+
+Docker (image: `smartdrivingcar-site`):
+```bash
+make docker-local
+make docker-preview
+make docker-prod
+```
+
+The GitHub Action auto-selects production if a `CNAME` file exists; otherwise preview config is used. Use preview mode locally only when you need to replicate the repository path routing.
