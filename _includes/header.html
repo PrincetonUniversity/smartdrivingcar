@@ -9,7 +9,7 @@
     <nav class="primary-nav" id="primary-menu" role="navigation" aria-label="Primary">
       <ul>
   <li><a href="{{ '/' | relative_url }}" {% if page.url == '/' or page.permalink == '/' %}aria-current="page"{% endif %}>Welcome</a></li>
-        <li><a href="https://kornhauser.princeton.edu/newsletter/archive">Newsletter</a></li>
+  <li><a href="{{ '/newsletter/' | relative_url }}">Newsletter</a></li>
   <li class="has-sub"><a href="#" class="submenu-toggle" aria-haspopup="true" aria-expanded="false" aria-controls="podcasts-sub">Podcasts</a>
             <ul class="sub" id="podcasts-sub" aria-label="Podcasts submenu" hidden>
             <li><a href="https://smartdrivingcar.com/podcast/video">Video</a></li>
