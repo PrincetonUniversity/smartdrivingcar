@@ -4,7 +4,7 @@ body{font-family:'Open Sans',Arial,sans-serif;margin:0;color:#666;line-height:1.
 .container{width:80%;max-width:1080px;margin:0 auto}
 header#site-header{background:#fff;border-bottom:1px solid rgba(0,0,0,.1);position:sticky;top:0;z-index:50}
 #site-header .logo img{max-height:70px;width:auto;display:block}
-.header-bar{display:flex;align-items:center;justify-content:space-between;gap:40px}
+.header-bar{display:flex;align-items:center;justify-content:space-between;gap:40px; padding: 1em 0 1em 0;}
 .primary-nav ul{list-style:none;margin:0;padding:0;display:flex;gap:32px;align-items:center}
 .primary-nav a{text-decoration:none;color:rgba(0,0,0,.7);font-weight:600;padding:20px 0;display:block}
 .primary-nav a:hover,.primary-nav a:focus{opacity:.7}
@@ -14,7 +14,7 @@ header#site-header{background:#fff;border-bottom:1px solid rgba(0,0,0,.1);positi
 .primary-nav li:hover>ul.sub{display:block}
 .primary-nav li ul.sub li a{padding:6px 20px;white-space:nowrap}
 .primary-nav li ul.sub li a:hover{background:rgba(0,0,0,.03)}
-#content{padding-top:40px}
+#content{padding-top:0px;}
 .fullwidth-slider{position:relative;overflow:hidden;min-height:400px}
 .slide{opacity:0;position:absolute;inset:0;display:flex;flex-direction:column;justify-content:center;align-items:center;padding:120px 20px;color:#fff;background:#222;background-size:cover;background-position:center;transition:opacity 1s ease-in-out}
 .slide.active{opacity:1;position:absolute}
