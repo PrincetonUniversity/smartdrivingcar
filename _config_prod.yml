@@ -1,3 +1,5 @@
-# Production custom domain overrides
+# (Optional) Production overrides
+# Base config already reflects production (url + empty baseurl).
+# You can delete this file if unused; kept for symmetry with preview/local.
 url: "https://smartdrivingcar.com"
 baseurl: ""

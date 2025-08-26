@@ -1,7 +1,8 @@
 title: SmartDrivingCar
 description: The latest news in mobility and autonomy
-baseurl: "/smartdrivingcar" # repo name for organization project site
-url: "https://princetonuniversity.github.io" # org GitHub Pages root
+# Base (production/local) config keeps baseurl empty so links are root-relative under custom domain or local dev.
+baseurl: "" # empty for prod & local
+url: "https://smartdrivingcar.com" # production custom domain (overridden in preview & local as needed)
 permalink: pretty
 theme: minima
 plugins:

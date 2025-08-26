@@ -1,4 +1,4 @@
-name: Build & Deploy (Dual Config)
+name: Build & Deploy (Prod default / Preview override)
 
 on:
   push:
@@ -20,7 +20,6 @@ jobs:
 
       - name: Install Gems
         run: bundle install --path vendor/bundle
-
       - name: Determine build mode
         id: mode
         run: |
@@ -37,7 +36,7 @@ jobs:
           if [ "${{ steps.mode.outputs.mode }}" = "prod" ]; then
             bundle exec jekyll build --config _config.yml,_config_prod.yml
           else
-            bundle exec jekyll build --config _config.yml
+            bundle exec jekyll build --config _config.yml,_config_preview.yml
           fi
         env:
           JEKYLL_ENV: production
