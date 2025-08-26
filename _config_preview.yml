@@ -1,0 +1,4 @@
+# Preview (organization project site) overrides
+# Use this when building for https://princetonuniversity.github.io/smartdrivingcar
+url: "https://princetonuniversity.github.io"
+baseurl: "/smartdrivingcar"
