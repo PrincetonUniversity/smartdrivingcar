@@ -41,6 +41,14 @@ jobs:
         env:
           JEKYLL_ENV: production
 
+      - name: Debug built index (check for preview prefix)
+        run: |
+          if grep -q '/smartdrivingcar/assets/css/site.css' _site/index.html; then
+            echo 'Detected preview prefix in built index.html (unexpected for prod).'
+          else
+            echo 'No preview prefix present in built index.html.'
+          fi
+
       - name: Link check (internal only)
         uses: lycheeverse/lychee-action@v1
         with:
