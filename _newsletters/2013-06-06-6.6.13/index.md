@@ -7,57 +7,16 @@ permalink: /2013-06-06-6.6.13/
 
 [Policy on Automated Vehicle Development](http://www.nhtsa.gov/About+NHTSA/Press+Releases/U.S.+Department+of+Transportation+Releases+Policy+on+Automated+Vehicle+Development)
 
-It is certainly nice that US Secretary of Transportation's Ray LaHood stated: "Whether we're talking about automated
-features in cars today or fully automated vehicles of the
-future, our top priority is to ensure these vehicles – and their
-occupants – are safe"  The
-key will be the actual definition of "safe" that is adopted.
-Nothing is perfectly safe and certainly the existing surface
-transportation systems are far from safe.  Mechanically, it does just
-fine.  It is the frailty of the human operator that burdens the
-system with safety defects that would otherwise be unacceptable
-were it not for the phenomenal mobility that the system
-delivers.  Hopefully, the
-Federal policy will allow and encourage the progressive
-replacement of the weak link by technologies that are better and
-more reliable even if they are not perfect.  Systems that allow the
-marketplace to offer them as either enhancements to our own
-capabilities or as replacements of our capabilities in places
-and at times when we have chosen to accept the responsibility
-that the automated system will do a better job.  We've already begun to do
-this by purchasing cars with anti-lock brakes (we explicitly
-allow the automated system apply the proper brake function so as
-to do a better job of slowing down than we would have done),
-deploy airbags automatically during a crash (we are simply not
-good at doing that task when it needs to be done) to name a
-couple.  Similarly if we
-are about to crash, the automated system should take over and
-not require us to "remain vigilant". If we've been clueless
-about what to do up to that point, then we should remain
-clueless and let the system do its thing.  Of course the system should
-not lull us into a sense of false security; however, it should
-also not shackle us to duplicate a task at which we are inferior
-and redundant.  Tasks
-such as lane keeping, car following and emergency braking.  So in many if not most
-driving situations, we'd be no less safe if we were texting,
-enjoying the scenery or engrossed in a telephone conversation.  Using the "carrot" approach
-of encouraging the automobile industry to offer such
-technologies in their vehicles that unshackle the driver from
-the constant stain of driving will do more to improve safety
-than the "stick" approaches of minimally enforceable
-anti-distraction legislation and the mandating of easily
-disabled anti-communication gizmos.
+It is certainly nice that US Secretary of Transportation's Ray LaHood stated: "Whether we're talking about automated features in cars today or fully automated vehicles of the future, our top priority is to ensure these vehicles – and their occupants – are safe"  The key will be the actual definition of "safe" that is adopted.
 
-This recent statement from US Secretary of Transportation's Ray LaHood is encouraging:
-"Whether we're talking about automated features in cars today or
-fully automated vehicles of the future, our top priority is to
-ensure these vehicles – and their occupants – are safe"  The key
-will be the actual definition of "safe" that is adopted. Nothing
-is perfectly safe, and as we all know the existing surface transportation systems is far from safe.  Mechanically, it does just fine.  The safety issues flow from human frailty, and we would not accept the safety shortcomings were it not for the phenomenal mobility that our system delivers.  Hopefully, the Federal policy will allow and encourage the substitution of smart driving technologies that are better and more reliable even if they are not perfect.   We will all be safer with policies that allow the marketplace to offer these technologies  to enhance  our own capabilities or to replace them in places and at times when we have chosen to accept the responsibility.  Consumers have already begun to recognize this  by purchasing cars with anti-lock brakes (we allow the automated system to apply the proper brake function so as to do a better job of slowing down than we would
-have done) and by accepting airbags that deploy automatically in  a crash (we are simply not good at doing that task when it needs to be done).  Similarly, if we are about to crash,  a smart  automated system should take over and not require us to "remain vigilant" or to handle a situation that can be better handled by a system that is dedicated to the task.
+Nothing is perfectly safe and certainly the existing surface transportation systems are far from safe.  Mechanically, it does just fine.  It is the frailty of the human operator that burdens the system with safety defects that would otherwise be unacceptable were it not for the phenomenal mobility that the system delivers.  Hopefully, the Federal policy will allow and encourage the progressive replacement of the weak link by technologies that are better and more reliable even if they are not perfect.  Systems that allow the marketplace to offer them as either enhancements to our own capabilities or as replacements of our capabilities in places and at times when we have chosen to accept the responsibility that the automated system will do a better job.  We've already begun to do this by purchasing cars with anti-lock brakes (we explicitly allow the automated system apply the proper brake function so as to do a better job of slowing down than we would have done), deploy airbags automatically during a crash (we are simply not good at doing that task when it needs to be done) to name a couple.
 
-With dedicated automated technologies that can handle lane keeping, car
-following, and emergence response we would,  in many if not most driving situations, be more safe than we are now when we break the rules and use our phones or become distracted by the scenery.   Policy makers should use   the "carrot" approach of encouraging the automobile industry to offer automated technologies that unshackle the driver from the routinized tasks of driving.  Carrots will do more to improve safety than the current "sticks" of minimally enforceable anti-distraction laws and mandates for anti-communication gizmos that are easily disabled.
+Similarly if we are about to crash, the automated system should take over and not require us to "remain vigilant". If we've been clueless about what to do up to that point, then we should remain clueless and let the system do its thing.  Of course the system should not lull us into a sense of false security; however, it should also not shackle us to duplicate a task at which we are inferior and redundant.  Tasks such as lane keeping, car following and emergency braking.  So in many if not most driving situations, we'd be no less safe if we were texting, enjoying the scenery or engrossed in a telephone conversation.  Using the "carrot" approach of encouraging the automobile industry to offer such technologies in their vehicles that unshackle the driver from the constant stain of driving will do more to improve safety than the "stick" approaches of minimally enforceable anti-distraction legislation and the mandating of easily  disabled anti-communication gizmos.
+
+This recent statement from US Secretary of Transportation's Ray LaHood is encouraging: "Whether we're talking about automated features in cars today
+fully automated vehicles of the future, our top priority is toensure these vehicles – and their occupants – are safe"  The keywill be the actual definition of "safe" that is adopted. Nothingis perfectly safe, and as we all know the existing surface transportation systems is far from safe.  Mechanically, it does just fine.  The safety issues flow from human frailty, and we would not accept the safety shortcomings were it not for the phenomenal mobility that our system delivers.  Hopefully, the Federal policy will allow and encourage the substitution of smart driving technologies that are better and more reliable even if they are not perfect.   We will all be safer with policies that allow the marketplace to offer these technologies  to enhance  our own capabilities or to replace them in places and at times when we have chosen to accept the responsibility.  Consumers have already begun to recognize this  by purchasing cars with anti-lock brakes (we allow the automated system to apply the proper brake function so as to do a better job of slowing down than we would have done) and by accepting airbags that deploy automatically in  a crash (we are simply not good at doing that task when it needs to be done).  Similarly, if we are about to crash,  a smart  automated system should take over and not require us to "remain vigilant" or to handle a situation that can be better handled by a system that is dedicated to the task.
+
+With dedicated automated technologies that can handle lane keeping, car following, and emergence response we would,  in many if not most driving situations, be more safe than we are now when we break the rules and use our phones or become distracted by the scenery.   Policy makers should use   the "carrot" approach of encouraging the automobile industry to offer automated technologies that unshackle the driver from the routinized tasks of driving.  Carrots will do more to improve safety than the current "sticks" of minimally enforceable anti-distraction laws and mandates for anti-communication gizmos that are easily disabled.
 
 [NHTSA Preliminary Statement of Policy Re: Automated Vehicles](https://web.archive.org/web/20130712031109/https://www.nhtsa.gov/About+NHTSA/Press+Releases/U.S.+Department+of+Transportation+Releases+Policy+on+Automated+Vehicle+Development) details of this preliminary policy.  I highly recommend that you read it.  My interpretation is as follows:
 
