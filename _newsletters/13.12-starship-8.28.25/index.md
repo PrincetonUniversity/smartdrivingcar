@@ -1,10 +1,12 @@
 ---
 layout: newsletter
-title: 13.12 - Starship 
+title: 13.12 - Starship
 date: Thursday, Aug. 28, 2025
+permalink: /13.12-starship-8.28.25/
 ---
 
-# 12th edition of the 13th year of SmartDrivingCars eLetter
+12h
+edition of the 13th year of SmartDrivingCars eLetter
 
 [SpaceX
  Starship Flight 10 Reality Check: All Secrets Revealed!](https://www.youtube.com/watch?v=ODEc4PeO9KY)
@@ -154,3 +156,9 @@ HandyRides
 
 A. Kornhauser, Aug. 28, Building our Book of Business (BoB).  Soft Launch 9/8/25.
  Hmmmm…  OK!  Alain
+
+***************************************************************************************************************
+
+This list is maintained by [Alain Kornhauser](mailto:alaink@princeton.edu) and hosted by the [Princeton University LISTSERV](http://lists.princeton.edu).
+
+[Unsubscribe](&*TICKET_URL(SMARTDRIVINGCARS,SIGNOFF);) | [Re-subscribe](&*TICKET_URL(SMARTDRIVINGCARS,SIGNUP);)

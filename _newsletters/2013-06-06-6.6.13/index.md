@@ -1,0 +1,82 @@
+---
+layout: newsletter
+title: 2013-06-06
+date: 2013-06-06
+permalink: /2013-06-06-6.6.13/
+---
+
+[Policy on Automated Vehicle Development](http://www.nhtsa.gov/About+NHTSA/Press+Releases/U.S.+Department+of+Transportation+Releases+Policy+on+Automated+Vehicle+Development)
+
+It is certainly nice that US Secretary of Transportation's Ray LaHood stated: "Whether we're talking about automated
+features in cars today or fully automated vehicles of the
+future, our top priority is to ensure these vehicles – and their
+occupants – are safe"  The
+key will be the actual definition of "safe" that is adopted.
+Nothing is perfectly safe and certainly the existing surface
+transportation systems are far from safe.  Mechanically, it does just
+fine.  It is the frailty of the human operator that burdens the
+system with safety defects that would otherwise be unacceptable
+were it not for the phenomenal mobility that the system
+delivers.  Hopefully, the
+Federal policy will allow and encourage the progressive
+replacement of the weak link by technologies that are better and
+more reliable even if they are not perfect.  Systems that allow the
+marketplace to offer them as either enhancements to our own
+capabilities or as replacements of our capabilities in places
+and at times when we have chosen to accept the responsibility
+that the automated system will do a better job.  We've already begun to do
+this by purchasing cars with anti-lock brakes (we explicitly
+allow the automated system apply the proper brake function so as
+to do a better job of slowing down than we would have done),
+deploy airbags automatically during a crash (we are simply not
+good at doing that task when it needs to be done) to name a
+couple.  Similarly if we
+are about to crash, the automated system should take over and
+not require us to "remain vigilant". If we've been clueless
+about what to do up to that point, then we should remain
+clueless and let the system do its thing.  Of course the system should
+not lull us into a sense of false security; however, it should
+also not shackle us to duplicate a task at which we are inferior
+and redundant.  Tasks
+such as lane keeping, car following and emergency braking.  So in many if not most
+driving situations, we'd be no less safe if we were texting,
+enjoying the scenery or engrossed in a telephone conversation.  Using the "carrot" approach
+of encouraging the automobile industry to offer such
+technologies in their vehicles that unshackle the driver from
+the constant stain of driving will do more to improve safety
+than the "stick" approaches of minimally enforceable
+anti-distraction legislation and the mandating of easily
+disabled anti-communication gizmos.
+
+This recent statement from US Secretary of Transportation's Ray LaHood is encouraging:
+"Whether we're talking about automated features in cars today or
+fully automated vehicles of the future, our top priority is to
+ensure these vehicles – and their occupants – are safe"  The key
+will be the actual definition of "safe" that is adopted. Nothing
+is perfectly safe, and as we all know the existing surface transportation systems is far from safe.  Mechanically, it does just fine.  The safety issues flow from human frailty, and we would not accept the safety shortcomings were it not for the phenomenal mobility that our system delivers.  Hopefully, the Federal policy will allow and encourage the substitution of smart driving technologies that are better and more reliable even if they are not perfect.   We will all be safer with policies that allow the marketplace to offer these technologies  to enhance  our own capabilities or to replace them in places and at times when we have chosen to accept the responsibility.  Consumers have already begun to recognize this  by purchasing cars with anti-lock brakes (we allow the automated system to apply the proper brake function so as to do a better job of slowing down than we would
+have done) and by accepting airbags that deploy automatically in  a crash (we are simply not good at doing that task when it needs to be done).  Similarly, if we are about to crash,  a smart  automated system should take over and not require us to "remain vigilant" or to handle a situation that can be better handled by a system that is dedicated to the task.
+
+With dedicated automated technologies that can handle lane keeping, car
+following, and emergence response we would,  in many if not most driving situations, be more safe than we are now when we break the rules and use our phones or become distracted by the scenery.   Policy makers should use   the "carrot" approach of encouraging the automobile industry to offer automated technologies that unshackle the driver from the routinized tasks of driving.  Carrots will do more to improve safety than the current "sticks" of minimally enforceable anti-distraction laws and mandates for anti-communication gizmos that are easily disabled.
+
+[NHTSA Preliminary Statement of Policy Re: Automated Vehicles](https://web.archive.org/web/20130712031109/https://www.nhtsa.gov/About+NHTSA/Press+Releases/U.S.+Department+of+Transportation+Releases+Policy+on+Automated+Vehicle+Development) details of this preliminary policy.  I highly recommend that you read it.  My interpretation is as follows:
+
+1.   This is NHTSA's first effort to play catch-up in what it has finally recognized as a crash avoidance oversight responsibility.  This is a major extension of its traditional focus on crash mitigation.  Up to now, for crash avoidance, NHTSA has largely concentrated on modifying driver behavior rather than on the testing and certification of technologies that compensate for human frailties.  The notable exceptions are anti-lock brakes and active vehicle stability control.  Some in the automobile industry as well as others such as Google are far ahead of NHTSA in the development of technologies that override driver actions or inactions that would otherwise have resulted in a crash.
+
+[I have 6 more points ...](https://kornhauser.princeton.edu/sites/g/files/toruqf5876/files/documents/CommentOnNHTSA_PrelimStatement.pdf)
+
+[Self-Driving Cars for Testing Are Supported by U.S.](http://www.nytimes.com/2013/05/31/technology/self-driving-cars-for-testing-are-supported-by-us.html?ref=business)
+
+The Transportation Department said that [driverless cars should not yet be allowed, except for testing](http://www.nytimes.com/2013/05/31/technology/self-driving-cars-for-testing-are-supported-by-us.html?ref=business), but noted that some safety features could save lives. 
+
+[Early Estimate of Motor Vehicle Traffic Fatalities in 2012](https://kornhauser.princeton.edu/document/71)
+
+A pretty picture.  Early estimates show a 5.3% increase in fatalities over '11 to 34,080 due to a very large YoY increase in Q1 (12.6%) and a an extremely large increase of greater than 15% in the Northeast region.  While some of this may be attributable to increased VMT, Fatalities per VMT also increased.  
+
+The only silver lining may be that these are "estimates" not counts. In the last paragraph there is the following sentence:  "The methodol­ogy used to generate the estimates for 2012 is the same as the one used by NHTSA to project the decline in the fatalities for the whole of 2011" and that methodology is: " … time series cross-section regression was applied to ana-lyze the data with both cross-sectional values (by NHTSA region) and time series (by month), to model the relationship among FARS, MFC and FF…" (Yipes!).  I find this very strange.  One would think that "NHTSA's Fatality Analysis Reporting System (FARS), Fast­FARS (FF), and Monthly Fatality Counts (MFC)" would be good enough such that one could simply count the fatalities defined as occurring in vehicle traveling on "a trafficway and must result in the death of at least one person (occupant of a vehicle or a non-occu­pant) within 30 days of the crash".  So why are "estimates from models" being reported rather than simply facts from counts?  One has confidence that NHTSA can count; one doesn't necessarily have confidence in NHTSA's models. My question is: what are the counts of fatalities for 2011 and 2012?
+
+Update on PRT: [Heathrow  pod Celebrates its 2nd Anniversary:](http://www.ultraglobalprt.com/2ndanniversary/)
+
+Back on May 8th the Heathrow PRT system between the Business Carpark and Terminal 5 celebrated its 2nd year of operation in which it has logged more than a million vehicle miles of completely safe autonomous passenger service (what NHTSA would term as "Level 4 Full Self-Driving Automation"; of course, the [Morgantown PRT](http://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=18&ved=0CFIQFjAHOAo&url=http%3A%2F%2Fwww.docstoc.com%2Fdocs%2F132126930%2FMorgantown-Personal-Rapid-Transit-%28M-PRT%29&ei=quurUdSAHIXG4APKpoCYCA&usg=AFQjCNG8iNdkf3InV9PbMrkNQo4gccxE4A&bvm=bv.47244034,d.dmg&cad=rja) system has logged more than 25 million vehicles mile since its introduction in 1975, all without any accidents causing serious injury).  
+
+Heathrow Airport Limited's business plan for the next five years ([April 2014-2019, also known as Q6](https://kornhauser.princeton.edu/document/76)) includes an additional Personal Rapid Transit (PRT) system. The proposed system which will run from Terminals 2 & 3 out to the terminal's own particular business car parks will aid Heathrow Airport Limited in its vision to create a far simpler Central Terminal Area for passengers.  Also, the [Amritsar India PRT](http://www.ultraglobalprt.com/wheres-it-used/amritsar-india/) remains on the "Project Pipeline" of the [Punjab Infrastructure Development Board](http://pidb.winwinhosting.net/Content.aspx?ID=ph9YTJHIYcI=) but has not moved to it "Projects Started" category on Board's website.  At least it is still in the "pipeline".

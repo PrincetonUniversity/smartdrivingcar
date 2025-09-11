@@ -17,7 +17,8 @@ RE_HTML_TAG = re.compile(r'<[^>]+>')
 
 def slugify(text: str) -> str:
     text = unicodedata.normalize('NFKD', text).encode('ascii', 'ignore').decode('ascii')
-    text = re.sub(r'[^a-zA-Z0-9]+', '-', text).strip('-').lower()
+    # Preserve dots, replace other non-alphanum (except dot) with dash
+    text = re.sub(r'[^a-zA-Z0-9.]+', '-', text).strip('-').lower()
     return text or 'issue'
 
 
@@ -97,8 +98,9 @@ def remove_first_date_and_link(html, date_str):
 def remove_sdc_line(text):
     lines = text.splitlines()
     new_lines = []
-    for i, line in enumerate(lines):
-        if i < 10 and re.match(r'^\s*smartdrivingcar\.com', line, re.IGNORECASE):
+    for line in lines:
+        # Remove any line that links to smartdrivingcar.com (markdown or HTML)
+        if re.search(r'(\[.*?\]\(https?://smartdrivingcar\.com.*?\))|(<a[^>]*href=["\']https?://smartdrivingcar\.com.*?>.*?</a>)|smartdrivingcar\.com', line, re.IGNORECASE):
             continue
         new_lines.append(line)
     return '\n'.join(new_lines)
@@ -168,16 +170,24 @@ def main():
     md = add_margins_to_markdown(md)
 
     slug = slugify(title_for_yaml)
+
     # Extract month, day, year from date_for_yaml
     # Try to match "Aug. 14, 2025" or similar
+    month_map = {
+        'january': '1', 'february': '2', 'march': '3', 'april': '4', 'may': '5', 'june': '6',
+        'july': '7', 'august': '8', 'september': '9', 'october': '10', 'november': '11', 'december': '12',
+        'jan': '1', 'feb': '2', 'mar': '3', 'apr': '4', 'may': '5', 'jun': '6',
+        'jul': '7', 'aug': '8', 'sep': '9', 'oct': '10', 'nov': '11', 'dec': '12',
+        'jan.': '1', 'feb.': '2', 'mar.': '3', 'apr.': '4', 'may.': '5', 'jun.': '6',
+        'jul.': '7', 'aug.': '8', 'sep.': '9', 'oct.': '10', 'nov.': '11', 'dec.': '12',
+    }
     date_match = re.search(r'([A-Za-z]+)\.\s*(\d{1,2}),\s*(\d{4})', date_for_yaml)
     if date_match:
-        month = date_match.group(1).lower()
+        month_str = date_match.group(1).lower()
+        month_num = month_map.get(month_str, month_str)
         day = date_match.group(2)
         year = date_match.group(3)[-2:] # last two digits
-        date_url = f"{day}.{year}"
-        month_url = month
-        url_date = f"{month_url}.{day}.{year}"
+        url_date = f"{month_num}.{day}.{year}"
     else:
         # fallback to ISO
         try:
@@ -186,12 +196,14 @@ def main():
         except Exception:
             url_date = "unknown"
 
-    permalink = f"/{slug}-{url_date}"
+    # For permalink, use dots in the date portion (e.g., /title-8.14.25/)
+    permalink_dir = f"{slug}-{url_date.replace('-', '.')}"
+    permalink = f"/{permalink_dir}/"
 
-    filename = f"_newsletters/{date_for_yaml}-{slug}.md"
-    if os.path.exists(filename):
-        print(f"Refusing to overwrite existing file: {filename}", file=sys.stderr)
-        sys.exit(1)
+    # Create directory for newsletter edition
+    newsletter_dir = os.path.join("_newsletters", permalink_dir)
+    os.makedirs(newsletter_dir, exist_ok=True)
+    filename = os.path.join(newsletter_dir, "index.md")
 
     front_matter = f"---\nlayout: newsletter\ntitle: {title_for_yaml}\ndate: {date_for_yaml}\npermalink: {permalink}\n---\n\n"
     with open(filename, 'w', encoding='utf-8') as f:
