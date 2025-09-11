@@ -168,16 +168,32 @@ def main():
     md = add_margins_to_markdown(md)
 
     slug = slugify(title_for_yaml)
+    # Extract month, day, year from date_for_yaml
+    # Try to match "Aug. 14, 2025" or similar
+    date_match = re.search(r'([A-Za-z]+)\.\s*(\d{1,2}),\s*(\d{4})', date_for_yaml)
+    if date_match:
+        month = date_match.group(1).lower()
+        day = date_match.group(2)
+        year = date_match.group(3)[-2:] # last two digits
+        date_url = f"{day}.{year}"
+        month_url = month
+        url_date = f"{month_url}.{day}.{year}"
+    else:
+        # fallback to ISO
+        try:
+            dt = datetime.datetime.strptime(date_for_yaml, "%Y-%m-%d")
+            url_date = f"{dt.month}.{dt.day}.{str(dt.year)[-2:]}"
+        except Exception:
+            url_date = "unknown"
+
+    permalink = f"/{slug}-{url_date}"
+
     filename = f"_newsletters/{date_for_yaml}-{slug}.md"
     if os.path.exists(filename):
         print(f"Refusing to overwrite existing file: {filename}", file=sys.stderr)
         sys.exit(1)
 
-    front_matter = f"---\nlayout: newsletter\ntitle: {title_for_yaml}\ndate: {date_for_yaml}\n---\n\n"
-    with open(filename, 'w', encoding='utf-8') as f:
-        f.write(front_matter + md)
-    print(f"Created {filename}")
-    front_matter = f"---\nlayout: newsletter\ntitle: {args.title}\ndate: {date_for_yaml}\n---\n\n"
+    front_matter = f"---\nlayout: newsletter\ntitle: {title_for_yaml}\ndate: {date_for_yaml}\npermalink: {permalink}\n---\n\n"
     with open(filename, 'w', encoding='utf-8') as f:
         f.write(front_matter + md)
     print(f"Created {filename}")
