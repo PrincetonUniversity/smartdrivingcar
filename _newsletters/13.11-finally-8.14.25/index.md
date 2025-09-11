@@ -1,7 +1,8 @@
 ---
 layout: newsletter
-title: 13.11 - Finally 
+title: 13.11 - Finally
 date: Thursday, Aug. 14, 2025
+permalink: /13.11-finally-8.14.25/
 ---
 
 # 11th edition of the 13th year of SmartDrivingCars eLetter
@@ -203,3 +204,9 @@ HandyRides
 
 A. Kornhauser, Aug. 14, Signing Service Agreements.  We now have our 4 anchor clients.
  Hmmmm…  OK!  Alain
+
+***************************************************************************************************************
+
+This list is maintained by [Alain Kornhauser](mailto:alaink@princeton.edu) and hosted by the [Princeton University LISTSERV](http://lists.princeton.edu).
+
+[Unsubscribe](&*TICKET_URL(SMARTDRIVINGCARS,SIGNOFF);) | [Re-subscribe](&*TICKET_URL(SMARTDRIVINGCARS,SIGNUP);)
