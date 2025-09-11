@@ -7,6 +7,7 @@ Extracts simple HTML -> Markdown (very naive) and writes to _newsletters/YYYY-MM
 Dependencies: only Python stdlib.
 """
 import argparse, re, sys, os, datetime, email, unicodedata
+from importlib.util import spec_from_file_location, module_from_spec
 from email import policy
 from email.parser import BytesParser
 
@@ -65,20 +66,57 @@ def extract_body_from_eml(path: str) -> str:
     return ''
 
 
+def extract_first_date(text):
+    # Match formats like "Thursday, Aug. 28, 2025" or similar
+    date_regex = re.compile(r'(?:Monday|Tuesday|Wednesday|Thursday|Friday|Saturday|Sunday),?\s+[A-Z][a-z]+\.\s+\d{1,2},\s+\d{4}', re.IGNORECASE)
+    match = date_regex.search(text)
+    if match:
+        return match.group(0)
+    return None
+
+def remove_first_date_and_link(html, date_str):
+    from bs4 import BeautifulSoup
+    soup = BeautifulSoup(html, 'html.parser')
+    # Remove link from first date occurrence
+    found = False
+    for tag in soup.find_all(string=True):
+        if not found and date_str in tag:
+            parent = tag.parent
+            if parent.name == 'a':
+                # Replace <a> with just the text
+                parent.replace_with(date_str)
+                found = True
+            else:
+                tag.replace_with(tag.replace(date_str, ''))
+                found = True
+    # Remove any remaining date_str
+    html = str(soup)
+    html = html.replace(date_str, '')
+    return html
+
+def remove_sdc_line(text):
+    lines = text.splitlines()
+    new_lines = []
+    for i, line in enumerate(lines):
+        if i < 10 and re.match(r'^\s*smartdrivingcar\.com', line, re.IGNORECASE):
+            continue
+        new_lines.append(line)
+    return '\n'.join(new_lines)
+
+def add_margins_to_markdown(md):
+    # Do not wrap in a div; let layout/CSS handle margins
+    return md.strip() + '\n'
+
 def main():
     ap = argparse.ArgumentParser()
-    ap.add_argument('--date', help='Issue date (YYYY-MM-DD). Default: today', default=datetime.date.today().isoformat())
-    ap.add_argument('--title', required=True, help='Issue title (without date)')
+    ap.add_argument('--date', help='Issue date (YYYY-MM-DD). If omitted, extracted from source or today.')
+    ap.add_argument('--title', help='Issue title (without date). If omitted, uses date.')
     ap.add_argument('--input', help='Path to .eml or .html or .txt file; else stdin')
     ap.add_argument('--raw-html', action='store_true', help='Treat input as raw HTML even if looks like plain text')
+    ap.add_argument('--htmlsrc', action='store_true', help='Clean HTML input using newsletter cleaning logic')
     args = ap.parse_args()
 
     date = args.date
-    try:
-        datetime.date.fromisoformat(date)
-    except ValueError:
-        ap.error('Invalid --date format, expected YYYY-MM-DD')
-
     if args.input:
         ext = os.path.splitext(args.input)[1].lower()
         if ext == '.eml':
@@ -89,19 +127,57 @@ def main():
     else:
         raw = sys.stdin.read()
 
+    # Extract first date from source
+    first_date = extract_first_date(raw)
+
+    # Set date value
+    if args.date:
+        date_for_yaml = args.date
+    elif first_date:
+        date_for_yaml = first_date
+    else:
+        date_for_yaml = datetime.date.today().isoformat()
+
+    # Set title value
+    if args.title:
+        title_for_yaml = args.title
+    else:
+        title_for_yaml = date_for_yaml
+
+    # Remove first date and link if present
+    if first_date:
+        raw = remove_first_date_and_link(raw, first_date)
+
+    # Remove SmartDrivingCar.com line from first 10 lines
+    raw = remove_sdc_line(raw)
+
+    # If --htmlsrc is set, clean HTML using clean_newsletter.py
+    if args.htmlsrc:
+        clean_path = os.path.join(os.path.dirname(__file__), 'clean_newsletter.py')
+        spec = spec_from_file_location('clean_newsletter', clean_path)
+        clean_mod = module_from_spec(spec)
+        spec.loader.exec_module(clean_mod)
+        raw = clean_mod.clean_newsletter_html(raw)
+
     if not args.raw_html and '<html' not in raw.lower() and '<p' not in raw.lower():
-        # Assume plain text already roughly Markdown
         md = raw.strip() + '\n'
     else:
         md = html_to_markdown(raw)
 
-    slug = slugify(args.title)
-    filename = f"_newsletters/{date}-{slug}.md"
+    # Add left/right margins for readability
+    md = add_margins_to_markdown(md)
+
+    slug = slugify(title_for_yaml)
+    filename = f"_newsletters/{date_for_yaml}-{slug}.md"
     if os.path.exists(filename):
         print(f"Refusing to overwrite existing file: {filename}", file=sys.stderr)
         sys.exit(1)
 
-    front_matter = f"---\nlayout: newsletter\ntitle: {args.title}\ndate: {date}\n---\n\n"
+    front_matter = f"---\nlayout: newsletter\ntitle: {title_for_yaml}\ndate: {date_for_yaml}\n---\n\n"
+    with open(filename, 'w', encoding='utf-8') as f:
+        f.write(front_matter + md)
+    print(f"Created {filename}")
+    front_matter = f"---\nlayout: newsletter\ntitle: {args.title}\ndate: {date_for_yaml}\n---\n\n"
     with open(filename, 'w', encoding='utf-8') as f:
         f.write(front_matter + md)
     print(f"Created {filename}")
