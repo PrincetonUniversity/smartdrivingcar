@@ -1,15 +1,10 @@
 ---
 layout: newsletter
-title: Thursday, Aug. 28, 2025 
-date: 2025-08-28
+title: 13.12 - Starship 
+date: Thursday, Aug. 28, 2025
 ---
 
-[Thursday, Aug. 28, 2025](https://smartdrivingcar.com/13.12-StarShip10-8.28.25)
-
-[SmartDrivingCar.com/13.12-StarShip10-8.28.25](https://smartdrivingcar.com/13.12-StarShip10-8.28.25)
-
-12h
-edition of the 13th year of SmartDrivingCars eLetter
+# 12th edition of the 13th year of SmartDrivingCars eLetter
 
 [SpaceX
  Starship Flight 10 Reality Check: All Secrets Revealed!](https://www.youtube.com/watch?v=ODEc4PeO9KY)
