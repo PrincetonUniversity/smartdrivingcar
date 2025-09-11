@@ -110,8 +110,8 @@ def add_margins_to_markdown(md):
 
 def main():
     ap = argparse.ArgumentParser()
-    ap.add_argument('--date', help='Issue date (YYYY-MM-DD). Default: today', default=datetime.date.today().isoformat())
-    ap.add_argument('--title', required=True, help='Issue title (without date)')
+    ap.add_argument('--date', help='Issue date (YYYY-MM-DD). If omitted, extracted from source or today.')
+    ap.add_argument('--title', help='Issue title (without date). If omitted, uses date.')
     ap.add_argument('--input', help='Path to .eml or .html or .txt file; else stdin')
     ap.add_argument('--raw-html', action='store_true', help='Treat input as raw HTML even if looks like plain text')
     ap.add_argument('--htmlsrc', action='store_true', help='Clean HTML input using newsletter cleaning logic')
@@ -120,10 +120,6 @@ def main():
     date = args.date
     try:
         datetime.date.fromisoformat(date)
-    except ValueError:
-        ap.error('Invalid --date format, expected YYYY-MM-DD')
-
-
     if args.input:
         ext = os.path.splitext(args.input)[1].lower()
         if ext == '.eml':
@@ -136,9 +132,20 @@ def main():
 
     # Extract first date from source
     first_date = extract_first_date(raw)
-    date_for_yaml = args.date
-    if first_date:
+
+    # Set date value
+    if args.date:
+        date_for_yaml = args.date
+    elif first_date:
         date_for_yaml = first_date
+    else:
+        date_for_yaml = datetime.date.today().isoformat()
+
+    # Set title value
+    if args.title:
+        title_for_yaml = args.title
+    else:
+        title_for_yaml = date_for_yaml
 
     # Remove first date and link if present
     if first_date:
@@ -163,12 +170,16 @@ def main():
     # Add left/right margins for readability
     md = add_margins_to_markdown(md)
 
-    slug = slugify(args.title)
-    filename = f"_newsletters/{date}-{slug}.md"
+    slug = slugify(title_for_yaml)
+    filename = f"_newsletters/{date_for_yaml}-{slug}.md"
     if os.path.exists(filename):
         print(f"Refusing to overwrite existing file: {filename}", file=sys.stderr)
         sys.exit(1)
 
+    front_matter = f"---\nlayout: newsletter\ntitle: {title_for_yaml}\ndate: {date_for_yaml}\n---\n\n"
+    with open(filename, 'w', encoding='utf-8') as f:
+        f.write(front_matter + md)
+    print(f"Created {filename}")
     front_matter = f"---\nlayout: newsletter\ntitle: {args.title}\ndate: {date_for_yaml}\n---\n\n"
     with open(filename, 'w', encoding='utf-8') as f:
         f.write(front_matter + md)
