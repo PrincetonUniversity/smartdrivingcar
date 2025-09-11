@@ -7,6 +7,7 @@ Extracts simple HTML -> Markdown (very naive) and writes to _newsletters/YYYY-MM
 Dependencies: only Python stdlib.
 """
 import argparse, re, sys, os, datetime, email, unicodedata
+from importlib.util import spec_from_file_location, module_from_spec
 from email import policy
 from email.parser import BytesParser
 
@@ -71,6 +72,7 @@ def main():
     ap.add_argument('--title', required=True, help='Issue title (without date)')
     ap.add_argument('--input', help='Path to .eml or .html or .txt file; else stdin')
     ap.add_argument('--raw-html', action='store_true', help='Treat input as raw HTML even if looks like plain text')
+    ap.add_argument('--htmlsrc', action='store_true', help='Clean HTML input using newsletter cleaning logic')
     args = ap.parse_args()
 
     date = args.date
@@ -78,6 +80,7 @@ def main():
         datetime.date.fromisoformat(date)
     except ValueError:
         ap.error('Invalid --date format, expected YYYY-MM-DD')
+
 
     if args.input:
         ext = os.path.splitext(args.input)[1].lower()
@@ -88,6 +91,15 @@ def main():
                 raw = f.read()
     else:
         raw = sys.stdin.read()
+
+    # If --htmlsrc is set, clean HTML using clean_newsletter.py
+    if args.htmlsrc:
+        # Dynamically import clean_newsletter.py
+        clean_path = os.path.join(os.path.dirname(__file__), 'clean_newsletter.py')
+        spec = spec_from_file_location('clean_newsletter', clean_path)
+        clean_mod = module_from_spec(spec)
+        spec.loader.exec_module(clean_mod)
+        raw = clean_mod.clean_newsletter_html(raw)
 
     if not args.raw_html and '<html' not in raw.lower() and '<p' not in raw.lower():
         # Assume plain text already roughly Markdown
