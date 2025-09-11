@@ -5,7 +5,7 @@ date: Thursday, Aug. 14, 2025
 permalink: /13.11-finally-8.14.25/
 ---
 
-# 11th edition of the 13th year of SmartDrivingCars eLetter
+### 11th edition of the 13th year of SmartDrivingCars eLetter
 
 [Revel
  is shutting down its Model Y-powered ride-hailing, which was basically Tesla Robotaxi](https://electrek.co/2025/08/12/revel-is-shutting-down-its-model-y-powered-ride-hailing-which-was-basically-tesla-robotaxi/)

@@ -5,8 +5,7 @@ date: Thursday, Aug. 28, 2025
 permalink: /13.12-starship-8.28.25/
 ---
 
-12h
-edition of the 13th year of SmartDrivingCars eLetter
+### 12th edition of the 13th year of SmartDrivingCars eLetter
 
 [SpaceX
  Starship Flight 10 Reality Check: All Secrets Revealed!](https://www.youtube.com/watch?v=ODEc4PeO9KY)
