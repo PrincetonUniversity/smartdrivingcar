@@ -1,6 +1,5 @@
 /* Main content container styling for newsletter and site */
 main#content,
-main#content > h1,
 main#content > article,
 main#content > article > header,
 main#content > article > .issue-body {
@@ -8,6 +7,12 @@ main#content > article > .issue-body {
 	max-width: 1080px;
 	margin: 0 auto;
 }
+
+main#content > h1 {
+	max-width: 1080px;
+	margin: 0 0 1em 0;
+}
+
 body{font-family:'Open Sans',Arial,sans-serif;margin:0;color:#666;line-height:1.6;background:#fff}
 .skip-link{position:absolute;left:-999px;top:auto;width:1px;height:1px;overflow:hidden}
 .skip-link:focus{left:10px;top:10px;width:auto;height:auto;padding:10px 14px;background:#000;color:#fff;z-index:1000;border-radius:4px;text-decoration:none}

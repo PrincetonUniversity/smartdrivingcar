@@ -4,7 +4,7 @@ title: Newsletter Archive
 permalink: /newsletter/
 ---
 
-<h1>SmartDrivingCars Newsletter Archive</h1>
+<h1>SmartDrivingCars Newsletter</h1>
 
 <ul class="newsletter-archive">
 {% assign issues = site.newsletters | sort: 'date' | reverse %}
