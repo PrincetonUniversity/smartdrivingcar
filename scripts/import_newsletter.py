@@ -104,9 +104,8 @@ def remove_sdc_line(text):
     return '\n'.join(new_lines)
 
 def add_margins_to_markdown(md):
-    margin_block = '<div style="margin-left:2em; margin-right:2em;">\n'
-    end_block = '\n</div>'
-    return margin_block + md.strip() + end_block
+    # Do not wrap in a div; let layout/CSS handle margins
+    return md.strip() + '\n'
 
 def main():
     ap = argparse.ArgumentParser()
@@ -118,8 +117,6 @@ def main():
     args = ap.parse_args()
 
     date = args.date
-    try:
-        datetime.date.fromisoformat(date)
     if args.input:
         ext = os.path.splitext(args.input)[1].lower()
         if ext == '.eml':

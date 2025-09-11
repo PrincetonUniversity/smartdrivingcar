@@ -7,7 +7,9 @@ layout: default
     <p class="meta"><time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: '%B %d, %Y' }}</time></p>
   </header>
   <div class="issue-body">
-    {{ content }}
+      <main class="newsletter-main">
+        {{ content }}
+      </main>
   </div>
   <nav class="issue-pagination" aria-label="Issue navigation">
     {% if page.previous %}<a class="prev" href="{{ page.previous.url }}">&larr; {{ page.previous.title }}</a>{% endif %}
