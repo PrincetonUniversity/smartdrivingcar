@@ -116,6 +116,10 @@ section:last-of-type{margin-bottom:0}
 .newsletter-archive li{margin:0 0 10px}
 .newsletter-archive a{text-decoration:none;color:#2ea3f2}
 .newsletter-archive a:hover,.newsletter-archive a:focus{text-decoration:underline}
+/* Manage Subscription button on newsletter page (light background) */
+.newsletter-actions{margin:0 0 24px}
+.newsletter-actions .btn{border-color:#2ea3f2;color:#2ea3f2}
+.newsletter-actions .btn:hover,.newsletter-actions .btn:focus{background:#2ea3f2;color:#fff}
 .newsletter-issue header h2{margin:0 0 5px;font-size:2rem;font-weight:600}
 .newsletter-issue .meta{color:#777;margin:0 0 30px;font-size:.9rem}
 .issue-pagination{display:flex;justify-content:space-between;margin:60px 0 0}
