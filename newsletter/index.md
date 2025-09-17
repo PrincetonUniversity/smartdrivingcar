@@ -6,6 +6,10 @@ permalink: /newsletter/
 
 <h1>SmartDrivingCars Newsletter</h1>
 
+<p class="newsletter-actions">
+  <a class="manage-subscription" href="https://kornhauser.princeton.edu/newsletter">Manage Subscription</a>
+  </p>
+
 <ul class="newsletter-archive">
 {% assign issues = site.newsletters | sort: 'date' | reverse %}
 {% for issue in issues %}
