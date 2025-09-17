@@ -7,7 +7,7 @@ permalink: /newsletter/
 <h1>SmartDrivingCars Newsletter</h1>
 
 <p class="newsletter-actions">
-  <a class="manage-subscription" href="https://kornhauser.princeton.edu/newsletter">Manage Subscription</a>
+  <a class="btn manage-subscription" href="https://kornhauser.princeton.edu/newsletter">Manage Subscription</a>
   </p>
 
 <ul class="newsletter-archive">
