@@ -5,13 +5,7 @@ date: 2025-09-20
 permalink: /13.14-safe-9.20.25/
 ---
 
-v\:* {behavior:url(#default#VML);}
-o\:* {behavior:url(#default#VML);}
-w\:* {behavior:url(#default#VML);}
-.shape {behavior:url(#default#VML);}
-
-14h
-edition of the 13th year of SmartDrivingCars eLetter
+## 14th edition of the 13th year of SmartDrivingCars eLetter
 
 [Very
  few of Waymo’s most serious crashes were Waymo’s fault](https://www.understandingai.org/p/very-few-of-waymos-most-serious-crashes)
