@@ -5,13 +5,7 @@ date: 2025-09-13
 permalink: /13.13-rollout-9.13.25/
 ---
 
-v\:* {behavior:url(#default#VML);}
-o\:* {behavior:url(#default#VML);}
-w\:* {behavior:url(#default#VML);}
-.shape {behavior:url(#default#VML);}
-
-13h
-edition of the 13th year of SmartDrivingCars eLetter
+## 13th edition of the 13th year of SmartDrivingCars eLetter
 
 [Elon Musk changes Tesla’s narrative: Jacques Nasser of Ford tried it twenty-five years ago](https://www.michaellsena.com/musings-on-mobility/)
 
