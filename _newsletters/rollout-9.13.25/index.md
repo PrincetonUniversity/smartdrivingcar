@@ -1,8 +1,8 @@
 ---
 layout: newsletter
-title: 2025-09-13
+title: RollOut
 date: 2025-09-13
-permalink: /2025-09-13-9.13.25/
+permalink: /rollout-9.13.25/
 ---
 
 v\:* {behavior:url(#default#VML);}
