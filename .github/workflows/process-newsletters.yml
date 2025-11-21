@@ -1,0 +1,99 @@
+name: Process Newsletter Emails
+
+on:
+  push:
+    paths:
+      - 'inbox/*.eml'
+  workflow_dispatch:
+    inputs:
+      inbox_path:
+        description: 'Custom inbox directory path'
+        required: false
+        default: 'inbox'
+
+jobs:
+  process:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          pip install beautifulsoup4 pyyaml git-filter-repo
+
+      - name: Check for .eml files
+        id: check_emails
+        run: |
+          INBOX_PATH="${{ github.event.inputs.inbox_path || 'inbox' }}"
+          if ls "$INBOX_PATH"/*.eml 1> /dev/null 2>&1; then
+            echo "has_emails=true" >> $GITHUB_OUTPUT
+            echo "Found .eml files in $INBOX_PATH"
+          else
+            echo "has_emails=false" >> $GITHUB_OUTPUT
+            echo "No .eml files found in $INBOX_PATH"
+          fi
+
+      - name: Process newsletter emails
+        if: steps.check_emails.outputs.has_emails == 'true'
+        env:
+          NEWSLETTER_SCRUB_GIT_HISTORY: ${{ vars.NEWSLETTER_SCRUB_GIT_HISTORY || 'false' }}
+        run: |
+          python scripts/process_inbox.py --inbox "${{ github.event.inputs.inbox_path || 'inbox' }}"
+
+      - name: Commit processed newsletters
+        if: steps.check_emails.outputs.has_emails == 'true'
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+
+          # Check if history was rewritten (filter-repo removes remote)
+          if ! git remote get-url origin > /dev/null 2>&1; then
+            git remote add origin "https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git"
+          fi
+
+          # Add new newsletters
+          git add _newsletters/
+
+          # Remove processed .eml files
+          git add -u inbox/
+
+          # Add logs if they exist
+          if [ -d "logs" ]; then
+            git add logs/
+          fi
+
+          # Check if there are changes to commit
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Process newsletter emails
+
+            🤖 Automated newsletter processing"
+          fi
+
+          # Force push if history was scrubbed, otherwise normal push
+          if [ "${{ vars.NEWSLETTER_SCRUB_GIT_HISTORY }}" = "true" ]; then
+            echo "History was rewritten, force pushing..."
+            git push --force origin ${{ github.ref_name }}
+          else
+            git push
+          fi
+
+      - name: Upload processing logs
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: processing-logs
+          path: logs/
+          if-no-files-found: ignore

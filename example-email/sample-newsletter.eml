@@ -1,0 +1,67 @@
+From: newsletter@smartdrivingcar.com
+To: subscriber@example.com
+Subject: SmartDrivingCars Newsletter - Aug. 28, 2025
+Date: Thu, 28 Aug 2025 10:00:00 -0400
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_123456"
+
+------=_Part_123456
+Content-Type: text/plain; charset="UTF-8"
+
+SmartDrivingCars Newsletter
+Thursday, Aug. 28, 2025
+
+This is the plain text version.
+
+------=_Part_123456
+Content-Type: text/html; charset="UTF-8"
+
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body { font-family: Arial; }
+.header { color: blue; }
+</style>
+</head>
+<body>
+<div class="header">
+<h1>SmartDrivingCars Newsletter</h1>
+<p><a href="https://smartdrivingcar.com">Thursday, Aug. 28, 2025</a></p>
+</div>
+
+<h2>This Week in Autonomous Vehicles</h2>
+
+<p>Welcome to this week's edition of the SmartDrivingCars newsletter. Here's what's happening in the world of autonomous vehicles.</p>
+
+<h3>Featured Story</h3>
+
+<p>Major automakers announced new partnerships for autonomous driving technology. The collaboration aims to accelerate the development of Level 4 autonomous systems for urban environments.</p>
+
+<p>Key highlights include:</p>
+<ul>
+<li>New sensor fusion algorithms</li>
+<li>Improved edge case handling</li>
+<li>Enhanced cybersecurity measures</li>
+</ul>
+
+<h3>Podcast Highlights</h3>
+
+<p><a href="https://example.com/podcast#t=0">0:00</a> Introduction and overview</p>
+<p><a href="https://example.com/podcast#t=300">5:00</a> Interview with industry expert</p>
+<p><a href="https://example.com/podcast#t=900">15:00</a> Technical deep dive</p>
+<p><a href="https://example.com/podcast#t=1800">30:00</a> Closing thoughts</p>
+
+<h3>Links and Resources</h3>
+
+<p>For more information, visit our <a href="https://example.com/resources">resources page</a>.</p>
+
+<p>*****</p>
+
+<p>This list is maintained by the SmartDrivingCars team.</p>
+<p>To unsubscribe from this list, click <a href="https://example.com/unsubscribe">here</a>.</p>
+
+</body>
+</html>
+
+------=_Part_123456--
