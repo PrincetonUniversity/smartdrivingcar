@@ -30,7 +30,7 @@ jobs:
 
       - name: Install dependencies
         run: |
-          pip install beautifulsoup4 pyyaml
+          pip install beautifulsoup4 pyyaml git-filter-repo
 
       - name: Check for .eml files
         id: check_emails
@@ -46,6 +46,8 @@ jobs:
 
       - name: Process newsletter emails
         if: steps.check_emails.outputs.has_emails == 'true'
+        env:
+          NEWSLETTER_SCRUB_GIT_HISTORY: ${{ vars.NEWSLETTER_SCRUB_GIT_HISTORY || 'false' }}
         run: |
           python scripts/process_inbox.py --inbox "${{ github.event.inputs.inbox_path || 'inbox' }}"
 
@@ -54,6 +56,11 @@ jobs:
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
+
+          # Check if history was rewritten (filter-repo removes remote)
+          if ! git remote get-url origin > /dev/null 2>&1; then
+            git remote add origin "https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git"
+          fi
 
           # Add new newsletters
           git add _newsletters/
@@ -73,6 +80,13 @@ jobs:
             git commit -m "Process newsletter emails
 
             🤖 Automated newsletter processing"
+          fi
+
+          # Force push if history was scrubbed, otherwise normal push
+          if [ "${{ vars.NEWSLETTER_SCRUB_GIT_HISTORY }}" = "true" ]; then
+            echo "History was rewritten, force pushing..."
+            git push --force origin ${{ github.ref_name }}
+          else
             git push
           fi
 

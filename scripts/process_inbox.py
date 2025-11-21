@@ -112,17 +112,45 @@ def cleanup_processed_file(eml_path, config):
 
     try:
         # Remove file from filesystem
-        os.remove(eml_path)
-        logger.info(f"Removed processed file: {eml_path}")
+        if os.path.exists(eml_path):
+            os.remove(eml_path)
+            logger.info(f"Removed processed file: {eml_path}")
 
         # Optionally scrub from git history
         if config.get('scrub_git_history', False):
             logger.info(f"Scrubbing {eml_path} from git history...")
-            # Use git filter-repo or BFG for history scrubbing
-            # This is a destructive operation - using git rm for staging area only
+
+            # Use git filter-repo to remove file from all history
+            # This rewrites git history - must be done carefully
+            result = subprocess.run(
+                ['git', 'filter-repo', '--force', '--invert-paths', '--path', eml_path],
+                capture_output=True,
+                text=True
+            )
+
+            if result.returncode == 0:
+                logger.info(f"Successfully scrubbed {eml_path} from git history")
+            else:
+                # Fallback: try BFG if filter-repo not available
+                logger.warning(f"git filter-repo failed, trying BFG: {result.stderr}")
+                bfg_result = subprocess.run(
+                    ['bfg', '--delete-files', os.path.basename(eml_path)],
+                    capture_output=True,
+                    text=True
+                )
+                if bfg_result.returncode == 0:
+                    # BFG requires gc after
+                    subprocess.run(['git', 'reflog', 'expire', '--expire=now', '--all'],
+                                 capture_output=True)
+                    subprocess.run(['git', 'gc', '--prune=now', '--aggressive'],
+                                 capture_output=True)
+                    logger.info(f"Successfully scrubbed {eml_path} using BFG")
+                else:
+                    logger.error(f"Failed to scrub history: {bfg_result.stderr}")
+        else:
+            # Just remove from git tracking without history scrub
             subprocess.run(['git', 'rm', '--cached', '--ignore-unmatch', eml_path],
                          capture_output=True)
-            logger.info(f"Removed {eml_path} from git tracking")
 
     except Exception as e:
         logger.error(f"Error during cleanup of {eml_path}: {str(e)}")
