@@ -1,0 +1,47 @@
+# Newsletter processing configuration
+# Values can be overridden by environment variables (prefixed with NEWSLETTER_)
+
+# Directory to watch for incoming .eml files
+# Override with: NEWSLETTER_INBOX_DIRECTORY
+inbox_directory: inbox
+
+# Output directory for processed newsletters
+# Override with: NEWSLETTER_OUTPUT_DIRECTORY
+output_directory: _newsletters
+
+# Enable git history scrubbing after successful processing
+# WARNING: This permanently removes files from git history
+# Override with: NEWSLETTER_SCRUB_GIT_HISTORY (true/false)
+scrub_git_history: false
+
+# Logging settings
+# Override with: NEWSLETTER_LOG_ENABLED, NEWSLETTER_LOG_FILE, NEWSLETTER_LOG_LEVEL
+logging:
+  enabled: true
+  file: logs/newsletter_processing.log
+  level: INFO
+
+# HTML cleaning options passed to clean_newsletter.py
+cleaning:
+  # Remove all images from newsletter
+  remove_images: false
+
+  # Custom footer patterns to remove (regex)
+  footer_patterns:
+    - '^\*{5,}$'
+    - '^\s*This list is maintained by'
+    - '^\s*To unsubscribe from this list'
+
+  # Custom content patterns to remove (regex)
+  remove_patterns: []
+
+  # Find and replace patterns (list of {find: regex, replace: string})
+  replacements: []
+
+# Markdown transformation options
+transformations:
+  # Remove smartdrivingcar.com links
+  remove_sdc_links: true
+
+  # Extract and remove first date from content
+  extract_date: true

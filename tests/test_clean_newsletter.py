@@ -24,7 +24,7 @@ class TestCleanNewsletterHtml:
         assert "Content" in result
 
     def test_normalizes_smart_quotes(self):
-        html = '<html><body><p>"Smart quotes" and 'apostrophes'</p></body></html>'
+        html = '<html><body><p>\u201cSmart quotes\u201d and \u2018apostrophes\u2019</p></body></html>'
         result = clean_newsletter_html(html)
         assert '"' in result or "Smart quotes" in result
         assert "'" in result or "apostrophes" in result
