@@ -11,7 +11,7 @@ from importlib.util import spec_from_file_location, module_from_spec
 from email import policy
 from email.parser import BytesParser
 
-RE_TAGS = re.compile(r'<(script|style)[^>]*>.*?</\\1>', re.I | re.S)
+RE_TAGS = re.compile(r'<(script|style)[^>]*>.*?</\1>', re.I | re.S)
 RE_HTML_TAG = re.compile(r'<[^>]+>')
 
 
