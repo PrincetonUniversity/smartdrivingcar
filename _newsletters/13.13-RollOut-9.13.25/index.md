@@ -2,12 +2,11 @@
 layout: newsletter
 title: "Friday, Oct. 3, 2025"
 date: 2025-10-03
-permalink: /13.13-RollOut-9.13.25/
-display_name: "13.13 RollOut"
+permalink: /13.15-Silos-10.03.25/
+display_name: "13.15 - Silos"
 ---
 
-15th
-edition of the 13th year of SmartDrivingCars eLetter
+15th edition of the 13th year of SmartDrivingCars eLetter
 
 MOBILITY INDUSTRY INSIGHTS
 [In silos without windows: That's where driverless mobility research and development is done](https://www.michaellsena.com/mobility-industry-insights/)
