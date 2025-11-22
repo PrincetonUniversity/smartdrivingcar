@@ -83,3 +83,10 @@
 Created _newsletters/13.13-RollOut-9.13.25/index.md
 2025-11-22 03:28:24,130 - INFO - Removed processed file: import/tmp.html
 2025-11-22 03:28:24,147 - INFO - Processing complete. Success: 1, Failed: 0
+2025-11-22 03:55:34,978 - INFO - Starting newsletter processing at 2025-11-22T03:55:34.978692
+2025-11-22 03:55:34,979 - INFO - Found 1 .html file(s) in import
+2025-11-22 03:55:34,979 - INFO - Processing: import/tmp.html
+2025-11-22 03:55:35,424 - INFO - SUCCESS: import/tmp.html
+2025-11-22 03:55:35,424 - INFO - Created _newsletters/13.13-RollOut-9.13.25/index.md
+2025-11-22 03:55:35,425 - INFO - Removed processed file: import/tmp.html
+2025-11-22 03:55:35,442 - INFO - Processing complete. Success: 1, Failed: 0
