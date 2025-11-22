@@ -3,6 +3,7 @@ layout: newsletter
 title: "Friday, Nov. 14, 2025"
 date: 2025-11-14
 permalink: /13.17-Irene-11.14.25/
+slug: "13.17 Irene 11.14.25"
 ---
 
 17th
