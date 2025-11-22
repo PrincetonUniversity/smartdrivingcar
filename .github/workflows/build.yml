@@ -3,6 +3,17 @@ name: Build & Deploy (Prod default / Preview override)
 on:
   push:
     branches: [ main ]
+    paths-ignore:
+      - 'README.md'
+      - 'SHARED_TASK_NOTES.md'
+      - 'Makefile'
+      - 'LICENSE'
+      - 'LICENSE.md'
+      - 'Gemfile'
+      - 'Dockerfile'
+      - 'CNAME'
+      - '.gitignore'
+      - '.dockerignore'
   workflow_dispatch:
 
 jobs:
