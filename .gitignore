@@ -7,3 +7,5 @@ vendor/
 .DS_Store
 scripts/__pycache__/clean_newsletter.cpython-313.pyc
 .jekyll-metadata
+__pycache__/
+*.pyc
