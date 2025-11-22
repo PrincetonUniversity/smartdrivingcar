@@ -4,45 +4,51 @@ layout: default
 
 <h1>{{ page.title }}</h1>
 
-<p><a href="/newsletter/">&larr; All Newsletters</a>{% if page.year and page.month %} | <a href="/newsletter/{{ page.year }}/">{{ page.year }}</a>{% endif %}</p>
+<div class="newsletter-page">
+  <main class="newsletter-main">
+    <p><a href="/newsletter/">&larr; All Newsletters</a>{% if page.year and page.month %} | <a href="/newsletter/{{ page.year }}/">{{ page.year }}</a>{% endif %}</p>
 
-<ul class="newsletter-archive">
-{% assign issues = site.newsletters | sort: 'date' | reverse %}
-{% for issue in issues %}
-  {% assign issue_year = issue.date | date: '%Y' %}
-  {% assign issue_month = issue.date | date: '%m' %}
-  {% if page.year and page.month %}
-    {% if issue_year == page.year and issue_month == page.month %}
-  <li>
-    <a href="{{ issue.url }}"><time datetime="{{ issue.date | date_to_xmlschema }}">{{ issue.date | date: '%Y-%m-%d' }}</time> – {% if issue.display_name %}{{ issue.display_name }}{% else %}{{ issue.title }}{% endif %}</a>
-  </li>
-    {% endif %}
-  {% elsif page.year %}
-    {% if issue_year == page.year %}
-  <li>
-    <a href="{{ issue.url }}"><time datetime="{{ issue.date | date_to_xmlschema }}">{{ issue.date | date: '%Y-%m-%d' }}</time> – {% if issue.display_name %}{{ issue.display_name }}{% else %}{{ issue.title }}{% endif %}</a>
-  </li>
-    {% endif %}
-  {% endif %}
-{% endfor %}
-</ul>
+    <ul class="newsletter-archive">
+    {% assign issues = site.newsletters | sort: 'date' | reverse %}
+    {% for issue in issues %}
+      {% assign issue_year = issue.date | date: '%Y' %}
+      {% assign issue_month = issue.date | date: '%m' %}
+      {% if page.year and page.month %}
+        {% if issue_year == page.year and issue_month == page.month %}
+      <li>
+        <a href="{{ issue.url }}"><time datetime="{{ issue.date | date_to_xmlschema }}">{{ issue.date | date: '%Y-%m-%d' }}</time> – {% if issue.display_name %}{{ issue.display_name }}{% else %}{{ issue.title }}{% endif %}</a>
+      </li>
+        {% endif %}
+      {% elsif page.year %}
+        {% if issue_year == page.year %}
+      <li>
+        <a href="{{ issue.url }}"><time datetime="{{ issue.date | date_to_xmlschema }}">{{ issue.date | date: '%Y-%m-%d' }}</time> – {% if issue.display_name %}{{ issue.display_name }}{% else %}{{ issue.title }}{% endif %}</a>
+      </li>
+        {% endif %}
+      {% endif %}
+    {% endfor %}
+    </ul>
+  </main>
 
-{% if page.year and page.month == nil %}
-<h2>Browse by Month</h2>
-<ul>
-{% assign months_seen = "" %}
-{% for issue in issues %}
-  {% assign issue_year = issue.date | date: '%Y' %}
-  {% if issue_year == page.year %}
-    {% assign issue_month = issue.date | date: '%m' %}
-    {% assign month_key = issue_year | append: "-" | append: issue_month %}
-    {% unless months_seen contains month_key %}
-      {% assign months_seen = months_seen | append: month_key | append: "," %}
-  <li><a href="/newsletter/{{ issue_year }}/{{ issue_month }}/">{{ issue.date | date: '%B %Y' }}</a></li>
-    {% endunless %}
-  {% endif %}
-{% endfor %}
-</ul>
-{% endif %}
+  <aside class="newsletter-sidebar">
+    {% if page.year and page.month == nil %}
+    <h3>Browse by Month</h3>
+    <ul class="year-list">
+    {% assign months_seen = "" %}
+    {% for issue in issues %}
+      {% assign issue_year = issue.date | date: '%Y' %}
+      {% if issue_year == page.year %}
+        {% assign issue_month = issue.date | date: '%m' %}
+        {% assign month_key = issue_year | append: "-" | append: issue_month %}
+        {% unless months_seen contains month_key %}
+          {% assign months_seen = months_seen | append: month_key | append: "," %}
+      <li><a href="/newsletter/{{ issue_year }}/{{ issue_month }}/">{{ issue.date | date: '%B' }}</a></li>
+        {% endunless %}
+      {% endif %}
+    {% endfor %}
+    </ul>
+    {% endif %}
+  </aside>
+</div>
 
 {{ content }}
