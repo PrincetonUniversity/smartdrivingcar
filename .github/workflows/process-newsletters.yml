@@ -7,6 +7,10 @@ on:
       - 'import/*.html'
   workflow_dispatch:
 
+concurrency:
+  group: pages-deploy
+  cancel-in-progress: false
+
 jobs:
   process:
     runs-on: ubuntu-latest
