@@ -1,19 +1,29 @@
 ---
 layout: newsletter
-title: "Sunday, Oct. 12, 2025"
-date: 2025-10-12
-permalink: /13.16-Reminiscence-10.12.25/
-display_name: "13.16 - Reminiscence"
+title: "Friday, Oct. 3, 2025"
+date: 2025-10-03
+permalink: /13.13-RollOut-9.13.25/
+display_name: "13.13 RollOut"
 ---
 
-16th edition of the 13th year of SmartDrivingCars eLetter
+15th
+edition of the 13th year of SmartDrivingCars eLetter
 
-[](http://www.darpa.mil/grandchallenge/index.html) [20th
- Anniversery of 2005 DARPA Grand Challenge, A Reminiscence](https://www.dropbox.com/scl/fi/hpmwewxjokhsx9rgujcbv/Orf467F25_20th-Anniversery-Reminicence-of-2005-DARPA-Challenge.ppsx?rlkey=rcs6zhrcwuqu5vk6wuj7uvmun&dl=0)
+MOBILITY INDUSTRY INSIGHTS
+[In silos without windows: That's where driverless mobility research and development is done](https://www.michaellsena.com/mobility-industry-insights/)
 
-Alain Kornhauser, Oct. 8,  "…[Slides
- show](https://www.dropbox.com/scl/fi/hpmwewxjokhsx9rgujcbv/Orf467F25_20th-Anniversery-Reminicence-of-2005-DARPA-Challenge.ppsx?rlkey=rcs6zhrcwuqu5vk6wuj7uvmun&dl=0)…" [Watch SDC ZoomCast 401](https://www.youtube.com/watch?v=O0yB5nlnhLI)Hmmmm…  Certainly, the most enjoyable and invigorating
- experience of my career.  Thank you, Ben K. for your persistence and Andrew, Anand, Brendan, Scott, Josh, Bryan, Gordon, Rachel, Alex, and Ben E.  for your total dedication. Alain
+M. Sena, Oct. 1,  "AT THE BEGINNING of the 20th century, people were not asking for
+ cars. They were asking for a way to travel that did not require them to own and care for a horse. They were asking for a way to travel that allowed them to cover distances farther than they could walk in a day without having to provide their own motor power.
+ They were asking for the possibility to travel where and when they desired, rather than according to a schedule devised by someone else. They were asking for a way to travel that they could master both physically and mentally. They were asking for a way to
+ travel which they could afford. …
+
+To repeat, no one is asking for driverless cars. …
+
+There was no one in Los Angeles at the time of the riots, not the mayor or council members, not the social welfare organizers, not the state or federal members of congress,
+ and definitely not Waymo and its parent Alphabet, who stood up and said, "Wait! The purpose of these self-driving cars is to give rides to people who cannot afford other transportation alternatives. Leave them alone!"…
+
+There is a third vision…."
+[Read more](https://www.michaellsena.com/mobility-industry-insights/)  Hmmmm…  Whew!   What a read!  Alain
 
 [The Transportation Channel](https://www.thetransportationchannel.com/)
 
@@ -27,22 +37,36 @@ Narrated by Fred Fishkin, Available now
  to Amazon.com](https://www.amazon.com/Real-Case-Driverless-Mobility-Vehicles/dp/0443236852/ref=sr_1_1?crid=1XSXZ611C2JCN&keywords=Kornhauser+sena&qid=1707095108&sprefix=kornhauser+sena%2Caps%2C76&sr=8-1&ufe=app_do%3Aamzn1.fos.18ed3cb5-28d5-4975-8bc7-93deae8f9840)…
 
 SmartDrivingCars
-[ZoomCast 401](https://www.youtube.com/watch?v=O0yB5nlnhLI) [/ PodCast 401](https://open.spotify.com/episode/79jm5icW6X3rPVysa6D0GR?si=VuP0nS1iSVWPGkBleeTFwA) 20th anniversary of 2005 DARPA Challenge
+[ZoomCast 400](https://www.youtube.com/watch?v=CONVOZ1kkxQ) [/ PodCast 400](https://open.spotify.com/episode/0MwyrghMuxDGFxNDZT0HP5?si=uSlJzWL7Q4eh9kRFR-PJzQ--&nd=1&dlsi=ec5b9e23d65f45f3) [– Driverless development in windowless silos?](https://www.youtube.com/watch?v=CONVOZ1kkxQ)
 
-F. Fishkin, Oct. 11, " The saga of Princeton's Prospect Eleven in the 2005 DARPA challenge 20 years ago. On episode 401 of Smart
- Driving Cars Princeton's Alain Kornhauser takes us and co-host Fred Fishkin on the journey that took place two decades ago. Plus... Waymo winning more fans in San Francisco...and an honor for Alain. Tune in and subscribe.
+w/Michael Sena
 
-* [0:00](https://www.youtube.com/watch?v=O0yB5nlnhLI) Open
-* [48:09](https://www.youtube.com/watch?v=O0yB5nlnhLI&t=2889s) If Alain could have known 20 years ago where the technology
- is today, would there be satisfaction or disappointment
-* [54:36](https://www.youtube.com/watch?v=O0yB5nlnhLI&t=3276s) Waymo gaining popularity in SF
-* [57:00](https://www.youtube.com/watch?v=O0yB5nlnhLI&t=3420s) Alain gets a surprise honor from ITS, the Intelligent Transportation
- Society of NJ
+F. Fishkin, Oct. 3, " It is episode 400 of Smart Driving Cars and Princeton's Alain Kornhauser and co-host Fred Fishkin are joined
+ by Michael Sena, co-author of The Real Case for Driverless Mobility. And hist Mobility Industry Insights asks is driverless research and development being done in windowless silos? Tune in for that and an ending courtesy of TJ Smith!  "
+
+* [0:00](https://www.youtube.com/watch?v=CONVOZ1kkxQ) open
+* [1:30](https://www.youtube.com/watch?v=CONVOZ1kkxQ&t=90s) Mobility Industry Insights- In Silos Without Windows- where
+ driverless mobility research and development is being done.
+* [8:13](https://www.youtube.com/watch?v=CONVOZ1kkxQ&t=493s) With driverless cars…has anyone asked why they are needed?
+ What are we trying to accomplish?
+* [10:19](https://www.youtube.com/watch?v=CONVOZ1kkxQ&t=619s) Alain: Nobody is getting it…the reason why
+* [15:05](https://www.youtube.com/watch?v=CONVOZ1kkxQ&t=905s) Now we are layering over AI
+* [24:30](https://www.youtube.com/watch?v=CONVOZ1kkxQ&t=1470s) The concept of latent demand for rides has mostly been
+ ignored
+* [29:10](https://www.youtube.com/watch?v=CONVOZ1kkxQ&t=1750s) Recalling the navigation episode of "The Office"
+* [32:00](https://www.youtube.com/watch?v=CONVOZ1kkxQ&t=1920s) The reason for developing standards
+* [34:37](https://www.youtube.com/watch?v=CONVOZ1kkxQ&t=2077s) The focus needs move to making driverless mobility work
+ for all riders
+* [41:20](https://www.youtube.com/watch?v=CONVOZ1kkxQ&t=2480s) Affordability is really important
+* [47:08](https://www.youtube.com/watch?v=CONVOZ1kkxQ&t=2828s) Main value of automobiles? They don't poop in the street?50:50Is safety the question?
+* [3:18](https://www.youtube.com/watch?v=CONVOZ1kkxQ&t=3198s) MIT Mobility Forum sessions continue
+* [54:00](https://www.youtube.com/watch?v=CONVOZ1kkxQ&t=3240s) Business Insider -Ashok Elluswamy is the most powerful
+ Tesla exec you've never heard of.
+* [54:45](https://www.youtube.com/watch?v=CONVOZ1kkxQ&t=3285s) InsideEVs report on woman posting a party from Tesla driver
+ seat…and Alain recalls TJ Smith online posting of his Buttercup California drive from a dozen years ago!
 
 [](https://www.youtube.com/playlist?list=PLFwuZ9jMeu5uwfTZP00zHjP7eSpG34Hsm)[SmartDrivingCars
  ZoomCasts](https://www.youtube.com/playlist?list=PLFwuZ9jMeu5uwfTZP00zHjP7eSpG34Hsm)
-
-[The Transportation Channel](https://www.thetransportationchannel.com/)
 
 [Automated](https://www.sae.org/events/automated-transportation-symposium/agenda)
 
@@ -50,80 +74,70 @@ F. Fishkin, Oct. 11, " The saga of Princeton's Prospect Eleven in the 2005 DARP
 
 November 3-6, 2025  |  Tempe, Arizona
 
-[13th Annual FAV Summit](https://favsummit.com/2025-agenda/)
-
-[November 5-7, 2025, in Orlando](https://favsummit.com/2025-agenda/)
-
-  [AV
- Adoption in Cities #155](https://www.mmi.mit.edu/forum)
-
-T. Chang, S. Dock & R. Castignoli, Oct. 10, "As of today we have SF, Austin and DC, three distinct AV deployment contexts and policy frameworks, each with their own set
- of challenges. Join us for a panel with representation from each of these cities, to see how Cities and AVs can best be prepared to ensure better mobility for all. What are the key debates and challenges in each city? What are the different policy contexts
- and different degrees of authorities?"  [View more](https://www.mmi.mit.edu/forum)
-  Hmmmm…  Excellent (especially Austin). Look for listing in [MIT Mobility Initiative](https://www.youtube.com/channel/UC5RJa_Z0i8pRleRvaYLp-5w/playlists) on YouTube (not posted as od 10/12/25).
-  Alain
+[The Transportation Channel](https://www.thetransportationchannel.com/)
 
   [Cities
- Are Not Prepared for Autonomous Vehicles. How Should They?](https://www.youtube.com/watch?v=JUtUQuFAxGM&list=PL2YKNGvzfdh3hZkq2-g-eeJpo5khtmu6V&index=1)
+ Are Not Prepared for Autonomous Vehicles. ---Here's How Should They.](https://www.mmi.mit.edu/forum)
 
- Jinhua Zhao, Kara Kockleman & Robin Chase, Oct. 10, "As of
- today we have SF, Austin and DC, three distinct AV deployment contexts and policy frameworks, each with their own set of challenges. Join us for a panel with representation from each of these cities, to see how Cities and AVs can best be prepared to ensure
- better mobility for all. What are the key debates and challenges in each city? What are the different policy contexts and different degrees of authoritiesTen years ago, cities were energized by the promise of autonomous vehicles. In 2015, the buzz was loud.
- Cities ran pilots, hosted workshops, and published white papers. But the tech wasn't ready. Cities grew disillusioned. Now the tech is here, and at scale. But most U.S. cities are not prepared. How should they? Please join Jinhua Zhao, Kara Kockleman and Robin
- Chase for a panel discussion on AV offering distinct solutions for mobility problems, Hell vs. Heaven of AV, Human agency in AV deployment, AV as a political excuse to introduce challenging policies, States Write the Laws but Cities Bear the Consequences,
- Integrating AV and Public Transit and crowdsourcing ideas - we will actively engage the audience to contribute your ideas[!?"
-View more](https://www.youtube.com/watch?v=JUtUQuFAxGM&list=PL2YKNGvzfdh3hZkq2-g-eeJpo5khtmu6V&index=1)  Hmmmm…  Excellent Alain
+K. Kockelman, R. Chase & J. Zhao, Oct. 3, "Ten years ago, cities were energized by the promise of autonomous vehicles. In 2015, the buzz was loud. Cities ran pilots, hosted
+ workshops, and published white papers. But the tech wasn't ready. Cities grew disillusioned.  Now the tech is here, and at scale. But most U.S. cities are not prepared. How should they?"
+[View more](https://www.mmi.mit.edu/forum)  Hmmmm…
+[Register](https://www.mmi.mit.edu/forum)  to watch live if you read this before noon Oct. 3.
+[Paper](https://zhaojinhua.com/cities-are-not-prepared-for-autonomous-vehicles-heres-how-should-they). Excellent!  Alain
 
-  [Tesla
- FSD (Supervised) V14.1 with Robotaxi-style dropoffs is here](https://www.teslarati.com/tesla-fsd-supervised-v14-robotaxi-style-dropoffs-release-notes/#google_vignette)
+  [What
+ Excites Larry Burns Today? Future of Living and Future of Access](https://www.youtube.com/watch?v=uGHFjPEN0rA)
 
-S. Alvarez, Oct 7, "Tesla has started the rollout of Full Self-Driving (Supervised) V14.1, the advanced driver-assist system's most significant update in nearly a year.
- The release introduces vision-based navigation for real-time detour handling and a new "Arrival Options" feature that simulates Robotaxi-style drop-offs.
+L. Burns & J. Zhao, Sept. 29, Join us for a discussion with Larry Burns (former head of R&D at General Motors) on 5 aspects of mobility and urban planning that keep him
+ excited, after an illustrious 50-year career. From autonomous vehicles to connected vehicles, EVs, defining access and design innovations, Larry will spend 20 minutes explaining why he is excited by these topics, after which we will move to the discussion
+ and Q&A part. Larry is also the author of Autonomy: The Quest to Build the Driverless Car—And How It Will Reshape Our World and a co-author of Reinventing the Automobile: Personal Urban Mobility for the 21st Century.…. "
+[View more](https://www.youtube.com/watch?v=uGHFjPEN0rA)
+  Hmmmm…  Excellent!  Alain
 
-New Tesla Vision-based features
+[Ashok Elluswamy is the most powerful Tesla executive you've never heard of](https://www.businessinsider.com/ashok-elluswamy-tesla-autopilot-elon-musk-ai-2025-10)
 
-With Version 14.1, Tesla has integrated navigation and routing directly into its vision-based neural network, enabling the system to respond to scenarios
- such as blocked roads or closures in real time. The update also enhances emergency vehicle detection, allowing the car to pull over or yield when police, fire, or ambulances are nearby.
+G. Kay & J. Newsham, Oct. 2 ,  "In 2022, [Elon Musk](https://www.businessinsider.com/elon-musk) made a gamble that rattled his
+ top engineers. The Tesla CEO scrapped the ultrasonic sensors that helped power the company's self-driving technology, and its vehicles began relying entirely on cameras.
 
-Other improvements include refined responses to debris, school buses, and lane cut-ins, as well as smoother handling of unprotected turns and gated entries.
- The update also adds a Robotaxi-style automatic camera-cleaning system. Tesla also promises improved fault recovery for greater reliability during degraded system operation.…. "
-[View more](https://www.teslarati.com/tesla-fsd-supervised-v14-robotaxi-style-dropoffs-release-notes/#google_vignette)
-  Hmmmm…  Very interesting.  Can't wait to try.  Alain
+No other self-driving car company had attempted anything like it. Complicating matters was the recent departure of Andrej Karpathy, Tesla's director of
+ AI at the time. That left Ashok Elluswamy, then Tesla's head of Autopilot software, to carry out one of Musk's biggest bets.
 
-[Tesla FSD v14 comes with the laziest speed profile named 'Sloth'](http://teslaoracle.com/2025/10/07/tesla-fsd-v14-comes-with-the-laziest-speed-profile-named-sloth/)
+Lewey Geselowitz, a former Autopilot engineer, said the team spent months training the software to run without the sensors. He recalled Elluswamy huddling
+ inside a [Tesla](https://www.businessinsider.com/tesla) with a group of engineers, driving around the office parking lot. They were testing the system to see whether it would recognize objects in its path, intentionally almost slamming
+ into walls in the process.
 
-I. Ali, Oct. 7 ,  "If the Chill mode is still fast for you while using Tesla's Full Self-Driving (Supervised), the automaker has something even cooler in
- the bag now.
+It was an example of Elluswamy going all-in to bring Musk's vision to fruition. A year later, the sensors had been removed from all new Tesla builds, leaving
+ the driver-assist tech running solely off a suite of cameras. "It took courage to know that we would be able to figure that out," Geselowitz said….
 
-Tesla (TSLA) began the rollout of FSD v14 earlier today. One of the most hyped FSD releases in history, with big promises from the CEO, Elon Musk. It's
- also the first major update in almost a year after V13.
+"Without him and our awesome team," Musk [wrote on X](https://x.com/elonmusk/status/1799650788848841069) last year, "we would
+ just be another car company looking for an autonomy supplier that doesn't exist.""    [Read
+ more](https://www.businessinsider.com/ashok-elluswamy-tesla-autopilot-elon-musk-ai-2025-10)  Hmmmm…
+ Very interesting! A must read.  Alain
 
-FSD v14 now has a fourth speed profile named after the laziest animal in the world — 'Sloth'. The Sloth profile is in addition to the already slower FSD
- speed mode named 'Chill'.""    [Read
- more](http://teslaoracle.com/2025/10/07/tesla-fsd-v14-comes-with-the-laziest-speed-profile-named-sloth/)  Hmmmm…
- This should be the default..  Speed Kills!  FSD should keep mis-behavers from mis-behaving. It should not embold mis-behavers to simply supervise a mis-behaving FSD.  In unsupervised FSD it needs to be the only mode.  If it is not, the unsupervised has zero
- chance (probability = 1.0x10-24) of being permitted on public roads.   Alain
+[San Francisco Woman Has Solo Dance Party In Her Tesla While In The Driver's Seat. How Safe Is That?](https://insideevs.com/news/774280/tesla-full-self-driving-safe/)
 
-[How San Francisco became Waymo-pilled](https://sfstandard.com/2025/10/08/san-francisco-became-waymo-pilled/)
+Adrienne Hunter, Oct. 1 ,  The rising popularity of self-driving cars has caused many to question just how safe these vehicles are. These concerns were
+ highlighted when one woman posted a video of her dancing in her self-driving Tesla with no hands on the steering wheel.…
 
-R. Jetha, Oct. 8 ,  "It wasn't long ago that San Franciscans were at war with robotaxis. Fed up with the autonomous vehicles interfering with emergency
- responders and causing mile-long traffic jams, activists figured out a way to immobilize the machines by [placing traffic cones](https://sfstandard.com/2023/07/07/we-spoke-to-one-of-the-activists-coning-cruise-and-waymo-robotaxis-in-san-francisco/) on
- their hoods.
+On Sept. 25, San Francisco resident Vanessa Lim ([@vanesssalim](https://www.tiktok.com/@vanesssalim)) posted a video of herself
+ dancing in a Tesla, with text overlay that says, "when you can have solo dance parties bc your car drives itself." The video has received over 10,500 views as of Tuesday.."    [Read
+ more](https://insideevs.com/news/774280/tesla-full-self-driving-safe/)  Hmmmm…
+ So bad… Old-school Click-Bait.  Hasn't everyone seen how people really drive in California. TJ Smith has 15M views of
+[HIGHWAY SING-A-LONG: Build Me Up Buttercup Edition](https://www.youtube.com/watch?v=4fYqe3QeOqQ). Now that's good and it was done 12 years ago!  Alain
 
-But two years later, the vibe has shifted. San Francisco has [fallen
- in love(opens in new tab)](https://www.wsj.com/tech/waymo-san-francisco-self-driving-robotaxis-uber-244feecf?gaa_at=eafs&gaa_n=ASWzDAg4KjKWPI1FQnUC6RVxn9_qc0viYisS4vhPiyAKibTb94-rM8pT_gHQxzqqwP8%3D&gaa_ts=68e6a577&gaa_sig=CXT9vPj0ALVQBfq1_hOyPDl4cLdSxun21rkntKhMVPGRv-i4y_RlGMd0NRISvhURCv3BJneGJ0BjMi7OX0zaOg%3D%3D) with Waymo, and the robotaxi's signature silhouette has become a regular part of city life.
+[Dave Ferguson: From Waymo to Nuro and the Future of Self-Driving Cars](https://www.youtube.com/watch?v=VW5j7XjlQZ8)
 
-Public support for autonomous vehicles in San Francisco has surged, a new poll from the tech-backed, moderate-leaning political group GrowSF shows. Two-thirds
- of voters said they support allowing fully autonomous vehicles to operate in San Francisco. It's a significant increase from 2023, when fewer than half agreed with the sentiment…"    [Read
- more](https://sfstandard.com/2025/10/08/san-francisco-became-waymo-pilled/)  Hmmmm…
- Finally, some positive news in The San Francisco Standard. Yea! Alain
+S. Christensen, Oct 1, "Stan is joined by Dave Ferguson, Co-Founder and President of Nuro. In this episode, Dave discusses his transition from Waymo to
+ Nuro, the pivotal shifts in their business model, and how they've managed to secure a monumental partnership with Uber and Lucid to create robo-taxis. Dave also opens up about the challenges faced during Nuro's evolution, from team restructuring to investor
+ negotiations, and offers a glimpse into the future of autonomous vehicles. Don't miss this episode filled with valuable lessons on leadership, technology, and the path to a safer, autonomous future."
+[View More](https://www.youtube.com/watch?v=VW5j7XjlQZ8) Hmmmm…
+ Interesting. Alain
 
-HandyRides Update
+HandyRides
+ Update
 
-* Kornhauser, Oct. 12, "Continuing to upgrade our AI inspired Real-time Operations Management Information Systems."
- Hmmmm…  OK! Plus, humbled by induction into
- Hall
- of Fame.  Thank you. Alain
+* Kornhauser, Oct. 2, "Paused operations while we upgrade our AI inspired Real-time Operations Management Information Systems."
+ Hmmmm…  OK! But the "AI inspired" is snake oil. Alain
 
 ***************************************************************************************************************
 
