@@ -1,8 +1,8 @@
 ---
 layout: newsletter
-title: "Friday,
- Nov. 14, 2025"
+title: "Friday, Nov. 14, 2025"
 date: 2025-11-14
+permalink: /2025-11-14-friday-nov.-14-2025/
 ---
 
 17th
