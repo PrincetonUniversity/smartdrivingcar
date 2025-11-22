@@ -121,6 +121,51 @@ def add_margins_to_markdown(md):
     # Do not wrap in a div; let layout/CSS handle margins
     return md.strip() + '\n'
 
+
+def ensure_archive_pages(iso_date):
+    """Create year and month archive pages if they don't exist."""
+    year = iso_date[:4]
+    month = iso_date[5:7]
+
+    # Month names for titles
+    month_names = {
+        '01': 'January', '02': 'February', '03': 'March', '04': 'April',
+        '05': 'May', '06': 'June', '07': 'July', '08': 'August',
+        '09': 'September', '10': 'October', '11': 'November', '12': 'December'
+    }
+    month_name = month_names.get(month, month)
+
+    # Create year archive page
+    year_dir = os.path.join("newsletter", year)
+    year_file = os.path.join(year_dir, "index.md")
+    if not os.path.exists(year_file):
+        os.makedirs(year_dir, exist_ok=True)
+        with open(year_file, 'w', encoding='utf-8') as f:
+            f.write(f"""---
+layout: newsletter-archive
+title: "{year} Newsletters"
+permalink: /newsletter/{year}/
+year: "{year}"
+---
+""")
+        print(f"Created {year_file}")
+
+    # Create month archive page
+    month_dir = os.path.join("newsletter", year, month)
+    month_file = os.path.join(month_dir, "index.md")
+    if not os.path.exists(month_file):
+        os.makedirs(month_dir, exist_ok=True)
+        with open(month_file, 'w', encoding='utf-8') as f:
+            f.write(f"""---
+layout: newsletter-archive
+title: "{month_name} {year} Newsletters"
+permalink: /newsletter/{year}/{month}/
+year: "{year}"
+month: "{month}"
+---
+""")
+        print(f"Created {month_file}")
+
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument('--date', help='Issue date (YYYY-MM-DD). If omitted, extracted from source or today.')
@@ -210,6 +255,9 @@ def main():
         except Exception:
             # Fallback to today
             iso_date = datetime.date.today().isoformat()
+
+    # Ensure year and month archive pages exist
+    ensure_archive_pages(iso_date)
 
     # Use author's slug if available, otherwise fall back to date-based slug
     if author_slug:
