@@ -1,7 +1,7 @@
 .PHONY: help serve-local serve-preview serve-prod build-preview build-prod clean docker-local docker-preview docker-prod
 
 JEKYLL?=bundle exec jekyll
-PORT?=4000
+PORT?=4040
 HOST?=0.0.0.0
 
 # Default help

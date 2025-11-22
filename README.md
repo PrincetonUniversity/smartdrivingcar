@@ -39,18 +39,7 @@ smartdrivingcar/
 └── podcast/                 # Podcast content
 ```
 
-## Run Locally
-
-Requires Ruby (>= 3 recommended).
-
-```bash
-gem install bundler
-bundle install
-bundle exec jekyll serve
-```
-Then open: http://localhost:4000/
-
-### Run with Docker
+## Run Locally (Docker)
 
 Build image (only needed when Gem dependencies change):
 
@@ -58,13 +47,13 @@ Build image (only needed when Gem dependencies change):
 docker build -t smartdrivingcar-site .
 ```
 
-Run container, mapping port 4000 and mounting source for live edits:
+Run container, mapping port 4040 and mounting source for live edits:
 
 ```bash
-docker run --rm -it -p 4000:4000 -v "$(pwd)":/site smartdrivingcar-site
+docker run --rm -it -p 4040:4000 -v "$(pwd)":/site smartdrivingcar-site
 ```
 
-Visit: http://localhost:4000/
+Visit: http://localhost:4040/
 
 ## Deployment (GitHub Pages)
 
@@ -110,21 +99,14 @@ Newsletter processing can be configured via environment variables or `config/new
 
 Three run/build modes:
 
-| Mode | Purpose | Config Files | Base URL | Make Serve |
-|------|---------|--------------|----------|------------|
-| Local | Develop at `http://localhost:4000/` | `_config.yml,_config_local.yml` | (empty) | `make serve-local` |
-| Preview | Simulate project site path | `_config.yml,_config_preview.yml` | `/smartdrivingcar` | `make serve-preview` |
-| Production | Custom domain (smartdrivingcar.com) | `_config.yml,_config_prod.yml` | (empty) | `make serve-prod` |
+| Mode | Purpose | Config Files | Base URL | Docker Command |
+|------|---------|--------------|----------|----------------|
+| Local | Develop at `http://localhost:4040/` | `_config.yml,_config_local.yml` | (empty) | `make docker-local` |
+| Preview | Simulate project site path | `_config.yml,_config_preview.yml` | `/smartdrivingcar` | `make docker-preview` |
+| Production | Custom domain (smartdrivingcar.com) | `_config.yml,_config_prod.yml` | (empty) | `make docker-prod` |
 
 Build only:
 ```bash
 make build-preview
 make build-prod
-```
-
-Docker (image: `smartdrivingcar-site`):
-```bash
-make docker-local
-make docker-preview
-make docker-prod
 ```
