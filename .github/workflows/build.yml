@@ -14,7 +14,13 @@ on:
       - 'CNAME'
       - '.gitignore'
       - '.dockerignore'
+      - 'inbox/*.eml'
+      - 'import/*.html'
   workflow_dispatch:
+
+concurrency:
+  group: pages-deploy
+  cancel-in-progress: false
 
 jobs:
   build:
