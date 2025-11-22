@@ -75,3 +75,11 @@
 2025-11-22 03:03:35,433 - INFO - Created _newsletters/13.17-Irene-11.14.25/index.md
 2025-11-22 03:03:35,433 - INFO - Removed processed file: import/test.html
 2025-11-22 03:03:35,451 - INFO - Processing complete. Success: 1, Failed: 0
+2025-11-22 03:28:23,704 - INFO - Starting newsletter processing at 2025-11-22T03:28:23.704925
+2025-11-22 03:28:23,705 - INFO - Found 1 .html file(s) in import
+2025-11-22 03:28:23,705 - INFO - Processing: import/tmp.html
+2025-11-22 03:28:24,129 - INFO - SUCCESS: import/tmp.html
+2025-11-22 03:28:24,129 - INFO - Created newsletter/2025/10/index.md
+Created _newsletters/13.13-RollOut-9.13.25/index.md
+2025-11-22 03:28:24,130 - INFO - Removed processed file: import/tmp.html
+2025-11-22 03:28:24,147 - INFO - Processing complete. Success: 1, Failed: 0
