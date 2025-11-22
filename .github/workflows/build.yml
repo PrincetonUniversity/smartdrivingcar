@@ -1,4 +1,4 @@
-name: Build & Deploy (Prod default / Preview override)
+name: Build and Deploy Site
 
 on:
   push:

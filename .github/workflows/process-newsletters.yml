@@ -1,15 +1,11 @@
-name: Process Newsletter Emails
+name: Process Newsletters
 
 on:
   push:
     paths:
       - 'inbox/*.eml'
+      - 'import/*.html'
   workflow_dispatch:
-    inputs:
-      inbox_path:
-        description: 'Custom inbox directory path'
-        required: false
-        default: 'inbox'
 
 jobs:
   process:
@@ -32,27 +28,29 @@ jobs:
         run: |
           pip install beautifulsoup4 pyyaml git-filter-repo
 
-      - name: Check for .eml files
-        id: check_emails
+      - name: Check for files to process
+        id: check_files
         run: |
-          INBOX_PATH="${{ github.event.inputs.inbox_path || 'inbox' }}"
-          if ls "$INBOX_PATH"/*.eml 1> /dev/null 2>&1; then
-            echo "has_emails=true" >> $GITHUB_OUTPUT
-            echo "Found .eml files in $INBOX_PATH"
-          else
-            echo "has_emails=false" >> $GITHUB_OUTPUT
-            echo "No .eml files found in $INBOX_PATH"
+          HAS_FILES=false
+          if ls inbox/*.eml 1> /dev/null 2>&1; then
+            echo "Found .eml files in inbox"
+            HAS_FILES=true
           fi
+          if ls import/*.html 1> /dev/null 2>&1; then
+            echo "Found .html files in import"
+            HAS_FILES=true
+          fi
+          echo "has_files=$HAS_FILES" >> $GITHUB_OUTPUT
 
-      - name: Process newsletter emails
-        if: steps.check_emails.outputs.has_emails == 'true'
+      - name: Process newsletters
+        if: steps.check_files.outputs.has_files == 'true'
         env:
           NEWSLETTER_SCRUB_GIT_HISTORY: ${{ vars.NEWSLETTER_SCRUB_GIT_HISTORY || 'false' }}
         run: |
-          python scripts/process_inbox.py --inbox "${{ github.event.inputs.inbox_path || 'inbox' }}"
+          python scripts/process_inbox.py
 
       - name: Commit processed newsletters
-        if: steps.check_emails.outputs.has_emails == 'true'
+        if: steps.check_files.outputs.has_files == 'true'
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
@@ -65,8 +63,9 @@ jobs:
           # Add new newsletters
           git add _newsletters/
 
-          # Remove processed .eml files
+          # Remove processed files
           git add -u inbox/
+          git add -u import/
 
           # Add logs if they exist
           if [ -d "logs" ]; then
@@ -77,7 +76,7 @@ jobs:
           if git diff --staged --quiet; then
             echo "No changes to commit"
           else
-            git commit -m "Process newsletter emails
+            git commit -m "Process newsletters
 
             🤖 Automated newsletter processing"
           fi
