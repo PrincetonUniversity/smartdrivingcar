@@ -106,54 +106,63 @@ def process_eml_file(eml_path, config):
         logger.error(f"ERROR processing {eml_path}: {str(e)}")
         return False
 
-def cleanup_processed_file(eml_path, config):
-    """Remove processed file and optionally scrub from git history."""
+def cleanup_processed_file(file_path, config):
+    """Remove processed file from filesystem and git tracking."""
     logger = logging.getLogger(__name__)
 
     try:
         # Remove file from filesystem
-        if os.path.exists(eml_path):
-            os.remove(eml_path)
-            logger.info(f"Removed processed file: {eml_path}")
+        if os.path.exists(file_path):
+            os.remove(file_path)
+            logger.info(f"Removed processed file: {file_path}")
 
-        # Optionally scrub from git history
-        if config.get('scrub_git_history', False):
-            logger.info(f"Scrubbing {eml_path} from git history...")
-
-            # Use git filter-repo to remove file from all history
-            # This rewrites git history - must be done carefully
-            result = subprocess.run(
-                ['git', 'filter-repo', '--force', '--invert-paths', '--path', eml_path],
-                capture_output=True,
-                text=True
-            )
-
-            if result.returncode == 0:
-                logger.info(f"Successfully scrubbed {eml_path} from git history")
-            else:
-                # Fallback: try BFG if filter-repo not available
-                logger.warning(f"git filter-repo failed, trying BFG: {result.stderr}")
-                bfg_result = subprocess.run(
-                    ['bfg', '--delete-files', os.path.basename(eml_path)],
-                    capture_output=True,
-                    text=True
-                )
-                if bfg_result.returncode == 0:
-                    # BFG requires gc after
-                    subprocess.run(['git', 'reflog', 'expire', '--expire=now', '--all'],
-                                 capture_output=True)
-                    subprocess.run(['git', 'gc', '--prune=now', '--aggressive'],
-                                 capture_output=True)
-                    logger.info(f"Successfully scrubbed {eml_path} using BFG")
-                else:
-                    logger.error(f"Failed to scrub history: {bfg_result.stderr}")
-        else:
-            # Just remove from git tracking without history scrub
-            subprocess.run(['git', 'rm', '--cached', '--ignore-unmatch', eml_path],
+        # Remove from git tracking (history scrubbing is done in batch later)
+        if not config.get('scrub_git_history', False):
+            subprocess.run(['git', 'rm', '--cached', '--ignore-unmatch', file_path],
                          capture_output=True)
 
     except Exception as e:
-        logger.error(f"Error during cleanup of {eml_path}: {str(e)}")
+        logger.error(f"Error during cleanup of {file_path}: {str(e)}")
+
+def scrub_files_from_history(files, config):
+    """Batch scrub multiple files from git history."""
+    logger = logging.getLogger(__name__)
+
+    if not files:
+        return
+
+    if not config.get('scrub_git_history', False):
+        return
+
+    logger.info(f"Scrubbing {len(files)} file(s) from git history...")
+
+    # Build filter-repo command with all paths
+    cmd = ['git', 'filter-repo', '--force', '--invert-paths']
+    for file_path in files:
+        cmd.extend(['--path', file_path])
+
+    result = subprocess.run(cmd, capture_output=True, text=True)
+
+    if result.returncode == 0:
+        logger.info(f"Successfully scrubbed {len(files)} file(s) from git history")
+    else:
+        # Fallback: try BFG for each file
+        logger.warning(f"git filter-repo failed, trying BFG: {result.stderr}")
+        for file_path in files:
+            bfg_result = subprocess.run(
+                ['bfg', '--delete-files', os.path.basename(file_path)],
+                capture_output=True,
+                text=True
+            )
+            if bfg_result.returncode != 0:
+                logger.error(f"Failed to scrub {file_path}: {bfg_result.stderr}")
+
+        # BFG requires gc after all deletions
+        subprocess.run(['git', 'reflog', 'expire', '--expire=now', '--all'],
+                     capture_output=True)
+        subprocess.run(['git', 'gc', '--prune=now', '--aggressive'],
+                     capture_output=True)
+        logger.info("Completed BFG cleanup")
 
 def process_html_file(html_path, config):
     """Process a single .html file (raw HTML body, no email headers)."""
@@ -198,6 +207,7 @@ def process_inbox(config):
 
     processed = 0
     failed = 0
+    processed_files = []  # Track files for batch history scrubbing
 
     # Process .eml files from inbox
     if os.path.exists(inbox_dir):
@@ -208,6 +218,7 @@ def process_inbox(config):
                 eml_path_str = str(eml_path)
                 if process_eml_file(eml_path_str, config):
                     processed += 1
+                    processed_files.append(eml_path_str)
                     cleanup_processed_file(eml_path_str, config)
                 else:
                     failed += 1
@@ -221,9 +232,14 @@ def process_inbox(config):
                 html_path_str = str(html_path)
                 if process_html_file(html_path_str, config):
                     processed += 1
+                    processed_files.append(html_path_str)
                     cleanup_processed_file(html_path_str, config)
                 else:
                     failed += 1
+
+    # Batch scrub all processed files from history (if enabled)
+    if processed_files:
+        scrub_files_from_history(processed_files, config)
 
     if processed == 0 and failed == 0:
         logger.info("No files found to process")
