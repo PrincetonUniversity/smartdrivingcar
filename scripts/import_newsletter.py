@@ -204,8 +204,13 @@ def main():
     os.makedirs(newsletter_dir, exist_ok=True)
     filename = os.path.join(newsletter_dir, "index.md")
 
-    # Don't set permalink - let Jekyll use collection default from _config.yml
-    front_matter = f"---\nlayout: newsletter\ntitle: \"{title_for_yaml}\"\ndate: {iso_date}\n---\n\n"
+    # Clean title for YAML (remove newlines)
+    clean_title = ' '.join(title_for_yaml.split())
+
+    # Set explicit permalink matching existing pattern
+    permalink = f"/{filename_base}/"
+
+    front_matter = f"---\nlayout: newsletter\ntitle: \"{clean_title}\"\ndate: {iso_date}\npermalink: {permalink}\n---\n\n"
     with open(filename, 'w', encoding='utf-8') as f:
         f.write(front_matter + md)
     print(f"Created {filename}")
