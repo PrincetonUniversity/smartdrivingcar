@@ -23,7 +23,8 @@ smartdrivingcar/
 ├── config/
 │   └── newsletter_config.yml # Newsletter processing configuration
 ├── example-email/           # Sample .eml files for testing
-├── inbox/                   # Drop .eml files here for processing
+├── inbox/                   # Drop .eml files here for processing (full emails)
+├── import/                  # Drop .html files here for processing (HTML body only)
 ├── newsletter/
 │   └── index.md             # Newsletter archive listing page
 ├── scripts/
@@ -72,13 +73,18 @@ The site includes an automated system for processing email newsletters.
 
 ### Automated Processing
 
-1. Drop `.eml` files into the `inbox/` directory.
+Two input directories are supported:
+
+- **`inbox/`** - For `.eml` files (complete emails with headers)
+- **`import/`** - For `.html` files (raw HTML body only, no email headers)
+
+1. Drop files into the appropriate directory.
 2. Commit and push to `main`.
-3. The `process-newsletters.yml` workflow will:
-   - Extract HTML from emails
+3. The `Process Newsletters` workflow will:
+   - Extract and clean HTML content
    - Convert to markdown
    - Create newsletter posts in `_newsletters/`
-   - Remove processed files from inbox
+   - Remove processed files from the source directory
 
 ### Manual Processing
 

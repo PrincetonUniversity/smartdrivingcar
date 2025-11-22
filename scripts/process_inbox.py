@@ -155,35 +155,78 @@ def cleanup_processed_file(eml_path, config):
     except Exception as e:
         logger.error(f"Error during cleanup of {eml_path}: {str(e)}")
 
+def process_html_file(html_path, config):
+    """Process a single .html file (raw HTML body, no email headers)."""
+    logger = logging.getLogger(__name__)
+    scripts_dir = os.path.dirname(os.path.abspath(__file__))
+    import_script = os.path.join(scripts_dir, 'import_newsletter.py')
+
+    logger.info(f"Processing: {html_path}")
+
+    try:
+        cmd = [
+            sys.executable,
+            import_script,
+            '--input', html_path,
+            '--raw-html',
+            '--htmlsrc'
+        ]
+
+        result = subprocess.run(cmd, capture_output=True, text=True, cwd=os.getcwd())
+
+        if result.returncode == 0:
+            logger.info(f"SUCCESS: {html_path}")
+            if result.stdout:
+                logger.info(result.stdout.strip())
+            return True
+        else:
+            logger.error(f"FAILED: {html_path}")
+            if result.stderr:
+                logger.error(result.stderr)
+            return False
+
+    except Exception as e:
+        logger.error(f"ERROR processing {html_path}: {str(e)}")
+        return False
+
 def process_inbox(config):
-    """Process all .eml files in the inbox directory."""
+    """Process all .eml and .html files in inbox and import directories."""
     logger = logging.getLogger(__name__)
 
     inbox_dir = config.get('inbox_directory', 'inbox')
-
-    if not os.path.exists(inbox_dir):
-        logger.warning(f"Inbox directory does not exist: {inbox_dir}")
-        return {'processed': 0, 'failed': 0}
-
-    eml_files = list(Path(inbox_dir).glob('*.eml'))
-
-    if not eml_files:
-        logger.info(f"No .eml files found in {inbox_dir}")
-        return {'processed': 0, 'failed': 0}
-
-    logger.info(f"Found {len(eml_files)} .eml file(s) to process")
+    import_dir = config.get('import_directory', 'import')
 
     processed = 0
     failed = 0
 
-    for eml_path in eml_files:
-        eml_path_str = str(eml_path)
+    # Process .eml files from inbox
+    if os.path.exists(inbox_dir):
+        eml_files = list(Path(inbox_dir).glob('*.eml'))
+        if eml_files:
+            logger.info(f"Found {len(eml_files)} .eml file(s) in {inbox_dir}")
+            for eml_path in eml_files:
+                eml_path_str = str(eml_path)
+                if process_eml_file(eml_path_str, config):
+                    processed += 1
+                    cleanup_processed_file(eml_path_str, config)
+                else:
+                    failed += 1
 
-        if process_eml_file(eml_path_str, config):
-            processed += 1
-            cleanup_processed_file(eml_path_str, config)
-        else:
-            failed += 1
+    # Process .html files from import
+    if os.path.exists(import_dir):
+        html_files = list(Path(import_dir).glob('*.html'))
+        if html_files:
+            logger.info(f"Found {len(html_files)} .html file(s) in {import_dir}")
+            for html_path in html_files:
+                html_path_str = str(html_path)
+                if process_html_file(html_path_str, config):
+                    processed += 1
+                    cleanup_processed_file(html_path_str, config)
+                else:
+                    failed += 1
+
+    if processed == 0 and failed == 0:
+        logger.info("No files found to process")
 
     logger.info(f"Processing complete. Success: {processed}, Failed: {failed}")
     return {'processed': processed, 'failed': failed}
