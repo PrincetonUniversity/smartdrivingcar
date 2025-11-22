@@ -171,41 +171,41 @@ def main():
 
     slug = slugify(title_for_yaml)
 
-    # Extract month, day, year from date_for_yaml
-    # Try to match "Aug. 14, 2025" or similar
+    # Convert date to ISO format (YYYY-MM-DD) for Jekyll
     month_map = {
-        'january': '1', 'february': '2', 'march': '3', 'april': '4', 'may': '5', 'june': '6',
-        'july': '7', 'august': '8', 'september': '9', 'october': '10', 'november': '11', 'december': '12',
-        'jan': '1', 'feb': '2', 'mar': '3', 'apr': '4', 'may': '5', 'jun': '6',
-        'jul': '7', 'aug': '8', 'sep': '9', 'oct': '10', 'nov': '11', 'dec': '12',
-        'jan.': '1', 'feb.': '2', 'mar.': '3', 'apr.': '4', 'may.': '5', 'jun.': '6',
-        'jul.': '7', 'aug.': '8', 'sep.': '9', 'oct.': '10', 'nov.': '11', 'dec.': '12',
+        'january': 1, 'february': 2, 'march': 3, 'april': 4, 'may': 5, 'june': 6,
+        'july': 7, 'august': 8, 'september': 9, 'october': 10, 'november': 11, 'december': 12,
+        'jan': 1, 'feb': 2, 'mar': 3, 'apr': 4, 'jun': 6,
+        'jul': 7, 'aug': 8, 'sep': 9, 'oct': 10, 'nov': 11, 'dec': 12,
     }
+
+    # Try to parse text date like "Friday, Nov. 14, 2025" or "Aug. 14, 2025"
     date_match = re.search(r'([A-Za-z]+)\.\s*(\d{1,2}),\s*(\d{4})', date_for_yaml)
     if date_match:
         month_str = date_match.group(1).lower()
-        month_num = month_map.get(month_str, month_str)
-        day = date_match.group(2)
-        year = date_match.group(3)[-2:] # last two digits
-        url_date = f"{month_num}.{day}.{year}"
+        month_num = month_map.get(month_str, 1)
+        day = int(date_match.group(2))
+        year = int(date_match.group(3))
+        iso_date = f"{year}-{month_num:02d}-{day:02d}"
     else:
-        # fallback to ISO
+        # Check if already ISO format
         try:
-            dt = datetime.datetime.strptime(date_for_yaml, "%Y-%m-%d")
-            url_date = f"{dt.month}.{dt.day}.{str(dt.year)[-2:]}"
+            datetime.datetime.strptime(date_for_yaml, "%Y-%m-%d")
+            iso_date = date_for_yaml
         except Exception:
-            url_date = "unknown"
+            # Fallback to today
+            iso_date = datetime.date.today().isoformat()
 
-    # For permalink, use dots in the date portion (e.g., /title-8.14.25/)
-    permalink_dir = f"{slug}-{url_date.replace('-', '.')}"
-    permalink = f"/{permalink_dir}/"
+    # Create filename based on date and slug
+    filename_base = f"{iso_date}-{slug}"
 
     # Create directory for newsletter edition
-    newsletter_dir = os.path.join("_newsletters", permalink_dir)
+    newsletter_dir = os.path.join("_newsletters", filename_base)
     os.makedirs(newsletter_dir, exist_ok=True)
     filename = os.path.join(newsletter_dir, "index.md")
 
-    front_matter = f"---\nlayout: newsletter\ntitle: {title_for_yaml}\ndate: {date_for_yaml}\npermalink: {permalink}\n---\n\n"
+    # Don't set permalink - let Jekyll use collection default from _config.yml
+    front_matter = f"---\nlayout: newsletter\ntitle: \"{title_for_yaml}\"\ndate: {iso_date}\n---\n\n"
     with open(filename, 'w', encoding='utf-8') as f:
         f.write(front_matter + md)
     print(f"Created {filename}")
