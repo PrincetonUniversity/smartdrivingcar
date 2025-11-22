@@ -67,6 +67,8 @@ This site uses GitHub Actions for deployment instead of the default GitHub Pages
 
 The workflow auto-selects production config if a `CNAME` file exists; otherwise preview config is used.
 
+Both workflows share a concurrency group (`pages-deploy`) to prevent race conditions during deployment.
+
 ## Newsletter Workflow
 
 The site includes an automated system for processing email newsletters.
