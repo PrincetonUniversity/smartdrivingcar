@@ -240,10 +240,10 @@ def main():
     else:
         display_slug = None
 
-    # Build front matter with optional slug for display
+    # Build front matter with optional display_name for listing
     front_matter = f"---\nlayout: newsletter\ntitle: \"{clean_title}\"\ndate: {iso_date}\npermalink: {permalink}\n"
     if display_slug:
-        front_matter += f"slug: \"{display_slug}\"\n"
+        front_matter += f"display_name: \"{display_slug}\"\n"
     front_matter += "---\n\n"
 
     with open(filename, 'w', encoding='utf-8') as f:
