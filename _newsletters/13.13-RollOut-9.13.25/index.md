@@ -2,12 +2,11 @@
 layout: newsletter
 title: "Sunday, Oct. 12, 2025"
 date: 2025-10-12
-permalink: /13.13-RollOut-9.13.25/
-display_name: "13.13 RollOut"
+permalink: /13.16-Reminiscence-10.12.25/
+display_name: "13.16 - Reminiscence"
 ---
 
-16th
-edition of the 13th year of SmartDrivingCars eLetter
+16th edition of the 13th year of SmartDrivingCars eLetter
 
 [](http://www.darpa.mil/grandchallenge/index.html) [20th
  Anniversery of 2005 DARPA Grand Challenge, A Reminiscence](https://www.dropbox.com/scl/fi/hpmwewxjokhsx9rgujcbv/Orf467F25_20th-Anniversery-Reminicence-of-2005-DARPA-Challenge.ppsx?rlkey=rcs6zhrcwuqu5vk6wuj7uvmun&dl=0)
