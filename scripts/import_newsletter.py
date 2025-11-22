@@ -230,13 +230,9 @@ def main():
 
     # Create display title from author slug (e.g., "13.17 Irene" from "13.17-Irene-11.14.25")
     if author_slug:
-        # Extract the edition/name part (remove date suffix like -11.14.25)
-        slug_parts = author_slug.rsplit('-', 3)  # Split from right to separate date
-        if len(slug_parts) >= 4:
-            # Has date suffix like 13.17-Irene-11.14.25
-            display_slug = '-'.join(slug_parts[:-3]).replace('-', ' ')
-        else:
-            display_slug = author_slug.replace('-', ' ')
+        # Remove date suffix pattern like -11.14.25 or -11-14-25
+        display_slug = re.sub(r'-\d{1,2}[.-]\d{1,2}[.-]\d{2,4}$', '', author_slug)
+        display_slug = display_slug.replace('-', ' ')
     else:
         display_slug = None
 
