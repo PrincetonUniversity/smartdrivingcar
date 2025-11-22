@@ -95,6 +95,18 @@ def remove_first_date_and_link(html, date_str):
     html = html.replace(date_str, '')
     return html
 
+def extract_author_slug(text):
+    """Extract the slug from SmartDrivingCar.Com/<slug> pattern in the content."""
+    # Match SmartDrivingCar.Com/slug (case insensitive)
+    match = re.search(r'smartdrivingcar\.com/([^\s<>\'"]+)', text, re.IGNORECASE)
+    if match:
+        slug = match.group(1).strip()
+        # Clean up any trailing punctuation
+        slug = re.sub(r'[.,;:!?]+$', '', slug)
+        if slug:
+            return slug
+    return None
+
 def remove_sdc_line(text):
     lines = text.splitlines()
     new_lines = []
@@ -131,6 +143,9 @@ def main():
 
     # Extract first date from source
     first_date = extract_first_date(raw)
+
+    # Extract author's slug from SmartDrivingCar.Com/<slug> pattern
+    author_slug = extract_author_slug(raw)
 
     # Set date value
     if args.date:
@@ -196,8 +211,11 @@ def main():
             # Fallback to today
             iso_date = datetime.date.today().isoformat()
 
-    # Create filename based on date and slug
-    filename_base = f"{iso_date}-{slug}"
+    # Use author's slug if available, otherwise fall back to date-based slug
+    if author_slug:
+        filename_base = author_slug
+    else:
+        filename_base = f"{iso_date}-{slug}"
 
     # Create directory for newsletter edition
     newsletter_dir = os.path.join("_newsletters", filename_base)
