@@ -12,6 +12,8 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: write
+      pages: write
+      id-token: write
 
     steps:
       - name: Checkout repository
@@ -96,3 +98,37 @@ jobs:
           name: processing-logs
           path: logs/
           if-no-files-found: ignore
+
+      # Build and deploy site
+      - name: Setup Ruby
+        if: steps.check_files.outputs.has_files == 'true'
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '3.3'
+          bundler-cache: true
+
+      - name: Install Gems
+        if: steps.check_files.outputs.has_files == 'true'
+        run: bundle install --path vendor/bundle
+
+      - name: Build site
+        if: steps.check_files.outputs.has_files == 'true'
+        run: |
+          if [ -f CNAME ]; then
+            bundle exec jekyll build --config _config.yml,_config_prod.yml
+          else
+            bundle exec jekyll build --config _config.yml,_config_preview.yml
+          fi
+        env:
+          JEKYLL_ENV: production
+
+      - name: Upload Pages artifact
+        if: steps.check_files.outputs.has_files == 'true'
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+
+      - name: Deploy to Pages
+        if: steps.check_files.outputs.has_files == 'true'
+        id: deployment
+        uses: actions/deploy-pages@v4
