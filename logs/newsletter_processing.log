@@ -40,3 +40,10 @@
 2025-11-22 02:31:40,594 - INFO - Created _newsletters/2025-11-14-friday-nov.-14-2025/index.md
 2025-11-22 02:31:40,594 - INFO - Removed processed file: import/test.html
 2025-11-22 02:31:40,613 - INFO - Processing complete. Success: 1, Failed: 0
+2025-11-22 02:36:37,180 - INFO - Starting newsletter processing at 2025-11-22T02:36:37.180856
+2025-11-22 02:36:37,181 - INFO - Found 1 .html file(s) in import
+2025-11-22 02:36:37,181 - INFO - Processing: import/test.html
+2025-11-22 02:36:37,637 - INFO - SUCCESS: import/test.html
+2025-11-22 02:36:37,637 - INFO - Created _newsletters/2025-11-14-friday-nov.-14-2025/index.md
+2025-11-22 02:36:37,638 - INFO - Removed processed file: import/test.html
+2025-11-22 02:36:37,644 - INFO - Processing complete. Success: 1, Failed: 0
