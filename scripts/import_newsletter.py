@@ -228,7 +228,24 @@ def main():
     # Set explicit permalink matching existing pattern
     permalink = f"/{filename_base}/"
 
-    front_matter = f"---\nlayout: newsletter\ntitle: \"{clean_title}\"\ndate: {iso_date}\npermalink: {permalink}\n---\n\n"
+    # Create display title from author slug (e.g., "13.17 Irene" from "13.17-Irene-11.14.25")
+    if author_slug:
+        # Extract the edition/name part (remove date suffix like -11.14.25)
+        slug_parts = author_slug.rsplit('-', 3)  # Split from right to separate date
+        if len(slug_parts) >= 4:
+            # Has date suffix like 13.17-Irene-11.14.25
+            display_slug = '-'.join(slug_parts[:-3]).replace('-', ' ')
+        else:
+            display_slug = author_slug.replace('-', ' ')
+    else:
+        display_slug = None
+
+    # Build front matter with optional slug for display
+    front_matter = f"---\nlayout: newsletter\ntitle: \"{clean_title}\"\ndate: {iso_date}\npermalink: {permalink}\n"
+    if display_slug:
+        front_matter += f"slug: \"{display_slug}\"\n"
+    front_matter += "---\n\n"
+
     with open(filename, 'w', encoding='utf-8') as f:
         f.write(front_matter + md)
     print(f"Created {filename}")
