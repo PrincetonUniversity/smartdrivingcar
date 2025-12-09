@@ -67,7 +67,7 @@ jobs:
           fi
 
       - name: Link check (internal only)
-        uses: lycheeverse/lychee-action@v1
+        uses: lycheeverse/lychee-action@v2
         with:
           args: --no-progress --format detailed --offline ./_site
         env:
