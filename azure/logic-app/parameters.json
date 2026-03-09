@@ -3,10 +3,10 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "o365ConnectionName": {
-      "value": "office365-sdc"
+      "value": "orfe-dept-azure-sdc-o365"
     },
     "githubConnectionName": {
-      "value": "github-sdc"
+      "value": "orfe-dept-azure-sdc-github"
     },
     "location": {
       "value": "canadacentral"

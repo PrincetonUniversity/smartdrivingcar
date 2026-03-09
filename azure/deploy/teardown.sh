@@ -88,8 +88,8 @@ ok "Logged in to Azure (subscription: ${SUBSCRIPTION})"
 
 # --- Determine Resource Group -------------------------------------------------
 if [[ -z "${RESOURCE_GROUP}" ]]; then
-    read -rp "  $(echo -e "${BOLD}")Resource group to delete$(echo -e "${NC}") [rg-smartdrivingcar]: " RESOURCE_GROUP
-    RESOURCE_GROUP="${RESOURCE_GROUP:-rg-smartdrivingcar}"
+    read -rp "  $(echo -e "${BOLD}")Resource group to delete$(echo -e "${NC}") [orfe-dept-azure-alaink-sdc-rg]: " RESOURCE_GROUP
+    RESOURCE_GROUP="${RESOURCE_GROUP:-orfe-dept-azure-alaink-sdc-rg}"
 fi
 
 # Check if resource group exists
