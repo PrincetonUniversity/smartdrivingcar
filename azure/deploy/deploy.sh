@@ -195,7 +195,7 @@ echo "  GitHub:           ${GITHUB_OWNER}/${GITHUB_REPO}"
 echo ""
 
 read -rp "  Proceed? [Y/n]: " CONFIRM
-if [[ "${CONFIRM,,}" == "n" ]]; then
+if [[ "${CONFIRM}" == "n" || "${CONFIRM}" == "N" ]]; then
     echo "Aborted."
     exit 0
 fi
