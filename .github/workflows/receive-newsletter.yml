@@ -1,0 +1,94 @@
+name: Receive Newsletter
+
+on:
+  repository_dispatch:
+    types: [newsletter-processed]
+
+concurrency:
+  group: pages-deploy
+  cancel-in-progress: false
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v6
+        with:
+          fetch-depth: 0
+
+      - name: Setup Python
+        uses: actions/setup-python@v6
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install beautifulsoup4
+
+      - name: Check for duplicate
+        id: dedup
+        env:
+          SLUG: ${{ github.event.client_payload.slug }}
+        run: |
+          FILEPATH="_newsletters/${SLUG}/index.md"
+          if [ -f "${FILEPATH}" ]; then
+            echo "is_duplicate=true" >> "$GITHUB_OUTPUT"
+            echo "Newsletter '${SLUG}' already exists at ${FILEPATH} — skipping"
+          else
+            echo "is_duplicate=false" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Write newsletter file
+        if: steps.dedup.outputs.is_duplicate == 'false'
+        env:
+          SLUG: ${{ github.event.client_payload.slug }}
+          TITLE: ${{ github.event.client_payload.title }}
+          DATE: ${{ github.event.client_payload.date }}
+          MARKDOWN: ${{ github.event.client_payload.markdown }}
+          DISPLAY_NAME: ${{ github.event.client_payload.display_name }}
+        run: |
+          python3 - <<'PYEOF'
+          import os
+          import sys
+
+          slug = os.environ["SLUG"]
+          date = os.environ["DATE"]
+          markdown = os.environ["MARKDOWN"]
+
+          # Write newsletter markdown file
+          newsletter_dir = os.path.join("_newsletters", slug)
+          os.makedirs(newsletter_dir, exist_ok=True)
+          filepath = os.path.join(newsletter_dir, "index.md")
+
+          with open(filepath, "w", encoding="utf-8") as f:
+              f.write(markdown)
+
+          print(f"Wrote {filepath}")
+
+          # Ensure archive pages exist
+          sys.path.insert(0, "scripts")
+          from import_newsletter import ensure_archive_pages
+          ensure_archive_pages(date)
+          PYEOF
+
+      - name: Commit and push
+        if: steps.dedup.outputs.is_duplicate == 'false'
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+
+          git add _newsletters/
+          git add newsletter/
+
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            SLUG="${{ github.event.client_payload.slug }}"
+            git commit -m "Publish newsletter: ${SLUG}
+
+            Automated via Azure newsletter pipeline"
+            git push
+          fi
