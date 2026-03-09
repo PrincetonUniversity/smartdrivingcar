@@ -130,17 +130,17 @@ echo ""
 info "Enter existing deployment details (must match what was used in deploy.sh)."
 echo ""
 
-prompt_with_default RESOURCE_GROUP  "Resource group"        "rg-smartdrivingcar"
-prompt_with_default FUNC_APP_NAME   "Function App name"     "func-sdc-newsletter"
+prompt_with_default RESOURCE_GROUP  "Resource group"        "orfe-dept-azure-alaink-sdc-rg"
+prompt_with_default FUNC_APP_NAME   "Function App name"     "orfe-dept-azure-sdc-func"
 
 if $UPDATE_LOGIC_APP; then
-    prompt_with_default LOGIC_APP_NAME  "Logic App name"        "logic-sdc-newsletter"
+    prompt_with_default LOGIC_APP_NAME  "Logic App name"        "orfe-dept-azure-sdc-logic"
     prompt_with_default REGION          "Azure region"          "canadacentral"
     prompt_with_default O365_FOLDER     "O365 mail folder"      "SmartDrivingCars Newsletters for Processing"
     prompt_with_default GITHUB_OWNER    "GitHub owner"          "PrincetonUniversity"
     prompt_with_default GITHUB_REPO     "GitHub repo"           "smartdrivingcar"
-    prompt_with_default O365_CONN_NAME  "O365 connection name"  "office365-sdc"
-    prompt_with_default GITHUB_CONN_NAME "GitHub connection name" "github-sdc"
+    prompt_with_default O365_CONN_NAME  "O365 connection name"  "orfe-dept-azure-sdc-o365"
+    prompt_with_default GITHUB_CONN_NAME "GitHub connection name" "orfe-dept-azure-sdc-github"
 fi
 
 echo ""

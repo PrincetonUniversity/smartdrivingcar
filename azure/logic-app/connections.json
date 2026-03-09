@@ -11,14 +11,14 @@
     },
     "o365ConnectionName": {
       "type": "string",
-      "defaultValue": "office365-sdc",
+      "defaultValue": "orfe-dept-azure-sdc-o365",
       "metadata": {
         "description": "Name for the Office 365 API connection"
       }
     },
     "githubConnectionName": {
       "type": "string",
-      "defaultValue": "github-sdc",
+      "defaultValue": "orfe-dept-azure-sdc-github",
       "metadata": {
         "description": "Name for the GitHub API connection"
       }

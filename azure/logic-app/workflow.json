@@ -4,7 +4,7 @@
   "parameters": {
     "logicAppName": {
       "type": "string",
-      "defaultValue": "logic-sdc-newsletter",
+      "defaultValue": "orfe-dept-azure-sdc-logic",
       "metadata": {
         "description": "Name of the Logic App"
       }
@@ -225,12 +225,12 @@
             "value": {
               "office365": {
                 "connectionId": "[parameters('o365ConnectionId')]",
-                "connectionName": "office365-sdc",
+                "connectionName": "orfe-dept-azure-sdc-o365",
                 "id": "[subscriptionResourceId('Microsoft.Web/locations/managedApis', parameters('location'), 'office365')]"
               },
               "github": {
                 "connectionId": "[parameters('githubConnectionId')]",
-                "connectionName": "github-sdc",
+                "connectionName": "orfe-dept-azure-sdc-github",
                 "id": "[subscriptionResourceId('Microsoft.Web/locations/managedApis', parameters('location'), 'github')]"
               }
             }
