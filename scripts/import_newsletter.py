@@ -108,7 +108,8 @@ def extract_author_slug(text):
             slug = slug.rsplit('/', 1)[-1]
         # Strip redundant SmartDrivingCar.Com- prefix (dash variant)
         slug = re.sub(r'^smartdrivingcar\.com-', '', slug, flags=re.IGNORECASE)
-        if slug:
+        # Validate: must look like a newsletter slug (vol.issue prefix, e.g. "13.17-...")
+        if slug and re.match(r'^\d+\.\d+', slug):
             return slug
     return None
 
