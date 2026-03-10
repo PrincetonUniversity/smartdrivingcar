@@ -2,7 +2,7 @@
 layout: newsletter
 title: "2021-05-09"
 date: 2021-05-09
-permalink: /9.18-Expand?-050821/
+permalink: /9.18-Expand%3F-050821/
 display_name: "9.18 - Expand? 050821"
 ---
 

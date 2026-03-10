@@ -100,12 +100,12 @@ Hmmmm...
 Video version of [SmartDrivingCars PodCast 157 -](https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-157)  ....
                                                       Alain
 
-[](www.motoetf.com)   The Smart
+   The Smart
                                       Driving Cars podcast is made
                                       possible in part by support from
                                       the Smart Transportation and
                                       Technology ETF, symbol MOTO.   For
-                                      more information: [www.motoetf.com](www.motoetf.com).
+                                      more information: [www.motoetf.com](https://www.motoetf.com).
 
 ### SmartDrivingCar Zoom-inar 002  The Future of
                                           Public Roadway Transit
