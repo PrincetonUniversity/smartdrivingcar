@@ -2,7 +2,7 @@
 layout: newsletter
 title: "2021-12-18"
 date: 2021-12-18
-permalink: /9.45-Stupid%3F%3F%3F-121721/
+permalink: /9.45-Stupid-121721/
 display_name: "9.45 - Stupid??? 121721"
 ---
 

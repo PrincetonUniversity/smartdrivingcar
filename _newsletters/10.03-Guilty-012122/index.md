@@ -2,7 +2,7 @@
 layout: newsletter
 title: "2022-01-21"
 date: 2022-01-21
-permalink: /10.03-Guilty%3F-012122/
+permalink: /10.03-Guilty-012122/
 display_name: "10.03 - Guilty? 012122"
 ---
 
