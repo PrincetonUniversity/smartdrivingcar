@@ -146,6 +146,27 @@ All scripts support `--help` for usage details. OAuth connections require one-ti
 - **GitHub**: Bot account > Settings > Applications > Authorized OAuth Apps — revoke "Microsoft Azure Logic Apps"
 - **O365**: Admin portal for the mailbox account — revoke consent for "Microsoft Azure Logic Apps"
 
+### Backfilling Old Newsletters
+
+To bulk-import past newsletters from the Listserv archive using GETPOST wrapper emails:
+
+```bash
+# 1. Place Listserv GETPOST .eml files in backfill/
+mkdir -p backfill/
+# copy .eml files into backfill/
+
+# 2. Preview what would be imported (no files written)
+make backfill-dry-run
+
+# 3. Run the import (skips duplicates automatically)
+make backfill
+
+# 4. Or use the script directly with options
+python scripts/backfill_newsletters.py --dir backfill/ --limit 10 --verbose
+```
+
+The script extracts nested `message/rfc822` attachments from wrapper emails and feeds them through the existing `import_newsletter.py` pipeline. Deduplication checks `_newsletters/<slug>/index.md` before processing.
+
 ### Configuration
 
 Newsletter processing can be configured via environment variables or `config/newsletter_config.yml`. See `SHARED_TASK_NOTES.md` for details.

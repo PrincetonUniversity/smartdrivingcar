@@ -1,6 +1,7 @@
-.PHONY: help serve-local serve-preview serve-prod build-preview build-prod clean docker-local docker-preview docker-prod
+.PHONY: help serve-local serve-preview serve-prod build-preview build-prod clean docker-local docker-preview docker-prod backfill backfill-dry-run
 
 JEKYLL?=bundle exec jekyll
+PYTHON?=.venv/bin/python
 PORT?=4040
 HOST?=0.0.0.0
 
@@ -45,3 +46,10 @@ docker-preview:
 
 docker-prod:
 	docker run --rm -it -p $(PORT):4000 -v "$(PWD)":/site smartdrivingcar-site bundle exec jekyll serve --config _config.yml,_config_prod.yml --host 0.0.0.0 --port 4000 --livereload --force_polling
+
+# Backfill old newsletters from Listserv GETPOST wrapper emails
+backfill:
+	$(PYTHON) scripts/backfill_newsletters.py --dir backfill/
+
+backfill-dry-run:
+	$(PYTHON) scripts/backfill_newsletters.py --dir backfill/ --dry-run
