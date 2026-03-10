@@ -7,7 +7,7 @@ permalink: /newsletter/
 <h1>SmartDrivingCars Newsletter</h1>
 
 <div class="newsletter-page">
-  <main class="newsletter-main">
+  <div class="newsletter-main">
     <h2>Recent Issues</h2>
     <ul class="newsletter-archive">
     {% assign issues = site.newsletters | sort: 'date' | reverse %}
@@ -17,7 +17,7 @@ permalink: /newsletter/
       </li>
     {% endfor %}
     </ul>
-  </main>
+  </div>
 
   <aside class="newsletter-sidebar">
     <p class="newsletter-actions">
