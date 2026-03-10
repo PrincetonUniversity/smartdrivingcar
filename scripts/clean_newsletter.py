@@ -86,7 +86,8 @@ def clean_newsletter_html(input_html: str) -> str:
     footer_markers = [
         re.compile(r'^\*{5,}$'),
         re.compile(r'^\s*This list is maintained by', re.IGNORECASE),
-        re.compile(r'^\s*To unsubscribe from this list', re.IGNORECASE)
+        re.compile(r'^\s*To unsubscribe from this list', re.IGNORECASE),
+        re.compile(r'TICKET_URL\(', re.IGNORECASE),
     ]
     elements_to_remove = []
     footer_found = False

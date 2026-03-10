@@ -157,6 +157,9 @@ def remove_sdc_line(text):
         # Remove any line that links to smartdrivingcar.com (markdown or HTML)
         if re.search(r'(\[.*?\]\(https?://smartdrivingcar\.com.*?\))|(<a[^>]*href=["\']https?://smartdrivingcar\.com.*?>.*?</a>)|smartdrivingcar\.com', line, re.IGNORECASE):
             continue
+        # Remove Listserv macro lines (unsubscribe/subscribe ticket URLs)
+        if re.search(r'TICKET_URL\(', line):
+            continue
         new_lines.append(line)
     return '\n'.join(new_lines)
 
