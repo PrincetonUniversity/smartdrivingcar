@@ -106,6 +106,8 @@ def extract_author_slug(text):
         # Take only the last path segment (avoid capturing URL path prefixes)
         if '/' in slug:
             slug = slug.rsplit('/', 1)[-1]
+        # Strip redundant SmartDrivingCar.Com- prefix (dash variant)
+        slug = re.sub(r'^smartdrivingcar\.com-', '', slug, flags=re.IGNORECASE)
         if slug:
             return slug
     return None
