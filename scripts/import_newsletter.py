@@ -103,6 +103,9 @@ def extract_author_slug(text):
         slug = match.group(1).strip()
         # Clean up any trailing punctuation
         slug = re.sub(r'[.,;:!?]+$', '', slug)
+        # Take only the last path segment (avoid capturing URL path prefixes)
+        if '/' in slug:
+            slug = slug.rsplit('/', 1)[-1]
         if slug:
             return slug
     return None
@@ -276,10 +279,12 @@ def main():
     # Set explicit permalink matching existing pattern
     permalink = f"/{filename_base}/"
 
-    # Create display title from author slug (e.g., "13.17 Irene" from "13.17-Irene-11.14.25")
+    # Create display title from author slug (e.g., "13.17 - Irene" from "13.17-Irene-11.14.25")
     if author_slug:
         # Remove date suffix pattern like -11.14.25 or -11-14-25
         display_slug = re.sub(r'-\d{1,2}[.-]\d{1,2}[.-]\d{2,4}$', '', author_slug)
+        # Insert " - " between version number and name (e.g., "13.17-Irene" -> "13.17 - Irene")
+        display_slug = re.sub(r'^(\d+\.\d+)-', r'\1 - ', display_slug)
         display_slug = display_slug.replace('-', ' ')
     else:
         display_slug = None

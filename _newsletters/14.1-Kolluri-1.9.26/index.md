@@ -2,8 +2,8 @@
 layout: newsletter
 title: "Friday, Jan. 9, 2026"
 date: 2026-01-09
-permalink: /SmartDrivingCar.Com/14.1-Kolluri-1.9.26/
-display_name: "SmartDrivingCar.Com/14.1 Kolluri"
+permalink: /14.1-Kolluri-1.9.26/
+display_name: "14.1 - Kolluri"
 ---
 
 1st

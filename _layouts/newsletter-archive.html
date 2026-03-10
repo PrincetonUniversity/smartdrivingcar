@@ -16,13 +16,13 @@ layout: default
       {% if page.year and page.month %}
         {% if issue_year == page.year and issue_month == page.month %}
       <li>
-        <a href="{{ issue.url }}"><time datetime="{{ issue.date | date_to_xmlschema }}">{{ issue.date | date: '%Y-%m-%d' }}</time> – {% if issue.display_name %}{{ issue.display_name }}{% else %}{{ issue.title }}{% endif %}</a>
+        <a href="{{ issue.url }}"><time datetime="{{ issue.date | date_to_xmlschema }}">{{ issue.date | date: '%B %-d, %Y' }}</time> – {% if issue.display_name %}{{ issue.display_name }}{% else %}{{ issue.title }}{% endif %}</a>
       </li>
         {% endif %}
       {% elsif page.year %}
         {% if issue_year == page.year %}
       <li>
-        <a href="{{ issue.url }}"><time datetime="{{ issue.date | date_to_xmlschema }}">{{ issue.date | date: '%Y-%m-%d' }}</time> – {% if issue.display_name %}{{ issue.display_name }}{% else %}{{ issue.title }}{% endif %}</a>
+        <a href="{{ issue.url }}"><time datetime="{{ issue.date | date_to_xmlschema }}">{{ issue.date | date: '%B %-d, %Y' }}</time> – {% if issue.display_name %}{{ issue.display_name }}{% else %}{{ issue.title }}{% endif %}</a>
       </li>
         {% endif %}
       {% endif %}
