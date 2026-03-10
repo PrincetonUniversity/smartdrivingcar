@@ -113,6 +113,43 @@ def extract_author_slug(text):
             return slug
     return None
 
+
+def extract_slug_from_subject(subject):
+    """Extract and slugify the newsletter identifier from an email Subject header.
+
+    Handles subjects like 'SmartDrivingCar.com/13.01-Welcome Back -2/2/24'
+    where the body may not contain the slug pattern.
+    """
+    match = re.search(r'smartdrivingcar\.com/(.+)', subject, re.IGNORECASE)
+    if match:
+        raw = match.group(1).strip()
+        slug = slugify(raw)
+        if re.match(r'^\d+\.\d+', slug):
+            return slug
+    return None
+
+
+def extract_date_from_eml_header(path):
+    """Extract the Date header from an .eml file and return as ISO date string."""
+    with open(path, 'rb') as f:
+        msg = BytesParser(policy=policy.default).parse(f)
+    date_str = msg.get('Date', '')
+    if not date_str:
+        return None
+    try:
+        from email.utils import parsedate_to_datetime
+        dt = parsedate_to_datetime(date_str)
+        return dt.strftime('%Y-%m-%d')
+    except Exception:
+        return None
+
+
+def extract_subject_from_eml(path):
+    """Extract the Subject header from an .eml file."""
+    with open(path, 'rb') as f:
+        msg = BytesParser(policy=policy.default).parse(f)
+    return msg.get('Subject', '')
+
 def remove_sdc_line(text):
     lines = text.splitlines()
     new_lines = []
@@ -182,10 +219,12 @@ def main():
     args = ap.parse_args()
 
     date = args.date
+    eml_path = None
     if args.input:
         ext = os.path.splitext(args.input)[1].lower()
         if ext == '.eml':
             raw = extract_body_from_eml(args.input)
+            eml_path = args.input
         else:
             with open(args.input, 'r', encoding='utf-8', errors='ignore') as f:
                 raw = f.read()
@@ -198,11 +237,24 @@ def main():
     # Extract author's slug from SmartDrivingCar.Com/<slug> pattern
     author_slug = extract_author_slug(raw)
 
+    # Fallback: try extracting slug from .eml Subject header
+    if not author_slug and eml_path:
+        subject = extract_subject_from_eml(eml_path)
+        if subject:
+            author_slug = extract_slug_from_subject(subject)
+
     # Set date value
     if args.date:
         date_for_yaml = args.date
     elif first_date:
         date_for_yaml = first_date
+    elif eml_path:
+        # Fallback: use the .eml Date header
+        eml_date = extract_date_from_eml_header(eml_path)
+        if eml_date:
+            date_for_yaml = eml_date
+        else:
+            date_for_yaml = datetime.date.today().isoformat()
     else:
         date_for_yaml = datetime.date.today().isoformat()
 
@@ -286,9 +338,13 @@ def main():
     if author_slug:
         # Remove date suffix pattern like -11.14.25 or -11-14-25
         display_slug = re.sub(r'-\d{1,2}[.-]\d{1,2}[.-]\d{2,4}$', '', author_slug)
-        # Insert " - " between version number and name (e.g., "13.17-Irene" -> "13.17 - Irene")
-        display_slug = re.sub(r'^(\d+\.\d+)-', r'\1 - ', display_slug)
+        # Replace dashes with spaces first, then insert " - " separator
         display_slug = display_slug.replace('-', ' ')
+        display_slug = re.sub(r'^(\d+\.\d+)\s+', r'\1 - ', display_slug)
+        # Title-case the name portion
+        parts = display_slug.split(' - ', 1)
+        if len(parts) == 2:
+            display_slug = parts[0] + ' - ' + parts[1].title()
     else:
         display_slug = None
 
