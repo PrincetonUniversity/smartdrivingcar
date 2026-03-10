@@ -69,7 +69,7 @@ jobs:
       - name: Link check (internal only)
         uses: lycheeverse/lychee-action@v2
         with:
-          args: --no-progress --format detailed --offline ./_site
+          args: --no-progress --format detailed --offline --root-dir ./_site ./_site
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
