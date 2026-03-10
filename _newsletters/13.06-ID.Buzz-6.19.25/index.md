@@ -1,9 +1,9 @@
 ---
 layout: newsletter
-title: "2026-03-09"
-date: 2026-03-09
+title: "2025-06-21"
+date: 2025-06-21
 permalink: /13.06-ID.Buzz-6.19.25/
-display_name: "13.06   ID.Buzz"
+display_name: "13.06 - Id.Buzz"
 ---
 
 June 19, 2025
@@ -255,5 +255,3 @@ Hmmmm…
 ***************************************************************************************************************
 
 This list is maintained by [Alain Kornhauser](mailto:alaink@princeton.edu) and hosted by the [Princeton University LISTSERV](http://lists.princeton.edu).
-
-[Unsubscribe](&*TICKET_URL(SMARTDRIVINGCARS,SIGNOFF);) | [Re-subscribe](&*TICKET_URL(SMARTDRIVINGCARS,SIGNUP);)

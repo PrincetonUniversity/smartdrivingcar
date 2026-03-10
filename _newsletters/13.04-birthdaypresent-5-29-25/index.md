@@ -251,8 +251,7 @@ F.
                             informative to watch Rob report it live.
                              Alain
 
-[](https://www.youtube.com/playlist?list=PLFwuZ9jMeu5uwfTZP00zHjP7eSpG34Hsm)[SmartDrivingCars ZoomCasts](https!
- ://www.youtube.com/playlist?list=PLFwuZ9jMeu5uwfTZP00zHjP7eSpG34Hsm)
+[SmartDrivingCars ZoomCasts](https://www.youtube.com/playlist?list=PLFwuZ9jMeu5uwfTZP00zHjP7eSpG34Hsm)
 
  [Farmers fuming over California's
               ban on driverless tractors, other robots](https://www.nbcbayarea.com/news/local/autonomous-farming-agriculture-equipment-california/3878319/)
@@ -737,5 +736,3 @@ Alain
 ***************************************************************************************************************
 
 This list is maintained by [Alain Kornhauser](mailto:alaink@princeton.edu) and hosted by the [Princeton University LISTSERV](http://lists.princeton.edu).
-
-[Unsubscribe](&*TICKET_URL(SMARTDRIVINGCARS,SIGNOFF);) | [Re-subscribe](&*TICKET_URL(SMARTDRIVINGCARS,SIGNUP);)

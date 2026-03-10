@@ -352,5 +352,3 @@ We had an excellent class this Fall.  This is a compilation of their investigat
 ***************************************************************************************************************
 
 This list is maintained by [Alain Kornhauser](mailto:alaink@princeton.edu) and hosted by the [Princeton University LISTSERV](http://lists.princeton.edu).
-
-[Unsubscribe](&*TICKET_URL(SMARTDRIVINGCARS,SIGNOFF);) | [Re-subscribe](&*TICKET_URL(SMARTDRIVINGCARS,SIGNUP);)
