@@ -1,0 +1,1313 @@
+---
+layout: newsletter
+title: "2016-07-06"
+date: 2016-07-06
+permalink: /2016-07-06-2016-07-06/
+---
+
+Hmmm...What we know now (and don't know):
+
+1.  On May 7, 2016 at about 4:40pm EDT, there was a
+                                                          crash between
+                                                          a Tesla and a
+                                                          Class 8
+                                                          Tractor-Trailer.
+                                                          The accident
+                                                          is depicted in
+                                                          the [Diagram
+                                                          from the
+                                                          Police Report](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/TeslaCrash050716/PoliceReportDiagramTeslaCrash050716FrmNYT.JPG):
+                                                          HSMV Crash
+                                                          Report #
+                                                          85234095. [(1)](http://www.nytimes.com/2016/07/01/business/self-driving-tesla-fatal-crash-investigation.html?rref=collection%2Ftimestopic%2FNational%20Highway%20Traffic%20Safety%20Administration&action=click&contentCollection=timestopics&region=stream&module=stream_unit&version=latest&contentPlacement=1&pgtype=collection&_r=0)
+                                                          [Google
+                                                          Earth images
+                                                          from the site](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/TeslaCrash050716/CrashSceneGoogleEarth.pdf).
+
+ 2. The driver of the Tesla was [Joshua
+                                                          Brown](http://www.legacy.com/obituaries/ohio/obituary.aspx?pid=179994314).  "No
+                                                          citations have
+                                                          been issued,
+                                                          but the
+                                                          initial
+                                                          accident
+                                                          report from
+                                                          the FHP
+                                                          indicates the
+                                                          truck driver
+                                                          "failed to
+                                                          yield
+                                                          right-of-way.""
+                                                          [(2)](http://www.reuters.com/article/us-tesla-autopilot-dvd-idUSKCN0ZH5BW)
+
+                                                          .  Hmmm....No
+                                                          Citations???
+                                                          Did the truck
+                                                          have a data
+                                                          recorder?  Was
+                                                          the truck
+                                                          impounded, if
+                                                          so, how is the
+                                                          truck driver
+                                                          making a
+                                                          living since
+                                                          the crash?
+                                                          Why was his
+                                                          truck not
+                                                          equipped with
+                                                          sensors that
+                                                          can warn him
+                                                          of collision
+                                                          risks at
+                                                          intersections?
+                                                          As I've
+                                                          written,
+                                                          driving is one
+                                                          of the most
+                                                          dangerous
+                                                          occupations.
+                                                          Why isn't OSHA
+                                                          concerned
+                                                          about
+                                                          improving the
+                                                          environment of
+                                                          these
+                                                          workers?  Why
+                                                          doesn't  ATRI
+                                                          (the American
+                                                          Trucking
+                                                          Association's
+                                                          research arm
+                                                          recognize the
+                                                          lack
+                                                          availability/adoption
+                                                          of
+                                                          "SmartDrivingTruck
+                                                          technology" as
+                                                          one of its [Critical
+                                                          Issues](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Reports&Speaches_External/ATRI-2015-Top-Industry-Issues-FINAL-10-2015.pdf)?
+                                                          Why didn't his
+                                                          insurance
+                                                          agent
+                                                          encourage/convince
+                                                          him to equip
+                                                          his truck with
+                                                          collision risk
+                                                          sensors.  If
+                                                          they aren't
+                                                          commercially
+                                                          available, why
+                                                          hasn't his
+                                                          insurance
+                                                          company
+                                                          invested/promoted/lobbied
+                                                          for their
+                                                          development?
+                                                          These
+                                                          low-volume
+                                                          rural highway
+                                                          intersections
+                                                          are very
+                                                          dangerous.
+                                                          Technology
+                                                          could help.
+
+"...(the truck driver)...said
+                                                          he saw the
+                                                          Tesla
+                                                          approaching in
+                                                          the left,
+                                                          eastbound
+                                                          lane. Then it
+                                                          crossed to the
+                                                          right lane and
+                                                          struck his
+                                                          trailer. "I
+                                                          don't know why
+                                                          he went over
+                                                          to the slow
+                                                          lane when he
+                                                          had to have
+                                                          seen me," he
+                                                          said...." [(2)](http://www.reuters.com/article/us-tesla-autopilot-dvd-idUSKCN0ZH5BW)
+
+                                                          .  Hmmm....If
+                                                          the driver saw
+                                                          the Tesla
+                                                          change lanes,
+                                                          why did he
+                                                          "failed to
+                                                          yield
+                                                          right-of-way"???
+
+"...Meanwhile, the accident is
+                                                          stoking the
+                                                          debate on
+                                                          whether
+                                                          drivers are
+                                                          being lulled
+                                                          into a false
+                                                          sense of
+                                                          security by
+                                                          such
+                                                          technology. A
+                                                          man who lives
+                                                          on the
+                                                          property where
+                                                          Brown's car
+                                                          came to rest
+                                                          some 900 feet
+                                                          from the
+                                                          intersection
+                                                          where the
+                                                          crash occurred
+                                                          said when he
+                                                          approached the
+                                                          wreckage 15
+                                                          minutes after
+                                                          the crash, he
+                                                          could hear the
+                                                          DVD player. An
+                                                          FHP trooper on
+                                                          the scene told
+                                                          the property
+                                                          owner, Robert
+                                                          VanKavelaar,
+                                                          that a "Harry
+                                                          Potter" movie
+                                                          was showing on
+                                                          the DVD
+                                                          player,
+                                                          VanKavelaar
+                                                          told Reuters
+                                                          on Friday.
+
+                                                          Another
+                                                          witness,
+                                                          Terence
+                                                          Mulligan, said
+                                                          he arrived at
+                                                          the scene
+                                                          before the
+                                                          first Florida
+                                                          state trooper
+                                                          and found
+                                                          "there was no
+                                                          movie
+                                                          playing."
+                                                          "There was no
+                                                          music. I was
+                                                          at the car.
+                                                          Right at the
+                                                          car," Mulligan
+                                                          told Reuters
+                                                          on Friday.
+
+                                                          Sergeant Kim
+                                                          Montes of the
+                                                          Florida
+                                                          Highway Patrol
+                                                          said on Friday
+                                                          that "there
+                                                          was a portable
+                                                          DVD player in
+                                                          the vehicle,"
+                                                          but wouldn't
+                                                          elaborate
+                                                          further on it.
+                                                          She also said
+                                                          there was no
+                                                          camera found,
+                                                          mounted on the
+                                                          dash or of any
+                                                          kind, in the
+                                                          wreckage....
+
+...Mulligan said he was driving in
+                                                          the same
+                                                          westbound
+                                                          direction as
+                                                          the truck
+                                                          before it
+                                                          attempted to
+                                                          make a left
+                                                          turn across
+                                                          the eastbound
+                                                          lanes of U.S.
+                                                          Highway 27
+                                                          Alternate when
+                                                          he spotted the
+                                                          Tesla
+                                                          traveling
+                                                          east.
+                                                          Mulligan said
+                                                          the Tesla did
+                                                          not appear to
+                                                          be speeding on
+                                                          the road,
+                                                          which has a
+                                                          speed limit of
+                                                          65 miles per
+                                                          hour,
+                                                          according to
+                                                          the FHP...." [(2)](http://www.reuters.com/article/us-tesla-autopilot-dvd-idUSKCN0ZH5BW)
+
+                                                          .
+
+3. "...the vehicle was on a
+                                                          divided
+                                                          highway with
+                                                          Autopilot
+                                                          engaged when a
+                                                          tractor
+                                                          trailer drove
+                                                          across the
+                                                          highway
+                                                          perpendicular
+                                                          to the Model
+                                                          S. Neither
+                                                          Autopilot nor
+                                                          the driver
+                                                          noticed the
+                                                          white side of
+                                                          the tractor
+                                                          trailer
+                                                          against a
+                                                          brightly lit
+                                                          sky, so the
+                                                          brake was not
+                                                          applied. The
+                                                          high ride
+                                                          height of the
+                                                          trailer
+                                                          combined with
+                                                          its
+                                                          positioning
+                                                          across the
+                                                          road and the
+                                                          extremely rare
+                                                          circumstances
+                                                          of the impact
+                                                          caused the
+                                                          Model S to
+                                                          pass under the
+                                                          trailer, with
+                                                          the bottom of
+                                                          the trailer
+                                                          impacting the
+                                                          windshield of
+                                                          the Model S.
+                                                          Had the Model
+                                                          S impacted the
+                                                          front or rear
+                                                          of the
+                                                          trailer, even
+                                                          at high speed,
+                                                          its advanced
+                                                          crash safety
+                                                          system would
+                                                          likely have
+                                                          prevented
+                                                          serious injury
+                                                          as it has in
+                                                          numerous other
+                                                          similar
+                                                          incidents..."
+                                                          [(3)](https://www.teslamotors.com/blog/tragic-loss).
+                                                          Not sure how
+                                                          Tesla knows
+                                                          what Joshua
+                                                          Brown saw or
+                                                          did not see.
+                                                          Events prior
+                                                          to the crash
+                                                          unfolded over
+                                                          many seconds.
+                                                          Tesla must
+                                                          have precise
+                                                          data on the
+                                                          car's speed
+                                                          and steering
+                                                          angle, video
+                                                          for those many
+                                                          seconds prior
+                                                          to the crash,
+                                                          as well as,
+                                                          what it was
+                                                          "seeing" from MobilEye's cameras and
+                                                          radar data.
+                                                          At no time
+                                                          prior to the
+                                                          crash did it
+                                                          see anything
+                                                          crossing its
+                                                          intended
+                                                          travel lane?
+                                                          More
+                                                          important, why
+                                                          didn't the
+                                                          truck driver
+                                                          see the
+                                                          Tesla?  WHAT
+                                                          WAS HE DOING?
+                                                          What was the
+                                                          truck doing.
+                                                          How slow was
+                                                          it going?
+                                                          Hopefully
+                                                          there was a
+                                                          data speed
+                                                          recorder on
+                                                          the truck.  Was the truck impounded, if so, how is the truck
+                                                          driver making
+                                                          a living since
+                                                          the crash?
+
+One can also ask: Why was the truck not equipped with
+                                                          sensors that
+                                                          can warn the
+                                                          driver of
+                                                          collision
+                                                          risks at
+                                                          intersections?
+                                                          As I've
+                                                          written,
+                                                          driving is one
+                                                          of the most
+                                                          dangerous
+                                                          occupations.
+                                                          Why isn't OSHA
+                                                          concerned
+                                                          about
+                                                          improving this
+                                                          workplace
+                                                          environment?
+                                                          Why doesn't
+                                                          ATRI (the
+                                                          American
+                                                          Trucking
+                                                          Association's
+                                                          research arm)
+                                                          recognize the
+                                                          lack
+                                                          availability/adoption
+                                                          of
+                                                          "SmartDrivingTruck
+                                                          technology" as
+                                                          one of its [Critical
+                                                          Issues](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Reports&Speaches_External/ATRI-2015-Top-Industry-Issues-FINAL-10-2015.pdf)?
+                                                          Why didn't the
+                                                          driver's
+                                                          insurance
+                                                          agent
+                                                          encourage/convince
+                                                          him to equip
+                                                          his truck with
+                                                          collision risk
+                                                          sensors.  If
+                                                          they aren't
+                                                          commercially
+                                                          available, why
+                                                          hasn't his
+                                                          insurance
+                                                          company
+                                                          invested/promoted/lobbied
+                                                          for their
+                                                          development?
+                                                          These
+                                                          low-volume
+                                                          rural highway
+                                                          intersections
+                                                          are very
+                                                          dangerous.
+                                                          Technology
+                                                          could help.
+
+While the
+                                                          discussion is
+                                                          about
+                                                          AutoPilot, the
+                                                          Tesla also has
+                                                          Automated
+                                                          Emergency
+                                                          Braking (AEB)
+                                                          which is
+                                                          supposed to
+                                                          always be on.
+                                                          This seems
+                                                          more like an
+                                                          AEB failure
+                                                          rather than an
+                                                          AutoPilot
+                                                          failure. The
+                                                          Tesla didn't
+                                                          just drive off
+                                                          the road,  The
+                                                          discussion
+                                                          about
+                                                          "hands-on-wheels"
+                                                          is
+                                                          irrelevant.
+                                                          What was
+                                                          missing was
+                                                          "foot-on-brake"
+                                                          by the Tesla
+                                                          driver and
+                                                          "eyes-on-road"
+                                                          by, most
+                                                          importantly,
+                                                          the truck
+                                                          driver, since
+                                                          he initiated
+                                                          an action in
+                                                          violation to
+                                                          "rules of the
+                                                          road" that may
+                                                          have made a
+                                                          crash
+                                                          unavoidable.
+
+3. "Problem
+                                                          Description:
+                                                          A fatal
+                                                          highway crash
+                                                          involving a
+                                                          2015 Tesla
+                                                          Model S which,
+                                                          according to
+                                                          Tesla, was
+                                                          operating with
+                                                          automated
+                                                          driving
+                                                          systems
+                                                          ("Autopilot")
+                                                          engaged, calls
+                                                          for an
+                                                          examination
+
+                                                          of the design
+                                                          and
+                                                          performance of
+                                                          any driving
+                                                          aids in use at
+                                                          the time of
+                                                          the crash." [(4)](http://www-odi.nhtsa.dot.gov/acms/cs/jaxrs/download/doc/UCM530776/INOA-PE16007-7080.PDF). Not to be picky, but the initiator of the
+                                                          crash was the
+                                                          failure to
+                                                          yield by the
+                                                          truck driver.
+                                                          Why isn't this
+                                                          human failure
+                                                          the most
+                                                          fundamental "Problem
+                                                          Description"?
+                                                          If "driving
+                                                          aids" were
+                                                          supposed to
+                                                          "bail out" the
+                                                          truck driver's
+                                                          failure to
+                                                          yield, why
+                                                          isn't the AEB
+                                                          system's
+                                                          "design and
+                                                          performance"
+                                                          being
+                                                          examined.
+                                                          AutoPilot's
+                                                          responsibility
+                                                          is to keep the
+                                                          Tesla from
+                                                          steering off
+                                                          the road (and,
+                                                          as a last
+                                                          resort, yield
+                                                          to the AEB).
+                                                          The focus
+                                                          should be on
+                                                          AEBs.  How
+                                                          many other
+                                                          Tesla drivers
+                                                          have  perished
+                                                          that didn't
+                                                          have AutoPilot
+                                                          on, but had
+                                                          AEB?  How many
+                                                          drivers have
+                                                          perished of
+                                                          other cars
+                                                          that have
+                                                          AEB?  Seems as
+                                                          if this crash
+                                                          was more about
+                                                          an emergency
+                                                          automated
+                                                          systems
+                                                          failing to
+                                                          apply the
+                                                          brakes, rather
+                                                          than a driver
+                                                          not having his
+hands-on-wheel.  Unfortunately, it is likely that we will eventually
+                                                          have a
+                                                          fatality in
+                                                          which an
+                                                          "AutoPilot"
+                                                          will fail to
+                                                          keep a "Tesla"
+                                                          on the road
+                                                          (or in a
+                                                          "correct"
+                                                          lane), but
+                                                          from what is
+                                                          known so far,
+                                                          this does not
+                                                          seem to be the
+                                                          crash.
+
+4. "What we learn here is
+                                                          that
+                                                          Mobileye's
+                                                          system in
+                                                          Tesla's
+                                                          Autopilot does
+                                                          gather the
+                                                          information
+                                                          from the
+                                                          vehicle's
+                                                          sensors,
+                                                          primarily the
+                                                          front facing
+                                                          camera and
+                                                          radar, but
+                                                          while it
+                                                          gathers the
+                                                          data,
+                                                          Mobileye's
+                                                          tech can't (or
+                                                          not well
+                                                          enough until
+                                                          2018)
+                                                          recognize the
+                                                          side of
+                                                          vehicles and
+                                                          therefore,
+                                                          itcan't work
+                                                          in a situation
+                                                          where braking
+                                                          is required to
+                                                          stop a Tesla
+                                                          from hitting
+                                                          the side of
+                                                          another
+                                                          vehicle.
+
+                                                          Since Tesla
+                                                          pushed its 7.1
+                                                          update earlier
+                                                          this year, the
+                                                          automaker's
+                                                          own system
+                                                          used the same
+                                                          data to
+                                                          recognize
+                                                          anything,
+                                                          under adequate
+                                                          conditions,
+                                                          that could
+                                                          obstruct the
+                                                          path of the
+                                                          Tesla and if
+                                                          the radar's
+                                                          reading is
+                                                          consistent
+                                                          with the data
+                                                          from the
+                                                          camera, it
+                                                          will apply the
+                                                          brakes.
+
+                                                          Now that's
+                                                          something that
+                                                          was put to the
+                                                          test by Model
+                                                          S owners
+                                                          earlier in the
+                                                          week:" [(4)](http://electrek.co/2016/07/02/tesla-autopilot-mobileye-automatic-emergency-braking/).
+                                                          See video,  "In the last two tests, the
+                                                          Autopilot
+                                                          appears to
+                                                          detect an
+                                                          obstacle as
+                                                          evidenced by
+                                                          the forward
+                                                          collision
+                                                          warning
+                                                          alerts, but
+                                                          the automatic
+                                                          emergency
+                                                          braking didn't
+                                                          activate,
+                                                          which raised
+                                                          questions –
+                                                          not unlike in
+                                                          the fatal
+                                                          crash.
+
+                                                          Though as
+                                                          Tesla
+                                                          explained, the
+                                                          trailer was
+                                                          not detected
+                                                          in the fatal
+                                                          crash, the
+                                                          radar confused
+                                                          it for an
+                                                          overhead sign,
+                                                          but in the
+                                                          tests above,
+                                                          the forward
+                                                          collision
+                                                          warning system
+                                                          sent out an
+                                                          alert – though
+                                                          as evidenced
+                                                          by the fact
+                                                          that the test
+                                                          subject wasn't
+                                                          hit, the AEB
+                                                          didn't need to
+                                                          activate and
+                                                          therefore it
+                                                          didn't. Tesla
+                                                          explains:
+
+                                                          "AEB does not
+                                                          engage when an
+                                                          alternative
+                                                          collision
+                                                          avoidance
+                                                          strategy
+                                                          (e.g., driver
+                                                          steering)
+                                                          remains
+                                                          viable.
+                                                          Instead, when
+                                                          a collision
+                                                          threat is
+                                                          detected,
+                                                          forward
+                                                          collision
+                                                          warning alerts
+                                                          the driver to
+                                                          encourage them
+                                                          to take
+                                                          appropriate
+                                                          evasive
+                                                          action. AEB is
+                                                          a fallback
+                                                          safety feature
+                                                          that operates
+                                                          by design only
+                                                          at high levels
+                                                          of severity
+                                                          and should not
+                                                          be tested with
+                                                          live
+                                                          subjects."..."
+                                                          [Read
+                                                          more](http://electrek.co/2016/07/02/tesla-autopilot-mobileye-automatic-emergency-braking/)(5) With all of the expertise that MobilEye has in
+                                                          image
+                                                          processing, it
+                                                          is surprising
+                                                          that it can't
+                                                          recognize the
+                                                          side of a
+                                                          tractor
+                                                          trailer or
+                                                          gets confused
+                                                          with overhead
+                                                          signs and
+                                                          tunnel
+                                                          openings.  If
+                                                          overhead signs
+                                                          (and
+                                                          overpasses and
+                                                          tree canopies)
+                                                          are really the
+                                                          issue, then
+                                                          these can be
+                                                          readily
+                                                          geocoded and
+                                                          included in
+                                                          the digital
+                                                          map database.)
+
+5.  It seems that all of the other stuff about DVD
+                                                          player,
+                                                          watching
+                                                          movies,
+                                                          previous
+                                                          postings on
+                                                          YouTube is
+                                                          noise.
+                                                          Automated
+                                                          Collision
+                                                          Avoidance
+                                                          Systems and
+                                                          their
+                                                          Automated
+                                                          Emergency
+                                                          Braking
+                                                          sub-system
+                                                          MUST be more
+                                                          robust a
+                                                          mitigating "failed to yield
+                                                          right-of-way"
+                                                          situations
+                                                          irrespective
+                                                          of the
+                                                          "failure to
+                                                          yield" derived
+                                                          from a human
+                                                          action (as
+                                                          seems to have
+                                                          occurred in
+                                                          this crash) or
+                                                          an "autoPilot"
+                                                          (which doesn't
+                                                          seem to be the
+                                                          case in this
+                                                          crash).  Alain
+
+(1)
+                                                          [Self-Driving
+                                                          Tesla Was
+                                                          Involved in
+                                                          Fatal Crash,
+                                                          U.S. Says](http://www.nytimes.com/2016/07/01/business/self-driving-tesla-fatal-crash-investigation.html?rref=collection%2Ftimestopic%2FNational%20Highway%20Traffic%20Safety%20Administration&action=click&contentCollection=timestopics&region=stream&module=stream_unit&version=latest&contentPlacement=1&pgtype=collection&_r=0),
+                                                          June 30 NYT,
+
+(2) [DVD
+                                                          player found
+                                                          in Tesla car
+                                                          in fatal May
+                                                          crash](http://www.reuters.com/article/us-tesla-autopilot-dvd-idUSKCN0ZH5BW),
+                                                          July 1,
+                                                          Reuters
+
+(3)[A Tragic Los](https://www.teslamotors.com/blog/tragic-loss)s, June 30, Tesla Blog
+
+(4) [NHTSA
+                                                          ODI Resume PE
+                                                          16-007
+                                                          Automatic
+                                                          vehicle
+                                                          control system, June 28, 2016](http://www-odi.nhtsa.dot.gov/acms/cs/jaxrs/download/doc/UCM530776/INOA-PE16007-7080.PDF)
+
+(5) [Tesla
+                                                          elaborates on
+                                                          Autopilot's
+                                                          automatic
+                                                          emergency
+                                                          braking
+                                                          capacity over
+                                                          Mobileye's
+                                                          system](http://electrek.co/2016/07/02/tesla-autopilot-mobileye-automatic-emergency-braking/)
+                                                          Electrek, July
+                                                          2, 2016  See
+                                                          also: [Understanding
+                                                          the fatal
+                                                          Tesla accident
+                                                          on Autopilot
+                                                          and the NHTSA
+                                                          probe](http://electrek.co/2016/07/01/understanding-fatal-tesla-accident-autopilot-nhtsa-probe/)July 2, 2016, [Tesla
+                                                          Autopilot
+                                                          partner
+                                                          Mobileye
+                                                          comments on
+                                                          fatal crash,
+                                                          says tech
+                                                          isn't meant to
+                                                          avoid this
+                                                          type of
+                                                          accident
+                                                          [Updated]](http://electrek.co/2016/07/01/tesla-autopilot-mobileye-fatal-crash-comment/),
+                                                          July 1,
+
+## Some other thoughts that deserve your attention
+
+### [Now
+                                                          Orbiting
+                                                          Jupiter,
+                                                          NASA's Juno
+                                                          Spacecraft Is
+                                                          Poised for
+                                                          'Tantalizing'
+                                                          Data](http://www.nytimes.com/2016/07/06/science/nasa-jupiter-juno-orbit.html?rref=collection%2Fsectioncollection%2Fscience&action=click&contentCollection=science&region=rank&module=package&version=highlights&contentPlacement=2&pgtype=sectionfront&_r=0)
+
+### [Our
+                                                          Vast Solar
+                                                          System and Its
+                                                          Many Explorers](http://www.nytimes.com/interactive/2016/07/05/science/nasa-space-missions.html?rref=collection%2Fsectioncollection%2Fscience&action=click&contentCollection=science&region=rank&module=package&version=highlights&contentPlacement=1&pgtype=sectionfront)
+
+## [On the More Technical Side](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Papers/)
+
+[http://orfe.princeton.edu/~alaink/SmartDrivingCars/Papers/](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Papers/)
+
+## Recompiled
+                                                          Old News &
+                                                          Smiles:
+
+## Half-baked
+                                                          stuff that
+                                                          probably
+                                                          doesn't
+                                                          deserve your
+                                                          time:
+
+###
+
+###
+
+## [C'mon Man!](https://www.youtube.com/watch?v=A7SwSd59E4I) (These folks didn't get/read
+                                                          the memo)
+
+## Calendar of Upcoming Events:
+
+[](http://community.ite.org/events/event-description?CalendarEventKey=3251f8d0-945b-4923-a4b4-eb4945aeddf1)
+
+### [ITE
+                                                          + ARRB Present
+                                                          Driverless
+                                                          Vehicles:
+                                                          Progress in
+                                                          the U.S. and
+                                                          Australia
+                                                          Webinar](http://community.ite.org/events/event-description?CalendarEventKey=3251f8d0-945b-4923-a4b4-eb4945aeddf1)
+
+[My
+                                                          Slides](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Presentations/ITE-ARRB_Webinar_V5.pptx)
+
+                                                          Thursday, June
+                                                          30, 2016,
+
+                                                          6:00 PM - 7:30
+                                                          PM (UTC-5:00)
+                                                          Eastern Time
+                                                          (US &
+                                                          Canada)
+
+### Recent
+                                                          Highlights of:
+
+#
+
+###
+
+### [A Tragic Loss](https://www.teslamotors.com/blog/tragic-loss)
+
+Blog,
+                                                          June 30, "We
+                                                          learned
+                                                          yesterday
+                                                          evening that
+                                                          NHTSA is
+                                                          opening a
+                                                          preliminary
+                                                          evaluation
+                                                          into the
+                                                          performance of
+                                                          Autopilot
+                                                          during a
+                                                          recent fatal
+                                                          crash that
+                                                          occurred in a
+                                                          Model S. This
+                                                          is the first
+                                                          known fatality
+                                                          in just over
+                                                          130 million
+                                                          miles where
+                                                          Autopilot was
+                                                          activated...
+
+                                                          The customer
+                                                          who died in
+                                                          this crash had
+                                                          a loving
+                                                          family and we
+                                                          are beyond
+                                                          saddened by
+                                                          their loss. He
+                                                          was a friend
+                                                          to Tesla and
+                                                          the broader EV
+                                                          community, a
+                                                          person who
+                                                          spent his life
+                                                          focused on
+                                                          innovation and
+                                                          the promise of
+                                                          technology and
+                                                          who believed
+                                                          strongly in
+                                                          Tesla's
+                                                          mission. We
+                                                          would like to
+                                                          extend our
+                                                          deepest
+                                                          sympathies to
+                                                          his family and
+                                                          friends."    [Read more](https://www.teslamotors.com/blog/tragic-loss)  I also wish to extend my deepest and sincerest
+                                                          sympathies and
+                                                          condolences to
+                                                          his family and
+                                                          friends.   Alain
+
+### [Self-Driving
+                                                          Tesla Was
+                                                          Involved in
+                                                          Fatal Crash,
+                                                          U.S. Says](http://www.nytimes.com/2016/07/01/business/self-driving-tesla-fatal-crash-investigation.html?rref=collection%2Ftimestopic%2FNational%20Highway%20Traffic%20Safety%20Administration&action=click&contentCollection=timestopics&region=stream&module=stream_unit&version=latest&contentPlacement=1&pgtype=collection)
+
+                                                          B. Vlasic
+                                                          & N.
+                                                          Boudette, June
+                                                          30. "Federal
+                                                          regulators,
+                                                          who are in the
+                                                          early stages
+                                                          of setting
+                                                          guidelines for
+                                                          autonomous
+                                                          vehicles, have
+                                                          opened a
+                                                          formal
+                                                          investigation
+                                                          into the
+                                                          incident,
+                                                          which occurred
+                                                          on May 7 in
+                                                          Williston, Fla
+                                                          ....said
+                                                          preliminary
+                                                          reports
+                                                          indicated that
+                                                          the crash
+                                                          occurred when
+                                                          a
+                                                          tractor-trailer
+                                                          made a left
+                                                          turn in front
+                                                          of the Tesla,
+                                                          and the car
+                                                          failed to
+                                                          apply the
+                                                          brakes.
+
+Florida
+                                                          Highway Patrol
+                                                          identified him
+                                                          as Joshua
+                                                          Brown, 40, of
+                                                          Canton, Ohio.
+                                                          He was a Navy
+                                                          veteran who
+                                                          owned a
+                                                          technology
+                                                          consulting
+                                                          firm...." [Read
+                                                          more](http://www.nytimes.com/2016/07/01/business/self-driving-tesla-fatal-crash-investigation.html?rref=collection%2Ftimestopic%2FNational%20Highway%20Traffic%20Safety%20Administration&action=click&contentCollection=timestopics&region=stream&module=stream_unit&version=latest&contentPlacement=1&pgtype=collection)  Hmmm...Thank you NYT for providing more information
+                                                          on [Joshua
+                                                          Brown](http://www.legacy.com/obituaries/ohio/obituary.aspx?pid=179994314).
+
+                                                          What is
+                                                          interesting
+                                                          here is that
+                                                          failure is
+                                                          being
+                                                          attributed to
+                                                          the AutoPilot
+                                                          aspects rather
+                                                          than the
+                                                          Automated
+                                                          Collision
+                                                          Avoidance
+                                                          (ACA) aspects
+                                                          of the car.
+                                                          Yes, ACA is a
+                                                          building block
+                                                          of AutoPilot,
+                                                          but it is a
+                                                          system that is
+                                                          supposed to be
+                                                          on all the
+                                                          time and
+                                                          can not, and
+                                                          should not, be
+                                                          disabled by
+                                                          the driver.
+                                                          (Similar to
+                                                          the anti-lock
+                                                          mechanism in
+                                                          brakes and
+                                                          electronic
+                                                          stability
+                                                          control.  The
+                                                          information
+                                                          made available
+                                                          so far does
+                                                          NOT implicate
+                                                          AutoPilot's
+                                                          driverless
+                                                          "Summoning" ,
+                                                          lane changing
+                                                          function, nor
+                                                          lane centering
+                                                          functions.
+                                                          It's
+                                                          Intelligent
+                                                          Cruise Control
+                                                          at some point
+                                                          was
+                                                          challenged,
+                                                          but probable
+                                                          failure may
+                                                          lie in the ACA
+                                                          (which one
+                                                          would like to
+                                                          think is on
+                                                          all the
+                                                          time).  To
+                                                          date ACA
+                                                          systems have
+                                                          unfortunately
+                                                          over-promised
+                                                          and
+                                                          under-delivered.
+                                                          All one need
+                                                          to do is to
+                                                          look at the
+                                                          videos in [slide
+                                                          9 of David
+                                                          Zuby's
+                                                          presentation](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Presentations/ZubyIIHS_Presentation_2106.pptx)at
+                                                          last week's
+                                                          I-95 CC AV
+                                                          Conference.
+                                                          The
+                                                          manufacturer-selected
+                                                          settings for
+                                                          these systems
+                                                          are too
+                                                          timidly set in
+                                                          the trade-off
+                                                          between
+                                                          "false-alarm"
+                                                          and "crash
+                                                          anyway".  They
+                                                          also need to
+                                                          be improved, (
+                                                          which is true
+                                                          of all
+                                                          technology
+                                                          developments).
+                                                          We fail, we
+                                                          learn, we fix
+                                                          , we improve.
+                                                          (We certainly
+                                                          don't do what
+                                                          GM did with
+                                                          the [ignition
+                                                          switch issue](http://www.nytimes.com/2015/09/18/business/gm-to-pay-us-900-million-over-ignition-switch-flaw.html)
+                                                          .). Zuby's
+                                                          following
+                                                          slides
+                                                          highlight that
+                                                          these first
+                                                          generation
+                                                          ACAs do
+                                                          deliver some
+                                                          crash
+                                                          avoidance
+                                                          value but they
+                                                          should, and
+                                                          very likely
+                                                          can, work much
+                                                          better.  What
+                                                          I haven't seen
+                                                          published is
+                                                          information on
+                                                          highway deaths
+                                                          involving
+                                                          vehicles that
+                                                          had ACA.
+                                                          There must be
+                                                          many.  It may
+                                                          well be that
+                                                          this accident
+                                                          is another one
+                                                          of those and
+                                                          not one in
+                                                          which the
+                                                          Sunday
+                                                          Supplement
+                                                          vision of
+                                                          "Self-driving"
+                                                          is to blame
+                                                          just because
+                                                          it happened to
+                                                          be on at crash
+                                                          time.  (It is
+                                                          likely that [EgyptAir
+                                                          804's](http://www.nytimes.com/live/egyptair-flight-missing-paris-cairo/)
+                                                          autopilot was
+                                                          on when it
+                                                          began to fall
+                                                          out of the sky
+                                                          on May 19;
+                                                          however, it is
+                                                          not likely
+                                                          that its
+                                                          autopilot
+                                                          played a
+                                                          significant
+                                                          role in its
+                                                          crash.)
+
+                                                          A couple other
+                                                          things:  We
+                                                          have all
+                                                          expected this
+                                                          day to come
+                                                          because we
+                                                          know that
+                                                          nothing is
+                                                          perfect.  I am
+                                                          sure that
+                                                          Tesla and
+                                                          Google and
+                                                          everyone else
+                                                          in this field
+                                                          have
+                                                          developed,
+                                                          rehearsed and
+                                                          practiced
+                                                          contingency
+                                                          plans
+                                                          associated
+                                                          with this kind
+                                                          of event.  It
+                                                          surprises me
+                                                          that Tesla's
+                                                          plan would be
+                                                          one to wait
+                                                          nearly 2 month
+                                                          and follow
+                                                          rather than
+                                                          lead some
+                                                          announcement
+                                                          by some public
+                                                          agency.  It
+                                                          may be that
+                                                          Tesla doesn't
+                                                          correlate this
+                                                          crash with
+                                                          "self-driving"
+                                                          but with
+                                                          something else
+                                                          so it didn't
+                                                          fit into the
+                                                          contingency.
+                                                          Don't know (it
+                                                          doesn't really
+                                                          matter anyway,
+                                                          just
+                                                          surprised.).
+
+                                                          The other
+                                                          thing is: why
+                                                          is NHTSA doing
+                                                          the formal
+                                                          investigation?
+                                                          (We know the
+                                                          textbook
+                                                          answer!) and
+                                                          not NTSB (NTSB
+                                                          has experience
+                                                          in
+                                                          investigating
+                                                          transportation
+                                                          crashes that
+                                                          involve
+                                                          "autoPilots"
+                                                          and
+                                                          "blackBoxes",
+                                                          both of which
+                                                          are involved
+                                                          in this case.)
+                                                          or some new
+                                                          public entity
+                                                          (there are
+                                                          arguments that
+                                                          can be made
+                                                          that have
+                                                          "Self-driving"
+                                                          and
+                                                          "Driverless"
+                                                          as new "modes"
+                                                          that deserve
+                                                          their own
+                                                          public
+                                                          oversight as
+                                                          is afforded to
+                                                          aviation,
+                                                          pipelines,
+                                                          railroads,
+                                                          trucks, ...)
+
+                                                          Finally, we have had many tragedies, learned from them,  fixed
+                                                          things and
+                                                          achieved the
+                                                          benefits that
+                                                          we sought.
+                                                          This does not
+                                                          reach the
+                                                          levels of the
+                                                          [Apollo
+                                                          1](http://history.nasa.gov/Apollo204/) and [Challenger](http://www.nytimes.com/learning/general/onthisday/big/0128.html)
+                                                          tragedies nor
+                                                          require that
+                                                          intensive of
+                                                          an
+                                                          investigation.
+                                                          The [Amtrak
+                                                          188
+                                                          Philadelphia
+                                                          Derailment](http://www.ntsb.gov/news/events/Pages/2016-Amtrak-BMG.aspx)
+                                                          comes closer.
+                                                          This case
+                                                          certainly
+                                                          deserves as
+                                                          intense of an
+                                                          investigation
+                                                          as was made
+                                                          there (without
+                                                          the conclusion
+                                                          the train
+                                                          engineer under
+                                                          the bus".)
+                                                          Alain
+
+                                                          [](Mailto:alaink@princeton.edu)[Mailto:alaink@princeton.edu](Mailto:alaink@princeton.edu) [](Mailto:alaink@princeton.edu)
+
+                                                          This list is
+                                                          maintained by
+                                                          [Alain Kornhauser](mailto:alaink@princeton.edu) and hosted by the [Princeton University LISTSERV](http://lists.princeton.edu).
+
+[Unsubscribe](https://lists.princeton.edu/cgi-bin/wa?TICKET=NzM1MjMzIGJpbm9AUFJJTkNFVE9OLkVEVSBTTUFSVERSSVZJTkdDQVJTIGluYtYkJuu3&c=SIGNOFF) |[Re-subscribe](https://lists.princeton.edu/cgi-bin/wa?SUBED1=SmartDrivingCars&A=1)
+
+***************************************************************************************************************
+
+This list is maintained by [Alain Kornhauser](mailto:alaink@princeton.edu) and hosted by the [Princeton University LISTSERV](http://lists.princeton.edu).
