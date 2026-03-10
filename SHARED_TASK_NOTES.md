@@ -106,8 +106,12 @@ Additional config options: `cleaning` (footer patterns, remove patterns, replace
 # Tear down all resources
 ./azure/deploy/teardown.sh
 ./azure/deploy/teardown.sh --yes  # skip confirmation
-./azure/deploy/teardown.sh --resource-group rg-smartdrivingcar
+./azure/deploy/teardown.sh --resource-group orfe-dept-azure-alaink-sdc-rg
 ```
+
+After teardown, manually revoke OAuth apps for a clean break:
+- **GitHub**: Bot account > Settings > Applications > Authorized OAuth Apps — revoke "Microsoft Azure Logic Apps"
+- **O365**: Admin portal for the mailbox account — revoke consent for "Microsoft Azure Logic Apps"
 
 ## Future Extension Ideas
 

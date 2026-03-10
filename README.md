@@ -142,6 +142,10 @@ Listserv → orfe-lists@princeton.edu (O365)
 
 All scripts support `--help` for usage details. OAuth connections require one-time browser authorization during initial deploy.
 
+**After teardown**, the OAuth tokens in Azure are destroyed, but authorized app entries may remain on the connected accounts. To fully revoke access:
+- **GitHub**: Bot account > Settings > Applications > Authorized OAuth Apps — revoke "Microsoft Azure Logic Apps"
+- **O365**: Admin portal for the mailbox account — revoke consent for "Microsoft Azure Logic Apps"
+
 ### Configuration
 
 Newsletter processing can be configured via environment variables or `config/newsletter_config.yml`. See `SHARED_TASK_NOTES.md` for details.
