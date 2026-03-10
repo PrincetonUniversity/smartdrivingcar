@@ -10,6 +10,9 @@ scripts/__pycache__/clean_newsletter.cpython-313.pyc
 __pycache__/
 *.pyc
 
+# Backfill input directory
+backfill/
+
 # Azure Functions
 azure/functions/lib/
 azure/functions/local.settings.json
