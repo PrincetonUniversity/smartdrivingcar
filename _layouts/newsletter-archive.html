@@ -30,37 +30,39 @@ layout: default
     </ul>
   </div>
 
-  <aside class="newsletter-sidebar">
-    <h3>Browse by Year</h3>
-    <ul class="year-list">
-    {% assign years_seen = "" %}
-    {% for issue in issues %}
-      {% assign issue_year = issue.date | date: '%Y' %}
-      {% unless years_seen contains issue_year %}
-        {% assign years_seen = years_seen | append: issue_year | append: "," %}
-      <li><a href="/newsletter/{{ issue_year }}/">{{ issue_year }}</a></li>
-      {% endunless %}
-    {% endfor %}
-    </ul>
-
-    {% if page.year and page.month == nil %}
-    <h3>Browse by Month</h3>
-    <ul class="year-list">
-    {% assign months_seen = "" %}
-    {% for issue in issues %}
-      {% assign issue_year = issue.date | date: '%Y' %}
-      {% if issue_year == page.year %}
-        {% assign issue_month = issue.date | date: '%m' %}
-        {% assign month_key = issue_year | append: "-" | append: issue_month %}
-        {% unless months_seen contains month_key %}
-          {% assign months_seen = months_seen | append: month_key | append: "," %}
-      <li><a href="/newsletter/{{ issue_year }}/{{ issue_month }}/">{{ issue.date | date: '%B' }}</a></li>
+  <div class="newsletter-sidebar-col">
+    <aside class="newsletter-sidebar">
+      <h3>Browse by Year</h3>
+      <ul class="year-list">
+      {% assign years_seen = "" %}
+      {% for issue in issues %}
+        {% assign issue_year = issue.date | date: '%Y' %}
+        {% unless years_seen contains issue_year %}
+          {% assign years_seen = years_seen | append: issue_year | append: "," %}
+        <li><a href="/newsletter/{{ issue_year }}/">{{ issue_year }}</a></li>
         {% endunless %}
+      {% endfor %}
+      </ul>
+
+      {% if page.year and page.month == nil %}
+      <h3>Browse by Month</h3>
+      <ul class="year-list">
+      {% assign months_seen = "" %}
+      {% for issue in issues %}
+        {% assign issue_year = issue.date | date: '%Y' %}
+        {% if issue_year == page.year %}
+          {% assign issue_month = issue.date | date: '%m' %}
+          {% assign month_key = issue_year | append: "-" | append: issue_month %}
+          {% unless months_seen contains month_key %}
+            {% assign months_seen = months_seen | append: month_key | append: "," %}
+        <li><a href="/newsletter/{{ issue_year }}/{{ issue_month }}/">{{ issue.date | date: '%B' }}</a></li>
+          {% endunless %}
+        {% endif %}
+      {% endfor %}
+      </ul>
       {% endif %}
-    {% endfor %}
-    </ul>
-    {% endif %}
-  </aside>
+    </aside>
+  </div>
 </div>
 
 {{ content }}

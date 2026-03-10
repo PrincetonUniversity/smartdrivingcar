@@ -19,21 +19,23 @@ permalink: /newsletter/
     </ul>
   </div>
 
-  <aside class="newsletter-sidebar">
-    <p class="newsletter-actions">
-      <a class="btn manage-subscription" href="https://kornhauser.princeton.edu/newsletter">Manage Subscription</a>
-    </p>
+  <div class="newsletter-sidebar-col">
+    <aside class="newsletter-sidebar">
+      <p class="newsletter-actions">
+        <a class="btn manage-subscription" href="https://kornhauser.princeton.edu/newsletter">Manage Subscription</a>
+      </p>
 
-    <h3>Browse by Year</h3>
-    <ul class="year-list">
-    {% assign years_seen = "" %}
-    {% for issue in issues %}
-      {% assign issue_year = issue.date | date: '%Y' %}
-      {% unless years_seen contains issue_year %}
-        {% assign years_seen = years_seen | append: issue_year | append: "," %}
-      <li><a href="/newsletter/{{ issue_year }}/">{{ issue_year }}</a></li>
-      {% endunless %}
-    {% endfor %}
-    </ul>
-  </aside>
+      <h3>Browse by Year</h3>
+      <ul class="year-list">
+      {% assign years_seen = "" %}
+      {% for issue in issues %}
+        {% assign issue_year = issue.date | date: '%Y' %}
+        {% unless years_seen contains issue_year %}
+          {% assign years_seen = years_seen | append: issue_year | append: "," %}
+        <li><a href="/newsletter/{{ issue_year }}/">{{ issue_year }}</a></li>
+        {% endunless %}
+      {% endfor %}
+      </ul>
+    </aside>
+  </div>
 </div>
