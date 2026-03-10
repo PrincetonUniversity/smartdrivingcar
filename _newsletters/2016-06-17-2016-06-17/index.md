@@ -1,0 +1,2703 @@
+---
+layout: newsletter
+title: "2016-06-17"
+date: 2016-06-17
+permalink: /2016-06-17-2016-06-17/
+---
+
+### [Planning for the
+                                                          Autonomous
+                                                          Vehicle
+                                                          Revolution](https://www.planning.org/blog/blogpost/9105024/)
+
+                                                      J. DeAngelis, June
+                                                      15, "...autonomous
+                                                      vehicles (AVs)
+                                                      also stand to
+                                                      disrupt the norms
+                                                      of both
+                                                      transportation and
+                                                      land use planning.
+                                                      According to a new
+                                                      report from the
+                                                      Florida State
+                                                      University
+                                                      Department of
+                                                      Urban &
+                                                      Regional Planning
+                                                      titled Envisioning
+                                                      Florida's Future:
+                                                      Transportation and
+                                                      Land Use in an
+                                                      Automated Vehicle
+                                                      World, AVs may
+                                                      exert as great an
+                                                      influence on the
+                                                      built environment
+                                                      as the mass
+                                                      production of the
+                                                      automobile did in
+                                                      the early to
+                                                      middle 20th
+                                                      century.
+
+                                                      Parking minimums,
+                                                      street design,
+                                                      rights of way,
+                                                      development
+                                                      demand, signage
+                                                      and signalization,
+                                                      building siting
+                                                      and design, access
+                                                      management, and
+                                                      their accompanying
+                                                      norms and
+                                                      standards have the
+                                                      potential to
+                                                      change
+                                                      dramatically over
+                                                      the next 40-50
+                                                      years.a..." [Read
+                                                        more](https://www.planning.org/blog/blogpost/9105024/)Hmmm....
+                                                          Land-use
+                                                          implications
+                                                          are THE big
+                                                          unknowns.  See
+                                                          report next.
+                                                        Alain
+
+### [Envisioning
+                                                        Florida's
+                                                        Future:
+                                                        Transportation
+                                                        and Land Use in
+                                                        an Automated
+                                                        Vehicle
+                                                        Automated
+                                                        Vehicle World](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Reports&Speaches_External/EnvisioningFloridaFuture-FinalReportApril16.pdf)
+
+                                                    T. Chapin, et al.
+                                                    April 2016, "...Key
+                                                    themes from these
+                                                    discussions included
+                                                    that AVs will
+                                                    require narrower
+                                                    right-of-ways and
+                                                    travel lanes;
+                                                    influence the
+                                                    location, form, and
+                                                    amount of parking;
+                                                    impact the mobility
+                                                    of bicyclists and
+                                                    pedestrians;
+                                                    declutter urban
+                                                    environments through
+                                                    reduced
+                                                    signalization and
+                                                    signage; and provide
+                                                    opportunities for
+                                                    redevelopment on now
+                                                    unnecessary parking
+                                                    lots and excess
+                                                    right-of-ways. In
+                                                    this way, this study
+                                                    affirms that AVs are
+                                                    expected to
+                                                    drastically affect
+                                                    the design and
+                                                    functioning of the
+                                                    built environment
+                                                    and provides a
+                                                    starting point for
+                                                    public and private
+                                                    stakeholders to
+                                                    prepare for these
+                                                    impacts. While
+                                                    further research
+                                                    will be necessary,
+                                                    this study provides
+                                                    preliminary guidance
+                                                    for the policy
+                                                    decisions and
+                                                    infrastructure
+                                                    investments
+                                                    necessary to
+                                                    leverage AV
+                                                    technology to create
+                                                    a transportation
+                                                    system that is safer
+                                                    and more efficient
+                                                    than ever before and
+                                                    an urban environment
+                                                    built upon
+                                                    principles of
+                                                    sustainability and
+                                                    human-centered
+                                                    design..." [Read
+                                                      more](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Reports&Speaches_External/EnvisioningFloridaFuture-FinalReportApril16.pdf)Hmmm...
+                                                        A thoughtful
+                                                        investigation
+                                                        with a
+                                                        recognition that
+                                                        the surface is
+                                                        barely being
+                                                        scratched.  If
+                                                        this technology
+                                                        revolution is
+                                                        akin to going
+                                                        from the horse
+                                                        to Henry Ford
+                                                        then the
+                                                        land-use/quality-of-life
+                                                        change for
+                                                        Florida may be
+                                                        akin to going
+                                                        from swamp land
+                                                        to today's
+                                                        Kissimmee!    Alain
+
+### [How
+                                                      to get a free ride
+                                                      in a self-driving
+                                                      shuttle this
+                                                      summer](https://www.washingtonpost.com/news/the-switch/wp/2016/06/16/why-back-up-cameras-havent-stopped-drivers-from-backing-into-stuff/?tid=hybrid_collaborative_2_na)
+
+M.
+                                                    McFarland, June 16,
+                                                    "Local Motors
+                                                    officially unveiled
+                                                    its self-driving
+                                                    shuttle Thursday and
+                                                    said it will begin
+                                                    giving free rides to
+                                                    the public in
+                                                    Maryland this
+                                                    summer.
+
+                                                    The electric
+                                                    vehicle, which seats
+                                                    12, will drive
+                                                    slowly on public
+                                                    roads in National
+                                                    Harbor, Md.,
+                                                    operating at speeds
+                                                    between 3 and 8 mph,
+                                                    according to Local
+                                                    Motors chief
+                                                    executive Jay
+                                                    Rogers. He
+                                                    characterized Olli
+                                                    as a "friendly
+                                                    neighborhood robot"
+                                                    that isn't capable
+                                                    of traveling on
+                                                    highways...." [Read
+                                                      more](https://www.washingtonpost.com/news/the-switch/wp/2016/06/16/why-back-up-cameras-havent-stopped-drivers-from-backing-into-stuff/?tid=hybrid_collaborative_2_na)Hmmm...
+                                                        looking to be
+                                                        the first.  No
+                                                        problem with
+                                                        starting
+                                                        slowly.  We are
+                                                        just at the
+                                                        beginning :-)
+                                                        See also [Wired](https://www.wired.com/2016/06/ibms-using-watson-make-self-driving-cars-talk-humans/?utm_source=dlvr.it&utm_medium=twitter) Alain
+
+### [Why
+                                                        back-up cameras
+                                                        haven't stopped
+                                                        drivers from
+                                                        backing into
+                                                        stuff](https://www.washingtonpost.com/news/the-switch/wp/2016/06/16/why-back-up-cameras-havent-stopped-drivers-from-backing-into-stuff/?tid=hybrid_collaborative_2_na)
+
+J. Bogage, June
+                                                      16 "With or
+                                                      without eyes in
+                                                      the back of their
+                                                      heads, drivers
+                                                      keep hitting
+                                                      things.
+
+                                                      Despite the
+                                                      growing prevalence
+                                                      of back-up
+                                                      cameras, federal
+                                                      data shows that
+                                                      this technology
+                                                      hasn't
+                                                      significantly cut
+                                                      down on cars
+                                                      backing into
+                                                      people and causing
+                                                      them harm..... In
+                                                      2003, three in 278
+                                                      auto models came
+                                                      with back-up
+                                                      cameras. By this
+                                                      year, only 20
+                                                      models out of 362
+                                                      industry-wide
+                                                      don't have
+                                                      them....
+
+the cameras
+                                                      reduce blind zones
+                                                      while in reverse
+                                                      by 90 percent,
+                                                      according to a
+                                                      study by the
+                                                      Insurance
+                                                      Institute for
+                                                      Highway Safety --
+                                                      but they keep
+                                                      hitting
+                                                      things...." [Read
+                                                        more](https://www.washingtonpost.com/news/the-switch/wp/2016/06/16/why-back-up-cameras-havent-stopped-drivers-from-backing-into-stuff/?tid=hybrid_collaborative_2_na) Hmmm...
+                                                          Couple of
+                                                          things...
+                                                          "Nice" that
+                                                          NHTSA will
+                                                          mandate them
+                                                          in 2018 once
+                                                          all models
+                                                          have them
+                                                          anyway.  Way
+                                                          to go NHTSA!
+                                                          (Bronx cheer!)
+                                                          Also, this
+                                                          points out
+                                                          that "ability
+                                                          to see better"
+                                                          is not good
+                                                          enough, nor
+                                                          are warnings.
+                                                          Automated rear
+                                                          braking is
+                                                          what is needed
+                                                          (I'm sure
+                                                          NHTSA will
+                                                          mandate that
+                                                          in "2026" when
+                                                          all models
+                                                          have it).  Alain
+
+### [Insurer
+                                                        launches UK's
+                                                        'first
+                                                        driverless car
+                                                        policy'](https://www.theguardian.com/business/2016/jun/07/uk-driverless-car-insurance-policy-adrian-flux)
+
+                                                    J. Kollewe, June 7,
+                                                    "The driverless
+                                                    policy has
+                                                    additional features
+                                                    to a standard one.
+                                                    Customers will be
+                                                    covered for loss or
+                                                    damage in case of:
+                                                    failure to install
+                                                    vehicle software
+                                                    updates and security
+                                                    patches, subject to
+                                                    an increased policy
+                                                    excess; satellite
+                                                    failure or outages
+                                                    affecting navigation
+                                                    systems, or failure
+                                                    of the
+                                                    manufacturer's
+                                                    vehicle operating
+                                                    system or other
+                                                    authorized software;
+                                                    loss or damage
+                                                    caused by a failure
+                                                    to manually override
+                                                    the system to
+                                                    prevent an accident
+                                                    should the system
+                                                    fail; and loss or
+                                                    damage if the car
+                                                    gets hacked...."
+                                                      [Read
+                                                      more](https://www.theguardian.com/business/2016/jun/07/uk-driverless-car-insurance-policy-adrian-flux) Hmmm...This
+                                                        is a good
+                                                        start.
+                                                        Insurance can
+                                                        make all of this
+                                                        happen.    Alain
+
+### [Skeptics
+                                                        of Self-Driving
+                                                        Cars Span
+                                                        Generations](http://www.nytimes.com/2016/06/17/automobiles/wheels/skeptics-of-self-driving-cars-span-generations.html?ref=business)
+
+                                                    J. Quain, June 16
+                                                    ""I have no problem
+                                                    letting a car take
+                                                    control," said
+                                                    Jeffrey Miller, an
+                                                    associate professor
+                                                    of engineering
+                                                    practice at the
+                                                    University of
+                                                    Southern California.
+                                                    "But having a car
+                                                    take my kids to
+                                                    school? You're
+                                                    talking about people
+                                                    who don't have the
+                                                    ability to take over
+                                                    if something goes
+                                                    wrong. I'm not that
+                                                    comfortable with
+                                                    it."...(Hmmm...
+                                                        Yet you let your
+                                                        kid ride a
+                                                        school bus???)
+                                                      more
+                                                        than two-thirds
+                                                        of the experts
+                                                        in the study
+                                                        said they
+                                                        weren't ready to
+                                                        have a robotic
+                                                        car play nanny,
+                                                        giving the
+                                                        concept a 3 or
+                                                        lower. Not
+                                                        exactly a
+                                                        ringing
+                                                        endorsement from
+                                                        engineers of the
+                                                        state of the art
+                                                        in self-driving
+                                                        (driverless) cars....
+
+                                                        "There are
+                                                        people who want
+                                                        to hop into the
+                                                        back seat and go
+                                                        to sleep," said
+                                                        Ken Washington,
+                                                        vice president
+                                                        of Ford's
+                                                        research and
+                                                        advanced
+                                                        engineering
+                                                        division, "and
+                                                        others who say,
+                                                        'No robot is
+                                                        going to drive
+                                                        my car.'"
+
+                                                        Most of the
+                                                        researchers and
+                                                        automotive
+                                                        experts say
+                                                        driver attitudes
+                                                        will shift as
+                                                        more advanced
+                                                        safety and
+                                                        semiautonomous
+                                                        systems are
+                                                        introduced into
+                                                        new models.
+                                                        Education about
+                                                        how the systems
+                                                        work and their
+                                                        benefits will
+                                                        also help..." [Read
+                                                      more](http://www.nytimes.com/2016/06/17/automobiles/wheels/skeptics-of-self-driving-cars-span-generations.html?ref=business) Hmmm...
+                                                        Way too early to
+                                                        get meaningful
+                                                        answers to these
+                                                        questions.  No
+                                                        one wanted to
+                                                        ride an elevator
+                                                        without an
+                                                        operator nor
+                                                        wanted to ride
+                                                        in a horseless
+                                                        carriage nor fly
+                                                        in an airplane.
+                                                           Alain
+
+### [For
+                                                        Driverless Cars,
+                                                        Citylike Test
+                                                        Sites Offer the
+                                                        Unpredictable](http://www.nytimes.com/2016/06/06/business/for-driverless-cars-citylike-test-sites-offer-the-unpredictable.html?action=click&contentCollection=Automobiles&module=RelatedCoverage&region=EndOfArticle&pgtype=article)
+
+                                                    N Boudette, June 4
+                                                    "...In addition to
+                                                    its Mcity effort,
+                                                    the University of
+                                                    Michigan is a
+                                                    partner in a project
+                                                    to set up a much
+                                                    more complex site
+                                                    about 10 miles away
+                                                    in neighboring
+                                                    Ypsilanti. It will
+                                                    be called the
+                                                    American Center for
+                                                    Mobility and will
+                                                    comprise 335 acres
+                                                    that were once part
+                                                    of G.M.'s Willow Run
+                                                    plant. During World
+                                                    War II, it was the
+                                                    site of a famed
+                                                    bomber factory. Mr.
+                                                    Maddox has been
+                                                    named the center's
+                                                    chief.
+
+                                                    Unlike Mcity, this
+                                                    larger site will
+                                                    have long stretches
+                                                    where autonomous
+                                                    cars can be tested
+                                                    at highway speeds
+                                                    and space for
+                                                    creating a variety
+                                                    of complex
+                                                    intersections. Its
+                                                    existing roadways
+                                                    include overpasses
+                                                    and bridges.
+
+                                                    Ford is interested
+                                                    in potentially using
+                                                    the Willow Run
+                                                    facility, said Randy
+                                                    Visintainer, Ford's
+                                                    director of
+                                                    autonomous vehicle
+                                                    development. "It is
+                                                    something we would
+                                                    probably have to
+                                                    create if it didn't
+                                                    exist," he said..The
+                                                        challenge, by
+                                                        all accounts, is
+                                                        enormous..." [Read
+                                                      more](http://www.nytimes.com/2016/06/06/business/for-driverless-cars-citylike-test-sites-offer-the-unpredictable.html?action=click&contentCollection=Automobiles&module=RelatedCoverage&region=EndOfArticle&pgtype=article) Hmmm...Tried
+                                                        to do one at
+                                                        Fort Monmouth,
+                                                        now scaled back
+                                                        to doing it at
+                                                        Princeton's
+                                                        Forrestal Campus
+                                                        and via Virtual
+                                                        Reality.  Issues
+                                                        are "corner
+                                                        cases".    Alain
+
+### [NEMPA/MIT
+                                                        STUDY: CONSUMERS
+                                                        WANT SOME
+                                                        AUTONOMOUS
+                                                        FEATURES, WANT
+                                                        TRAINING TO
+                                                        LEARN TO USE
+                                                        THEM](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Reports&Speaches_External/MIT-AutonomousVehicles_Trust&DrivingAlternatives.pdf)
+
+                                                    C. Fitzgerald, June
+                                                    5 "...For the most
+                                                    part, the consumers
+                                                    surveyed were
+                                                    relatively happy
+                                                    with the technology
+                                                    already in their
+                                                    cars. Well over half
+                                                    reported positive
+                                                    associations with
+                                                    the technology: 28%
+                                                    of participants are
+                                                    very happy with the
+                                                    technology, and an
+                                                    additional 42% like
+                                                    most of the
+                                                    features.
+
+                                                    When asked about
+                                                    levels of autonomy,
+                                                    consumers broke out
+                                                    into very distinct
+                                                    age groups. The
+                                                    highest percentages
+                                                    of consumers
+                                                    surveyed —
+                                                    regardless of age —
+                                                    responded that
+                                                    they're interested
+                                                    in autonomous
+                                                    technologies that
+                                                    help the driver,
+                                                    meaning technologies
+                                                    that may apply full
+                                                    braking force when a
+                                                    car stops short, or
+                                                    guides the driver
+                                                    slightly if they
+                                                    weave out of a lane.
+                                                    Most significantly,
+                                                    more than half of
+                                                    consumers in the 65
+                                                    to 74 and 75-plus
+                                                    age groups indicated
+                                                    that they would be
+                                                    interested in owning
+                                                    cars with this type
+                                                    of technology...." [Read
+                                                      more](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Reports&Speaches_External/MIT-AutonomousVehicles_Trust&DrivingAlternatives.pdf)Hmmm...See
+                                                        next posting for
+                                                        original paper.
+                                                        Not easy to
+                                                        predetermine
+                                                        what consumers
+                                                        will want,
+                                                        especially when
+                                                        some of the
+                                                        options are
+                                                        conceptual (e.g.
+                                                        "full
+                                                        autonomy").
+                                                        Alain
+
+### [Autonomous
+                                                        Vehicles, Trust,
+                                                        and Driving
+                                                        Alternatives: A
+                                                        survey of
+                                                        consumer
+                                                        preferences](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Reports&Speaches_External/MIT-AutonomousVehicles_Trust&DrivingAlternatives.pdf)
+
+                                                    H. Abraham et al.,
+                                                    June 2016 "... To
+                                                    effectively develop
+                                                    and deploy systems
+                                                    that enhance driver
+                                                    safety and mobility
+                                                    through greater
+                                                    degrees of
+                                                    automation,
+                                                    consumers'
+                                                    understanding, trust
+                                                    and desire for these
+                                                    systems will need to
+                                                    be developed to
+                                                    support the
+                                                    marketplace. For
+                                                    consumers to
+                                                    optimally leverage
+                                                    the advances of many
+                                                    technologies,
+                                                    adequate technology
+                                                    training may be
+                                                    required. Little is
+                                                    established about
+                                                    how consumers are
+                                                    currently acquiring
+                                                    this training for
+                                                    new vehicle
+                                                    technologies. What
+                                                    is not yet fully
+                                                    understood, is how
+                                                    drivers across the
+                                                    lifespan acquire
+                                                    information about
+                                                    technological and
+                                                    service
+                                                    alternatives, view
+                                                    today's automotive
+                                                    technologies, see
+                                                    future automation
+                                                    systems supporting
+                                                    them, look to learn
+                                                    about these systems,
+                                                    and consider options
+                                                    for alternative
+                                                    transportation. To
+                                                    explore these
+                                                    topics, a survey
+                                                    instrument was
+                                                    developed to gain
+                                                    deeper insight into
+                                                    key questions
+                                                    including:
+
+                                                    1. Are consumers
+                                                    satisfied with
+                                                    technology that is
+                                                    already in their
+                                                    vehicle?
+
+                                                    2. How are consumers
+                                                    learning about
+                                                    in-vehicle
+                                                    technologies? How
+                                                    would they prefer to
+                                                    learn?
+
+                                                    3. Are consumers
+                                                    willing to use
+                                                    various alternatives
+                                                    to driving? Do they
+                                                    currently use them?
+
+                                                    4. Are consumers
+                                                    willing to use
+                                                    automation in
+                                                    vehicles?
+
+                                                    5. Are older adults
+                                                    willing to use
+                                                    autonomous vehicles
+                                                    and / or
+                                                    alternatives to
+                                                    driving in order to
+                                                    increase
+                                                    mobility?..." [Read
+                                                      more](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Reports&Speaches_External/MIT-AutonomousVehicles_Trust&DrivingAlternatives.pdf)Hmmm...A
+                                                        good attempt to
+                                                        try to resolve
+                                                        answers to these
+                                                        questions;
+                                                        however, the
+                                                        eventual reality
+                                                        of these systems
+                                                        will likely be
+                                                        quite different
+                                                        than the current
+                                                        "Sunday
+                                                        supplement" that
+                                                        is at-best the
+                                                        current
+                                                        perception of
+                                                        these systems.
+                                                        Did anyone
+                                                        really have to
+                                                        be "taught" to
+                                                        use an automated
+                                                      people
+                                                        mover at
+                                                        airports?
+                                                        Whatever!  :-)
+                                                        Alain
+
+### [Google
+                                                        Self-Driving Car
+                                                        Project Monthly
+                                                        Report](https://static.googleusercontent.com/media/www.google.com/en//selfdrivingcar/files/reports/report-0516.pdf)
+
+                                                    May, 2016  "Down
+                                                    with the tyrannical
+                                                    horn: Teaching a
+                                                    self-driving car to
+                                                    honk..Given the time
+                                                    we're spending on
+                                                    busy streets, we'll
+                                                    inevitably be
+                                                    involved in
+                                                    collisions;
+                                                    sometimes it's
+                                                    impossible to
+                                                    overcome the
+                                                    realities of speed
+                                                    and distance.
+                                                    Thousands of minor
+                                                    crashes happen every
+                                                    day on typical
+                                                    American streets,
+                                                    94% of them
+                                                    involving human
+                                                    error, and as many
+                                                    as [55%
+                                                      of them go
+                                                      unreported](http://www-nrd.nhtsa.dot.gov/pubs/812013.pdf).
+                                                    (And we think this
+                                                    number is low; for
+                                                    more, [see
+                                                      here](https://backchannel.com/the-view-from-the-front-seat-of-the-google-self-driving-car-46fc9f3e6088#.cl6z0n8a2).).."  [Read
+                                                      more](https://static.googleusercontent.com/media/www.google.com/en//selfdrivingcar/files/reports/report-0516.pdf)  Hmmm...Always
+                                                        good reading.
+                                                        (Compared to [below from GM](http://www.bnn.ca/Video/player.aspx?vid=890015)
+                                                        it is
+                                                        out-of-this-world).  Alain
+
+### [Tesla
+                                                        offered to share
+                                                        all its
+                                                        Autopilot data
+                                                        with the US
+                                                        Department of
+                                                        Transport](http://electrek.co/2016/06/03/tesla-share-autopilot-data-department-of-transport/)
+
+                                                    F. Lambert, June 3,
+                                                    "Tesla's CEO added
+                                                    that for the
+                                                    regulators to
+                                                    approve an [autonomous
+                                                      driving system](http://electrek.co/2016/06/02/tesla-model-3-fully-autonomous-elon-musk/),
+                                                    it would have to
+                                                    prove to be at least
+                                                    two times safer than
+                                                    a human or maybe
+                                                    even 5 to 10 times.
+                                                    Earlier this year,
+                                                    he said that based
+                                                    on early data from
+                                                    the Autopilot
+                                                    program, the system
+                                                    lowers [the
+                                                      probability of
+                                                      having an accident
+                                                      by 50%](http://electrek.co/2016/04/24/tesla-autopilot-probability-accident/).."  [Read
+                                                      more](http://electrek.co/2016/06/03/tesla-share-autopilot-data-department-of-transport/)  Hmmm...Always
+                                                        good promotion
+                                                        from Elon.
+                                                        (Compared to [below from GM](http://www.bnn.ca/Video/player.aspx?vid=890015)
+                                                        it is
+                                                        out-of-this-world).  Alain
+
+### [Facebook
+                                                        Ride Sharing
+                                                        Group Replaces
+                                                        Uber And Lyft In
+                                                        Austin](http://gas2.org/2016/06/08/facebook-ride-sharing-group-replaces-uber-lyft-austin/)
+
+                                                    S. Hamley, June 8,
+                                                    "...Nature abhors a
+                                                    vacuum, so they say,
+                                                    and so does the
+                                                    digital economy.
+                                                    Within days of the
+                                                    announcement that
+                                                    Uber and Lyft would
+                                                    cease operations in
+                                                    Austin, a group
+                                                    calling itself
+                                                    Arcade City
+                                                    Austin/Request A
+                                                    Ride organized
+                                                    itself on Facebook.
+                                                    Started by
+                                                    Christopher David
+                                                    and Eric Green, the
+                                                    group has over
+                                                    32,000 members
+                                                    today.
+
+                                                    According to
+                                                    TechCrunch, when
+                                                    members need a ride
+                                                    they post their
+                                                    current location and
+                                                    destination on
+                                                    Facebook. Within
+                                                    minutes, potential
+                                                    drivers respond with
+                                                    an estimated time of
+                                                    arrival, a proposed
+                                                    fee for the ride,
+                                                    and a phone number
+                                                    where they can be
+                                                    contacted. Once an
+                                                    agreement has been
+                                                    made, group members
+                                                    delete the
+                                                    request...."  [Read
+                                                      more](http://gas2.org/2016/06/08/facebook-ride-sharing-group-replaces-uber-lyft-austin/)  Hmmm...If
+                                                        Uber (and Lyft)
+                                                        have so little
+                                                        "stickiness",
+                                                        why is their
+                                                        valuation so
+                                                        high???.  Alain
+
+## Some
+                                                    other thoughts that
+                                                    deserve your
+                                                    attention
+
+### [Adding
+                                                    Teen Driver to Auto
+                                                    Policy Yields
+                                                    Average 79% Premium
+                                                    Rise](http://www.nytimes.com/2016/06/18/your-money/adding-teen-driver-to-auto-policy-yields-average-79-premium-rise.html?ref=business)
+
+                                                A. Carrns, June 17
+                                                "...Families adding a
+                                                teenage driver to their
+                                                auto insurance policy
+                                                will see their premium
+                                                increase by an average
+                                                of 79 percent, the [latest
+                                                  analysis from
+                                                  insuranceQuotes.com](http://www.insurancequotes.com/auto/cost-to-insure-teen-drivers-061416)
+                                                finds. That's a bit
+                                                lower than the average
+                                                increases seen in recent
+                                                years, but it is still a
+                                                hit to the wallet...
+
+                                                The higher premiums
+                                                reflect teenagers'
+                                                greater likelihood of
+                                                being involved in an
+                                                accident. Research shows
+                                                that [they
+                                                  have the highest crash
+                                                  rate](https://www.aaafoundation.org/sites/default/files/research_reports/2012TeenDriverRiskAgePassengers.pdf) of any group
+                                                in the United States.."
+                                                [Read
+                                                  more](http://www.nytimes.com/2016/06/18/your-money/adding-teen-driver-to-auto-policy-yields-average-79-premium-rise.html?ref=business)Hmmm...and
+                                                    the data are from a
+                                                    2012 report.  Just
+                                                    imagine what the
+                                                    crash rate is now
+                                                    that they all have
+                                                    cell phones. Amazing
+                                                    that the premium
+                                                    increase isn't
+                                                    greater.  The
+                                                    solution is
+                                                    intuitively obvious
+                                                    to the most casual
+                                                    observer: automated
+                                                    collision avoidance
+                                                    systems!  :-)
+                                                    Alain
+
+### [Tesla's weird week](https://techcrunch.com/2016/06/10/teslas-weird-week/?ncid=tcweekly)
+
+                                                June 10, "...In a span
+                                                of just 72 hours, the
+                                                Model S was accused of
+                                                having major suspension
+                                                issues, the NHTSA
+                                                supposedly got involved,
+                                                Tesla explained there is
+                                                nothing wrong and the
+                                                NHTSA isn't actually
+                                                investigating the issue
+                                                and Elon Musk tweeted
+                                                that the whole thing was
+                                                a giant conspiracy.
+
+                                                Woah. OK, let's take a
+                                                step back and dissect
+                                                this..." [Read
+                                                  more](https://techcrunch.com/2016/06/10/teslas-weird-week/?ncid=tcweekly)Hmmm...Every
+                                                    week is a weird
+                                                    week.  Alain
+
+## [On
+                                                        the More
+                                                        Technical Side](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Papers/)
+
+[http://orfe.princeton.edu/~alaink/SmartDrivingCars/Papers/](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Papers/)
+
+## Recompiled
+                                                        Old News &
+                                                        Smiles:
+
+## Half-baked
+                                                        stuff that
+                                                        probably doesn't
+                                                        deserve your
+                                                        time:
+
+### [The
+                                                      future of
+                                                      autonomous cars
+                                                      Faraday Future
+                                                      aims to test
+                                                      self-driving cars
+                                                      in Michigan](http://www.bnn.ca/Video/player.aspx?vid=890015)
+
+                                                  Jun 13, 2016  "Stephen
+                                                  Carlisle, President
+                                                  and Managing Director,
+                                                  General Motors of
+                                                  Canada joins BNN to
+                                                  discuss why GM is
+                                                  expanding its
+                                                  autonomous vehicle
+                                                  engineering and
+                                                  software development
+                                                  work in Canada."  [Read
+                                                    Video](https://www.engadget.com/2016/06/07/faraday-future-to-test-self-driving-cars-in-michigan/) Hmmm...A
+                                                      Canadian view from
+                                                      GM's president.
+                                                      Connected car???
+                                                      Hiring how many
+                                                      when???  (Have
+                                                      offer from
+                                                      Facebook/Google/Apple/Msft/Amazon/GM;
+                                                      likelihood of
+                                                      choosing GM is
+                                                      epsilon).  How
+                                                      many lines of
+                                                      code?? Dedicated
+                                                      lanes for
+                                                      autonomous
+                                                      vehicles??? Not a
+                                                      whisper about
+                                                      safety (continued
+                                                    denial),
+                                                          GM at the top
+                                                          still doesn't
+                                                          really get it.
+                                                      Alain
+
+### [Faraday
+                                                      Future aims to
+                                                      test self-driving
+                                                      cars in Michigan
+                                                      Technical
+                                                      Assistance Events
+                                                      for Concept
+                                                      Development Phase](https://www.engadget.com/2016/06/07/faraday-future-to-test-self-driving-cars-in-michigan/)
+
+                                                  Jun 13, 2016  "[Faraday
+                                                    Future](https://www.engadget.com/2015/12/30/faraday-future-teaser-video/) isn't
+                                                  just talking a big
+                                                  game when it mentions
+                                                  plans for autonomous
+                                                  features in its cars.
+                                                  Michigan's Department
+                                                  of Transportation
+                                                  tells the Detroit News
+                                                  that FF not only asked
+                                                  about how to apply for
+                                                  plates that let it
+                                                  test self-driving
+                                                  cars, but has applied
+                                                  for three manufacturer
+                                                  plates since. While
+                                                  the company isn't
+                                                  confirming anything
+                                                  (the plates are to
+                                                  test "prototypes and
+                                                  features," it says),
+                                                  it's safe to say that
+                                                  at least one of those
+                                                  vehicles won't always
+                                                  have a human at the
+                                                  wheel..." [See
+                                                    more](http://www.bnn.ca/Video/player.aspx?vid=890015)  Hmmm...Just
+                                                      enormously
+                                                      skeptical.  Seems
+                                                      like way too much
+                                                      lipstick here (,
+                                                      but what do I
+                                                      know?).
+                                                      Alain
+
+### [Technical
+                                                      Assistance Events
+                                                      for Concept
+                                                      Development Phase](http://www.its.dot.gov/pilots/technical_assistance_events.htm)
+
+                                                  June 2016  "The USDOT
+                                                  has selected three
+                                                  pilot sites, where
+                                                  teams are in the
+                                                  process of conducting
+                                                  Phase 1 Concept
+                                                  Development activities
+                                                  in order to move
+                                                  towards deployment and
+                                                  operations phases. A
+                                                  series of
+                                                  USDOT-sponsored
+                                                  technical assistance
+                                                  events has been
+                                                  developed to assist
+                                                  not only the three
+                                                  selected sites, but
+                                                  also other early
+                                                  deployers of connected
+                                                  vehicle technologies
+                                                  to conduct Concept
+                                                  Development
+                                                  activities...." [See
+                                                    more](http://www.its.dot.gov/pilots/technical_assistance_events.htm)  Hmmm...Infrastructure
+                                                      that is "deployed"
+                                                      tends to have an
+                                                      expected life of
+                                                      40+ years.  Is
+                                                      this connected
+                                                      vehicle stuff
+                                                      already
+                                                      essentially
+                                                      obsolete?  Is
+                                                      there a viable
+                                                      business case? I
+                                                      guess that is why
+                                                      it is a (central
+                                                      government)
+                                                      deployment rather
+                                                      than a market
+                                                      adoption. Alain
+
+###
+
+###
+
+## [C'mon
+                                                        Man!](https://www.youtube.com/watch?v=A7SwSd59E4I)
+                                                    (These folks didn't
+                                                    get/read the memo)
+
+## Calendar of Upcoming Events:
+
+[](http://i95coalition.org/wp-content/uploads/2014/09/I95CCCAVConferencePacketREV4-15-16.pdf?dd650d)
+
+[Connected
+                                                          &
+                                                          Automated
+                                                          Vehicle
+                                                          Conference](http://i95coalition.org/wp-content/uploads/2014/09/I95CCCAVConferencePacketREV4-15-16.pdf?dd650d)
+
+What
+                                                          States Need to
+                                                          Know
+
+June 21
+                                                        &22, 2016
+
+Maritime
+                                                        Institute (near
+                                                        BWI), Lincoln
+                                                        Heights, MD
+
+[http://i95coalition.org/wp-content/uploads/2014/09/I95CCCAVConferencePacketREV4-15-16.pdf?dd650d](http://i95coalition.org/wp-content/uploads/2014/09/I95CCCAVConferencePacketREV4-15-16.pdf?dd650d)
+
+### Congressman
+                                                          Dan Lipinski
+                                                          Cordially
+                                                          Invites You:
+
+[Policy
+                                                        Roundtable ---
+                                                        ''The Road
+                                                        Ahead:
+                                                        Developing
+                                                        Policies to Make
+                                                        Connected &
+
+                                                        Automated
+                                                        Vehicles a
+                                                        Reality''
+
+                                                        June 22nd, 2016
+                                                        --- 2:30 PM to
+                                                        4:00 PM
+
+                                                        2253 Rayburn
+                                                        House Office
+                                                        Building
+                                                        (T&I
+                                                        Committee
+                                                        Hearing Room)](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Meetings/LipinskiRoundtableConnected&AutomatedVehiclesJune%2022.pdf)
+
+### Recent
+                                                          Highlights of:
+
+#
+
+###
+
+### [It's
+                                                          No Accident:
+                                                          Advocates Want
+                                                          to Speak of
+                                                          Car 'Crashes'
+                                                          Instead](http://www.nytimes.com/2016/05/23/science/its-no-accident-advocates-want-to-speak-of-car-crashes-instead.html?_r=1)
+
+M
+                                                        Richtel, May 22,
+                                                        " Roadway
+                                                        fatalities are
+                                                        soaring at a
+                                                        rate not seen in
+                                                        50 years,
+                                                        resulting from
+                                                        crashes,
+                                                        collisions and
+                                                        other incidents
+                                                        caused by
+                                                        drivers.
+
+                                                        Just don't call
+                                                        them accidents
+                                                        anymore.
+
+                                                        That is the
+                                                        position of a
+                                                        growing number
+                                                        of safety
+                                                        advocates,
+                                                        including
+                                                        grass-roots
+                                                        groups, federal
+                                                        officials and
+                                                        state and local
+                                                        leaders across
+                                                        the country.
+                                                        They are
+                                                        campaigning to
+                                                        change a
+                                                        100-year-old
+                                                        mentality that
+                                                        they say
+                                                        trivializes the
+                                                        single most
+                                                        common cause of
+                                                        traffic
+                                                        incidents: human
+                                                        error.  "When
+                                                        you use the word
+                                                        'accident,' it's
+                                                        like, 'God made
+                                                        it happen,' "
+                                                        Mark Rosekind,
+                                                        the head of the
+                                                        National Highway
+                                                        Traffic Safety
+                                                        Administration,
+                                                        said at a driver
+                                                        safety
+                                                        conference this
+                                                        month at the
+                                                        Harvard School
+                                                        of Public
+                                                        Health.  "In our
+                                                        society," he
+                                                        added, "language
+                                                        can be
+                                                        everything."
+
+                                                        Almost all
+                                                        crashes stem
+                                                        from driver
+                                                        behavior like
+                                                        drinking,
+                                                        distracted
+                                                        driving and
+                                                        other risky
+                                                        activity. About
+                                                        6 percent are
+                                                        caused by
+                                                        vehicle
+                                                        malfunctions,
+                                                        weather and
+                                                        other
+                                                        factors...." [Read
+                                                          issue of SDC](http://www.nytimes.com/2016/05/23/science/its-no-accident-advocates-want-to-speak-of-car-crashes-instead.html?_r=1)
+                                                          with this
+                                                          article.  Mark
+                                                          is absolutely
+                                                          correct here.
+                                                          Language
+                                                          matters and it
+                                                          is NOT an
+                                                          accident.  it
+                                                          is a Total
+                                                          Poop Show!.  Alain
+
+### [Derailment
+                                                          of Amtrak
+                                                          passenger
+                                                          train 188,
+                                                          Philadelphia,
+                                                          PA, May 12,
+                                                          2015 NTSB/
+                                                          DCA15MR010](http://www.ntsb.gov/news/events/Documents/DCA15MR010_Abstract.pdf)
+
+Public
+                                                        meeting of May
+                                                        17 "...
+                                                        Executive
+                                                        Summary...This
+                                                        report addresses
+                                                        the following
+                                                        safety issues:
+
+* Crewmember
+                                                          situational
+                                                          awareness and
+                                                          management of
+                                                          multiple
+                                                          tasks....
+
+* Positive
+                                                          train control.
+                                                          In the
+                                                          accident area,
+                                                          positive train
+                                                          control had
+                                                          not yet been
+                                                          implemented at
+                                                          the time of
+                                                          the accident,
+                                                          but it has
+                                                          since been
+                                                          implemented.
+                                                          The NTSB found
+                                                          that the
+                                                          accident could
+                                                          have been
+                                                          avoided if
+                                                          positive train
+                                                          control or
+                                                          another
+                                                          control system
+                                                          had been in
+                                                          place to
+                                                          enforce the
+                                                          permanent
+                                                          speed
+                                                          restriction of
+                                                          50 mph at the
+                                                          Franklin
+                                                          Junction
+                                                          curve.
+
+* ...[Read more](http://www.ntsb.gov/news/events/Documents/DCA15MR010_Abstract.pdf)
+
+Hmmm...
+                                                          Kudos to NTSB
+                                                          for finding "...the
+                                                          accident could
+                                                          have been
+                                                          avoided if
+                                                          positive train
+                                                          control or
+                                                          another
+                                                          control system
+                                                          had been in
+                                                          place to
+                                                          enforce..."
+
+                                                          HOWEVER, given
+                                                          that PCT was [mandated by Congress
+                                                          in 2008](https://www.fra.dot.gov/eLib/Details/L03588)
+                                                          with a
+                                                          deadline of
+                                                          December 15,
+                                                          2015 and that
+                                                          6 months
+                                                          before the
+                                                          deadline PTC
+                                                          had NOT been
+                                                          implemented on
+                                                          Amtrak's
+                                                          highest volume
+                                                          segment
+                                                          (PHL-NYC) is
+                                                          so
+                                                          unacceptable
+                                                          that this
+                                                          deserved to
+                                                          have been
+                                                          their #1
+                                                          bullet.  NOT
+                                                          some poor
+                                                          train engineer
+                                                          that was
+                                                          simply trying
+                                                          to do a job
+                                                          made
+                                                          enormously
+                                                          more dangerous
+                                                          and stressful
+                                                          because Amtrak
+                                                          management
+                                                          failed to
+                                                          implement in a
+                                                          timely manner
+                                                          what had been
+                                                          mandated by
+                                                          its "sugar
+                                                          daddy"!!  So
+                                                          the NTSB
+                                                          "threw" the
+                                                          engineer
+                                                          "under the
+                                                          bus" and
+                                                          essentially
+                                                          all of the
+                                                          news reports
+                                                          pointed to the
+                                                          engineer
+                                                          rather than
+                                                          Amtrak's
+                                                          senior
+                                                          (mis)management
+                                                          ([The
+                                                          Atlantic](http://www.theatlantic.com/national/archive/2016/02/the-mystery-of-amtrak-188/458967/),
+                                                          [NBC](http://www.nbcphiladelphia.com/news/local/Deadly-Amtrak-Crash-Philadelphia-NTSB-Cause-379762581.html),
+                                                          [Washington
+                                                          Post](https://www.washingtonpost.com/local/trafficandcommuting/ntsb-prepared-to-release-report-on-last-years-deadly-amtrak-wreck/2016/02/01/3c9f7e46-c837-11e5-88ff-e2d1b4289c2f_story.html), [WSJ](http://www.wsj.com/articles/ntsb-says-engineer-in-2015-philadelphia-amtrak-crash-lost-situational-awareness-1463497474),
+                                                          [NYT](http://www.nytimes.com/2016/01/31/magazine/the-wreck-of-amtrak-188.html?_r=0)
+                                                          etc.  Why
+                                                          didn't the NYT
+                                                          do a long
+                                                          story on why
+                                                          Amtrak
+                                                          management
+                                                          didn't install
+                                                          PTC in a
+                                                          timely
+                                                          manner???)
+
+                                                          My point here
+                                                          is larger in
+                                                          that this same
+                                                          issue exists
+                                                          in the rest of
+                                                          the transit
+                                                          industry where
+crash-avoidance technology exists today that can substantially reduce
+                                                          collisions and
+                                                          do so while
+                                                          printing money
+                                                          for the
+                                                          transit
+                                                          industry.  [Dr.
+                                                          Jerome Lutin
+                                                          and I](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/PDFs/LutinKornhauser_2016TRB_BusACAS.pdf) have
+                                                          pointed out to
+                                                          deaf ears that
+                                                          automated
+                                                          collision
+                                                          avoidance
+                                                          systems exist
+                                                          today for
+                                                          buses whose
+                                                          costs are
+                                                          substantially
+                                                          less than the
+                                                          net present
+                                                          value of the
+                                                          liability that
+                                                          these buses
+                                                          can be
+                                                          expected to
+                                                          impose on
+                                                          society.  This
+                                                          is about the cash
+                                                          that a
+                                                          hopelessly
+                                                          bankrupt
+                                                          transit
+                                                          industry has
+                                                          to pay out
+                                                          because it
+                                                          isn't
+                                                          installing
+                                                          existing crash
+                                                          avoidance
+                                                          technology
+                                                          that is
+                                                          available
+                                                          today.  On top
+                                                          of that cash
+                                                          are all of the
+                                                          societal
+                                                          benefits
+                                                          associated
+                                                          with
+                                                          eliminating
+                                                          collisions.
+                                                          There is no
+                                                          rush (not even
+                                                          a faint
+                                                          heart-beat) by
+                                                          the industry
+                                                          to do this.
+                                                          FTA is totally
+                                                          asleep, yet
+                                                          bus drivers
+                                                          continue to be
+                                                          placed in some
+                                                          of the most
+                                                          stressful and
+                                                          unsafe working
+                                                          conditions
+                                                          without the
+                                                          help that such
+                                                          technologies
+                                                          can deliver.
+                                                          I can't be
+                                                          more blunt...
+                                                          The major
+                                                          cause of
+                                                          accidents in
+                                                          the transit
+                                                          industry is
+                                                          the fact that
+                                                          the management
+                                                          of the transit
+                                                          industry is
+                                                          not installing
+                                                          in its fleets
+                                                          existing and
+                                                          available
+                                                          automated
+                                                          collision
+                                                          avoidance
+                                                          systems.  What
+                                                          is even more
+                                                          derelict is
+                                                          that new bus
+                                                          procurement
+                                                          don't include
+                                                          such
+                                                          provisions
+                                                          either.  When
+                                                          is the finger
+                                                          going to
+                                                          finally be
+                                                          pointed
+                                                          towards
+                                                          "Management"
+                                                          and the FTA
+                                                          instead of the
+                                                          poor bus
+                                                          driver or
+                                                          train
+                                                          engineer? NTSB
+                                                          is getting
+                                                          close by at
+                                                          least
+                                                          putting  it
+                                                          2nd, but if
+                                                          the public is
+                                                          to become
+                                                          aware, it will
+                                                          need to rise
+                                                          to the top
+                                                          bullet.  Alain
+
+### [Extracting
+                                                          Cognition out
+                                                          of Images for
+                                                          the Purpose of
+                                                          Autonomous
+                                                          Driving](http://orfe.princeton.edu/%7Ealaink/Theses/chenyiPhDfinal_ExtractingCognitionOutOfImagesForThePurposeOfAutonomousDriving.pdf)
+
+                                                        Chenyi Chen PhD
+                                                        Dissertation ,
+                                                        "...the key part
+                                                        of the thesis, a
+                                                        direct
+                                                        perception
+                                                        approach is
+                                                        proposed to
+                                                        drive a car in a
+                                                        highway
+                                                        environment. In
+                                                        this approach,
+                                                        an input image
+                                                        is mapped to a
+                                                        small number of
+                                                        key perception
+                                                        indicators that
+                                                        directly relate
+                                                        to the
+                                                        affordance of a
+                                                        road/traffic
+                                                        state for
+                                                        driving....." [Read more](http://orfe.princeton.edu/%7Ealaink/Theses/chenyiPhDfinal_ExtractingCognitionOutOfImagesForThePurposeOfAutonomousDriving.pdf)
+                                                        Hmmm..[FPO
+                                                          10:00am, May
+                                                          16 , 120
+                                                          Sherrerd Hall](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Presentations/ChenyiFPO.pdf),
+                                                          Establishing a
+                                                          foundation for
+                                                          image-based
+                                                          autonomous
+                                                          driving using
+                                                          DeepLearning
+                                                          Neural
+                                                          Networks
+                                                          trained in
+                                                          virtual
+                                                          environments.
+                                                          Very
+                                                          promising. Alain
+
+###
+
+### [Beverly
+                                                          Hills to
+                                                          Develop
+                                                          Autonomous
+                                                          Vehicles](http://www.hollywoodreporter.com/news/beverly-hills-develop-autonomous-vehicles-884316)
+
+                                                        M. Walker April
+                                                        15, "The Beverly
+                                                        Hills City
+                                                        Council voted
+                                                        unanimously this
+                                                        week to adopt a
+                                                        resolution to
+                                                        develop
+                                                        driverless
+                                                        vehicles that
+                                                        will provide
+                                                        public
+                                                        transportation
+                                                        throughout the
+                                                        city.
+
+                                                        The program is
+                                                        part of Beverly
+                                                        Hills mayor John
+                                                        Mirisch's plan
+                                                        for a
+                                                        municipally
+                                                        owned fleet of
+                                                        autonomous
+                                                        vehicles that
+                                                        would function
+                                                        as an on-demand
+                                                        car shuttle
+                                                        service to and
+                                                        from any address
+                                                        in the city. .."
+                                                        [Read
+                                                          more](http://www.hollywoodreporter.com/news/beverly-hills-develop-autonomous-vehicles-884316)  Hmmm...Communities
+                                                          all around the
+                                                          nation should
+                                                          follow what
+                                                          BH, Austin and
+                                                          a few other
+                                                          communities
+                                                          are doing.
+                                                          There is an
+                                                          opportunity to
+                                                          begin
+                                                          on-demand
+                                                          shared-ride
+                                                          "21st Century
+                                                          Public
+                                                          Transit"
+                                                          mobility using
+                                                          volunteer
+                                                          drivers to
+                                                          initiate and
+                                                          thoroughly
+                                                          demonstrate
+                                                          this low-cost
+                                                          mobility in
+                                                          preparation
+                                                          for a massive
+                                                          roll-out that
+                                                          can take place
+                                                          once
+                                                          driverless
+                                                          cars can
+                                                          extend/replace
+                                                          the volunteer
+                                                          drivers.
+[Staff
+                                                          report](http://www.beverlyhills.org/cbhfiles/storage/files/148071911817855902/StaffReportAVs3-22-16.pdf) on
+                                                          the matter; [another
+                                                          article](http://www.cnet.com/roadshow/news/beverly-hills-votes-to-create-autonomous-vehicle-program/?_escaped_fragment_=#); [landing
+                                                          page for the
+                                                          program](http://www.beverlyhills.org/living/autonomousvehicles/#CNTSTN_2296).
+                                                          Alain
+
+###
+
+### [N.J.
+                                                          superintendent
+                                                          killed while
+                                                          jogging was
+                                                          struck by
+                                                          student late
+                                                          for trip](http://www.nj.com/mercer/index.ssf/2016/04/student_who_struck_superintendent_was_late_for_cla.html)
+
+K.
+                                                        Shea, April 19,
+                                                        "...The Robbinsville High School
+                                                          student who
+                                                          was driving
+                                                          the car that [struck
+                                                          and killed the
+                                                          district's
+                                                          superintendent
+                                                          Tuesday](http://www.nj.com/mercer/index.ssf/2016/04/nj_superintendent_remembered_for_energy_commitment.html) morning
+                                                          was late for a
+                                                          school trip
+                                                          when the crash
+                                                          occurred,
+                                                          according to
+                                                          two sources
+                                                          involved in
+                                                          the
+                                                          investigation...."
+                                                        [Read
+                                                          more](http://www.nj.com/mercer/index.ssf/2016/04/student_who_struck_superintendent_was_late_for_cla.html) Hmmm...Most tragic in so many dimensions!!!  HOWEVER,
+                                                          it was NOT the
+                                                          student that
+                                                          STRUCK the
+                                                          Superintendent,
+                                                          it was the
+                                                          CAR.  AND the
+                                                          CAR needs to
+                                                          start being
+                                                          held
+                                                          responsible
+                                                          for ALLOWING
+                                                          such tragedies
+                                                          to ruin so
+                                                          many lives.
+                                                          It is very
+                                                          likely that
+                                                          this tragedy
+                                                          could have
+                                                          been averted
+                                                          had the car
+                                                          been equipped
+                                                          with an
+                                                          automated
+                                                          collision
+                                                          avoidance
+                                                          system and/or
+                                                          lane-keeping
+                                                          system.  Given
+                                                          the
+                                                          availability
+                                                          of these
+                                                          "tragedy
+                                                          avoidance
+                                                          systems", we
+                                                          should all be
+                                                          asking why
+                                                          this CAR
+                                                          wasn't
+                                                          equipped with
+                                                          such a system
+                                                          and why all
+                                                          cars aren't so
+                                                          equipped.
+                                                          Certainly
+                                                          innocent
+                                                          runners and
+                                                          dogs need to
+                                                          be asking such
+                                                          questions.  So
+                                                          too, that
+                                                          young lady's
+                                                          car insurance
+                                                          company; it
+                                                          must be
+                                                          muttering:
+                                                          "shouda bought
+                                                          her that
+                                                          upgrade".
+                                                          What about the
+                                                          car companies
+                                                          themselves who
+                                                          are largely
+                                                          just sitting
+                                                          on the
+                                                          technology or
+                                                          the
+                                                          dealerships
+                                                          that don't
+                                                          feel compelled
+                                                          to espouse the
+                                                          benefits of
+                                                          such
+                                                          technology
+                                                          while pushing
+                                                          more
+                                                          "horsepower"
+                                                          and
+                                                          "Corinthian
+                                                          Leather" (and
+                                                          worse yet:
+                                                          "AooleCarXYZ"
+                                                          that distracts
+                                                          drivers).  We
+                                                          all know that
+                                                          Washington is
+                                                          broken.  Them
+                                                          staying out of
+                                                          the way is
+                                                          probably best
+                                                          (although
+                                                          aggressively
+                                                          applying
+                                                          better
+                                                          human-visible
+paint/laneMarkings and human-readable signs would go a long way to
+                                                          helping both
+                                                          attentive
+                                                          drivers and
+                                                          automated
+                                                          lane-keeping
+                                                          systems).
+                                                          Everyone else
+                                                          has
+                                                          fundamental
+                                                          self-interest
+                                                          at stake and
+                                                          each needs to
+                                                          stop pointing
+                                                          the finger to
+                                                          the frail
+                                                          human driver.
+                                                          We have the
+                                                          technology and
+                                                          the the
+                                                          self-interest
+                                                          to make
+                                                          mobility
+                                                          substantially
+                                                          safer.  Let's
+                                                          really get on
+                                                          with it.  It's
+                                                          time!   Alain
+
+### [Automated
+                                                          Vehicle
+                                                          Operational
+                                                          Guidance
+                                                          Public Meeting](http://www.nhtsa.gov/About+NHTSA/Press+Releases/nhtsa-meetings-automated-vehicles-03112016)
+
+                                                        April 8,"At this
+                                                        meeting, NHTSA
+                                                        sought input on
+                                                        planned
+                                                        operational
+                                                        guidelines for
+                                                        the safe
+                                                        deployment of
+                                                        automated
+                                                        vehicles (AV).
+                                                        Of high
+                                                        importance to
+                                                        the agency is
+                                                        information on
+                                                        the roadway
+                                                        scenarios and
+                                                        operational
+                                                        environments
+                                                        that highly
+                                                        automated
+                                                        vehicles will
+                                                        need to address,
+                                                        and the
+                                                        associated
+                                                        design and
+                                                        evaluation
+                                                        processes and
+                                                        methods needed
+                                                        to ensure that
+                                                        AV systems are
+                                                        able to detect
+                                                        and
+                                                        appropriately
+                                                        react to these
+                                                        scenarios"  [Read
+                                                          more](http://www.nhtsa.gov/About+NHTSA/Press+Releases/nhtsa-meetings-automated-vehicles-03112016)  Hmmm...[Watch
+                                                          testimony](https://youtu.be/J_RvYZR_HLA)
+                                                          , especially:
+                                                          [testimony
+                                                          of Dr. Jerome
+                                                          Lutin](https://youtu.be/J_RvYZR_HLA?t=17014).   Alain
+
+### [Hearing
+                                                          focus of SF
+                                                          2569
+                                                          Autonomous
+                                                          vehicles task
+                                                          force
+                                                          establishment
+                                                          and
+                                                          demonstration
+                                                          project for
+                                                          people with
+                                                          disabilities](http://mnsenate.granicus.com/MediaPlayer.php?view_id=1&clip_id=235)
+
+                                                        March 23 Hmmm... [Watch
+                                                          the video of
+                                                          the Committee
+                                                          Meeting](http://mnsenate.granicus.com/MediaPlayer.php?view_id=1&clip_id=235).
+                                                          The testimony
+                                                          is Excellent
+                                                          and very
+                                                          compelling!
+                                                          Also see [Self-Driving
+                                                          Minnesota](http://www.selfdrivingmn.org/)
+                                                          Alain
+
+### [U.S.
+                                                          DOT and IIHS
+                                                          announce
+                                                          historic
+                                                          commitment of
+                                                          20 automakers
+                                                          to make
+                                                          automatic
+                                                          emergency
+                                                          braking
+                                                          standard on
+                                                          new vehicles](http://www.nhtsa.gov/About+NHTSA/Press+Releases/nhtsa-iihs-commitment-on-aeb-03172016)
+
+                                                        Press Release,
+                                                        Mar 17, NHTSA
+                                                        & IIHS
+                                                        "announced today
+                                                        a historic
+                                                        commitment by 20
+                                                        automakers
+                                                        representing
+                                                        more than 99
+                                                        percent of the
+                                                        U.S. auto market
+                                                        to make
+                                                        automatic
+                                                        emergency
+                                                        braking a
+                                                        standard feature
+                                                        on virtually all
+                                                        new cars no
+                                                        later than
+                                                        NHTSA's 2022
+                                                        reporting year,
+                                                        which begins
+                                                        Sept 1, 2022.
+                                                        Automakers
+                                                        making the
+                                                        commitment are
+                                                        Audi, BMW, FCA
+                                                        US LLC, Ford,
+                                                        General Motors,
+                                                        Honda, Hyundai,
+                                                        Jaguar Land
+                                                        Rover, Kia,
+                                                        Maserati, Mazda,
+                                                        Mercedes-Benz,
+                                                        Mitsubishi
+                                                        Motors, Nissan,
+                                                        Porsche, Subaru,
+                                                        Tesla Motors
+                                                        Inc., Toyota,
+                                                        Volkswagen and
+                                                        Volvo Car USA.
+                                                        The
+                                                        unprecedented
+                                                        commitment means
+                                                        that this
+                                                        important safety
+                                                        technology will be available to more consumers more quickly than
+                                                          would be
+                                                          possible
+                                                          through the
+                                                          regulatory
+                                                          process...The
+                                                        commitment takes
+                                                        into account the
+                                                        evolution of AEB
+                                                        technology. It
+                                                        requires a level
+                                                        of functionality
+                                                        that is in line
+                                                        with research
+                                                        and crash data
+                                                        demonstrating
+                                                        that such
+                                                        systems are
+                                                        substantially
+                                                        reducing
+                                                        crashes, but does not stand in the way of improved capabilities
+                                                          that are just
+                                                          beginning to
+                                                          emerge.
+                                                        The performance
+                                                        measures are
+                                                        based on real
+                                                        world data
+                                                        showing that
+                                                        vehicles with
+                                                        this level of
+                                                        capability are
+                                                        avoiding
+                                                        crashes..[Watch NHTSA
+                                                          video on AEB](https://www.youtube.com/watch?v=Src2jhS4wcA)
+                                                        [Download
+                                                          AEB video from
+                                                          IIHS](https://www.hightail.com/download/ZWJVbGtNR3NrWTg4RmNUQw)[Read
+                                                          more](http://www.nhtsa.gov/About+NHTSA/Press+Releases/nhtsa-iihs-commitment-on-aeb-03172016)  Hmmmm...Fantastic!  Automakers leading with
+                                                          regulatory
+                                                          process
+                                                          staying out of
+                                                          the way.
+                                                          Alain
+
+### [GM
+                                                          Buying
+                                                          Self-Driving
+                                                          Tech Startup
+                                                          for More Than
+                                                          $1 Billion](http://fortune.com/2016/03/11/gm-buying-self-driving-tech-startup-for-more-than-1-billion/)
+
+D.
+                                                        Patrick Mar
+                                                        11,"General
+                                                        Motors  GM
+                                                        1.43%  this
+                                                        morning
+                                                        announced that
+                                                        it will acquire
+                                                        Cruise
+                                                        Automation, a
+                                                        San
+                                                        Francisco-based
+                                                        developer of
+                                                        autonomous
+                                                        vehicle
+                                                        technology. No
+                                                        financial terms
+                                                        were disclosed,
+                                                        but Fortune has
+                                                        learned from a
+                                                        source close to
+                                                        the situation
+                                                        that the deal is
+                                                        valued at "north
+                                                        of $1 billion,"
+                                                        in a combination
+                                                        of cash and
+                                                        stock.
+
+                                                        Talks between
+                                                        the two
+                                                        companies
+                                                        originally
+                                                        related to a
+                                                        strategic
+                                                        investment by GM
+                                                        in Cruise, which
+                                                        was planning to
+                                                        raise a new
+                                                        round of venture
+                                                        capital funding.
+                                                        But that quickly
+                                                        morphed into an
+                                                        acquisition
+                                                        discussion with
+                                                        the entire
+                                                        agreement
+                                                        getting hashed
+                                                        out in less than
+                                                        six weeks. [Read
+                                                          more](http://fortune.com/2016/03/11/gm-buying-self-driving-tech-startup-for-more-than-1-billion/)Hmmmm...That sets the bar.  Reminiscent of [AOL
+                                                          paying $1.1B
+                                                          for MapQuest](http://www.ecommercetimes.com/story/2068.html)
+                                                          resulting in [NavTeq
+                                                          getting $8.1B
+                                                          from Nokia](http://mashable.com/2007/10/01/nokia-navteq/#CnEKJL0cUOqM)
+                                                          followed by [Here
+                                                          getting $3B
+                                                          from MB et al](http://mashable.com/2007/10/01/nokia-navteq/#CnEKJL0cUOqM).
+                                                          [Deja
+                                                          vu all over
+                                                          again!](http://yogiberramuseum.org/just-for-fun/yogisms/)
+                                                          Very
+                                                          interesting
+                                                          :-)  Alain
+
+### [THE
+                                                          ROAD NOT
+                                                          TAKEN: How we
+                                                          found (and
+                                                          lost) the
+                                                          dream of
+                                                          Personal Rapid
+                                                          Transit](file:///C:/Users/alaink/Desktop/THE%20ROAD%20NOT%20TAKEN:%20How%20we%20found%20%28and%20lost%29%20the%20dream%20of%20Personal%20Rapid%20Transit)
+
+                                                        A. Robertson,
+                                                        Feb 10 , Feb.
+                                                        "...Half a
+                                                        century after
+                                                        its heyday, the
+                                                        Alden StaRRcar
+                                                        clearly wasn't
+                                                        made for its
+                                                        world. It looks
+                                                        like a white
+                                                        flatiron with
+                                                        wheels or a
+                                                        sleek, plastic
+                                                        bullet, dwarfed
+                                                        by the regal
+                                                        sedans of 1960s
+                                                        Detroit. It
+                                                        belongs in one
+                                                        of Buckminster
+                                                        Fuller's domed
+                                                        cities, a
+                                                        vehicle for
+                                                        traveling under
+                                                        the geodesics of
+                                                        a bubble-topped
+                                                        Manhattan. Its
+                                                        future wasn't
+                                                        one of highways,
+                                                        but of narrow
+                                                        cement tracks
+                                                        looping
+                                                        gracefully
+                                                        between city and
+                                                        suburb,
+                                                        connecting
+                                                        increasingly
+                                                        alienated parts
+                                                        of the American
+                                                        landscape...
+
+                                                        Once considered
+                                                        a key to solving
+                                                        urban blight,
+                                                        the StaRRcar was
+                                                        part of a public
+                                                        transit
+                                                        revolution that
+                                                        never was — but
+                                                        one that would
+                                                        help launch one
+                                                        of the weirdest
+                                                        and most
+                                                        politicized
+                                                        public
+                                                        infrastructure
+                                                        experiments of
+                                                        the 20th
+                                                        century. It's an
+                                                        old idea that
+                                                        today, in an age
+                                                        of self-driving
+                                                        cars, seems by
+                                                        turns
+                                                        impractically
+                                                        retro and
+                                                        remarkably
+                                                        prescient...
+
+                                                        PRT's invention
+                                                        is attributed to
+                                                        a transportation
+                                                        expert named
+                                                        Donn Fichter,
+                                                        but the central
+                                                        idea was
+                                                        conceived,
+                                                        remixed, and
+                                                        adapted by many
+                                                        in the 1950s and
+                                                        1960s. While the
+                                                        details varied,
+                                                        the prototypical
+                                                        PRT system was a
+                                                        network of
+                                                        narrow guideways
+                                                        populated by
+                                                        small passenger
+                                                        pods. When
+                                                        commuters
+                                                        arrived, they
+                                                        would hit a
+                                                        button to select
+                                                        a destination,
+                                                        calling one of
+                                                        the pods like a
+                                                        taxi. Then,
+                                                        instead of
+                                                        running on a set
+                                                        line, the pod
+                                                        would use
+                                                        guideways like a
+                                                        freeway system,
+                                                        routing around
+                                                        stations in
+                                                        order to take
+                                                        passengers
+                                                        directly to
+                                                        their final
+                                                        stop.
+
+                                                        The system was
+                                                        designed to be
+                                                        everything that
+                                                        existing public
+                                                        transportation
+                                                        wasn't. Pods
+                                                        would carry only
+                                                        as many people
+                                                        as an average
+                                                        car,
+                                                        guaranteeing a
+                                                        nearly private
+                                                        ride. Riders
+                                                        wouldn't need to
+                                                        follow a
+                                                        timetable or
+                                                        wait for other
+                                                        people to enter
+                                                        and exit the
+                                                        system. Because
+                                                        the pods would
+                                                        only be
+                                                        dispatched on
+                                                        demand, cities
+                                                        could run
+                                                        service to many
+                                                        low-traffic
+                                                        areas without
+                                                        worrying about
+                                                        waste. There
+                                                        were no drivers
+                                                        to train or pay,
+                                                        and the pods
+                                                        could run
+                                                        quietly on
+                                                        electrical power
+                                                        instead of with
+                                                        fossil fuels...
+
+                                                        Multiple plans
+                                                        for personal
+                                                        rapid transit
+                                                        fell through,
+                                                        whether because
+                                                        of budget
+                                                        problems,
+                                                        logistical
+                                                        issues, or
+                                                        political power
+                                                        struggles....
+
+                                                        And as in the
+                                                        '60s, we're
+                                                        talking about
+                                                        whether
+                                                        self-driving
+                                                        vehicles could
+                                                        spell the end of
+                                                        private
+                                                        cars...."[Read more](file:///C:/Users/alaink/Desktop/THE%20ROAD%20NOT%20TAKEN:%20How%20we%20found%20%28and%20lost%29%20the%20dream%20of%20Personal%20Rapid%20Transit)Hmmmm...A must read.  Pretty much as I remember it.
+                                                          I lived much
+                                                          of it,
+                                                          including
+                                                          designing
+                                                          10,000
+                                                          station,
+                                                          10,000 mile
+                                                          PRT networks
+                                                          that could
+                                                          serve all of
+                                                          New Jersey's
+                                                          needs for
+                                                          personal
+                                                          mobility.  The
+                                                          good news was
+                                                          that the
+                                                          area-wide
+                                                          systems would
+                                                          provide great
+                                                          mobility for
+                                                          all.  The bad
+                                                          news: No
+                                                          viable way to
+                                                          start.  The
+                                                          best starting
+                                                          places could
+                                                          each be
+                                                          readily served
+                                                          by
+                                                          conventional
+                                                          systems with
+                                                          no technology
+                                                          risk.  Without
+                                                          a place to
+                                                          start, PRT
+                                                          never got a
+                                                          chance to
+                                                          flourish in
+                                                          the vast areas
+                                                          that are
+                                                          un-servable by
+                                                          conventional
+                                                          technology.
+                                                          Moreover, PRT
+                                                          needed the
+                                                          diversion of
+                                                          public sector
+                                                          capital funds
+                                                          that weres already in the back pocket
+                                                          of those
+                                                          pedaling the
+                                                          conventional
+                                                          technologies.
+                                                          Consequently,
+                                                          the personal
+                                                          auto has
+                                                          reigned on.
+
+ Today
+                                                          is different.
+                                                          With PRT, even
+                                                          the first
+                                                          vehicle needed
+                                                          a couple of
+                                                          stations and
+                                                          interconnecting
+                                                          guideway (and
+                                                          all of the
+                                                          discussion and
+                                                          heartache was
+                                                          about the
+                                                          location and
+                                                          cost of those
+                                                          initial
+                                                          stations and
+                                                          guideway).
+                                                          With
+                                                          autonomous
+                                                          taxis sharing
+                                                          existing
+                                                          roads, one can
+                                                          begin with a
+                                                          single vehicle
+                                                          capable of
+                                                          serving many
+                                                          existing
+                                                          places without
+                                                          needing to
+                                                          pay-for/justify
+                                                          any
+                                                          infrastructure.
+                                                          That is today's
+                                                          fundamental
+                                                          opportunity,
+                                                          in contrast to
+                                                          PRT's
+                                                          monumental
+                                                          infrastructure
+                                                          burden even
+                                                          for one
+                                                          vehicle.  That's why aTaxis are destined to finally deliver
+                                                          PRT's utopian
+                                                          mobility to
+                                                          all and
+                                                          substantially
+                                                          transform our
+                                                          cities and
+                                                          suburbs. Alain
+
+                                                          February 18,
+                                                          2016
+
+### [Motor
+                                                          Vehicle Deaths
+                                                          Increase by
+                                                          Largest
+                                                          Percent in 50
+                                                          Years](http://www.nsc.org/NewsDocuments/2016/mv-fatality-report-1215.pdf)
+
+                                                        Press Release
+                                                        Feb 16 "With
+                                                        continued lower
+                                                        gasoline prices
+                                                        and an improving
+                                                        economy
+                                                        resulting in an
+                                                        estimated 3.5%
+                                                        increase in
+                                                        motor-vehicle
+                                                        mileage, the
+                                                        number of
+                                                        motor-vehicle
+                                                        deaths in 2015
+                                                          totaled
+                                                          38,300,
+                                                          up 8% from
+                                                          2014.
+
+                                                        The 2015
+                                                        estimate is
+                                                        provisional and
+                                                        may be revised
+                                                        when more data
+                                                        are available.
+                                                        The total for
+                                                        2015 was up 8%
+                                                        from the 2013
+                                                        figure. The
+                                                        annual total for
+                                                        2014 was 35,398,
+                                                        a less than 0.5%
+                                                        increase from
+                                                        2013. The 2013
+                                                        figure was 3%
+                                                        lower than 2012.
+                                                        The estimated
+                                                        annual
+                                                        population death
+                                                        rate is 11.87
+                                                        deaths per
+                                                        100,000
+                                                        population, an
+                                                        increase of 7%
+                                                        from the 2014
+                                                        rate. The
+                                                        estimated annual
+                                                        mileage death
+                                                        rate is 1.22
+                                                        deaths per 100
+                                                        million vehicle
+                                                        miles traveled,
+                                                        an increase of
+                                                        5% from the 2014
+                                                        rate. [Read
+                                                          more](http://www.nsc.org/NewsDocuments/2016/mv-fatality-report-1215.pdf)Hmmmm...This is REALLY BAD news.  Come on insurance.
+                                                          This is
+                                                          costing you
+                                                          money!
+                                                          Accident rates
+                                                          going up means
+                                                          that your
+                                                          actuarials are
+                                                          behind, your
+                                                          regulated
+                                                          pricing lags
+                                                          and you are
+                                                          losing money.
+                                                          To get ahead
+                                                          of your
+                                                          actuarials,
+                                                          you MUST
+                                                          incentivize
+                                                          the adoption
+                                                          of automated
+                                                          collision
+                                                          avoidance
+                                                          systems.
+                                                          You'll then do
+                                                          very well,
+                                                          thank you AND
+                                                          help society.
+                                                          Alain
+
+### [Budget
+                                                          of the U.S.
+                                                          Government, FY
+                                                          2017](https://www.whitehouse.gov/sites/default/files/omb/budget/fy2017/assets/budget.pdf)
+
+Feb.
+                                                        9, "...(3)
+                                                        Accelerate the
+                                                        integration of
+                                                        autonomous
+                                                        vehicles,
+                                                        low-carbon
+                                                        technologies,
+                                                        and intelligent
+                                                        transportation
+                                                        systems into our
+infrastructure....
+
+* Providing
+                                                          almost $400
+                                                          million on
+                                                          average per
+                                                          year in
+                                                          funding over
+                                                          the next 10
+                                                          years for the
+                                                          deployment of
+                                                          self-driving
+                                                          vehicles.
+                                                          Investments
+                                                          would help
+                                                          develop
+                                                          connected
+                                                          infrastructure
+                                                          and smart
+                                                          sensors that
+                                                          can
+                                                          communicate
+                                                          with
+                                                          autonomous
+                                                          vehicles,
+                                                          support
+                                                          R&D to
+                                                          ensure these
+                                                          vehicles are
+                                                          safe and road
+                                                          ready, and
+                                                          expand
+                                                          at-scale
+                                                          deployment
+                                                          projects to
+                                                          provide
+                                                          "proving
+                                                          grounds" for
+                                                          autonomous
+                                                          self-driving
+                                                          and connected
+                                                          vehicles in
+                                                          urban and
+                                                          highway
+                                                          settings.
+
+[Read more](https://www.whitehouse.gov/sites/default/files/omb/budget/fy2017/assets/budget.pdf)Hmmmm...major victory...not only: "...for
+                                                          autonomous
+self-driving...", bit also stated before: "... and connected...".
+                                                              Alain
+
+###
+
+### [Obama's
+                                                          $4 Billion
+                                                          Plan for
+                                                          Self-Driving
+                                                          Cars Will Make
+                                                          Google Very
+                                                          Happy](http://recode.net/2016/01/14/obamas-4-billion-plan-for-self-driving-cars-will-make-google-very-happy/)
+
+                                                        M. Bergen, Jan
+                                                        14 "The Obama
+                                                        Administration
+                                                        has seen the
+                                                        self-driving
+                                                        future, and it's
+                                                        jumping aboard.
+                                                        At the Detroit
+                                                        auto show on
+                                                        Thursday
+                                                        morning, U.S.
+                                                        Transportation
+                                                        Secretary
+                                                        Anthony Foxx
+                                                        will unveil a
+                                                        plan to develop
+                                                        a national
+                                                        blueprint for
+                                                        autonomous
+                                                        driving
+                                                        technology
+                                                        within the next
+                                                        six months.  He
+                                                        will also
+                                                        announce that
+                                                        President Obama
+                                                        is planning to
+                                                        insert $4
+                                                        billion into the
+                                                        2017 budget for
+                                                        a 10-year plan
+                                                        to support and
+                                                        "accelerate"
+                                                        vehicle
+                                                        automation
+                                                        projects.
+
+                                                        "We are on the
+                                                        cusp of a new
+                                                        era in
+                                                        automotive
+                                                        technology with
+                                                        enormous
+                                                        potential to
+                                                        save lives,
+                                                        reduce
+                                                        greenhouse gas
+                                                        emissions, and
+                                                        transform
+                                                        mobility for the
+                                                        American
+                                                        people,"
+                                                        Secretary Foxx
+                                                        said in a
+                                                        statement. ...But here's the part of Foxx's
+                                                          talk that
+                                                          really matters
+                                                          for Google:
+                                                          These national
+                                                          rules will
+                                                          allow fully
+                                                          driverless
+                                                          cars..."
+                                                        [Read
+                                                          More](http://recode.net/2016/01/14/obamas-4-billion-plan-for-self-driving-cars-will-make-google-very-happy/)  Hmmm...
+                                                          A [few
+                                                          months ago](http://www.its.dot.gov/press/2015/ngv_tech_announcement.htm)
+                                                          it was $42M
+                                                          for Connected
+                                                          Vehicles.
+                                                          Today it is
+                                                          100x for
+                                                          automated
+                                                          vehicles!
+                                                          Finally
+                                                          Secretary
+                                                          Foxx.."[YES!
+                                                          YES! JESUS H.
+                                                          TAP-DANCING
+                                                          CHRIST... I
+                                                          HAVE SEEN THE
+                                                          LIGHT](https://www.youtube.com/watch?v=lX5tfRdkoY0)"
+                                                          (Blue
+                                                          Brothers)
+                                                          Yea!!!!!   :-)
+                                                          Alain
+
+### [Google
+                                                          Pairs With
+                                                          Ford To Build
+                                                          Self-Driving
+                                                          Cars](https://www.yahoo.com/autos/google-pairs-with-ford-to-1326344237400118.html)
+
+                                                        J. Hyde & S.
+                                                        Carty, Dec. 21
+                                                        "Google and Ford
+                                                        will create a
+                                                        joint venture to
+                                                        build
+                                                        self-driving
+                                                        vehicles with
+                                                        Google's
+                                                        technology, a
+                                                        huge step by
+                                                        both companies
+                                                        toward a new
+                                                        business of
+                                                        automated ride
+                                                        sharing,
+                                                        ...According to
+                                                        three sources
+                                                        familiar with
+                                                        the plans, the
+                                                        partnership is
+                                                        set to be
+                                                        announced by
+                                                        Ford at the
+                                                        Consumer
+                                                        Electronics Show
+                                                        in January. By
+                                                        pairing with
+                                                        Google, Ford
+                                                        gets a massive
+                                                        boost in
+                                                        self-driving
+                                                        software
+                                                        development;
+                                                        while the
+                                                        automaker has
+                                                        been
+                                                        experimenting
+                                                        with its own
+                                                        systems for
+                                                        years, it only
+                                                        revealed plans
+                                                        this month to
+                                                        begin testing on
+                                                        public streets
+                                                        in
+                                                        California....
+
+                                                        Google already
+                                                        has several
+                                                        links to Ford;
+                                                        the head of the
+                                                        self-driving car
+                                                        project, John
+                                                        Krafcik, worked
+                                                        for 14 years at
+                                                        Ford, including
+                                                        a stint as head
+                                                        of truck
+                                                        engineering, and
+                                                        several other
+                                                        ex-Ford
+                                                        employees work
+                                                        in the unit as
+                                                        well. Former
+                                                        Ford chief
+                                                        executive Alan
+                                                        Mulally joined
+                                                        Google's board
+                                                        last year.
+
+                                                        And Ford
+                                                        executives have
+                                                        been clear for
+                                                        years that the
+                                                        company was
+                                                        ready to embrace
+                                                        a future where
+                                                        cars were sold
+                                                        as on-demand
+                                                        services. Ford
+                                                        CEO Mark Fields
+                                                        has repeatedly
+                                                        said Ford was
+                                                        thinking of
+                                                        itself "as a
+                                                        mobility
+                                                        company," and
+                                                        what that would
+                                                        mean for its
+                                                        business" [Read
+                                                          more](https://www.yahoo.com/autos/google-pairs-with-ford-to-1326344237400118.html)  Hmmm...Not
+                                                          surprising and
+                                                          not exclusive.
+                                                          :-) Alain
+
+### [Adam
+                                                          Jonas' View on
+                                                          Autonomous
+                                                          Cars](http://linkback.morganstanley.com/web/sendlink/webapp/BMServlet?file=kpmb1mve-3p5j-g000-97a7-d8d3855a5201&store=0&d=1&user=dagn42i4pkquh-0&__gda__=1549992813_42e5b148a43b27b943d8d34f1e5c3295#0011&dagn42i4pkquh-1&1549992813_f2523f33158f4db2b6d628c5c9008f28&0021&dagn42i4pkquh-2&1549992813_f9a15a1b06e61ec454fad4cc7759010a)
+
+                                                        Video similar to
+                                                        part of Adam's
+                                                        Luncheon talk @
+                                                        2015 Florida
+                                                        Automated
+                                                        Vehicle
+                                                        Symposium on Dec
+                                                        1.  [Hmmm ... Watch Video](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Videos/AdamJonas10T_MorganStanley.mp4)  especially
+                                                          at the 13:12
+                                                          mark.
+                                                          Compelling;
+                                                          especially
+                                                          after the 60
+                                                          Minutes
+                                                          segment
+                                                          above!  Also
+                                                          see his [TipRanks](https://www.tipranks.com/analysts/adam-jonas).
+                                                          Alain
+
+                                                          [](Mailto:alaink@princeton.edu)[Mailto:alaink@princeton.edu](Mailto:alaink@princeton.edu) [](Mailto:alaink@princeton.edu)
+
+                                                          This list is
+                                                          maintained by
+                                                          [Alain Kornhauser](mailto:alaink@princeton.edu) and hosted by the [Princeton University LISTSERV](http://lists.princeton.edu).
+
+[Unsubscribe](https://lists.princeton.edu/cgi-bin/wa?TICKET=NzM1MjMzIGJpbm9AUFJJTkNFVE9OLkVEVSBTTUFSVERSSVZJTkdDQVJTIGluYtYkJuu3&c=SIGNOFF) |[Re-subscribe](https://lists.princeton.edu/cgi-bin/wa?SUBED1=SmartDrivingCars&A=1)
+
+***************************************************************************************************************
+
+This list is maintained by [Alain Kornhauser](mailto:alaink@princeton.edu) and hosted by the [Princeton University LISTSERV](http://lists.princeton.edu).
