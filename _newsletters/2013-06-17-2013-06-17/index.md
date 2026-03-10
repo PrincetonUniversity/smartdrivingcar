@@ -1,0 +1,304 @@
+---
+layout: newsletter
+title: "2013-06-17"
+date: 2013-06-17
+permalink: /2013-06-17-2013-06-17/
+---
+
+[Sunday,
+          June 16,
+          2013](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/SDC061613.pdf)
+
+[](http://www.auvsi.org/AUVSIsDriverlessCarSummit/Home/) I was able to attend only the first day the
+          highlight of which was
+          the live video speech and Q&A session with the Honorable Rick Snyder, Governor of
+            Michigan.  He
+            demonstrated a real grasp of the issues
+            and sincere interests in having Michigan not only lead in
+            the implementation of
+            v2v but, more importantly, collision avoidance smart driving
+            technology. Also a
+            highlight was Erik
+            Coelingh from Volvo
+            Car Corp. who repeated Volvo's stated mission of having [zero
+            people
+            killed in Volvo cars by 2020](http://www.caradvice.com.au/131522/volvo-s60-safety-review/).
+          Kudos to Volvo's commitment to such a laudable goal.  He also noted that
+          Volvo's "City Safe" low
+          speed (under 30km/h (20mph)) collision avoidance system, which
+          has been
+          standard equipment on Volvo's S60, S80, XC60 and XC70 models
+          have experienced
+          nearly a [30%
+            less
+            at-fault claims](http://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=5&cad=rja&ved=0CFMQFjAE&url=http%3A%2F%2Fwww.autoblog.com%2F2011%2F07%2F20%2Fvolvo-city-safety-system-gets-thumbs-up-from-nhtsa-iihs-w-vide%2F&ei=sWe-UZuuH7Gw4AOWn4CoDw&usg=AFQjCNF-SjCcUDpFfAb04mfm2BZ7gYZ_cg&bvm=bv.47883778,d.dmg).  (My
+          comment: From
+          this basis, the additional features in the 2014 MB E &
+          S-class should
+          enable those vehicles to achieve upwards of 50% less at-fault
+          claims.) Dr.
+          Jeremy Salinger described Cadillac's research achievements in
+          automated driving
+          which are impressive; however, it is obvious by visiting [www.cadillac.com](http://www.cadillac.com) that Cadillac is
+          reluctant to
+          deliver these safety features to its customers.
+          Cadillac's version of "City Safe", called "Driver
+          Assist", seems to be
+          available only on the Premium and Platinum versions of the
+          2013 XTS. The
+          incremental cost is $2,395.  The
+          site
+          does state that the system "will be available" on the 2014
+          CTS.  Scott Nelson from
+          MILE Auto Insurance stated
+          that auto insurance companies tend to operate on a [5%
+            profit
+            margin](http://finance.yahoo.com/q/is?s=pgr+Income+Statement&annual).  He
+          suggested that
+          the safety implications of driverless cars might result in a
+          substantial
+          decline of liabilities.  He
+          speculated
+          that Progressive's cost of revenue (claims paid) for auto
+          coverage might
+          decline from $14B to $4B (if the insured fleet were
+          transformed to NHTSA level
+          4 cars, I presume). Bryan Reimer of MIT gave the initial
+          keynote address but
+          seemed to set a negative tone with several references to
+          "slowing down" which
+          to me sounded like a "Kodak" statement.
+          He talked about "deployment" of driverless cars as if
+          to suggest that
+          the public sector was in control of the introduction of these
+          smart driving
+          technologies.  I
+          couldn't disagree
+          more.  This isn't going
+          to be a
+          deployment, but rather a consumer adoption of, in Schumpeter's
+          words "…
+          the new technology…that
+            delivers a
+            substantial improvement in price and performance over the
+            existing technology…".
+
+[](http://www.connectedvehicleworkshop.com/) Sneak peek at what Dr. Jerome
+      Lutin, former
+      Senior Director at NJ Transit will say at the symposium entitled:
+      Application
+of
+          Autonomous Driving Technology to Transit - Functional
+          capabilities for
+          Safety and Capacity: Star Ledger headline
+        on June 14, 2013: "[Hell
+ride:
+          Lost NJ Transit bus arrives nearly 2 hours late to NYC](http://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&ved=0CDEQqQIwAA&url=http%3A%2F%2Fwww.nj.com%2Fnews%2Findex.ssf%2F2013%2F06%2Fhell_ride_lost_nj_transit_bus_arrives_nearly_2_hours_late.html&ei=YJ--UeruHfHA4AOtooDoBQ&usg=AFQjCNE4dPxCYB1dcx5rpphFiPwFyo1Jhw&bvm=bv.47883778,d.dmg)." Need we say
+        more?
+
+Safety:
+
+·
+          Industry-wide
+        average of 63,000 bus
+        crashes per year, resulting in 14,000 injuries and 351
+        fatalities.
+
+·
+          NJ TRANSIT had
+        four pedestrian
+        fatalities in 2012 and 217 injured in bus incidents.
+
+·
+          NJ TRANSIT
+        reported paying out $43.2
+        million in injury and damage claims in FY 2012. Assuming 34% of
+        claims are
+        allocated to Bus Operations on the basis of passenger miles
+        suggests $14.85
+        million in bus claims. With an owned and contracted fleet
+        totaling 2,403 buses
+        (excluding 624 buses leased to private carriers), the average
+        claims cost is
+        estimated $6,180. per vehicle per year for 2012
+
+·
+          Requiring a
+        Mercedes "[Intelligent
+          Drive](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Videos/2014MB_%20S-Class_AssistanceSystemsSmall.mp4)" "NHTSA Level
+        2" (collision avoidance
+        + pedestrian + recognition + steering assist + lane keeping +
+        vehicle
+        following) could be expected to reduce claims by at least 50%
+        (and deliver
+        substantial capacity improvements NY-NJ commuter operations).  This package is currently
+        priced at
+        $2,800.  Inclusion of
+        these elements in
+        the 2015 bus procurement specifications could be expected to
+        incur a similar
+        incremental price.  If
+        so, the RoI is
+        less than a year.  Even
+        if one assumes
+        that such technologies, when applied to buses might command a
+        factor of 3
+        premium, the RoI, just from a safety liability standpoint is
+        extremely short
+        relative to the life of the bus.
+        Moreover, the capacity and operational improvements are
+        free.  A complete
+        no-brainer!
+
+[](http://money.cnn.com/2013/06/12/autos/aaa-voice-to-text/index.html) [AAA:
+          Voice-to-text devices
+          worse driver distraction than cell phones](http://money.cnn.com/2013/06/12/autos/aaa-voice-to-text/index.html) An in-depth scientific study from AAA finds that
+        using
+        voice-to-text electronic devices is a far greater distraction
+        for drivers than
+        talking on cell phones, even if they are hands free. The study
+        measured brain
+        waves and reaction times of drivers, both in driving simulators
+        and on real
+        roads, in order the measure the comparable levels of
+        distraction. [Full story](http://money.cnn.com/2013/06/12/autos/aaa-voice-to-text/index.html) by CNN
+
+[](http://newsroom.aaa.com/2013/06/think-you-know-all-about-distracted-driving-think-again-says-aaa/) [Measuring Cognitive Distraction in the Automobile](http://newsroom.aaa.com/2013/06/think-you-know-all-about-distracted-driving-think-again-says-aaa/) WASHINGTON, D.C., (June 12, 2013)–Hands-free
+      technologies might
+      make it easier for motorists to text, talk on the phone, or even
+      use Facebook
+      while they drive, but new findings from the AAA Foundation for
+      Traffic Safety
+      show dangerous mental distractions exist even when drivers keep
+      their hands on
+      the wheel and their eyes on the road. [Full
+        story](http://newsroom.aaa.com/2013/06/think-you-know-all-about-distracted-driving-think-again-says-aaa/) by AAA Public relations
+
+# [](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/PDFs/MeasuringCognitiveDistractions_AAA_Foundation.pdf)[Measuring
+Cognitive
+          Distraction in the Automobile](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/PDFs/MeasuringCognitiveDistractions_AAA_Foundation.pdf) AAA
+        Foundation
+        Report
+
+My comment:  The
+        most effective way to alleviate the
+        safety aspects of cognitive distractions on driving is for the
+        rapid adoption
+        of Level 2 and above smart driving technologies in all new
+        vehicles and the
+        retrofitting of vehicles equipped with electronic steering,
+        braking and
+        throttle actuators with the sensing and compute technology to
+        certify them as
+        Level 2+ vehicles.  The
+        sooner Level 2
+        technologies populate the vehicle fleet, the sooner we will
+        eradicate the
+        driver distraction problem.  If
+        these
+        technologies are not adopted, then Draconian measures aimed at
+        disabling
+        wireless devices in vehicles can be expected "Regulators".  For more comments see [my
+talk
+          @ the 20th annual meeting of ITS-NY](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/KornhauserITS-NY4Dotty/KornhauserITS-NY_AnnualMtg4Dotty.pdf).
+
+[](http://www.youtube.com/watch?v=kW5AnrtVor8) [CMU Cadillac SUV Driving Itself](http://www.capitolhilldaily.com/2013/06/driverless-car/) Researchers
+        at Carnegie
+        Mellon University have joined  the quest to develop a driverless
+        car. And
+        at first sight, the Cadillac looks like any other SUV on the
+        road.  According to
+        Professor Raj Rajkumar and his
+        Carnegie Mellon team, the Cadillac prototype is the most
+        advanced example of
+        driverless technology yet produced. [Full
+        story](http://www.capitolhilldaily.com/2013/06/driverless-car/)
+      by Capitol Hill Daily
+
+Calendar
+          of Upcoming Events:
+
+[](http://www.vehicleautomation.org/)[The
+          Premier
+          Road Vehicle Automation Event in North America.](http://www.vehicleautomation.org/)  July
+          16-19, '13 Stanford
+          University, Palo Alto, CA
+Transportation
+        Research
+        Board's premier multidisciplinary research and policy conference
+        focused on
+        Road Vehicle Automation.  If
+        you are
+        actively involved in road vehicle automation and would like to
+        actively contribute
+        to the success of this conference by becoming a patron or
+        sponsoring one of the
+        meals, please contact me at [alaink@princeton.edu](mailto:alaink@princeton.edu).
+
+[](http://www.iav2013.org/) [June 26-28, Gold Coast,
+            Australia](http://www.iav2013.org/)
+
+[Smart Driving Cars](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/SDC060613.pdf)
+
+[Thursday,
+June
+            6, 2013](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/SDC060613.pdf)
+
+ [NHTSA Preliminary Statement of Policy Re:
+            Automated Vehicles](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Automated_Vehicles_Policy.pdf)
+[http://orfe.princeton.edu/~alaink/SmartDrivingCars/Automated_Vehicles_Policy.pdf](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Automated_Vehicles_Policy.pdf)
+contains
+the
+          details of this preliminary policy.
+          I highly recommend that you read it.
+          My interpretation: [http://orfe.princeton.edu/~alaink/SmartDrivingCars/CommentOnNHTSA_PrelimStatement.pdf](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/CommentOnNHTSA_PrelimStatement.pdf)
+
+[Early Estimate of
+            Motor Vehicle Traffic
+            Fa talities in 2012](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/PDFs/EarlySafetyFacts2012NHTSA.pdf) Not a pretty
+          picture.  Early estimates
+          show a 5.3% increase in fatalities over '11 to 34,080 due to a
+          very large YoY
+          increase in Q1 (12.6%) and a an extremely large increase of
+          greater than 15% in
+          the Northeast region.  While
+          some of this
+          may be attributable to increased VMT, Fatalities per VMT also
+          increased.  [http://orfe.princeton.edu/~alaink/SmartDrivingCars/PDFs/EarlySafetyFacts2012NHTSA.pdf](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/PDFs/EarlySafetyFacts2012NHTSA.pdf)[](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/SDC052913.pdf)
+
+[Smart
+Driving
+            Cars](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/SDC052913.pdf)
+
+[Wednesday,
+May
+            29, 2013](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/SDC052913.pdf)
+
+[](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Videos/2014MB_%20S-Class_AssistanceSystemsSmall.mp4)
+
+["Intelligent Drive:
+            networked with all senses](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Videos/2014MB_%20S-Class_AssistanceSystemsSmall.mp4)
+
+# [The Road
+          Ahead: Advanced
+          Vehicle Technology and its Implications](http://www.commerce.senate.gov/public/index.cfm?p=Hearings&ContentRecord_id=f228343f-36b3-4517-b01f-9f15624eb05d&ContentType_id=14f995b9-dfa5-407a-9d35-56cc7152a7ed&Group_id=b06c39af-e033-4cba-9221-de668ca1978a&MonthDisplay=5&YearDisplay=2013)
+
+May 15
+2013 2:30 PM
+      Russell Senate Office Building - 253
+
+# [Archived
+          webcast Starts @ 26:20](http://www.commerce.senate.gov/public/index.cfm?p=Hearings&ContentRecord_id=f228343f-36b3-4517-b01f-9f15624eb05d)   [AlainK
+          Analysis](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/SDC052913.pdf)
+
+*****************************************************************************
+
+*****************************************************************************
+
+*****************************************************************************
+
+#
+
+***************************************************************************************************************
+
+This list is maintained by [Alain Kornhauser](mailto:alaink@princeton.edu) and hosted by the [Princeton University LISTSERV](http://lists.princeton.edu).
