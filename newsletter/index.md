@@ -13,7 +13,7 @@ permalink: /newsletter/
     {% assign issues = site.newsletters | sort: 'date' | reverse %}
     {% for issue in issues %}
       <li>
-        <a href="{{ issue.url }}"><time datetime="{{ issue.date | date_to_xmlschema }}">{{ issue.date | date: '%Y-%m-%d' }}</time> – {% if issue.display_name %}{{ issue.display_name }}{% else %}{{ issue.title }}{% endif %}</a>
+        <a href="{{ issue.url }}"><time datetime="{{ issue.date | date_to_xmlschema }}">{{ issue.date | date: '%B %-d, %Y' }}</time> – {% if issue.display_name %}{{ issue.display_name }}{% else %}{{ issue.title }}{% endif %}</a>
       </li>
     {% endfor %}
     </ul>
