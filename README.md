@@ -32,9 +32,18 @@ smartdrivingcar/
 │   ├── clean_newsletter.py  # HTML cleaning utilities
 │   └── process_inbox.py     # Batch process inbox emails
 ├── tests/                   # Unit tests for scripts
+├── azure/
+│   ├── functions/           # Azure Function App (newsletter processing)
+│   │   ├── function_app.py  # Entry point
+│   │   ├── process_newsletter.py  # HTTP handler
+│   │   ├── newsletter_processor.py # Pure processing logic
+│   │   └── tests/           # Function tests (27 tests)
+│   ├── logic-app/           # ARM templates for Logic App workflow
+│   └── deploy/              # Deploy, update, and teardown scripts
 ├── .github/workflows/
 │   ├── build.yml            # Build and deploy to GitHub Pages
-│   └── process-newsletters.yml # Auto-process emails in inbox
+│   ├── process-newsletters.yml # Auto-process emails in inbox
+│   └── receive-newsletter.yml  # Receive from Azure pipeline
 ├── index.md                 # Homepage
 ├── subscribe.md             # Newsletter subscription page
 └── podcast/                 # Podcast content
@@ -98,6 +107,44 @@ Or from clipboard (HTML):
 ```bash
 pbpaste | python3 scripts/import_newsletter.py --date 2025-08-22 --title "Newsletter Title" --raw-html
 ```
+
+### Azure Auto-Publishing Pipeline
+
+For fully automated publishing (no manual steps after setup), the Azure pipeline processes newsletters as soon as Listserv delivers them:
+
+```
+Listserv → orfe-lists@princeton.edu (O365)
+  → "SmartDrivingCars Newsletters for Processing" folder
+  → Azure Logic App (polls every 5 min)
+  → Azure Function (cleans HTML, converts to markdown)
+  → GitHub repository_dispatch
+  → receive-newsletter.yml (writes file, commits, pushes)
+  → build.yml (deploys to GitHub Pages)
+```
+
+**Deduplication** is enforced at two levels:
+- The Azure Function can check against a list of known slugs (optional `known_slugs` parameter)
+- The GitHub Actions workflow checks if `_newsletters/{slug}/index.md` already exists and skips if so
+
+**Deploy / Update / Teardown:**
+
+```bash
+# Initial deployment (interactive, prompts for Azure config)
+./azure/deploy/deploy.sh
+
+# Update Function App code or Logic App workflow after changes
+./azure/deploy/update.sh                # update everything
+./azure/deploy/update.sh --function-only # republish function code only
+
+# Remove all Azure resources
+./azure/deploy/teardown.sh
+```
+
+All scripts support `--help` for usage details. OAuth connections require one-time browser authorization during initial deploy.
+
+**After teardown**, the OAuth tokens in Azure are destroyed, but authorized app entries may remain on the connected accounts. To fully revoke access:
+- **GitHub**: Bot account > Settings > Applications > Authorized OAuth Apps — revoke "Microsoft Azure Logic Apps"
+- **O365**: Admin portal for the mailbox account — revoke consent for "Microsoft Azure Logic Apps"
 
 ### Configuration
 

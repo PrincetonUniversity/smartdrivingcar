@@ -4,7 +4,7 @@
 
 All core features are now implemented and tested. Run tests with:
 ```bash
-source .venv/bin/activate && python -m pytest tests/ -v
+source .venv/bin/activate && python -m pytest tests/ azure/functions/tests/ -v
 ```
 
 ## Completed Features
@@ -24,11 +24,21 @@ source .venv/bin/activate && python -m pytest tests/ -v
 - **`config/newsletter_config.yml`**: Configurable inbox directory, logging, cleaning patterns
 
 ### 4. Testing
-- 49 unit tests covering all modules
-- Tests in `tests/` directory
+- 49 unit tests for scripts in `tests/`
+- 27 unit tests for Azure Function in `azure/functions/tests/`
 
 ### 5. Example Email
 - **`example-email/sample-newsletter.eml`**: Sample email for testing
+
+### 6. Azure Auto-Publishing Pipeline
+- **Azure Function** (`azure/functions/`): HTTP-triggered Python function that cleans newsletter HTML and converts to Jekyll markdown
+- **Logic App** (`azure/logic-app/`): ARM templates — polls O365 mail folder, calls Function, dispatches to GitHub
+- **Deploy scripts** (`azure/deploy/`):
+  - `deploy.sh` — Full interactive deployment (resource group, storage, function app, connections, logic app)
+  - `update.sh` — Republish function code or redeploy logic app workflow
+  - `teardown.sh` — Remove all Azure resources
+- **GitHub workflow** (`.github/workflows/receive-newsletter.yml`): Receives dispatch, writes newsletter file, commits and pushes
+- **Deduplication**: Function checks `known_slugs`; workflow checks filesystem for existing `_newsletters/{slug}/index.md`
 
 ## Usage
 
@@ -49,10 +59,17 @@ python scripts/import_newsletter.py --input inbox/newsletter.eml --htmlsrc
 
 ## Architecture
 
+### Manual/Git-Push Pipeline
 ```
 inbox/*.eml → process_inbox.py → import_newsletter.py → clean_newsletter.py → _newsletters/
                      ↓
                logs/newsletter_processing.log
+```
+
+### Azure Auto-Publishing Pipeline
+```
+Listserv → O365 folder → Logic App (5-min poll) → Azure Function (process)
+  → GitHub repository_dispatch → receive-newsletter.yml (commit) → build.yml (deploy)
 ```
 
 ## Configuration Options
@@ -69,6 +86,32 @@ See `config/newsletter_config.yml` for defaults. All settings can be overridden 
 | `logging.level` | `NEWSLETTER_LOG_LEVEL` | Log level (INFO, DEBUG, etc.) |
 
 Additional config options: `cleaning` (footer patterns, remove patterns, replacements)
+
+## Azure Deploy / Update / Teardown
+
+```bash
+# Deploy all Azure resources (interactive)
+./azure/deploy/deploy.sh
+
+# Partial deploys
+./azure/deploy/deploy.sh --function-only
+./azure/deploy/deploy.sh --connections-only
+./azure/deploy/deploy.sh --logic-app-only
+
+# Update after code changes
+./azure/deploy/update.sh                  # update function + logic app
+./azure/deploy/update.sh --function-only   # republish function code only
+./azure/deploy/update.sh --logic-app-only  # redeploy workflow only
+
+# Tear down all resources
+./azure/deploy/teardown.sh
+./azure/deploy/teardown.sh --yes  # skip confirmation
+./azure/deploy/teardown.sh --resource-group orfe-dept-azure-alaink-sdc-rg
+```
+
+After teardown, manually revoke OAuth apps for a clean break:
+- **GitHub**: Bot account > Settings > Applications > Authorized OAuth Apps — revoke "Microsoft Azure Logic Apps"
+- **O365**: Admin portal for the mailbox account — revoke consent for "Microsoft Azure Logic Apps"
 
 ## Future Extension Ideas
 
