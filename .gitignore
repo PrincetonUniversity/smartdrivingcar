@@ -9,3 +9,9 @@ scripts/__pycache__/clean_newsletter.cpython-313.pyc
 .jekyll-metadata
 __pycache__/
 *.pyc
+
+# Azure Functions
+azure/functions/lib/
+azure/functions/local.settings.json
+azure/functions/.venv/
+azure/functions/.python_packages/
