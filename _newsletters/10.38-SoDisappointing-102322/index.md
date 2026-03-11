@@ -5,49 +5,35 @@ date: 2022-02-09
 permalink: /10.38-SoDisappointing-102322/
 display_name: "10.38 - Sodisappointing 102322"
 ---
+Click or tap if you trust this link. 
 
-Click or tap if you trust this link.">Friday,
- March 03, 2023
+Friday, March 03, 2023
 
 8th edition of the 11th year of SmartDrivingCars eLetter
 
 [First Million Rider-Only Miles: How the Waymo Driver is Improving Road Safety](https://blog.waymo.com/2023/02/first-million-rider-only-miles-how.html)
 
-The Waymo team, Feb 28, "Waymo has achieved many global industry firsts. Each time we delight our riders and deliver on our mission safely, we are proudest. In January, we accomplished another first: we [exceeded](https://twitter.com/Waymo/status/1621569811338649603?s=20) one
- million miles on public roads with no human behind the wheel. …
+The Waymo team, Feb 28, "Waymo has achieved many global industry firsts. Each time we delight our riders and deliver on our mission safely, we are proudest. In January, we accomplished another first: we [exceeded](https://twitter.com/Waymo/status/1621569811338649603?s=20) one million miles on public roads with no human behind the wheel. 
 
-To provide a more in-depth look into the performance of the Waymo Driver and where it stands compared to human driving, we've published a [research paper](https://storage.googleapis.com/waymo-uploads/files/documents/safety/Safety%20Performance%20of%20Waymo%20RO%20at%201M%20miles.pdf) that summarizes the contact events that we experienced during the first one million miles of our rider-only operations….
+To provide a more in-depth look into the performance of the Waymo Driver and where it stands compared to human driving, we've published a [research paper](https://storage.googleapis.com/waymo-uploads/files/documents/safety/Safety%20Performance%20of%20Waymo%20RO%20at%201M%20miles.pdf) that summarizes the contact events that we experienced during the first one million miles of our rider-only operations.
 
-T. Victor, et al. "[Safety Performance of the Waymo Rider-Only Automated Driving System at One Million Miles](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https:/storage.googleapis.com/waymo-uploads/files/documents/safety/Safety%20Performance%20of%20Waymo%20RO%20at%201M%20miles.pdf)"
+T. Victor, et al. "[Safety Performance of the Waymo Rider-Only Automated Driving System at One Million Miles](https://storage.googleapis.com/waymo-uploads/files/documents/safety/Safety%20Performance%20of%20Waymo%20RO%20at%201M%20miles.pdf)"
 
-ABSTRACT: This paper examines the safety performance of the Waymo Driver™, Waymo's Automated Driving System (ADS). It analyzes one million miles of driving on public roads in parts of California and Arizona with no
- human behind the wheel– what we call rider-only (RO) operations. There were no reported injuries, and only two collisions that were comparable to the National Highway Traffic Safety Administration's Crash Investigation Sampling System ("CISS"), a nationally
- representative collision database of collisions that were police reported and in which at least one vehicle was towed. There were an additional 18 minor-contact events that were too minor to meet the tow-away and police-report criteria for CISS, where nine
- of these 20 contact events had no damage….
+ABSTRACT: This paper examines the safety performance of the Waymo Driver™, Waymo's Automated Driving System (ADS). It analyzes one million miles of driving on public roads in parts of California and Arizona with no human behind the wheel– what we call rider-only (RO) operations. There were no reported injuries, and only two collisions that were comparable to the National Highway Traffic Safety Administration's Crash Investigation Sampling System ("CISS"), a nationally representative collision database of collisions that were police reported and in which at least one vehicle was towed. There were an additional 18 minor-contact events that were too minor to meet the tow-away and police-report criteria for CISS, where nine of these 20 contact events had no damage.
 
-The first event that occurred had the
-highest severity of the 20 contact events: …  In this event, the Waymo vehicle was struck in the rear while slowing for a red light by a car driven by a teenage driver. Rearward facing video recorded by the ADS suggests the driver of the other vehicle
- was looking at a cell phone held near the steering wheel immediately prior to the collision…. "
-[Read  more](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https:/storage.googleapis.com/waymo-uploads/files/documents/safety/Safety%20Performance%20of%20Waymo%20RO%20at%201M%20miles.pdf)
- Hmmmm….. The entire  [paper](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https:/storage.googleapis.com/waymo-uploads/files/documents/safety/Safety%20Performance%20of%20Waymo%20RO%20at%201M%20miles.pdf) is worth a very careful read.  Performance
- during this first million miles is very impressive.  While in the scope of things it is not very many miles, the first of anything is never very many and often it is when bad things happen. Look at
-[what happened to Uber](https://en.wikipedia.org/wiki/Death_of_Elaine_Herzberg) in the beginning.
+The first event that occurred had the highest severity of the 20 contact events: In this event, the Waymo vehicle was struck in the rear while slowing for a red light by a car driven by a teenage driver. Rearward facing video recorded by the ADS suggests the driver of the other vehicle was looking at a cell phone held near the steering wheel immediately prior to the collision. 
 
- Enormous kudos to Waymo (and Cruise). They have, in my opinion, demonstrated that they can move people safely in an ODD.  Hopefully, they'll now look for an ODD
- where they can safely provide mobility most of the time (NOT necessarily every day, but are confident that they can do it, say, 350 days a year) and certainly NOT everywhere in the ODD (instead find the safest set of streets and intersections that allows them
- to deliver interconnected on-demand mobility requiring only a short walk (~less than 5 minutes) between most of the locations within that ODD/community).  They then can build an affordable, equitable high=quality mobility system for the residents of that/those
- ODD(s)
+[Read more](https://storage.googleapis.com/waymo-uploads/files/documents/safety/Safety%20Performance%20of%20Waymo%20RO%20at%201M%20miles.pdf) Hmmmm….. The entire [paper](https://storage.googleapis.com/waymo-uploads/files/documents/safety/Safety%20Performance%20of%20Waymo%20RO%20at%201M%20miles.pdf) is worth a very careful read. Performance during this first million miles is very impressive. While in the scope of things it is not very many miles, the first of anything is never very many and often it is when bad things happen. Look at [what happened to Uber](https://en.wikipedia.org/wiki/Death_of_Elaine_Herzberg) in the beginning.
 
-There are many such communities throughout the country, many of which are communities where auto ownership is low, transit service is, at best, poor and the mobility offered would substantially improve the quality
- of life of many.
+Enormous kudos to Waymo (and Cruise). They have, in my opinion, demonstrated that they can move people safely in an ODD. Hopefully, they'll now look for an ODD where they can safely provide mobility most of the time (NOT necessarily every day, but are confident that they can do it, say, 350 days a year) and certainly NOT everywhere in the ODD (instead find the safest set of streets and intersections that allows them to deliver interconnected on-demand mobility requiring only a short walk (~less than 5 minutes) between most of the locations within that ODD/community). They then can build an affordable, equitable high-quality mobility system for the residents of that/those ODD(s)
 
-Waymo's (or Cruise's) provision of safe, affordable, on-demand mobility would be an enormous public service as well as providing a basis from which to scale to meet thire due diligence obligation to deliver substantial
- return on investment to Alphabet (and GM).    Alain
+There are many such communities throughout the country, many of which are communities where auto ownership is low, transit service is, at best, poor and the mobility offered would substantially improve the quality of life of many.
 
- SmartDrivingCars [ZoomCast 306](https://youtu.be/Y_D8Y-MLrOA) / [PodCast 306](https://spotifyanchor-web.app.link/e/f6729dWiSxb)
+Waymo's (or Cruise's) provision of safe, affordable, on-demand mobility would be an enormous public service as well as providing a basis from which to scale to meet their due diligence obligation to deliver substantial return on investment to Alphabet (and GM). Alain
 
-F. Fishkin,  March 3, "Waymo passes a million miles with Waymo Driver and issues a safety report. Tesla addresses investors and the future, Ford creates Latitude AI and more. Join Princeton's Alain Kornhauser and co-host
- Fred Fishkin for episode 306 of Smart Driving Cars."
+SmartDrivingCars [ZoomCast 306](https://youtu.be/Y_D8Y-MLrOA) / [PodCast 306](https://spotifyanchor-web.app.link/e/f6729dWiSxb)
+
+F. Fishkin, March 3, "Waymo passes a million miles with Waymo Driver and issues a safety report. Tesla addresses investors and the future, Ford creates Latitude AI and more. Join Princeton's Alain Kornhauser and co-host Fred Fishkin for episode 306 of Smart Driving Cars."
 
 * [0:00](https://www.youtube.com/watch?v=Y_D8Y-MLrOA&t=0s) open
 * [0:44](https://www.youtube.com/watch?v=Y_D8Y-MLrOA&t=44s) Waymo Driver performance report
@@ -81,27 +67,23 @@ F. Fishkin,  March 3, "Waymo passes a million miles with Waymo Driver and issue
 * [7:30](https://www.youtube.com/watch?v=fDOhO3sK38I&t=450s) #3
 * [9:14](https://www.youtube.com/watch?v=fDOhO3sK38I&t=554s) #4
 * [9:37](https://www.youtube.com/watch?v=fDOhO3sK38I&t=577s) #5
-* [10:46](https://www.youtube.com/watch?v=fDOhO3sK38I&t=646s) #6  Tesla van??  Tesla H-vator???
-* [11:03](https://www.youtube.com/watch?v=fDOhO3sK38I&t=663s) #7  Bot &
+* [10:46](https://www.youtube.com/watch?v=fDOhO3sK38I&t=646s) #6 Tesla van?? Tesla H-vator???
+* [11:03](https://www.youtube.com/watch?v=fDOhO3sK38I&t=663s) #7 Bot &
 * [12:11](https://www.youtube.com/watch?v=fDOhO3sK38I&t=731s) #8
 
-###
+### 
 
 ### [MIT Mobility Forum: Spring 2023](https://mit.zoom.us/meeting/register/tJIoduytqDsiE9ZKHfZ9Mf1hHIzSCx-TxIEq)
 
-### 1.
-Fridays 12:00-13:00 Boston Time Open to the public
+### 1. Fridays 12:00-13:00 Boston Time Open to the public
 
-* Registration:
+* Registration: [https://mit.zoom.us/meeting/register/tJIoduytqDsiE9ZKHfZ9Mf1hHIzSCx-TxIEq](https://mit.zoom.us/meeting/register/tJIoduytqDsiE9ZKHfZ9Mf1hHIzSCx-TxIEq)
 
-[https://mit.zoom.us/meeting/register/tJIoduytqDsiE9ZKHfZ9Mf1hHIzSCx-TxIEq](https://mit.zoom.us/meeting/register/tJIoduytqDsiE9ZKHfZ9Mf1hHIzSCx-TxIEq)
-
-### 3.
-Hosted by Prof. Jinhua Zhao
+### 3. Hosted by Prof. Jinhua Zhao
 
 ### AGENDA
 
-Feb 17 Alain Kornhauser "Envisioning Profitable Autonomous Transit Networks "
+Feb 17 Alain Kornhauser "Envisioning Profitable Autonomous Transit Networks"
 
 Feb 24 Hani Mahmassani "Telemobility, hybrid work and the next normal"
 
@@ -110,8 +92,6 @@ March 3 Liz Renold and David Mindell "Tectonic shifts in science, technology, an
 March 10 Juan de Dios Ortuzar "Modelling Sustainable Options - the importance of habit and perceptions"
 
 March 17 Robin Chase "The case against transportation policy priority one being electrified personal cars"
-
-…
 
 ***
 
@@ -133,124 +113,112 @@ March 17 Robin Chase "The case against transportation policy priority one being 
 
 [Paper Submission deadline: April 30](https://bridgingtransport.org/blog/paper-submission/)
 
-August. 9 & 10
+August 9 & 10
 
 On-line Conference
 
-              Click or tap if you trust this link.">Friday,
- February 3, 2023
+Click or tap if you trust this link. 
 
-              Click or tap if you trust this link.">Friday,
- January 27, 2023
+Friday, February 3, 2023
 
-              Click or tap if you trust this link.">Tuesday,
- January 24, 2023
+Click or tap if you trust this link. 
 
-              Click or tap if you trust this link.">Friday,
- January 13, 2023
+Friday, January 27, 2023
 
-              Click or tap if you trust this link.">Sunday,
- January 8, 2023
+Click or tap if you trust this link. 
 
-* SafeDrivingCars:  Those in which the automated function are explicitly designed to not only substantially reduce driver misbehavior by constraining the performance characteristic
- such as incorporating  [speed governors](https://www.google.com/search?q=speed+governor&rlz=1C1GCEB_enUS791US791&oq=speed+governor&aqs=chrome..69i57j0i512l9.4112j0j7&sourceid=chrome&ie=UTF-8) that only permit excessive speeds in geofenced locations such as
-[Watkins Glen International](https://www.theglen.com/) and stretches of the
-[German Autobahn](https://en.wikipedia.org/wiki/Autobahn), but also automatically intervene to prevent crashes; thus, extending what  is done today with
-[anti-lock brakes](https://r.search.yahoo.com/_ylt=AwrCwohlmLlj7mwA9B8PxQt.;_ylu=Y29sbwNiZjEEcG9zAzEEdnRpZAMEc2VjA3Ny/RV=2/RE=1673136358/RO=10/RU=https%3a%2f%2fen.wikipedia.org%2fwiki%2fAnti-lock_braking_system/RK=2/RS=jmEmjts4v9aKd5qA3i1zu6hL7_I-) and [electronic stability control](https://r.search.yahoo.com/_ylt=AwrCwDOMmLljUWAAnAcPxQt.;_ylu=Y29sbwNiZjEEcG9zAzEEdnRpZAMEc2VjA3Ny/RV=2/RE=1673136396/RO=10/RU=https%3a%2f%2fen.wikipedia.org%2fwiki%2fElectronic_stability_control/RK=2/RS=mBTcrDpZh4zs51KHC5IvDOlsIpU-).
+Tuesday, January 24, 2023
 
-* SelfDrivingCars:  Those which allow the driver for some extended period of time to be "feet-off" the brake & throttle, delivering to the driver substantial comfort & convenience,
- but also "hands-off" the wheel for shorter periods of time providing a little more
-comfort
- & convenience.  Absolutely required are  "eyes & brain" focused the human task of driving, ready to intervene should the automated driver begin to fail.
+Click or tap if you trust this link. 
 
-* DriverlessCars:  Those which serve only passengers and/or good from trip start, through finish.  Luckily, the notion that individuals might own such vehicles for personal
- use and/or be able to "AirB&B" them for others to get from A to B is now realized by essentially everyone as exceedingly naïve.  The
-[Mercedes booth at this year's CES](https://group.mercedes-benz.com/innovation/product-innovation/technology/article-2.html) showed no sign of its
-[Mercedes Benz F 015 Luxury in Motion | LIVE PREMIERE CES 2015](https://www.youtube.com/watch?v=eftN0lwNk88).  Yea!
+Friday, January 13, 2023
 
-            Click or tap if you trust this link.">Friday,
- December 30, 2022
+Click or tap if you trust this link. 
 
-            Click or tap if you trust this link.">Sunday,
- December 25, 2022
+Sunday, January 8, 2023
 
-              Click or tap if you trust this link.">Saturday,
- December 17, 2022
+* SafeDrivingCars: Those in which the automated function are explicitly designed to not only substantially reduce driver misbehavior by constraining the performance characteristic such as incorporating [speed governors](https://www.google.com/search?q=speed+governor&rlz=1C1GCEB_enUS791US791&oq=speed+governor&aqs=chrome..69i57j0i512l9.4112j0j7&sourceid=chrome&ie=UTF-8) that only permit excessive speeds in geofenced locations such as [Watkins Glen International](https://www.theglen.com/) and stretches of the [German Autobahn](https://en.wikipedia.org/wiki/Autobahn), but also automatically intervene to prevent crashes; thus, extending what is done today with [anti-lock brakes](https://en.wikipedia.org/wiki/Anti-lock_braking_system) and [electronic stability control](https://en.wikipedia.org/wiki/Electronic_stability_control).
 
-              Click or tap if you trust this link.">Sunday,
- December 11, 2022
+* SelfDrivingCars: Those which allow the driver for some extended period of time to be "feet-off" the brake & throttle, delivering to the driver substantial comfort & convenience, but also "hands-off" the wheel for shorter periods of time providing a little more comfort & convenience. Absolutely required are "eyes & brain" focused the human task of driving, ready to intervene should the automated driver begin to fail.
 
-              Click or tap if you trust this link.">Friday,
- December 2, 2022
+* DriverlessCars: Those which serve only passengers and/or goods from trip start, through finish. Luckily, the notion that individuals might own such vehicles for personal use and/or be able to "AirB&B" them for others to get from A to B is now realized by essentially everyone as exceedingly naïve. The [Mercedes booth at this year's CES](https://group.mercedes-benz.com/innovation/product-innovation/technology/article-2.html) showed no sign of its [Mercedes Benz F 015 Luxury in Motion | LIVE PREMIERE CES 2015](https://www.youtube.com/watch?v=eftN0lwNk88). Yea!
 
-              Click or tap if you trust this link.">Sunday, November
- 27, 2022
+Click or tap if you trust this link. 
 
-              Click or tap if you trust this link.">Saturday, November
- 19, 2022
+Friday, December 30, 2022
 
-              Click or tap if you trust this link.">Monday, November
- 14, 2022
+Click or tap if you trust this link. 
 
-              Click or tap if you trust this link.">Sunday, November
- 6, 2022
+Sunday, December 25, 2022
 
-              Click ">Sunday,
- October 30, 2022
+Click or tap if you trust this link. 
 
-* Hawkins, Oct. 27, "When Ford announced yesterday that it was pulling its support for Argo AI, the autonomous driving startup it had financed since 2017, it cited as one of its reasons a belief that driver-assist technology will
- have more near-term payoffs....." [Read more](https://www.theverge.com/2022/10/27/23426449/ford-argo-ai-driver-assist-level-2-level-3-danger-risk) Hmmmm... I agree with Andrew, as I stated above.  Alain
+Saturday, December 17, 2022
 
-              Click ">Sunday,
- October 23, 2022
+Click or tap if you trust this link. 
 
-              Click or t">Friday, October
- 14, 2022
+Sunday, December 11, 2022
 
-              or tap">Saturday, October
- 08, 2022
+Click or tap if you trust this link. 
 
-              Click or t">Thursday, September
- 29, 2022
+Friday, December 2, 2022
 
-              tap ">Saturday, September
- 10, 2022
+Click or tap if you trust this link. 
 
-              Click ">Thursday September
- 1, 2022
+Sunday, November 27, 2022
 
-              or tap ">Sunday,
- August 28, 2022
+Click or tap if you trust this link. 
+
+Saturday, November 19, 2022
+
+Click or tap if you trust this link. 
+
+Monday, November 14, 2022
+
+Click or tap if you trust this link. 
+
+Sunday, November 6, 2022
+
+Click [here](https://www.youtube.com/watch?v=td24aq5tcKY) for Sunday, October 30, 2022
+
+* Hawkins, Oct. 27, "When Ford announced yesterday that it was pulling its support for Argo AI, the autonomous driving startup it had financed since 2017, it cited as one of its reasons a belief that driver-assist technology will have more near-term payoffs....." [Read more](https://www.theverge.com/2022/10/27/23426449/ford-argo-ai-driver-assist-level-2-level-3-danger-risk) Hmmmm... I agree with Andrew, as I stated above. Alain
+
+Click [here](https://www.youtube.com/watch?v=td24aq5tcKY) for Sunday, October 23, 2022
+
+Click or tap for Friday, October 14, 2022
+
+Click or tap for Saturday, October 08, 2022
+
+Click or tap for Thursday, September 29, 2022
+
+Click or tap for Saturday, September 10, 2022
+
+Click for Thursday September 1, 2022
+
+Click or tap for Sunday, August 28, 2022
 
 * [Tesla FSD Beta V 10.69 Dominates Downtown Driving](https://www.youtube.com/watch?v=td24aq5tcKY)
 * [FSD Beta 10.69 (2022.16.3.10) Release Notes](https://www.notateslaapp.com/software-updates/version/2022.16.3.10/release-notes)
-* [FSDBeta v10.69 - HEAVY TRAFFIC - Unprotected Left Turns](https://www.youtube.com/watch?v=xpzJPe1DrzQ)... Amazing that such turns are legal let alone FSD's routing algorithm deicing that this is on the best way to go.  Safety must not be part of its objective function [C'mon Elon](https://www.youtube.com/watch?v=GPGY1NG6sNU).
-* [FSD Beta V 10.69 Initial Impressions](https://www.youtube.com/watch?v=sP7SEyIakJ8).  My impression is that 10.69 drove better than this tester who seemed intent on driving aggressively and not wanting to yield to pedestrians in crosswalks.  Hopefully no one at Tesla pays attention to this guy.
+* [FSDBeta v10.69 - HEAVY TRAFFIC - Unprotected Left Turns](https://www.youtube.com/watch?v=xpzJPe1DrzQ)... Amazing that such turns are legal let alone FSD's routing algorithm deciding that this is on the best way to go. Safety must not be part of its objective function [C'mon Elon](https://www.youtube.com/watch?v=GPGY1NG6sNU).
+* [FSD Beta V 10.69 Initial Impressions](https://www.youtube.com/watch?v=sP7SEyIakJ8). My impression is that 10.69 drove better than this tester who seemed intent on driving aggressively and not wanting to yield to pedestrians in crosswalks. Hopefully no one at Tesla pays attention to this guy.
 * [Bullish News From Giga Berlin Tours, Production Rumors, Terrible Toyota](https://www.youtube.com/watch?v=7SoN5N0lTj8)
 * [The Tesla Semi Is Officially Here](https://www.youtube.com/watch?v=c6sgX-cnOyI)!
 
-              tap ">Monday,
- August 22, 2022
+Click or tap for Monday, August 22, 2022
 
-              Click or">Saturday,
- August 6, 2022
+Click or tap for Saturday, August 6, 2022
 
-              tap ">Saturday
- July 30, 2022
+Click or tap for Saturday, July 30, 2022
 
-              tap ">Monday
- July 25, 2022
+Click or tap for Monday, July 25, 2022
 
-              Click or t">Saturday
- July 16, 2022
+Click or tap for Saturday, July 16, 2022
 
-              or tap">Saturday
- June 11, 2022
+Click or tap for Saturday, June 11, 2022
 
-              Click ">Saturday
- June 18, 2022
+Click or tap for Saturday, June 18, 2022
 
-* These system outrageously reduce crash probabilities, and/or
+* These systems outrageously reduce crash probabilities, and/or
 
 * maybe some, but we're probably not much luckier.
 
@@ -260,48 +228,37 @@ comfort
 
 * very few of the drivers of those cars rarely engaged the Level 2 features, and/or
 
-* likely.  Only Tesla releases data on the utilization of its level 2 features but does so only in aggregate terms that don't allow for correction of sampling bias associated with engagement in "easy" driving conditions versus
- "challenging" driving conditions.
+* likely. Only Tesla releases data on the utilization of its level 2 features but does so only in aggregate terms that don't allow for correction of sampling bias associated with engagement in "easy" driving conditions versus "challenging" driving conditions.
 
 * enormous under counting
 
-* likely, only Tesla has the opportunity to either "know all" or sample effectively because of their [OtA monitoring](https://www.wired.com/insights/2014/02/teslas-air-fix-best-example-yet-internet-things/) of its vehicles.  Everyone else has conveniently kept their heads in the sand. Mercedes didn't report any; however, during that period I think my Intelligent Cruise Control and Lane Centering were engaged when I hit a deer.  Mercedes
- must not have been watching me, I didn't report it and I didn't get the memo that informed me to do anything.
+* likely, only Tesla has the opportunity to either "know all" or sample effectively because of their [OtA monitoring](https://www.wired.com/insights/2014/02/teslas-air-fix-best-example-yet-internet-things/) of its vehicles. Everyone else has conveniently kept their heads in the sand. Mercedes didn't report any; however, during that period I think my Intelligent Cruise Control and Lane Centering were engaged when I hit a deer. Mercedes must not have been watching me, I didn't report it and I didn't get the memo that informed me to do anything.
 
-              or tap">Saturday
- June 11, 2022
+Click or tap for Saturday, June 11, 2022
 
-              or tap">Saturday
- May 28, 2022
+Click or tap for Saturday, May 28, 2022
 
-              tap ">Sunday
- May 15, 2022
+Click or tap for Sunday, May 15, 2022
 
-              tap ">Saturday
- May 7, 2022
+Click or tap for Saturday, May 7, 2022
 
-              Click or tap ">Friday,
- April 30, 2022
+Click or tap for Friday, April 30, 2022
 
-            Click or tap ">Saturday,
- April 23, 2022
+Click or tap for Saturday, April 23, 2022
 
-              Click or tap ">Thursday,
- April 15, 2022
+Click or tap for Thursday, April 15, 2022
 
 * those that don't already have a stable full of their own personal mobility options.
 * those for which his aTaxi can substantially change their lives for the better.
 
-              or tap">Thursday,
- March 31, 2022
+Click or tap for Thursday, March 31, 2022
 
 PersonTripLength (90%tile): 10 miles
 
 Cost:
 
-              or ta">Friday,
- February 4, 2022
+Click or tap for Friday, February 4, 2022
 
 ***************************************************************************************************************
 
-This list is maintained by [Alain Kornhauser](mailto:alaink@princeton.edu) and hosted by the [Princeton University LISTSERV](http://lists.princeton.edu).
+This list is maintained by Alain Kornhauser and hosted by the [Princeton University LISTSERV](http://lists.princeton.edu).
