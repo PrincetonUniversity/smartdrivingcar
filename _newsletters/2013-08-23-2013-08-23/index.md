@@ -102,7 +102,3 @@ Presentation made to Texas Tech Task Force, July 31, 2013. Very interesting, esp
 ## [Washington DC Oct 23-25](http://www.podcarcity.org/washington/)
 
 ### [alaink@princeton.edu](mailto:alaink@princeton.edu)
-
-***************************************************************************************************************
-
-This list is maintained by [Alain Kornhauser](mailto:alaink@princeton.edu) and hosted by the [Princeton University LISTSERV](http://lists.princeton.edu).

@@ -153,5 +153,3 @@ The final step would be to merge the PCaD with the turn-by-turn navigation syste
 See following videos for more information:
 
 [2013_Commercial_Teen](http://orfe.princeton.edu/~alaink/SmartDrivingCars/Videos/MobileyeSexyCommercialCollisionPreventionTV%20Show%202013.mp4) [About Mobileye](http://orfe.princeton.edu/~alaink/SmartDrivingCars/Videos/MobileyeAboutJuly2013.mp4) Links to Videos of individual capabilities available @ [https://us.mobileye.com/products/mobileye-560/](https://us.mobileye.com/products/mobileye-560/)
-
-[Mailto:alaink@princeton.edu](mailto:alaink@princeton.edu)

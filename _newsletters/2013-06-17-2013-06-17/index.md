@@ -52,15 +52,3 @@ Calendar of Upcoming Events:
 May 15 2013 2:30 PM Russell Senate Office Building - 253
 
 # [Archived webcast Starts @ 26:20](http://www.commerce.senate.gov/public/index.cfm?p=Hearings&ContentRecord_id=f228343f-36b3-4517-b01f-9f15624eb05d) [AlainK Analysis](http://orfe.princeton.edu/~alaink/SmartDrivingCars/SDC052913.pdf)
-
-*****************************************************************************
-
-*****************************************************************************
-
-*****************************************************************************
-
-#
-
-***************************************************************************************************************
-
-This list is maintained by [Alain Kornhauser](mailto:alaink@princeton.edu) and hosted by the [Princeton University LISTSERV](http://lists.princeton.edu).

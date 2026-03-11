@@ -34,35 +34,3 @@ As mentioned above I participated in the Transit & Shared Mobility breakout sess
     b. "low speed driverless" vehicles that operate on roadways that also serve pedestrians, bicyclists and traditional roadway vehicles, as was demonstrated at [La Rochelle](http://www.citymobil-project.eu/site/en/SP1%20La%20Rochelle.php) and will be placed in service by [CityMobile2](http://www.citymobil-project.eu/)
 
 Between these two extremes lies the "Level 4" transit opportunity for high speed driverless vehicles sharing existing roadways with existing road users. Such autonomous Taxis (aTaxis) could provide auto-like service where demand is diffuse in space and time while facilitating casual ride-sharing to serve demand that happens to be correlated spatially and temporally. This casual ride-sharing substantially improves efficiency and eliminates congestion. Such systems could emerge from smaller precursor exclusive guideway system whose vehicles could emerge onto existing roadways to serve a broader spatial scope of travel demand. Or, they could emerge from a broader, but less intense suburban service using existing roadways to serve more concentrated urban areas by creating exclusive guideways to deliver higher capacity services in the dense core. Each of these could be done by demand responsive management of a fleet consisting of various sized driverless vehicles. At the Friday morning session on Emerging trends in Public Transportation and Vehicle Automation I presented my results on the conceptual implementation of aTaxi service throughout New Jersey, ["Smart Driving Cars: Transit Opportunity of NHTSA Level 4 Driverless Vehicles"](http://orfe.princeton.edu/~alaink/SmartDrivingCars/Stanford_TRB_Conf_July2013/TRB_AutomationWorkshop_Stanford_071513a.pdf). I focused on the shared-ride opportunities that such a system could capture as it served the 32+ million trips that are taken in NJ on a typical weekday. 2+ million of the trips are short and are readily served by walking and biking. 1+ million of the trips can readily use NJ Transit's rail service for at least a portion of the trips. A large portion of the remaining trips are so diffuse spatially and temporally that shared ridership is not practical and are served individually by the aTaxi system. The remainder, occurring in the denser locations during peak hours, has substantial ride-sharing that would correspondingly decongest these roadways at these times while delivering excellent mobility at reduced energy and environmental consequences.
-
-*****************************************************************************
-
-*****************************************************************************
-
-*****************************************************************************
-
-*****************************************************************************
-
-*****************************************************************************
-
-*****************************************************************************
-
-*****************************************************************************
-
-*****************************************************************************
-
-*****************************************************************************
-
-May 15 2013 2:30 PM Russell Senate Office Building - 253
-
-*****************************************************************************
-
-*****************************************************************************
-
-*****************************************************************************
-
-*****************************************************************************
-
--- 
-
-This list is maintained by [Alain Kornhauser](mailto:alaink@princeton.edu) and hosted by the [Princeton University LISTSERV](http://lists.princeton.edu).
