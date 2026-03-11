@@ -5,7 +5,7 @@ date: 2024-02-24
 permalink: /12.16-princeton-ai-summit-4-13-24/
 display_name: "12.16 - Princeton Ai Summit"
 ---
-Click or tap if you trust this link. 
+Click or tap if you trust this link.
 
 Saturday, April 13, 2024
 

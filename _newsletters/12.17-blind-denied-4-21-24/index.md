@@ -5,7 +5,7 @@ date: 2022-02-09
 permalink: /12.17-blind-denied-4-21-24/
 display_name: "12.17 - Blind Denied"
 ---
-Click or tap if you trust this link. 
+Click or tap if you trust this link.
 
 Sunday, April 21, 2024
 
@@ -89,10 +89,10 @@ vehicles to improve equitable access for mobility disadvantaged populations…" 
 
 Reuters, April 21, "Tesla slashed the price of its Full Self-Driving (FSD) driver assistant software to $8,000 from $12,000 in the United States, as CEO Elon Musk doubles down on self-driving technology.
 
-Musk is betting on the technology to become cash cow for the world's most valuable automaker. But he has for years failed to achieve the goal of self-driving capability, with the technology under growing regulatory and legal scrutiny. …" Read more Hmmmm… Alain
+Musk is betting on the technology to become cash cow for the world's most valuable automaker. But he has for years failed to achieve the goal of self-driving capability, with the technology under growing regulatory and legal scrutiny. …" [Read more](https://kornhauser.princeton.edu/posts/2024/falling-sales-tesla-cuts-price-full-self-driving-software-third-8000-us) Hmmmm… Alain
 
 [6th Princeton SmartDrivingCar Summit](https://summit.princeton.edu/)
 
 Alain Kornhauser, April, 28 "Serious engagement among those seriously involved in the Automation of Mobility
 
-Read more Hmmmm… Please see the [registration](https://summit.princeton.edu/register) and [sponsorship](https://summit.princeton.edu/sponsorship) pages. Given the success that we've had with the past Summits and the quality of the program that we've been able to assemble to date, we fully expect to be sold out. Hope you'll be able to join in with us. Alain
+[Read more](https://summit.princeton.edu/register) and [sponsorship](https://summit.princeton.edu/sponsorship) pages. Given the success that we've had with the past Summits and the quality of the program that we've been able to assemble to date, we fully expect to be sold out. Hope you'll be able to join in with us. Alain
