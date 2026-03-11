@@ -214,7 +214,7 @@ Serving New Jersey's Personal Mobility Needs with the Casual Sharing of autonomo
 
 Even though these are unedited student reports they contain substantial information and perspectives on the opportunities and challenges for aTaxis to adequately serve the majority of New Jersey's mobility needs. While there are significant causal ride sharing opportunities during peak hours in peak directions, sufficient to eliminate congestion, and aTaxis can substantially increase the utilization (by a multiple of 5) of NJ Transit's rail system by providing efficient and high quality "last mile" mobility to/from rail stations, it is unlikely that average vehicle occupancy (AVO = personTripMiles/aTaxiMiles) for all trips, all day could reach a level of 2.0. Moreover, that is before one accounts for empty aTaxi repositioning that enables the sharing of aTaxis. These reports are the first that begin to address the empty aTaxis problem. It is non-trivial especially if one wishes to have multiple sized aTaxis so as to have the size of the serving aTaxi more closely match the number of shared rides that are being served. The spatial-temporal imbalances of the shared-ride demand seem to impose a great deal of empty repositioning.
 
-It may well turn out that having only four passenger aTaxis may be better than having a fleet consisting of 2 and 6 passenger aTaxis. The reduction in empty repositioning of a uniform fleet of aTaxis may well compensate for the extra energy consumed by a larger aTaxi when a smaller two passenger aTaxi could have done the job and the foregoing of some shared riding when two four passenger aTaxis need to be used because a single 6 passenger aTaxi was not available to serve the six travelers.  
+It may well turn out that having only four passenger aTaxis may be better than having a fleet consisting of 2 and 6 passenger aTaxis. The reduction in empty repositioning of a uniform fleet of aTaxis may well compensate for the extra energy consumed by a larger aTaxi when a smaller two passenger aTaxis could have done the job and the foregoing of some shared riding when two four passenger aTaxis need to be used because a single 6 passenger aTaxi was not available to serve the six travelers.  
 Alain  
 January 4, 2015  
 
@@ -226,8 +226,8 @@ Mr. Prescott, 57, was driving a B44 bus eastbound on Farragut Road in East Flatb
 
 Hmmm... Tragic for everyone. Such accidents would be largely avoidable if transit buses were equipped with pedestrian detection and automated collision avoidance systems that are almost at hand. These systems are close to being ready for "prime time". The Federal Transit Administration (FTA, whose main mission is safety!) could substantially accelerate the effectiveness and adoption of such technology by focusing some of its research budget on this technology.  
 Alain  
-[Mailto:alaink@princeton.edu](Mailto:alaink@princeton.edu)  
+alaink@princeton.edu  
 
-This list is maintained by [Alain Kornhauser](mailto:alaink@princeton.edu) and hosted by the [Princeton University LISTSERV](http://lists.princeton.edu).  
+This list is maintained by Alain Kornhauser and hosted by the Princeton University LISTSERV.  
 
 [Unsubscribe](https://lists.princeton.edu/cgi-bin/wa?TICKET=NzM1MjMzIGJpbm9AUFJJTkNFVE9OLkVEVSBTTUFSVERSSVZJTkdDQVJTIGluYtYkJuu3&c=SIGNOFF) | [Re-subscribe](https://lists.princeton.edu/cgi-bin/wa?TICKET=NzM1MjMzIGJpbm9AUFJJTkNFVE9OLkVEVSBTTUFSVERSSVZJTkdDQVJTIGluYtYkJuu3&c=SIGNUP)

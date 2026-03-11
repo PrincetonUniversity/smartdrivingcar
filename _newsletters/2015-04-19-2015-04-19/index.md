@@ -6,7 +6,7 @@ permalink: /2015-04-19-2015-04-19/
 ---
 ## [Guidelines for Safe On-Road Testing of SAE Level 3, 4, and 5 Prototype Automated Driving Systems (ADS)](http://www.sae.org/news/2939/?utm_campaign=cmp_412839&utm_medium=email&utm_source=getanewsletter)
 
-March 26, 2015 "SAE International has created the first-ever safety guidelines for on-road testing of prototype models of fully automated vehicles. 
+March 26, 2015 "SAE International has created the first-ever safety guidelines for on-road testing of prototype models of fully automated vehicles.
 
 [J3018 Safety Guidelines for the On-Road testing of Prototype Models of Fully Automated Vehicles](http://standards.sae.org/j3018_201503/) is an important document as more fully automated vehicles with Advanced Driver Assistance Systems (ADAS) will be tested on public roads. [Read more](http://www.sae.org/news/2939/?utm_campaign=cmp_412839&utm_medium=email&utm_source=getanewsletter)
 
@@ -38,9 +38,9 @@ Alex Robbin 18 Apr 2015 The self-driving version of the Audi A7 Sportback is onl
 
 ### [Planes without pilots? After Alps crash, some experts ponder autonomous jets](http://www.oregonlive.com/today/index.ssf/2015/04/after_alps_crash_some_experts.html)
 
-AP April 17, 2015 To improve airline safety, maybe we need to remove the pilots. 
+AP April 17, 2015 To improve airline safety, maybe we need to remove the pilots.
 
-That radical idea is decades away, if it ever becomes a reality. But following the intentional crashing of Germanwings Flight 9525 by the co-pilot, a long-running debate over autonomous jets is resurfacing. At the very least, some have suggested allowing authorities on the ground to take control of a plane if there is a rogue pilot in the cockpit. 
+That radical idea is decades away, if it ever becomes a reality. But following the intentional crashing of Germanwings Flight 9525 by the co-pilot, a long-running debate over autonomous jets is resurfacing. At the very least, some have suggested allowing authorities on the ground to take control of a plane if there is a rogue pilot in the cockpit.
 
 There was a time when riding an elevator without an operator seemed unimaginable. Today, we don't think twice about stepping into an empty elevator. Airports around the world have trams without drivers, as do some subways systems. Even cars are starting to take some of that control away from us: the latest models will automatically brake if there is a sudden hazard...."[Read more](http://www.oregonlive.com/today/index.ssf/2015/04/after_alps_crash_some_experts.html) Yup! Only difference is that the way our current system operates is mass transit-ish: Big vehicles, each with many passengers that jointly pitch in to pay for the expensive pilots. Which is why we all have to scramble to get to/from major airports and change planes in order to aggregate enough of us to be able to pay for the pilots. (We really don't need the stewardesses. We've now learned to bring our own brown-bag lunch). However, if automation replaced the pilots, then the economics of smaller planes would change substantially leading to more frequent point-to-point services which actually match where we are coming from and going to, when we want to do it. Think about it... Air travel breaking out of its conventional mass transit mode of operation and becoming more autonomous Taxi-like!
 
@@ -198,7 +198,7 @@ Serving New Jersey's Personal Mobility Needs with the Casual Sharing of autonomo
 
 Even though these are unedited student reports they contain substantial information and perspectives on the opportunities and challenges for aTaxis to adequately serve the majority of New Jersey's mobility needs. While there are significant causal ride sharing opportunities during peak hours in peak directions, sufficient to eliminate congestion, and aTaxis can substantially increase the utilization (by a multiple of 5) of NJ Transit's rail system by providing efficient and high quality "last mile" mobility to/from rail stations, it is unlikely that average vehicle occupancy (AVO = personTripMiles/aTaxiMiles) for all trips, all day could reach a level of 2.0. Moreover, that is before one accounts for empty aTaxi repositioning that enables the sharing of aTaxis. These reports are the first that begin to address the empty aTaxis problem. It is non-trivial especially if one wishes to have multiple sized aTaxis so as to have the size of the serving aTaxi more closely match the number of shared rides that are being served. The spatial-temporal imbalances of the shared-ride demand seem to impose a great deal of empty repositioning.
 
-It may well turn out that having only four passenger aTaxis may be better than having a fleet consisting of 2 and 6 passenger aTaxis. The reduction in empty repositioning of a uniform fleet of aTaxis may well compensate for the extra energy consumed by a larger aTaxi when a smaller two passenger aTaxi could have done the job and the foregoing of some shared riding when two four passenger aTaxis need to be used because a single 6 passenger aTaxi was not available to serve the six travelers. Alain  
+It may well turn out that having only four passenger aTaxis may be better than having a fleet consisting of 2 and 6 passenger aTaxis. The reduction in empty repositioning of a uniform fleet of aTaxis may well compensate for the extra energy consumed by a larger aTaxi when a smaller two passenger aTaxis could have done the job and the foregoing of some shared riding when two four passenger aTaxis need to be used because a single 6 passenger aTaxi was not available to serve the six travelers. Alain  
 January 4, 2015
 
 ### [New York Bus Driver Arrested After Fatally Striking Pedestrian](http://www.nytimes.com/2014/12/25/nyregion/new-york-bus-driver-arrested-after-fatally-striking-pedestrian.html?emc=eta1)
@@ -208,7 +208,7 @@ MARC SANTORA DEC. 24, 2014 "A Metropolitan Transportation Authority bus driver w
 Mr. Prescott, 57, was driving a B44 bus eastbound on Farragut Road in East Flatbush when he made a turn onto New York Avenue around 6 p.m., according to the police. As he was making the turn, Jean Bonne-Annee was crossing the street and was struck by the bus, the police said..." [Read more](http://www.nytimes.com/2014/12/25/nyregion/new-york-bus-driver-arrested-after-fatally-striking-pedestrian.html?emc=eta1)
 
 Hmmm... Tragic for everyone. Such accidents would be largely avoidable if transit buses were equipped with pedestrian detection and automated collision avoidance systems that are almost at hand. These systems are close to being ready for "prime time". The Federal Transit Administration (FTA, whose main mission is safety!) could substantially accelerate the effectiveness and adoption of such technology by focusing some of its research budget on this technology. Alain  
-[Mailto:alaink@princeton.edu](Mailto:alaink@princeton.edu)
+[alaink@princeton.edu](mailto:alaink@princeton.edu)
 
 This list is maintained by [Alain Kornhauser](mailto:alaink@princeton.edu) and hosted by the [Princeton University LISTSERV](http://lists.princeton.edu).
 
