@@ -158,12 +158,8 @@ The Standard set out to find some of the most addicted Waymo riders…. [Read mo
 
 [Starship's Eighth Flight Test](https://www.spacex.com/launches/mission/?missionId=starship-flight-8)  
 
-Staff, Feb 26, "The eighth flight test of [Starship](https://www.spacex.com/vehicles/starship/) is preparing to launch as soon as Friday, February 28, pending regulatory approval…." [Read more](https://www.spacex.com/launches/mission/?missionId=starship-flight-8) Hmmmm… Since I'm throwing in the towel, I'm going to try to be there. If not this one, I'll definitely go to the 9th since that will likely try to catch both the booster and the ship. 😊 Alain  
+Staff, Feb. 26, "The eighth flight test of [Starship](https://www.spacex.com/vehicles/starship/) is preparing to launch as soon as Friday, February 28, pending regulatory approval…." [Read more](https://www.spacex.com/launches/mission/?missionId=starship-flight-8) Hmmmm… Since I'm throwing in the towel, I'm going to try to be there. If not this one, I'll definitely go to the 9th since that will likely try to catch both the booster and the ship. 😊 Alain  
 
 Draft… [Orf467F24: Investigation of MOVES-Style Mobility Deployments](https://www.dropbox.com/scl/fi/zxmw5iip1v3p9mv8416d0/Orf467F24-Compilation-of-Final-MOVES-style-Mobility-Reports.docx?rlkey=7yr746atariyj24ytagqbjwvu&dl=0)… Draft  
 
 Alain Kornhauser, Dec. 19, "An updated note to the readers of the SDC eLetter: [Read](https://www.dropbox.com/scl/fi/zxmw5iip1v3p9mv8416d0/Orf467F24-Compilation-of-Final-MOVES-style-Mobility-Reports.docx?rlkey=7yr746atariyj24ytagqbjwvu&dl=0) more Hmmmm… We had an excellent class this Fall. This is a compilation of their investigations of MOVES-style mobility opportunities in their "hometowns". This is a compilation of drafts submitted in lieu of a final exam. The class will make the document more suitable for publication during the January intersession. Alain  
-
-***************************************************************************************************************  
-
-This list is maintained by Alain Kornhauser and hosted by the [Princeton University LISTSERV](http://lists.princeton.edu).
