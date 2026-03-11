@@ -139,7 +139,3 @@ Hmmmm… Students are putting together a compendium of their findings that will 
 Alain Kornhauser, March 3, "Quintessential Katherine Freund: an Old Guy giving ride to Old Guy who needed a ride." Hmmmm… Our mission:
 
 Elizabeth & Alain. 🙂
-
-***************************************************************************************************************
-
-This list is maintained by Alain Kornhauser and hosted by the Princeton University LISTSERV.

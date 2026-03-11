@@ -5,7 +5,9 @@ date: 2024-05-12
 permalink: /12.20-informationrequest-5-11-24/
 display_name: "12.20 - Informationrequest"
 ---
-Click or tap if you trust this link.">Sunday, May 12, 2024
+Click or tap if you trust this link. 
+
+Sunday, May 12, 2024
 
 20th edition of the 12th year of SmartDrivingCars eLetter
 

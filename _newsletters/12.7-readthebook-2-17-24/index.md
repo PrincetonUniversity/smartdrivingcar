@@ -15,8 +15,7 @@ Shares of GM rose about 2%.
 
 Cruise is an "incredibly valuable asset", Barra said at an event hosted by Wolfe Research.
 
-The Detroit automaker will focus on relaunching the unit this year, she added while reiterating her support for the unit. …."
-[Read More](https://www.reuters.com/business/autos-transportation/gm-looking-best-path-unlock-value-cruise-ceo-barra-says-2024-02-15/) Hmmmm… She should make The Book required reading inside Cruise & GM. Just sayin'. Alain
+The Detroit automaker will focus on relaunching the unit this year, she added while reiterating her support for the unit. …." [Read More](https://www.reuters.com/business/autos-transportation/gm-looking-best-path-unlock-value-cruise-ceo-barra-says-2024-02-15/) Hmmmm… She should make The Book required reading inside Cruise & GM. Just sayin'. Alain
 
 [Just Published](https://www.amazon.com/Real-Case-Driverless-Mobility-Vehicles/dp/0443236852/ref=sr_1_1?crid=1XSXZ611C2JCN&keywords=Kornhauser+sena&qid=1707095108&sprefix=kornhauser+sena%2Caps%2C76&sr=8-1&ufe=app_do%3Aamzn1.fos.18ed3cb5-28d5-4975-8bc7-93deae8f9840)!!! [Go to Amazon.com](https://www.amazon.com/Real-Case-Driverless-Mobility-Vehicles/dp/0443236852/ref=sr_1_1?crid=1XSXZ611C2JCN&keywords=Kornhauser+sena&qid=1707095108&sprefix=kornhauser+sena%2Caps%2C76&sr=8-1&ufe=app_do%3Aamzn1.fos.18ed3cb5-28d5-4975-8bc7-93deae8f9840)… You can still be first on your block to have one J.
 

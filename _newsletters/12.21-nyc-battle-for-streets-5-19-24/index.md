@@ -5,7 +5,9 @@ date: 2024-05-19
 permalink: /12.21-nyc-battle-for-streets-5-19-24/
 display_name: "12.21 - Nyc Battle For Streets"
 ---
-Click or tap if you trust this link.">Sunday, May 19, 2024
+Click or tap if you trust this link. 
+
+Sunday, May 19, 2024
 
 21st edition of the 12th year of SmartDrivingCars eLetter
 
@@ -44,7 +46,7 @@ F. Fishkin, May 19, "The Battle for the Streets of New York, Tesla FSD, the Smar
 * [47:40](https://www.youtube.com/watch?v=8ZDsMVLhYzM&t=2860s) Cruise founder Kyle Vogt is back with a robot start-up
 * [49:18](https://www.youtube.com/watch?v=8ZDsMVLhYzM&t=2958s) Toyota press release on 2025 Corolla doesn't headline the vehicle's stellar automatic emergency braking capability as much as it sh
 
-[6](https://summit.princeton.edu/)[th](https://summit.princeton.edu/)[Princeton SmartDrivingCar Summit](https://summit.princeton.edu/)
+[Princeton SmartDrivingCar Summit](https://summit.princeton.edu/)
 
 Alain Kornhauser, May 12 ". .."[Read more](https://summit.princeton.edu/) Hmmmm.... Our intention is to hold lively, honest exchanges in which all participants feel comfortable sharing as candidly as is reasonable. Please see the [registration](https://summit.princeton.edu/register) and [sponsorship](https://summit.princeton.edu/sponsorship) pages. Registration closes on the 22nd. Hope you'll be able to join in with us. Alain
 
@@ -114,7 +116,7 @@ Unfortunately, I see little substance in this post other than cynicism that gene
 
 This is my last C'mon Man. They're not funny anymore, if, indeed, they ever were. We need to put all jokes aside and get serious. This technology, which has the real potential to improve the lives of so many people who need a ride, is in trouble. Enough with the "reporting" and testing by people who have many, many options to give themselves a ride. We've expended hundreds of billions and are not yet above zero. Cruise just paid out $8M to cover someone else's bad behavior. Has Cruise + Waymo combined revenue-to-date exceeded $8M? Alain
 
-[6](https://summit.princeton.edu/)[th](https://summit.princeton.edu/)[SmartDrivingCars Summit](https://summit.princeton.edu/) Evening May 29 -> May 31, 2024
+[SmartDrivingCars Summit](https://summit.princeton.edu/) Evening May 29 -> May 31, 2024
 
 Alain Kornhauser, May 5, "We promise civil and lively discussions as to how to improve the Quality-of-Life (QoL) for many while disrupting the QoL to as few as possible. Focus will be on the business aspects…
 
@@ -147,5 +149,3 @@ Workshop
 1. Design, Analysis, Simulation, Animation & Business Case
 
 …." [Read More](https://summit.princeton.edu/)
-
-This list is maintained by Alain Kornhauser and hosted by the Princeton University LISTSERV.

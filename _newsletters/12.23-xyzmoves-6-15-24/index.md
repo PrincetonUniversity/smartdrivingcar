@@ -5,7 +5,9 @@ date: 2024-06-16
 permalink: /12.23-xyzmoves-6-15-24/
 display_name: "12.23 - Xyzmoves"
 ---
-Click or tap if you trust this link.">Saturday, June 15, 2024
+Click or tap if you trust this link. 
+
+Saturday, June 15, 2024
 
 23rd edition of the 12th year of SmartDrivingCars eLetter
 
@@ -17,8 +19,8 @@ Click or tap if you trust this link.">Saturday, June 15, 2024
 [Just Published](https://www.amazon.com/Real-Case-Driverless-Mobility-Vehicles/dp/0443236852/ref=sr_1_1?crid=1XSXZ611C2JCN&keywords=Kornhauser+sena&qid=1707095108&sprefix=kornhauser+sena%2Caps%2C76&sr=8-1&ufe=app_do%3Aamzn1.fos.18ed3cb5-28d5-4975-8bc7-93deae8f9840)!!! 
 [Go to Amazon.com](https://www.amazon.com/Real-Case-Driverless-Mobility-Vehicles/dp/0443236852/ref=sr_1_1?crid=1XSXZ611C2JCN&keywords=Kornhauser+sena&qid=1707095108&sprefix=kornhauser+sena%2Caps%2C76&sr=8-1&ufe=app_do%3Aamzn1.fos.18ed3cb5-28d5-4975-8bc7-93deae8f9840)… You can still be first on your block to have one J.
 
-SmartDrivingCars
-[ZoomCast 375](https://www.youtube.com/watch?v=SIxuHren_7I) / 
+SmartDrivingCars  
+[ZoomCast 375](https://www.youtube.com/watch?v=SIxuHren_7I) /  
 [PodCast 375](https://podcasters.spotify.com/pod/show/smartdrivingcars/episodes/Smart-Driving-Cars-episode-375-Elon-Musk-talks-Tesla-robotaxis-and-more--Maybe-for-Brownsville-e2ku649) Elon Musk talks Tesla robotaxis and more. Maybe for Brownsville?
 
 F. Fishkin, June 15, " With Elon Musk divulging more about how Tesla robotaxis may operate, Princeton's Alain Kornhauser demonstrates how they could be used to serve Brownsville, Texas. And the plan could be replicated anywhere. Plus the latest on Waymo and Cruise. Join Alain and co-host Fred Fishkin for episode 375 of Smart Driving Cars.
@@ -34,7 +36,7 @@ F. Fishkin, June 15, " With Elon Musk divulging more about how Tesla robotaxis m
 # Alain Kornhauser, June 12, "…"
 [Watch PowerPoint](https://www.dropbox.com/scl/fi/2738iuihfjc6ajrwm9krn/BrownsVilleMOVES.pptx?rlkey=helnm490g9jgnn6rv321d9ds8&dl=0) Hmmmm… With all of the assistance given to Brownsville by SpaceX, Elon may wish to try out his RoboTaxi in Brownsville. Alain
 
-#
+# 
 
 [Automated Driving Industry Trends: Automated Trucks](https://www.richardbishopconsulting.com/store/p/report-v2-i1-fw53k-zp6ne)
 
@@ -42,13 +44,13 @@ F. Fishkin, June 15, " With Elon Musk divulging more about how Tesla robotaxis m
 
 # This Automated Driving Industry Trends report provides a high-level understanding of the state-of-deployment of driverless vehicles transporting freight, i.e., automated trucks and other wheeled work machines. This report aims to provide a reference point regarding the current status of development and deployment of these services globally, to support system developers, industry analysts, and government agencies.
 
-#
+# 
 
 # For deeper insight and perspective into this material, contact Bishop Consulting. Our consultancy offers bespoke seminars,
 
 # targeted analyses, and a broad range of related services.
 
-#
+# 
 
 # Executive Summary
 
@@ -60,7 +62,7 @@ F. Fishkin, June 15, " With Elon Musk divulging more about how Tesla robotaxis m
 
 # • Truck platooning continues to arise in niche applications. At least one company in China is targeting platooning for long haul operations.
 
-# • For most use cases, it is essential to have a partnership with a truck manufacturer which can provide redundancy and other engineering measures to support L4 operations. However, given the huge numbers of existing equipment in the off-road world, retrofit solutions are being pursued.…"
+# • For most use cases, it is essential to have a partnership with a truck manufacturer which can provide redundancy and other engineering measures to support L4 operations. However, given the huge numbers of existing equipment in the off-road world, retrofit solutions are being pursued.…"  
 [Read more](https://www.richardbishopconsulting.com/store/p/report-v2-i1-fw53k-zp6ne) Hmmmm… This is a really good reference. Alain
 
 ['Robotaxi' hitting the streets of Houston for second time. Why were the brakes pumped?](https://www.click2houston.com/news/local/2024/06/12/cruise-revs-up-houston-operations-after-7-month-hiatus-as-self-driving-vehicles-return-for-road-testing/)
@@ -69,21 +71,20 @@ H. Posey, June 12, "The autonomous taxis are making their way around town after 
 
 # [Cruise](https://www.getcruise.com/), the self-driving car company, launched their testing program for the second time on Tuesday.
 
-# This time around, the cars will have drivers manually operating the vehicle. However, in a few weeks the company plans to move to supervised self-driving, which is when a driver is in the car but only intervening if necessary.…"
+# This time around, the cars will have drivers manually operating the vehicle. However, in a few weeks the company plans to move to supervised self-driving, which is when a driver is in the car but only intervening if necessary.…"  
 [Read more](https://www.click2houston.com/news/local/2024/06/12/cruise-revs-up-houston-operations-after-7-month-hiatus-as-self-driving-vehicles-return-for-road-testing/) Hmmmm… Very nice. Welcome back. Alain
 
 [Waymo issues software and mapping recall after robotaxi crashes into a telephone pole](https://www.theverge.com/2024/6/12/24175489/waymo-recall-telephone-poll-crash-phoenix-software-map)
 
 # Andrew Hawkins, June 12, "…The update corrects an error in the software that "assigned a low damage score" to the telephone pole, and updates its map to account for the hard road edge in the alleyway that was not previously included….
 
-#
+# 
 
 # The incident that prompted the latest recall took place on May 21st in Phoenix. [According to local reports](https://www.12news.com/article/news/local/valley/waymo-car-crashes-into-pole-phoenix-arizona/75-0f278aab-7c40-4970-ae21-ac3d57f0ccba), an unoccupied Waymo vehicle was driving to a passenger pickup location through an alley that was lined on both sides by wooden telephone poles. The poles were not up on a curb but level with the road and surrounded with longitudinal yellow striping to define the viable path for vehicles. As it was pulling over, the Waymo vehicle struck one of the poles at a speed of 8mph, sustaining some damage, the company said….
 
 # "We have already deployed mapping and software updates across our entire fleet,.." …
 
-Farzad, June 13, "…".
-…"
+Farzad, June 13, "…".  
 [Read More](https://www.theverge.com/2024/6/12/24175489/waymo-recall-telephone-poll-crash-phoenix-software-map) Hmmmm… Must be a really slow news cycle for Andrew to report on this.
 
 When human driven, these incidents aren't mentioned to anyone since it is well-known that the insurance implications would vastly outweigh eating the cost to fix. Human drivers aren't stupid! 😊

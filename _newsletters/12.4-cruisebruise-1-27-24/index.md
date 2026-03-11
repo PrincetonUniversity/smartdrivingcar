@@ -45,19 +45,12 @@ Staff, Jan. 25, "…."
 [Read More](https://www.dropbox.com/scl/fi/jlsnt9u3hvon9h4dd6ard/2024.01.24_Quinn_Emanuel_Report_re_Cruise.pdf?rlkey=74vk9bfkvyqsqm7p845fqx1os&dl=0) Hmmmm…. You really should read the whole thing. Three enormous lessons we must learn from this.
 
 1. As we all should already know from numerous other instances:
-
 2. 1. The cover up is worse than the crime!,
-
 3. 2. We all must cooperate, NOT compete on safety. One should not look at safety as a private Intellectual Property Asset. It needs to be a public asset protected from "anti-trust" and "collusion" infractions and MUST be shared among all. As one trips over "corner cases" and discovers elegant and ingenious ways to improve safety, those findings should be treated as "best practices" and shared in detail among all; else, all lose in the long run. Waymo also lost on Oct. 2. The Citizens of San Francisco lost big time!, and
-
 4. 3. One must look in the very front as well as under the car before one begins to move- every time. Give all the compute cycles one goes through to do any of this, a few cycles should be allocated to making sure the surface ahead is free of obstructions that can't be readily passed over. What would it take, one more camera? There are really only two things that these cars need to do…
-
 5. a. pass under any obstruction that might lay ahead and
-
 6. b. pass over any obstruction that might lay ahead.
-
 7. It must do these things not only when it is moving but also when it is starting to move. Starting to move occurs rarely, but it is different than when moving because looking ahead and anticipating (which is really hard) doesn't cut it. Looking at what exists (which is easy) is critical.
-
 8. A long time ago, I ran over my dog, Benny, because I didn't look right in front of my car before I put the car in drive and hit the gas. Yipes! [he survived, thank goodness.].
 
 One of the best Advanced Driver Assistance Systems in new cars are Rear/Reverse Emergency Braking Systems. IIHS reported in 2022: "[Autobrake slashes rear-end crash rates for pickups, but few are equipped](https://www.iihs.org/news/detail/autobrake-slashes-rear-end-crash-rates-for-pickups-but-few-are-equipped)". Then there is this in Princeton 2 months ago: "[Man crushed to death by car in driveway of Princeton home, police say](https://www.nj.com/mercer/2023/11/man-crushed-to-death-by-car-in-homes-driveway-police-say.html)".
