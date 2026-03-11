@@ -18,9 +18,9 @@ Hmmm....When done, you'll simply push the button for the unmanned vehicle to dri
 
 John Villasenor Apr 25 2014 "It may seem odd, but we already have the laws we need for dealing with this inevitable situation." [Read more](http://www.theatlantic.com/business/archive/2014/04/who-is-at-fault-when-a-driverless-car-gets-in-an-accident/361250/) especially the source report:
 
-## [Products Liability and Driverless Cars: Issues and Guiding Principles for Legislation](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/PDFs/Brookings_Products_Liability_and_Driverless_Cars.pdf)
+## [Products Liability and Driverless Cars: Issues and Guiding Principles for Legislation](http://orfe.princeton.edu/~alaink/SmartDrivingCars/PDFs/Brookings_Products_Liability_and_Driverless_Cars.pdf)
 
-John Villasenor, April 2014 "...This paper provides a discussion of how products liability law will impact autonomous vehicles, and provides a set of guiding principles for legislation that should—and that should not—be enacted. In some very specific, narrow respects, state-level legislative clarity regarding autonomous vehicle liability can be beneficial. Vehicle manufacturers that sell non-autonomous vehicles, for example, should not be liable for defects in third-party vehicle automation systems installed in the aftermarket. But broad new liability statutes aimed at protecting the manufacturers of autonomous vehicle technology are unnecessary..." [Read more](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/PDFs/Brookings_Products_Liability_and_Driverless_Cars.pdf) This is a good one!!! Alain
+John Villasenor, April 2014 "...This paper provides a discussion of how products liability law will impact autonomous vehicles, and provides a set of guiding principles for legislation that should—and that should not—be enacted. In some very specific, narrow respects, state-level legislative clarity regarding autonomous vehicle liability can be beneficial. Vehicle manufacturers that sell non-autonomous vehicles, for example, should not be liable for defects in third-party vehicle automation systems installed in the aftermarket. But broad new liability statutes aimed at protecting the manufacturers of autonomous vehicle technology are unnecessary..." [Read more](http://orfe.princeton.edu/~alaink/SmartDrivingCars/PDFs/Brookings_Products_Liability_and_Driverless_Cars.pdf) This is a good one!!! Alain
 
 ## [The latest chapter for the self-driving car: mastering city street driving](http://googleblog.blogspot.com/2014/04/the-latest-chapter-for-self-driving-car.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+blogsp)
 
@@ -28,13 +28,13 @@ April 28: "Jaywalking pedestrians. Cars lurching out of hidden driveways. Double
 
 Hmmm... Continued progress! Congrats!! If they would only shift to vision instead of Lidar they might have a chance at commercialization. Alain
 
-## [Self-Driving Regulation: Pro-Market Policies Key to Automated Vehicle Innovation](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/PDFs/Scribner-Self-DrivingRegulation.pdf)
+## [Self-Driving Regulation: Pro-Market Policies Key to Automated Vehicle Innovation](http://orfe.princeton.edu/~alaink/SmartDrivingCars/PDFs/Scribner-Self-DrivingRegulation.pdf)
 
 Marc Scribner April 23, 2014 "...But regulatory and legislative intervention also poses great risks to the development of the technology. In particular, laws and regulations that narrow the scope of permissible development, testing, and operational functionality risk locking in inferior technology, delaying adoption, and increasing prices faced by consumers. To reduce these risks, lawmakers and automakers should adopt a liberalized approach toward innovation and a cautious stance on legislation and regulation, particularly at this early stage...
 
 Conclusion: Technical hurdles remain before developers can confidently sell their highly automated vehicle technologies to consumers. But many of the largest potential impediments are related to public policy. Politicians and bureaucrats, however well-intended, generally suffer from a variety of biases and rational ignorance. When implemented in statute or regulation, this can have profound negative effects on society. This risk of over-regulating — or regulating badly — looms large.
 
-Policy makers must remember that their actions can produce harm. If automated vehicles are demonstrated to be significantly safer than manually driven vehicles, any misstep, convoluted law, or burdensome rule that leads to unnecessary higher costs or delays translates to increased injury and death." [Read more](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/PDFs/Scribner-Self-DrivingRegulation.pdf) This is another good one!!! Alain
+Policy makers must remember that their actions can produce harm. If automated vehicles are demonstrated to be significantly safer than manually driven vehicles, any misstep, convoluted law, or burdensome rule that leads to unnecessary higher costs or delays translates to increased injury and death." [Read more](http://orfe.princeton.edu/~alaink/SmartDrivingCars/PDFs/Scribner-Self-DrivingRegulation.pdf) This is another good one!!! Alain
 
 ## [Rio Tinto grows driverless truck fleet](http://www.itnews.com.au/News/382965,rio-tinto-grows-driverless-truck-fleet.aspx?utm_campaign=cmp_297907&utm_source=getanewsletter)
 
@@ -66,21 +66,21 @@ Automated vehicles require multiple types of sensors to obtain information about
 
 Hmmm... It is very important that the data captured and the implemented controls be uploaded and shared widely in order to uncover bugs, fix them and improve the system. Users who share these data must be indemnified from self-incrimination. Legislation must be passed that disallows shared data to be used against the best interest of the person that shared it. Alain
 
-## [Bankrupt???](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/PDFs/Induct_EBODACC-A_20140003_0001_p000%281%29.pdf)
+## [Bankrupt???](http://orfe.princeton.edu/~alaink/SmartDrivingCars/PDFs/Induct_EBODACC-A_20140003_0001_p000%281%29.pdf)
 
-From page 106, item 1642 of [http://orfe.princeton.edu/~alaink/SmartDrivingCars/PDFs/Induct_EBODACC-A_20140003_0001_p000(1).pdf](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/PDFs/Induct_EBODACC-A_20140003_0001_p000%281%29.pdf) courtesy of Adriano Alessandrini. Alain
+From page 106, item 1642 of [http://orfe.princeton.edu/~alaink/SmartDrivingCars/PDFs/Induct_EBODACC-A_20140003_0001_p000(1).pdf](http://orfe.princeton.edu/~alaink/SmartDrivingCars/PDFs/Induct_EBODACC-A_20140003_0001_p000%281%29.pdf) courtesy of Adriano Alessandrini. Alain
 
 ## [2014 National Conference](http://www.planning.org/conference/program/intro/)
 
 Atlanta April 26-30 [Session on Planning for Automated Vehicle Technologies](http://www.planning.org/store/product/?ProductCode=ACTIVITY_14CONF_S430)
 
-[Louis A. Merlin, AICP Univ of North Carolina - Chapel Hill](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Presentations/APA_2014_Atlanta/APA_Merlin_042614.pdf)
+[Louis A. Merlin, AICP Univ of North Carolina - Chapel Hill](http://orfe.princeton.edu/~alaink/SmartDrivingCars/Presentations/APA_2014_Atlanta/APA_Merlin_042614.pdf)
 
-[Alain L. Kornhauser Princeton University](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Presentations/APA_2014_Atlanta/APA_042614vFinal_Alain.pdf)
+[Alain L. Kornhauser Princeton University](http://orfe.princeton.edu/~alaink/SmartDrivingCars/Presentations/APA_2014_Atlanta/APA_042614vFinal_Alain.pdf)
 
-[Stanley E. Young Univ of Maryland, CATT](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Presentations/APA_2014_Atlanta/APA_Young_042614.pdf)
+[Stanley E. Young Univ of Maryland, CATT](http://orfe.princeton.edu/~alaink/SmartDrivingCars/Presentations/APA_2014_Atlanta/APA_Young_042614.pdf)
 
-[Tyler C. Folsom](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Presentations/APA_2014_Atlanta/APA_Folsom_042614.pdf)
+[Tyler C. Folsom](http://orfe.princeton.edu/~alaink/SmartDrivingCars/Presentations/APA_2014_Atlanta/APA_Folsom_042614.pdf)
 
 ## Half-baked stuff that probably doesn't deserve your time:
 
@@ -122,15 +122,15 @@ April 18, 2014
 
 ### Newly Available Drafts of Recent Student Theses
 
-Wyrough, Alexander Penn Hill Jr.: [A National Disaggregate Transportation Demand Model for the Analysis of autonomousTaxi Systems](http://orfe.princeton.edu/%7Ealaink/Theses/SeniorTheses%2714/Draft-Wyrough_NoationalDisaggregateTripSynthesizer.pdf)
+Wyrough, Alexander Penn Hill Jr.: [A National Disaggregate Transportation Demand Model for the Analysis of autonomousTaxi Systems](http://orfe.princeton.edu/~alaink/Theses/SeniorTheses%2714/Draft-Wyrough_NoationalDisaggregateTripSynthesizer.pdf)
 
 Included is one synthetic realization for each of the 308.7 Million individuals contained in the 2010 Census and each of the 1.01 Billion trips {oLat, oLon, oTime, dLat, dLon} these individuals were synthesized to have made on a typical weekday in October. Persons are organized in individual Home County Files (All 186,49 persons that lived in Peoria County, Il., or the 1,585,873 persons that lived in Manhattan, for example). Trips are available in files for each person residing in a county (with many trips diffusing into other counties, states and even countries) as well as by oCounty (the 649,781 trips that originate in Peoria County or the 8,085,055 trips that originate in Manhattan, many of which are made by 1.5 million persons that don't live in Manhattan.). For example, one can get all the trips made by the residents of Manhattan or by all trips originating in Manhattan. The user is left with the task of finding all trips that either originate, terminate or go through Manhattan. Note, trips to work where the work place was greater than 200 miles from the home location were routed via the nearest major airports. Alain
 
-Lee, Eileen: [Uncovering Systemic Corruption in the ER: An Empirical Analysis of Motor Vehicle-Related Hospital Bill and their Impact on Insurance Companies](http://orfe.princeton.edu/%7Ealaink/Theses/SeniorTheses%2714/Draft-Lee_UncoveringSystematicCorruptionInTheER.pdf)
+Lee, Eileen: [Uncovering Systemic Corruption in the ER: An Empirical Analysis of Motor Vehicle-Related Hospital Bill and their Impact on Insurance Companies](http://orfe.princeton.edu/~alaink/Theses/SeniorTheses%2714/Draft-Lee_UncoveringSystematicCorruptionInTheER.pdf)
 
-Sun, Zhuyi (Judy): [Causal Price Discrimination: An Analysis of the Healthcare Costs Associated with Motor Vehicle and Transportation Collisions](http://orfe.princeton.edu/%7Ealaink/Theses/SeniorTheses%2714/Draft-Sun_CausalPriceDiscrimination.pdf)
+Sun, Zhuyi (Judy): [Causal Price Discrimination: An Analysis of the Healthcare Costs Associated with Motor Vehicle and Transportation Collisions](http://orfe.princeton.edu/~alaink/Theses/SeniorTheses%2714/Draft-Sun_CausalPriceDiscrimination.pdf)
 
-Rhodes, Brandon Xavier: [An Analysis of Economically Efficient Insurance Schemes for Automated Vehicle](http://orfe.princeton.edu/%7Ealaink/Theses/SeniorTheses%2714/Draft-Rhodes_InsuranceSchemesForAutomatedVehicles.pdf)
+Rhodes, Brandon Xavier: [An Analysis of Economically Efficient Insurance Schemes for Automated Vehicle](http://orfe.princeton.edu/~alaink/Theses/SeniorTheses%2714/Draft-Rhodes_InsuranceSchemesForAutomatedVehicles.pdf)
 
 April 11, 2014
 
@@ -172,8 +172,6 @@ March 7, 2014
 
 Hmmm. Just what we need in our cars, an easier way to be distracted from driving. Maybe this should be called "Apple CarCrash". Alain
 
-### [New Jersey Rail Ridership Opportunities If a Taxis Are Available...](http://orfe.princeton.edu/%7Ealaink/NJ_aTaxiOrf467F13/Orf467F13_FinalReports/NJTransit_Report_Almost.pdf)
+### [New Jersey Rail Ridership Opportunities If a Taxis Are Available...](http://orfe.princeton.edu/~alaink/NJ_aTaxiOrf467F13/Orf467F13_FinalReports/NJTransit_Report_Almost.pdf)
 
-A.L. Kornhauser, et al March, 2014 ".... Examined are the rail ridership opportunities that NJ Transit (NJT) might enjoy if autonomous Taxis (aTaxis) were available to readily bring customers to or from its rail stations. Such collection and distribution services would not only shower NJT with new customers but they would enable NJT to redevelop its parking facilities to more profitable "Transit Village" uses. [Read more](http://orfe.princeton.edu/%7Ealaink/NJ_aTaxiOrf467F13/Orf467F13_FinalReports/NJTransit_Report_Almost.pdf)
-
-This list is maintained by Alain Kornhauser and hosted by the Princeton University LISTSERV.
+A.L. Kornhauser, et al March, 2014 ".... Examined are the rail ridership opportunities that NJ Transit (NJT) might enjoy if autonomous Taxis (aTaxis) were available to readily bring customers to or from its rail stations. Such collection and distribution services would not only shower NJT with new customers but they would enable NJT to redevelop its parking facilities to more profitable "Transit Village" uses. [Read more](http://orfe.princeton.edu/~alaink/NJ_aTaxiOrf467F13/Orf467F13_FinalReports/NJTransit_Report_Almost.pdf)
