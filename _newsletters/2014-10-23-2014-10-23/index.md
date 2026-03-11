@@ -16,9 +16,9 @@ DATES: You should submit your comments early enough to ensure that Docket Manage
 
 ## More on: [Restating NHTSA's NMVCCS for Automated Vehicles](http://www.casact.org/pubs/forum/14fforum/CAS%20AVTF_Restated_NMVCCS.pdf)
 
-[Michael Stienstra's summary of the CAS report](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/PDFs/Stienstra_AVTF_External%20Summary.pdf):
+[Michael Stienstra's summary of the CAS report](http://orfe.princeton.edu/~alaink/SmartDrivingCars/PDFs/Stienstra_AVTF_External%20Summary.pdf):
 
-"... Despite the NMVCCS's extremely detailed dataset, its alternative focus (determining the accident causes of human driven vehicles), its age (the data was collected from 2005-2007), and its limitations (minor accidents and accidents occurring between 12am and 5:59am were not included) prevent us from calculating a true automated vehicle safety benchmark. However, the study still provides several valuable insights and takeaways. ..." [Read more](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/PDFs/Stienstra_AVTF_External%20Summary.pdf)
+"... Despite the NMVCCS's extremely detailed dataset, its alternative focus (determining the accident causes of human driven vehicles), its age (the data was collected from 2005-2007), and its limitations (minor accidents and accidents occurring between 12am and 5:59am were not included) prevent us from calculating a true automated vehicle safety benchmark. However, the study still provides several valuable insights and takeaways. ..." [Read more](http://orfe.princeton.edu/~alaink/SmartDrivingCars/PDFs/Stienstra_AVTF_External%20Summary.pdf)
 
 ## [Official: Fort Monmouth could be testing ground for driverless cars](http://nj1015.com/official-fort-monmouth-could-be-testing-ground-for-driverless-cars/)
 
@@ -82,11 +82,11 @@ November 5, 2014
 
 # October 10, 2014
 
-### [Inaugural Automated Vehicle Summit @ Fort Monmouth](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/FtMonmouth/InauguralFtMonmouthPressRelease.pdf)
+### [Inaugural Automated Vehicle Summit @ Fort Monmouth](http://orfe.princeton.edu/~alaink/SmartDrivingCars/FtMonmouth/InauguralFtMonmouthPressRelease.pdf)
 
 Press release. Oct 9, 2014 Princeton, NJ "New Jersey's first summit meeting on creation of a center for research, certification, and commercialization of automated vehicle technology took place on October 3 at former Army base Fort Monmouth in Oceanport. The purpose of the meeting was to bring together stakeholders with a vested interest and the wherewithal to place New Jersey at the forefront of research into potentially life-saving technology.
 
-More than 60 invited participants to the summit included representatives of: the insurance industry, automakers, wireless communications industry, motor vehicle regulators, public transit industry, and universities. State Senators Jennifer Beck, Thomas H. Kean, Jr., Joseph M. Kyrillos, Jr., and Assemblyman Declan O'Scanlon, Jr. represented New Jersey's legislative bodies..." [Read more](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/FtMonmouth/InauguralFtMonmouthPressRelease.pdf) Hmmm..Progress! Alain
+More than 60 invited participants to the summit included representatives of: the insurance industry, automakers, wireless communications industry, motor vehicle regulators, public transit industry, and universities. State Senators Jennifer Beck, Thomas H. Kean, Jr., Joseph M. Kyrillos, Jr., and Assemblyman Declan O'Scanlon, Jr. represented New Jersey's legislative bodies..." [Read more](http://orfe.princeton.edu/~alaink/SmartDrivingCars/FtMonmouth/InauguralFtMonmouthPressRelease.pdf) Hmmm..Progress! Alain
 
 October 1, 2014
 
@@ -116,7 +116,7 @@ Kornhauser pointed out that some automated technologies are already in widesprea
 
 Hmmm...
 
-It was a really good session: [Video of hearing](https://www.youtube.com/watch?feature=player_embedded&v=pI-POiHymw0#t=854); [hearing's agenda](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Insurance/AVHearingAgenda.pdf); [background paper](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Insurance/AVHearingBackgroundPaper.pdf); [my 5-minute prepared remarks](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Insurance/KornhauserTestimony091514CaliforniaDepartmentInsurance.pdf); [extended remarks by Prof. Robert Peterson](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Insurance/PetersonCommentsAV-DOI091514%20.pdf). Alain
+It was a really good session: [Video of hearing](https://www.youtube.com/watch?feature=player_embedded&v=pI-POiHymw0#t=854); [hearing's agenda](http://orfe.princeton.edu/~alaink/SmartDrivingCars/Insurance/AVHearingAgenda.pdf); [background paper](http://orfe.princeton.edu/~alaink/SmartDrivingCars/Insurance/AVHearingBackgroundPaper.pdf); [my 5-minute prepared remarks](http://orfe.princeton.edu/~alaink/SmartDrivingCars/Insurance/KornhauserTestimony091514CaliforniaDepartmentInsurance.pdf); [extended remarks by Prof. Robert Peterson](http://orfe.princeton.edu/~alaink/SmartDrivingCars/Insurance/PetersonCommentsAV-DOI091514%20.pdf). Alain
 
 September 8, 2014
 
@@ -136,7 +136,7 @@ August 25, 2014
 
 "This document initiates rulemaking that would propose to create a new Federal Motor Vehicle Safety Standard (FMVSS), FMVSS No. 150, to require vehicle-to-vehicle (V2V) communication capability for light vehicles (passenger cars and light truck vehicles (LTVs)) and to create minimum performance requirements for V2V devices and messages.. "
 
-Hmmm... Fundamental problem is for V2V to have any chance of working of avoiding a crash between two vehicles is for both to have the communications. The probability that both vehicles have V2V doesn't become greater than chance (0.5) until the technology is installed and working in greater than 70% of all vehicles. That level of market penetration will take at least 10 years after this is mandated for every new car that rolls off the assembly line. Moreover, even if both cars are equipped, the regulations require only that there be a warning given to the drivers. As if the drivers will know what to do if the warning is given soon enough. To give the warning soon enough, will invariably increase the false alarm rate, which in itself is likely to cause some accidents that would not have occurred and irritate some drivers to clip the wires as some have done with installed theft alarms. Furthermore, NHTSA recognizes that these systems will not be effective if drivers are impaired ([page 266](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/PDFs/Readiness-of-V2V-Technology-for-Application-812014.pdf)).
+Hmmm... Fundamental problem is for V2V to have any chance of working of avoiding a crash between two vehicles is for both to have the communications. The probability that both vehicles have V2V doesn't become greater than chance (0.5) until the technology is installed and working in greater than 70% of all vehicles. That level of market penetration will take at least 10 years after this is mandated for every new car that rolls off the assembly line. Moreover, even if both cars are equipped, the regulations require only that there be a warning given to the drivers. As if the drivers will know what to do if the warning is given soon enough. To give the warning soon enough, will invariably increase the false alarm rate, which in itself is likely to cause some accidents that would not have occurred and irritate some drivers to clip the wires as some have done with installed theft alarms. Furthermore, NHTSA recognizes that these systems will not be effective if drivers are impaired ([page 266](http://orfe.princeton.edu/~alaink/SmartDrivingCars/PDFs/Readiness-of-V2V-Technology-for-Application-812014.pdf)).
 
 Given that [32 % of driving fatalities involve alcohol-impaired driving,](http://www-nrd.nhtsa.dot.gov/Pubs/811385.pdf) none of these will be saved.
 
@@ -144,8 +144,8 @@ So after more than 10 years of the mandate we will be at <68% non-impaired of th
 
 Yet, if NHTSA instead "mandated" or encouraged/focused-on automated collision avoidance and automated lane keeping systems, then each of these systems would deliver some immediate safety benefits to each consumer, irrespective of any other vehicle having the system. Some benefit would also be delivered if the driver became impaired. Moreover, insurance may be willing and able to pay for much of this technology. Seems that this is the low hanging fruit. What am I missing here? Why is the sunk investment in V2V seemingly all that is steering the NHTSA ship? Alain
 
-[Mailto:alaink@princeton.edu](Mailto:alaink@princeton.edu)
+alaink@princeton.edu
 
-This list is maintained by [Alain Kornhauser](mailto:alaink@princeton.edu) and hosted by the [Princeton University LISTSERV](http://lists.princeton.edu).
+This list is maintained by Alain Kornhauser and hosted by the Princeton University LISTSERV.
 
 [Unsubscribe](https://lists.princeton.edu/cgi-bin/wa?TICKET=NzM1MjMzIGJpbm9AUFJJTkNFVE9OLkVEVSBTTUFSVERSSVZJTkdDQVJTIGluYtYkJuu3&c=SIGNOFF) | [Re-subscribe](https://lists.princeton.edu/cgi-bin/wa?TICKET=NzM1MjMzIGJpbm9AUFJJTkNFVE9OLkVEVSBTTUFSVERSSVZJTkdDQVJTIGluYtYkJuu3&c=SIGNUP)

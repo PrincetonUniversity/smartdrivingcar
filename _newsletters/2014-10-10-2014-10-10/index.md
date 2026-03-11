@@ -222,7 +222,9 @@ US DoT also needs to take notice with respect to its V2V and connected vehicle i
 
 These initiatives have been timidly focused on warnings rather than automatically avoiding the accidents. I understand that the government fears resistance to its efforts to intervene, as it should. And it certainly hasn't wanted to acquire the responsibility.
 
-However, warnings are simply insufficiently effective. Maybe government should step aside and let someone else accept the responsibility, someone like the insurance industry. Accepting responsibility is in fact their fundamental business. Alain April 18, 2014
+However, warnings are simply insufficiently effective. Maybe government should step aside and let someone else accept the responsibility, someone like the insurance industry. Accepting responsibility is in fact their fundamental business. Alain
+
+April 18, 2014
 
 ### Newly Available Drafts of Recent Student Theses
 

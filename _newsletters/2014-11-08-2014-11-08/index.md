@@ -24,7 +24,7 @@ In addition, V2I already exists, it is called cellular. Heck, 10 years ago I use
 
 ## [Airbag Maker Takata Saw and Hid Risk in 2004, Former Workers Say](http://www.nytimes.com/2014/11/07/business/airbag-maker-takata-is-said-to-have-conducted-secret-tests.html?hp&action=click&pgtype=Homepage&module=first-column-region&region=top-news&WT.nav=top-news&_r=0)
 
- HIROKO TABUCHI NOV. 6, 2014 "Alarmed by a report a decade ago that one of its airbags had ruptured and spewed metal debris at a driver in Alabama, the Japanese manufacturer Takata secretly conducted tests on 50 airbags it retrieved from scrapyards, according to two former employees involved in the tests, one of whom was a senior member of its testing lab.... But instead of alerting federal safety regulators to the possible danger, Takata executives discounted the results and ordered the lab technicians to delete the testing data from their computers and dispose of the airbag inflaters in the trash, they said...." [Read More](http://www.nytimes.com/2014/11/07/business/airbag-maker-takata-is-said-to-have-conducted-secret-tests.html?hp&action=click&pgtype=Homepage&module=first-column-region&region=top-news&WT.nav=top-news&_r=0)
+HIROKO TABUCHI NOV. 6, 2014 "Alarmed by a report a decade ago that one of its airbags had ruptured and spewed metal debris at a driver in Alabama, the Japanese manufacturer Takata secretly conducted tests on 50 airbags it retrieved from scrapyards, according to two former employees involved in the tests, one of whom was a senior member of its testing lab.... But instead of alerting federal safety regulators to the possible danger, Takata executives discounted the results and ordered the lab technicians to delete the testing data from their computers and dispose of the airbag inflaters in the trash, they said...." [Read More](http://www.nytimes.com/2014/11/07/business/airbag-maker-takata-is-said-to-have-conducted-secret-tests.html?hp&action=click&pgtype=Homepage&module=first-column-region&region=top-news&WT.nav=top-news&_r=0)
 
 Hmmmm
 
@@ -200,4 +200,4 @@ So after more than 10 years of the mandate we will be at <68% non-impaired of th
 
 Yet, if NHTSA instead "mandated" or encouraged/focused-on automated collision avoidance and automated lane keeping systems, then each of these systems would deliver some immediate safety benefits to each consumer, irrespective of any other vehicle having the system. Some benefit would also be delivered if the driver became impaired. Moreover, insurance may be willing and able to pay for much of this technology. Seems that this is the low hanging fruit. What am I missing here? Why is the sunk investment in V2V seemingly all that is steering the NHTSA ship? Alain
 
-This list is maintained by [Alain Kornhauser](mailto:alaink@princeton.edu) and hosted by the [Princeton University LISTSERV](http://lists.princeton.edu).
+This list is maintained by Alain Kornhauser and hosted by the Princeton University LISTSERV.
