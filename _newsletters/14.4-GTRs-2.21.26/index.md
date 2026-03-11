@@ -122,5 +122,3 @@ Hmmmm… Students are putting together a compendium of their findings that will 
 Alain Kornhauser, Feb. 5, "Starting to come out of stealth mode." Hmmmm… Our mission:
 
 Elizabeth & Alain. 🙂
-
-***************************************************************************************************************

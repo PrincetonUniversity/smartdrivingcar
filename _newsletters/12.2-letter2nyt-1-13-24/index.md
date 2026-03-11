@@ -44,7 +44,9 @@ F. Fishkin, Jan. 13, "NVIDIA VP for Automotive Danny Shapiro joins Princeton's A
 * [27:50](https://www.youtube.com/watch?v=JHBPNGcaK98&t=1670s) LG shows transparent OLED screen  
 * [31:00](https://www.youtube.com/watch?v=JHBPNGcaK98&t=1860s) The Real Case for Driverless Mobility arriving this month  
 * [33:00](https://www.youtube.com/watch?v=JHBPNGcaK98&t=1980s) More thoughts on CES  
+
 * [0:00](https://www.youtube.com/watch?v=mN4BhrRYVPs&t=0s) R. Mauer, Jan. 12, "TSLA0:26PPI1:42Cybertruck first impressions5:12Point-of-sale credit6:39China price cuts8:39Piper Sandler note9:15Voice assist update10:29Covered vehicles at Texas11:27FSD Beta v12.1.111:55Rivian impact report12:31SpaceX company update13:25Calendar"Read MoreHmmmm…. Interesting, especially the FSD v12.1 rollout. Alain  
+
 * [0:00](https://www.youtube.com/watch?v=vXH2r2bNjk8&list=PL0lACHv09kBz2IJkc0dAo0kZc9A_u7opr&index=2&t=0s) R. Mauer, Dec. 13, "TSLA0:51FOMC / interest rates4:39Tesla bot updates8:56Tax credit changes12:54Uber incentives14:33Hotel adds Tesla chargers15:58Giga Mexico approval16:46Cybertrucks at Giga Texas17:24Carwow Cybertruck review19:44Autopilot / NHTSA resolution24:16Musk's university."Alain
 
 [Las Vegas Loop](https://www.boringcompany.com/loop)
@@ -110,7 +112,7 @@ Rabbit introduced the R1 during CES on Tuesday, which comes with a small 2.88-in
 
 [SpaceX Starship Update 2024](https://www.youtube.com/watch?v=TUQzeUaGxBI)
 
-E. Roth, Jan 13, "Elon Musk held a private SpaceX company all hands meeting at Starbase, TX where he gave and update on Dragon, Falcon 9, Falcon Heavy and Starship!  
+E. Roth, Jan. 13, "Elon Musk held a private SpaceX company all hands meeting at Starbase, TX where he gave and update on Dragon, Falcon 9, Falcon Heavy and Starship!  
 [Read More](https://www.youtube.com/watch?v=TUQzeUaGxBI) Hmmmm…. Enormous accomplishments in 2023. Alain
 
 [Apple won the CES headset game without showing up](https://www.theverge.com/2024/1/12/24035028/apple-vision-pro-ces-headset-game)
@@ -157,6 +159,3 @@ Director of Undergraduate Studies, ORFE
 Director, Transportation Program
 
 Faculty Chair, Princeton Autonomous Vehicle Engineering
-
-
-This list is maintained by Alain Kornhauser and hosted by the Princeton University LISTSERV.

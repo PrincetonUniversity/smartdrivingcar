@@ -5,7 +5,9 @@ date: 2024-05-06
 permalink: /12.19-safecar-5-05-24/
 display_name: "12.19 - Safecar"
 ---
-Click or tap if you trust this link.">Sunday, May 5, 2024
+Click or tap if you trust this link. 
+
+Sunday, May 5, 2024
 
 19h edition of the 12th year of SmartDrivingCars eLetter
 
@@ -139,7 +141,8 @@ F. Fishkin, May 4, "What was learned in the Smart Driving Cars interview with NH
 * [29:00](https://www.youtube.com/watch?v=YfIoS_ShZ1I&t=1740s) Apple Vision Pro headset being worn behind the wheel by some Tesla drivers?
 * [40:20](https://www.youtube.com/watch?v=YfIoS_ShZ1I&t=2420s) Is MOVES style mobility for rural areas disruptive?
 * [52:20](https://www.youtube.com/watch?v=YfIoS_ShZ1I&t=3140s) Ken Pyle's Texas EV rental adventure
-* [59:50](https://www.youtube.com/watch?v=YfIoS_ShZ1I&t=3590s) The Real Case for Driverless Mobility book in perspective"
+* [59:50](https://www.youtube.com/watch?v=YfIoS_ShZ1I&t=3590s) The Real Case for Driverless Mobility book in perspective
+
 * [0:00](https://www.youtube.com/watch?v=0CtxM0plpV8&t=0s) open
 * [0:31](https://www.youtube.com/watch?v=0CtxM0plpV8&t=31s) The Real Case for Driverless Mobility
 * [3:45](https://www.youtube.com/watch?v=0CtxM0plpV8&t=225s) NJ Supreme Court to hear case of injured E-scooter rider seeking no fault auto insurance coverage for injuries
@@ -293,7 +296,3 @@ o Design, Analysis, Simulation, Animation & Business Case
 
 …."
 [Read More](https://summit.princeton.edu/) Hmmmm… Please see the [registration](https://summit.princeton.edu/register) and [sponsorship](https://summit.princeton.edu/sponsorship) pages. Given the success that we've had with the past Summits and the quality of the program that we've been able to assemble to date, we fully expect to be sold out. Hope you'll be able to join in with us. Alain
-
-***************************************************************************************************************
-
-This list is maintained by Alain Kornhauser and hosted by the Princeton University LISTSERV.

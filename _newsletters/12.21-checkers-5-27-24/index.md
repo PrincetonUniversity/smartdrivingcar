@@ -5,7 +5,7 @@ date: 2024-05-27
 permalink: /12.21-checkers-5-27-24/
 display_name: "12.21 - Checkers"
 ---
-Click or tap if you trust this link.">Monday, May 27, 2024
+Monday, May 27, 2024
 
 21st edition of the 12th year of SmartDrivingCars eLetter
 
@@ -37,7 +37,7 @@ F. Fishkin, May 19, "Waymo is playing chess while Tesla is playing checkers? Pri
 
 The Boring Company has given rides in Las Vegas to two million passengers
 
-[6](https://summit.princeton.edu/)[th](https://summit.princeton.edu/)[Princeton SmartDrivingCar Summit](https://summit.princeton.edu/)
+[Princeton SmartDrivingCar Summit](https://summit.princeton.edu/)
 
 Alain Kornhauser, May 12, "…"[Read more](https://summit.princeton.edu/) Hmmmm…. This week!!! We are all set for the 6th Summit. It should be wild! Our intention is to hold lively, honest exchanges in which all participants feel comfortable sharing as candidly as is reasonable. Please see the [registration](https://summit.princeton.edu/register) and [sponsorship](https://summit.princeton.edu/sponsorship) pages. Alain
 
@@ -99,7 +99,7 @@ F. Lambert, May 22, "Tesla has finally decided to release its Autopilot safety d
 
 For years, Tesla used to release a "Vehicle safety report" that tracked miles between accidents in its vehicles based on the level of Autopilot used or not used and compared it to the industry average…." [Read More](https://electrek.co/2024/05/22/tesla-finally-releases-autopilot-safety-data-after-more-than-a-year/) Hmmmm… My long-standing offer remains on the table… I (with the help of some of my Princeton colleagues) am willing to do an independent rigorous statistical analysis of your data (without releasing any of the data, just the statistical summarizations) in return of you granting us free access to all of your relevant data. Call me! 😊 Alain
 
-[6](https://summit.princeton.edu/)[th](https://summit.princeton.edu/)[SmartDrivingCars Summit](https://summit.princeton.edu/) Evening May 29 -> May 31, 2024
+[SmartDrivingCars Summit](https://summit.princeton.edu/) Evening May 29 -> May 31, 2024
 
 Alain Kornhauser, May 5, "We promise civil and lively discussions as to how to improve the Quality-of-Life (QoL) for many while disrupting the QoL to as few as possible. Focus will be on the business aspects…
 
@@ -132,5 +132,3 @@ Workshop
 1. Design, Analysis, Simulation, Animation & Business Case
 
 …." [Read More](https://summit.princeton.edu/)
-
-This list is maintained by Alain Kornhauser and hosted by the Princeton University LISTSERV.

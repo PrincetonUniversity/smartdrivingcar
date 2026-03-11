@@ -5,7 +5,7 @@ date: 2024-06-05
 permalink: /12.22-6th-summit-recap-6-4-24/
 display_name: "12.22 - 6Th Summit Recap"
 ---
-Click or tap if you trust this link.">Monday, May 27, 2024
+Monday, May 27, 2024
 
 22nd edition of the 12th year of SmartDrivingCars eLetter
 

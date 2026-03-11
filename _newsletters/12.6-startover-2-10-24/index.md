@@ -21,7 +21,7 @@ That accomplished, we'll now have to wait to see what the press/public response 
 
 [Read the book](https://www.amazon.com/Real-Case-Driverless-Mobility-Vehicles/dp/0443236852/ref=sr_1_6?qid=1707567613&refinements=p_27%3AA.+Kornhauser&s=books&sr=1-6&ufe=app_do%3Aamzn1.fos.18ed3cb5-28d5-4975-8bc7-93deae8f9840)!
 
-More.. If one wants to look at human behavior at stop-controlled intersections one may start with M. Woldeamanuel, fall 2012: "[Stopping Behavior of Drivers at Stop-Controlled Intersections: Compositional and Contextual Analysis](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https:/trforum.org/wp-content/uploads/2017/04/2012v51n3_07_StopControlledIntersections.pdf)".
+More.. If one wants to look at human behavior at stop-controlled intersections one may start with M. Woldeamanuel, fall 2012: "[Stopping Behavior of Drivers at Stop-Controlled Intersections: Compositional and Contextual Analysis](https://trforum.org/wp-content/uploads/2017/04/2012v51n3_07_StopControlledIntersections.pdf)".
 
 Also see Andrew Hawkin's take on this incident: [Waymo driverless car strikes bicyclist in San Francisco, causes minor injuries](https://www.theverge.com/2024/2/7/24065063/waymo-driverless-car-strikes-bicyclist-san-francisco-injuries). Alain
 

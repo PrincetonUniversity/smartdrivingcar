@@ -5,7 +5,7 @@ date: 2024-10-14
 permalink: /12.30-wow-10-13-24/
 display_name: "12.30 - Wow"
 ---
-Click or tap if you trust this link. 
+Click or tap if you trust this link.
 
 Sunday, October 13, 2024  
 30th edition of the 12th year of SmartDrivingCars eLetter
@@ -85,8 +85,8 @@ T. Mwangi'26 & S. Navaratnam-Tomayko'26, Sept. 22, "Presentation made at [Next-G
 [Read more](https://www.dropbox.com/scl/fi/kgnont7ooyymdlf1qde84/NGTS-Presentation.pptx?rlkey=s9gzt8433jcj25yhll3u13eho&e=1&dl=0)  
 Hmmmm… So proud of them and they won one of the two "best paper" awards. Alain
 
-Click or tap if you trust this link. 
+Click or tap if you trust this link.
 
 Monday, May 27, 2024
 
-This list is maintained by [Alain Kornhauser](mailto:alaink@princeton.edu) and hosted by the [Princeton University LISTSERV](http://lists.princeton.edu).
+This list is maintained by Alain Kornhauser and hosted by the Princeton University LISTSERV.

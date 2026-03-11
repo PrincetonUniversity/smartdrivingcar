@@ -133,7 +133,3 @@ Click or tap if you trust this link.">Monday, Dec. 18, 2023
 # [Tesla Autopilot Recall Threatens Its Defense in Lawsuits Over Crashes](https://www.bloomberg.com/news/articles/2023-12-15/tesla-recall-threatens-its-defense-in-autopilot-crash-lawsuits)
 
 is repeated below… " The objective of the 6th SmartDrivingCars Summit will be to put the eventual manufacturers of driverless passenger vehicles together with the eventual operators of transportation services to decide if there is a business to be made from delivering affordable mobility to a large segment our societies who are underserved by the current options: private cars and public transport.
-
-***************************************************************************************************************
-
-This list is maintained by Alain Kornhauser and hosted by the [Princeton University LISTSERV](http://lists.princeton.edu).

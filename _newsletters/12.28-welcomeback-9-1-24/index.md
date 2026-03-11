@@ -9,7 +9,7 @@ Click or tap if you trust this link. Sunday, September 1, 2024
 
 28th edition of the 12th year of SmartDrivingCars eLetter
 
-[The Dispatcher_September 2024](https://www.dropbox.com/scl/fi/j1snypnss0ao2zy6kj3yz/The-Dispatcher_September_2024.pdf?rlkey=0ttugtxp90hvqrpheql9wmfnt&dl=0)
+[The Dispatcher September 2024](https://www.dropbox.com/scl/fi/j1snypnss0ao2zy6kj3yz/The-Dispatcher_September_2024.pdf?rlkey=0ttugtxp90hvqrpheql9wmfnt&dl=0)
 
 M, Sena, August 28, "Amidst wars, riots, assassination attempts, the Olympic Games, changes of presidential plans, and a two-day collapse of the world's stock markets, the automobile industry putters along, trying to find a balance between ICEs and BEVs. When the summer started, the U.S. and EU were slapping tariffs on Chinese-made electric vehicles, and the Chinese government was threatening to respond in turn. It has been quiet on both the western and eastern automotive fronts since then, but when summer turns to autumn, the topic of tariffs will rise again. The lead article in this September issue is intended to put a long range perspective on the issues and give one man's view of what is at stake for the players." Read more Hmmmm… As usual, most interesting and informative reading. The China challenge, like the driverless challenge and challenges in general, is not easy. Alain
 
