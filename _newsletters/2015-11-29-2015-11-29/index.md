@@ -10,7 +10,6 @@ permalink: /2015-11-29-2015-11-29/
 ## Calendar
                       of Upcoming Events:
 
-[](http://www.connectedvehicleworkshop.com/program/)
 
 SUNY Poly
 
@@ -20,7 +19,7 @@ Wednesday, December 2, 2015
 
 [http://www.connectedvehicleworkshop.com/program/](http://www.connectedvehicleworkshop.com/program/)
 
-## [](http://www.automatedfl.com/our-efforts/florida-automated-vehicles-summit/)
+## 
 
 [http://www.automatedfl.com/our-efforts/florida-automated-vehicles-summit/](http://www.automatedfl.com/our-efforts/florida-automated-vehicles-summit/)
 
@@ -28,7 +27,7 @@ Wednesday, December 2, 2015
 
 ###
 
-  [](Mailto:alaink@princeton.edu)[Mailto:alaink@princeton.edu](Mailto:alaink@princeton.edu) [](Mailto:alaink@princeton.edu)
+  [Mailto:alaink@princeton.edu](Mailto:alaink@princeton.edu) 
 
                                                           This list is
                                                           maintained by

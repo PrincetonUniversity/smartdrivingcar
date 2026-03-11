@@ -26,14 +26,12 @@ There is a third vision…."
 
 [The Transportation Channel](https://www.thetransportationchannel.com/)
 
-[The
- Real Case for Driverless Mobility](https://www.audible.com/pd/The-Real-Case-for-Driverless-Mobility-Audiobook/B0D9PJY6MW?eac_link=CiwdHDwLDA9n&ref=web_search_eac_asin_1&eac_selected_type=asin&eac_selected=B0D9PJY6MW&qid=502i1TXUsp&eac_id=130-7496845-4686001_502i1TXUsp&sr=1-1)
+[The Real Case for Driverless Mobility](https://www.audible.com/pd/The-Real-Case-for-Driverless-Mobility-Audiobook/B0D9PJY6MW?eac_link=CiwdHDwLDA9n&ref=web_search_eac_asin_1&eac_selected_type=asin&eac_selected=B0D9PJY6MW&qid=502i1TXUsp&eac_id=130-7496845-4686001_502i1TXUsp&sr=1-1)
 
 Narrated by Fred Fishkin, Available now
 
 [Published](https://www.amazon.com/Real-Case-Driverless-Mobility-Vehicles/dp/0443236852/ref=sr_1_1?crid=1XSXZ611C2JCN&keywords=Kornhauser+sena&qid=1707095108&sprefix=kornhauser+sena%2Caps%2C76&sr=8-1&ufe=app_do%3Aamzn1.fos.18ed3cb5-28d5-4975-8bc7-93deae8f9840) in
- 2024 (but still relevant)!!!  [Go
- to Amazon.com](https://www.amazon.com/Real-Case-Driverless-Mobility-Vehicles/dp/0443236852/ref=sr_1_1?crid=1XSXZ611C2JCN&keywords=Kornhauser+sena&qid=1707095108&sprefix=kornhauser+sena%2Caps%2C76&sr=8-1&ufe=app_do%3Aamzn1.fos.18ed3cb5-28d5-4975-8bc7-93deae8f9840)…
+ 2024 (but still relevant)!!!  [Go to Amazon.com](https://www.amazon.com/Real-Case-Driverless-Mobility-Vehicles/dp/0443236852/ref=sr_1_1?crid=1XSXZ611C2JCN&keywords=Kornhauser+sena&qid=1707095108&sprefix=kornhauser+sena%2Caps%2C76&sr=8-1&ufe=app_do%3Aamzn1.fos.18ed3cb5-28d5-4975-8bc7-93deae8f9840)…
 
 SmartDrivingCars
 [ZoomCast 400](https://www.youtube.com/watch?v=CONVOZ1kkxQ) [/ PodCast 400](https://open.spotify.com/episode/0MwyrghMuxDGFxNDZT0HP5?si=uSlJzWL7Q4eh9kRFR-PJzQ--&nd=1&dlsi=ec5b9e23d65f45f3) [– Driverless development in windowless silos?](https://www.youtube.com/watch?v=CONVOZ1kkxQ)
@@ -64,8 +62,7 @@ F. Fishkin, Oct. 3, " It is episode 400 of Smart Driving Cars and Princeton's A
 * [54:45](https://www.youtube.com/watch?v=CONVOZ1kkxQ&t=3285s) InsideEVs report on woman posting a party from Tesla driver
  seat…and Alain recalls TJ Smith online posting of his Buttercup California drive from a dozen years ago!
 
-[](https://www.youtube.com/playlist?list=PLFwuZ9jMeu5uwfTZP00zHjP7eSpG34Hsm)[SmartDrivingCars
- ZoomCasts](https://www.youtube.com/playlist?list=PLFwuZ9jMeu5uwfTZP00zHjP7eSpG34Hsm)
+[SmartDrivingCars ZoomCasts](https://www.youtube.com/playlist?list=PLFwuZ9jMeu5uwfTZP00zHjP7eSpG34Hsm)
 
 [Automated](https://www.sae.org/events/automated-transportation-symposium/agenda)
 
@@ -75,8 +72,7 @@ November 3-6, 2025  |  Tempe, Arizona
 
 [The Transportation Channel](https://www.thetransportationchannel.com/)
 
-  [Cities
- Are Not Prepared for Autonomous Vehicles. ---Here's How Should They.](https://www.mmi.mit.edu/forum)
+  [Cities Are Not Prepared for Autonomous Vehicles. ---Here's How Should They.](https://www.mmi.mit.edu/forum)
 
 K. Kockelman, R. Chase & J. Zhao, Oct. 3, "Ten years ago, cities were energized by the promise of autonomous vehicles. In 2015, the buzz was loud. Cities ran pilots, hosted
  workshops, and published white papers. But the tech wasn't ready. Cities grew disillusioned.  Now the tech is here, and at scale. But most U.S. cities are not prepared. How should they?"
@@ -84,8 +80,7 @@ K. Kockelman, R. Chase & J. Zhao, Oct. 3, "Ten years ago, cities were energized 
 [Register](https://www.mmi.mit.edu/forum)  to watch live if you read this before noon Oct. 3.
 [Paper](https://zhaojinhua.com/cities-are-not-prepared-for-autonomous-vehicles-heres-how-should-they). Excellent!  Alain
 
-  [What
- Excites Larry Burns Today? Future of Living and Future of Access](https://www.youtube.com/watch?v=uGHFjPEN0rA)
+  [What Excites Larry Burns Today? Future of Living and Future of Access](https://www.youtube.com/watch?v=uGHFjPEN0rA)
 
 L. Burns & J. Zhao, Sept. 29, Join us for a discussion with Larry Burns (former head of R&D at General Motors) on 5 aspects of mobility and urban planning that keep him
  excited, after an illustrious 50-year career. From autonomous vehicles to connected vehicles, EVs, defining access and design innovations, Larry will spend 20 minutes explaining why he is excited by these topics, after which we will move to the discussion
@@ -109,8 +104,7 @@ It was an example of Elluswamy going all-in to bring Musk's vision to fruition. 
  the driver-assist tech running solely off a suite of cameras. "It took courage to know that we would be able to figure that out," Geselowitz said….
 
 "Without him and our awesome team," Musk [wrote on X](https://x.com/elonmusk/status/1799650788848841069) last year, "we would
- just be another car company looking for an autonomy supplier that doesn't exist.""    [Read
- more](https://www.businessinsider.com/ashok-elluswamy-tesla-autopilot-elon-musk-ai-2025-10)  Hmmmm…
+ just be another car company looking for an autonomy supplier that doesn't exist.""    [Read more](https://www.businessinsider.com/ashok-elluswamy-tesla-autopilot-elon-musk-ai-2025-10)  Hmmmm…
  Very interesting! A must read.  Alain
 
 [San Francisco Woman Has Solo Dance Party In Her Tesla While In The Driver's Seat. How Safe Is That?](https://insideevs.com/news/774280/tesla-full-self-driving-safe/)
@@ -119,8 +113,7 @@ Adrienne Hunter, Oct. 1 ,  The rising popularity of self-driving cars has cause
  highlighted when one woman posted a video of her dancing in her self-driving Tesla with no hands on the steering wheel.…
 
 On Sept. 25, San Francisco resident Vanessa Lim ([@vanesssalim](https://www.tiktok.com/@vanesssalim)) posted a video of herself
- dancing in a Tesla, with text overlay that says, "when you can have solo dance parties bc your car drives itself." The video has received over 10,500 views as of Tuesday.."    [Read
- more](https://insideevs.com/news/774280/tesla-full-self-driving-safe/)  Hmmmm…
+ dancing in a Tesla, with text overlay that says, "when you can have solo dance parties bc your car drives itself." The video has received over 10,500 views as of Tuesday.."    [Read more](https://insideevs.com/news/774280/tesla-full-self-driving-safe/)  Hmmmm…
  So bad… Old-school Click-Bait.  Hasn't everyone seen how people really drive in California. TJ Smith has 15M views of
 [HIGHWAY SING-A-LONG: Build Me Up Buttercup Edition](https://www.youtube.com/watch?v=4fYqe3QeOqQ). Now that's good and it was done 12 years ago!  Alain
 

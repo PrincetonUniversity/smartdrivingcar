@@ -8,13 +8,7 @@ permalink: /2014-10-23-2014-10-23/
 October 22,
                                                     2014
 
-## [Request
-
-                                                    for Comment on
-                                                    Automotive
-                                                    Electronic Control
-                                                    Systems Safety and
-                                                    Security](http://www.gpo.gov/fdsys/pkg/FR-2014-10-07/html/2014-23805.htm)
+## [Request for Comment on Automotive Electronic Control Systems Safety and Security](http://www.gpo.gov/fdsys/pkg/FR-2014-10-07/html/2014-23805.htm)
 
 Volume
 
@@ -76,20 +70,12 @@ DATES: You should
                                                     Management receives
                                                     them no later than
                                                     December 8, 2014.
-[Read
-
-                                                  more](http://www.gpo.gov/fdsys/pkg/FR-2014-10-07/html/2014-23805.htm)
+[Read more](http://www.gpo.gov/fdsys/pkg/FR-2014-10-07/html/2014-23805.htm)
 
 ## More
-                                                  on: [Restating
+                                                  on: [Restating NHTSA's NMVCCS for Automated Vehicles](http://www.casact.org/pubs/forum/14fforum/CAS%20AVTF_Restated_NMVCCS.pdf)
 
-                                                    NHTSA's NMVCCS for
-                                                    Automated Vehicles](http://www.casact.org/pubs/forum/14fforum/CAS%20AVTF_Restated_NMVCCS.pdf)
-
-[Michael
-
-                                                  Stienstra's  summary
-                                                  of the CAS report](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/PDFs/Stienstra_AVTF_External%20Summary.pdf):
+[Michael Stienstra's  summary of the CAS report](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/PDFs/Stienstra_AVTF_External%20Summary.pdf):
 
                                                 "... Despite the
                                                 NMVCCS's extremely
@@ -112,15 +98,9 @@ DATES: You should
                                                 study still provides
                                                 several valuable
                                                 insights and takeaways.
-                                                ..."  [Read
+                                                ..."  [Read more](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/PDFs/Stienstra_AVTF_External%20Summary.pdf)
 
-                                                  more](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/PDFs/Stienstra_AVTF_External%20Summary.pdf)
-
-## [Official:
-
-                                                  Fort Monmouth could be
-                                                  testing ground for
-                                                  driverless cars](http://nj1015.com/official-fort-monmouth-could-be-testing-ground-for-driverless-cars/)
+## [Official: Fort Monmouth could be testing ground for driverless cars](http://nj1015.com/official-fort-monmouth-could-be-testing-ground-for-driverless-cars/)
 
 By
                                                 Dianne DeOliveira
@@ -138,12 +118,9 @@ By
                                                 Monmouth Economic
                                                 Revitalization
                                                 Authority(FMERA)..."
-[Read
+[Read more](http://nj1015.com/official-fort-monmouth-could-be-testing-ground-for-driverless-cars/)
 
-                                                more](http://nj1015.com/official-fort-monmouth-could-be-testing-ground-for-driverless-cars/)
-
-[Self-driving Cars are
-                                                Coming](http://www.forbes.com/sites/peterdiamandis/2014/10/13/self-driving-cars-are-coming/)
+[Self-driving Cars are Coming](http://www.forbes.com/sites/peterdiamandis/2014/10/13/self-driving-cars-are-coming/)
 
                                               10/13/2014
 
@@ -165,26 +142,14 @@ By
                                                 actually reduce the
                                                 number of cars on the
                                                 road by 42.6%..."
-[Read
+[Read more](http://www.forbes.com/sites/peterdiamandis/2014/10/13/self-driving-cars-are-coming/)
 
-                                                more](http://www.forbes.com/sites/peterdiamandis/2014/10/13/self-driving-cars-are-coming/)
+## [How Google plans to bring driverless cars to market](http://fortune.com/video/2014/10/13/how-google-plans-to-bring-driverless-cars-to-market/)
 
-## [How
-
-                                                  Google plans to bring
-                                                  driverless cars to
-                                                  market](http://fortune.com/video/2014/10/13/how-google-plans-to-bring-driverless-cars-to-market/)
-
-[Worth
-
-                                                    watching video.](http://fortune.com/video/2014/10/13/how-google-plans-to-bring-driverless-cars-to-market/)
+[Worth watching video.](http://fortune.com/video/2014/10/13/how-google-plans-to-bring-driverless-cars-to-market/)
                                                   Alain
 
-## [Forget
-
-                                                  self-driving Google
-                                                  cars, Australia has
-                                                  self-driving trucks](http://www.smh.com.au/it-pro/business-it/forget-selfdriving-google-cars-australia-has-selfdriving-trucks-20141020-118o47.html?utm_campaign=cmp_349120&utm_source=getanewsletter)
+## [Forget self-driving Google cars, Australia has self-driving trucks](http://www.smh.com.au/it-pro/business-it/forget-selfdriving-google-cars-australia-has-selfdriving-trucks-20141020-118o47.html?utm_campaign=cmp_349120&utm_source=getanewsletter)
 
 Oct
                                                 20, Matthew Hall "Forget
@@ -199,16 +164,9 @@ Oct
                                                 ideological opposite of
                                                 the small Toyota Prius
                                                 used by Google in test
-                                                drives..."  [Read
+                                                drives..."  [Read more](http://www.smh.com.au/it-pro/business-it/forget-selfdriving-google-cars-australia-has-selfdriving-trucks-20141020-118o47.html?utm_campaign=cmp_349120&utm_source=getanewsletter)
 
-                                                more](http://www.smh.com.au/it-pro/business-it/forget-selfdriving-google-cars-australia-has-selfdriving-trucks-20141020-118o47.html?utm_campaign=cmp_349120&utm_source=getanewsletter)
-
-## [](http://resourceglobalnetwork.com/images/oct12c/mobile/index.html#p=25) [Bringing
-
-                                                    the Benefits of
-                                                    Mining-Vehicle
-                                                    Automation to the
-                                                    Masses](http://resourceglobalnetwork.com/images/oct12c/mobile/index.html#p=25)
+##  [Bringing the Benefits of Mining-Vehicle Automation to the Masses](http://resourceglobalnetwork.com/images/oct12c/mobile/index.html#p=25)
 
 "...Despite
 
@@ -225,16 +183,9 @@ Oct
                                                   since introduced 15
                                                   autonomous trucks and
                                                   12 autonomous
-                                                  haulers..." [Read
+                                                  haulers..." [Read more](http://resourceglobalnetwork.com/images/oct12c/mobile/index.html#p=25)
 
-                                                    more](http://resourceglobalnetwork.com/images/oct12c/mobile/index.html#p=25)
-
-## [West
-
-                                                    Bloomfield police:
-                                                    Bus driver fell
-                                                    asleep, crashed into
-                                                    6 vehicles](http://www.clickondetroit.com/news/west-bloomfield-police-bus-driver-fell-asleep-crashed-into-6-vehicles/29252038)
+## [West Bloomfield police: Bus driver fell asleep, crashed into 6 vehicles](http://www.clickondetroit.com/news/west-bloomfield-police-bus-driver-fell-asleep-crashed-into-6-vehicles/29252038)
 
 Oct
 
@@ -249,9 +200,7 @@ Oct
                                                   crashing into six
                                                   vehicles on Maple
                                                   Road, West Bloomfield
-                                                  police said. [Read
-
-                                                    more](http://www.clickondetroit.com/news/west-bloomfield-police-bus-driver-fell-asleep-crashed-into-6-vehicles/29252038)
+                                                  police said. [Read more](http://www.clickondetroit.com/news/west-bloomfield-police-bus-driver-fell-asleep-crashed-into-6-vehicles/29252038)
                                                     Hmmm  Crash didn't
                                                     have to happen.
                                                     Automated Collision
@@ -259,12 +208,10 @@ Oct
                                                     stopped it! What a
                                                     shame!  Alain
 
-[](http://www.gpo.gov/fdsys/pkg/FR-2014-10-07/html/2014-23805.htm)
 
 ## Enjoy:
 
-## [Silicon Valley
-                                                          Driverless Car](https://www.youtube.com/watch?v=5UBdrMTxsvs)
+## [Silicon Valley Driverless Car](https://www.youtube.com/watch?v=5UBdrMTxsvs)
 
 From HBO's Silicon Valley; Thanks
 
@@ -274,26 +221,14 @@ From HBO's Silicon Valley; Thanks
                                                           Iowa State U.
 Alain
 
-## [Driving
+## [Driving Disrupted: Driverless Cars Change Everything](http://www.slideshare.net/sparksandhoney/autonomous-slideshare-pdf)
 
-                                                          Disrupted:
-                                                          Driverless
-                                                          Cars Change
-                                                          Everything](http://www.slideshare.net/sparksandhoney/autonomous-slideshare-pdf)
-
-sparks & honey Oct 15, 2014 [Read
-
-                                                          all](http://www.slideshare.net/sparksandhoney/autonomous-slideshare-pdf)40 ways driverless cars will change your life. Alain
+sparks & honey Oct 15, 2014 [Read all](http://www.slideshare.net/sparksandhoney/autonomous-slideshare-pdf)40 ways driverless cars will change your life. Alain
 
 ## Half-baked stuff that probably doesn't deserve your
                                                           time:
 
-### [Audi
-
-                                                          RS 7 concept
-                                                          taken to the
-                                                          limit with no
-                                                          driver](https://www.audi-mediaservices.com/publish/ms/content/en/public/pressemitteilungen/2014/10/19/audi_rs_7_concept.html?actionID=ms&utm_campaign=cmp_349120&utm_source=getanewsletter)
+### [Audi RS 7 concept taken to the limit with no driver](https://www.audi-mediaservices.com/publish/ms/content/en/public/pressemitteilungen/2014/10/19/audi_rs_7_concept.html?actionID=ms&utm_campaign=cmp_349120&utm_source=getanewsletter)
 
 Press release 10-19-14: "... Audi scored yet another
                                                           major success
@@ -329,9 +264,7 @@ Press release 10-19-14: "... Audi scored yet another
                                                           and accuracy
                                                           to within
                                                           centimeters..."
-[Read
-
-                                                          more.](https://www.audi-mediaservices.com/publish/ms/content/en/public/pressemitteilungen/2014/10/19/audi_rs_7_concept.html?actionID=ms&utm_campaign=cmp_349120&utm_source=getanewsletter)  It would be better if we had press releases about the
+[Read more.](https://www.audi-mediaservices.com/publish/ms/content/en/public/pressemitteilungen/2014/10/19/audi_rs_7_concept.html?actionID=ms&utm_campaign=cmp_349120&utm_source=getanewsletter)  It would be better if we had press releases about the
                                                           technology
                                                           being
                                                           available in
@@ -344,8 +277,7 @@ Press release 10-19-14: "... Audi scored yet another
 
                                                           and[Public Testimony](http://legiscan.com/NJ/text/S734/id/917652)
 
-### [S
-                                                          374](http://legiscan.com/NJ/text/S734/id/917652)
+### [S 374](http://legiscan.com/NJ/text/S734/id/917652)
 
 Directs
 
@@ -365,12 +297,7 @@ Directs
                                                           Committee Room
                                                           7
 
-### [3rd
-
-                                                          Connected and
-                                                          Autonomous
-                                                          Vehicle
-                                                          Symposium](http://www.utrc2.org/events/third-symposium-connected-autonomous-vehicles-smart-city-market-alignment-roadway-6)
+### [3rd Connected and Autonomous Vehicle Symposium](http://www.utrc2.org/events/third-symposium-connected-autonomous-vehicles-smart-city-market-alignment-roadway-6)
 
 College
 
@@ -393,12 +320,7 @@ College
 
 ###
 
-### [Inaugural
-
-                                                          Automated
-                                                          Vehicle Summit
-                                                          @ Fort
-                                                          Monmouth](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/FtMonmouth/InauguralFtMonmouthPressRelease.pdf)
+### [Inaugural Automated Vehicle Summit @ Fort Monmouth](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/FtMonmouth/InauguralFtMonmouthPressRelease.pdf)
 
 Press release.Oct 9, 2014 Princeton, NJ "New Jersey's
                                                           first summit
@@ -466,18 +388,12 @@ Press release.Oct 9, 2014 Princeton, NJ "New Jersey's
                                                           represented
                                                           New Jersey's
                                                           legislative
-                                                          bodies..." [Read
-
-                                                          more](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/FtMonmouth/InauguralFtMonmouthPressRelease.pdf)   Hmmm..Progress!  Alain
+                                                          bodies..." [Read more](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/FtMonmouth/InauguralFtMonmouthPressRelease.pdf)   Hmmm..Progress!  Alain
 
                                                           October 1,
                                                           2014
 
-### [Mercedes-Benz sends autonomous
-                                                          automobiles
-                                                          onto the USA's
-                                                          most extensive
-                                                          testing ground](http://www.cnbc.com/id/102049263)
+### [Mercedes-Benz sends autonomous automobiles onto the USA's most extensive testing ground](http://www.cnbc.com/id/102049263)
 
 Sunnyvale, Calif., Oct. 1, 2014 /PRNewswire/ -- " As one
                                                           of the first
@@ -500,10 +416,7 @@ Sunnyvale, Calif., Oct. 1, 2014 /PRNewswire/ -- " As one
                                                           addition, the
                                                           company will
                                                           from now on
-                                                          also use [Concord
-
-                                                          Naval Weapons
-                                                          Station](http://www.contracostatimes.com/contra-costa-times/ci_25279983/concord-naval-weapons-station-development-plans-moving-ahead)
+                                                          also use [Concord Naval Weapons Station](http://www.contracostatimes.com/contra-costa-times/ci_25279983/concord-naval-weapons-station-development-plans-moving-ahead)
                                                           (CNWS), the
                                                           largest test
                                                           bed site in
@@ -560,9 +473,7 @@ Sunnyvale, Calif., Oct. 1, 2014 /PRNewswire/ -- " As one
                                                           environment,
                                                           he
                                                           emphasized...."
-                                                          [Read
-
-                                                          more](http://www.cnbc.com/id/102049263)
+                                                          [Read more](http://www.cnbc.com/id/102049263)
                                                           Hmmm
 
                                                           I'm learning
@@ -578,14 +489,7 @@ Sunnyvale, Calif., Oct. 1, 2014 /PRNewswire/ -- " As one
                                                           October 1,
                                                           2014
 
-### [Self-driving
-
-                                                          cars:
-                                                          California
-                                                          regulators
-                                                          probe
-                                                          insurance
-                                                          questions](http://www.bizjournals.com/sanfrancisco/blog/techflash/2014/09/self-driving-cars-california-insurance-google.html?page=all)
+### [Self-driving cars: California regulators probe insurance questions](http://www.bizjournals.com/sanfrancisco/blog/techflash/2014/09/self-driving-cars-california-insurance-google.html?page=all)
 
 Patrick Hoge Sep 15, 2014  "Self-driving cars are
                                                           bearing down
@@ -714,39 +618,21 @@ Patrick Hoge Sep 15, 2014  "Self-driving cars are
                                                           can't turn
                                                           them off. They
                                                           just do
-                                                          it."..." [Read
-
-                                                          more](http://www.bizjournals.com/sanfrancisco/blog/techflash/2014/09/self-driving-cars-california-insurance-google.html?page=all)
+                                                          it."..." [Read more](http://www.bizjournals.com/sanfrancisco/blog/techflash/2014/09/self-driving-cars-california-insurance-google.html?page=all)
 
 Hmmm...
 
                                                           It was a
                                                           really good
-                                                          session:  [Video
-
-                                                          of hearing](https://www.youtube.com/watch?feature=player_embedded&v=pI-POiHymw0#t=854);
-                                                          [hearing's
-
-                                                          agenda](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Insurance/AVHearingAgenda.pdf); [background
-
-                                                          paper](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Insurance/AVHearingBackgroundPaper.pdf); [my
-
-                                                          5-minute
-                                                          prepared
-                                                          remarks](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Insurance/KornhauserTestimony091514CaliforniaDepartmentInsurance.pdf); [extended
-
-                                                          remarks by
-                                                          Prof. Robert
-                                                          Peterson](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Insurance/PetersonCommentsAV-DOI091514%20.pdf).
+                                                          session:  [Video of hearing](https://www.youtube.com/watch?feature=player_embedded&v=pI-POiHymw0#t=854);
+                                                          [hearing's agenda](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Insurance/AVHearingAgenda.pdf); [background paper](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Insurance/AVHearingBackgroundPaper.pdf); [my 5-minute prepared remarks](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Insurance/KornhauserTestimony091514CaliforniaDepartmentInsurance.pdf); [extended remarks by Prof. Robert Peterson](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Insurance/PetersonCommentsAV-DOI091514%20.pdf).
                                                           Alain
                                                           September 8,
                                                           2014
 
 ###
 
-[The
-
-                                                          New Commute](http://www.orionmagazine.org/index.php/articles/article/8269)
+[The New Commute](http://www.orionmagazine.org/index.php/articles/article/8269)
 Mark Svenvold  "...Tomorrow's transportation
                                                           solutions will
                                                           be about
@@ -840,8 +726,7 @@ Mark Svenvold  "...Tomorrow's transportation
                                                           silent transit
                                                           system that is
                                                           based on
-                                                          trust."...   [Read
-                                                          more](http://www.orionmagazine.org/index.php/articles/article/8269)
+                                                          trust."...   [Read more](http://www.orionmagazine.org/index.php/articles/article/8269)
 
 Hmmm...  Our studies at Princeton suggest that
                                                           autonomousTaxis
@@ -914,22 +799,13 @@ Hmmm...  Our studies at Princeton suggest that
                                                           August 25,
                                                           2014
 
-### [C'Mon
-
-                                                          Man!](https://www.youtube.com/watch?v=fhCks3bvTdA)
+### [C'Mon Man!](https://www.youtube.com/watch?v=fhCks3bvTdA)
                                                           (These folks
                                                           didn't
                                                           get/read the
                                                           memo):
 
-### [Federal
-
-                                                          Motor Vehicle
-                                                          Safety
-                                                          Standards:
-                                                          Vehicle-to-Vehicle
-                                                          (V2V)
-                                                          Communications](http://www.regulations.gov/#%21documentDetail;D=NHTSA-2014-0022-0002)
+### [Federal Motor Vehicle Safety Standards: Vehicle-to-Vehicle (V2V) Communications](http://www.regulations.gov/#%21documentDetail;D=NHTSA-2014-0022-0002)
 
 "This
 
@@ -1044,15 +920,9 @@ Hmmm...  Our studies at Princeton suggest that
                                                           not be
                                                           effective if
                                                           drivers are
-                                                          impaired ([page
+                                                          impaired ([page 266](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/PDFs/Readiness-of-V2V-Technology-for-Application-812014.pdf)).
 
-                                                          266](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/PDFs/Readiness-of-V2V-Technology-for-Application-812014.pdf)).
-
-                                                          Given that [32 % of driving
-                                                          fatalities
-                                                          involve
-                                                          alcohol-impaired
-                                                          driving,](http://www-nrd.nhtsa.dot.gov/Pubs/811385.pdf)
+                                                          Given that [32 % of driving fatalities involve alcohol-impaired driving,](http://www-nrd.nhtsa.dot.gov/Pubs/811385.pdf)
                                                           none of these
                                                           will be
                                                           saved.
@@ -1153,18 +1023,13 @@ Yet, if
                                                           steering the
                                                           NHTSA ship?  Alain
 
-                                                          [](Mailto:alaink@princeton.edu)[Mailto:alaink@princeton.edu](Mailto:alaink@princeton.edu)[](Mailto:alaink@princeton.edu)
+                                                          [Mailto:alaink@princeton.edu](Mailto:alaink@princeton.edu)
 
                                                           This list is
                                                           maintained by
-                                                          [Alain
-
-                                                          Kornhauser](mailto:alaink@princeton.edu)
+                                                          [Alain Kornhauser](mailto:alaink@princeton.edu)
                                                           and hosted by
-                                                          the [Princeton
-
-                                                          University
-                                                          LISTSERV](http://lists.princeton.edu).
+                                                          the [Princeton University LISTSERV](http://lists.princeton.edu).
 
 [Unsubscribe](https://lists.princeton.edu/cgi-bin/wa?TICKET=NzM1MjMzIGJpbm9AUFJJTkNFVE9OLkVEVSBTTUFSVERSSVZJTkdDQVJTIGluYtYkJuu3&c=SIGNOFF)
                                                           | [Re-subscribe](https://lists.princeton.edu/cgi-bin/wa?TICKET=NzM1MjMzIGJpbm9AUFJJTkNFVE9OLkVEVSBTTUFSVERSSVZJTkdDQVJTIGluYtYkJuu3&c=SIGNUP)

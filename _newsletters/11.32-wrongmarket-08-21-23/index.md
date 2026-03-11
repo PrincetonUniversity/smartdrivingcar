@@ -87,8 +87,7 @@ if (msoBrowserCheck())
 31st
 edition of the 11th year of SmartDrivingCars eLetter
 
-[GM Cruise and Lidar Robotaxi's Business Model Is Go Through
- $100 Billion in Losses to Try to Reach Profitable Scale](https://www.nextbigfuture.com/2023/08/the-scary-gm-cruise-robotaxi-business-model-to-lose-many-billions-until-2030.html)
+[GM Cruise and Lidar Robotaxi's Business Model Is Go Through $100 Billion in Losses to Try to Reach Profitable Scale](https://www.nextbigfuture.com/2023/08/the-scary-gm-cruise-robotaxi-business-model-to-lose-many-billions-until-2030.html)
 
 B. Wang,  Aug. 15, "GM's Cruise robotaxi service has expanded from 70 to 300 robotaxis operating in San Francisco and will soon expand to Phoenix, Los Angeles, Austin
  and Dubai. GM Cruise had increasing losses of $561 million in the first quarter of 2023. This will be over $2 billion in losses in 2023. GM Cruise will having increasing billions in net losses until they reach profitable scale. IF GM Cruise grows revenue by
@@ -96,8 +95,7 @@ B. Wang,  Aug. 15, "GM's Cruise robotaxi service has expanded from 70 to 300 r
  $100 billion or much more cumulative losses to finally reach profitability.
 
 Waymo financials is in Google Other Bets and were a lot of the Other Bet losses of $4.8 billion in 2020 and $5.2 billion in 2021 and $6B in 2022. Morgan Stanley analysts
- valued Waymo at $175 billion in 2018, $105 billion in Sept 2019 and the Waymo [valuation estimate in 2023 is $30 billion](https://seekingalpha.com/article/4544631-googles-other-bet-a-deep-dive-into-waymo)…."  [Read
-  more](https://www.nextbigfuture.com/2023/08/the-scary-gm-cruise-robotaxi-business-model-to-lose-many-billions-until-2030.html)[](https://sfstandard.com/2023/08/10/future-of-self-driving-cars-in-san-francisco-could-be-decided-today/?utm_source=The+San+Francisco+Standard&utm_campaign=1701c8955e-EMAIL_CAMPAIGN_2022_06_21_02_54_COPY_01&utm_medium=email&utm_term=0_f81e82e2a3-1701c8955e-561233865)  Hmmmm… All
+ valued Waymo at $175 billion in 2018, $105 billion in Sept 2019 and the Waymo [valuation estimate in 2023 is $30 billion](https://seekingalpha.com/article/4544631-googles-other-bet-a-deep-dive-into-waymo)…."  [Read more](https://www.nextbigfuture.com/2023/08/the-scary-gm-cruise-robotaxi-business-model-to-lose-many-billions-until-2030.html)  Hmmmm… All
  the more reason that focusing on serving the folks whom Uber/Lyft serve amounts to chasing the wrong customers. Those customers are simply too diffuse spatially and too needy to justify their high price.  Being marginally cheaper (~20% discount) isn't sufficiently
  disruptive to expand this customer base and is inconsequential to the bulk of valued ride-hailing customers - those taking longer trips who tip well.  Even if Cruise & Waymo got'em all, the financials aren't pretty. Too few, too needy to end up contributing
  anywhere near enough to have any hope for profit, even after bankruptcy, let alone an RoI on the initial investment.

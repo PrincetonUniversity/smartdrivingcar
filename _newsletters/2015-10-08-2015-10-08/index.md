@@ -7,9 +7,7 @@ permalink: /2015-10-08-2015-10-08/
 
 October 08, 2015
 
-## [US
-            urged to establish nationwide Federal guidelines for
-            autonomous driving](https://www.media.volvocars.com/global/en-gb/media/pressreleases/167975/us-urged-to-establish-nationwide-federal-guidelines-for-autonomous-driving)
+## [US urged to establish nationwide Federal guidelines for autonomous driving](https://www.media.volvocars.com/global/en-gb/media/pressreleases/167975/us-urged-to-establish-nationwide-federal-guidelines-for-autonomous-driving)
 
 Oct 7 "The US risks losing its leading global position in the
           development of self-driving cars if it allows a patchwork of
@@ -37,14 +35,12 @@ He will say Volvo will accept full liability whenever one
 
               Hmmmm...   Fantastic!!!  This will really "shake 'em up".
               I'll be on a panel at this meeting later this morning.
-              Can't wait!!!  This is FANTASTIC!!! Alain [See
-            also](http://www.popsci.com/volvo-on-self-driven-car-liability-i-volunteer)
+              Can't wait!!!  This is FANTASTIC!!! Alain [See also](http://www.popsci.com/volvo-on-self-driven-car-liability-i-volunteer)
 
 ## Some other thoughts
             that deserve your
 
-### [Man Visiting Brooklyn
-            Apartment Building Dies in Elevator Accident](http://www.nytimes.com/2015/10/03/nyregion/man-killed-in-elevator-accident-in-brooklyn-apartment-building.html?_r=0)
+### [Man Visiting Brooklyn Apartment Building Dies in Elevator Accident](http://www.nytimes.com/2015/10/03/nyregion/man-killed-in-elevator-accident-in-brooklyn-apartment-building.html?_r=0)
 
 B. Mueller, Oct 2
             "The locksmith, visiting friends at a luxury apartment
@@ -63,8 +59,7 @@ B. Mueller, Oct 2
             lobby, its stainless-steel door still ajar, and Mr. Modan
             only halfway out. His body was crushed between the elevator
             and the basement ceiling and elevator shaft, and he was
-            pronounced dead by emergency medical workers.  [Read
-              more](http://www.nytimes.com/2015/10/03/nyregion/man-killed-in-elevator-accident-in-brooklyn-apartment-building.html?_r=0)Hmmm... Extremely
+            pronounced dead by emergency medical workers.  [Read more](http://www.nytimes.com/2015/10/03/nyregion/man-killed-in-elevator-accident-in-brooklyn-apartment-building.html?_r=0)Hmmm... Extremely
                 unfortunate!! Plus, the automated elevator was at
                 fault.  Better inspection and better regulations are
                 absolutely necessary but not a cry for bring back the
@@ -74,7 +69,7 @@ B. Mueller, Oct 2
                 mobility service so compelling that there won't be a cry
                 to put the human back in the loop.  Alain
 
- [](v)
+ 
 
 ## Recompiled Old News :
 
@@ -98,9 +93,7 @@ B. Mueller, Oct 2
             driver's seat during the journeys in case human intervention
             is needed, according to media reports...
 
-[Read
-
-            more](http://www.nytimes.com/2015/09/02/technology/personaltech/google-says-its-not-the-driverless-cars-fault-its-other-drivers.html?_r=0)      Hmmm... I probably
+[Read more](http://www.nytimes.com/2015/09/02/technology/personaltech/google-says-its-not-the-driverless-cars-fault-its-other-drivers.html?_r=0)      Hmmm... I probably
               should have put this in "Half-baked" because it is
               half-baked.  If the vehicles are not good enough to do
               empty vehicle repositioning (travel without anyone in
@@ -130,15 +123,13 @@ B. Mueller, Oct 2
 ## Calendar of
                     Upcoming Events:
 
-### [](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/PDFs/PCC9-Presenter%20Info.pdf)
+### 
 
-### [](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/PDFs/PCC9-Presenter%20Info.pdf)
+### 
 
-[November
+[November 4-6, 2015](http://www.podcarcity.org/siliconvalley)[http://www.podcarcity.org/siliconvalley](http://www.podcarcity.org/siliconvalley)
 
-                      4-6, 2015](http://www.podcarcity.org/siliconvalley)[](http://www.podcarcity.org/siliconvalley)[http://www.podcarcity.org/siliconvalley](http://www.podcarcity.org/siliconvalley)
-
-### [](http://www.automatedfl.com/our-efforts/florida-automated-vehicles-summit/)
+### 
 
 [http://www.automatedfl.com/our-efforts/florida-automated-vehicles-summit/](http://www.automatedfl.com/our-efforts/florida-automated-vehicles-summit/)
 
@@ -156,10 +147,7 @@ B. Mueller, Oct 2
 
 ###
 
-### [](http://www.cbsnews.com/videos/60-minutes-test-rides-mercedes-benz-self-driving-car/)["60
-
-                                Minutes" test-rides Mercedes-Benz
-                                self-driving car](http://www.cbsnews.com/videos/60-minutes-test-rides-mercedes-benz-self-driving-car/)
+### ["60 Minutes" test-rides Mercedes-Benz self-driving car](http://www.cbsnews.com/videos/60-minutes-test-rides-mercedes-benz-self-driving-car/)
 
 Oct 2 "As Google's
                               driverless cars have logged more then a
@@ -170,18 +158,13 @@ Oct 2 "As Google's
                               correspondent Bill Whitaker to demonstrate
                               Mercedes-Benz's most advanced self-driving
                               prototype. Watch the full story Sunday on
-                              "60 Minutes."  [Watch
-
-                                    video](http://www.cbsnews.com/videos/60-minutes-test-rides-mercedes-benz-self-driving-car/) and watch 60 minutes on
+                              "60 Minutes."  [Watch video](http://www.cbsnews.com/videos/60-minutes-test-rides-mercedes-benz-self-driving-car/) and watch 60 minutes on
                                   Sunday Oct 4. This is really becoming
                                   mainstream.  Congratulations
                                   Ralf! Alain
                                   26, 2015
 
-### [](http://www.nytimes.com/2015/09/23/business/international/volkswagen-diesel-car-scandal.html?emc=edit_na_20150922&nlid=62144678&ref=cta&_r=0)[As
-
-                              Volkswagen Pushed to Be No. 1, Ambitions
-                              Fueled a Scandal](http://www.nytimes.com/2015/09/27/business/as-vw-pushed-to-be-no-1-ambitions-fueled-a-scandal.html?hp&action=click&pgtype=Homepage&module=first-column-region&region=top-news&WT.nav=top-news&_r=0)
+### [As Volkswagen Pushed to Be No. 1, Ambitions Fueled a Scandal](http://www.nytimes.com/2015/09/27/business/as-vw-pushed-to-be-no-1-ambitions-fueled-a-scandal.html?hp&action=click&pgtype=Homepage&module=first-column-region&region=top-news&WT.nav=top-news&_r=0)
 
 D. Hakim, Sept 26 "...It is not
                           Volkswagen's first run-in with regulators over
@@ -194,10 +177,7 @@ D. Hakim, Sept 26 "...It is not
                           pollution control systems. This time, it
                           equipped its vehicles with software that was
                           programmed to fake test results, an action the
-                          E.P.A. rebuked in 1998, when [it
-
-                            reached a $1 billion settlement with
-                            truck-engine manufacturers](http://www.nytimes.com/1998/10/22/us/record-penalty-likely-against-diesel-makers.html) for doing the
+                          E.P.A. rebuked in 1998, when [it reached a $1 billion settlement with truck-engine manufacturers](http://www.nytimes.com/1998/10/22/us/record-penalty-likely-against-diesel-makers.html) for doing the
                           same thing.....
 
                           Cheating on emissions tests solved several
@@ -208,9 +188,7 @@ D. Hakim, Sept 26 "...It is not
                           Volkswagen cheated behind the scenes, it
                           publicly espoused virtue. This, after all, is
                           the company that used one of the largest
-                          advertising arenas in the world, the [Super
-
-                            Bowl, to run a commercial](https://www.youtube.com/watch?v=ljI2S7rwZ1Y%20)showing its
+                          advertising arenas in the world, the [Super Bowl, to run a commercial](https://www.youtube.com/watch?v=ljI2S7rwZ1Y%20)showing its
                           engineers sprouting angel's wings.
 
                           ...Confronted again, Volkswagen continued to
@@ -222,9 +200,7 @@ D. Hakim, Sept 26 "...It is not
                           According to the E.P.A., that is what forced
                           Volkswagen's hand. On Sept. 3, a group of
                           senior engineers admitted what the regulators
-                          had suspected: .... " [Read
-
-                            more](http://www.nytimes.com/2015/09/27/business/as-vw-pushed-to-be-no-1-ambitions-fueled-a-scandal.html?hp&action=click&pgtype=Homepage&module=first-column-region&region=top-news&WT.nav=top-news&_r=0)      Hmmm...So
+                          had suspected: .... " [Read more](http://www.nytimes.com/2015/09/27/business/as-vw-pushed-to-be-no-1-ambitions-fueled-a-scandal.html?hp&action=click&pgtype=Homepage&module=first-column-region&region=top-news&WT.nav=top-news&_r=0)      Hmmm...So
 
                               UGLY!!! Alain
 
@@ -234,10 +210,7 @@ D. Hakim, Sept 26 "...It is not
 
 ###
 
-### [Automakers
-
-                            Will Make Automatic Braking Systems Standard
-                            in New Cars](http://mobile.nytimes.com/2015/09/12/business/automakers-will-make-automatic-braking-systems-standard-in-new-cars.html)
+### [Automakers Will Make Automatic Braking Systems Standard in New Cars](http://mobile.nytimes.com/2015/09/12/business/automakers-will-make-automatic-braking-systems-standard-in-new-cars.html)
 
 B. Vlasic, Sept 11 " Federal
                           regulators said on Friday that 10 automakers
@@ -248,9 +221,7 @@ B. Vlasic, Sept 11 " Federal
 
                           But the automakers have not set a timetable
                           for the introduction of the systems,
-                          ...Anthony Foxx, [the
-
-                            transportation secretary, said](http://www.transportation.gov/briefing-room/us-dot-and-iihs-announce-historic-commitment-10-automakers-include-automatic-emergency) in a
+                          ...Anthony Foxx, [the transportation secretary, said](http://www.transportation.gov/briefing-room/us-dot-and-iihs-announce-historic-commitment-10-automakers-include-automatic-emergency) in a
                           prepared statement that emergency braking
                           technology could reduce traffic deaths and
                           injuries.
@@ -265,12 +236,9 @@ B. Vlasic, Sept 11 " Federal
                           N.H.T.S.A. in the coming months on the details
                           of implementing their historic commitment,"
                           the National Highway Traffic Safety
-                          Administration said in [a
-                            statement](http://www.nhtsa.gov/About+NHTSA/Press+Releases/nhtsa-iihs-commitment-on-aeb-09112015) (Same
+                          Administration said in [a statement](http://www.nhtsa.gov/About+NHTSA/Press+Releases/nhtsa-iihs-commitment-on-aeb-09112015) (Same
 
-                              as the DoT Statement.)  [Read
-
-                            more](http://mobile.nytimes.com/2015/09/12/business/automakers-will-make-automatic-braking-systems-standard-in-new-cars.html)  Hmmm...
+                              as the DoT Statement.)  [Read more](http://mobile.nytimes.com/2015/09/12/business/automakers-will-make-automatic-braking-systems-standard-in-new-cars.html)  Hmmm...
                             This is
                               major because the automakers "had
                               agreed..." rather than "the regulators had
@@ -299,9 +267,7 @@ B. Vlasic, Sept 11 " Federal
 
 ###
 
-### [Google's
-                            Driverless Cars Run Into Problem: Cars With
-                            Drivers](http://www.nytimes.com/2015/09/02/technology/personaltech/google-says-its-not-the-driverless-cars-fault-its-other-drivers.html?_r=0)
+### [Google's Driverless Cars Run Into Problem: Cars With Drivers](http://www.nytimes.com/2015/09/02/technology/personaltech/google-says-its-not-the-driverless-cars-fault-its-other-drivers.html?_r=0)
 
  M. Richtel & C Dougherty,
                           Sept. 1 " Google, ... has run into an odd
@@ -327,9 +293,7 @@ B. Vlasic, Sept 11 " Federal
                           of California, San Diego, who studies
                           autonomous vehicles. "They have to learn to be
                           aggressive in the right amount, and the right
-                          amount depends on the culture."... [Read
-
-                            more](http://www.nytimes.com/2015/09/02/technology/personaltech/google-says-its-not-the-driverless-cars-fault-its-other-drivers.html?_r=0)      Hmmm...
+                          amount depends on the culture."... [Read more](http://www.nytimes.com/2015/09/02/technology/personaltech/google-says-its-not-the-driverless-cars-fault-its-other-drivers.html?_r=0)      Hmmm...
 
                               Much of this is good; however, many of the
                               comments about warning systems being
@@ -386,9 +350,7 @@ B. Vlasic, Sept 11 " Federal
                               SmartDrivingCars. Alain
                                   2015
 
-### [Truck
-
-                            Safety Out of the Box from Autonobox](http://www.driverlesstransportation.com/truck-safety-out-of-the-box-from-autonobox-9450)
+### [Truck Safety Out of the Box from Autonobox](http://www.driverlesstransportation.com/truck-safety-out-of-the-box-from-autonobox-9450)
 
  B Simpson, July 19, 2015 "The
                           premise is promising. Develop and market a
@@ -403,19 +365,14 @@ B. Vlasic, Sept 11 " Federal
                           addresses the long-standing problem of brakes
                           that overheat after intense use like a
                           panic-stop or sustained use while going
-                          downhill.... [Read
-
-                            more](http://www.driverlesstransportation.com/truck-safety-out-of-the-box-from-autonobox-9450)  Hmmm...A
+                          downhill.... [Read more](http://www.driverlesstransportation.com/truck-safety-out-of-the-box-from-autonobox-9450)  Hmmm...A
                               viable after-market retro-fit
                               opportunity.  Alain
                                   2015
 
 ###
 
-### [Self-Driving
-
-                            Cars Could Destroy Fine-Based City
-                            Government. What's the Downside?](https://reason.com/blog/2015/07/15/self-driving-cars-could-destroy-fine-bas)
+### [Self-Driving Cars Could Destroy Fine-Based City Government. What's the Downside?](https://reason.com/blog/2015/07/15/self-driving-cars-could-destroy-fine-bas)
 
  S. Shackford, July 15 "One of
                           the propelling concepts behind self-driving
@@ -432,9 +389,7 @@ B. Vlasic, Sept 11 " Federal
                           of that, if the theory that self-driving cars
                           will lead people to own fewer cars holds up,
                           revenue from registration fees will drop as
-                          well.... [Read
-
-                            more](https://reason.com/blog/2015/07/15/self-driving-cars-could-destroy-fine-bas)
+                          well.... [Read more](https://reason.com/blog/2015/07/15/self-driving-cars-could-destroy-fine-bas)
                               Hmmm...  No downside here!  These have to
                               be one of the most regressive tax systems,
                               just behind lotteries and gambling.
@@ -447,14 +402,9 @@ B. Vlasic, Sept 11 " Federal
 
 ###
 
-### [Lipinski
+### [Lipinski Continues Efforts to Keep Cars and Other Transportation Safe from Cyber Attacks](http://www.lipinski.house.gov/press-releases/lipinski-continues-efforts-to-keep-cars-and-other-transportation-safe-from-cyber-attacks-in-wake-of-fiat-chrysler-recall/)in
 
-                            Continues Efforts to Keep Cars and Other
-                            Transportation Safe from Cyber Attacks](http://www.lipinski.house.gov/press-releases/lipinski-continues-efforts-to-keep-cars-and-other-transportation-safe-from-cyber-attacks-in-wake-of-fiat-chrysler-recall/)in
-
-                          Wake of [Fiat
-
-                            Chrysler Recall](http://www.wsj.com/articles/fiat-chrysler-recalls-1-4-million-vehicles-amid-hacking-concerns-1437751526)
+                          Wake of [Fiat Chrysler Recall](http://www.wsj.com/articles/fiat-chrysler-recalls-1-4-million-vehicles-amid-hacking-concerns-1437751526)
 
 July 28  "...These
                           vulnerabilities pose great risks and the
@@ -470,9 +420,7 @@ July 28  "...These
                           technologies to the marketplace, trains a
                           cybersecurity workforce, and coordinates and
                           prioritizes federal cybersecurity research and
-                          development efforts.  " [Read
-
-                            mor](http://www.lipinski.house.gov/press-releases/lipinski-continues-efforts-to-keep-cars-and-other-transportation-safe-from-cyber-attacks-in-wake-of-fiat-chrysler-recall/)e Hmmm...
+                          development efforts.  " [Read mor](http://www.lipinski.house.gov/press-releases/lipinski-continues-efforts-to-keep-cars-and-other-transportation-safe-from-cyber-attacks-in-wake-of-fiat-chrysler-recall/)e Hmmm...
 
                               Besides protecting we must also
                               prosecute.  There has to be bad
@@ -485,10 +433,7 @@ July 28  "...These
 
 ###
 
-### [Center
-
-                            for Automated Road Transportation Safety @
-                            Fort Monmouth is Launched](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/FtMonmouth/NJCARTS/PressRelease_CARTS@FM.pdf)
+### [Center for Automated Road Transportation Safety @ Fort Monmouth is Launched](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/FtMonmouth/NJCARTS/PressRelease_CARTS@FM.pdf)
 
  Monday, July 20, 2015 –
                           "After more than three (3) years of planning
@@ -508,9 +453,7 @@ July 28  "...These
                           roadways.   The scope of CARTS's mission is
                           across all modes that utilize the nation's
                           conventional road system: trucks, buses and
-                          cars. .." [Read
-
-                              more](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/FtMonmouth/NJCARTS/PressRelease_CARTS@FM.pdf)
+                          cars. .." [Read more](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/FtMonmouth/NJCARTS/PressRelease_CARTS@FM.pdf)
 
 ###
 
@@ -518,10 +461,7 @@ July 28  "...These
 
 ###
 
-### [Automatic
-
-                            Cars Or Distracted Drivers: We Need
-                            Automation Sooner, Not Later](https://www.linkedin.com/pulse/automatic-cars-distracted-drivers-we-need-automation-sooner-norman)
+### [Automatic Cars Or Distracted Drivers: We Need Automation Sooner, Not Later](https://www.linkedin.com/pulse/automatic-cars-distracted-drivers-we-need-automation-sooner-norman)
 
 D. Norman 6/4/15 "Imperfect
                           automation, continually getting better? Or
@@ -543,9 +483,7 @@ D. Norman 6/4/15 "Imperfect
                           making it easier for the driver to see
                           navigation aids and speed, are now catching
                           featuritis, that deadly disease which corrupts
-                          products...."  [Read
-
-                            more](https://www.linkedin.com/pulse/automatic-cars-distracted-drivers-we-need-automation-sooner-norman)
+                          products...."  [Read more](https://www.linkedin.com/pulse/automatic-cars-distracted-drivers-we-need-automation-sooner-norman)
 
 Hmmm....
 
@@ -573,9 +511,7 @@ Hmmm....
                                 aviation safety some 20 years ago but
                                 has been part of the human factors
                                 literature since long before that ([Bainbridge](http://www.bainbrdg.demon.co.uk/)Hmmm...it
-                                  would not be bad to re-read the [1983
-
-                                    paper](https://www.ise.ncsu.edu/nsf_itr/794B/papers/Bainbridge_1983_Automatica.pdf).).  So we have to
+                                  would not be bad to re-read the [1983 paper](https://www.ise.ncsu.edu/nsf_itr/794B/papers/Bainbridge_1983_Automatica.pdf).).  So we have to
                                 skip this stage if at all possible.  I
                                 have long argued that we should have
                                 either all or none. it is the mixture
@@ -614,17 +550,10 @@ Hmmm....
 
 ###
 
-### [Rep.
-
-                            Lipinski Introduces Future Transportation
-                            Research and Innovation Act](http://www.chicagotribune.com/suburbs/la-grange/community/chi-ugc-article-rep-lipinski-introduces-future-transportatio-2015-06-29-story.html#page=1)
+### [Rep. Lipinski Introduces Future Transportation Research and Innovation Act](http://www.chicagotribune.com/suburbs/la-grange/community/chi-ugc-article-rep-lipinski-introduces-future-transportatio-2015-06-29-story.html#page=1)
 
  I. Sancken 03/29/15,
-                          "Congressman Dan Lipinski (IL-3) has [introduced
-
-                            H.R. 2886, the Future Transportation
-                            Research and Innovation for Prosperity
-                            (TRIP) Act](https://www.congress.gov/bill/114th-congress/house-bill/2886/text), to support innovative
+                          "Congressman Dan Lipinski (IL-3) has [introduced H.R. 2886, the Future Transportation Research and Innovation for Prosperity (TRIP) Act](https://www.congress.gov/bill/114th-congress/house-bill/2886/text), to support innovative
                           technologies that have the potential to
                           fundamentally alter mobility in America and
                           beyond.
@@ -639,15 +568,10 @@ Hmmm....
                           incredible opportunities for transportation
                           innovation. We need to develop innovative ways
                           to improve safety, ease congestion, improve
-                          personal mobility, and cut energy use..."  [Read
-
-                            more](http://www.chicagotribune.com/suburbs/la-grange/community/chi-ugc-article-rep-lipinski-introduces-future-transportatio-2015-06-29-story.html#page=1)  Hmmm...
+                          personal mobility, and cut energy use..."  [Read more](http://www.chicagotribune.com/suburbs/la-grange/community/chi-ugc-article-rep-lipinski-introduces-future-transportatio-2015-06-29-story.html#page=1)  Hmmm...
                               Excellent!  Alain
 
-### [MOSI
-
-                                debuts nation's first driverless vehicle
-                                open to public](http://www.baynews9.com/content/news/baynews9/on-the-town/article.html/content/news/articles/bn9/2015/6/12/mosi_debuts_nation_s.html)
+### [MOSI debuts nation's first driverless vehicle open to public](http://www.baynews9.com/content/news/baynews9/on-the-town/article.html/content/news/articles/bn9/2015/6/12/mosi_debuts_nation_s.html)
 
 D. Dangerfield, 6/12/15 "
                           Imagine a vehicle that can drive on its own.
@@ -656,9 +580,7 @@ D. Dangerfield, 6/12/15 "
                           Meridian Shuttle is part of an exhibit that
                           opens at MOSI on Saturday. The vehicle allows
                           up to eight people to ride around the first
-                          floor of the museum.  [Read
-
-                            more](http://www.baynews9.com/content/news/baynews9/on-the-town/article.html/content/news/articles/bn9/2015/6/12/mosi_debuts_nation_s.html)  Hmmm...
+                          floor of the museum.  [Read more](http://www.baynews9.com/content/news/baynews9/on-the-town/article.html/content/news/articles/bn9/2015/6/12/mosi_debuts_nation_s.html)  Hmmm...
                               It is all about starting.
                               Congratulations! Alain
 
@@ -666,11 +588,7 @@ D. Dangerfield, 6/12/15 "
 
 ###
 
-### [NTSB
-
-                            Calls for Immediate Action on Collision
-                            Avoidance Systems for Vehicles; Cites Slow
-                            Progress as Major Safety Issue](http://www.ntsb.gov/news/press-releases/Pages/PR20150608b.aspx)
+### [NTSB Calls for Immediate Action on Collision Avoidance Systems for Vehicles; Cites Slow Progress as Major Safety Issue](http://www.ntsb.gov/news/press-releases/Pages/PR20150608b.aspx)
 
  6/8/15 " WASHINGTON – In a
                           report released today, the National
@@ -684,9 +602,7 @@ D. Dangerfield, 6/12/15 "
                           Chairman Christopher A. Hart. "And you
                           shouldn't have to pay extra for technology
                           that can help prevent a collision
-                          altogether."... [Read
-
-                            more](http://www.ntsb.gov/news/press-releases/Pages/PR20150608b.aspx)  Hmmm
+                          altogether."... [Read more](http://www.ntsb.gov/news/press-releases/Pages/PR20150608b.aspx)  Hmmm
                             Yea!!!  Finally some semblance of
                               sanity in Washington.  Alain
 
@@ -694,10 +610,7 @@ D. Dangerfield, 6/12/15 "
 
 ###
 
-### [John
-
-                            F. Nash Jr., Math Genius Defined by a
-                            'Beautiful Mind,' Dies at 86](http://www.nytimes.com/2015/05/25/science/john-nash-a-beautiful-mind-subject-and-nobel-winner-dies-at-86.html)
+### [John F. Nash Jr., Math Genius Defined by a 'Beautiful Mind,' Dies at 86](http://www.nytimes.com/2015/05/25/science/john-nash-a-beautiful-mind-subject-and-nobel-winner-dies-at-86.html)
 
  E. Goodmay, May 24 "...Dr.
                           Nash and his wife, Alicia, 82, were in a taxi
@@ -711,17 +624,11 @@ D. Dangerfield, 6/12/15 "
                           The couple were ejected from the cab and
                           pronounced dead at the scene. The State Police
                           said it appeared that they had not been
-                          wearing seatbelts.... [Read
+                          wearing seatbelts.... [Read more](http://www.nytimes.com/2015/05/25/science/john-nash-a-beautiful-mind-subject-and-nobel-winner-dies-at-86.html)
 
-                            more](http://www.nytimes.com/2015/05/25/science/john-nash-a-beautiful-mind-subject-and-nobel-winner-dies-at-86.html)
+                          See also:  [John, Alicia Nash Remembered After Fatal Crash](http://www.towntopics.com/wordpress/2015/05/27/john-alicia-nash-remembered-after-fatal-crash/)
 
-                          See also:  [John,
-
-                              Alicia Nash Remembered After Fatal Crash](http://www.towntopics.com/wordpress/2015/05/27/john-alicia-nash-remembered-after-fatal-crash/)
-
-[A
-                              Beautiful Mind Mathematician John Nash and
-                              His Wife Killed in N.J. Car Crash](http://nymag.com/daily/intelligencer/2015/05/mathematician-john-nash-and-wife-killed-in-crash.html)
+[A Beautiful Mind Mathematician John Nash and His Wife Killed in N.J. Car Crash](http://nymag.com/daily/intelligencer/2015/05/mathematician-john-nash-and-wife-killed-in-crash.html)
                           ;
 
 Hmmm... So tragic!!!
@@ -733,11 +640,7 @@ Hmmm... So tragic!!!
  Unfortunately,
 
                               the NYT and others tried but missed the
-                              fundamental point by following up with ["Deaths
-
-                                of Math Genius John F. Nash Jr. and Wife
-                                Show Need to Use Seatbelts in Back,
-                                Experts Say](http://www.nytimes.com/2015/05/26/nyregion/deaths-of-math-genius-john-f-nash-jr-and-his-wife-show-need-to-use-seatbelts-in-back-experts-say.html) ".  Why do we so
+                              fundamental point by following up with ["Deaths of Math Genius John F. Nash Jr. and Wife Show Need to Use Seatbelts in Back, Experts Say](http://www.nytimes.com/2015/05/26/nyregion/deaths-of-math-genius-john-f-nash-jr-and-his-wife-show-need-to-use-seatbelts-in-back-experts-say.html) ".  Why do we so
                               easily put up with crashes in the first
                               place?  It is as if it is OK to go around
                               crashing, just put on a seat belt.
@@ -792,10 +695,7 @@ It is time for the nation's
 
 ###
 
-### [The
-
-                            View from the Front Seat of the Google
-                            Self-Driving Car](https://medium.com/backchannel/the-view-from-the-front-seat-of-the-google-self-driving-car-46fc9f3e6088)
+### [The View from the Front Seat of the Google Self-Driving Car](https://medium.com/backchannel/the-view-from-the-front-seat-of-the-google-self-driving-car-46fc9f3e6088)
 
  Chris Urmson May 11, 2015
                             "After 1.7 million miles we've learned a
@@ -841,9 +741,7 @@ It is time for the nation's
                             incidents that cause many of us to dislike
                             day to day driving — and we'll continue to
                             work hard on developing a self-driving car
-                            that can shoulder this burden for us." [Read
-
-                              more](https://medium.com/backchannel/the-view-from-the-front-seat-of-the-google-self-driving-car-46fc9f3e6088)
+                            that can shoulder this burden for us." [Read more](https://medium.com/backchannel/the-view-from-the-front-seat-of-the-google-self-driving-car-46fc9f3e6088)
 
  Hmmm.... MUST
                                   reading; HOWEVER, we need much
@@ -856,12 +754,9 @@ It is time for the nation's
 
                                 can shoulder this burden for us." Alain
 
-  [](Mailto:alaink@princeton.edu)[Mailto:alaink@princeton.edu](Mailto:alaink@princeton.edu) [](Mailto:alaink@princeton.edu)
+  [Mailto:alaink@princeton.edu](Mailto:alaink@princeton.edu) 
  This list is
-                              maintained by [Alain
-                                Kornhauser](mailto:alaink@princeton.edu) and hosted by the [Princeton
-
-                                University LISTSERV](http://lists.princeton.edu).
+                              maintained by [Alain Kornhauser](mailto:alaink@princeton.edu) and hosted by the [Princeton University LISTSERV](http://lists.princeton.edu).
 
 [Unsubscribe](https://lists.princeton.edu/cgi-bin/wa?TICKET=NzM1MjMzIGJpbm9AUFJJTkNFVE9OLkVEVSBTTUFSVERSSVZJTkdDQVJTIGluYtYkJuu3&c=SIGNOFF)
                               | [Re-subscribe](https://lists.princeton.edu/cgi-bin/wa?TICKET=NzM1MjMzIGJpbm9AUFJJTkNFVE9OLkVEVSBTTUFSVERSSVZJTkdDQVJTIGluYtYkJuu3&c=SIGNUP)

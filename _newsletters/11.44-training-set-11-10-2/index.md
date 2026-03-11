@@ -12,8 +12,7 @@ edition of the 11th year of SmartDrivingCars eLetter
 [Under Fire Over Robotaxi Safety, GM Halts Production Of Cruise Driverless Van](https://www.forbes.com/sites/cyrusfarivar/2023/11/06/under-fire-over-robotaxi-safety-gm-halts-production-of-cruise-driverless-van/?sh=7a9077af79a4)
 
 C. Farivar, Nov. 6, "Reeling from a month in which the California DMV [yanked](https://www.forbes.com/sites/cyrusfarivar/2023/10/24/california-dmv-halts-cruises-self-driving-robotaxis-statewide/?sh=8d118dc70d36) Cruise's
- permits for its self-driving robotaxis and [the
- company paused all operations](https://www.forbes.com/sites/cyrusfarivar/2023/10/26/cruise-immediately-halts-all-robotaxis-nationwide-seeks-to-rebuild-trust/?sh=47069cd2556b), Cruise CEO Kyle Vogt held an all hands meeting Monday to explain how the company was planning to address concerns that its autonomous vehicles are not yet safe enough to operate. One of the very first announcements: pausing
+ permits for its self-driving robotaxis and [the company paused all operations](https://www.forbes.com/sites/cyrusfarivar/2023/10/26/cruise-immediately-halts-all-robotaxis-nationwide-seeks-to-rebuild-trust/?sh=47069cd2556b), Cruise CEO Kyle Vogt held an all hands meeting Monday to explain how the company was planning to address concerns that its autonomous vehicles are not yet safe enough to operate. One of the very first announcements: pausing
  production of a fully autonomous van called the Origin, which Cruise parent company GM was planning to ramp up in the imminent future.
 
 According to audio of the address obtained by Forbes, Vogt remarked on the company's recent decision to halt driverless operations across its entire autonomous vehicle fleet, telling staff
@@ -24,8 +23,7 @@ According to audio of the address obtained by Forbes, Vogt remarked on the comp
 
    What just happened? What have we learned? The ironies abound.
 
-   San Francisco is turning into THE "Training Set" of both what to do and what not to do for those building AI models for "[The
- Real Case for Driverless Mobility](https://shop.elsevier.com/books/the-real-case-for-driverless-mobility/kornhauser/978-0-443-23685-3)" and for those struggling to do good for society.
+   San Francisco is turning into THE "Training Set" of both what to do and what not to do for those building AI models for "[The Real Case for Driverless Mobility](https://shop.elsevier.com/books/the-real-case-for-driverless-mobility/kornhauser/978-0-443-23685-3)" and for those struggling to do good for society.
 
    The biggest lesson that is staring us in the face is that it is really important for all in this business to be able to collaborate and share as much as possible and safety related information
  including safety scenarios and approaches to being able to safely address those scenarios.  These companies should NOT be competing on safety, because safety is a necessary condition.  Unsafeness of one reflects poorly on all.  The first legislation that Congress

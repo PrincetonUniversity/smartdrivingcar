@@ -10,25 +10,9 @@ to lead
                                                           driverless car
                                                           technology
 
-### [The
+### [The pathway to driverless cars: summary report and action plan](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/401562/pathway-driverless-cars-summary.pdf)
 
-                                                          pathway to
-                                                          driverless
-                                                          cars: summary
-                                                          report and
-                                                          action plan](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/401562/pathway-driverless-cars-summary.pdf)
-
-### [The
-
-                                                          pathway to
-                                                          driverless
-                                                          cars: a
-                                                          detailed
-                                                          review of
-                                                          regulations
-                                                          for automated
-                                                          vehicle
-                                                          technologies](The%20pathway%20to%20driverless%20cars:%20a%20detailed%20review%20of%20regulations%20for%20automated%20vehicle%20technologies)
+### [The pathway to driverless cars: a detailed review of regulations for automated vehicle technologies](The%20pathway%20to%20driverless%20cars:%20a%20detailed%20review%20of%20regulations%20for%20automated%20vehicle%20technologies)
 
 The above
                                                           review
@@ -63,9 +47,7 @@ The above
                                                           of potential
                                                           use of fully
                                                           autonomous
-                                                          vehicles. [Read
-
-                                                          more](https://www.gov.uk/government/news/uk-to-lead-development-of-driverless-car-technology?utm_campaign=cmp_389469&utm_medium=email&utm_source=getanewsletter)  Plus
+                                                          vehicles. [Read more](https://www.gov.uk/government/news/uk-to-lead-development-of-driverless-car-technology?utm_campaign=cmp_389469&utm_medium=email&utm_source=getanewsletter)  Plus
                                                           read [speech](https://www.gov.uk/government/speeches/launch-of-the-pathway-to-driverless-cars-report)
                                                           Hmmm...
 
@@ -80,11 +62,7 @@ The above
                                                           of us to do.
                                                           Alain
 
-### [Beyond
-
-                                                          Traffic:
-                                                          Trends and
-                                                          Choices 2045](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/PDFs/Draft_Beyond_Traffic_Framework.pdf)
+### [Beyond Traffic: Trends and Choices 2045](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/PDFs/Draft_Beyond_Traffic_Framework.pdf)
 
 Sections
                                                           on automation:
@@ -592,9 +570,7 @@ Sections
                                                           compromising
                                                           safety.  p289
 
-[Read
-
-                                                          more](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/PDFs/Draft_Beyond_Traffic_Framework.pdf)  Hmmm... Looks as if the Secretary of the US DoT has
+[Read more](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/PDFs/Draft_Beyond_Traffic_Framework.pdf)  Hmmm... Looks as if the Secretary of the US DoT has
                                                           discovered
                                                           automation and
                                                           is indeed
@@ -603,11 +579,7 @@ Sections
                                                           Fantastic!
                                                           Alain
 
-## [Drone
-
-                                                          Taxis Will
-                                                          Spark Uber's
-                                                          Kodak Moment](http://www.forbes.com/sites/chunkamui/2015/02/06/drone-taxis-will-spark-ubers-kodak-moment/2/)
+## [Drone Taxis Will Spark Uber's Kodak Moment](http://www.forbes.com/sites/chunkamui/2015/02/06/drone-taxis-will-spark-ubers-kodak-moment/2/)
 
                                                           Chunk Mui
                                                           2/6/15 "The
@@ -651,9 +623,7 @@ Sections
                                                           attempts the
                                                           transition to
                                                           driverless
-                                                          cars.... [Read
-
-                                                          more](http://www.forbes.com/sites/chunkamui/2015/02/06/drone-taxis-will-spark-ubers-kodak-moment/2/)  Absolutely.  Plus the cost of entry will be so low
+                                                          cars.... [Read more](http://www.forbes.com/sites/chunkamui/2015/02/06/drone-taxis-will-spark-ubers-kodak-moment/2/)  Absolutely.  Plus the cost of entry will be so low
                                                           for anyone
                                                           else that
                                                           wants to skirt
@@ -665,11 +635,7 @@ Sections
                                                           everywhere.
                                                           Alain
 
-## [Self-driving
-
-                                                          trucks tested
-                                                          on Dutch
-                                                          highway](http://www.nltimes.nl/2015/02/10/self-driving-trucks-tested-dutch-highway/?utm_campaign=cmp_389469&utm_medium=email&utm_source=getanewsletter)
+## [Self-driving trucks tested on Dutch highway](http://www.nltimes.nl/2015/02/10/self-driving-trucks-tested-dutch-highway/?utm_campaign=cmp_389469&utm_medium=email&utm_source=getanewsletter)
 
                                                           Feb 10, 2015
                                                           by Taneli
@@ -721,9 +687,7 @@ Sections
                                                           the others
                                                           brake
                                                           simultaneously...."
-                                                          [Read
-
-                                                          more](http://www.nltimes.nl/2015/02/10/self-driving-trucks-tested-dutch-highway/?utm_campaign=cmp_389469&utm_medium=email&utm_source=getanewsletter)  Hmmm Note "partially autonomous" and just platooning
+                                                          [Read more](http://www.nltimes.nl/2015/02/10/self-driving-trucks-tested-dutch-highway/?utm_campaign=cmp_389469&utm_medium=email&utm_source=getanewsletter)  Hmmm Note "partially autonomous" and just platooning
                                                           but OK, it's a
                                                           start.  I'm
                                                           not a big fan
@@ -759,11 +723,7 @@ Sections
                                                           So have a
                                                           ball!  Alain
 
-### [Senator
-                                                          Questions
-                                                          Whether Smart
-                                                          Cars Are a
-                                                          Dumb Idea](http://www.pcmag.com/article2/0,2817,2476488,00.asp)
+### [Senator Questions Whether Smart Cars Are a Dumb Idea](http://www.pcmag.com/article2/0,2817,2476488,00.asp)
 
                                                           Stephanie
                                                           Mlot, Feb. 9,
@@ -843,14 +803,7 @@ Sections
                                                           any time soon.
                                                           Alain
 
- [This
-
-                                                          simulator
-                                                          wants to solve
-                                                          a big problem
-                                                          with
-                                                          self-driving
-                                                          cars: you](http://www.engadget.com/2015/02/12/digicar-driverless-car-simulator/?ncid=rss_truncated)
+ [This simulator wants to solve a big problem with self-driving cars: you](http://www.engadget.com/2015/02/12/digicar-driverless-car-simulator/?ncid=rss_truncated)
 
                                                           Nick Summers
                                                           Feb 12 "...The
@@ -883,19 +836,11 @@ Sections
                                                           they have to
                                                           retake control
                                                           on the
-                                                          road.... [Read
-
-                                                          more](http://www.engadget.com/2015/02/12/digicar-driverless-car-simulator/?ncid=rss_truncated)
+                                                          road.... [Read more](http://www.engadget.com/2015/02/12/digicar-driverless-car-simulator/?ncid=rss_truncated)
 
 ## Update On:
 
-### [Early Estimate of
-                                                          Motor Vehicle
-                                                          Traffic
-                                                          Fatalities for
-                                                          the First Half
-                                                          (Jan–Jun) of
-                                                          2014](http://www-nrd.nhtsa.dot.gov/Pubs/812093.pdf)
+### [Early Estimate of Motor Vehicle Traffic Fatalities for the First Half (Jan–Jun) of 2014](http://www-nrd.nhtsa.dot.gov/Pubs/812093.pdf)
 
 DOT HS 812
                                                           093 Jan 2014.
@@ -941,11 +886,7 @@ DOT HS 812
 
 ## Some other thoughts that deserve your time:
 
-### [A
-                                                          Seamstress Who
-                                                          Handed Off to
-                                                          the N.F.L. for
-                                                          48 Years](http://www.nytimes.com/2015/01/22/sports/football/new-england-patriots-scandal-from-afar-a-retired-football-maker-says-wilson-did-its-job.html?_r=0)
+### [A Seamstress Who Handed Off to the N.F.L. for 48 Years](http://www.nytimes.com/2015/01/22/sports/football/new-england-patriots-scandal-from-afar-a-retired-football-maker-says-wilson-did-its-job.html?_r=0)
 
                                                           KEN BELSON
                                                           JAN. 21, 2015
@@ -970,9 +911,7 @@ DOT HS 812
                                                           three years
                                                           from landing
                                                           on the
-                                                          moon..." [Read
-
-                                                          more](http://www.nytimes.com/2015/01/22/sports/football/new-england-patriots-scandal-from-afar-a-retired-football-maker-says-wilson-did-its-job.html?_r=0)  Be sure to[look at video](http://www.nytimes.com/video/sports/football/100000003463386/a-feel-for-the-game.html)
+                                                          moon..." [Read more](http://www.nytimes.com/2015/01/22/sports/football/new-england-patriots-scandal-from-afar-a-retired-football-maker-says-wilson-did-its-job.html?_r=0)  Be sure to[look at video](http://www.nytimes.com/video/sports/football/100000003463386/a-feel-for-the-game.html)
                                                           :-)  A
                                                           fundamental
                                                           argument
@@ -989,12 +928,7 @@ DOT HS 812
                                                           life's work.
                                                           Alain
 
-### [Singapore
-
-                                                          Restaurant
-                                                          Uses
-                                                          Autonomous
-                                                          Drone Waiters](http://hypebeast.com/2015/02/singapore-restaurant-uses-autonomous-drone-waiters)[](http://hypebeast.com/2015/02/singapore-restaurant-uses-autonomous-drone-waiters)
+### [Singapore Restaurant Uses Autonomous Drone Waiters](http://hypebeast.com/2015/02/singapore-restaurant-uses-autonomous-drone-waiters)
 
  Feb
 
@@ -1009,30 +943,19 @@ DOT HS 812
                                                           brunt work out
                                                           of having to
                                                           haul dishes in
-                                                          and out...." [Read
-
-                                                          more](http://hypebeast.com/2015/02/singapore-restaurant-uses-autonomous-drone-waiters)
+                                                          and out...." [Read more](http://hypebeast.com/2015/02/singapore-restaurant-uses-autonomous-drone-waiters)
 
 ## Calendar
 
                                                           of Upcoming
                                                           Events:
 
-[Autonomous/Connected
+[Autonomous/Connected Vehicle Summit Concord Hilton, Concord CA March 31, 2015](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/PDFs/GoMentumMarch31Announcement.pdf)
 
-                                                          Vehicle Summit
-
-                                                          Concord
-                                                          Hilton,
-                                                          Concord CA
-
-                                                          March 31, 2015](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/PDFs/GoMentumMarch31Announcement.pdf)
-
-[](http://www.autonomousvehiclesymposium.com/)
 
 ## [Call for Papers](http://www.autonomousvehiclesymposium.com/)
 
-## [](http://www.driverlesstransportation.com/event/automated-vehicles-symposium-2015)
+## 
 
 [http://www.driverlesstransportation.com/event/automated-vehicles-symposium-2015](http://www.driverlesstransportation.com/event/automated-vehicles-symposium-2015)
 
@@ -1045,13 +968,7 @@ DOT HS 812
 
 ###
 
-### [Germany's
-
-                                                          A9 autobahn to
-                                                          become test
-                                                          track for
-                                                          self-driving
-                                                          cars](http://www.gizmag.com/germany-self-driving-car-public-test/35806/)
+### [Germany's A9 autobahn to become test track for self-driving cars](http://www.gizmag.com/germany-self-driving-car-public-test/35806/)
 
                                                           Tony Borroz,
                                                           Jan. 27, 2015
@@ -1093,22 +1010,13 @@ DOT HS 812
                                                           expected to
                                                           get underway
                                                           later this
-                                                          year...." [Read
-
-                                                          more](http://www.gizmag.com/germany-self-driving-car-public-test/35806/) This is interesting.  Alain
+                                                          year...." [Read more](http://www.gizmag.com/germany-self-driving-car-public-test/35806/) This is interesting.  Alain
 January
 
                                                           29,
                                                           2015
 
-### [NHTSA
-
-                                                          adding
-                                                          automatic
-                                                          braking to
-                                                          recommended
-                                                          safety tech
-                                                          list](http://www.autoblog.com/2015/01/25/nhtsa-automatic-braking-recommended-safety-list/)
+### [NHTSA adding automatic braking to recommended safety tech list](http://www.autoblog.com/2015/01/25/nhtsa-automatic-braking-recommended-safety-list/)
 
  Jan
 
@@ -1139,24 +1047,9 @@ January
                                                           becoming the
                                                           norm in safety
                                                           evaluations.
-                                                          The [Insurance Institute for Highway
-                                                          Safety](http://www.autoblog.com/tag/iihs/)now [requires
+                                                          The [Insurance Institute for Highway Safety](http://www.autoblog.com/tag/iihs/)now [requires it for a model to earn a Top Safety Pick + rating](http://www.autoblog.com/2014/12/23/vehicles-awarded-iihs-top-safety-pick-skyrockets-for-2015/), and the tech is a must to [score five stars in the Euro NCAP crash test](http://www.autoblog.com/2012/06/15/euro-ncap-will-soon-require-auto-braking-for-five-star-safety-ra/).
 
-                                                          it for a model
-                                                          to earn a Top
-                                                          Safety Pick +
-                                                          rating](http://www.autoblog.com/2014/12/23/vehicles-awarded-iihs-top-safety-pick-skyrockets-for-2015/), and the tech is a must to [score
-
-                                                          five stars in
-                                                          the Euro NCAP
-                                                          crash test](http://www.autoblog.com/2012/06/15/euro-ncap-will-soon-require-auto-braking-for-five-star-safety-ra/).
-
-                                                          [Be
-
-                                                          sure to read
-                                                          the included
-                                                          Foxx's Press
-                                                          Release](http://www.autoblog.com/2015/01/25/nhtsa-automatic-braking-recommended-safety-list/):
+                                                          [Be sure to read the included Foxx's Press Release](http://www.autoblog.com/2015/01/25/nhtsa-automatic-braking-recommended-safety-list/):
 
 "PRESS
 
@@ -1200,9 +1093,7 @@ January
                                                           according to
                                                           new research
                                                           NHTSA released
-                                                          today...." [Read
-
-                                                          more](http://www.autoblog.com/2015/01/25/nhtsa-automatic-braking-recommended-safety-list/)  Hmmm... this is really good.  Especially if the
+                                                          today...." [Read more](http://www.autoblog.com/2015/01/25/nhtsa-automatic-braking-recommended-safety-list/)  Hmmm... this is really good.  Especially if the
                                                           "plan" is
                                                           actually
                                                           implemented
@@ -1217,9 +1108,7 @@ January
 
 ###
 
-### [State-wide
-
-                                                          aTaxi Service](http://www.princeton.edu/%7Ealaink/Orf467F14/Orf467F14FinalProjectPresentationSchedule.pdf)
+### [State-wide aTaxi Service](http://www.princeton.edu/%7Ealaink/Orf467F14/Orf467F14FinalProjectPresentationSchedule.pdf)
 
 Serving New Jersey's Personal Mobility Needs with
 
@@ -1386,14 +1275,7 @@ January
 
                                                           4, 2015
 
-### [New
-
-                                                          York Bus
-                                                          Driver
-                                                          Arrested After
-                                                          Fatally
-                                                          Striking
-                                                          Pedestrian](http://www.nytimes.com/2014/12/25/nyregion/new-york-bus-driver-arrested-after-fatally-striking-pedestrian.html?emc=eta1)
+### [New York Bus Driver Arrested After Fatally Striking Pedestrian](http://www.nytimes.com/2014/12/25/nyregion/new-york-bus-driver-arrested-after-fatally-striking-pedestrian.html?emc=eta1)
 
 MARC SANTORA DEC. 24, 2014 "A Metropolitan
                                                           Transportation
@@ -1443,9 +1325,7 @@ Mr.
                                                           was struck by
                                                           the bus, the
                                                           police
-                                                          said..."  [Read
-
-                                                          more](http://www.nytimes.com/2014/12/25/nyregion/new-york-bus-driver-arrested-after-fatally-striking-pedestrian.html?emc=eta1)
+                                                          said..."  [Read more](http://www.nytimes.com/2014/12/25/nyregion/new-york-bus-driver-arrested-after-fatally-striking-pedestrian.html?emc=eta1)
 
 Hmmm... Tragic for everyone.  Such accidents would be
                                                           largely
@@ -1489,14 +1369,7 @@ December
 
 ###
 
-### [Daimler
-
-                                                          Chairman Dr.
-                                                          Dieter Zetsche
-                                                          to Deliver
-                                                          Keynote
-                                                          Address at
-                                                          2015 CES](http://www.cesweb.org/News/Press-Releases/CES-Press-Release.aspx?NodeID=c7f1e0ca-b638-4293-8fd6-281c0e22707a)
+### [Daimler Chairman Dr. Dieter Zetsche to Deliver Keynote Address at 2015 CES](http://www.cesweb.org/News/Press-Releases/CES-Press-Release.aspx?NodeID=c7f1e0ca-b638-4293-8fd6-281c0e22707a)
 
 Arlington, VA – 10/06/2014 – "The Consumer Electronics
                                                           Association
@@ -1568,9 +1441,7 @@ Arlington, VA – 10/06/2014 – "The Consumer Electronics
                                                           Theater within
                                                           the
                                                           Cosmopolitan."
-                                                          [Read
-
-                                                          mor](http://www.cesweb.org/News/Press-Releases/CES-Press-Release.aspx?NodeID=c7f1e0ca-b638-4293-8fd6-281c0e22707a)e
+                                                          [Read mor](http://www.cesweb.org/News/Press-Releases/CES-Press-Release.aspx?NodeID=c7f1e0ca-b638-4293-8fd6-281c0e22707a)e
                                                           Daimler
 
                                                           will have a
@@ -1586,10 +1457,7 @@ December
 
 ###
 
-### [2014
-                                                          Florida
-                                                          Automated
-                                                          Vehicle Summit](http://www.fleng.org/index.cfm)
+### [2014 Florida Automated Vehicle Summit](http://www.fleng.org/index.cfm)
 
 Florida DOT is blazing the trail for the integration of
                                                           automated
@@ -1613,7 +1481,7 @@ Florida DOT is blazing the trail for the integration of
                                                           technologies.
                                                           [Agenda](http://www.fleng.info/images/files/FAV%20Summit%202014_DRAFT%20Agenda09292014.pdf)[Register](http://www.fleng.org/seminars.cfm?event_id=626)
 
-                                                          [](Mailto:alaink@princeton.edu)[Mailto:alaink@princeton.edu](Mailto:alaink@princeton.edu)[](Mailto:alaink@princeton.edu)
+                                                          [Mailto:alaink@princeton.edu](Mailto:alaink@princeton.edu)
 
                                                           This list is
                                                           maintained by

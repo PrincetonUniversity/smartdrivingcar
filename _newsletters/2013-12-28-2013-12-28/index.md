@@ -9,18 +9,13 @@ December 27, 2013
 
 # Highlights of 2013
 
-## [Auto
-
-            Correct: Has the self-driving car at last arrived?](http://www.newyorker.com/reporting/2013/11/25/131125fa_fact_bilger)
+## [Auto Correct: Has the self-driving car at last arrived?](http://www.newyorker.com/reporting/2013/11/25/131125fa_fact_bilger)
 
  by Burkhard Bilger November 25, 2013:  An absolutely great article featuring
               Anthony Levandowski, Product Manager, Google Self-Driving
-              Car and more.  [A
-                MUST read](http://www.newyorker.com/reporting/2013/11/25/131125fa_fact_bilger).  Alain
+              Car and more.  [A MUST read](http://www.newyorker.com/reporting/2013/11/25/131125fa_fact_bilger).  Alain
 
-## [Florida
-
-            Automated Vehicles Summit](http://www.fleng.org/images/files/1025%2013Draft%20Agenda_Florida%20Automated%20Vehicle%20Summit.pdf)
+## [Florida Automated Vehicles Summit](http://www.fleng.org/images/files/1025%2013Draft%20Agenda_Florida%20Automated%20Vehicle%20Summit.pdf)
 
   November 14 – 15, 2013, Marriott Waterside
           Hotel, Tampa, FL .  This was
@@ -36,26 +31,17 @@ December 27, 2013
               deploy driverless transit vehicles in Florida's many
               retirement communities.    Alain
 
-## [On
+## [On the Road with Autonomous Emergency Braking (AEB) Systems](http://euroncap.synapticdigital.com/Latest-Release/on-the-road-with-autonomous-emergency-braking-systems/s/0d5f0a78-2afc-4c63-ad36-a1acdb2c0b19)
 
-            the Road with Autonomous Emergency Braking (AEB) Systems](http://euroncap.synapticdigital.com/Latest-Release/on-the-road-with-autonomous-emergency-braking-systems/s/0d5f0a78-2afc-4c63-ad36-a1acdb2c0b19)
-
-[Press
-
-            Releas](http://preview.thenewsmarket.com/Previews/NCAP/DocumentAssets/305458_v2.pdf)e: Brussels 29 October – "Euro NCAP
+[Press Releas](http://preview.thenewsmarket.com/Previews/NCAP/DocumentAssets/305458_v2.pdf)e: Brussels 29 October – "Euro NCAP
           releases the first results of rear-end crash avoidance
           systems tested against the upcoming 2014 rating protocol.
           Eight vehicles have been compared with respect to their
           performance on the test track.
 
-## [IIHS
+## [IIHS issues first crash avoidance ratings](http://www.iihs.org/iihs/news/desktopnews/iihs-issues-first-crash-avoidance-ratings-under-new-test-program-7-midsize-vehicles-earn-top-marks-for-front-crash-prevention)
 
-            issues first crash avoidance ratings](http://www.iihs.org/iihs/news/desktopnews/iihs-issues-first-crash-avoidance-ratings-under-new-test-program-7-midsize-vehicles-earn-top-marks-for-front-crash-prevention)
-
-## [Consumers
-
-            More Likely To Use Self-Driving Cars From Tech Cos. Over
-            Traditional Automakers](http://www.kpmg.com/US/en/IssuesAndInsights/ArticlesPublications/Press-Releases/Pages/Consumers-More-Likely-To-Use-Self-Driving-Cars-From-Tech-Cos-Over-Traditional-Automakers-KPMG-Study-Finds.aspx)
+## [Consumers More Likely To Use Self-Driving Cars From Tech Cos. Over Traditional Automakers](http://www.kpmg.com/US/en/IssuesAndInsights/ArticlesPublications/Press-Releases/Pages/Consumers-More-Likely-To-Use-Self-Driving-Cars-From-Tech-Cos-Over-Traditional-Automakers-KPMG-Study-Finds.aspx)
 
  "…The KPMG research yielded three important
           insights into when, why and how consumers might use
@@ -78,50 +64,28 @@ December 27, 2013
           moves faster than legal or regulatory systems. However, we
           believe the market opportunities for self-driving vehicles and
           technologies are enormous, and innovative companies will
-          continue to drive the technology forward."…"  [Read
-
-                the original report: Self-Driving Cars: Are We Ready](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/PDFs/KPMG_self-driving-cars-are-we-ready.pdf)?
+          continue to drive the technology forward."…"  [Read the original report: Self-Driving Cars: Are We Ready](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/PDFs/KPMG_self-driving-cars-are-we-ready.pdf)?
 
               It is another very good report from KPMG to go along with
-              their [Self-Driving
+              their [Self-Driving Cars: The Next Revolution](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/PDFs/KPMG_self-driving-cars-next-revolution.pdf)Alain
 
-                Cars: The Next Revolution](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/PDFs/KPMG_self-driving-cars-next-revolution.pdf)Alain
-
-## [Prof. Alberto
-              Broggi](http://www.ce.unipr.it/people/broggi/), Univ. of Parma [will
-              present](http://www.ieeevtc.org/vtc2013fall/plenary.php) the PROUD2013 event  on Sept 3, 2013 in Las
-            Vegas, NV,  as the plenary opening of the [IEEE
-
-              Vehicular Technology Conference](http://www.ieeevtc.org/vtc2013fall/final-program.pdf).  See the [updated
-
-              video](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Videos/PROUD_Car_Test.072013%28driverless%20car%29VisLabItaly_dualView.mp4)!
+## [Prof. Alberto Broggi](http://www.ce.unipr.it/people/broggi/), Univ. of Parma [will present](http://www.ieeevtc.org/vtc2013fall/plenary.php) the PROUD2013 event  on Sept 3, 2013 in Las
+            Vegas, NV,  as the plenary opening of the [IEEE Vehicular Technology Conference](http://www.ieeevtc.org/vtc2013fall/final-program.pdf).  See the [updated video](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Videos/PROUD_Car_Test.072013%28driverless%20car%29VisLabItaly_dualView.mp4)!
 
 Prof Broggi's
               presentation is essentially the only presentation at the
               whole conference on Smart Driving Cars.  There is a [DoT workshop](http://www.ieeevtc.org/vtc2013fall/dotworkshop.php)
 but it seems to be focused on connected vehicles and
-              one panel session on Wednesday "[Releasing
-
-              the Steering Wheel: Learning to Let the Car Drive by
-              Itself](http://www.ieeevtc.org/vtc2013fall/panels.php)"  Oh well! At least there is Alberto's talk
+              one panel session on Wednesday "[Releasing the Steering Wheel: Learning to Let the Car Drive by Itself](http://www.ieeevtc.org/vtc2013fall/panels.php)"  Oh well! At least there is Alberto's talk
               and his participation in the one panel. Alain
 
-## [Draft Final Report "Uncongested
-                Mobility for All NJ"](http://orfe.princeton.edu/%7Ealaink/NJ_aTaxiOrf467F12/ORF467F12aTaxiFinalReport.pdf)
+## [Draft Final Report "Uncongested Mobility for All NJ"](http://orfe.princeton.edu/%7Ealaink/NJ_aTaxiOrf467F12/ORF467F12aTaxiFinalReport.pdf)
 
-  [Available
+  [Available for Download (15M)](http://orfe.princeton.edu/%7Ealaink/NJ_aTaxiOrf467F12/ORF467F12aTaxiFinalReport.pdf)  [Slide Presentations (123M ppt)](http://orfe.princeton.edu/%7Ealaink/NJ_aTaxiOrf467F12/FinalPresentationsOrf467F12aTaxiNJ/aTaxi%20Presentation.pptx)
 
-            for Download (15M)](http://orfe.princeton.edu/%7Ealaink/NJ_aTaxiOrf467F12/ORF467F12aTaxiFinalReport.pdf)  [Slide
+## [If a Car's Really 'Autonomous,' Why V2X?](http://www.eetimes.com/document.asp?doc_id=1319468&)
 
-            Presentations (123M ppt)](http://orfe.princeton.edu/%7Ealaink/NJ_aTaxiOrf467F12/FinalPresentationsOrf467F12aTaxiNJ/aTaxi%20Presentation.pptx)
-
-## [If
-
-            a Car's Really 'Autonomous,' Why V2X?](http://www.eetimes.com/document.asp?doc_id=1319468&)
-
-[Junko
-
-                Yoshida](http://www.eetimes.com/document.asp?doc_id=1319468&) 9/12/2013 "...The question
+[Junko Yoshida](http://www.eetimes.com/document.asp?doc_id=1319468&) 9/12/2013 "...The question
           splitting the automotive industry now is what level of V2X
           services -- including both communication between vehicles, V2V
           (vehicle to vehicle) services, and V2I (vehicle to
@@ -139,14 +103,10 @@ but it seems to be focused on connected vehicles and
           proportion of cars on the road to realize the V2X dream, Roger
           Lanctot, associate director of Strategy Analytics, bluntly
           told me, "Bottom line, this is really not going to happen."  [Read more](http://www.eetimes.com/document.asp?doc_id=1319468&)
-          [As
-
-            well as the comment](http://www.eetimes.com/document.asp?doc_id=1319468&#msgs)s Well
+          [As well as the comment](http://www.eetimes.com/document.asp?doc_id=1319468&#msgs)s Well
               worth reading Alain
 
-# [Driverless
-              electric shuttle to be trialled in Singapore](http://www.thegreencarwebsite.co.uk/blog/index.php/2013/08/19/driverless-electric-shuttle-to-be-trialled-in-singapore/)  ([video of
-              Luxembourg Demonstration](http://www.youtube.com/watch?v=VmZHwB1GnQY&feature=player_embeddedhttp://www.youtube.com/watch?v=VmZHwB1GnQY&feature=player_embedded)) A
+# [Driverless electric shuttle to be trialled in Singapore](http://www.thegreencarwebsite.co.uk/blog/index.php/2013/08/19/driverless-electric-shuttle-to-be-trialled-in-singapore/)  ([video of Luxembourg Demonstration](http://www.youtube.com/watch?v=VmZHwB1GnQY&feature=player_embeddedhttp://www.youtube.com/watch?v=VmZHwB1GnQY&feature=player_embedded)) A
             university in Singapore is to latest to trial the world's
             first electric driverless shuttle. It's expected that the
             autonomous vehicle will soon be shuttling passengers between
@@ -174,9 +134,7 @@ but it seems to be focused on connected vehicles and
             claim…" - See more at: [http://www.motoring.co.uk/car-news/volvo-cars-now-cheaper-to-insure](http://www.motoring.co.uk/car-news/volvo-cars-now-cheaper-to-insure).
 
 July 16-19, '13
-              Stanford University, Palo Alto| [Agenda](http://www.vehicleautomation.org/program/agenda) | [Breakout
-
-                Sessions](http://www.vehicleautomation.org/program/breakouts) | [Demonstrations](http://www.vehicleautomation.org/program/demonstrations)
+              Stanford University, Palo Alto| [Agenda](http://www.vehicleautomation.org/program/agenda) | [Breakout Sessions](http://www.vehicleautomation.org/program/breakouts) | [Demonstrations](http://www.vehicleautomation.org/program/demonstrations)
 
 As
                 anticipated, the workshop was excellent.  It attracted
@@ -211,9 +169,7 @@ Among the
                 their rental car, confirming the after-market viability
                 of these technologies and demonstrating, among other
                 capabilities, the ability to readily identify [Bobby
-and
-
-                  me](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Stanford_TRB_Conf_July2013/AutonomousStuff_RecognizingAlain&BobbyCompressed.jpg).
+and me](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Stanford_TRB_Conf_July2013/AutonomousStuff_RecognizingAlain&BobbyCompressed.jpg).
 
 Of the
                 plenary presentations, the most compelling was an
@@ -323,9 +279,7 @@ A third
 
                 "low speed driverless" vehicles that operate on roadways
                 that also serve pedestrians, bicyclists and traditional
-                roadway vehicles, as was demonstrated at [La
-
-                  Rochelle](http://www.citymobil-project.eu/site/en/SP1%20La%20Rochelle.php) and will be placed in service by [CityMobile2](http://www.citymobil-project.eu/)
+                roadway vehicles, as was demonstrated at [La Rochelle](http://www.citymobil-project.eu/site/en/SP1%20La%20Rochelle.php) and will be placed in service by [CityMobile2](http://www.citymobil-project.eu/)
 
 Between
                 these two extremes lies the "Level 4" transit
@@ -350,11 +304,7 @@ Between
                 Friday morning session on Emerging trends in Public
                 Transportation and Vehicle Automation I presented my
                 results on the conceptual implementation of aTaxi
-                service throughout New Jersey, ["Smart Driving
-                      Cars: Transit
-
-                        Opportunity of NHTSA Level 4 Driverless
-                        Vehicles"](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Stanford_TRB_Conf_July2013/TRB_AutomationWorkshop_Stanford_071513a.pdf).  I focused on
+                service throughout New Jersey, ["Smart Driving Cars: Transit Opportunity of NHTSA Level 4 Driverless Vehicles"](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Stanford_TRB_Conf_July2013/TRB_AutomationWorkshop_Stanford_071513a.pdf).  I focused on
                 the shared-ride opportunities that such a system could
                 capture as it served the 32+ million trips that are
                 taken in NJ on a typical weekday. 2+ million of the
@@ -371,11 +321,9 @@ Between
                 while delivering excellent mobility at reduced energy
                 and environmental consequences.
 
-# [Releases Policy on
-              Automated Vehicle Development](http://www.nhtsa.gov/About+NHTSA/Press+Releases/U.S.+Department+of+Transportation+Releases+Policy+on+Automated+Vehicle+Development)
+# [Releases Policy on Automated Vehicle Development](http://www.nhtsa.gov/About+NHTSA/Press+Releases/U.S.+Department+of+Transportation+Releases+Policy+on+Automated+Vehicle+Development)
 
- [NHTSA Preliminary Statement of
-                Policy Re: Automated Vehicles](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Automated_Vehicles_Policy.pdf) [http://orfe.princeton.edu/~alaink/SmartDrivingCars/Automated_Vehicles_Policy.pdf](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Automated_Vehicles_Policy.pdf) contains the details of this preliminary
+ [NHTSA Preliminary Statement of Policy Re: Automated Vehicles](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Automated_Vehicles_Policy.pdf) [http://orfe.princeton.edu/~alaink/SmartDrivingCars/Automated_Vehicles_Policy.pdf](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Automated_Vehicles_Policy.pdf) contains the details of this preliminary
               policy.  I highly
               recommend that you read it.
               My interpretation is as follows:
@@ -400,7 +348,7 @@ Between
                 otherwise have resulted in a crash.
               I have 6 more points at: [http://orfe.princeton.edu/~alaink/SmartDrivingCars/CommentOnNHTSA_PrelimStatement.pdf](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/CommentOnNHTSA_PrelimStatement.pdf)
 
-### [](http://www.marketwatch.com/story/continental-and-bmw-group-working-together-to-develop-freeway-grade-highly-automated-driving-2013-02-26)Continental
+### Continental
 
               and BMW Group Working Together to Develop Freeway-Grade
               Highly Automated Driving
@@ -442,12 +390,9 @@ This
                       quality advantage and which strikes not at the
                       margins of the profits and the outputs of the
                       existing firms but at their foundations and their
-                      very lives." [Joseph
+                      very lives." [Joseph A Shumpeter](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Images/Joseph%20A%20Shumpeter%20.png) [(1883-1950)](http://en.wikipedia.org/wiki/Joseph_Schumpeter)
 
-                      A Shumpeter](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Images/Joseph%20A%20Shumpeter%20.png) [(1883-1950)](http://en.wikipedia.org/wiki/Joseph_Schumpeter)
-
-## [Chunka
-              Mui](http://blogs.forbes.com/chunkamui/), Contributor  Forbes Magazine: 1/30/13:[http://www.forbes.com/sites/chunkamui/2013/01/30/googles-trillion-dollar-driverless-car-part-3-sooner-than-you-think](http://www.forbes.com/sites/chunkamui/2013/01/30/googles-trillion-dollar-driverless-car-part-3-sooner-than-you-think/)
+## [Chunka Mui](http://blogs.forbes.com/chunkamui/), Contributor  Forbes Magazine: 1/30/13:[http://www.forbes.com/sites/chunkamui/2013/01/30/googles-trillion-dollar-driverless-car-part-3-sooner-than-you-think](http://www.forbes.com/sites/chunkamui/2013/01/30/googles-trillion-dollar-driverless-car-part-3-sooner-than-you-think/)
 
 Comments
 
@@ -490,20 +435,13 @@ Comments
  Called-out comment
 
 ## [The
-future
+future of the car :Clean, safe and it drives itself](http://www.economist.com/news/leaders/21576384-cars-have-already-changed-way-we-live-they-are-likely-do-so-again-clean-safe-and-it?bclid=0&bctid=2310309414001)
 
-            of the car :Clean,
-
-              safe and it drives itself](http://www.economist.com/news/leaders/21576384-cars-have-already-changed-way-we-live-they-are-likely-do-so-again-clean-safe-and-it?bclid=0&bctid=2310309414001)
-
-[Milan opens its first
-                driverless metroline](http://cl.publicaster.com/ClickThru.aspx?pubids=0895%7c60580%7c01246%7c346&digest=jVPI3FX1uMUdF4pbfOLdUA&sysid=1)
+[Milan opens its first driverless metroline](http://cl.publicaster.com/ClickThru.aspx?pubids=0895%7c60580%7c01246%7c346&digest=jVPI3FX1uMUdF4pbfOLdUA&sysid=1)
 
 [http://cl.publicaster.com/ClickThru.aspx?pubids=0895%7c60580%7c01246%7c346&digest=jVPI3FX1uMUdF4pbfOLdUA&sysid=1](http://cl.publicaster.com/ClickThru.aspx?pubids=0895%7c60580%7c01246%7c346&digest=jVPI3FX1uMUdF4pbfOLdUA&sysid=1)
 
-            European Update:  [Workshop:
-
-              Automation in Road Transport](http://www.icarsupport.eu/events/workshop-automation-in-road-transport)  (contains
+            European Update:  [Workshop: Automation in Road Transport](http://www.icarsupport.eu/events/workshop-automation-in-road-transport)  (contains
 
               links to participants & presentations)
 
@@ -524,21 +462,17 @@ future
                 involved in an accident), other 3rd parties
                 absorb 14% ($185), the Federal treasury absorbs 6% ($80)
                 and local municipalities 4% ($50).  Google's simulation
-                of the operation of its self-driving car on the [range
-
-                  of real crash scenarios](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/NHTSA_Pre-CrashSenarioTypologyforCrashAvoidanceResearch_DOT_HS_810_767_April_2007.pdf) resulted
+                of the operation of its self-driving car on the [range of real crash scenarios](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/NHTSA_Pre-CrashSenarioTypologyforCrashAvoidanceResearch_DOT_HS_810_767_April_2007.pdf) resulted
                 in a forecast of 81% fewer fatalities and 65% fewer
                 injuries.  This
                 substantial reduction in car crashes would save in the
-                US [$183
-                  billion annually](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/LiabilitySavingsPerGoogleCar.pdf). Moreover,
+                US [$183 billion annually](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/LiabilitySavingsPerGoogleCar.pdf). Moreover,
                 these safety improvements would be enjoyed
                 proportionally by each owner/user of a Google car.   Thus, the insurer
                 of the average licensed driver switching to a "Google
                 car"  could
                 expect to reduce its pass-through liabilities by an
-                average of [$475
-                  per year](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/LiabilitySavingsPerGoogleCar.pdf).    Since these are
+                average of [$475 per year](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/LiabilitySavingsPerGoogleCar.pdf).    Since these are
                 simply pass-though dollars, one could expect that an
                 insurance price-leader might readily offer discounts of
                 up to, say, $450, keeping the expected remaining $25 for
@@ -561,9 +495,7 @@ The $450
                 option".  While
                 jam-assist doesn't have all of the features of a Google
                 car, it may be able to capture as much as two-thirds of
-                the safety benefits through the [collisions
-
-                  that jam-assist can be expected to avoid](http://www.youtube.com/watch?feature=player_detailpage&v=5XXypu3dVPM) during the car's lifetime. If so
+                the safety benefits through the [collisions that jam-assist can be expected to avoid](http://www.youtube.com/watch?feature=player_detailpage&v=5XXypu3dVPM) during the car's lifetime. If so
                 proven, then the $300 discount that Flo, or the Gecko,
                 or Good Hands or the General or some other insuer can
                 readily offer would essentially finance this  $3,000 safety
@@ -587,8 +519,7 @@ The $450
 
 Going all
                 the way with Google Cars (or even just two thirds of the
-                way with "jam-assist") would mean for [New
-                  Jersey](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/LiabilitySavingsPerGoogleCar.pdf) an annual avoidance of 500 (340)
+                way with "jam-assist") would mean for [New Jersey](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/LiabilitySavingsPerGoogleCar.pdf) an annual avoidance of 500 (340)
                 fatalities and 28,000 (19,000) injuries "valued" at
                 $3.55 ($2.38) Billion per year.
 
@@ -627,9 +558,7 @@ We MUST make this happen.  Everybody
                 importantly, if the driver fails to apply sufficient
                 brake force, the technology will tighten the seat belts
                 and [automatically
-increase
-
-                  the brake force](http://www.youtube.com/watch?v=5XXypu3dVPM8) to avoid, or at least
+increase the brake force](http://www.youtube.com/watch?v=5XXypu3dVPM8) to avoid, or at least
                 reduce the severity, of the collision.  It is imperative that each of
                 us do all we can to accelerate the availability and
                 market acceptance of these technologies so that we can
@@ -641,17 +570,11 @@ increase
 
 # The Best Videos of 2013
 
-### [](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Videos/Subaru%20EyeSight_Commercial60secCrashTest.mp4) [Subaru:
+###  [Subaru: Crash Test](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Videos/Subaru%20EyeSight_Commercial60secCrashTest.mp4)
 
-            Crash Test](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Videos/Subaru%20EyeSight_Commercial60secCrashTest.mp4)
+###  [VisLab.IT PROUD 2013 Self-Driving Video](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Videos/PROUD_Car_Test.072013%28driverless%20car%29VisLabItaly_dualView.mp4)
 
-### [](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Videos/PROUD_Car_Test.072013%28driverless%20car%29VisLabItaly_dualView.mp4) [VisLab.IT
-
-            PROUD 2013 Self-Driving Video](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Videos/PROUD_Car_Test.072013%28driverless%20car%29VisLabItaly_dualView.mp4)
-
-[](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Videos/MB_%20WorldPremiereINTELLIGENT_DRIVE%20_Frankfurt2013.mp4) [Video:
-
-            World Premier INTELLIGENT DRIVE](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Videos/MB_%20WorldPremiereINTELLIGENT_DRIVE%20_Frankfurt2013.mp4)
+ [Video: World Premier INTELLIGENT DRIVE](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Videos/MB_%20WorldPremiereINTELLIGENT_DRIVE%20_Frankfurt2013.mp4)
 
 This is how Daimler chose to spend a
             substantial amount of money to introduce its automotive
@@ -659,17 +582,13 @@ This is how Daimler chose to spend a
             2013. They must believe that consumers are ready to spend
             money on Smart Driving Cars.  Alain
 
-### [S 500 MB Intelligent
-            Drive (Self-Driving) TV footage](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Videos/MB_%20AutonomousLong-distanceDrive.mp4)
+### [S 500 MB Intelligent Drive (Self-Driving) TV footage](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Videos/MB_%20AutonomousLong-distanceDrive.mp4)
 
-### [](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Videos/2014MB_%20S-Class_IntelligentDrive.mp4)[Video Describing MB Intelligent Drive Feature :](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Videos/2014MB_%20S-Class_IntelligentDrive.mp4)
+### [Video Describing MB Intelligent Drive Feature :](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Videos/2014MB_%20S-Class_IntelligentDrive.mp4)
 
-### [](http://www.youtube.com/watch?v=_LRuqrnXBM8&feature=player_detailpage#t=421) [2014
+###  [2014 Mercedes Benz S-Class Collision-Avoidance Testing  Video](http://www.youtube.com/watch?v=_LRuqrnXBM8&feature=player_detailpage#t=421)
 
-            Mercedes Benz S-Class Collision-Avoidance Testing  Video](http://www.youtube.com/watch?v=_LRuqrnXBM8&feature=player_detailpage#t=421)
-
-### [](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Videos/2014%20E-Class%20Commercial%20--%20Hard%20to%20Imagine%20--%20Mercedes-Benz.mp4) [Mercedes "Hard to
-                Imagine" Commercial.](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Videos/2014%20E-Class%20Commercial%20--%20Hard%20to%20Imagine%20--%20Mercedes-Benz.mp4) I watch little TV, but I am pleased that
+###  [Mercedes "Hard to Imagine" Commercial.](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Videos/2014%20E-Class%20Commercial%20--%20Hard%20to%20Imagine%20--%20Mercedes-Benz.mp4) I watch little TV, but I am pleased that
                 Mercedes continues to hit prime spots with this
                 ground-breaking commercial.  NBC had it right
                 after the running of the Kentucky Derby and it aired
@@ -678,14 +597,11 @@ This is how Daimler chose to spend a
                 the Daily Show.  They
                 must be seeing traction.
 
-[](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Videos/MB_Clown_Commercial.mp4)[](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Videos/MB_Clown_Commercial.mp4)["Clown" Commercial](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Videos/MB_Clown_Commercial.mp4)
+["Clown" Commercial](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Videos/MB_Clown_Commercial.mp4)
 
-### [](file:///C:/Users/alaink/Pictures/2012-12-05%20AlainSignature/v)[Volvo
-                Truck Emergency Braking](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Videos/Volvo%20Trucks%20-%20Emergency%20braking%20at%20its%20best%21.mp4)
+### [Volvo Truck Emergency Braking](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Videos/Volvo%20Trucks%20-%20Emergency%20braking%20at%20its%20best%21.mp4)
 
-### [](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Videos/MB_Commercial_Grim_Reaper.mp4) [Grim
-
-            Reaper](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Videos/MB_Commercial_Grim_Reaper.mp4)
+###  [Grim Reaper](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Videos/MB_Commercial_Grim_Reaper.mp4)
 
 ###
 
@@ -694,10 +610,9 @@ This is how Daimler chose to spend a
 # Calendar of Upcoming
             Events:
 
-## [](http://www.trb.org/main/blurbs/169728.aspx)
+## 
 
-## [2014 TRB
-            93rd Annual Meeting](http://www.trb.org/main/blurbs/169728.aspx)
+## [2014 TRB 93rd Annual Meeting](http://www.trb.org/main/blurbs/169728.aspx)
 
 ### January 12-16, 2014
 
@@ -705,9 +620,7 @@ This is how Daimler chose to spend a
 
 ## 42nd Annual Princeton
           University Transportation
-          Program [Reunion
-
-              Banquet](http://orfe.princeton.edu/%7Ealaink/TRB%2714/TRB%2714_Invite.pdf)
+          Program [Reunion Banquet](http://orfe.princeton.edu/%7Ealaink/TRB%2714/TRB%2714_Invite.pdf)
 
 ### January 14, 2014
 
@@ -719,34 +632,22 @@ This is how Daimler chose to spend a
 
             December 20, 2013
 
-## [](http://www.amazon.com/The-New-Killer-Apps-Out-Innovate/dp/0989242013/ref=sr_1_1?ie=UTF8&qid=1387553143&sr=8-1&keywords=The+New+Killer+Apps+Mui) ["The
-
-          New Killer Apps](http://www.amazon.com/The-New-Killer-Apps-Out-Innovate/dp/0989242013/ref=sr_1_1?ie=UTF8&qid=1387553143&sr=8-1&keywords=The+New+Killer+Apps+Mui)
+##  ["The New Killer Apps](http://www.amazon.com/The-New-Killer-Apps-Out-Innovate/dp/0989242013/ref=sr_1_1?ie=UTF8&qid=1387553143&sr=8-1&keywords=The+New+Killer+Apps+Mui)
 
 How Large Companies Can Out-Innovate Start-Ups"
-by Chunka Mui and Paul B. Carroll [Now
-
-          Available](http://www.amazon.com/The-New-Killer-Apps-Out-Innovate/dp/0989242013/ref=sr_1_1?ie=UTF8&qid=1387553143&sr=8-1&keywords=The+New+Killer+Apps+Mui) [Highly
-
-            Recommended.](https://www.kirkusreviews.com/book-reviews/chunka-mui/the-new-killer-apps/?utm_content=buffer57917&utm_source=buffer&utm_medium=twitter&utm_campaign=Buffer)See also Chunka's Dec. 19 Forbes article
-          [Will
-
-              The Google Car Force A Choice Between Lives And Jobs?](http://www.forbes.com/sites/chunkamui/2013/12/19/will-the-google-car-force-a-choice-between-lives-and-jobs/)   My my question would be: what happened to
+by Chunka Mui and Paul B. Carroll [Now Available](http://www.amazon.com/The-New-Killer-Apps-Out-Innovate/dp/0989242013/ref=sr_1_1?ie=UTF8&qid=1387553143&sr=8-1&keywords=The+New+Killer+Apps+Mui) [Highly Recommended.](https://www.kirkusreviews.com/book-reviews/chunka-mui/the-new-killer-apps/?utm_content=buffer57917&utm_source=buffer&utm_medium=twitter&utm_campaign=Buffer)See also Chunka's Dec. 19 Forbes article
+          [Will The Google Car Force A Choice Between Lives And Jobs?](http://www.forbes.com/sites/chunkamui/2013/12/19/will-the-google-car-force-a-choice-between-lives-and-jobs/)   My my question would be: what happened to
           all of he elevator operators that had "good" jobs.  One still
           exists at Tiffany, but the others? "Manhattans" are
               better today because of the elevator's automation
-          .  See also the comments, especially [Dick
-
-            Mudge's](http://www.forbes.com/sites/chunkamui/2013/12/19/will-the-google-car-force-a-choice-between-lives-and-jobs/3/).  I might add that his observation of
+          .  See also the comments, especially [Dick Mudge's](http://www.forbes.com/sites/chunkamui/2013/12/19/will-the-google-car-force-a-choice-between-lives-and-jobs/3/).  I might add that his observation of
           "...universal use of GPS." likely caused a significant loss of
           jobs at paper map companies such as Rand-McNally (at one time,
           one of the most-recognized brand name) but the created many
           better jobs at places such as[ALK.](http://alk.com/)
           :-)  Alain
 
-## [Application
-
-          of Autonomous Driving Technology to Transit](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Presentations/LutinKornhauser_ITS-NJ_2013AnnualMtg_wURL.pdf)
+## [Application of Autonomous Driving Technology to Transit](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Presentations/LutinKornhauser_ITS-NJ_2013AnnualMtg_wURL.pdf)
 
  Presentation by Jerome Lutin and Alain
         Kornhauser at 2013 Annual meeting of ITS-NewJersey @ Met Life
@@ -760,11 +661,9 @@ by Chunka Mui and Paul B. Carroll [Now
 
             December 1, 2013
 
-## [Amazon's
+## [Amazon's Jeff Bezos'86 looks to the future](http://www.cbsnews.com/news/amazons-jeff-bezos-looks-to-the-future/)
 
-          Jeff Bezos'86 looks to the future](http://www.cbsnews.com/news/amazons-jeff-bezos-looks-to-the-future/)
-
-  [](Mailto:alaink@princeton.edu)[Mailto:alaink@princeton.edu](Mailto:alaink@princeton.edu)[](Mailto:alaink@princeton.edu)
+  [Mailto:alaink@princeton.edu](Mailto:alaink@princeton.edu)
 
 --
 
@@ -774,9 +673,7 @@ by Chunka Mui and Paul B. Carroll [Now
 
       ***************************************************************************************************************
 
-      This list is maintained by [Alain
-
-        Kornhauser](mailto:alaink@princeton.edu) and hosted by the [Princeton University LISTSERV](http://lists.princeton.edu).
+      This list is maintained by [Alain Kornhauser](mailto:alaink@princeton.edu) and hosted by the [Princeton University LISTSERV](http://lists.princeton.edu).
 
 [Unsubscribe](https://lists.princeton.edu/cgi-bin/wa?TICKET=NzM1MjMzIGJpbm9AUFJJTkNFVE9OLkVEVSBTTUFSVERSSVZJTkdDQVJTIGluYtYkJuu3&c=SIGNOFF)
       | [Re-subscribe](https://lists.princeton.edu/cgi-bin/wa?TICKET=NzM1MjMzIGJpbm9AUFJJTkNFVE9OLkVEVSBTTUFSVERSSVZJTkdDQVJTIGluYtYkJuu3&c=SIGNUP)

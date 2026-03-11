@@ -19,7 +19,7 @@ There is talk about enabling legislation that may or may not be necessary. Fine,
 
 [Link to segment in ZoomCast 261.](https://youtu.be/oj7QjsR6dL0?t=2402) Alain
 
-### [](https://www.youtube.com/watch?v=oj7QjsR6dL0)
+### 
 
 ### SmartDrivingCars [ZoomCast Episode 2](https://www.youtube.com/watch?v=oj7QjsR6dL0) [PodCast 2](https://anchor.fm/smartdrivingcars/episodes/Smart-Driving-Cars-Episode-261-with-Sven-Beiker-and-Dick-Mudge-e1g8d4g) w/ [Sven Beiker](https://www.linkedin.com/in/svenbeiker) & [Dick Mudge](https://www.linkedin.com/in/richard-mudge-12620a1)
 

@@ -16,16 +16,13 @@ edition of the 11th year of SmartDrivingCars eLetter
 
 H. Li, July 27, "Barry Taranto doesn't feel any immediate threat to his livelihood from the rise of the driverless car. But this long-time San Francisco taxi driver is still angry that they exist.
 
-As a board member of the San Francisco Taxi Workers Alliance, Taranto has been [an
- outspoken critic of Uber and Lyft](https://www.sfgate.com/travel/article/Uber-Flywheel-taxi-partner-in-SF-17064430.php). But now, he finds himself again besieged by brand-new technology on the road.
+As a board member of the San Francisco Taxi Workers Alliance, Taranto has been [an outspoken critic of Uber and Lyft](https://www.sfgate.com/travel/article/Uber-Flywheel-taxi-partner-in-SF-17064430.php). But now, he finds himself again besieged by brand-new technology on the road.
 
 "The city is a mess," Taranto said. "Adding these autonomous vehicles is going to cause more congestion."
 
-As part of The Standard's series on the [rising trend of driverless
- cars in San Francisco](https://sfstandard.com/2023/07/24/waymo-cruise-robotaxi-autonomous-vehicle-san-francisco/), we took Taranto on a ride—his first—to see what he thought about the experience.
+As part of The Standard's series on the [rising trend of driverless cars in San Francisco](https://sfstandard.com/2023/07/24/waymo-cruise-robotaxi-autonomous-vehicle-san-francisco/), we took Taranto on a ride—his first—to see what he thought about the experience.
 
-As part of The Standard's series on the [rising trend of driverless
- cars in San Francisco](https://sfstandard.com/2023/07/24/waymo-cruise-robotaxi-autonomous-vehicle-san-francisco/), we took Taranto on a ride—his first—to see what he thought about the experience.  …  here we go again, Han is trying to sabotage Waymo & Cruise again.  So sad!...
+As part of The Standard's series on the [rising trend of driverless cars in San Francisco](https://sfstandard.com/2023/07/24/waymo-cruise-robotaxi-autonomous-vehicle-san-francisco/), we took Taranto on a ride—his first—to see what he thought about the experience.  …  here we go again, Han is trying to sabotage Waymo & Cruise again.  So sad!...
 
 "I'm interested to see how this particular vehicle handles different situations," he told The Standard, "especially during the daytime." …
 

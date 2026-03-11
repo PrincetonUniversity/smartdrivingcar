@@ -7,10 +7,7 @@ permalink: /2016-03-12-2016-03-12/
 
 SmartDrivingCars-????-021816
 
-### [GM
-
-                      Buying Self-Driving Tech Startup for More Than $1
-                      Billion](http://fortune.com/2016/03/11/gm-buying-self-driving-tech-startup-for-more-than-1-billion/)
+### [GM Buying Self-Driving Tech Startup for More Than $1 Billion](http://fortune.com/2016/03/11/gm-buying-self-driving-tech-startup-for-more-than-1-billion/)
 
 D. Patrick Mar 11,"General Motors  GM 1.43%  this
                     morning announced that it will acquire Cruise
@@ -26,23 +23,11 @@ D. Patrick Mar 11,"General Motors  GM 1.43%  this
                     planning to raise a new round of venture capital
                     funding. But that quickly morphed into an
                     acquisition discussion with the entire agreement
-                    getting hashed out in less than six weeks. [Read
-
-                      more](http://fortune.com/2016/03/11/gm-buying-self-driving-tech-startup-for-more-than-1-billion/)Hmmmm...That
-                        sets the bar.  Reminiscent of [AOL
-
-                          paying $1.1B for MapQuest](http://www.ecommercetimes.com/story/2068.html) resulting in [NavTeq
-                          getting $8.1B from Nokia](http://mashable.com/2007/10/01/nokia-navteq/#CnEKJL0cUOqM) followed by [Here
-
-                          getting $3B from MB et al](http://mashable.com/2007/10/01/nokia-navteq/#CnEKJL0cUOqM).  [Deja
-
-                          vu all over again!](http://yogiberramuseum.org/just-for-fun/yogisms/)  Very interesting  :-)
+                    getting hashed out in less than six weeks. [Read more](http://fortune.com/2016/03/11/gm-buying-self-driving-tech-startup-for-more-than-1-billion/)Hmmmm...That
+                        sets the bar.  Reminiscent of [AOL paying $1.1B for MapQuest](http://www.ecommercetimes.com/story/2068.html) resulting in [NavTeq getting $8.1B from Nokia](http://mashable.com/2007/10/01/nokia-navteq/#CnEKJL0cUOqM) followed by [Here getting $3B from MB et al](http://mashable.com/2007/10/01/nokia-navteq/#CnEKJL0cUOqM).  [Deja vu all over again!](http://yogiberramuseum.org/just-for-fun/yogisms/)  Very interesting  :-)
                         Alain
 
-### [Primers
-
-                      On The Business Innovation And Disruption Enabled
-                      By Driverless Cars](http://www.forbes.com/sites/chunkamui/2016/03/10/primers-on-driverless/#58cf1352170a)
+### [Primers On The Business Innovation And Disruption Enabled By Driverless Cars](http://www.forbes.com/sites/chunkamui/2016/03/10/primers-on-driverless/#58cf1352170a)
 
 C. Mui, Mar 10, ""Baloney" and "nonsense" captured
                     the zeitgeist of many reactions to my early articles
@@ -56,16 +41,12 @@ C. Mui, Mar 10, ""Baloney" and "nonsense" captured
                     compendium of my articles on the business and
                     societal innovation and disruption enabled by
                     driverless cars. Happy reading, and I'd welcome your
-                    comments. [Read
-
-                      more and Comment](http://www.forbes.com/sites/chunkamui/2016/03/10/primers-on-driverless/#58cf1352170a)  Hmmmm...23
+                    comments. [Read more and Comment](http://www.forbes.com/sites/chunkamui/2016/03/10/primers-on-driverless/#58cf1352170a)  Hmmmm...23
 
                         of Chunka's visionary articles are linked.  He's
                         be right on! :-)  Alain
 
-### [Driverless
-
-                      Trucks - Background and views on Truck Platooning](https://www.trucklocator.co.uk/hub/driverless-trucks-platooning-news/)
+### [Driverless Trucks - Background and views on Truck Platooning](https://www.trucklocator.co.uk/hub/driverless-trucks-platooning-news/)
 
 Mar 2016, "The correct term for the proposed system
                     to be trialled is not 'driverless trucks', but
@@ -76,9 +57,7 @@ Mar 2016, "The correct term for the proposed system
                     a limited trial of platooning on a stretch of the M6
                     in Cumbria, a portion of UK motorway that is
                     relatively quiet with larger sections between
-                    junctions...." [Read
-
-                      more](https://www.trucklocator.co.uk/hub/driverless-trucks-platooning-news/)Hmmmm...I hear
+                    junctions...." [Read more](https://www.trucklocator.co.uk/hub/driverless-trucks-platooning-news/)Hmmmm...I hear
                         the arguments about truck platooning; however,
                         the value of platooning can only be captured if
                         there is a substantive chance that vehicles so
@@ -89,11 +68,9 @@ Mar 2016, "The correct term for the proposed system
                         of their daily travels:  The 3,000 buses in
                         trans-Hudson service!  Alain
 
-### [Exclusive - At
-                      100, BMW sees radical new future in world of
-                      driverless cars](http://mobile.reuters.com/article/idUSKCN0W60HP)
+### [Exclusive - At 100, BMW sees radical new future in world of driverless cars](http://mobile.reuters.com/article/idUSKCN0W60HP)
 
-### [](http://www.st.com/web/en/press/p3809)
+### 
 
 E. Taylor, Mar 4, "After a century building what it
                     calls the "ultimate driving machine", BMW is
@@ -104,15 +81,11 @@ E. Taylor, Mar 4, "After a century building what it
                     plans for a completely overhauled company, where
                     half the R&D staff will be computer programmers,
                     competing with the likes of Google parent Alphabet
-                    to build the brains for self-driving cars...." [Read
-
-                      more](http://mobile.reuters.com/article/idUSKCN0W60HP) Hmmmm...BMW
+                    to build the brains for self-driving cars...." [Read more](http://mobile.reuters.com/article/idUSKCN0W60HP) Hmmmm...BMW
                         finally becoming "The Ultimate Riding
                         Machine"?!?!  Yeah!!!. Alain
 
-### [Sergio
-
-                      Marchionne Wants Fiat to Build an Apple Car](http://www.bloomberg.com/news/articles/2016-03-02/-apple-freak-marchionne-keen-on-fiat-building-tech-giant-s-car)
+### [Sergio Marchionne Wants Fiat to Build an Apple Car](http://www.bloomberg.com/news/articles/2016-03-02/-apple-freak-marchionne-keen-on-fiat-building-tech-giant-s-car)
 
 Mar 2, "Fiat Chrysler Automobiles NV Chief
                     Executive Officer Sergio Marchionne, who describes
@@ -124,17 +97,12 @@ Mar 2, "Fiat Chrysler Automobiles NV Chief
                     established manufacturer than trying to build a car
                     on its own, and the Italian-American company would
                     be well-suited, according to Marchionne, who says he
-                    owns every kind of product Apple makes...." [Read
-
-                      more](http://www.bloomberg.com/news/articles/2016-03-02/-apple-freak-marchionne-keen-on-fiat-building-tech-giant-s-car) Hmmmm...The
+                    owns every kind of product Apple makes...." [Read more](http://www.bloomberg.com/news/articles/2016-03-02/-apple-freak-marchionne-keen-on-fiat-building-tech-giant-s-car) Hmmmm...The
 
                         500 already looks like a Google car so there'll
                         be no infringement by Apple. Go for it!  Alain
 
-### [Baidu
-
-                      Joins Geely Urging China to Hasten
-                      Autonomous-Driving Law](http://www.bloomberg.com/news/articles/2016-03-03/baidu-joins-geely-urging-china-to-hasten-autonomous-driving-law)
+### [Baidu Joins Geely Urging China to Hasten Autonomous-Driving Law](http://www.bloomberg.com/news/articles/2016-03-03/baidu-joins-geely-urging-china-to-hasten-autonomous-driving-law)
 
                   Mar 2, "The chairmen of Internet search provider Baidu
                   Inc. and automaker Zhejiang Geely Holding Group Co.
@@ -148,15 +116,11 @@ Mar 2, "Fiat Chrysler Automobiles NV Chief
                   attract investment. China's carmakers and tech
                   companies are competing in the space with the likes of
                   Google Inc. in the U.S., Daimler AG in Germany and
-                  Nissan Motor Co. in Japan....." [Read
-
-                    more](http://www.bloomberg.com/news/articles/2016-03-03/baidu-joins-geely-urging-china-to-hasten-autonomous-driving-law) Hmmmm...Yup!
+                  Nissan Motor Co. in Japan....." [Read more](http://www.bloomberg.com/news/articles/2016-03-03/baidu-joins-geely-urging-china-to-hasten-autonomous-driving-law) Hmmmm...Yup!
 
                       Go for it!. Alain
 
-### S[tartup
-
-                      trials autonomous delivery robots in Greenwich](http://www.computerweekly.com/news/4500278343/Startup-trials-autonomous-delivery-robots-in-Greenwich)
+### S[tartup trials autonomous delivery robots in Greenwich](http://www.computerweekly.com/news/4500278343/Startup-trials-autonomous-delivery-robots-in-Greenwich)
 
                   A. Scroxton, "Starship Technologies, a supplier of
                   autonomous robotics technology, has secured permission
@@ -175,18 +139,11 @@ Mar 2, "Fiat Chrysler Automobiles NV Chief
                   Its six-wheeled robots generate zero carbon emissions
                   and move around without human input for most of the
                   time – but they are monitored by human controllers,
-                  who can take the reins if they need to...[Read
+                  who can take the reins if they need to...[Read more](http://www.computerweekly.com/news/4500278343/Startup-trials-autonomous-delivery-robots-in-Greenwich)Hmmmm...Seems
+                      more promising than [Amazon's drones](https://www.yahoo.com/tech/exclusive-amazon-reveals-details-about-1343951725436982.html). Alain
 
-                    more](http://www.computerweekly.com/news/4500278343/Startup-trials-autonomous-delivery-robots-in-Greenwich)Hmmmm...Seems
-                      more promising than [Amazon's
-
-                        drones](https://www.yahoo.com/tech/exclusive-amazon-reveals-details-about-1343951725436982.html). Alain
-
-### [](http://www.bloomberg.com/news/articles/2016-03-03/baidu-joins-geely-urging-china-to-hasten-autonomous-driving-law)
-[Hi-Res
-
-                      3D Flash LIDAR will supplement Continental's
-                      existing portfolio for automated driving](http://www.continental-corporation.com/www/pressportal_us_en/themes/press-releases-us/3_automotive_group/chassis_safety/pr_2016_03_03_flash_lidar_en.html)
+### 
+[Hi-Res 3D Flash LIDAR will supplement Continental's existing portfolio for automated driving](http://www.continental-corporation.com/www/pressportal_us_en/themes/press-releases-us/3_automotive_group/chassis_safety/pr_2016_03_03_flash_lidar_en.html)
 
                   Press Release, Mar 3, "...acquisition of the Hi-Res 3D
                   Flash LIDAR business from Advanced Scientific
@@ -196,33 +153,23 @@ Mar 2, "Fiat Chrysler Automobiles NV Chief
                   Systems product portfolio with a future-orientated
                   solution to add to the group of surrounding sensors
                   needed to achieve highly and fully automated
-                  driving...."[Read
-
-                    more](http://www.continental-corporation.com/www/pressportal_us_en/themes/press-releases-us/3_automotive_group/chassis_safety/pr_2016_03_03_flash_lidar_en.html) Hmmmm...Maybe...In the
+                  driving...."[Read more](http://www.continental-corporation.com/www/pressportal_us_en/themes/press-releases-us/3_automotive_group/chassis_safety/pr_2016_03_03_flash_lidar_en.html) Hmmmm...Maybe...In the
                           end, this technology gets dominated by vision
                           (and acoustics).  Continental
-                      should have saved its money?   See [Wired
-
-                        article](http://www.wired.com/2016/01/in-a-huge-breakthrough-googles-ai-beats-a-top-player-at-the-game-of-go/) below.  Just stirring the pot
+                      should have saved its money?   See [Wired article](http://www.wired.com/2016/01/in-a-huge-breakthrough-googles-ai-beats-a-top-player-at-the-game-of-go/) below.  Just stirring the pot
                       with my expectation. Alain
 
-### [Anthony
-
-                      Foxx: Grit Goes Further Than Genius](http://www.nytimes.com/2016/03/13/business/anthony-foxx-grit-goes-further-than-genius.html?ref=business)
+### [Anthony Foxx: Grit Goes Further Than Genius](http://www.nytimes.com/2016/03/13/business/anthony-foxx-grit-goes-further-than-genius.html?ref=business)
 
 A Bryant, Mar 11, "This interview with Anthony
                     Foxx, United States transportation secretary, was
-                    conducted and condensed by Adam Bryant...."  [Read
-
-                      more](http://www.nytimes.com/2016/03/13/business/anthony-foxx-grit-goes-further-than-genius.html?ref=business)  Hmmmm...
+                    conducted and condensed by Adam Bryant...."  [Read more](http://www.nytimes.com/2016/03/13/business/anthony-foxx-grit-goes-further-than-genius.html?ref=business)  Hmmmm...
                         Enlightening!  Alain
 
 ## Some other
                       thoughts that deserve your attention
 
-### [Long-Haul
-
-                      Sweatshops](http://www.nytimes.com/2016/03/09/opinion/long-haul-sweatshops.html?ref=opinion)
+### [Long-Haul Sweatshops](http://www.nytimes.com/2016/03/09/opinion/long-haul-sweatshops.html?ref=opinion)
 
                   A. Balay, Mar 9,  "...A big part of the problem is
                   that when it comes to long-haul trucking, the
@@ -243,10 +190,7 @@ A Bryant, Mar 11, "This interview with Anthony
                       substantive reduction in expected liability
                       exposure (expected loss). Alain
 
-### [In
-
-                      a Huge Breakthrough, Google's AI Beats a Top
-                      Player at the Game of Go](http://www.wired.com/2016/01/in-a-huge-breakthrough-googles-ai-beats-a-top-player-at-the-game-of-go/)
+### [In a Huge Breakthrough, Google's AI Beats a Top Player at the Game of Go](http://www.wired.com/2016/01/in-a-huge-breakthrough-googles-ai-beats-a-top-player-at-the-game-of-go/)
 
                   C. Mets, Jan 27 "...In a major breakthrough for
                   artificial intelligence, a computing system developed
@@ -260,42 +204,24 @@ A Bryant, Mar 11, "This interview with Anthony
                           approach to the cognitive aspects
                       of autonomous driving.  Update: the DeepMind
                       software has beat an even better player in their
-                      first match:[Master of Go Board Game Is Walloped by Google
-                        Computer Program](http://www.nytimes.com/2016/03/10/world/asia/google-alphago-lee-se-dol.html?ref=technology), and their 2nd match: [Google's
+                      first match:[Master of Go Board Game Is Walloped by Google Computer Program](http://www.nytimes.com/2016/03/10/world/asia/google-alphago-lee-se-dol.html?ref=technology), and their 2nd match: [Google's DeepMind beats Lee Se-dol again to go 2-0 up in historic Go series](http://www.theverge.com/2016/3/10/11191184/lee-sedol-alphago-go-deepmind-google-match-2-result) Also see [AlphaGo: Mastering the ancient game of Go with Machine Learning](http://googleresearch.blogspot.com/2016/01/alphago-mastering-ancient-game-of-go.html) :-) Alain
 
-                        DeepMind beats Lee Se-dol again to go 2-0 up in
-                        historic Go series](http://www.theverge.com/2016/3/10/11191184/lee-sedol-alphago-go-deepmind-google-match-2-result) Also see [AlphaGo:
-
-                        Mastering the ancient game of Go with Machine
-                        Learning](http://googleresearch.blogspot.com/2016/01/alphago-mastering-ancient-game-of-go.html) :-) Alain
-
-### [As
-
-                      roads become safer for drivers and passengers,
-                      pedestrian deaths still rise](https://www.washingtonpost.com/local/trafficandcommuting/as-roads-become-safer-for-drivers-and-passengers-pedestrian-deaths-still-rise/2016/03/07/41caa802-e47d-11e5-b0fd-073d5930a7b7_story.html)
+### [As roads become safer for drivers and passengers, pedestrian deaths still rise](https://www.washingtonpost.com/local/trafficandcommuting/as-roads-become-safer-for-drivers-and-passengers-pedestrian-deaths-still-rise/2016/03/07/41caa802-e47d-11e5-b0fd-073d5930a7b7_story.html)
 
                   A. Halsley, Mar 8,"Safer cars and safer roads have
                   resulted in an overall decline in driver and passenger
                   fatalities in recent years, but pedestrians are as
                   vulnerable as ever and the number killed by vehicles
                   continues to increase, according to a new study....[Read more](https://www.washingtonpost.com/local/trafficandcommuting/as-roads-become-safer-for-drivers-and-passengers-pedestrian-deaths-still-rise/2016/03/07/41caa802-e47d-11e5-b0fd-073d5930a7b7_story.html)Hmmmm...and
-                      see: [Early
-
-                      data suggests pedestrian deaths surged in 2015](https://www.washingtonpost.com/politics/pedestrian-deaths-surged-in-2015-early-data-suggests/2016/03/07/4c15142a-e4a8-11e5-a9ce-681055c7a05f_story.html).
+                      see: [Early data suggests pedestrian deaths surged in 2015](https://www.washingtonpost.com/politics/pedestrian-deaths-surged-in-2015-early-data-suggests/2016/03/07/4c15142a-e4a8-11e5-a9ce-681055c7a05f_story.html).
 
                       Unfortunately, the National Safety Council
                       recently reported that deaths went up 8% in 2015
-                      (VMT up only 3.5%) ([Motor
-
-                      Vehicle Deaths Increase by Largest Percent in 50
-                      Years](http://www.nsc.org/Connect/NSCNewsReleases/Lists/Posts/Post.aspx?ID=103))  and[Owen Curtis has weighed in as linked here](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/PDFs/CurtisOnPedestrians.pdf)with
+                      (VMT up only 3.5%) ([Motor Vehicle Deaths Increase by Largest Percent in 50 Years](http://www.nsc.org/Connect/NSCNewsReleases/Lists/Posts/Post.aspx?ID=103))  and[Owen Curtis has weighed in as linked here](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/PDFs/CurtisOnPedestrians.pdf)with
 
                       respect to the pedestrian issue.  Alain
 
-### [Silicon
-
-                      Valley Residents Leave for Greener Grass, Cheaper
-                      Housing](http://blogs.wsj.com/digits/2016/03/03/silicon-valley-residents-leave-for-greener-grass-cheaper-housing/?mod=ST1)
+### [Silicon Valley Residents Leave for Greener Grass, Cheaper Housing](http://blogs.wsj.com/digits/2016/03/03/silicon-valley-residents-leave-for-greener-grass-cheaper-housing/?mod=ST1)
 
                   G. Wells, Mar 3, "Not everyone wants to live in
                   Silicon Valley. Americans are starting to leave the
@@ -307,9 +233,7 @@ A Bryant, Mar 11, "This interview with Anthony
                       to Jersey (however, property and income taxes are
                       brutal!)  :-( Alain
 
-# [4
-                      Carnegie Mellon spinoffs acquired by global
-                      companies in 2015](http://www.nextpittsburgh.com/features/global-companies-acquire-carnegie-mellon-spinoffs/)
+# [4 Carnegie Mellon spinoffs acquired by global companies in 2015](http://www.nextpittsburgh.com/features/global-companies-acquire-carnegie-mellon-spinoffs/)
 
 K. Serenke, Mar 7, "Pittsburgh is on a
                     roll....Following is a brief recap of just a few
@@ -330,9 +254,7 @@ K. Serenke, Mar 7, "Pittsburgh is on a
 
 [http://orfe.princeton.edu/~alaink/SmartDrivingCars/Papers/](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Papers/)
 
-### [Review of Federal
-                      Motor Vehicle Safety Standards(FMVSS) for
-                      Automated Vehicles](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/PDFs/Volpe-FMVSS_AV_Standards_March2016.pdf)
+### [Review of Federal Motor Vehicle Safety Standards(FMVSS) for Automated Vehicles](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/PDFs/Volpe-FMVSS_AV_Standards_March2016.pdf)
 
 A. Kim, et al, Mar 2016, "Current
                     Federal Motor Vehicle Safety Standards (FMVSS) do
@@ -340,9 +262,7 @@ A. Kim, et al, Mar 2016, "Current
                     and often assume the presence of a human driver. As
                     a result, existing language may create certification
                     challenges for manufacturers of automated vehicles
-                    that choose to pursue certain vehicle concepts.  [Read
-
-                      more](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/PDFs/Volpe-FMVSS_AV_Standards_March2016.pdf) Hmmmm...One
+                    that choose to pursue certain vehicle concepts.  [Read more](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/PDFs/Volpe-FMVSS_AV_Standards_March2016.pdf) Hmmmm...One
                         really doesn't have to read more to realize that
                         the name of these"Standards" should be changed
                         to "Federal Human Controlled Vehicle Safety
@@ -366,9 +286,7 @@ A. Kim, et al, Mar 2016, "Current
 
                         stuff that probably doesn't deserve your time:
 
-### [GOODYEAR
-
-                        REVEALS CONCEPT TIRES FOR AUTONOMOUS CARS](https://corporate.goodyear.com/en-US/media/news/goodyear-reveals-concept-tires-for-autonomous-cars.html)
+### [GOODYEAR REVEALS CONCEPT TIRES FOR AUTONOMOUS CARS](https://corporate.goodyear.com/en-US/media/news/goodyear-reveals-concept-tires-for-autonomous-cars.html)
 
 [i](http://thinkinghighways.com/nissan-unveil-a-new-driverless-car-the-qashqai/)
                     Mar. 2, "The Goodyear Tire & Rubber Company has
@@ -385,9 +303,7 @@ A. Kim, et al, Mar 2016, "Current
                     of self-driving vehicles...Connected via magnetic
                     levitation: The tires would rely on a magnetic
                     levitation system to suspend the car resulting in a
-                    smooth, quiet ride for the passenger..."  [Read
-
-                      more](https://corporate.goodyear.com/en-US/media/news/goodyear-reveals-concept-tires-for-autonomous-cars.html) Hmmmm...When I
+                    smooth, quiet ride for the passenger..."  [Read more](https://corporate.goodyear.com/en-US/media/news/goodyear-reveals-concept-tires-for-autonomous-cars.html) Hmmmm...When I
                         first saw this I thought I was reading an [Onion](http://www.theonion.com/)article.
 
                         Really???  Alain
@@ -397,9 +313,7 @@ A. Kim, et al, Mar 2016, "Current
 ## [C'mon Man!](https://www.youtube.com/watch?v=A7SwSd59E4I)
                       (These folks didn't get/read the memo)
 
-### [](http://www.bbc.com/news/technology-35756441)[Suburbia
-
-                      reimagined in driverless car future](http://www.bbc.com/news/technology-35756441)
+### [Suburbia reimagined in driverless car future](http://www.bbc.com/news/technology-35756441)
 
                   Mar 9, "The are currently 31 million cars in Britain,
                   but are we close to "peak car"?" [See video](http://www.bbc.com/news/technology-35756441) Hmmmm...Doubtful!
@@ -414,9 +328,7 @@ A. Kim, et al, Mar 2016, "Current
                       use.  No stores, no workplace, no entertainment
                       places, no playgrounds, no parks, no schools,
                       no... No wonder people needed cars and escape this
-                      sterility!  [C'mon
-
-                        Man!](https://www.youtube.com/watch?v=C6XXIFXxtS8)  Alain
+                      sterility!  [C'mon Man!](https://www.youtube.com/watch?v=C6XXIFXxtS8)  Alain
 
 ###
 
@@ -424,9 +336,7 @@ A. Kim, et al, Mar 2016, "Current
 
                               of Upcoming Events:
 
-[The
-
-                                    Business of Autonomous Vehicles](http://driverlessmarket.com/agenda/)
+[The Business of Autonomous Vehicles](http://driverlessmarket.com/agenda/)
 
 March 22-23, 2016
 
@@ -435,22 +345,16 @@ March 22-23, 2016
 
 [http://driverlessmarket.com/](http://driverlessmarket.com/)
 
-### [Workshop
+### [Workshop on Automated Vehicle Policy and Regulation:](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/PDFs/AutomatedVehiclePolicyAndRegulationV8DRAFT-1.pdf)
 
-                                      on Automated Vehicle Policy and
-                                      Regulation:](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/PDFs/AutomatedVehiclePolicyAndRegulationV8DRAFT-1.pdf)
-
-[A
-                                    State Perspective](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/PDFs/AutomatedVehiclePolicyAndRegulationV8DRAFT-1.pdf)
+[A State Perspective](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/PDFs/AutomatedVehiclePolicyAndRegulationV8DRAFT-1.pdf)
 
 The National Transportation
                                 Center, University of Maryland
 
                         May 18, 2016
 
-[Preliminary
-
-                          Program](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/PDFs/AutomatedVehiclePolicyAndRegulationV8DRAFT-1.pdf)
+[Preliminary Program](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/PDFs/AutomatedVehiclePolicyAndRegulationV8DRAFT-1.pdf)
 
 ### Recent
 
@@ -460,12 +364,7 @@ The National Transportation
 
 ###
 
-### [THE
-                                                      ROAD NOT TAKEN:
-                                                      How we found (and
-                                                      lost) the dream of
-                                                      Personal Rapid
-                                                      Transit](THE%20ROAD%20NOT%20TAKEN:%20How%20we%20found%20%28and%20lost%29%20the%20dream%20of%20Personal%20Rapid%20Transit)
+### [THE ROAD NOT TAKEN: How we found (and lost) the dream of Personal Rapid Transit](THE%20ROAD%20NOT%20TAKEN:%20How%20we%20found%20%28and%20lost%29%20the%20dream%20of%20Personal%20Rapid%20Transit)
 
  A.
                                                     Robertson, Feb 10 ,
@@ -707,12 +606,7 @@ The National Transportation
                                                         transform our
                                                         cities and
                                                         suburbs. Alain
-[Vancouver
-
-                                                      councillor wants
-                                                      city to prepare
-                                                      for driverless
-                                                      cars](http://www.vancouversun.com/news/vancouver+city+councillor+wants+study+impact+driverless+cars/11726263/story.html)  T.
+[Vancouver councillor wants city to prepare for driverless cars](http://www.vancouversun.com/news/vancouver+city+councillor+wants+study+impact+driverless+cars/11726263/story.html)  T.
                                                     Fletcher, Feb 18
                                                     "Driverless cars
                                                     might seem like a
@@ -766,9 +660,7 @@ The National Transportation
                                                     plan, which we just
                                                     did, to be
                                                       obsolete before it
-                                                      even starts."..."  [Read
-
-                                                      more](http://www.nsc.org/NewsDocuments/2016/mv-fatality-report-1215.pdf)Hmmmm...Yup!
+                                                      even starts."..."  [Read more](http://www.nsc.org/NewsDocuments/2016/mv-fatality-report-1215.pdf)Hmmmm...Yup!
 
                                                         Obviously,
                                                         "obsolescence
@@ -779,12 +671,7 @@ The National Transportation
                                                         try to avoid.
                                                         Alain
 
-### [Motor
-
-                                                      Vehicle Deaths
-                                                      Increase by
-                                                      Largest Percent in
-                                                      50 Years](http://www.nsc.org/NewsDocuments/2016/mv-fatality-report-1215.pdf)
+### [Motor Vehicle Deaths Increase by Largest Percent in 50 Years](http://www.nsc.org/NewsDocuments/2016/mv-fatality-report-1215.pdf)
 
                                                     Press Release Feb 16
                                                     "With continued
@@ -827,9 +714,7 @@ The National Transportation
                                                     100 million vehicle
                                                     miles traveled, an
                                                     increase of 5% from
-                                                    the 2014 rate. [Read
-
-                                                      more](http://www.nsc.org/NewsDocuments/2016/mv-fatality-report-1215.pdf)Hmmmm...This
+                                                    the 2014 rate. [Read more](http://www.nsc.org/NewsDocuments/2016/mv-fatality-report-1215.pdf)Hmmmm...This
 
                                                         is REALLY BAD
                                                         news.  Come on
@@ -857,11 +742,7 @@ The National Transportation
                                                         AND help
                                                         society.  Alain
 
-### [Budget
-
-                                                      of the U.S.
-                                                      Government, FY
-                                                      2017](https://www.whitehouse.gov/sites/default/files/omb/budget/fy2017/assets/budget.pdf)
+### [Budget of the U.S. Government, FY 2017](https://www.whitehouse.gov/sites/default/files/omb/budget/fy2017/assets/budget.pdf)
 
 Feb.
                                                     9, "...(3)
@@ -926,10 +807,7 @@ Feb.
                                                         connected...".
                                                             Alain
 
-### [London's
-
-                                                      first driverless
-                                                      cars revealed](http://www.bbc.com/news/technology-35432687)
+### [London's first driverless cars revealed](http://www.bbc.com/news/technology-35432687)
 
  The
                                                     consortium behind
@@ -973,21 +851,14 @@ Feb.
                                                     and traveled three
                                                     million kilometers
                                                     (1.8 million
-                                                    miles)...."   [Read
-
-                                                      more](http://www.bbc.com/news/technology-35432687)   Hmmm...Wow!! ... PRT evolving to be
+                                                    miles)...."   [Read more](http://www.bbc.com/news/technology-35432687)   Hmmm...Wow!! ... PRT evolving to be
                                                           autonomousTaxis!
                                                           Wow!!!  :-)
 Alain
 
 ###
 
-### [Obama's
-
-                                                      $4 Billion Plan
-                                                      for Self-Driving
-                                                      Cars Will Make
-                                                      Google Very Happy](http://recode.net/2016/01/14/obamas-4-billion-plan-for-self-driving-cars-will-make-google-very-happy/)
+### [Obama's $4 Billion Plan for Self-Driving Cars Will Make Google Very Happy](http://recode.net/2016/01/14/obamas-4-billion-plan-for-self-driving-cars-will-make-google-very-happy/)
 
  M.
                                                     Bergen, Jan 14 "The
@@ -1038,11 +909,7 @@ Alain
                                                       will allow fully
                                                       driverless cars..."
 
-                                                    [Read
-
-                                                      More](http://recode.net/2016/01/14/obamas-4-billion-plan-for-self-driving-cars-will-make-google-very-happy/)  Hmmm... A [few
-
-                                                          months ago](http://www.its.dot.gov/press/2015/ngv_tech_announcement.htm)
+                                                    [Read More](http://recode.net/2016/01/14/obamas-4-billion-plan-for-self-driving-cars-will-make-google-very-happy/)  Hmmm... A [few months ago](http://www.its.dot.gov/press/2015/ngv_tech_announcement.htm)
                                                           it was $42M
                                                           for Connected
                                                           Vehicles.
@@ -1052,22 +919,14 @@ Alain
                                                           vehicles!
                                                           Finally
                                                           Secretary
-                                                          Foxx.."[YES! YES! JESUS H.
-                                                          TAP-DANCING
-                                                          CHRIST... I
-                                                          HAVE SEEN THE
-                                                          LIGHT](https://www.youtube.com/watch?v=lX5tfRdkoY0)"
+                                                          Foxx.."[YES! YES! JESUS H. TAP-DANCING CHRIST... I HAVE SEEN THE LIGHT](https://www.youtube.com/watch?v=lX5tfRdkoY0)"
                                                           (Blue
                                                           Brothers)
                                                           Yea!!!!!   :-)
 
                                                           Alain
 
-### [Google
-
-                                                      Pairs With Ford To
-                                                      Build Self-Driving
-                                                      Cars](https://www.yahoo.com/autos/google-pairs-with-ford-to-1326344237400118.html)
+### [Google Pairs With Ford To Build Self-Driving Cars](https://www.yahoo.com/autos/google-pairs-with-ford-to-1326344237400118.html)
 
  J.
                                                     Hyde & S. Carty,
@@ -1140,24 +999,17 @@ Alain
                                                     mobility company,"
                                                     and what that would
                                                     mean for its
-                                                    business" [Read
-
-                                                      more](https://www.yahoo.com/autos/google-pairs-with-ford-to-1326344237400118.html)  Hmmm...Not surprising and not exclusive.
+                                                    business" [Read more](https://www.yahoo.com/autos/google-pairs-with-ford-to-1326344237400118.html)  Hmmm...Not surprising and not exclusive.
                                                           :-) Alain
 
-### [Adam
-
-                                                      Jonas' View on
-                                                      Autonomous Cars](http://linkback.morganstanley.com/web/sendlink/webapp/BMServlet?file=kpmb1mve-3p5j-g000-97a7-d8d3855a5201&store=0&d=1&user=dagn42i4pkquh-0&__gda__=1549992813_42e5b148a43b27b943d8d34f1e5c3295#0011&dagn42i4pkquh-1&1549992813_f2523f33158f4db2b6d628c5c9008f28&0021&dagn42i4pkquh-2&1549992813_f9a15a1b06e61ec454fad4cc7759010a)
+### [Adam Jonas' View on Autonomous Cars](http://linkback.morganstanley.com/web/sendlink/webapp/BMServlet?file=kpmb1mve-3p5j-g000-97a7-d8d3855a5201&store=0&d=1&user=dagn42i4pkquh-0&__gda__=1549992813_42e5b148a43b27b943d8d34f1e5c3295#0011&dagn42i4pkquh-1&1549992813_f2523f33158f4db2b6d628c5c9008f28&0021&dagn42i4pkquh-2&1549992813_f9a15a1b06e61ec454fad4cc7759010a)
 
                                                     Video similar to
                                                     part of Adam's
                                                     Luncheon talk @ 2015
                                                     Florida Automated
                                                     Vehicle Symposium on
-                                                    Dec 1.  [Hmmm ... Watch
-
-                                                      Video](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Videos/AdamJonas10T_MorganStanley.mp4)  especially
+                                                    Dec 1.  [Hmmm ... Watch Video](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Videos/AdamJonas10T_MorganStanley.mp4)  especially
 
                                                         at the 13:12
                                                         mark.
@@ -1167,7 +1019,7 @@ Alain
                                                         segment above!
                                                         Also see his [TipRanks](https://www.tipranks.com/analysts/adam-jonas).  Alain
 
-                                                          [](Mailto:alaink@princeton.edu)[Mailto:alaink@princeton.edu](Mailto:alaink@princeton.edu) [](Mailto:alaink@princeton.edu)
+                                                          [Mailto:alaink@princeton.edu](Mailto:alaink@princeton.edu) 
 
                                                           This list is
                                                           maintained by

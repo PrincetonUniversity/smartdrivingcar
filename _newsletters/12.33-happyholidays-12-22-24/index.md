@@ -24,15 +24,12 @@ PS… I had the great pleasure of spending about an hour at the bedside of Prof.
  At 101.5 he is still sharp as hell and sends his best wishes for the New Year to all our former students.
 [See photo](https://www.dropbox.com/scl/fi/n9gvapue4703k8nc4d8ld/JStuartHunter.jpg?rlkey=7qcgq6fokmoue67sziaehvo98&dl=0). Also [Prof. Ahmet Cakmak](https://www.dropbox.com/scl/fi/vlcasgt6pr3y7ufbi02qo/AhmetAlainPhotoNov2024.jpg?rlkey=8h7xu45b3pr3wk08223cb7p7z&dl=0) @ 90.5 sends his best.  He hasn't changed a bit!
 
-[The
- Real Case for Driverless Mobility](https://www.audible.com/pd/The-Real-Case-for-Driverless-Mobility-Audiobook/B0D9PJY6MW?eac_link=ZoLH4Nc4tFbA&ref=web_search_eac_asin_1&eac_selected_type=asin&eac_selected=B0D9PJY6MW&qid=Jjuo8XtoL1&eac_id=142-9434497-3046660_Jjuo8XtoL1&sr=1-1)
+[The Real Case for Driverless Mobility](https://www.audible.com/pd/The-Real-Case-for-Driverless-Mobility-Audiobook/B0D9PJY6MW?eac_link=ZoLH4Nc4tFbA&ref=web_search_eac_asin_1&eac_selected_type=asin&eac_selected=B0D9PJY6MW&qid=Jjuo8XtoL1&eac_id=142-9434497-3046660_Jjuo8XtoL1&sr=1-1)
 
 Narrated by Fred Fishkin, Available now
 
-[Just
- Published](https://www.amazon.com/Real-Case-Driverless-Mobility-Vehicles/dp/0443236852/ref=sr_1_1?crid=1XSXZ611C2JCN&keywords=Kornhauser+sena&qid=1707095108&sprefix=kornhauser+sena%2Caps%2C76&sr=8-1&ufe=app_do%3Aamzn1.fos.18ed3cb5-28d5-4975-8bc7-93deae8f9840)!!!
-[Go
- to Amazon.com](https://www.amazon.com/Real-Case-Driverless-Mobility-Vehicles/dp/0443236852/ref=sr_1_1?crid=1XSXZ611C2JCN&keywords=Kornhauser+sena&qid=1707095108&sprefix=kornhauser+sena%2Caps%2C76&sr=8-1&ufe=app_do%3Aamzn1.fos.18ed3cb5-28d5-4975-8bc7-93deae8f9840)…
+[Just Published](https://www.amazon.com/Real-Case-Driverless-Mobility-Vehicles/dp/0443236852/ref=sr_1_1?crid=1XSXZ611C2JCN&keywords=Kornhauser+sena&qid=1707095108&sprefix=kornhauser+sena%2Caps%2C76&sr=8-1&ufe=app_do%3Aamzn1.fos.18ed3cb5-28d5-4975-8bc7-93deae8f9840)!!!
+[Go to Amazon.com](https://www.amazon.com/Real-Case-Driverless-Mobility-Vehicles/dp/0443236852/ref=sr_1_1?crid=1XSXZ611C2JCN&keywords=Kornhauser+sena&qid=1707095108&sprefix=kornhauser+sena%2Caps%2C76&sr=8-1&ufe=app_do%3Aamzn1.fos.18ed3cb5-28d5-4975-8bc7-93deae8f9840)…
 
 SmartDrivingCars
 [ZoomCast 385](https://www.youtube.com/watch?v=hbEhshJSsmc)/ [PodCast 385](https://open.spotify.com/episode/41iFfth6niPE0ct560yE56?si=aRLCo5QnRCGGy3xVvnBJvg) – w Michael Sena … GM Cancels Cruise, Waymo progresses and NHTSA's
@@ -49,8 +46,7 @@ F. Fishkin, Dec. 22 "With GM putting an end to the Cruise robotaxi venture, Waym
 * [34:55](https://www.youtube.com/watch?v=hbEhshJSsmc&t=2095s) The Dispatcher Musings…back to Scranton
 * [38:14](https://www.youtube.com/watch?v=hbEhshJSsmc&t=2294s) Closing out the year with long time friends and kudos to Alain's students
 
-[](https://www.youtube.com/playlist?list=PLFwuZ9jMeu5uwfTZP00zHjP7eSpG34Hsm)[SmartDrivingCars
- ZoomCasts](https://www.youtube.com/playlist?list=PLFwuZ9jMeu5uwfTZP00zHjP7eSpG34Hsm)
+[SmartDrivingCars ZoomCasts](https://www.youtube.com/playlist?list=PLFwuZ9jMeu5uwfTZP00zHjP7eSpG34Hsm)
 
   [2024 Nobel Prize award ceremony](https://youtu.be/6-A4dUowT4Q?t=1268)
 
@@ -60,8 +56,7 @@ Dec. 10, " in Stockholm for the Nobel Prize award ceremony which takes place at 
 Hmmmm…
   So deserving.  Congratulations John!!!    Alain
 
-  [Musings
- of a Dispatcher: Feeling at Home](https://www.dropbox.com/scl/fi/p7e7o54p1f0sjw7qqfrps/The-Dispatcher_Winter-2024.pdf?rlkey=50ahzlt7rmpcxwkesi8thjwu6&dl=0)
+  [Musings of a Dispatcher: Feeling at Home](https://www.dropbox.com/scl/fi/p7e7o54p1f0sjw7qqfrps/The-Dispatcher_Winter-2024.pdf?rlkey=50ahzlt7rmpcxwkesi8thjwu6&dl=0)
 
 M. Sena, Winter 2024, "We all started life somewhere. Chances are, you are not living today where you lived during the first years of your
  life. I thought I would share my reflections on the place where I spent the first thirteen years of my life. It is what I remember least or not at all that is my most persistent memory. "
@@ -69,8 +64,7 @@ M. Sena, Winter 2024, "We all started life somewhere. Chances are, you are not l
 Hmmmm…
   Reflections of the season.   Enjoy! Alain
 
-## [GM
- to refocus autonomous driving development on personal vehicles](https://news.gm.com/home.detail.html/Pages/news/us/en/2024/dec/1210-gm.html)
+## [GM to refocus autonomous driving development on personal vehicles](https://news.gm.com/home.detail.html/Pages/news/us/en/2024/dec/1210-gm.html)
 
 News, Dec 10, "General Motors (NYSE: GM) plans to realign its autonomous driving strategy and prioritize development of advanced driver assistance systems on a path
  to fully autonomous personal vehicles. GM will build on the progress of Super Cruise, the company's hands-off, eyes-on driving feature, now offered on more than 20 GM vehicle models and currently logging over 10 million miles per month.
@@ -80,32 +74,26 @@ GM intends to combine the majority-owned Cruise LLC and GM technical teams into 
 [Read more](https://news.gm.com/home.detail.html/Pages/news/us/en/2024/dec/1210-gm.html) Hmmmm…    Called it!!! … back
 [when Mary cut Cruise' budget in half](https://thelastdriverlicenseholder.com/2024/01/30/gm-halves-spending-on-its-cruise-robotaxi-unit/) last January;   The writing was on the wall.   Alain
 
-[The end of Cruise is the beginning of a risky new phase for autonomous
- vehicles](https://www.theverge.com/2024/12/11/24318651/cruise-robotaxi-gm-funding-autonomous-vehicles-risk)
+[The end of Cruise is the beginning of a risky new phase for autonomous vehicles](https://www.theverge.com/2024/12/11/24318651/cruise-robotaxi-gm-funding-autonomous-vehicles-risk)
 
-Anthony Hawkins, Dec. 10, "Eight years and $10 billion later, GM has decided to [pull
- the plug](https://www.theverge.com/2024/12/10/24318259/gm-cruise-shutdown-robotaxi-super-cruise) on its grand robotaxi experiment.
+Anthony Hawkins, Dec. 10, "Eight years and $10 billion later, GM has decided to [pull the plug](https://www.theverge.com/2024/12/10/24318259/gm-cruise-shutdown-robotaxi-super-cruise) on its grand robotaxi experiment.
 
-The automaker's CEO, Mary Barra, made the surprise announcement late on Tuesday, arguing that a shared autonomous mobility service was never really in its "core business." [It
- was too expensive](https://www.theverge.com/2024/10/22/24276670/cruise-gm-loss-q3-2024-driverless-robotaxi) and had too many regulatory hurdles to overcome to make it a viable revenue stream. Instead, GM would pivot to "privately owned" driverless cars — because, after all, that's what the people really wanted.
+The automaker's CEO, Mary Barra, made the surprise announcement late on Tuesday, arguing that a shared autonomous mobility service was never really in its "core business." [It was too expensive](https://www.theverge.com/2024/10/22/24276670/cruise-gm-loss-q3-2024-driverless-robotaxi) and had too many regulatory hurdles to overcome to make it a viable revenue stream. Instead, GM would pivot to "privately owned" driverless cars — because, after all, that's what the people really wanted.
 
 "Customers like to drive," Barra said in a call with investors. "And there's times they don't like to drive."
 
-If some of this sounds familiar, Ford essentially made the same decision two years ago when it [pulled
- its funding for Argo AI](https://www.theverge.com/2022/10/26/23423998/argo-ai-shut-down-ford-vw-av-self-driving), the autonomous driving startup it had financed since 2017. It cited as one of its reasons [a belief that partial autonomy](https://www.theverge.com/2022/10/27/23426449/ford-argo-ai-driver-assist-level-2-level-3-danger-risk) —
+If some of this sounds familiar, Ford essentially made the same decision two years ago when it [pulled its funding for Argo AI](https://www.theverge.com/2022/10/26/23423998/argo-ai-shut-down-ford-vw-av-self-driving), the autonomous driving startup it had financed since 2017. It cited as one of its reasons [a belief that partial autonomy](https://www.theverge.com/2022/10/27/23426449/ford-argo-ai-driver-assist-level-2-level-3-danger-risk) —
  often described as Level 3 or Level 3-plus — will have more near-term payoffs.
 
 Automakers are tapping out of the robotaxi business
 
-Automakers are tapping out of the robotaxi business. With all the [money
- being spent on electric vehicles](https://www.theverge.com/2024/9/1/24232206/ev-sales-slow-hybrid-phev-charging-ford-tesla), the auto industry has decided to cut its losses on autonomous mobility. Only one transformational, prohibitively expensive, once-in-a-generation shift at a time…."
+Automakers are tapping out of the robotaxi business. With all the [money being spent on electric vehicles](https://www.theverge.com/2024/9/1/24232206/ev-sales-slow-hybrid-phev-charging-ford-tesla), the auto industry has decided to cut its losses on autonomous mobility. Only one transformational, prohibitively expensive, once-in-a-generation shift at a time…."
 [Read more](https://www.theverge.com/2024/12/11/24318651/cruise-robotaxi-gm-funding-autonomous-vehicles-risk)
   Hmmmm…    Anthony's take here.  I don't see it the same way. Alain
 
 [It's been a rough year for robotaxis — but not for Waymo](https://www.theverge.com/24323593/waymo-year-in-review-robotaxi-trips-miles-growth-cost)
 
-Anthony Hawkins, Dec. 18, "… While its rivals have been [stuck in perpetual testing](https://www.theverge.com/2024/11/2/24285399/amazon-zoox-robotaxi-nhtsa-fmvss-comply) or [forced
- to shut down completely](https://www.theverge.com/2024/12/10/24318259/gm-cruise-shutdown-robotaxi-super-cruise) due to dry coffers, Waymo has quietly amassed a legitimate robotaxi business that continues to grow and evolve. And today, it showed off a few numbers that underscore just how far ahead of the rest of the industry it is.
+Anthony Hawkins, Dec. 18, "… While its rivals have been [stuck in perpetual testing](https://www.theverge.com/2024/11/2/24285399/amazon-zoox-robotaxi-nhtsa-fmvss-comply) or [forced to shut down completely](https://www.theverge.com/2024/12/10/24318259/gm-cruise-shutdown-robotaxi-super-cruise) due to dry coffers, Waymo has quietly amassed a legitimate robotaxi business that continues to grow and evolve. And today, it showed off a few numbers that underscore just how far ahead of the rest of the industry it is.
 
 Chief among those is the number 4 million, which is how many driverless rides the company provided in the three cities in which it operates: Phoenix, San Francisco, and
  Los Angeles. Waymo says it has provided a total of 5 million driverless rides in its three key markets, which means nearly all of its growth took place this year alone.
@@ -116,8 +104,7 @@ Waymo's service area is small but growing — the company says that it services 
 
 Four million driverless trips in 2024
 
-Waymo riders spent a cumulative 1 million hours in the company's autonomous vehicles…."[Read
- more](https://www.theverge.com/24323593/waymo-year-in-review-robotaxi-trips-miles-growth-cost)   Hmmmm…   Unfortunately, they don't really tell us their fleet size.
+Waymo riders spent a cumulative 1 million hours in the company's autonomous vehicles…."[Read more](https://www.theverge.com/24323593/waymo-year-in-review-robotaxi-trips-miles-growth-cost)   Hmmmm…   Unfortunately, they don't really tell us their fleet size.
 [A few years ago](https://www.dropbox.com/scl/fi/il6003ugewul82l6igt7c/When-will-aTaxis-be-more-than-a-novelty-2018-ITS-America.pptx?rlkey=bbv6qdih3iqjfrm5adjj3t315&dl=0) (2018) they talked about options for 20,000 Jaguars and 60,000 Pacificas. Maybe from the 1 million hours associated with the 4 million rides (I prefer to call them "personTrips") we can ascertain a prudent fleet size.  It is likely that
  each ride takes on average ~15 minutes.  Given that vehicles need to be repositioned, each can't reasonably achieve more than 3 average personTrips per hour.  While there are 24 hours in a day, it is doubtful that each vehicle could be counted on to have more
  than 10 good hours a day.  Maybe one could argue that the other 14 hours in each day actually roll up to deliver two more hours of good productivity. Getting to 12 hrs/day.  Consequently, each vehicle serves an average of 36 personTrips/day (I wish they told
@@ -130,8 +117,7 @@ Make no mistake, it is super impressive that they actually gave 4x106 safe drive
 Their market share stands at x10-3% = 0.001%.  Which is why they were able to raise an additional $5.6 x109
 ; although one wonders why they'd bother with Japan, and other overseas markets.  What makes their grass greener this early in the growing season? Alain
 
-[NHTSA Proposes National Program for Vehicles with Automated Driving](https://www.nhtsa.gov/press-releases/nhtsa-proposes-national-program-vehicles-automated-driving-systems)The U.S. Department of Transportation's National Highway Traffic Safety Administration today [proposed
- a voluntary national framework](https://www.nhtsa.gov/document/nprm-ads-equipped-vehicle-safety-transparency-and-evaluation-program) for the evaluation and oversight of certain vehicles equipped with automated driving systems.
+[NHTSA Proposes National Program for Vehicles with Automated Driving](https://www.nhtsa.gov/press-releases/nhtsa-proposes-national-program-vehicles-automated-driving-systems)The U.S. Department of Transportation's National Highway Traffic Safety Administration today [proposed a voluntary national framework](https://www.nhtsa.gov/document/nprm-ads-equipped-vehicle-safety-transparency-and-evaluation-program) for the evaluation and oversight of certain vehicles equipped with automated driving systems.
 
 The ADS-equipped Vehicle Safety, Transparency, and Evaluation Program, known as AV STEP, would establish a voluntary review and reporting framework for participating ADS-equipped vehicles.
  The program would be open to all companies that operate or plan to operate compliant ADS-equipped vehicles on public roads, as well as those requiring NHTSA exemptions to operate non-compliant vehicles.
@@ -154,24 +140,19 @@ AV STEP would also include two new exemption processes designed to optimize NHTS
 Hmmmm…  Wow!!!!!   Why did it take this administration this long to begin to make such progress?? Did GM give up too early?  They worked so hard for so long to get some love out
  of NHTSA for their Origin vehicle and now that they've thrown in the towel, bam!!!  This should breathe life into ZOOX.  Yea!!! Alain
 
-[Feds clear the way for robotaxis without steering wheels and pedals](https://techcrunch.com/2024/12/20/feds-clear-the-way-for-robotaxis-without-steering-wheel-and-pedals/)R. Bellan,  Dec. 20, "The National Highway Traffic Safety Administration (NHTSA) on Friday proposed a [new
- national framework](https://www.nhtsa.gov/press-releases/nhtsa-proposes-national-program-vehicles-automated-driving-systems) that could make it easier for companies to deploy at scale autonomous vehicles without traditional manual driving controls — like steering wheels, pedals, and sideview mirrors.
+[Feds clear the way for robotaxis without steering wheels and pedals](https://techcrunch.com/2024/12/20/feds-clear-the-way-for-robotaxis-without-steering-wheel-and-pedals/)R. Bellan,  Dec. 20, "The National Highway Traffic Safety Administration (NHTSA) on Friday proposed a [new national framework](https://www.nhtsa.gov/press-releases/nhtsa-proposes-national-program-vehicles-automated-driving-systems) that could make it easier for companies to deploy at scale autonomous vehicles without traditional manual driving controls — like steering wheels, pedals, and sideview mirrors.
 
 The guidelines also require AV companies to share a whole lot more safety data with the agency…."
 [Read more](https://techcrunch.com/2024/12/20/feds-clear-the-way-for-robotaxis-without-steering-wheel-and-pedals/)
 Hmmmm… Rebecca's take on this.  Alain
 
- [NHTSA
- finally releases new rules for self-driving cars — but there's a twist](https://www.theverge.com/2024/12/20/24325996/nhtsa-av-step-autonomous-vehicle-regulatory-framework)
+ [NHTSA finally releases new rules for self-driving cars — but there's a twist](https://www.theverge.com/2024/12/20/24325996/nhtsa-av-step-autonomous-vehicle-regulatory-framework)
 
-Anthony Hawkins, Dec. 20, "The National Highway Traffic Safety Administration [announced
- a new "voluntary national framework for the evaluation and oversight" of autonomous vehicles](https://www.nhtsa.gov/press-releases/nhtsa-proposes-national-program-vehicles-automated-driving-systems), a bureaucratic first step that could eventually open the floodgates for fully driverless cars. But there's a twist: the agency wants self-driving car companies
+Anthony Hawkins, Dec. 20, "The National Highway Traffic Safety Administration [announced a new "voluntary national framework for the evaluation and oversight" of autonomous vehicles](https://www.nhtsa.gov/press-releases/nhtsa-proposes-national-program-vehicles-automated-driving-systems), a bureaucratic first step that could eventually open the floodgates for fully driverless cars. But there's a twist: the agency wants self-driving car companies
  to cough up more data.
 
-The proposed rules were first announced last year as the [ADS-Equipped Vehicle Safety, Transparency
- and Evaluation Program](https://www.nhtsa.gov/sites/nhtsa.gov/files/2024-12/nprm-av-step-2024-web.pdf), also known as AV STEP. This program would allow the agency to authorize the sale and commercialization of more vehicles without traditional controls, like pedals and steering wheels, without hitting the annual cap on the number
- of exemptions to safety requirements. NHTSA is promising "an exemption pathway that is tailored for ADS-equipped vehicles," suggesting a less onerous, time-consuming process for the release of fully driverless vehicles.…."[Read
- more](https://www.theverge.com/2024/12/20/24325996/nhtsa-av-step-autonomous-vehicle-regulatory-framework)   Hmmmm…    Andrew's take on this.  Alain
+The proposed rules were first announced last year as the [ADS-Equipped Vehicle Safety, Transparency and Evaluation Program](https://www.nhtsa.gov/sites/nhtsa.gov/files/2024-12/nprm-av-step-2024-web.pdf), also known as AV STEP. This program would allow the agency to authorize the sale and commercialization of more vehicles without traditional controls, like pedals and steering wheels, without hitting the annual cap on the number
+ of exemptions to safety requirements. NHTSA is promising "an exemption pathway that is tailored for ADS-equipped vehicles," suggesting a less onerous, time-consuming process for the release of fully driverless vehicles.…."[Read more](https://www.theverge.com/2024/12/20/24325996/nhtsa-av-step-autonomous-vehicle-regulatory-framework)   Hmmmm…    Andrew's take on this.  Alain
 
 [Standing General Order on Crash Reporting For incidents involving ADS and Level 2 ADAS  NHTSA Proposes National Program for Vehicles with Automated Driving Systems](https://www.nhtsa.gov/laws-regulations/standing-general-order-crash-reporting#:~:text=Level%202%20ADAS%3A%20Entities%20named,to%20a%20hospital%20for%20medical)Overview
 
@@ -219,8 +200,7 @@ Hmmmm…  How does this continue to happen.  Why hasn't NHTSA recalled all ca
  How hard could it be?  What if a child was at the door??? [A worker was killed in a similar incident not 5 miles away from this one year ago](https://www.nj.com/mercer/2023/11/man-crushed-to-death-by-car-in-homes-driveway-police-say.html). Why isn't this easy for NHTSA? Good ADA/level2 would have averted these crashes. So frustrating. Alain
 
   Draft…
-[Orf467F24: Investigation
- of MOVES-Style Mobility Deployments](https://www.dropbox.com/scl/fi/zxmw5iip1v3p9mv8416d0/Orf467F24-Compilation-of-Final-MOVES-style-Mobility-Reports.docx?rlkey=7yr746atariyj24ytagqbjwvu&dl=0)… Draft
+[Orf467F24: Investigation of MOVES-Style Mobility Deployments](https://www.dropbox.com/scl/fi/zxmw5iip1v3p9mv8416d0/Orf467F24-Compilation-of-Final-MOVES-style-Mobility-Reports.docx?rlkey=7yr746atariyj24ytagqbjwvu&dl=0)… Draft
 
 Alain Kornhauser,  Dec. 19, "An updated note to the readers of the SDC eLetter:
 [Read](https://www.dropbox.com/scl/fi/zxmw5iip1v3p9mv8416d0/Orf467F24-Compilation-of-Final-MOVES-style-Mobility-Reports.docx?rlkey=7yr746atariyj24ytagqbjwvu&dl=0) more  Hmmmm…

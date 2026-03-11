@@ -7,9 +7,7 @@ permalink: /2014-02-14-2014-02-14/
 
 February 14, 2014v2
 
-## [Imagine:
-
-                A World Where Nobody Owns Their Own Car](http://www.theatlanticcities.com/commute/2014/02/imagine-world-where-nobody-owns-their-own-car/8387/)
+## [Imagine: A World Where Nobody Owns Their Own Car](http://www.theatlanticcities.com/commute/2014/02/imagine-world-where-nobody-owns-their-own-car/8387/)
 
             Eric Jaffe Jan 13, 2014 "If connected vehicle technology
             becomes mandatory in American cars, as the Department of
@@ -43,9 +41,7 @@ February 14, 2014v2
             The problem with buying the drink today, says Kornhauser, is
             that the labor cost of on-demand taxi service is enormous.
             As a result, we buy the bottle just in case we want a drink.
-            Driverless cars change the whole equation.  [Read
-
-              more](http://www.theatlanticcities.com/commute/2014/02/imagine-world-where-nobody-owns-their-own-car/8387/)
+            Driverless cars change the whole equation.  [Read more](http://www.theatlanticcities.com/commute/2014/02/imagine-world-where-nobody-owns-their-own-car/8387/)
 
 What I really said was..""Nobody"
                 will buy a car for mobility.  Sure, some will buy one
@@ -65,10 +61,7 @@ What I really said was..""Nobody"
                 productive).  Instead of mandating, NHTSA and DoT should
                 be helping, encouraging and facilitating.  Alain
 
-## [Effects
-
-                of Next-Generation Vehicles on Travel Demand and Highway
-                Capacity](http://orfe.princeton.edu/%7Ealaink/Papers/FP_NextGenVehicleWhitePaper012414.pdf)
+## [Effects of Next-Generation Vehicles on Travel Demand and Highway Capacity](http://orfe.princeton.edu/%7Ealaink/Papers/FP_NextGenVehicleWhitePaper012414.pdf)
 
 Jane Bierstedt, et al Jan 2014 " Executive
               Summary...Impact on Vehicle Miles Traveled...at 50% market
@@ -112,16 +105,12 @@ Hmmm...  Maybe??? However,  as
                   "Level 4"  cars) will not require new capacity.  They
                   will decongest existing roads.  They will also
                   moderate the infrastructure needs of migration and
-                  population increases.  This is not good news for the [American
-
-                    Road and Transportation Builders Association](http://en.wikipedia.org/wiki/American_Road_and_Transportation_Builders_Association).
+                  population increases.  This is not good news for the [American Road and Transportation Builders Association](http://en.wikipedia.org/wiki/American_Road_and_Transportation_Builders_Association).
                   Alain
 
 "Effect on Highway Capacity...Initially, AVs will either
               have no impact, or at worse they could degrade highway
-              capacity..."  [Read
-
-                more](http://orfe.princeton.edu/%7Ealaink/Papers/FP_NextGenVehicleWhitePaper012414.pdf)
+              capacity..."  [Read more](http://orfe.princeton.edu/%7Ealaink/Papers/FP_NextGenVehicleWhitePaper012414.pdf)
 
 Humm... True!  However,
 
@@ -156,17 +145,11 @@ Another problem with this report
                   the scenic route."   That's an automatedTaxi (aTaxi)!
                   I guess that makes their Level 5: "AutomatedTaxis... capable of negotiating rights
                   of way with one another"  the "[Priceline](cid:part12.00010604.03000103@princeton.edu)" version of
-                  autonomousTaxis with [The
-
-                    Negotiator](http://www.priceline.com/promo/tv-ads-shatner-priceline-negotiator)!  A nice timeline is provided
+                  autonomousTaxis with [The Negotiator](http://www.priceline.com/promo/tv-ads-shatner-priceline-negotiator)!  A nice timeline is provided
                   on pages 7 and 8; however, references are not listed
-                  and some of the claims have little substance "... 2016... [Tesla
+                  and some of the claims have little substance "... 2016... [Tesla expects](http://spectrum.ieee.org/automaton/robotics/artificial-intelligence/tesla-working-towards-90-autonomous-car-within-three-years)..." Really???
 
-                  expects](http://spectrum.ieee.org/automaton/robotics/artificial-intelligence/tesla-working-towards-90-autonomous-car-within-three-years)..." Really???
-
-                [C'mon
-
-                    Man](http://www.youtube.com/watch?v=fhCks3bvTdA)!!
+                [C'mon Man](http://www.youtube.com/watch?v=fhCks3bvTdA)!!
 
 There are some interesting
                   footnotes on page 11.  The word "texting" appears on
@@ -239,29 +222,19 @@ In the end, this study focuses on
               you imagine trying to reel in pickups with gun racks?
               That ship is not sailing! Alain
 
-## [](http://www.seapine.com/)  [Study
-
-            Finds 88 Percent of Adults Would Be Worried about Riding in
-            a Driverless Car](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/PDFs/SeapineDriverlessCarHarrisPollFinal.pdf)
+##   [Study Finds 88 Percent of Adults Would Be Worried about Riding in a Driverless Car](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/PDFs/SeapineDriverlessCarHarrisPollFinal.pdf)
 
 CINCINNATI—Feb. 3, 2014 – "According to a recent study
-          commissioned by [Seapine
-            Software](http://www.seapine.com/) ... [survey,](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/PDFs/SeapineHarrisPollResults.doc)
+          commissioned by [Seapine Software](http://www.seapine.com/) ... [survey,](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/PDFs/SeapineHarrisPollResults.doc)
           conducted online by Harris Interactive...Rick Riccetti,
           President and CEO, Seapine Software. "This research confirms
           that consumers likely won't hand over the wheel until auto
           companies can prove equipment is safe from software glitches
-          or failures."  [Read
-
-            more](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/PDFs/SeapineDriverlessCarHarrisPollFinal.pdf)  [Survey
-
-            results](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/PDFs/SeapineHarrisPollResults.doc)
+          or failures."  [Read more](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/PDFs/SeapineDriverlessCarHarrisPollFinal.pdf)  [Survey results](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/PDFs/SeapineHarrisPollResults.doc)
 
 Well worth reading but as with all
               surveys, the details of the question are very important,
-              especially in the light of [Danny
-
-                Kahneman's System 1 / System 2](http://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374533555).  Surveys tend to get
+              especially in the light of [Danny Kahneman's System 1 / System 2](http://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374533555).  Surveys tend to get
               System 1 responses which are OK; however, the deep
               question is in which of these situations does System 1
               dominate the ensuing behavior?  A possible follow-up
@@ -281,9 +254,7 @@ Well worth reading but as with all
               attention and finally we'll all just say, "why bother
               having a driver?" QED   :-)  Alain
 
-## [Tesla
-
-            (TSLA) Partners with Israeli Firm for 'Driverless' Cars](http://www.streetinsider.com/Insiders+Blog/Tesla+%28TSLA%29+Partners+with+Israeli+Firm+for+Driverless+Cars/9160297.html)
+## [Tesla (TSLA) Partners with Israeli Firm for 'Driverless' Cars](http://www.streetinsider.com/Insiders+Blog/Tesla+%28TSLA%29+Partners+with+Israeli+Firm+for+Driverless+Cars/9160297.html)
 
         February 12, 2014 "According to Israeli news source Haaretz,
         Jerusalem-based vehicle safety systems manufacturer [Mobileye](http://us.mobileye.com/news/) and Tesla
@@ -298,9 +269,7 @@ Well worth reading but as with all
         check a text (emphasis added)  message ,
         change the radio, and do other tasks which would normally divert
         attention from the road for a short time (emphasis
-        added)..." [Read
-
-          more](http://www.streetinsider.com/Insiders+Blog/Tesla+%28TSLA%29+Partners+with+Israeli+Firm+for+Driverless+Cars/9160297.html)
+        added)..." [Read more](http://www.streetinsider.com/Insiders+Blog/Tesla+%28TSLA%29+Partners+with+Israeli+Firm+for+Driverless+Cars/9160297.html)
 
 In the true Tesla Hype tradition "short
             time" = 95% !  Hmmm  However they both know that the market
@@ -309,18 +278,11 @@ In the true Tesla Hype tradition "short
             2, then3, then.. by 2016??  Maybe, but it is a very long way
             from a to 95%  Alain
 
-## [Serving
+## [Serving New Jersey's Mobility Needs:](http://orfe.princeton.edu/%7Ealaink/NJ_aTaxiOrf467F13/Orf%20467F13_FinalReport&PresentationLinks.pdf)
 
-        New Jersey's Mobility Needs:](http://orfe.princeton.edu/%7Ealaink/NJ_aTaxiOrf467F13/Orf%20467F13_FinalReport&PresentationLinks.pdf)
-
-[With
-
-      Walking, Cycling, aTaxis and Trains; Mobility, Congestion and
-      Environmental Consequences](http://orfe.princeton.edu/%7Ealaink/NJ_aTaxiOrf467F13/Orf%20467F13_FinalReport&PresentationLinks.pdf).  Very
+[With Walking, Cycling, aTaxis and Trains; Mobility, Congestion and Environmental Consequences](http://orfe.princeton.edu/%7Ealaink/NJ_aTaxiOrf467F13/Orf%20467F13_FinalReport&PresentationLinks.pdf).  Very
       interesting student [PowerPoints](http://orfe.princeton.edu/%7Ealaink/NJ_aTaxiOrf467F13/Orf467F13_FinalProjectPresntations/)
-      and [Drafts
-
-        of Chapters](http://orfe.princeton.edu/%7Ealaink/NJ_aTaxiOrf467F13/Orf467F13_FinalReports/). A little rough in places but still well worth
+      and [Drafts of Chapters](http://orfe.princeton.edu/%7Ealaink/NJ_aTaxiOrf467F13/Orf467F13_FinalReports/). A little rough in places but still well worth
       browsing.  Alain
 
  [Slides:
@@ -328,21 +290,16 @@ http://orfe.princeton.edu/~alaink/NJ_aTaxiOrf467F13/Orf%20467F13_FinalReport&Pre
 
 Drafts of chapters: [http://orfe.princeton.edu/~alaink/NJ_aTaxiOrf467F13/Orf467F13_FinalReports/](http://orfe.princeton.edu/%7Ealaink/NJ_aTaxiOrf467F13/Orf467F13_FinalReports/)
 
-[](http://orfe.princeton.edu/%7Ealaink/NJ_aTaxiOrf467F13/Orf467F13_FinalReports/)
 
 # Calendar of Upcoming
         Events:
 
-## [](http://ite.cvent.com/events/ite-2014-technical-conference-and-exhibit/agenda-bee5f7ffea4540ffbf41f324d1e6c081.aspx)
+## 
 
-## [Google's
-
-        Self-Driving Car: What We've Done and What We Need](http://ite.cvent.com/events/ite-2014-technical-conference-and-exhibit/agenda-bee5f7ffea4540ffbf41f324d1e6c081.aspx)
+## [Google's Self-Driving Car: What We've Done and What We Need](http://ite.cvent.com/events/ite-2014-technical-conference-and-exhibit/agenda-bee5f7ffea4540ffbf41f324d1e6c081.aspx)
 
 Andrew Chatham, Principal Software Engineer, Google will
-      lead the plenary session on [Tuesday,
-
-        March 11](http://ite.cvent.com/events/ite-2014-technical-conference-and-exhibit/agenda-bee5f7ffea4540ffbf41f324d1e6c081.aspx). Chatham leads the offboard software and mapping
+      lead the plenary session on [Tuesday, March 11](http://ite.cvent.com/events/ite-2014-technical-conference-and-exhibit/agenda-bee5f7ffea4540ffbf41f324d1e6c081.aspx). Chatham leads the offboard software and mapping
       efforts for Google's self-driving cars. He joined the project in
       2009 and has helped the team achieve over 500,000 miles of
       autonomous driving. He is especially interested in the
@@ -350,14 +307,11 @@ Andrew Chatham, Principal Software Engineer, Google will
       transportation world. He joined Google in 2002 and is a graduate
       of Duke University.
 
-[Register
-
-        TODAY](https://ite.cvent.com/events/ite-2014-technical-conference-and-exhibit/registration-bee5f7ffea4540ffbf41f324d1e6c081.aspx?r=eba498f2-ec68-4f77-9bad-e6b73dfb9d25) for the ITE 2014 Technical Conference and Exhibit.
+[Register TODAY](https://ite.cvent.com/events/ite-2014-technical-conference-and-exhibit/registration-bee5f7ffea4540ffbf41f324d1e6c081.aspx?r=eba498f2-ec68-4f77-9bad-e6b73dfb9d25) for the ITE 2014 Technical Conference and Exhibit.
 
 ##
 
-## [2014 IEEE
-        Intelligent Vehicles Symposium](http://www.ieeeiv.net/)
+## [2014 IEEE Intelligent Vehicles Symposium](http://www.ieeeiv.net/)
 
 ### June 8 - 11, 2014, Dearborn, Michigan, USA
 
@@ -371,9 +325,7 @@ Andrew Chatham, Principal Software Engineer, Google will
 
 ## [Volvo-worldfirst-public-pilot-for-driverless-cars](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Videos/Volvo_TextingMachine.mp4)
 
-I prefer to call this: [Volvo's
-
-          "Texting Machine" concept video](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Videos/Volvo_TextingMachine.mp4).  It demonstrates
+I prefer to call this: [Volvo's "Texting Machine" concept video](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Videos/Volvo_TextingMachine.mp4).  It demonstrates
         very clearly that it is the "NHTSA Level 3"   feature that will
         be needed to make the car as good as transit; otherwise everyone
         is simply going to take transit.  Who cares about far the walk,
@@ -381,56 +333,37 @@ I prefer to call this: [Volvo's
         can be in my own world doing what I want to do during that whole
         process.  Without Level 3 I have to be off the grid focused on
         keeping the hulk between two white lines and not running into
-        things.  Transit wins.  [Play
-
-          vide](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Videos/Volvo_TextingMachine.mp4)o  Alain
+        things.  Transit wins.  [Play vide](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Videos/Volvo_TextingMachine.mp4)o  Alain
 
 #
 
           February 4, 2014
 
-## [U.S.
+## [U.S. Department of Transportation Announces Decision to Move Forward with Vehicle-to-Vehicle Communication Technology for Light Vehicles](http://www.nhtsa.gov/About+NHTSA/Press+Releases/2014/USDOT+to+Move+Forward+with+Vehicle-to-Vehicle+Communication+Technology+for+Light+Vehicles)
 
-        Department of Transportation Announces Decision to Move Forward
-        with Vehicle-to-Vehicle Communication Technology for Light
-        Vehicles](http://www.nhtsa.gov/About+NHTSA/Press+Releases/2014/USDOT+to+Move+Forward+with+Vehicle-to-Vehicle+Communication+Technology+for+Light+Vehicles)
-
-[](http://www.citymobil2.eu/en/About-CityMobil2/Overview/) [European
-
-      Commission agreed upon the demonstration schedule](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Reports&Speaches_External/Demo_timetable-1.pdf) Adrianon
+ [European Commission agreed upon the demonstration schedule](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Reports&Speaches_External/Demo_timetable-1.pdf) Adrianon
     Alessandrini [adriano.alessandrini@uniroma1.it](mailto:adriano.alessandrini@uniroma1.it)
 [s](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Reports&Speaches_External/Demo_timetable-1.pdf)
 
-## [](https://www.hyundaiusa.com/)  By far the
-              BEST Super Bowl Commercial   [Play
-
-                video](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Videos/HyundaiSuperBowlCommercial2014.mp4) Alain
+##   By far the
+              BEST Super Bowl Commercial   [Play video](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Videos/HyundaiSuperBowlCommercial2014.mp4) Alain
 
           January 26, 2014
 
-## [What
-
-        Will Happen to Public Transit in a World Full of Autonomous
-        Cars?](http://www.theatlanticcities.com/commute/2014/01/what-will-happen-public-transit-world-full-autonomous-cars/8131/)
+## [What Will Happen to Public Transit in a World Full of Autonomous Cars?](http://www.theatlanticcities.com/commute/2014/01/what-will-happen-public-transit-world-full-autonomous-cars/8131/)
 
     by Emily Badger, Jan 17, 2014   "...The great promise of autonomous
     cars is not that we could each own one in our own driveway – the
     21st century's version of owning your own Model T, or your own color
     TV, or your own bulky Macintosh – but that no one would need to own
-    one at all..." [Read
-
-      more](http://www.theatlanticcities.com/commute/2014/01/what-will-happen-public-transit-world-full-autonomous-cars/8131/) In fact read the whole thing as well as the [266
-
-              Comments](http://www.theatlanticcities.com/commute/2014/01/what-will-happen-public-transit-world-full-autonomous-cars/8131/#disqus_thread). This may be the first
+    one at all..." [Read more](http://www.theatlanticcities.com/commute/2014/01/what-will-happen-public-transit-world-full-autonomous-cars/8131/) In fact read the whole thing as well as the [266 Comments](http://www.theatlanticcities.com/commute/2014/01/what-will-happen-public-transit-world-full-autonomous-cars/8131/#disqus_thread). This may be the first
         time that these concepts have received any attention in any of
         the public press, the better reports by KPMG and Rand or
         the Congressional hearings.  Alain
 
           January 17, 2014
 
-## [Autonomous
-
-        Vehicle Technology:  A Guide for Policymakers](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/PDFs/Rand_Anderson_AutonomousVehicleTechnology.pdf)
+## [Autonomous Vehicle Technology:  A Guide for Policymakers](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/PDFs/Rand_Anderson_AutonomousVehicleTechnology.pdf)
 
 by James M. Anderson, Nidhi Kalra, Karlyn D. Stanley, Paul
       Sorensen, Constantine Samaras, Oluwatobi Oluwatola
@@ -439,9 +372,7 @@ This report is excellent
 
           January 6, 2014
 
-## [Self-Driving
-
-        Cars Moving into the Industry's Driver's Seat](http://press.ihs.com/press-release/automotive/self-driving-cars-moving-industrys-drivers-seat)
+## [Self-Driving Cars Moving into the Industry's Driver's Seat](http://press.ihs.com/press-release/automotive/self-driving-cars-moving-industrys-drivers-seat)
 
 Jan. 2, 2014  "Accident rates will plunge to near zero for SDCs,
       although other cars will crash into SDCs, but as the market share
@@ -458,32 +389,21 @@ Jan. 2, 2014  "Accident rates will plunge to near zero for SDCs,
       11.8 million in 2035 – 7 million SDCs with both driver control and
       autonomous control and 4.8 million that have only autonomous
       control. In all, there should be nearly 54 million self-driving
-      cars in use globally by 2035.  [Read
-
-        more](http://press.ihs.com/press-release/automotive/self-driving-cars-moving-industrys-drivers-seat)
+      cars in use globally by 2035.  [Read more](http://press.ihs.com/press-release/automotive/self-driving-cars-moving-industrys-drivers-seat)
 
           December 27, 2013
 
           December 20, 2013
 
-## [](http://www.amazon.com/The-New-Killer-Apps-Out-Innovate/dp/0989242013/ref=sr_1_1?ie=UTF8&qid=1387553143&sr=8-1&keywords=The+New+Killer+Apps+Mui) ["The
-
-        New Killer Apps](http://www.amazon.com/The-New-Killer-Apps-Out-Innovate/dp/0989242013/ref=sr_1_1?ie=UTF8&qid=1387553143&sr=8-1&keywords=The+New+Killer+Apps+Mui)
+##  ["The New Killer Apps](http://www.amazon.com/The-New-Killer-Apps-Out-Innovate/dp/0989242013/ref=sr_1_1?ie=UTF8&qid=1387553143&sr=8-1&keywords=The+New+Killer+Apps+Mui)
 
 How Large Companies Can Out-Innovate Start-Ups"
-by Chunka Mui and Paul B. Carroll [Now
+by Chunka Mui and Paul B. Carroll [Now Available](http://www.amazon.com/The-New-Killer-Apps-Out-Innovate/dp/0989242013/ref=sr_1_1?ie=UTF8&qid=1387553143&sr=8-1&keywords=The+New+Killer+Apps+Mui) [Highly Recommended.](https://www.kirkusreviews.com/book-reviews/chunka-mui/the-new-killer-apps/?utm_content=buffer57917&utm_source=buffer&utm_medium=twitter&utm_campaign=Buffer)See also Chunka's Dec. 19 Forbes article [Will The Google Car Force A Choice Between Lives And Jobs?](http://www.forbes.com/sites/chunkamui/2013/12/19/will-the-google-car-force-a-choice-between-lives-and-jobs/)
 
-        Available](http://www.amazon.com/The-New-Killer-Apps-Out-Innovate/dp/0989242013/ref=sr_1_1?ie=UTF8&qid=1387553143&sr=8-1&keywords=The+New+Killer+Apps+Mui) [Highly
-
-          Recommended.](https://www.kirkusreviews.com/book-reviews/chunka-mui/the-new-killer-apps/?utm_content=buffer57917&utm_source=buffer&utm_medium=twitter&utm_campaign=Buffer)See also Chunka's Dec. 19 Forbes article [Will
-
-            The Google Car Force A Choice Between Lives And Jobs?](http://www.forbes.com/sites/chunkamui/2013/12/19/will-the-google-car-force-a-choice-between-lives-and-jobs/)
-
-  [](Mailto:alaink@princeton.edu)[Mailto:alaink@princeton.edu](Mailto:alaink@princeton.edu)[](Mailto:alaink@princeton.edu)
+  [Mailto:alaink@princeton.edu](Mailto:alaink@princeton.edu)
 
  This list is maintained by [Alain Kornhauser](mailto:alaink@princeton.edu) and hosted
-    by the [Princeton University
-      LISTSERV](http://lists.princeton.edu).
+    by the [Princeton University LISTSERV](http://lists.princeton.edu).
 
 [Unsubscribe](https://lists.princeton.edu/cgi-bin/wa?TICKET=NzM1MjMzIGJpbm9AUFJJTkNFVE9OLkVEVSBTTUFSVERSSVZJTkdDQVJTIGluYtYkJuu3&c=SIGNOFF)
     | [Re-subscribe](https://lists.princeton.edu/cgi-bin/wa?TICKET=NzM1MjMzIGJpbm9AUFJJTkNFVE9OLkVEVSBTTUFSVERSSVZJTkdDQVJTIGluYtYkJuu3&c=SIGNUP)

@@ -26,7 +26,7 @@ Princeton, NJ
 [609-258-4657](tel:609-258-4657) (o)
 
 [609-980-1427](tel:609-980-1427) (c)
-[](http://www.princeton.edu/)
+
 
 Begin forwarded message:
 
@@ -73,8 +73,7 @@ The Administration has consistently been committed to enabling innovation and te
 Tomorrow's announcement builds on seven years of efforts. The President's
 [investments in the automotive industry](https://www.whitehouse.gov/the-press-office/2016/01/20/fact-sheet-how-bold-investments-administration-auto-industry-and-city)
  when it was on the brink of collapse have enabled this industry to continue to grow and innovate. The President's proposal earlier this year for a $4 billion investment in automated vehicle deployment through real-world pilots demonstrated the commitment to
- these technologies. And the Department of Transportation (DOT)'s [Smart
- City Challenge](https://www.whitehouse.gov/the-press-office/2016/06/23/fact-sheet-obama-administration-announces-columbus-oh-winner-40-million) announced $40 million to help Columbus, OH become the country's first city to fully integrate innovative technologies – including automated vehicle technologies – into their transportation
+ these technologies. And the Department of Transportation (DOT)'s [Smart City Challenge](https://www.whitehouse.gov/the-press-office/2016/06/23/fact-sheet-obama-administration-announces-columbus-oh-winner-40-million) announced $40 million to help Columbus, OH become the country's first city to fully integrate innovative technologies – including automated vehicle technologies – into their transportation
  network, which will help inform policy across America.
 
 If tested and deployed safely, automated vehicles—vehicles that can take over some or all of the driving task—could ultimately provide transformative benefits in areas such as:

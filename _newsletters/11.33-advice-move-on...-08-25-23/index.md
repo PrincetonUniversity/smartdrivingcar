@@ -87,16 +87,14 @@ if (msoBrowserCheck())
 33rd
 edition of the 11th year of SmartDrivingCars eLetter
 
-['This
- Experience May Feel Futuristic': Three Rides in Waymo Robot Taxis](https://www.nytimes.com/2023/08/21/technology/waymo-driverless-cars-san-francisco.html)
+['This Experience May Feel Futuristic': Three Rides in Waymo Robot Taxis](https://www.nytimes.com/2023/08/21/technology/waymo-driverless-cars-san-francisco.html)
 
 T. Mickie, Aug 21, " "Hello, Tripp," a disembodied woman's voice said through the speakers of a driverless taxi that was about to pick up a fare near the colorful Victorian houses known as the Painted Ladies.
 
 "This experience may feel futuristic," the voice said. "Please don't touch the steering wheel or pedals during the ride. For any questions, you can find information in the Waymo app, like how we keep our cars safe or clean."
 
-For several years, San Francisco's hilly and congested streets have doubled as a test track for hundreds of driverless cars operated by [Waymo, an autonomous vehicle
- company owned by the Google parent company Alphabet](https://www.nytimes.com/2021/04/02/business/waymo-john-krafcik.html), and [General Motors-owned Cruise](https://www.nytimes.com/2022/09/28/technology/driverless-cars-san-francisco.html)…. "
-[](https://www.youtube.com/watch?v=fza6dhm9nX0)[Read  more](https://www.nytimes.com/2023/08/21/technology/waymo-driverless-cars-san-francisco.html)  Hmmmm…  Although
+For several years, San Francisco's hilly and congested streets have doubled as a test track for hundreds of driverless cars operated by [Waymo, an autonomous vehicle company owned by the Google parent company Alphabet](https://www.nytimes.com/2021/04/02/business/waymo-john-krafcik.html), and [General Motors-owned Cruise](https://www.nytimes.com/2022/09/28/technology/driverless-cars-san-francisco.html)…. "
+[Read  more](https://www.nytimes.com/2023/08/21/technology/waymo-driverless-cars-san-francisco.html)  Hmmmm…  Although
  I included this article in the body of SDC 11.32, I am repeating it here so that I can include a letter-to-the editor that I sent the NY Times, which is unlikely that the NYT will publish, so I'll just include it here as follows…
 
 To the editor:

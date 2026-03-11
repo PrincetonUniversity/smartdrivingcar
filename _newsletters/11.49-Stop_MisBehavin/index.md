@@ -11,8 +11,7 @@ display_name: "11.49 - Stop_Misbehavin"
  Settle in, folks! I've got more than the usual amount to Hmmm. Perfect for those who need an edifying distraction over the Holidays. And I promise there won't be a test
  when we're back in the New Year J
 
-# [Tesla
- Autopilot Recall Threatens Its Defense in Lawsuits Over Crashes](https://www.bloomberg.com/news/articles/2023-12-15/tesla-recall-threatens-its-defense-in-autopilot-crash-lawsuits)
+# [Tesla Autopilot Recall Threatens Its Defense in Lawsuits Over Crashes](https://www.bloomberg.com/news/articles/2023-12-15/tesla-recall-threatens-its-defense-in-autopilot-crash-lawsuits)
 
 M. Nayak, Dec. 15, "[Tesla Inc.](https://www.bloomberg.com/quote/TSLA:US)'s biggest
  vehicle recall ever threatens to hurt the company's defense in several high-profile lawsuits it faces over crashes linked to Autopilot.
@@ -99,8 +98,7 @@ J Alain
 [Read More](https://www.youtube.com/watch?v=gjEK54c-29Q)  Hmmmm….  See especially
 [19:44](https://www.youtube.com/watch?v=vXH2r2bNjk8&list=PL0lACHv09kBz2IJkc0dAo0kZc9A_u7opr&index=2&t=1184s) Autopilot / NHTSA resolution:
 
-[Wild
- Tesla Bot Update, Tax Credit Changes, Autopilot Resolution, Musk's University](https://www.youtube.com/watch?v=vXH2r2bNjk8&list=PL0lACHv09kBz2IJkc0dAo0kZc9A_u7opr&index=2)
+[Wild Tesla Bot Update, Tax Credit Changes, Autopilot Resolution, Musk's University](https://www.youtube.com/watch?v=vXH2r2bNjk8&list=PL0lACHv09kBz2IJkc0dAo0kZc9A_u7opr&index=2)
 
 * [0:00](https://www.youtube.com/watch?v=vXH2r2bNjk8&list=PL0lACHv09kBz2IJkc0dAo0kZc9A_u7opr&index=2&t=0s) R. Mauer, Dec. 13, "TSLA0:51FOMC / interest rates4:39Tesla bot updates8:56Tax credit changes12:54Uber incentives14:33Hotel adds Tesla chargers15:58Giga Mexico approval16:46Cybertrucks at Giga Texas17:24Carwow Cybertruck review19:44Autopilot / NHTSA resolution24:16Musk's university."Alain
 * [0:00](https://www.youtube.com/watch?v=Y85jSroVVwA&t=0s) open

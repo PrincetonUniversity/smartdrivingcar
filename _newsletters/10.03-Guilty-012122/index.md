@@ -574,7 +574,7 @@ Be sure to see the white paper [True Impact of ADAS Features on Insurance Claim 
 
 November 12, 2021  
 
-[](http://rrdc.com/op_usa_pop_up_metro.html)  
+  
 [First across the Forth – and a royal visit](https://vivarail.co.uk/first-across-the-forth-and-a-royal-visit/)  
 H. Posner, Nov 10, "UK-based rolling stock & battery technology manufacturer Vivarail noted a number of achievements during the first week of the COP26 UN Climate Change Conference in Glasgow. The opening Saturday of the conference on Saturday October 30 saw a historic run across the Firth of Forth, as the first electric train across the iconic bridge.
 

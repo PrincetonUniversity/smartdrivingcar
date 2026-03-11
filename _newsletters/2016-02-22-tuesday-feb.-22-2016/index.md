@@ -9,8 +9,7 @@ SmartDrivingCars-????-021816
 
 # [Thursday, March 3, 2016](When+IBM%E2%80%99s+Watson+computer+triumphed+over+human+champions+in+the+quiz+show+%E2%80%9CJeopardy%21%E2%80%9D+it+was+a+stunning+achievement+that+suggested+limitless+horizons+for+artificial+intelligence.,,Soon%20after,+IBM%E2%80%99s+leaders+moved+to+convert+Watson+from+a+celebrated+science+project+into+a+moneymaking+business,%20starting%20with%20health%20care.,,Yet%20the%20next%20few%20years%20after%20its%20game%20show%20win%20proved%20humbling%20for%20Watson.%20Today,+IBM+executives+candidly+admit+that+medicine+proved+far+more+difficult+than+they+anticipated.+Costs+and+frustration+mounted+on+Watson%E2%80%99s+early+projects.+They+were+scaled+back,%20refocused%20and%20occasionally%20shelved.,,IBM%E2%80%99s+early+struggles+with+Watson+point+to+the+sobering+fact+that+commercializing+new+technology,%20however%20promising,+typically+comes+in+short+steps+rather+than+giant+leaps.)
 
-### [THE ROAD NOT TAKEN: How we
-              found (and lost) the dream of Personal Rapid Transit](http://www.cyclingweekly.co.uk/news/latest-news/toyota-create-crash-test-cyclist-to-help-develop-driverless-cars-211316)
+### [THE ROAD NOT TAKEN: How we found (and lost) the dream of Personal Rapid Transit](http://www.cyclingweekly.co.uk/news/latest-news/toyota-create-crash-test-cyclist-to-help-develop-driverless-cars-211316)
 
           A. Robertson, Feb 10 , Feb. "...Half a century after its
           heyday, the Alden StaRRcar clearly wasn't made for its world.
@@ -90,20 +89,13 @@ Today is different. With PRT,
               finally deliver PRT's utopian mobility to all and
               substantially transform our cities and suburbs. Alain
 
-### [Google
-
-              self-driving car crashes into a bus (update: statement)](http://www.engadget.com/2016/02/29/google-self-driving-car-accident/)
+### [Google self-driving car crashes into a bus (update: statement)](http://www.engadget.com/2016/02/29/google-self-driving-car-accident/)
 
           J. Fingas, Feb 29 "It may be the first instance of a Google
-          autonomous car being at fault in an accident...."  [Lexus
-
-            RX450h 2/14/16 DMV Report signed by Chris Urmson](https://www.dmv.ca.gov/portal/wcm/connect/3946fbb8-e04e-4d52-8f80-b33948df34b2/Google+Auto+LLC+02.14.16.pdf?MOD=AJPERES) [Read more](http://www.engadget.com/2016/02/29/google-self-driving-car-accident/)Hmmmm...had to
+          autonomous car being at fault in an accident...."  [Lexus RX450h 2/14/16 DMV Report signed by Chris Urmson](https://www.dmv.ca.gov/portal/wcm/connect/3946fbb8-e04e-4d52-8f80-b33948df34b2/Google+Auto+LLC+02.14.16.pdf?MOD=AJPERES) [Read more](http://www.engadget.com/2016/02/29/google-self-driving-car-accident/)Hmmmm...had to
               happen, but it was at 2mph.  No big deal.  Alain
 
-### [ATRI
-
-                SOLICITING TRUCKING INDUSTRY CRASH COST DATA FOR NEW
-                RESEARCH](http://atri-online.org/2016/03/02/atri-soliciting-trucking-industry-crash-cost-data-for-new-research/)
+### [ATRI SOLICITING TRUCKING INDUSTRY CRASH COST DATA FOR NEW RESEARCH](http://atri-online.org/2016/03/02/atri-soliciting-trucking-industry-crash-cost-data-for-new-research/)
 
 Press Release, March 2, "The American Transportation
             Research Institute (ATRI), the trucking industry's
@@ -116,9 +108,7 @@ Press Release, March 2, "The American Transportation
 
             This request for data is targeted toward motor carriers.
             ATRI is also working with its insurance industry
-              partners to complete the crash cost database.  [Read
-
-              more](http://atri-online.org/2016/03/02/atri-soliciting-trucking-industry-crash-cost-data-for-new-research/)   Hmmm... the operative
+              partners to complete the crash cost database.  [Read more](http://atri-online.org/2016/03/02/atri-soliciting-trucking-industry-crash-cost-data-for-new-research/)   Hmmm... the operative
                 word are  "...working with its insurance
               industry partners ..." to
                 properly determine what is "self-insured" and what was
@@ -126,8 +116,7 @@ Press Release, March 2, "The American Transportation
                 trucks that have and have not the
                 various OSS.  Alain
 
-### [Scania and
-              Ericsson join forces to improve transport efficiency](http://www.ericsson.com/news/1989100)
+### [Scania and Ericsson join forces to improve transport efficiency](http://www.ericsson.com/news/1989100)
 
           Press release, Feb 25, "...New developments in LTE and 5G
           standardization have created opportunities for dedicated
@@ -135,9 +124,7 @@ Press Release, March 2, "The American Transportation
           while minimizing risks of unpredictability and latency...." [Read more](http://www.ericsson.com/news/1989100)Hmmmm...You mean they are doing it
               without "FHWA"?!  :-) Alain
 
-### [Varden
-
-              Labs demonstrates self-driving shuttle at Fresno State](http://www.fresnobee.com/news/local/article62075392.html)
+### [Varden Labs demonstrates self-driving shuttle at Fresno State](http://www.fresnobee.com/news/local/article62075392.html)
 
            Feb 23, "Silicon Valley-based [Varden Labs](http://vardenlabs.com/) showed off its
           electric, autonomous shuttle at Fresno State, . Rides were given to students, staff and media. The
@@ -146,10 +133,7 @@ Press Release, March 2, "The American Transportation
           National Engineers Week."  [Read more](http://www.fresnobee.com/news/local/article62075392.html)Hmmmm...See video to
               view early version of an emerging product. Alain
 
-### [NVIDIA
-
-              Puts Pedal to the Metal in New Jersey, Opens Auto Tech
-              Office in Storied Bell Labs Site](http://www.fresnobee.com/news/local/article62075392.html)
+### [NVIDIA Puts Pedal to the Metal in New Jersey, Opens Auto Tech Office in Storied Bell Labs Site](http://www.fresnobee.com/news/local/article62075392.html)
 
            Feb 23, "This week, NVIDIA is opening a new office in New
           Jersey, where we'll focus on developing software for
@@ -170,9 +154,7 @@ Press Release, March 2, "The American Transportation
               in this are make New Jersey is the focal center of
               image-based software for SmartDrivingCars.  :-)   Alain
 
-### [DOT
-
-              opens competition for transportation research grants](https://www.transportation.gov/fastlane/dot-opens-competition-transportation-research-grants)
+### [DOT opens competition for transportation research grants](https://www.transportation.gov/fastlane/dot-opens-competition-transportation-research-grants)
 
 Fastlane, Mar.1, "...up to $377.5 million will be available
             over 5 years to support solution-oriented transportation
@@ -188,9 +170,7 @@ Fastlane, Mar.1, "...up to $377.5 million will be available
             transportation topic, such as transportation safety or
             freight mobility..." [Read more](http://www.grants.gov/web/grants/search-grants.html?keywords=UTCOPENCOMP2016)Hmmmm...OK. Alain
 
-### [Responsibility
-
-              for Vehicle Security and Driver Privacy in the Age of the Connected Car](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/PDFs/idc-veracode-connected-car-research-whitepaper.pdf)
+### [Responsibility for Vehicle Security and Driver Privacy in the Age of the Connected Car](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/PDFs/idc-veracode-connected-car-research-whitepaper.pdf)
 
 ICI Opinion, Feb. 2016, "The Connected Car is one of the
             primary use cases for the Internet of Things (IoT). Yet it
@@ -219,9 +199,7 @@ ICI Opinion, Feb. 2016, "The Connected Car is one of the
 
             What types of applications that are drivers demanding? "
 
-[Read
-
-              more](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/PDFs/idc-veracode-connected-car-research-whitepaper.pdf)   Hmmmm...Very
+[Read more](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/PDFs/idc-veracode-connected-car-research-whitepaper.pdf)   Hmmmm...Very
                 interesting, but it fails to properly differentiate
                 between "on-board-autonomous-collision-avoidance/
                 lane-keeping/self-driving" focused on enhancing safety
@@ -245,8 +223,7 @@ ICI Opinion, Feb. 2016, "The Connected Car is one of the
                 safety and privacy issues, which may not be soon.
                 Alain
 
-### [Automated Driving & Platooning: Issues &
-              Opportunities](http://www.atabusinesssolutions.com/Default.aspx?TabID=1415&productId=3095480)
+### [Automated Driving & Platooning: Issues & Opportunities](http://www.atabusinesssolutions.com/Default.aspx?TabID=1415&productId=3095480)
 
           TMC IR 2015-2 "This Information Report is published by ATA's
           Technology & Maintenance Council (TMC) and examines the
@@ -258,9 +235,7 @@ ICI Opinion, Feb. 2016, "The Connected Car is one of the
           interest and concern on the part of commercial fleets.  This
           report was developed by TMC's Automated Driving and Platooning
           Task Force under the auspices of the Council's Future Truck
-          Committee."  [Read
-
-            more](http://www.atabusinesssolutions.com/Default.aspx?TabID=1415&productId=3095480) Hmmmm...Unfortunately, I
+          Committee."  [Read more](http://www.atabusinesssolutions.com/Default.aspx?TabID=1415&productId=3095480) Hmmmm...Unfortunately, I
               have not been able to get a copy of the report to review
               it.  The above paragraph is encouraging; however, since
               the word "safety" doesn't appear above; nor does
@@ -268,15 +243,9 @@ ICI Opinion, Feb. 2016, "The Connected Car is one of the
               suspicious that this may continuing to miss the miss the
               point as to why automation is so vital to improving the
               lives of truck drivers and truck owners. :-(  However,
-              there is the [TMC
+              there is the [TMC Future Truck Program Position Paper: 2015-3 Recommendations Regarding Automated Driving and Platooning Systems](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/PDFs/FT_PP_2015_3.pdf) which refers to this report.  ???? )Alain
 
-              Future Truck Program Position Paper: 2015-3
-              Recommendations Regarding Automated Driving and Platooning
-              Systems](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/PDFs/FT_PP_2015_3.pdf) which refers to this report.  ???? )Alain
-
-### [Geneva:
-
-              Volvo announces Pilot Assist II updates](http://safecarnews.com/volvo-announces-pilot-assist-ii-updates-fe7262/)
+### [Geneva: Volvo announces Pilot Assist II updates](http://safecarnews.com/volvo-announces-pilot-assist-ii-updates-fe7262/)
 
           Mar. 2, "Volvo Cars has announced a wide range of updates for
           model year 2017, including the introduction of its latest
@@ -294,17 +263,12 @@ ICI Opinion, Feb. 2016, "The Connected Car is one of the
           auto-steer to help keep you on the road. Volvo's standard
           collision avoidance system, City Safety, also receives an
           update with Large Animal Detection added on 90 Series
-          cars....."  [Read
-
-            mor](http://safecarnews.com/volvo-announces-pilot-assist-ii-updates-fe7262/)e Hmmmm...At least
+          cars....."  [Read mor](http://safecarnews.com/volvo-announces-pilot-assist-ii-updates-fe7262/)e Hmmmm...At least
               they are not over-hyping and it operates at speeds up to
               130km/hr.  Thank you.  (If you want to go faster than
               130km/hr, please stay far away from me. :-)  ) . Alain
 
-### [STMicroelectronics
-
-              Reveals Most Highly Integrated Automotive 77GHz Radar Chip
-              for Emerging Long-Range Applications](http://www.st.com/web/en/press/p3809)
+### [STMicroelectronics Reveals Most Highly Integrated Automotive 77GHz Radar Chip for Emerging Long-Range Applications](http://www.st.com/web/en/press/p3809)
 
           Press release, Feb 23, "STMicroelectronics (NYSE: STM), a
           global semiconductor leader serving customers across the
@@ -314,28 +278,22 @@ ICI Opinion, Feb. 2016, "The Connected Car is one of the
           its latest long-range (77GHz) radar chips to leading
           automotive customers..."[Read more](http://www.st.com/web/en/press/p3809)Hmmmm...Excellent. Alain
 
-### [Harbrick
+### [Harbrick Goes West, Harvests Funds](http://www.driverlesstransportation.com/harbrick-goes-west-harvests-funds-12413)
 
-              Goes West, Harvests Funds](http://www.driverlesstransportation.com/harbrick-goes-west-harvests-funds-12413)
-
-### [](http://www.st.com/web/en/press/p3809)
+### 
 
 Feb 17, "Autonomous driving technology is growing fast, and
             startups like Harbrick Technologies are growing with it.
             The developer of the popular middleware plug-in PolySync has
             raised money, hired top technology executives, and moved to
-            the West Coast, all in the last quarter or so...." [Read
-
-              more](http://www.driverlesstransportation.com/harbrick-goes-west-harvests-funds-12413) Hmmmm...Congratulations!!.
+            the West Coast, all in the last quarter or so...." [Read more](http://www.driverlesstransportation.com/harbrick-goes-west-harvests-funds-12413) Hmmmm...Congratulations!!.
 
                 Alain
 
 ## Some other thoughts
               that deserve your attention
 
-### [Geneva:
-
-              Volvo announces Pilot Assist II updates](http://www.nytimes.com/2016/03/03/arts/design/santiago-calatravas-transit-hub-is-a-soaring-symbol-of-a-boondoggle.html?hp&action=click&pgtype=Homepage&clickSource=image&module=photo-spot-region&region=top-news&WT.nav=top-news)
+### [Geneva: Volvo announces Pilot Assist II updates](http://www.nytimes.com/2016/03/03/arts/design/santiago-calatravas-transit-hub-is-a-soaring-symbol-of-a-boondoggle.html?hp&action=click&pgtype=Homepage&clickSource=image&module=photo-spot-region&region=top-news&WT.nav=top-news)
 
           Feb 29, "The World Trade Center Transportation Hub, opening
           Thursday, gives the city an Instagram-ready attraction and the
@@ -361,9 +319,7 @@ Feb 17, "Autonomous driving technology is growing fast, and
               Has the public sector doing anything right lately in the
               transportation arena?  :-( Alain
 
-### [Welcome
-
-              to Competitive Drone Racing](http://www.outsideonline.com/2059086/welcome-competitive-drone-racing)
+### [Welcome to Competitive Drone Racing](http://www.outsideonline.com/2059086/welcome-competitive-drone-racing)
 
           D. Ferry, Mar. 2 "How do you start a new sport from scratch? A
           former Tough Mudder executive and other entrepreneurs around
@@ -379,17 +335,13 @@ Feb 17, "Autonomous driving technology is growing fast, and
               Hmmmm....Interesting!   Certainly a step up from video
               games. Alai
 
-### [Woman,
-
-              77, Fatally Struck by Livery Cab in Midtown](http://www.nytimes.com/2016/03/01/nyregion/woman-77-fatally-struck-by-livery-cab-in-midtown.html)
+### [Woman, 77, Fatally Struck by Livery Cab in Midtown](http://www.nytimes.com/2016/03/01/nyregion/woman-77-fatally-struck-by-livery-cab-in-midtown.html)
 
           N. Remnick, Feb. 29," ...... was crossing Madison Avenue at
           36th Street just after 8:30 a.m. on Monday, a few blocks from
           her apartment and the costume jewelry company that she started
           more than 35 years ago, when a black livery cab turned and
-          struck her, pinning her under the car...." [Read
-
-            more](http://www.nytimes.com/2016/03/01/nyregion/woman-77-fatally-struck-by-livery-cab-in-midtown.html)Hmmmm....How do these
+          struck her, pinning her under the car...." [Read more](http://www.nytimes.com/2016/03/01/nyregion/woman-77-fatally-struck-by-livery-cab-in-midtown.html)Hmmmm....How do these
               tragedies continue to plague us when Automated Collision
               Avoidance Systems (ACAS) that can mitigate such tragedies
               remain sitting on the shelves of the OEMs.  These systems
@@ -407,9 +359,7 @@ Feb 17, "Autonomous driving technology is growing fast, and
               ACAS option.  Insurance rates must begin to reflect this
               disparity!  Alain
 
-### [Welcome
-
-              to the Smart Mobility newsletter](http://www.drivesweden.net/en/welcome-smart-mobility-newsletter)
+### [Welcome to the Smart Mobility newsletter](http://www.drivesweden.net/en/welcome-smart-mobility-newsletter)
 
 The last few years' massive work on self-driving vehicles
             is now changing gear and traditional vehicle manufacturers,
@@ -417,11 +367,9 @@ The last few years' massive work on self-driving vehicles
             at using automation to design new mobility services.    This
             newsletter aims to keep its readers abreast of just that;
             new exciting concepts within the field of Smart Mobility.
-            .." [Read more](http://www.outsideonline.com/2059086/welcome-competitive-drone-racing)[](http://www.drivesweden.net/en/welcome-smart-mobility-newsletter)Hmmmm....Welcome Jan! Alain
+            .." [Read more](http://www.outsideonline.com/2059086/welcome-competitive-drone-racing)Hmmmm....Welcome Jan! Alain
 
-### [Slowly
-
-              Fulfilling the Promise of Watson](http://www.nytimes.com/2016/02/29/technology/the-promise-of-artificial-intelligence-unfolds-in-small-steps.html?hp&action=click&pgtype=Homepage&clickSource=wide-thumb&module=mini-moth&region=top-stories-below&WT.nav=top-stories-below)
+### [Slowly Fulfilling the Promise of Watson](http://www.nytimes.com/2016/02/29/technology/the-promise-of-artificial-intelligence-unfolds-in-small-steps.html?hp&action=click&pgtype=Homepage&clickSource=wide-thumb&module=mini-moth&region=top-stories-below&WT.nav=top-stories-below)
 
 S. Lohr, Feb289 "When IBM's Watson computer triumphed over
             human champions in the quiz show "Jeopardy!" it was a
@@ -441,9 +389,7 @@ S. Lohr, Feb289 "When IBM's Watson computer triumphed over
             steps rather than giant leaps..." [Read more](http://www.nytimes.com/2016/02/29/technology/the-promise-of-artificial-intelligence-unfolds-in-small-steps.html?hp&action=click&pgtype=Homepage&clickSource=wide-thumb&module=mini-moth&region=top-stories-below&WT.nav=top-stories-below)Hmmmm...Very
                 interesting.  Alain
 
-### [When
-
-                  'Symptoms of Television' Began Their Inexorable Spread](http://www.nytimes.com/2016/03/01/science/television-history.html?ref=technology)
+### [When 'Symptoms of Television' Began Their Inexorable Spread](http://www.nytimes.com/2016/03/01/science/television-history.html?ref=technology)
 
           N. Bakalar, Feb 29,  "It was a problem everyone knew was
           solvable, but one that had yet to be solved.
@@ -465,9 +411,7 @@ S. Lohr, Feb289 "When IBM's Watson computer triumphed over
 
 [http://orfe.princeton.edu/~alaink/SmartDrivingCars/Papers/](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Papers/)
 
-### [Comments
-
-              on Proposed AV Regulations in California](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Papers/RPeterson_CA_DMV%20_RegsComments032316.pdf)
+### [Comments on Proposed AV Regulations in California](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Papers/RPeterson_CA_DMV%20_RegsComments032316.pdf)
 
 R. Peterson, Feb 23, "...Although section
             38750 attempts to assign the regulation of "autonomous
@@ -497,9 +441,7 @@ R. Peterson, Feb 23, "...Although section
             regulations were published, vehicles "capable" of driving
             themselves within the parameters for which they were
             designed were on the roads and legal in every state,
-            including California.  [Read
-
-              more](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Papers/RPeterson_CA_DMV%20_RegsComments032316.pdf) Hmmmm...Excellent.
+            including California.  [Read more](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Papers/RPeterson_CA_DMV%20_RegsComments032316.pdf) Hmmmm...Excellent.
                 Alain
 
 ## Recompiled Old News &
@@ -510,10 +452,7 @@ R. Peterson, Feb 23, "...Although section
 ## Half-baked stuff
                 that probably doesn't deserve your time:
 
-### [](http://www.its.leeds.ac.uk/fileadmin/documents/research/MobilityEnergyFutures_-_SelfDrivingCars.pdf)  [ATRI
-
-                  SOLICITING TRUCKING INDUSTRY CRASH COST DATA FOR NEW
-                  RESEARCH](http://atri-online.org/2016/03/02/atri-soliciting-trucking-industry-crash-cost-data-for-new-research/)
+###   [ATRI SOLICITING TRUCKING INDUSTRY CRASH COST DATA FOR NEW RESEARCH](http://atri-online.org/2016/03/02/atri-soliciting-trucking-industry-crash-cost-data-for-new-research/)
 
 Press Release, March 2, "The American Transportation
               Research Institute (ATRI), the trucking industry's
@@ -526,23 +465,17 @@ Press Release, March 2, "The American Transportation
 
               This request for data is targeted toward motor carriers.
               ATRI is also working with its insurance industry
-                partners to complete the crash cost database.  [Read
-
-                more](http://atri-online.org/2016/03/02/atri-soliciting-trucking-industry-crash-cost-data-for-new-research/)   Hmmm... the operative word is  "...working
+                partners to complete the crash cost database.  [Read more](http://atri-online.org/2016/03/02/atri-soliciting-trucking-industry-crash-cost-data-for-new-research/)   Hmmm... the operative word is  "...working
                 with its insurance industry partners ..." to properly determine what is
                   Self-insured and what was covered by insurance for the
                   accident histories of the trucks that have and
                   have not the various OSS.  Alain
 
-### [Nissan
-
-                Unveil A New Driverless Version of The Qashqai](http://thinkinghighways.com/nissan-unveil-a-new-driverless-car-the-qashqai/)
+### [Nissan Unveil A New Driverless Version of The Qashqai](http://thinkinghighways.com/nissan-unveil-a-new-driverless-car-the-qashqai/)
 
             Mar. 2, "Stage one autonomous drive technology will give
             refreshed Nissan Qashqai 'single lane control' in heavy
-            traffic conditions on highways...."  [Read
-
-              mor](http://thinkinghighways.com/nissan-unveil-a-new-driverless-car-the-qashqai/)e Hmmmm...Headline
+            traffic conditions on highways...."  [Read mor](http://thinkinghighways.com/nissan-unveil-a-new-driverless-car-the-qashqai/)e Hmmmm...Headline
                 grossly exaggerates what's here. Playing catchup, but
                 far behind. Alain
 
@@ -556,9 +489,7 @@ Press Release, March 2, "The American Transportation
 ## Calendar
                       of Upcoming Events:
 
-[The
-
-                            Business of Autonomous Vehicles](http://driverlessmarket.com/agenda/)
+[The Business of Autonomous Vehicles](http://driverlessmarket.com/agenda/)
 
 March 22-23, 2016
 
@@ -575,11 +506,7 @@ March 22-23, 2016
 ###
 
                                                     February 25, 2016
-[Vancouver
-
-                                              councillor wants city to
-                                              prepare for driverless
-                                              cars](http://www.vancouversun.com/news/vancouver+city+councillor+wants+study+impact+driverless+cars/11726263/story.html)  T. Fletcher, Feb
+[Vancouver councillor wants city to prepare for driverless cars](http://www.vancouversun.com/news/vancouver+city+councillor+wants+study+impact+driverless+cars/11726263/story.html)  T. Fletcher, Feb
                                             18 "Driverless cars might
                                             seem like a futuristic
                                             dream, but a city councillor
@@ -616,9 +543,7 @@ March 22-23, 2016
                                             (transportation) plan, which
                                             we just did, to be
                                               obsolete before it even
-                                              starts."..."  [Read
-
-                                              more](http://www.nsc.org/NewsDocuments/2016/mv-fatality-report-1215.pdf)Hmmmm...Yup!
+                                              starts."..."  [Read more](http://www.nsc.org/NewsDocuments/2016/mv-fatality-report-1215.pdf)Hmmmm...Yup!
 
                                                 Obviously, "obsolescence
                                                 before ribbon cutting"
@@ -628,11 +553,7 @@ March 22-23, 2016
 
                                                     February 18, 2016
 
-### [Motor
-
-                                              Vehicle Deaths Increase by
-                                              Largest Percent in 50
-                                              Years](http://www.nsc.org/NewsDocuments/2016/mv-fatality-report-1215.pdf)
+### [Motor Vehicle Deaths Increase by Largest Percent in 50 Years](http://www.nsc.org/NewsDocuments/2016/mv-fatality-report-1215.pdf)
 
  Press
                                             Release Feb 16 "With
@@ -665,9 +586,7 @@ March 22-23, 2016
                                             death rate is 1.22 deaths
                                             per 100 million vehicle
                                             miles traveled, an increase
-                                            of 5% from the 2014 rate. [Read
-
-                                              more](http://www.nsc.org/NewsDocuments/2016/mv-fatality-report-1215.pdf)Hmmmm...This
+                                            of 5% from the 2014 rate. [Read more](http://www.nsc.org/NewsDocuments/2016/mv-fatality-report-1215.pdf)Hmmmm...This
 
                                                 is REALLY BAD news.
                                                 Come on insurance. This
@@ -688,10 +607,7 @@ March 22-23, 2016
 
                                                     February 9, 2016
 
-### [Budget
-
-                                              of the U.S. Government, FY
-                                              2017](https://www.whitehouse.gov/sites/default/files/omb/budget/fy2017/assets/budget.pdf)
+### [Budget of the U.S. Government, FY 2017](https://www.whitehouse.gov/sites/default/files/omb/budget/fy2017/assets/budget.pdf)
 
 Feb. 9,
                                             "...(3) Accelerate the
@@ -737,10 +653,7 @@ Feb. 9,
 
                                                     January 28, 2016
 
-### [London's
-
-                                              first driverless cars
-                                              revealed](http://www.bbc.com/news/technology-35432687)
+### [London's first driverless cars revealed](http://www.bbc.com/news/technology-35432687)
 
  The
                                             consortium behind the trial
@@ -773,9 +686,7 @@ Feb. 9,
                                             million passengers and
                                             traveled three million
                                             kilometers (1.8 million
-                                            miles)...."   [Read
-
-                                              more](http://www.bbc.com/news/technology-35432687)   Hmmm...Wow!!
+                                            miles)...."   [Read more](http://www.bbc.com/news/technology-35432687)   Hmmm...Wow!!
 
                                                   ... PRT
                                                     evolving to be
@@ -787,9 +698,7 @@ Alain
 
 ###
 
-### [Obama's $4 Billion Plan
-                                              for Self-Driving Cars Will
-                                              Make Google Very Happy](http://recode.net/2016/01/14/obamas-4-billion-plan-for-self-driving-cars-will-make-google-very-happy/)
+### [Obama's $4 Billion Plan for Self-Driving Cars Will Make Google Very Happy](http://recode.net/2016/01/14/obamas-4-billion-plan-for-self-driving-cars-will-make-google-very-happy/)
 
  M. Bergen,
                                             Jan 14 "The Obama
@@ -825,24 +734,14 @@ Alain
                                               really matters for Google:
                                               These national rules will
                                               allow fully driverless
-                                              cars..." [Read
-
-                                              More](http://recode.net/2016/01/14/obamas-4-billion-plan-for-self-driving-cars-will-make-google-very-happy/)  Hmmm...
-                                                    A [few
-
-                                                      months ago](http://www.its.dot.gov/press/2015/ngv_tech_announcement.htm) it
+                                              cars..." [Read More](http://recode.net/2016/01/14/obamas-4-billion-plan-for-self-driving-cars-will-make-google-very-happy/)  Hmmm...
+                                                    A [few months ago](http://www.its.dot.gov/press/2015/ngv_tech_announcement.htm) it
                                                     was $42M for
                                                     Connected Vehicles.
                                                     Today it is 100x for
                                                     automated vehicles!
                                                     Finally Secretary
-                                                    Foxx.."[YES!
-
-                                                          YES! JESUS H.
-                                                          TAP-DANCING
-                                                          CHRIST... I
-                                                          HAVE SEEN THE
-                                                          LIGHT](https://www.youtube.com/watch?v=lX5tfRdkoY0)"
+                                                    Foxx.."[YES! YES! JESUS H. TAP-DANCING CHRIST... I HAVE SEEN THE LIGHT](https://www.youtube.com/watch?v=lX5tfRdkoY0)"
                                                           (Blue
                                                           Brothers)
                                                           Yea!!!!!   :-)
@@ -851,10 +750,7 @@ Alain
 
                                                     January 3, 2016
 
-### [Google
-
-                                              Pairs With Ford To Build
-                                              Self-Driving Cars](https://www.yahoo.com/autos/google-pairs-with-ford-to-1326344237400118.html)
+### [Google Pairs With Ford To Build Self-Driving Cars](https://www.yahoo.com/autos/google-pairs-with-ford-to-1326344237400118.html)
 
  J. Hyde
                                             & S. Carty, Dec. 21
@@ -906,9 +802,7 @@ Alain
                                             Ford was thinking of itself
                                             "as a mobility company," and
                                             what that would mean for its
-                                            business" [Read
-
-                                              more](https://www.yahoo.com/autos/google-pairs-with-ford-to-1326344237400118.html)  Hmmm...Not
+                                            business" [Read more](https://www.yahoo.com/autos/google-pairs-with-ford-to-1326344237400118.html)  Hmmm...Not
 
                                                     surprising and not
                                                     exclusive.
@@ -916,18 +810,13 @@ Alain
 
                                                     December 19, 2015
 
-### [Adam
-
-                                              Jonas' View on Autonomous
-                                              Cars](http://linkback.morganstanley.com/web/sendlink/webapp/BMServlet?file=kpmb1mve-3p5j-g000-97a7-d8d3855a5201&store=0&d=1&user=dagn42i4pkquh-0&__gda__=1549992813_42e5b148a43b27b943d8d34f1e5c3295#0011&dagn42i4pkquh-1&1549992813_f2523f33158f4db2b6d628c5c9008f28&0021&dagn42i4pkquh-2&1549992813_f9a15a1b06e61ec454fad4cc7759010a)
+### [Adam Jonas' View on Autonomous Cars](http://linkback.morganstanley.com/web/sendlink/webapp/BMServlet?file=kpmb1mve-3p5j-g000-97a7-d8d3855a5201&store=0&d=1&user=dagn42i4pkquh-0&__gda__=1549992813_42e5b148a43b27b943d8d34f1e5c3295#0011&dagn42i4pkquh-1&1549992813_f2523f33158f4db2b6d628c5c9008f28&0021&dagn42i4pkquh-2&1549992813_f9a15a1b06e61ec454fad4cc7759010a)
 
  Video
                                             similar to part of Adam's
                                             Luncheon talk @ 2015 Florida
                                             Automated Vehicle Symposium
-                                            on Dec 1.  [Hmmm
-                                                  ... Watch
-                                              Video](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Videos/AdamJonas10T_MorganStanley.mp4)  especially
+                                            on Dec 1.  [Hmmm ... Watch Video](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Videos/AdamJonas10T_MorganStanley.mp4)  especially
 
                                                 at the 13:12 mark.
                                                 Compelling; especially
@@ -937,7 +826,7 @@ Alain
 
                                                 Alain
 
-  [](Mailto:alaink@princeton.edu)[Mailto:alaink@princeton.edu](Mailto:alaink@princeton.edu) [](Mailto:alaink@princeton.edu)
+  [Mailto:alaink@princeton.edu](Mailto:alaink@princeton.edu) 
 
                                                           This list is
                                                           maintained by

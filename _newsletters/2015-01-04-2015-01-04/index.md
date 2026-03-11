@@ -17,20 +17,10 @@ January
                                                           happening this
                                                           month.
 
-# See [Calendar
-
-                                                          of Upcoming
-                                                          Event](#Calendar_of_Upcoming_Events:)s
+# See [Calendar of Upcoming Event](#Calendar_of_Upcoming_Events:)s
 Below
 
-## [New
-
-                                                          York Bus
-                                                          Driver
-                                                          Arrested After
-                                                          Fatally
-                                                          Striking
-                                                          Pedestrian](http://www.nytimes.com/2014/12/25/nyregion/new-york-bus-driver-arrested-after-fatally-striking-pedestrian.html?emc=eta1)
+## [New York Bus Driver Arrested After Fatally Striking Pedestrian](http://www.nytimes.com/2014/12/25/nyregion/new-york-bus-driver-arrested-after-fatally-striking-pedestrian.html?emc=eta1)
 
 MARC SANTORA DEC. 24, 2014 "A Metropolitan
                                                           Transportation
@@ -80,9 +70,7 @@ Mr.
                                                           was struck by
                                                           the bus, the
                                                           police
-                                                          said..."  [Read
-
-                                                          more](http://www.nytimes.com/2014/12/25/nyregion/new-york-bus-driver-arrested-after-fatally-striking-pedestrian.html?emc=eta1)
+                                                          said..."  [Read more](http://www.nytimes.com/2014/12/25/nyregion/new-york-bus-driver-arrested-after-fatally-striking-pedestrian.html?emc=eta1)
 
 Hmmm... Tragic for everyone.  Such accidents would be
                                                           largely
@@ -120,14 +108,7 @@ Hmmm... Tragic for everyone.  Such accidents would be
                                                           technology.
 Alain
 
-## [CES
-                                                          Preview:
-                                                          Self-Driving
-                                                          Cars, Apple
-                                                          CarPlay and
-                                                          Android Auto
-                                                          Integration to
-                                                          Debut](http://www.hollywoodreporter.com/news/ces-preview-driving-cars-apple-760918)
+## [CES Preview: Self-Driving Cars, Apple CarPlay and Android Auto Integration to Debut](http://www.hollywoodreporter.com/news/ces-preview-driving-cars-apple-760918)
 
 by Michael Walker 1/2/2015 "Confirming the relentless
                                                           convergence of
@@ -236,9 +217,7 @@ The
                                                           enhancement of
                                                           the driving
                                                           experience...."
-                                                          [Read
-
-                                                          more](http://www.hollywoodreporter.com/news/ces-preview-driving-cars-apple-760918)
+                                                          [Read more](http://www.hollywoodreporter.com/news/ces-preview-driving-cars-apple-760918)
 
 Hmmm...
 
@@ -272,9 +251,7 @@ Hmmm...
                                                           the driver.
                                                           :-(  Alai
 
-## [NCHRP
-
-                                                          RFP](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/NCHRP_20-102/http_apps.trb.org_cmsfeed_TRBNetProjectDisplay.asp_Pro-3.pdf)
+## [NCHRP RFP](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/NCHRP_20-102/http_apps.trb.org_cmsfeed_TRBNetProjectDisplay.asp_Pro-3.pdf)
 
 Impacts of Connected Vehicles and Automated Vehicles on
                                                           State and
@@ -355,22 +332,12 @@ Impacts of Connected Vehicles and Automated Vehicles on
                                                           at least get
                                                           it
                                                           alphabetically???
-                                                          See also  "...[Report
-
-                                                          to the CV
-                                                          Pooled Fund
-                                                          Study](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/NCHRP_20-102/7-Derr%20NCHRP%20Research%2020-102%20on%20CV.pdf)".
+                                                          See also  "...[Report to the CV Pooled Fund Study](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/NCHRP_20-102/7-Derr%20NCHRP%20Research%2020-102%20on%20CV.pdf)".
                                                           Alain
 
 ## Some other thoughts that deserve your time:
 
-### [Cities
-
-                                                          Target
-                                                          Elevated
-                                                          Levels of
-                                                          Pedestrian
-                                                          Deaths](http://www.wsj.com/articles/cities-target-elevated-levels-of-pedestrian-deaths-1419027750)
+### [Cities Target Elevated Levels of Pedestrian Deaths](http://www.wsj.com/articles/cities-target-elevated-levels-of-pedestrian-deaths-1419027750)
 
 Andrew Tangel Dec. 19, 2014 "After a variety of safety
                                                           efforts have
@@ -422,9 +389,7 @@ Andrew Tangel Dec. 19, 2014 "After a variety of safety
                                                           long-term
                                                           downward
                                                           trend. ..."
-[Read
-
-                                                          more](http://www.wsj.com/articles/cities-target-elevated-levels-of-pedestrian-deaths-1419027750)
+[Read more](http://www.wsj.com/articles/cities-target-elevated-levels-of-pedestrian-deaths-1419027750)
 
 Hmmm
 
@@ -444,14 +409,7 @@ Hmmm
                                                           deserve your
                                                           time:
 
-### [More
-
-                                                          Teasers
-                                                          Released For
-                                                          Mercedes
-                                                          Concept
-                                                          Debuting At
-                                                          2015 CES](http://www.motorauthority.com/news/1053105_more-teasers-released-for-mercedes-concept-debuting-at-2015-ces)
+### [More Teasers Released For Mercedes Concept Debuting At 2015 CES](http://www.motorauthority.com/news/1053105_more-teasers-released-for-mercedes-concept-debuting-at-2015-ces)
 
 Viknesh Vijayenthiran "...The automaker is hoping the
                                                           concept's
@@ -475,24 +433,16 @@ Viknesh Vijayenthiran "...The automaker is hoping the
                                                           than you've
                                                           ever
                                                           imagined."..."
-                                                          [Read
-
-                                                          more](http://www.motorauthority.com/news/1053105_more-teasers-released-for-mercedes-concept-debuting-at-2015-ces) Only the title is the teaser.  Nothing there.
+                                                          [Read more](http://www.motorauthority.com/news/1053105_more-teasers-released-for-mercedes-concept-debuting-at-2015-ces) Only the title is the teaser.  Nothing there.
                                                           Alain
 
-## [C'mon
-
-                                                          Man!](https://www.youtube.com/watch?v=fhCks3bvTdA)
+## [C'mon Man!](https://www.youtube.com/watch?v=fhCks3bvTdA)
                                                           (These folks
                                                           didn't
                                                           get/read the
                                                           memo)
 
-### [Editorial
-                                                          California
-                                                          isn't ready
-                                                          for driverless
-                                                          cars](http://www.latimes.com/opinion/editorials/la-ed-driverless-cars-20141228-story.html)
+### [Editorial California isn't ready for driverless cars](http://www.latimes.com/opinion/editorials/la-ed-driverless-cars-20141228-story.html)
 
                                                           "...There are
                                                           larger
@@ -530,9 +480,7 @@ Viknesh Vijayenthiran "...The automaker is hoping the
                                                           demand to
                                                           build public
                                                           transit...."
-                                                          [Read
-
-                                                          more](http://www.latimes.com/opinion/editorials/la-ed-driverless-cars-20141228-story.html)
+                                                          [Read more](http://www.latimes.com/opinion/editorials/la-ed-driverless-cars-20141228-story.html)
 
                                                           Hmmm ... How
                                                           is it that the
@@ -592,14 +540,9 @@ Viknesh Vijayenthiran "...The automaker is hoping the
                                                           for driverless
                                                           transit
                                                           SmartDrivingCars
-                                                          .  Alain [C'mon
-                                                          Man](https://www.youtube.com/watch?v=wSQ0lideoh0)
+                                                          .  Alain [C'mon Man](https://www.youtube.com/watch?v=wSQ0lideoh0)
 
-### [The
-
-                                                          One Mistake
-                                                          Google Keeps
-                                                          Making](http://www.forbes.com/sites/quickerbettertech/2014/12/29/the-one-mistake-google-keeps-making/)
+### [The One Mistake Google Keeps Making](http://www.forbes.com/sites/quickerbettertech/2014/12/29/the-one-mistake-google-keeps-making/)
 
 Gene
 
@@ -666,9 +609,7 @@ Gene
                                                           accommodate
                                                           some sort of
                                                           technology or
-                                                          sensor..." [Read
-
-                                                          more](http://www.forbes.com/sites/quickerbettertech/2014/12/29/the-one-mistake-google-keeps-making/)
+                                                          sensor..." [Read more](http://www.forbes.com/sites/quickerbettertech/2014/12/29/the-one-mistake-google-keeps-making/)
 (actually,
 
                                                           don't) ....So
@@ -694,10 +635,7 @@ Gene
                                                           for you.
                                                           Alain
 
-### [The
-
-                                                          conundrum of
-                                                          connected cars](http://www.theglobeandmail.com/globe-drive/news/industry-news/the-conundrum-of-connected-cars/article22186385/?cmpid=rss1)
+### [The conundrum of connected cars](http://www.theglobeandmail.com/globe-drive/news/industry-news/the-conundrum-of-connected-cars/article22186385/?cmpid=rss1)
 
 TED
 
@@ -757,19 +695,14 @@ January
                                                           Booth on
                                                           January 6 ONLY
 
-## [ATrA
-
-                                                          Technix 2015](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/PDFs/ATRA%20Technix%202015%20Flyer%20v8%2020141202.pdf)
+## [ATrA Technix 2015](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/PDFs/ATRA%20Technix%202015%20Flyer%20v8%2020141202.pdf)
 
 [Advanced Transit Workshop](http://www.advancedtransit.org/library/news/ai1ec_event/atra-technix-2015/?instance_id=108)
 
 U
                                                           of Maryland
 
-[Near
-
-                                                          College Park
-                                                          Metro Station](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/PDFs/ATRA%20Technix%202015%20Flyer%20v8%2020141202.pdf)
+[Near College Park Metro Station](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/PDFs/ATRA%20Technix%202015%20Flyer%20v8%2020141202.pdf)
 
 Saturday,
                                                           January 10,
@@ -783,18 +716,14 @@ January
 
 0.
 
-                                                          1. Sunday, 9:00am- Noon [Workshop
-
-                                                          132](http://pressamp.trb.org/aminteractiveprogram/EventDetails.aspx?ID=31711)   Findings from 2014 AV Symposium
+                                                          1. Sunday, 9:00am- Noon [Workshop 132](http://pressamp.trb.org/aminteractiveprogram/EventDetails.aspx?ID=31711)   Findings from 2014 AV Symposium
 
 2.
 
                                                           Sunday
 
                                                           9:00AM- 5:00PM
-                                                          [Workshop
-
-                                                          146D](http://pressamp.trb.org/aminteractiveprogram/EventDetails.aspx?ID=31975) Design Principles for
+                                                          [Workshop 146D](http://pressamp.trb.org/aminteractiveprogram/EventDetails.aspx?ID=31975) Design Principles for
                                                           Highly
                                                           Automated
                                                           Driving:
@@ -802,9 +731,7 @@ January
                                                           Lessons from
                                                           Research
 
-                                                          3. Monday 1:30PM- 3:15PM [Session
-
-                                                          329](http://pressamp.trb.org/aminteractiveprogram/EventDetails.aspx?ID=32082) The
+                                                          3. Monday 1:30PM- 3:15PM [Session 329](http://pressamp.trb.org/aminteractiveprogram/EventDetails.aspx?ID=32082) The
                                                           Future Is
                                                           Here:
                                                           Autonomous
@@ -813,9 +740,7 @@ January
 
 4a.
 
-                                                          Monday 3:45PM- 5:30PM [Session
-
-                                                          412](http://pressamp.trb.org/aminteractiveprogram/EventDetails.aspx?ID=32543)
+                                                          Monday 3:45PM- 5:30PM [Session 412](http://pressamp.trb.org/aminteractiveprogram/EventDetails.aspx?ID=32543)
                                                           National Road
                                                           Vehicle
                                                           Automation
@@ -830,9 +755,7 @@ January
 
                                                           5. Monday
                                                           7:30PM- 9:30PM
-[Poster
-
-                                                          Session 470](http://pressamp.trb.org/aminteractiveprogram/EventDetails.aspx?ID=32808)
+[Poster Session 470](http://pressamp.trb.org/aminteractiveprogram/EventDetails.aspx?ID=32808)
                                                           Current
                                                           Projects and
                                                           New
@@ -841,9 +764,7 @@ January
                                                           Vehicle-Highway
                                                           Automation. (Half Baked, Alain)
 
-                                                          6. Tuesday 8:00AM- 9:45AM [Session
-
-                                                          504](http://pressamp.trb.org/aminteractiveprogram/EventDetails.aspx?ID=32247)
+                                                          6. Tuesday 8:00AM- 9:45AM [Session 504](http://pressamp.trb.org/aminteractiveprogram/EventDetails.aspx?ID=32247)
                                                           Progress
                                                           Toward
                                                           Resolving
@@ -856,9 +777,7 @@ January
 
                                                           7. Tuesday
                                                           10:15AM- Noon
-                                                          [Session
-
-                                                          564](http://pressamp.trb.org/aminteractiveprogram/EventDetails.aspx?ID=32245)
+                                                          [Session 564](http://pressamp.trb.org/aminteractiveprogram/EventDetails.aspx?ID=32245)
                                                           Alternative
                                                           Deployment
                                                           Strategies for
@@ -872,9 +791,7 @@ January
 Tuesday
 
                                                           1:30PM- 3:15PM
-[Session
-
-                                                          624](http://pressamp.trb.org/aminteractiveprogram/EventDetails.aspx?ID=32562)
+[Session 624](http://pressamp.trb.org/aminteractiveprogram/EventDetails.aspx?ID=32562)
                                                           Hazards,
                                                           Crashes, and
                                                           Automated
@@ -884,9 +801,7 @@ Tuesday
 
                                                           Tuesday
                                                           1:30PM- 3:15PM
-[Session
-
-                                                          621](http://pressamp.trb.org/aminteractiveprogram/EventDetails.aspx?ID=32268)
+[Session 621](http://pressamp.trb.org/aminteractiveprogram/EventDetails.aspx?ID=32268)
                                                           Pathways to
                                                           Automated
                                                           Transit and
@@ -908,24 +823,17 @@ Tuesday
 
                                                           Tuesday
                                                           2:00PM- 3:45PM
-[Session
-
-                                                          657](http://pressamp.trb.org/aminteractiveprogram/Program.aspx)
+[Session 657](http://pressamp.trb.org/aminteractiveprogram/Program.aspx)
                                                           Automated
                                                           Transit
                                                           Systems
 
                                                           9. Tuesday
                                                           5:30PM-
-                                                          7:30PM+ [Princeton
+                                                          7:30PM+ [Princeton TRB Banquet](http://orfe.princeton.edu/%7Ealaink/TRB%2715/TRB15_Invite.pdf)
+[Tony Chen's Seafood Restaurant](http://www.tonychengrestaurant.com/)
 
-                                                          TRB Banquet](http://orfe.princeton.edu/%7Ealaink/TRB%2715/TRB15_Invite.pdf)
-[Tony Chen's Seafood
-                                                          Restaurant](http://www.tonychengrestaurant.com/)
-
-10. Tuesday 7:30PM- 9:30PM    [Session
-
-                                                          75](http://pressamp.trb.org/aminteractiveprogram/EventDetails.aspx?ID=32419)6
+10. Tuesday 7:30PM- 9:30PM    [Session 75](http://pressamp.trb.org/aminteractiveprogram/EventDetails.aspx?ID=32419)6
                                                           Automated
                                                           Transit System
                                                           Experiences
@@ -934,9 +842,7 @@ Tuesday
                                                           11.
                                                           Wednesday
                                                           10:15AM-
-                                                          12:00PM  [Session
-
-                                                          818](http://pressamp.trb.org/aminteractiveprogram/EventDetails.aspx?ID=32409) The
+                                                          12:00PM  [Session 818](http://pressamp.trb.org/aminteractiveprogram/EventDetails.aspx?ID=32409) The
                                                           Vision and
                                                           Potential
                                                           Impacts of
@@ -948,38 +854,27 @@ Tuesday
                                                           12a. Wednesday
 
                                                           2:30PM- 4:00PM
-[Comm
-
-                                                          Meeting](http://pressamp.trb.org/aminteractiveprogram/EventDetails.aspx?ID=30300)
+[Comm Meeting](http://pressamp.trb.org/aminteractiveprogram/EventDetails.aspx?ID=30300)
                                                           Automated
                                                           Transit
                                                           Systems
                                                           Committee
 
-                                                          12b. Wednesday 2:30PM- 4:00PM [SubComm
-
-                                                          Meeting](http://pressamp.trb.org/aminteractiveprogram/EventDetails.aspx?ID=32758) Human Factors in Road Vehicle Automation
+                                                          12b. Wednesday 2:30PM- 4:00PM [SubComm Meeting](http://pressamp.trb.org/aminteractiveprogram/EventDetails.aspx?ID=32758) Human Factors in Road Vehicle Automation
 
                                                           13. Thursday
 
                                                           8:00AM-
-                                                          12:00PM [SubComm
-
-                                                          Meeting](http://pressamp.trb.org/aminteractiveprogram/EventDetails.aspx?ID=32462)
+                                                          12:00PM [SubComm Meeting](http://pressamp.trb.org/aminteractiveprogram/EventDetails.aspx?ID=32462)
                                                           Challenges and
                                                           Opportunities
                                                           of Road
                                                           Vehicle
                                                           Automation
 
-## [2015
+## [2015 Princeton University TRB Banquet](http://orfe.princeton.edu/%7Ealaink/TRB%2715/TRB15_Invite.pdf)
 
-                                                          Princeton
-                                                          University TRB
-                                                          Banquet](http://orfe.princeton.edu/%7Ealaink/TRB%2715/TRB15_Invite.pdf)
-
-[Tony Chen's Seafood
-                                                          Restaurant](http://www.tonychengrestaurant.com/)[](http://www.tonychengrestaurant.com/)RSVP
+[Tony Chen's Seafood Restaurant](http://www.tonychengrestaurant.com/)RSVP
 
                                                           @ [http://doodle.com/rhgt5sqp65sgtgmh](http://doodle.com/rhgt5sqp65sgtgmh)
 
@@ -1012,12 +907,8 @@ Bringing
                                                           Trucks &
                                                           Buses
 
-[Save
-
-                                                          the date
-(Invitation
-
-                                                          only)](mailto:alaink@princeton.edu)
+[Save the date
+(Invitation only)](mailto:alaink@princeton.edu)
 
 Tuesday,
 
@@ -1025,7 +916,6 @@ Tuesday,
                                                           2015 @ Ft.
                                                           Monmouth, NJ
 
-[](http://www.autonomousvehiclesymposium.com/)
 
 ## [Call for Papers](http://www.autonomousvehiclesymposium.com/)
 
@@ -1042,14 +932,7 @@ December
 
 ###
 
-### [Daimler
-
-                                                          Chairman Dr.
-                                                          Dieter Zetsche
-                                                          to Deliver
-                                                          Keynote
-                                                          Address at
-                                                          2015 CES](http://www.cesweb.org/News/Press-Releases/CES-Press-Release.aspx?NodeID=c7f1e0ca-b638-4293-8fd6-281c0e22707a)
+### [Daimler Chairman Dr. Dieter Zetsche to Deliver Keynote Address at 2015 CES](http://www.cesweb.org/News/Press-Releases/CES-Press-Release.aspx?NodeID=c7f1e0ca-b638-4293-8fd6-281c0e22707a)
 
 Arlington, VA – 10/06/2014 – "The Consumer Electronics
                                                           Association
@@ -1121,9 +1004,7 @@ Arlington, VA – 10/06/2014 – "The Consumer Electronics
                                                           Theater within
                                                           the
                                                           Cosmopolitan."
-                                                          [Read
-
-                                                          mor](http://www.cesweb.org/News/Press-Releases/CES-Press-Release.aspx?NodeID=c7f1e0ca-b638-4293-8fd6-281c0e22707a)e
+                                                          [Read mor](http://www.cesweb.org/News/Press-Releases/CES-Press-Release.aspx?NodeID=c7f1e0ca-b638-4293-8fd6-281c0e22707a)e
                                                           Daimler
 
                                                           will have a
@@ -1139,10 +1020,7 @@ December
 
 ###
 
-### [2014
-                                                          Florida
-                                                          Automated
-                                                          Vehicle Summit](http://www.fleng.org/index.cfm)
+### [2014 Florida Automated Vehicle Summit](http://www.fleng.org/index.cfm)
 
 Florida DOT is blazing the trail for the integration of
                                                           automated
@@ -1170,17 +1048,9 @@ Florida DOT is blazing the trail for the integration of
 
 ###
 
-### [A
-                                                          Road Test of
-                                                          Alternative
-                                                          Fuel Visions](http://www.nytimes.com/2014/11/18/science/earth/hydrogen-cars-join-electric-models-in-showrooms.html?hpw&rref=science&action=click&pgtype=Homepage&module=well-region&region=bottom-well&WT.nav=bottom-well&_r=0)
+### [A Road Test of Alternative Fuel Visions](http://www.nytimes.com/2014/11/18/science/earth/hydrogen-cars-join-electric-models-in-showrooms.html?hpw&rref=science&action=click&pgtype=Homepage&module=well-region&region=bottom-well&WT.nav=bottom-well&_r=0)
 
-### [Hydrogen
-
-                                                          Cars Join
-                                                          Electric
-                                                          Models in
-                                                          Showrooms](http://www.nytimes.com/2014/11/18/science/earth/hydrogen-cars-join-electric-models-in-showrooms.html?hpw&rref=science&action=click&pgtype=Homepage&module=well-region&region=bottom-well&WT.nav=bottom-well&_r=0)
+### [Hydrogen Cars Join Electric Models in Showrooms](http://www.nytimes.com/2014/11/18/science/earth/hydrogen-cars-join-electric-models-in-showrooms.html?hpw&rref=science&action=click&pgtype=Homepage&module=well-region&region=bottom-well&WT.nav=bottom-well&_r=0)
 
 By
 
@@ -1257,9 +1127,7 @@ A kilogram of hydrogen contains as much chemical energy
                                                           plug in than
                                                           places to top
                                                           off a tank of
-                                                          hydrogen...."[Read
-
-                                                          more](http://www.nytimes.com/2014/11/18/science/earth/hydrogen-cars-join-electric-models-in-showrooms.html?hpw&rref=science&action=click&pgtype=Homepage&module=well-region&region=bottom-well&WT.nav=bottom-well&_r=0)  Looked into this in the 70's.  Is the "Hydrogen Economy"
+                                                          hydrogen...."[Read more](http://www.nytimes.com/2014/11/18/science/earth/hydrogen-cars-join-electric-models-in-showrooms.html?hpw&rref=science&action=click&pgtype=Homepage&module=well-region&region=bottom-well&WT.nav=bottom-well&_r=0)  Looked into this in the 70's.  Is the "Hydrogen Economy"
 
                                                           emerging from
                                                           its "40
@@ -1275,12 +1143,7 @@ A kilogram of hydrogen contains as much chemical energy
 
 ###
 
-### [Tesla's
-
-                                                          Autonomous Car
-                                                          Claims More
-                                                          Hype Than
-                                                          Reality](http://blog.luxresearchinc.com/blog/2014/11/teslas-autonomous-car-claims-more-hype-than-reality/)
+### [Tesla's Autonomous Car Claims More Hype Than Reality](http://blog.luxresearchinc.com/blog/2014/11/teslas-autonomous-car-claims-more-hype-than-reality/)
 
 Maryanna Saenko "...Given the bold claims, it is likely
                                                           that in 2015
@@ -1344,23 +1207,14 @@ Maryanna Saenko "...Given the bold claims, it is likely
                                                           much of it
                                                           outside of
                                                           Tesla's
-                                                          walls."  [Read
-
-                                                          more](http://blog.luxresearchinc.com/blog/2014/11/teslas-autonomous-car-claims-more-hype-than-reality/)  Hmmmm.. Amen! Alain
+                                                          walls."  [Read more](http://blog.luxresearchinc.com/blog/2014/11/teslas-autonomous-car-claims-more-hype-than-reality/)  Hmmmm.. Amen! Alain
 
                                                           November 7,
                                                           2014
 
 ###
 
-### [Fujitsu
-
-                                                          Laboratories
-                                                          develops
-                                                          lower-cost
-                                                          millimeter-wave
-                                                          radar for
-                                                          automobiles](http://m.phys.org/news/2014-10-fujitsu-laboratories-lower-cost-millimeter-wave-radar.html?utm_campaign=cmp_354220&utm_source=getanewsletter)
+### [Fujitsu Laboratories develops lower-cost millimeter-wave radar for automobiles](http://m.phys.org/news/2014-10-fujitsu-laboratories-lower-cost-millimeter-wave-radar.html?utm_campaign=cmp_354220&utm_source=getanewsletter)
 
 Oct
 
@@ -1454,9 +1308,7 @@ Oct
                                                           these sensors
                                                           at lower
                                                           costs. ...".
-                                                          [Read
-
-                                                          mor](http://m.phys.org/news/2014-10-fujitsu-laboratories-lower-cost-millimeter-wave-radar.html?utm_campaign=cmp_354220&utm_source=getanewsletter)e  Hmmm... Very interesting.  Do reads the whole
+                                                          [Read mor](http://m.phys.org/news/2014-10-fujitsu-laboratories-lower-cost-millimeter-wave-radar.html?utm_campaign=cmp_354220&utm_source=getanewsletter)e  Hmmm... Very interesting.  Do reads the whole
                                                           article. Very
                                                           promising, but
                                                           not really
@@ -1467,12 +1319,7 @@ Oct
 
 ###
 
-### [N.J.
-
-                                                          Senate panel
-                                                          paves way for
-                                                          self-driving
-                                                          cars](http://www.nj.com/politics/index.ssf/2014/10/nj_senate_panel_paves_the_way_for_driverless_cars.html)
+### [N.J. Senate panel paves way for self-driving cars](http://www.nj.com/politics/index.ssf/2014/10/nj_senate_panel_paves_the_way_for_driverless_cars.html)
 
 Matt Friedman Oct 27 "...The bill ([S734)](http://www.njleg.state.nj.us/2014/Bills/S1000/734_I1.HTM),
                                                           which was
@@ -1546,21 +1393,12 @@ Matt Friedman Oct 27 "...The bill ([S734)](http://www.njleg.state.nj.us/2014/Bil
                                                           efforts here
                                                           continue to
                                                           progress.".."
-                                                          [Read
-
-                                                          more](http://www.nj.com/politics/index.ssf/2014/10/nj_senate_panel_paves_the_way_for_driverless_cars.html)...and [my
-
-                                                          lead testimony](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/NJ-AV-Legislation/KornhauserTestimonyS734.pdf),
-                                                          that of [Michael
-
-                                                          Scrudato of
-                                                          Munich Re](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/NJ-AV-Legislation/ScrudatoTestimonyS734.pdf)
+                                                          [Read more](http://www.nj.com/politics/index.ssf/2014/10/nj_senate_panel_paves_the_way_for_driverless_cars.html)...and [my lead testimony](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/NJ-AV-Legislation/KornhauserTestimonyS734.pdf),
+                                                          that of [Michael Scrudato of Munich Re](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/NJ-AV-Legislation/ScrudatoTestimonyS734.pdf)
                                                           ,[Newsworks](http://www.newsworks.org/index.php/new-jersey-more/item/74437-nj-paving-the-way-for-self-driven-cars)
                                                           and CBS.com
 
-                                                          [video
-
-                                                          interview](http://newyork.cbslocal.com/2014/10/27/driverless-car-bill-cruises-through-nj-senate-panel/).
+                                                          [video interview](http://newyork.cbslocal.com/2014/10/27/driverless-car-bill-cruises-through-nj-senate-panel/).
 
                                                           Progress!
                                                           (only negative
@@ -1568,23 +1406,14 @@ Matt Friedman Oct 27 "...The bill ([S734)](http://www.njleg.state.nj.us/2014/Bil
                                                           from Honda
                                                           which was so
                                                           bad it ended
-                                                          up helping.  [C'mon
-
-                                                          Honda](https://www.youtube.com/watch?v=IpbMhgwcLQk)!)
+                                                          up helping.  [C'mon Honda](https://www.youtube.com/watch?v=IpbMhgwcLQk)!)
                                                           Alain
 
                                                           October 22, 2014
 
 ###
 
-### [Request
-
-                                                          for Comment on
-                                                          Automotive
-                                                          Electronic
-                                                          Control
-                                                          Systems Safety
-                                                          and Security](http://www.gpo.gov/fdsys/pkg/FR-2014-10-07/html/2014-23805.htm)
+### [Request for Comment on Automotive Electronic Control Systems Safety and Security](http://www.gpo.gov/fdsys/pkg/FR-2014-10-07/html/2014-23805.htm)
 
 Volume 79, Number 194 (Tuesday, October 7, 2014); FR Doc
                                                           No:
@@ -1685,21 +1514,14 @@ DATES: You
                                                           receives them
                                                           no later than
                                                           December 8,
-                                                          2014. [Read
-
-                                                          more](http://www.gpo.gov/fdsys/pkg/FR-2014-10-07/html/2014-23805.htm)
+                                                          2014. [Read more](http://www.gpo.gov/fdsys/pkg/FR-2014-10-07/html/2014-23805.htm)
 
                                                           October 10,
                                                           2014
 
 ###
 
-### [Inaugural
-
-                                                          Automated
-                                                          Vehicle Summit
-                                                          @ Fort
-                                                          Monmouth](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/FtMonmouth/InauguralFtMonmouthPressRelease.pdf)
+### [Inaugural Automated Vehicle Summit @ Fort Monmouth](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/FtMonmouth/InauguralFtMonmouthPressRelease.pdf)
 
 Press release.Oct 9, 2014 Princeton, NJ "New Jersey's
                                                           first summit
@@ -1767,15 +1589,12 @@ Press release.Oct 9, 2014 Princeton, NJ "New Jersey's
                                                           represented
                                                           New Jersey's
                                                           legislative
-                                                          bodies..." [Read
+                                                          bodies..." [Read more](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/FtMonmouth/InauguralFtMonmouthPressRelease.pdf)   Hmmm..Progress!  Alain
 
-                                                          more](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/FtMonmouth/InauguralFtMonmouthPressRelease.pdf)   Hmmm..Progress!  Alain
-
-                                                          [](Mailto:alaink@princeton.edu)[Mailto:alaink@princeton.edu](Mailto:alaink@princeton.edu)[](Mailto:alaink@princeton.edu)
+                                                          [Mailto:alaink@princeton.edu](Mailto:alaink@princeton.edu)
 
                                                         This list is
-                                                        maintained by [Alain
-                                                          Kornhauser](mailto:alaink@princeton.edu)
+                                                        maintained by [Alain Kornhauser](mailto:alaink@princeton.edu)
                                                         and hosted by
                                                         the [Princeton University LISTSERV](http://lists.princeton.edu).
 
@@ -1785,8 +1604,7 @@ Press release.Oct 9, 2014 Princeton, NJ "New Jersey's
           ***************************************************************************************************************
 
           This list is maintained by [Alain Kornhauser](mailto:alaink@princeton.edu) and
-          hosted by the [Princeton University
-            LISTSERV](http://lists.princeton.edu).
+          hosted by the [Princeton University LISTSERV](http://lists.princeton.edu).
 
 [Unsubscribe](http://lists.princeton.edu/cgi-bin/wa?TICKET=NzM1NTc1IGFsYWlua0BFWENIQU5HRS5QUklOQ0VUT04uRURVIFNNQVJURFJJVklOR0NBUlMgIEkHDhqJqHu5&c=SIGNOFF)
           | [Re-subscribe](http://lists.princeton.edu/cgi-bin/wa?TICKET=NzM1NTc1IGFsYWlua0BFWENIQU5HRS5QUklOQ0VUT04uRURVIFNNQVJURFJJVklOR0NBUlMgIEkHDhqJqHu5&c=SIGNUP)

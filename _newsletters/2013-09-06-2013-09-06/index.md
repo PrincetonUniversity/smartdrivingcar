@@ -7,10 +7,9 @@ permalink: /2013-09-06-2013-09-06/
 
 2013
 
-## [](https://us.mobileye.com/) [A New Product
-              Category:  the PCwD !](https://us.mobileye.com/products/compare/)
+##  [A New Product Category:  the PCwD !](https://us.mobileye.com/products/compare/)
 
-## Personal Collision-warning Device (PCwD) Available at under $850[](https://us.mobileye.com/products/compare/)
+## Personal Collision-warning Device (PCwD) Available at under $850
 
 The market for Collision Warning
               Systems may well be developing in a manner similar to that
@@ -19,11 +18,8 @@ The market for Collision Warning
               installed" versions sold as options with new cars. The
               popularity and adoption of navigation systems was fueled
               by their availability to all car users as inexpensive
-              stand-alone [Personal
-
-                Navigation Device (PND)](http://www.tomtom.com/en_us/products/?WT.Click_Link=top_nav)that could be used in any
-              car or as [less
-                expensive, even "free", application programs](http://www.copilotlive.com/us/) that
+              stand-alone [Personal Navigation Device (PND)](http://www.tomtom.com/en_us/products/?WT.Click_Link=top_nav)that could be used in any
+              car or as [less expensive, even "free", application programs](http://www.copilotlive.com/us/) that
               leverage the capabilities of one's existing device, be it
               a notebook, tablet, iPad, or smartPhone. Mobileye is out
               with what I'd like to call a "Personal
@@ -70,34 +66,23 @@ The market for Collision Warning
             See following videos for more information:
 
 [2013_Commercial_Teen](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Videos/MobileyeSexyCommercialCollisionPreventionTV%20Show%202013.mp4)
-            [About
-
-              Mobileye](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Videos/MobileyeAboutJuly2013.mp4)  Links to Videos of
+            [About Mobileye](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Videos/MobileyeAboutJuly2013.mp4)  Links to Videos of
               individual capabilities available @
 [https://us.mobileye.com/products/mobileye-560/](https://us.mobileye.com/products/mobileye-560/)
 
-## [How
-
-              'autonomy' will become the new 'green' for the car
-              industry.](http://www.thegreencarwebsite.co.uk/blog/index.php/2013/09/03/how-autonomy-will-become-the-new-green-for-the-car-industry-the-green-piece/)
+## [How 'autonomy' will become the new 'green' for the car industry.](http://www.thegreencarwebsite.co.uk/blog/index.php/2013/09/03/how-autonomy-will-become-the-new-green-for-the-car-industry-the-green-piece/)
 
 Tuesday 3 September,
             2013. The Green Piece Column: "..; This year 'green' is so
             2007 and the new buzzword is 'autonomous'... While previous
-            [international
-
-              motoring shows like Frankfurt's](http://oica.net/frankfurt-65th-international-motor-show-2013/) have had a very
+            [international motoring shows like Frankfurt's](http://oica.net/frankfurt-65th-international-motor-show-2013/) have had a very
             eco-focus about them, with the manufacturers falling over
             themselves to show off their latest electric and hybrid
             concepts, this September's show could have a very different
-            feel about it..." [Read
-
-              more](http://www.thegreencarwebsite.co.uk/blog/index.php/2013/09/03/how-autonomy-will-become-the-new-green-for-the-car-industry-the-green-piece/)Very
+            feel about it..." [Read more](http://www.thegreencarwebsite.co.uk/blog/index.php/2013/09/03/how-autonomy-will-become-the-new-green-for-the-car-industry-the-green-piece/)Very
               interesting...   Alain
 
-## [](http://www.vtpi.org/) [Autonomous
-                  Vehicle Implementation Predictions: Implications for
-                  Transport Planning](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/PDFs/Litman_AutonomousVehicleImplenetationPredictions.pdf)
+##  [Autonomous Vehicle Implementation Predictions: Implications for Transport Planning](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/PDFs/Litman_AutonomousVehicleImplenetationPredictions.pdf)
 
 ##
 
@@ -123,8 +108,7 @@ Tuesday 3 September,
             affordable and represent a major portion of total vehicle
             travel, in the 2040s through 2060s, and some benefits may
             require prohibiting human-driven vehicles on certain
-            roadways, which could take even longer.  [Read
-              more](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/PDFs/Litman_AutonomousVehicleImplenetationPredictions.pdf).
+            roadways, which could take even longer.  [Read more](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/PDFs/Litman_AutonomousVehicleImplenetationPredictions.pdf).
 
               I highly recommend this reading; however, it is for the
               most part a "conventional personal automobile" perspective
@@ -167,9 +151,7 @@ Tuesday 3 September,
               case to offer such a "public transit" service.  At an AVO
               of 3.0 it would be a gold rush.   Alain
 
-## [Automated
-
-              People Mover Standards](http://www.asce.org/Product.aspx?utm_campaign=PUB-20130903-TDI%20alert&utm_medium=email&utm_source=Eloqua&id=2147487569&productid=188348169&elq=cc82446da2a04b599d665592ba2eeb98&elqCampaignId=2020)
+## [Automated People Mover Standards](http://www.asce.org/Product.aspx?utm_campaign=PUB-20130903-TDI%20alert&utm_medium=email&utm_source=Eloqua&id=2147487569&productid=188348169&elq=cc82446da2a04b599d665592ba2eeb98&elqCampaignId=2020)
 
 American Society of Civil Engineers
               ISBN: 9780784412985 "...Prepared by the Automated People
@@ -181,9 +163,7 @@ American Society of Civil Engineers
               electrical equipment; stations; guideways; security;
               emergency preparedness; verification and demonstration;
               operations, maintenance, and training; and operational
-              monitoring..." [Read
-
-                more](http://www.asce.org/Product.aspx?utm_campaign=PUB-20130903-TDI%20alert&utm_medium=email&utm_source=Eloqua&id=2147487569&productid=188348169&elq=cc82446da2a04b599d665592ba2eeb98&elqCampaignId=2020)
+              monitoring..." [Read more](http://www.asce.org/Product.aspx?utm_campaign=PUB-20130903-TDI%20alert&utm_medium=email&utm_source=Eloqua&id=2147487569&productid=188348169&elq=cc82446da2a04b599d665592ba2eeb98&elqCampaignId=2020)
 
 Priced $125.00 List / $93.75ASCE
                 Member it is probably the starting point for those that
@@ -191,9 +171,7 @@ Priced $125.00 List / $93.75ASCE
                 need to be addressed in preparation of offering a
                 driverless-car transit alternative. Alain
 
-## [Nokia
-
-                  Unveils HERE Auto – Connecting Your Car To The Cloud](http://www.redorbit.com/news/technology/1112937170/nokia-cloud-to-car-here-auto-090213/)
+## [Nokia Unveils HERE Auto – Connecting Your Car To The Cloud](http://www.redorbit.com/news/technology/1112937170/nokia-cloud-to-car-here-auto-090213/)
 
 September 2,
                 2013  "...Nokia on Friday announced Here Auto, their
@@ -231,29 +209,22 @@ September 2,
                 certification and software synchronization. Let's start
                 with the important stuff.  Prof. K.
 
-              Also: [Microsoft
-
-                Gets Nokia Units, and Leader](http://www.nytimes.com/2013/09/03/technology/microsoft-gets-nokia-units-and-leader.html?hp&_r=0http://www.nytimes.com/2013/09/03/technology/microsoft-gets-nokia-units-and-leader.html?hp&_r=0)  Nick Wingfiel Published: September 3,
+              Also: [Microsoft Gets Nokia Units, and Leader](http://www.nytimes.com/2013/09/03/technology/microsoft-gets-nokia-units-and-leader.html?hp&_r=0http://www.nytimes.com/2013/09/03/technology/microsoft-gets-nokia-units-and-leader.html?hp&_r=0)  Nick Wingfiel Published: September 3,
               2013  "...Microsoft will pay
               about $5 billion for Nokia's devices and services business
               and $2.18 billion to license Nokia's patents. After it
               sells its high profile handset operations, Nokia will be
               left with three primary businesses: network infrastructure
               and services; mapping and location services; and a
-              technology development and licensing unit..."  [Read
-
-                more](http://www.nytimes.com/2013/09/03/technology/microsoft-gets-nokia-units-and-leader.html?hp&_r=0http://www.nytimes.com/2013/09/03/technology/microsoft-gets-nokia-units-and-leader.html?hp&_r=0)  Hmm... On Oct
-                1, 2007 Nokia bought NavTeq for $8.1B ([Nokia
-                Buys Navteq For $8 Billion, Bets Big On Location-Based
-                Services](http://gigaom.com/2007/10/01/nokia-navteq/) : "...the Finnish
+              technology development and licensing unit..."  [Read more](http://www.nytimes.com/2013/09/03/technology/microsoft-gets-nokia-units-and-leader.html?hp&_r=0http://www.nytimes.com/2013/09/03/technology/microsoft-gets-nokia-units-and-leader.html?hp&_r=0)  Hmm... On Oct
+                1, 2007 Nokia bought NavTeq for $8.1B ([Nokia Buys Navteq For $8 Billion, Bets Big On Location-Based Services](http://gigaom.com/2007/10/01/nokia-navteq/) : "...the Finnish
                 mobile giant has a mixed track record when it comes to
                 acquisitions...") which now remains with
                 Nokia.  While it might have a "mixed track record" with
                 acquisitions it may well have an even worse record when
                 it comes to its base business.  Alain
 
-## [First,
-                smart cars. Next, smart transport grids](http://news.cnet.com/8301-11386_3-57595743-76/first-smart-cars-next-smart-transport-grids/)
+## [First, smart cars. Next, smart transport grids](http://news.cnet.com/8301-11386_3-57595743-76/first-smart-cars-next-smart-transport-grids/)
 
 by Stephen Shankland, September 3, 2013:
             "...A new world beckons in which urban transit networks will
@@ -263,15 +234,11 @@ by Stephen Shankland, September 3, 2013:
             slipperiness and warning drivers based on data from the car.
             But it gets more interesting when multiple vehicles report
             back to a central station that can track trouble spots on
-            the roads..."  [Read
-
-              mor](http://news.cnet.com/8301-11386_3-57595743-76/first-smart-cars-next-smart-transport-grids/)e  And all can be
+            the roads..."  [Read mor](http://news.cnet.com/8301-11386_3-57595743-76/first-smart-cars-next-smart-transport-grids/)e  And all can be
                 done by the private sector without any government "DSRC"
                 mandate or snooping.  Alain
 
-## [](http://www.collegiatetimes.com) [Driverless
-
-              car hits Smart Road](http://www.collegiatetimes.com/stories/22458/driverless-car-hits-smart-road)
+##  [Driverless car hits Smart Road](http://www.collegiatetimes.com/stories/22458/driverless-car-hits-smart-road)
 
 by Dean Seal Tuesday, September, 3,
             2013  Automated driving is
@@ -281,29 +248,22 @@ by Dean Seal Tuesday, September, 3,
             Transportation Institute (VTTI) to watch as Rep. Morgan
             Griffith and Rep. Bob Goodlatte, of the 9th and 6th
             districts respectively, boarded the automated-driving Google
-            car. [Read
-
-              more](http://www.collegiatetimes.com/stories/22458/driverless-car-hits-smart-road) [video](http://www.wcsh6.com/news/watercooler/article/255545/108/Google-and-Virginia-Tech-design-driverless-car)
+            car. [Read more](http://www.collegiatetimes.com/stories/22458/driverless-car-hits-smart-road) [video](http://www.wcsh6.com/news/watercooler/article/255545/108/Google-and-Virginia-Tech-design-driverless-car)
 
 # Calendar of Upcoming Events:
 
-## [](http://www.podcarcity.org/washington/)
+## 
 
-## [Washington DC
-              Oct 23-2](http://www.podcarcity.org/washington/)5
+## [Washington DC Oct 23-2](http://www.podcarcity.org/washington/)5
 
-[](http://www.cs.cmu.edu/%7ECVAD2013/)
 
-## [First International Workshop on Computer
-              Vision for Autonomous Driving](http://www.cs.cmu.edu/%7ECVAD2013/)
+## [First International Workshop on Computer Vision for Autonomous Driving](http://www.cs.cmu.edu/%7ECVAD2013/)
 
 ### [Sydney, Australia     December 2, 2013](http://www.cs.cmu.edu/%7ECVAD2013/)
 
             August 30, 2013
 
-## [Has
-
-              Growth in Automobile Use Ended?](http://www.volpe.dot.gov/noteworthy/2013/has-growth-in-automobile-use-ended.html)
+## [Has Growth in Automobile Use Ended?](http://www.volpe.dot.gov/noteworthy/2013/has-growth-in-automobile-use-ended.html)
 
 "...Pickrell and Pace have
             identified some new, likely causes of reduced VMT. Gasoline
@@ -328,17 +288,14 @@ The decline in VMT does
           driving slightly less than they did a decade ago. The sharpest
           declines in income since the early 2000s have been
           concentrated among lower-income households, whose driving
-          habits are most sensitive to income changes."  [Read
-
-            more](http://www.volpe.dot.gov/noteworthy/2013/has-growth-in-automobile-use-ended.html) Mobility is changing even
+          habits are most sensitive to income changes."  [Read more](http://www.volpe.dot.gov/noteworthy/2013/has-growth-in-automobile-use-ended.html) Mobility is changing even
               without SmartDrivingCars. What
 
               is even more interesting are the[slides from their presentation Alain](http://www.volpe.dot.gov/noteworthy/docs/volpe_presentation_05_23_2013_revised.pdf)
 
             August 27, 2013
 
-## [NISSAN ANNOUNCES
-                UNPRECEDENTED AUTONOMOUS DRIVE BENCHMARKS](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Reports&Speaches_External/NissanPressRreleaseAutonomousCarBy2020.pdf)
+## [NISSAN ANNOUNCES UNPRECEDENTED AUTONOMOUS DRIVE BENCHMARKS](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Reports&Speaches_External/NissanPressRreleaseAutonomousCarBy2020.pdf)
 
 * Nissan will be ready with
                 revolutionary commercially-viable Autonomous Drive in
@@ -351,17 +308,11 @@ The decline in VMT does
 * The goal is availability across
                 the model range within two vehicle generations
 
-* [Video
+* [Video of Nissan Announcement](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Videos/NisssanAutonomousDrive_by_2020.mp4)
 
-                  of Nissan Announcement](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Videos/NisssanAutonomousDrive_by_2020.mp4)
+* [Video of Interview with EVP Andy Palmer about announcement](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Videos/NissanEVP_AndyPalmerInterviewAnnouncing2020Commitment.mp4)
 
-* [Video
-
-                  of Interview with EVP Andy Palmer about announcement](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Videos/NissanEVP_AndyPalmerInterviewAnnouncing2020Commitment.mp4)
-
-[Read
-
-              more](http://nissannews.com/en-US/nissan/usa/releases/nissan-announces-unprecedented-autonomous-drive-benchmarks?r=3337J4703912A0W) This announcement certainly raises the
+[Read more](http://nissannews.com/en-US/nissan/usa/releases/nissan-announces-unprecedented-autonomous-drive-benchmarks?r=3337J4703912A0W) This announcement certainly raises the
               bar for the auto companies.  First we have
               Mercedes introducing "Intelligent Drive" with automated
 
@@ -386,24 +337,14 @@ The decline in VMT does
 
                   VW... going to do to leapfrog these initiatives? Alain
 
-## [](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Videos/PROUD_Car_Test.072013%28driverless%20car%29VisLabItaly_dualView.mp4) [Prof.
-                Alberto Broggi](http://www.ce.unipr.it/people/broggi/), Univ. of Parma [will
-
-                present](http://www.ieeevtc.org/vtc2013fall/plenary.php) the PROUD2013 event  on Sept 3, 2013 in Las
-              Vegas, NV,  as the plenary opening of the [IEEE
-
-                Vehicular Technology Conference](http://www.ieeevtc.org/vtc2013fall/final-program.pdf).  See the [updated
-
-                video](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Videos/PROUD_Car_Test.072013%28driverless%20car%29VisLabItaly_dualView.mp4)!
+##  [Prof. Alberto Broggi](http://www.ce.unipr.it/people/broggi/), Univ. of Parma [will present](http://www.ieeevtc.org/vtc2013fall/plenary.php) the PROUD2013 event  on Sept 3, 2013 in Las
+              Vegas, NV,  as the plenary opening of the [IEEE Vehicular Technology Conference](http://www.ieeevtc.org/vtc2013fall/final-program.pdf).  See the [updated video](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Videos/PROUD_Car_Test.072013%28driverless%20car%29VisLabItaly_dualView.mp4)!
 
 Prof Broggi's presentation is
                 essentially the only presentation at the whole
                 conference on Smart Driving Cars.  There is a [DoT workshop](http://www.ieeevtc.org/vtc2013fall/dotworkshop.php)
 but it seems to be focused on connected vehicles
-                and one panel session on Wednesday "[Releasing
-
-                the Steering Wheel: Learning to Let the Car Drive by
-                Itself](http://www.ieeevtc.org/vtc2013fall/panels.php)"  Oh well! At least there is Alberto's
+                and one panel session on Wednesday "[Releasing the Steering Wheel: Learning to Let the Car Drive by Itself](http://www.ieeevtc.org/vtc2013fall/panels.php)"  Oh well! At least there is Alberto's
                 talk and his participation in the one panel. Alain
 
               August 20, 2013
@@ -411,11 +352,7 @@ but it seems to be focused on connected vehicles
 ## Draft
               Final Report "Uncongested Mobility for All NJ"
 
-           [Available
-
-            for Download (15M)](http://orfe.princeton.edu/%7Ealaink/NJ_aTaxiOrf467F12/ORF467F12aTaxiFinalReport.pdf)  [Slide
-
-            Presentations (123M ppt)](http://orfe.princeton.edu/%7Ealaink/NJ_aTaxiOrf467F12/FinalPresentationsOrf467F12aTaxiNJ/aTaxi%20Presentation.pptx)
+           [Available for Download (15M)](http://orfe.princeton.edu/%7Ealaink/NJ_aTaxiOrf467F12/ORF467F12aTaxiFinalReport.pdf)  [Slide Presentations (123M ppt)](http://orfe.princeton.edu/%7Ealaink/NJ_aTaxiOrf467F12/FinalPresentationsOrf467F12aTaxiNJ/aTaxi%20Presentation.pptx)
 
 My students and I have been conducting a
             quantitative assessment of the mobility implications of
@@ -428,9 +365,7 @@ My students and I have been conducting a
             only because we live here, but also because it embraces
             essentially all uses of land from extremely rural farms and
             preserved spaces, through a wide variety of suburban
-            developments to both old and new high density urban living….[Table
-
-              1](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Table%201_SDC082013.pdf) summarizes how each and every of the 32+ million
+            developments to both old and new high density urban living….[Table 1](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Table%201_SDC082013.pdf) summarizes how each and every of the 32+ million
             person trips that take place on a typical weekday can be
             served efficiently and effectively.  Short trips (a 10
             minute walk or less) are served by Walking & Cycling
@@ -439,9 +374,7 @@ My students and I have been conducting a
             combination of aTaxis and NJ Transit's existing commuter
             rail lines.  To appropriately serve all of the 30+ million
             daily non-walk/cycle trips, a fleet of about 1.8 million
-            aTaxis would be needed.  (In 2010, [3.9
-
-              million cars were registered in NJ](http://www.fhwa.dot.gov/policyinformation/statistics/2010/mv1.cfm) plus an additional
+            aTaxis would be needed.  (In 2010, [3.9 million cars were registered in NJ](http://www.fhwa.dot.gov/policyinformation/statistics/2010/mv1.cfm) plus an additional
             2.5 million trucks.)  At peek hours state-wide average
             vehicle occupancies reach the 3.0 level while during most
             off-peak times average vehicle occupancies are very close to
@@ -453,8 +386,7 @@ My students and I have been conducting a
             stations, many trips (almost 5 million) are best served by
             aTaxi <-> Rail multi-modal combinations.  In fact NJ
             Transit's rail system plays a part in serving over 6 million
-            trips each day, more than [20
-              times what it currently served today](http://www.njtransit.com/pdf/FactsAtaGlance.pdf).  This is a
+            trips each day, more than [20 times what it currently served today](http://www.njtransit.com/pdf/FactsAtaGlance.pdf).  This is a
             reflection of the large amount of activity that takes place
             within a short walk of NJT's train stations, if only there
             existed an efficient system, like aTaxis, to bring passengers
@@ -462,7 +394,7 @@ My students and I have been conducting a
 
               more:
 
-### [Mailto:alaink@princeton.edu](Mailto:alaink@princeton.edu)[](Mailto:alaink@princeton.edu)
+### [Mailto:alaink@princeton.edu](Mailto:alaink@princeton.edu)
 
 ***************************************************************************************************************
 

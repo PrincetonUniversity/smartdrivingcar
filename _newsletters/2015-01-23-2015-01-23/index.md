@@ -10,8 +10,7 @@ January
                                                           22,
                                                           2015
 
-## [State-wide
-                                                          aTaxi Service](http://www.princeton.edu/%7Ealaink/Orf467F14/Orf467F14FinalProjectPresentationSchedule.pdf)
+## [State-wide aTaxi Service](http://www.princeton.edu/%7Ealaink/Orf467F14/Orf467F14FinalProjectPresentationSchedule.pdf)
 
 Serving New Jersey's Personal Mobility Needs with
 
@@ -175,14 +174,7 @@ Serving New Jersey's Personal Mobility Needs with
                                                           travelers.
                                                           Alain
 
-## [Mercedes
-
-                                                          unveils future
-                                                          of driving
-                                                          with
-                                                          autonomous
-                                                          self-driving
-                                                          hydrogen car](http://bgr.com/2015/01/06/mercedes-benz-f-015-self-driving-car/)
+## [Mercedes unveils future of driving with autonomous self-driving hydrogen car](http://bgr.com/2015/01/06/mercedes-benz-f-015-self-driving-car/)
 
 Chris
 
@@ -213,9 +205,7 @@ Chris
                                                           ultimately
                                                           become a
                                                           mobile living
-                                                          space."..."[Read
-
-                                                          more](http://bgr.com/2015/01/06/mercedes-benz-f-015-self-driving-car/) [Watch video](https://www.youtube.com/watch?x-yt-ts=1421914688&x-yt-cl=84503534&v=DYTV4d-Gn0s&feature=player_embedded)
+                                                          space."..."[Read more](http://bgr.com/2015/01/06/mercedes-benz-f-015-self-driving-car/) [Watch video](https://www.youtube.com/watch?x-yt-ts=1421914688&x-yt-cl=84503534&v=DYTV4d-Gn0s&feature=player_embedded)
 Hmmm...
 
                                                           It was very
@@ -230,15 +220,7 @@ Hmmm...
                                                           first step.
                                                           Alain
 
-## [CES:
-
-                                                          Ford chief
-                                                          technology
-                                                          officer says
-                                                          driverless
-                                                          cars
-                                                          'absolutely
-                                                          possible'](http://www.computerworlduk.com/news/it-business/3592996/ces-ford-chief-technology-officer-says-driverless-cars-absolutely-possible/)
+## [CES: Ford chief technology officer says driverless cars 'absolutely possible'](http://www.computerworlduk.com/news/it-business/3592996/ces-ford-chief-technology-officer-says-driverless-cars-absolutely-possible/)
 
 Margi
 
@@ -270,15 +252,8 @@ Margi
                                                           enhancing
                                                           customers'
                                                           lives."
-[Read
-
-                                                          more](http://www.computerworlduk.com/news/it-business/3592996/ces-ford-chief-technology-officer-says-driverless-cars-absolutely-possible/) [See
-
-                                                          Also](http://techcrunch.com/2015/01/06/ford-has-big-plans-for-autonomous-cars-and-the-future-of-driving/)[The Video here](http://www.euronews.com/2015/01/06/the-self-driving-car-is-king-at-las-vegas-consumer-electronics-show/)
-                                                          & [here
-
-                                                          (caught me @
-                                                          53 seconds)](http://fortune.com/2015/01/08/12-million-driverless-cars-to-be-on-the-road-by-2035-study-says/)
+[Read more](http://www.computerworlduk.com/news/it-business/3592996/ces-ford-chief-technology-officer-says-driverless-cars-absolutely-possible/) [See Also](http://techcrunch.com/2015/01/06/ford-has-big-plans-for-autonomous-cars-and-the-future-of-driving/)[The Video here](http://www.euronews.com/2015/01/06/the-self-driving-car-is-king-at-las-vegas-consumer-electronics-show/)
+                                                          & [here (caught me @ 53 seconds)](http://fortune.com/2015/01/08/12-million-driverless-cars-to-be-on-the-road-by-2035-study-says/)
                                                           Hmmm...Emphasis
 
                                                           added.  Sounds
@@ -287,12 +262,7 @@ Margi
                                                           You go, Mark
                                                           :-)  Alain
 
-## [The
-
-                                                          1st
-                                                          Self-Driving
-                                                          Ford Is on Its
-                                                          Way (CES 2015)](http://bostinno.streetwise.co/2015/01/06/ces-2015-ford-ceo-shares-plans-for-a-ford-self-driving-car/)
+## [The 1st Self-Driving Ford Is on Its Way (CES 2015)](http://bostinno.streetwise.co/2015/01/06/ces-2015-ford-ceo-shares-plans-for-a-ford-self-driving-car/)
 
 "Ford
 
@@ -410,18 +380,9 @@ Unlike many competitors, though, Ford does not
 
                                                           and
                                                           vehicle-to-infrastructure
-communications, Nair said...."  [Read
+communications, Nair said...."  [Read more](http://bostinno.streetwise.co/2015/01/06/ces-2015-ford-ceo-shares-plans-for-a-ford-self-driving-car/) Emphasis added. Alain
 
-                                                          more](http://bostinno.streetwise.co/2015/01/06/ces-2015-ford-ceo-shares-plans-for-a-ford-self-driving-car/) Emphasis added. Alain
-
-## [Ford
-
-                                                          Details
-                                                          Mobility
-                                                          Vision Ahead
-                                                          of North
-                                                          American Auto
-                                                          Show](http://brandchannel.com/home/post/2015/01/07/011715-Ford-Mobility.aspx)
+## [Ford Details Mobility Vision Ahead of North American Auto Show](http://brandchannel.com/home/post/2015/01/07/011715-Ford-Mobility.aspx)
 
 Dale
 
@@ -473,19 +434,9 @@ Dale
                                                           company close
                                                           enough to its
                                                           forefront...."
-[Read
+[Read more](http://brandchannel.com/home/post/2015/01/07/011715-Ford-Mobility.aspx)
 
-                                                          more](http://brandchannel.com/home/post/2015/01/07/011715-Ford-Mobility.aspx)
-
-## [Report
-
-                                                          of the Georgia
-                                                          House
-                                                          Autonomous
-                                                          Vehicle
-                                                          Technology
-                                                          Study
-                                                          Committee 2014](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/PDFs/GeorgiaHouseFinalAutonomousVehicleCommitteeReport.pdf)
+## [Report of the Georgia House Autonomous Vehicle Technology Study Committee 2014](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/PDFs/GeorgiaHouseFinalAutonomousVehicleCommitteeReport.pdf)
 
 "Executive
 
@@ -571,9 +522,7 @@ Dale
                                                           recommended by
                                                           this
                                                           committee."
-[Read
-
-                                                          more](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/PDFs/GeorgiaHouseFinalAutonomousVehicleCommitteeReport.pdf)  Hmmm...It must be that all legislation in Georgia
+[Read more](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/PDFs/GeorgiaHouseFinalAutonomousVehicleCommitteeReport.pdf)  Hmmm...It must be that all legislation in Georgia
                                                           inhibits
                                                           rather than
                                                           promote, so
@@ -585,11 +534,7 @@ Dale
                                                           policies.
                                                           :-(  Alain
 
-## [Paving
-
-                                                          the Way to an
-                                                          Autonomous
-                                                          Future](http://viodi.com/2015/01/16/paving-the-way-to-an-autonomous-future/)
+## [Paving the Way to an Autonomous Future](http://viodi.com/2015/01/16/paving-the-way-to-an-autonomous-future/)
 
 Ken
 
@@ -620,28 +565,15 @@ Ken
                                                           [cars] become
                                                           so good, that
                                                           they chauffeur
-                                                          us."...[Read
-
-                                                          more](http://viodi.com/2015/01/16/paving-the-way-to-an-autonomous-future/) Hmmm... In case I haven't been clear as to
+                                                          us."...[Read more](http://viodi.com/2015/01/16/paving-the-way-to-an-autonomous-future/) Hmmm... In case I haven't been clear as to
                                                           where I
                                                           stand.  :-)
                                                           Alain
 
-## [The
-
-                                                          Future of
-                                                          Automated
-                                                          Transit
-                                                          Technology and
-                                                          Its Positive
-                                                          Impact on
-                                                          Transit
-                                                          Operations](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Presentations/Kornhauser2015TRB.pdf)
+## [The Future of Automated Transit Technology and Its Positive Impact on Transit Operations](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Presentations/Kornhauser2015TRB.pdf)
 
 Presentation by Alain Kornhauser @ TRB annual meeting on
-                                                          Jan. 14[](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Presentations/Kornhauser2015TRB.pdf)[Read
-
-                                                          more](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Presentations/Kornhauser2015TRB.pdf)    While the topic of Automated Vehicles was much more
+                                                          Jan. 14[Read more](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Presentations/Kornhauser2015TRB.pdf)    While the topic of Automated Vehicles was much more
                                                           prevalent than
                                                           ever before at
                                                           the 94th
@@ -687,13 +619,7 @@ Presentation by Alain Kornhauser @ TRB annual meeting on
                                                           Connected
                                                           Vehicles.  Alain
 
-## [University
-
-                                                          of Michigan
-                                                          builds mini
-                                                          city to test
-                                                          driverless
-                                                          vehicles](http://www.clickondetroit.com/news/university-of-michigan-builds-mini-city-to-test-driverless-vehicles/30679602)
+## [University of Michigan builds mini city to test driverless vehicles](http://www.clickondetroit.com/news/university-of-michigan-builds-mini-city-to-test-driverless-vehicles/30679602)
 
 32-acre
 
@@ -701,20 +627,9 @@ Presentation by Alain Kornhauser @ TRB annual meeting on
                                                           Campus will be
                                                           operational
                                                           this spring
-[Read
+[Read more](http://www.clickondetroit.com/news/university-of-michigan-builds-mini-city-to-test-driverless-vehicles/30679602) [See image](http://www.clickondetroit.com/image/view/-/30680560/medRes/2/-/maxh/360/maxw/640/-/1c0iw7z/-/M-City---Driverless-Vehicles.jpg)
 
-                                                          more](http://www.clickondetroit.com/news/university-of-michigan-builds-mini-city-to-test-driverless-vehicles/30679602) [See
-
-                                                          image](http://www.clickondetroit.com/image/view/-/30680560/medRes/2/-/maxh/360/maxw/640/-/1c0iw7z/-/M-City---Driverless-Vehicles.jpg)
-
-## [GM
-
-                                                          expresses
-                                                          intention to
-                                                          work with
-                                                          Google on
-                                                          driverless
-                                                          cars](http://eandt.theiet.org/news/2015/jan/general-motors-google.cfm)
+## [GM expresses intention to work with Google on driverless cars](http://eandt.theiet.org/news/2015/jan/general-motors-google.cfm)
 
 Laura
 
@@ -752,29 +667,16 @@ Laura
                                                           the Detroit
                                                           auto
                                                           show...."
-[Read
-
-                                                          more](http://eandt.theiet.org/news/2015/jan/general-motors-google.cfm)  Hmmm... I thought Fort had announced that it was
+[Read more](http://eandt.theiet.org/news/2015/jan/general-motors-google.cfm)  Hmmm... I thought Fort had announced that it was
                                                           working with
                                                           Google???
                                                           Alain
 
 ## Some other thoughts that deserve your time:
 
-### [Pros
+### [Pros & Cons of Having a Self-Driving Car. Watch the video](http://movienewsguide.com/the-most-hilarious-pros-and-cons-of-owning-a-self-driving-car-watch-video/47414)
 
-                                                          & Cons of
-                                                          Having a
-                                                          Self-Driving
-                                                          Car. Watch the
-                                                          video](http://movienewsguide.com/the-most-hilarious-pros-and-cons-of-owning-a-self-driving-car-watch-video/47414)
-
-## [Nvidia
-
-                                                          aims new
-                                                          'super chip'
-                                                          at cars and
-                                                          smartphones](http://www.cnet.com/au/news/ces-2015-nvidia-announces-tegra-x1/)
+## [Nvidia aims new 'super chip' at cars and smartphones](http://www.cnet.com/au/news/ces-2015-nvidia-announces-tegra-x1/)
 
 Nick Statt & Ben Fox Rubin, Jan. 5 2015 "...AS VEGAS
                                                           -- Nvidia
@@ -899,9 +801,7 @@ Nick Statt & Ben Fox Rubin, Jan. 5 2015 "...AS VEGAS
                                                           real-time
                                                           navigation
                                                           maps in 3D. ."
-                                                          [Read
-
-                                                          more](http://www.cnet.com/au/news/ces-2015-nvidia-announces-tegra-x1/)  Hmmmm Better focus on new technology for better and
+                                                          [Read more](http://www.cnet.com/au/news/ces-2015-nvidia-announces-tegra-x1/)  Hmmmm Better focus on new technology for better and
                                                           safer mobility
                                                           at CED than at
                                                           TRB where
@@ -912,11 +812,7 @@ Nick Statt & Ben Fox Rubin, Jan. 5 2015 "...AS VEGAS
                                                           are still
                                                           ballyhooed.  Alain
 
-## [5
-                                                          Presentation
-                                                          Tips From CEO
-                                                          Keynotes At
-                                                          CES](http://www.forbes.com/sites/carminegallo/2015/01/09/5-presentation-tips-from-ceo-keynotes-at-ces/)
+## [5 Presentation Tips From CEO Keynotes At CES](http://www.forbes.com/sites/carminegallo/2015/01/09/5-presentation-tips-from-ceo-keynotes-at-ces/)
 
 Carmine Gallo 1/9/15 "Smart gadgets were all the buzz at
                                                           the 2015
@@ -952,15 +848,9 @@ Carmine Gallo 1/9/15 "Smart gadgets were all the buzz at
                                                           presentation
                                                           out of the
                                                           ballpark...".
-[Read
+[Read more](http://www.forbes.com/sites/carminegallo/2015/01/09/5-presentation-tips-from-ceo-keynotes-at-ces/)  Interesting Alain
 
-                                                          more](http://www.forbes.com/sites/carminegallo/2015/01/09/5-presentation-tips-from-ceo-keynotes-at-ces/)  Interesting Alain
-
-## [Automotive
-
-                                                          2025: Industry
-                                                          without
-                                                          borders](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/PDFs/IBM-Automotive%202025.pdf)
+## [Automotive 2025: Industry without borders](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/PDFs/IBM-Automotive%202025.pdf)
 
 Executive Report"...As personal mobility expectations
                                                           grow,
@@ -1032,9 +922,7 @@ Industry ecosystems continue to intersect and overlap.
                                                           they plan to
                                                           deal with
                                                           those
-                                                          changes...." [Read
-
-                                                          more](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/PDFs/IBM-Automotive%202025.pdf)  Hmmm It seems as if IBM may still be stuck in their
+                                                          changes...." [Read more](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/PDFs/IBM-Automotive%202025.pdf)  Hmmm It seems as if IBM may still be stuck in their
                                                           "6 years ago"
                                                           mindset.
 
@@ -1056,11 +944,7 @@ Industry ecosystems continue to intersect and overlap.
                                                           for fleet.  Oh
                                                           well.  Alain
 
-## [The
-
-                                                          Era Of The
-                                                          Sports Car Is
-                                                          Ending](http://www.businessinsider.com/afp-do-sports-cars-have-a-future-in-a-driverless-world-2015-1)
+## [The Era Of The Sports Car Is Ending](http://www.businessinsider.com/afp-do-sports-cars-have-a-future-in-a-driverless-world-2015-1)
 
 Luc Olinga, Jan. 8, 2015, "...But with the advent of
                                                           soulless
@@ -1089,16 +973,9 @@ Luc Olinga, Jan. 8, 2015, "...But with the advent of
                                                           high-performance
                                                           cars that need
                                                           real people at
-                                                          the wheel. [Read
+                                                          the wheel. [Read more](http://www.businessinsider.com/afp-do-sports-cars-have-a-future-in-a-driverless-world-2015-1)
 
-                                                          more](http://www.businessinsider.com/afp-do-sports-cars-have-a-future-in-a-driverless-world-2015-1)
-
-## [Google
-
-                                                          driverless
-                                                          cars being
-                                                          built in
-                                                          Livonia](http://www.freep.com/story/money/cars/detroit-auto-show/2015/01/14/google-car/21759099/)
+## [Google driverless cars being built in Livonia](http://www.freep.com/story/money/cars/detroit-auto-show/2015/01/14/google-car/21759099/)
 
 Alisa
                                                           Priddle, Jan
@@ -1147,9 +1024,7 @@ Alisa
                                                           director of
                                                           Self-Driving
                                                           Cars for
-                                                          Google..."  [Read
-
-                                                          more](http://www.freep.com/story/money/cars/detroit-auto-show/2015/01/14/google-car/21759099/) Hmmm... The practicality of Thermonuclear Fusion has
+                                                          Google..."  [Read more](http://www.freep.com/story/money/cars/detroit-auto-show/2015/01/14/google-car/21759099/) Hmmm... The practicality of Thermonuclear Fusion has
                                                           been 50 years
                                                           in the future
 
@@ -1163,11 +1038,7 @@ Alisa
                                                           market within
                                                           5 years" Alain
 
-## [Richard Cohen:
-                                                          Driverless
-                                                          cars means
-                                                          more
-                                                          unemployment](http://www.mercurynews.com/opinion/ci_27354459/richard-cohen-driverless-cars-means-more-unemployment)
+## [Richard Cohen: Driverless cars means more unemployment](http://www.mercurynews.com/opinion/ci_27354459/richard-cohen-driverless-cars-means-more-unemployment)
 
 By
 
@@ -1294,15 +1165,9 @@ By
                                                           and possibly
                                                           awful is
                                                           happening. .."
-[Read
+[Read more](http://www.mercurynews.com/opinion/ci_27354459/richard-cohen-driverless-cars-means-more-unemployment)
 
-                                                          more](http://www.mercurynews.com/opinion/ci_27354459/richard-cohen-driverless-cars-means-more-unemployment)
-
-### [12 Stocks To
-                                                          Buy If You
-                                                          Believe In
-                                                          Driverless
-                                                          Cars](http://www.forbes.com/sites/zacharyhamed/2015/01/21/driverless-stocks/)
+### [12 Stocks To Buy If You Believe In Driverless Cars](http://www.forbes.com/sites/zacharyhamed/2015/01/21/driverless-stocks/)
 
 Please
 
@@ -1310,26 +1175,13 @@ Please
                                                           high, sell
                                                           low!  Alain
 
-### [Autonomous
-
-                                                          cars study
-                                                          passes House](http://bismarcktribune.com/news/local/govt-and-politics/autonomous-cars-study-passes-house/article_83d33f0a-9691-509d-a4c0-330af64ef6c6.html)
+### [Autonomous cars study passes House](http://bismarcktribune.com/news/local/govt-and-politics/autonomous-cars-study-passes-house/article_83d33f0a-9691-509d-a4c0-330af64ef6c6.html)
 
 ## Half-baked stuff that probably doesn't
                                                           deserve your
                                                           time:
 
-### [ROAD
-
-                                                          SAFETY WITH
-                                                          SELF-DRIVING
-                                                          VEHICLES:
-                                                          GENERAL
-                                                          LIMITATIONS
-                                                          AND ROAD
-                                                          SHARING WITH
-                                                          CONVENTIONAL
-                                                          VEHICLES](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/PDFs/RoadSafetySelfDrivingVehiclesSivakUMTRI-2015-2.pdf)
+### [ROAD SAFETY WITH SELF-DRIVING VEHICLES: GENERAL LIMITATIONS AND ROAD SHARING WITH CONVENTIONAL VEHICLES](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/PDFs/RoadSafetySelfDrivingVehiclesSivakUMTRI-2015-2.pdf)
 
 MICHAEL SIVAK, BRANDON SCHOETTLE UMTRI-2015-2, Jan 2015,
                                                           "...The
@@ -1415,9 +1267,7 @@ MICHAEL SIVAK, BRANDON SCHOETTLE UMTRI-2015-2, Jan 2015,
                                                           period.  Some
                                                           people still
                                                           ride horses.)
-                                                          [Read
-
-                                                          more???](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/PDFs/RoadSafetySelfDrivingVehiclesSivakUMTRI-2015-2.pdf)Hmmmm This "white paper" is all too "brief"of an
+                                                          [Read more???](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/PDFs/RoadSafetySelfDrivingVehiclesSivakUMTRI-2015-2.pdf)Hmmmm This "white paper" is all too "brief"of an
                                                           opinion
                                                           ("presented
                                                           arguments")
@@ -1432,15 +1282,7 @@ MICHAEL SIVAK, BRANDON SCHOETTLE UMTRI-2015-2, Jan 2015,
                                                           this paper
                                                           earned?  Alain
 
-### [NASA,
-
-                                                          Nissan Team Up
-                                                          to Build
-                                                          Self-driving
-                                                          Vehicles or
-                                                          Perhaps
-                                                          Planetary
-                                                          Rovers](http://www.techtimes.com/articles/25585/20150110/nasa-nissan-team-up-to-build-self-driving-vehicles-or-perhaps-planetary-rovers.htm)
+### [NASA, Nissan Team Up to Build Self-driving Vehicles or Perhaps Planetary Rovers](http://www.techtimes.com/articles/25585/20150110/nasa-nissan-team-up-to-build-self-driving-vehicles-or-perhaps-planetary-rovers.htm)
 
 "...In order to reach such target, the company has
                                                           entered a
@@ -1505,9 +1347,7 @@ MICHAEL SIVAK, BRANDON SCHOETTLE UMTRI-2015-2, Jan 2015,
                                                           Ghosn of
                                                           Nissan Motor
                                                           Co..."
-                                                          [Read
-
-                                                          more](http://www.techtimes.com/articles/25585/20150110/nasa-nissan-team-up-to-build-self-driving-vehicles-or-perhaps-planetary-rovers.htm)  Hmmm...As if doing this on US 1 isn't hard enough,
+                                                          [Read more](http://www.techtimes.com/articles/25585/20150110/nasa-nissan-team-up-to-build-self-driving-vehicles-or-perhaps-planetary-rovers.htm)  Hmmm...As if doing this on US 1 isn't hard enough,
                                                           Nissan wants
                                                           to do it on
                                                           Mars where
@@ -1518,32 +1358,17 @@ MICHAEL SIVAK, BRANDON SCHOETTLE UMTRI-2015-2, Jan 2015,
                                                           Focus!!!
                                                           Alain
 
-### [Chinese
+### [Chinese automaker shows driverless concept in Detroit](http://www.freep.com/story/money/cars/detroit-auto-show/2015/01/12/guangzhou-driverless-concept-car-detroit-auto-show/21605083/)
 
-                                                          automaker
-                                                          shows
-                                                          driverless
-                                                          concept in
-                                                          Detroit](http://www.freep.com/story/money/cars/detroit-auto-show/2015/01/12/guangzhou-driverless-concept-car-detroit-auto-show/21605083/)
+### [Google driverless cars being built in Livonia](http://www.freep.com/story/money/cars/detroit-auto-show/2015/01/14/google-car/21759099/)
 
-### [Google
-
-                                                          driverless
-                                                          cars being
-                                                          built in
-                                                          Livonia](http://www.freep.com/story/money/cars/detroit-auto-show/2015/01/14/google-car/21759099/)
-
-## [C'mon
-
-                                                          Man!](https://www.youtube.com/watch?v=fhCks3bvTdA)
+## [C'mon Man!](https://www.youtube.com/watch?v=fhCks3bvTdA)
                                                           (These folks
                                                           didn't
                                                           get/read the
                                                           memo)
 
-### [Zetsche, Tesla's Musk have similar timetables for
-                                                          self-driving
-                                                          cars](http://europe.autonews.com/article/20150114/BLOG15/150119847/zetsche-teslas-musk-have-similar-timetables-for-self-driving-cars)
+### [Zetsche, Tesla's Musk have similar timetables for self-driving cars](http://europe.autonews.com/article/20150114/BLOG15/150119847/zetsche-teslas-musk-have-similar-timetables-for-self-driving-cars)
 
 Daimler CEO Dieter Zetsche and Tesla CEO Elon Musk have
                                                           very similar
@@ -1586,9 +1411,7 @@ Daimler CEO Dieter Zetsche and Tesla CEO Elon Musk have
                                                           News World
                                                           Congress on
                                                           Tuesday.
-[Read
-
-                                                          mor](http://europe.autonews.com/article/20150114/BLOG15/150119847/zetsche-teslas-musk-have-similar-timetables-for-self-driving-cars)e  Hmmm...   Daimler has been working on automated
+[Read mor](http://europe.autonews.com/article/20150114/BLOG15/150119847/zetsche-teslas-musk-have-similar-timetables-for-self-driving-cars)e  Hmmm...   Daimler has been working on automated
                                                           driving for
                                                           ~30 year;
                                                           Tesla... ~30
@@ -1603,12 +1426,7 @@ Daimler CEO Dieter Zetsche and Tesla CEO Elon Musk have
 Invitation
                                                           ONLY
 
-[Automated
-
-                                                          Vehicle
-                                                          Founder's
-                                                          Meeting @ Fort
-                                                          Monmouth](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/FtMonmouth/Jan27_Invitation.pdf)
+[Automated Vehicle Founder's Meeting @ Fort Monmouth](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/FtMonmouth/Jan27_Invitation.pdf)
 Bringing
 
                                                           together the
@@ -1626,19 +1444,12 @@ Bringing
                                                           Trucks &
                                                           Buses
 
-[Save the date (Invitation
+[Save the date (Invitation only)](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/FtMonmouth/Jan27_Invitation.pdf)[Tuesday, January 27, 2015 @ Ft. Monmouth, NJ](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/FtMonmouth/Jan27_Invitation.pdf)
 
-                                                          only)](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/FtMonmouth/Jan27_Invitation.pdf)[](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/FtMonmouth/Jan27_Invitation.pdf)[Tuesday,
-
-                                                          January 27,
-                                                          2015 @ Ft.
-                                                          Monmouth, NJ](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/FtMonmouth/Jan27_Invitation.pdf)
-
-[](http://www.autonomousvehiclesymposium.com/)
 
 ## [Call for Papers](http://www.autonomousvehiclesymposium.com/)
 
-## [](http://www.driverlesstransportation.com/event/automated-vehicles-symposium-2015)
+## 
 
 [http://www.driverlesstransportation.com/event/automated-vehicles-symposium-2015](http://www.driverlesstransportation.com/event/automated-vehicles-symposium-2015)
 
@@ -1650,14 +1461,7 @@ January
 
                                                           4, 2015
 
-### [New
-
-                                                          York Bus
-                                                          Driver
-                                                          Arrested After
-                                                          Fatally
-                                                          Striking
-                                                          Pedestrian](http://www.nytimes.com/2014/12/25/nyregion/new-york-bus-driver-arrested-after-fatally-striking-pedestrian.html?emc=eta1)
+### [New York Bus Driver Arrested After Fatally Striking Pedestrian](http://www.nytimes.com/2014/12/25/nyregion/new-york-bus-driver-arrested-after-fatally-striking-pedestrian.html?emc=eta1)
 
 MARC SANTORA DEC. 24, 2014 "A Metropolitan
                                                           Transportation
@@ -1707,9 +1511,7 @@ Mr.
                                                           was struck by
                                                           the bus, the
                                                           police
-                                                          said..."  [Read
-
-                                                          more](http://www.nytimes.com/2014/12/25/nyregion/new-york-bus-driver-arrested-after-fatally-striking-pedestrian.html?emc=eta1)
+                                                          said..."  [Read more](http://www.nytimes.com/2014/12/25/nyregion/new-york-bus-driver-arrested-after-fatally-striking-pedestrian.html?emc=eta1)
 
 Hmmm... Tragic for everyone.  Such accidents would be
                                                           largely
@@ -1753,14 +1555,7 @@ December
 
 ###
 
-### [Daimler
-
-                                                          Chairman Dr.
-                                                          Dieter Zetsche
-                                                          to Deliver
-                                                          Keynote
-                                                          Address at
-                                                          2015 CES](http://www.cesweb.org/News/Press-Releases/CES-Press-Release.aspx?NodeID=c7f1e0ca-b638-4293-8fd6-281c0e22707a)
+### [Daimler Chairman Dr. Dieter Zetsche to Deliver Keynote Address at 2015 CES](http://www.cesweb.org/News/Press-Releases/CES-Press-Release.aspx?NodeID=c7f1e0ca-b638-4293-8fd6-281c0e22707a)
 
 Arlington, VA – 10/06/2014 – "The Consumer Electronics
                                                           Association
@@ -1832,9 +1627,7 @@ Arlington, VA – 10/06/2014 – "The Consumer Electronics
                                                           Theater within
                                                           the
                                                           Cosmopolitan."
-                                                          [Read
-
-                                                          mor](http://www.cesweb.org/News/Press-Releases/CES-Press-Release.aspx?NodeID=c7f1e0ca-b638-4293-8fd6-281c0e22707a)e
+                                                          [Read mor](http://www.cesweb.org/News/Press-Releases/CES-Press-Release.aspx?NodeID=c7f1e0ca-b638-4293-8fd6-281c0e22707a)e
                                                           Daimler
 
                                                           will have a
@@ -1850,10 +1643,7 @@ December
 
 ###
 
-### [2014
-                                                          Florida
-                                                          Automated
-                                                          Vehicle Summit](http://www.fleng.org/index.cfm)
+### [2014 Florida Automated Vehicle Summit](http://www.fleng.org/index.cfm)
 
 Florida DOT is blazing the trail for the integration of
                                                           automated
@@ -1881,17 +1671,9 @@ Florida DOT is blazing the trail for the integration of
 
 ###
 
-### [A
-                                                          Road Test of
-                                                          Alternative
-                                                          Fuel Visions](http://www.nytimes.com/2014/11/18/science/earth/hydrogen-cars-join-electric-models-in-showrooms.html?hpw&rref=science&action=click&pgtype=Homepage&module=well-region&region=bottom-well&WT.nav=bottom-well&_r=0)
+### [A Road Test of Alternative Fuel Visions](http://www.nytimes.com/2014/11/18/science/earth/hydrogen-cars-join-electric-models-in-showrooms.html?hpw&rref=science&action=click&pgtype=Homepage&module=well-region&region=bottom-well&WT.nav=bottom-well&_r=0)
 
-### [Hydrogen
-
-                                                          Cars Join
-                                                          Electric
-                                                          Models in
-                                                          Showrooms](http://www.nytimes.com/2014/11/18/science/earth/hydrogen-cars-join-electric-models-in-showrooms.html?hpw&rref=science&action=click&pgtype=Homepage&module=well-region&region=bottom-well&WT.nav=bottom-well&_r=0)
+### [Hydrogen Cars Join Electric Models in Showrooms](http://www.nytimes.com/2014/11/18/science/earth/hydrogen-cars-join-electric-models-in-showrooms.html?hpw&rref=science&action=click&pgtype=Homepage&module=well-region&region=bottom-well&WT.nav=bottom-well&_r=0)
 
 By
 
@@ -1968,9 +1750,7 @@ A kilogram of hydrogen contains as much chemical energy
                                                           plug in than
                                                           places to top
                                                           off a tank of
-                                                          hydrogen...."[Read
-
-                                                          more](http://www.nytimes.com/2014/11/18/science/earth/hydrogen-cars-join-electric-models-in-showrooms.html?hpw&rref=science&action=click&pgtype=Homepage&module=well-region&region=bottom-well&WT.nav=bottom-well&_r=0)  Looked into this in the 70's.  Is the "Hydrogen Economy"
+                                                          hydrogen...."[Read more](http://www.nytimes.com/2014/11/18/science/earth/hydrogen-cars-join-electric-models-in-showrooms.html?hpw&rref=science&action=click&pgtype=Homepage&module=well-region&region=bottom-well&WT.nav=bottom-well&_r=0)  Looked into this in the 70's.  Is the "Hydrogen Economy"
 
                                                           emerging from
                                                           its "40
@@ -1986,12 +1766,7 @@ A kilogram of hydrogen contains as much chemical energy
 
 ###
 
-### [Tesla's
-
-                                                          Autonomous Car
-                                                          Claims More
-                                                          Hype Than
-                                                          Reality](http://blog.luxresearchinc.com/blog/2014/11/teslas-autonomous-car-claims-more-hype-than-reality/)
+### [Tesla's Autonomous Car Claims More Hype Than Reality](http://blog.luxresearchinc.com/blog/2014/11/teslas-autonomous-car-claims-more-hype-than-reality/)
 
 Maryanna Saenko "...Given the bold claims, it is likely
                                                           that in 2015
@@ -2055,23 +1830,14 @@ Maryanna Saenko "...Given the bold claims, it is likely
                                                           much of it
                                                           outside of
                                                           Tesla's
-                                                          walls."  [Read
-
-                                                          more](http://blog.luxresearchinc.com/blog/2014/11/teslas-autonomous-car-claims-more-hype-than-reality/)  Hmmmm.. Amen! Alain
+                                                          walls."  [Read more](http://blog.luxresearchinc.com/blog/2014/11/teslas-autonomous-car-claims-more-hype-than-reality/)  Hmmmm.. Amen! Alain
 
                                                           November 7,
                                                           2014
 
 ###
 
-### [Fujitsu
-
-                                                          Laboratories
-                                                          develops
-                                                          lower-cost
-                                                          millimeter-wave
-                                                          radar for
-                                                          automobiles](http://m.phys.org/news/2014-10-fujitsu-laboratories-lower-cost-millimeter-wave-radar.html?utm_campaign=cmp_354220&utm_source=getanewsletter)
+### [Fujitsu Laboratories develops lower-cost millimeter-wave radar for automobiles](http://m.phys.org/news/2014-10-fujitsu-laboratories-lower-cost-millimeter-wave-radar.html?utm_campaign=cmp_354220&utm_source=getanewsletter)
 
 Oct
 
@@ -2165,9 +1931,7 @@ Oct
                                                           these sensors
                                                           at lower
                                                           costs. ...".
-                                                          [Read
-
-                                                          mor](http://m.phys.org/news/2014-10-fujitsu-laboratories-lower-cost-millimeter-wave-radar.html?utm_campaign=cmp_354220&utm_source=getanewsletter)e  Hmmm... Very interesting.  Do reads the whole
+                                                          [Read mor](http://m.phys.org/news/2014-10-fujitsu-laboratories-lower-cost-millimeter-wave-radar.html?utm_campaign=cmp_354220&utm_source=getanewsletter)e  Hmmm... Very interesting.  Do reads the whole
                                                           article. Very
                                                           promising, but
                                                           not really
@@ -2178,12 +1942,7 @@ Oct
 
 ###
 
-### [N.J.
-
-                                                          Senate panel
-                                                          paves way for
-                                                          self-driving
-                                                          cars](http://www.nj.com/politics/index.ssf/2014/10/nj_senate_panel_paves_the_way_for_driverless_cars.html)
+### [N.J. Senate panel paves way for self-driving cars](http://www.nj.com/politics/index.ssf/2014/10/nj_senate_panel_paves_the_way_for_driverless_cars.html)
 
 Matt Friedman Oct 27 "...The bill ([S734)](http://www.njleg.state.nj.us/2014/Bills/S1000/734_I1.HTM),
                                                           which was
@@ -2257,21 +2016,12 @@ Matt Friedman Oct 27 "...The bill ([S734)](http://www.njleg.state.nj.us/2014/Bil
                                                           efforts here
                                                           continue to
                                                           progress.".."
-                                                          [Read
-
-                                                          more](http://www.nj.com/politics/index.ssf/2014/10/nj_senate_panel_paves_the_way_for_driverless_cars.html)...and [my
-
-                                                          lead testimony](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/NJ-AV-Legislation/KornhauserTestimonyS734.pdf),
-                                                          that of [Michael
-
-                                                          Scrudato of
-                                                          Munich Re](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/NJ-AV-Legislation/ScrudatoTestimonyS734.pdf)
+                                                          [Read more](http://www.nj.com/politics/index.ssf/2014/10/nj_senate_panel_paves_the_way_for_driverless_cars.html)...and [my lead testimony](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/NJ-AV-Legislation/KornhauserTestimonyS734.pdf),
+                                                          that of [Michael Scrudato of Munich Re](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/NJ-AV-Legislation/ScrudatoTestimonyS734.pdf)
                                                           ,[Newsworks](http://www.newsworks.org/index.php/new-jersey-more/item/74437-nj-paving-the-way-for-self-driven-cars)
                                                           and CBS.com
 
-                                                          [video
-
-                                                          interview](http://newyork.cbslocal.com/2014/10/27/driverless-car-bill-cruises-through-nj-senate-panel/).
+                                                          [video interview](http://newyork.cbslocal.com/2014/10/27/driverless-car-bill-cruises-through-nj-senate-panel/).
 
                                                           Progress!
                                                           (only negative
@@ -2279,23 +2029,14 @@ Matt Friedman Oct 27 "...The bill ([S734)](http://www.njleg.state.nj.us/2014/Bil
                                                           from Honda
                                                           which was so
                                                           bad it ended
-                                                          up helping.  [C'mon
-
-                                                          Honda](https://www.youtube.com/watch?v=IpbMhgwcLQk)!)
+                                                          up helping.  [C'mon Honda](https://www.youtube.com/watch?v=IpbMhgwcLQk)!)
                                                           Alain
 
                                                           October 22, 2014
 
 ###
 
-### [Request
-
-                                                          for Comment on
-                                                          Automotive
-                                                          Electronic
-                                                          Control
-                                                          Systems Safety
-                                                          and Security](http://www.gpo.gov/fdsys/pkg/FR-2014-10-07/html/2014-23805.htm)
+### [Request for Comment on Automotive Electronic Control Systems Safety and Security](http://www.gpo.gov/fdsys/pkg/FR-2014-10-07/html/2014-23805.htm)
 
 Volume 79, Number 194 (Tuesday, October 7, 2014); FR Doc
                                                           No:
@@ -2396,21 +2137,14 @@ DATES: You
                                                           receives them
                                                           no later than
                                                           December 8,
-                                                          2014. [Read
-
-                                                          more](http://www.gpo.gov/fdsys/pkg/FR-2014-10-07/html/2014-23805.htm)
+                                                          2014. [Read more](http://www.gpo.gov/fdsys/pkg/FR-2014-10-07/html/2014-23805.htm)
 
                                                           October 10,
                                                           2014
 
 ###
 
-### [Inaugural
-
-                                                          Automated
-                                                          Vehicle Summit
-                                                          @ Fort
-                                                          Monmouth](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/FtMonmouth/InauguralFtMonmouthPressRelease.pdf)
+### [Inaugural Automated Vehicle Summit @ Fort Monmouth](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/FtMonmouth/InauguralFtMonmouthPressRelease.pdf)
 
 Press release.Oct 9, 2014 Princeton, NJ "New Jersey's
                                                           first summit
@@ -2478,11 +2212,9 @@ Press release.Oct 9, 2014 Princeton, NJ "New Jersey's
                                                           represented
                                                           New Jersey's
                                                           legislative
-                                                          bodies..." [Read
+                                                          bodies..." [Read more](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/FtMonmouth/InauguralFtMonmouthPressRelease.pdf)   Hmmm..Progress!  Alain
 
-                                                          more](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/FtMonmouth/InauguralFtMonmouthPressRelease.pdf)   Hmmm..Progress!  Alain
-
-                                                          [](Mailto:alaink@princeton.edu)[Mailto:alaink@princeton.edu](Mailto:alaink@princeton.edu)[](Mailto:alaink@princeton.edu)
+                                                          [Mailto:alaink@princeton.edu](Mailto:alaink@princeton.edu)
 
                                                           This list is
                                                           maintained by

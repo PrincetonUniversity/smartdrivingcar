@@ -9,9 +9,7 @@ SmartDrivingCars_01714 TRB Review
 
           January 17, 2014
 
-## [Autonomous
-
-        Vehicle Technology:  A Guide for Policymakers](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/PDFs/Rand_Anderson_AutonomousVehicleTechnology.pdf)
+## [Autonomous Vehicle Technology:  A Guide for Policymakers](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/PDFs/Rand_Anderson_AutonomousVehicleTechnology.pdf)
 
 by James M. Anderson, Nidhi Kalra, Karlyn D. Stanley, Paul
       Sorensen, Constantine Samaras, Oluwatobi Oluwatola
@@ -83,23 +81,17 @@ My only real disappointment with the Rand
         goods movement/ commercial vehicles.  Otherwise, it is an
         excellent report.  Alain
 
-## [Telematics
-
-        Industry Insights by Michael L. Sena](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/PDFs/The%20Dispatcher_17%20January%202014_V2x.pdf)
+## [Telematics Industry Insights by Michael L. Sena](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/PDFs/The%20Dispatcher_17%20January%202014_V2x.pdf)
 
     Vol. 1, Issue 2 Michael provides his
         insight to CES 2014 as other news about connected
         vehicles. Alain
 
-## [10
-
-          Autonomous Driving Companies To Watch](http://www.fastcompany.com/3024362/innovation-agents/10-autonomous-driving-companies-to-watch)
+## [10 Autonomous Driving Companies To Watch](http://www.fastcompany.com/3024362/innovation-agents/10-autonomous-driving-companies-to-watch)
 
     By Chuck Tannert  "...We've put together a list of 10 companies, all
     makers of advanced driver assist technologies or systems, to watch
-    now..."  [Read
-
-      more](http://www.fastcompany.com/3024362/innovation-agents/10-autonomous-driving-companies-to-watch)   Hmmm... I agree with some on
+    now..."  [Read more](http://www.fastcompany.com/3024362/innovation-agents/10-autonomous-driving-companies-to-watch)   Hmmm... I agree with some on
         the list, but others seemed to be focused on TravelTainment.
         Nothing wrong with that, if they also focus on the solution,
         SmartDrivingCars, to the problem they are creating with
@@ -108,7 +100,7 @@ My only real disappointment with the Rand
 # Highlights of Recent
         Events:
 
-# [](http://www.trb.org/AnnualMeeting2014/annualmeeting2014.aspx)
+# 
 
 This was the last year that "TRB" will be at
       the Shoreham + Hilton + Marriott Hotels.  Thank goodness!  Next
@@ -122,9 +114,7 @@ This was the last year that "TRB" will be at
       impossible for anyone to introduce themselves.  Regardless, a good
       time was had by all.
 
-      SmartDrivingCar activities were one of TRB's "[Hot
-
-        Topics](http://orfe.princeton.edu/%7Ealaink/TRB%2714/TRB_SmartDrivingCars_Activities.pdf)"; however,  TRB completely underestimated how hot and
+      SmartDrivingCar activities were one of TRB's "[Hot Topics](http://orfe.princeton.edu/%7Ealaink/TRB%2714/TRB_SmartDrivingCars_Activities.pdf)"; however,  TRB completely underestimated how hot and
       failed to assign sessions to sufficiently large rooms.  All
       sessions and committee meetings dealing with SmartDrivingCars were
       SRO (Standing Room Only).
@@ -136,10 +126,7 @@ Starting Sunday with the SRO Workshop on Travel Demand
       Regency, San Francisco Airport, July 14 -> 18.  Save the Date!
 
       In the Sunday Workshop, I was tasked to "Set the Stage"
-      with my presentation "[Urban
-
-        Planning & Community Design Considerations in an Era of
-        Driverless Cars](http://orfe.princeton.edu/%7Ealaink/TRB%2714/TRB%2714_Sunday_Planning&DesignConsideratons.pptx)".  Excellent presentations were made by
+      with my presentation "[Urban Planning & Community Design Considerations in an Era of Driverless Cars](http://orfe.princeton.edu/%7Ealaink/TRB%2714/TRB%2714_Sunday_Planning&DesignConsideratons.pptx)".  Excellent presentations were made by
       Prof. Hani Mahmassani of Northwestern and Steven Polzin of the U
       of South Florida. I hope to post links in the next issue of SDC.
 
@@ -150,19 +137,13 @@ Starting Sunday with the SRO Workshop on Travel Demand
       autonomousTaxis.
 
 Tuesday afternoon, Dr. Jerome Lutin and I gave our
-      presentation on the "[Application
-
-        of Autonomous Driving Technologies to Transit](http://orfe.princeton.edu/%7Ealaink/TRB%2714/TRB%2714_ApplicationAutonomousDrivingTechnologytoTransit_LutinKornhauser.pptx)".
+      presentation on the "[Application of Autonomous Driving Technologies to Transit](http://orfe.princeton.edu/%7Ealaink/TRB%2714/TRB%2714_ApplicationAutonomousDrivingTechnologytoTransit_LutinKornhauser.pptx)".
 
 Wednesday morning, Dr. Stan Young and I presented a summary
-      the [Transit
-
-        and Ride-Sharing Research Needs Statements](http://orfe.princeton.edu/%7Ealaink/TRB%2714/TRB%2714_ARV_SharedMobility_andTransit_KornhauserYoungLevineMcDonald.pdf) that were derived
+      the [Transit and Ride-Sharing Research Needs Statements](http://orfe.princeton.edu/%7Ealaink/TRB%2714/TRB%2714_ARV_SharedMobility_andTransit_KornhauserYoungLevineMcDonald.pdf) that were derived
       from last summer's 2nd Automated Vehicle Conference at Stanford.
 
-      Later on Wednesday I [presented
-
-        a summary](http://orfe.princeton.edu/%7Ealaink/NJ_aTaxiOrf467F13/Orf467F13_FinalProjectPresntations/TRB14_Zacharia_011114_Final.pptx)of the work that my students and I have been
+      Later on Wednesday I [presented a summary](http://orfe.princeton.edu/%7Ealaink/NJ_aTaxiOrf467F13/Orf467F13_FinalProjectPresntations/TRB14_Zacharia_011114_Final.pptx)of the work that my students and I have been
       doing over the past three (3) years trying assess the ride-sharing
       potential of autonomousTaxis (aTaxis).
 
@@ -222,11 +203,7 @@ Wednesday morning, Dr. Stan Young and I presented a summary
 
 Given: a demand for travel; say, the mobility needs of all
       people 9+ million people who live and/or work in New Jersey on a
-      typical weekday. (Click for [trip
-
-          files](http://orfe.princeton.edu/%7Ealaink/NJ_aTaxiOrf467F13/Orf467F13_NJ_TripFiles/oTrips_Orf467_010314/oTrips_ByCountyByMode/),[](http://orfe.princeton.edu/%7Ealaink/NJ_aTaxiOrf467F13/%5BABC%5DModule7NN_New/)[person
-
-        files](http://orfe.princeton.edu/%7Ealaink/NJ_aTaxiOrf467F13/%5BABC%5DModule7NN_New/).  Use freely but
+      typical weekday. (Click for [trip files](http://orfe.princeton.edu/%7Ealaink/NJ_aTaxiOrf467F13/Orf467F13_NJ_TripFiles/oTrips_Orf467_010314/oTrips_ByCountyByMode/),[person files](http://orfe.princeton.edu/%7Ealaink/NJ_aTaxiOrf467F13/%5BABC%5DModule7NN_New/).  Use freely but
       cite properly.)
 
 Determine: How far will users need to walk (GD), how many
@@ -237,13 +214,9 @@ Determine: How far will users need to walk (GD), how many
 
 Assessment: Is that level of coercion sufficiently docile
       relative to the commensurate societal benefits of such an AVO, so
-      as to make such a system socially desirable? ([D](http://orfe.princeton.edu/%7Ealaink/NJ_aTaxiOrf467F13/Orf467F13_FinalProjectPresntations/)[raft
+      as to make such a system socially desirable? ([D](http://orfe.princeton.edu/%7Ealaink/NJ_aTaxiOrf467F13/Orf467F13_FinalProjectPresntations/)[raft versions of county results](http://orfe.princeton.edu/%7Ealaink/NJ_aTaxiOrf467F13/Orf467F13_FinalProjectPresntations/))
 
-        versions of county results](http://orfe.princeton.edu/%7Ealaink/NJ_aTaxiOrf467F13/Orf467F13_FinalProjectPresntations/))
-
-[My
-
-        presentation](http://orfe.princeton.edu/%7Ealaink/NJ_aTaxiOrf467F13/Orf467F13_FinalProjectPresntations/TRB14_Zacharia_011114_Final.pptx) summarized our efforts to construct a
+[My presentation](http://orfe.princeton.edu/%7Ealaink/NJ_aTaxiOrf467F13/Orf467F13_FinalProjectPresntations/TRB14_Zacharia_011114_Final.pptx) summarized our efforts to construct a
       sufficiently precise representation of each of the 32+ million trips that occur throughout New jersey on a
       typical weekday as well as the computation of AVO values for
       various state-wide aTaxi systems characterized by various values
@@ -276,13 +249,9 @@ Findings: By maintaining the existing NJ Transit commuter
       benefits (inexpensive ride)  imposed by minor inconveniences
       (short walks and, at times, "sharing a lift")  with a surrender of
       the burdens and pleasures of personal automobile ownership.
-      Sounds like a deal!  Too good to be true?? What do you think?   [Read
+      Sounds like a deal!  Too good to be true?? What do you think?   [Read more](http://orfe.princeton.edu/%7Ealaink/NJ_aTaxiOrf467F13/Orf467F13_FinalProjectPresntations/TRB14_Zacharia_011114_Final.pptx)  Alain
 
-        more](http://orfe.princeton.edu/%7Ealaink/NJ_aTaxiOrf467F13/Orf467F13_FinalProjectPresntations/TRB14_Zacharia_011114_Final.pptx)  Alain
-
-      TRB'14 concluded on Thursday with Session 871 [Road
-
-        Vehicle Automation](http://pressamp.trb.org/aminteractiveprogram/EventDetails.aspx?ID=29093)[](http://pressamp.trb.org/aminteractiveprogram/EventDetails.aspx?ID=29093)[](http://pressamp.trb.org/aminteractiveprogram/EventDetails.aspx?ID=29093)
+      TRB'14 concluded on Thursday with Session 871 [Road Vehicle Automation](http://pressamp.trb.org/aminteractiveprogram/EventDetails.aspx?ID=29093)
 The focus of this session was to plan
       for next summer's 3rd Vehicle Automation Symposium to be held in
       the Bay Area.  To get everyone thinking, two debates were
@@ -290,13 +259,10 @@ The focus of this session was to plan
         with Steve Shladover, University of California PATH Program vs.
         James Misener, Consultant and the other Connectivity vs.
             Autonomy  John Capp, GM vs. Alain Kornhauser,
-        Princeton  [Here
-
-          are my opening remarks.](http://orfe.princeton.edu/%7Ealaink/TRB%2714/TRB%2714_ThursdayDebateOpeningStatementFinal.pdf)It was a lot of
+        Princeton  [Here are my opening remarks.](http://orfe.princeton.edu/%7Ealaink/TRB%2714/TRB%2714_ThursdayDebateOpeningStatementFinal.pdf)It was a lot of
         fun.  Alain
 
-[Driverless car technology takes center
-                  stage at Consumer Electronics Show](http://www.foxnews.com/tech/2014/01/08/cars-at-ces-show/)
+[Driverless car technology takes center stage at Consumer Electronics Show](http://www.foxnews.com/tech/2014/01/08/cars-at-ces-show/)
 
             While this is one person's interpretation, I had a slightly
             different impression of CES.  Mercedes was the only car
@@ -314,9 +280,7 @@ The focus of this session was to plan
             that I was not permitted to enter because I did not have an
             appointment.
 
-## [Company
-
-            Demos Driverless Shuttle](http://www.pddnet.com/news/2014/01/company-demos-driverless-shuttle)
+## [Company Demos Driverless Shuttle](http://www.pddnet.com/news/2014/01/company-demos-driverless-shuttle)
 
 "...French company Induct on Monday showed off the first
           driverless vehicle to be commercially available in the U.S.
@@ -324,14 +288,10 @@ The focus of this session was to plan
           The Navia shuttle isn't ready for U.S. street traffic yet, but
           this standing-room-only shuttle can transport up to 10 people
           from point to point on university campuses or in airport
-          parking lots at speeds topping out at 12.5 mph..."  [Read
-
-            more](http://www.pddnet.com/news/2014/01/company-demos-driverless-shuttle)  Retirement communities
+          parking lots at speeds topping out at 12.5 mph..."  [Read more](http://www.pddnet.com/news/2014/01/company-demos-driverless-shuttle)  Retirement communities
               should pay attention to this.  Alain
 
-   [Audi
-
-          highlights self-driving cars and more](http://www.usatoday.com/story/money/cars/2014/01/07/reviewed-ces-audi-keynote/4351777/)   while they opened their exhibit with a
+   [Audi highlights self-driving cars and more](http://www.usatoday.com/story/money/cars/2014/01/07/reviewed-ces-audi-keynote/4351777/)   while they opened their exhibit with a
             driverless Concept Car, similar, but less dramatically, as
             Mercedes had done at Frankfurt, I found them to be more
             focused and infatuated with the "coolness" of their laser
@@ -351,9 +311,7 @@ BMW was still "the ultimate driving
             riding machine".  They did
           a demo with a prototype car on a track:
 
-## [BMW
-
-            hits the performance limits with its driverless car](http://ces.cnet.com/8301-35289_1-57616748/bmw-hits-the-performance-limits-with-its-driverless-car/)
+## [BMW hits the performance limits with its driverless car](http://ces.cnet.com/8301-35289_1-57616748/bmw-hits-the-performance-limits-with-its-driverless-car/)
 
         by Wayne Cunningham "...I sat in the passenger seat while a BMW
         staffer sat in the driver's seat. He kept his hands off the
@@ -361,9 +319,7 @@ BMW was still "the ultimate driving
         turns, hit the brakes, and swung the wheel over....It may seem
         like cheating that, for this demonstration, BMW programmed the
         car's route in through GPS, which gave it the path around the
-        track.  "  [Read
-
-          more](http://ces.cnet.com/8301-35289_1-57616748/bmw-hits-the-performance-limits-with-its-driverless-car/)It was! Alain
+        track.  "  [Read more](http://ces.cnet.com/8301-35289_1-57616748/bmw-hits-the-performance-limits-with-its-driverless-car/)It was! Alain
 
  As far as the aftermarket guys, they
             were all focused on travelTainment, big time!  It is amazing
@@ -378,8 +334,7 @@ BMW was still "the ultimate driving
             and enjoy that travelTainment on those roads at those
             times.  Alain
 
-## [Nvidia Aims Its Supercomputer Chips At
-                Self-Driving Cars](http://www.wired.com/wiredenterprise/2014/01/nvidia-k1/)
+## [Nvidia Aims Its Supercomputer Chips At Self-Driving Cars](http://www.wired.com/wiredenterprise/2014/01/nvidia-k1/)
 
         By Klint Finley  01.06.14  "...the chip maker unveiled its new
         Tegra K1 mobile processor at the Consumer Electronics Show in
@@ -397,9 +352,7 @@ BMW was still "the ultimate driving
         mobile phones, and the like during the first quarter of this
         year. But Shapiro says the automotive version will take some
         more time due to the industry's rigorous certification
-        requirements..."  [Read
-
-          more](file:///C:/Users/alaink/Desktop/Nvidia%20Aims%20Its%20Supercomputer%20Chips%20At%20Self-Driving%20Cars)   Hmmm...Maybe... Seems
+        requirements..."  [Read more](file:///C:/Users/alaink/Desktop/Nvidia%20Aims%20Its%20Supercomputer%20Chips%20At%20Self-Driving%20Cars)   Hmmm...Maybe... Seems
             like they are going after the travelTainment market, but it
             would be nice to have 64 bit, 192 core processors
             available.  As Nvidia has found, parallel computations are
@@ -412,7 +365,6 @@ Very interesting student PowerPoints and
 
 [http://orfe.princeton.edu/~alaink/NJ_aTaxiOrf467F13/Orf%20467F13_FinalReport&PresentationLinks.pdf](http://orfe.princeton.edu/%7Ealaink/NJ_aTaxiOrf467F13/Orf%20467F13_FinalReport&PresentationProspectus.pdf)
 
-[](http://orfe.princeton.edu/%7Ealaink/NJ_aTaxiOrf467F13/Orf%20467F13_FinalReport&PresentationLinks.pdf)
 
 # Calendar of Upcoming
         Events:
@@ -423,9 +375,7 @@ Very interesting student PowerPoints and
 
           January 6, 2014
 
-## [Self-Driving
-
-        Cars Moving into the Industry's Driver's Seat](http://press.ihs.com/press-release/automotive/self-driving-cars-moving-industrys-drivers-seat)
+## [Self-Driving Cars Moving into the Industry's Driver's Seat](http://press.ihs.com/press-release/automotive/self-driving-cars-moving-industrys-drivers-seat)
 
 Jan. 2, 2014  "Accident rates will plunge to near zero for SDCs,
       although other cars will crash into SDCs, but as the market share
@@ -442,32 +392,21 @@ Jan. 2, 2014  "Accident rates will plunge to near zero for SDCs,
       11.8 million in 2035 – 7 million SDCs with both driver control and
       autonomous control and 4.8 million that have only autonomous
       control. In all, there should be nearly 54 million self-driving
-      cars in use globally by 2035.  [Read
-
-        more](http://press.ihs.com/press-release/automotive/self-driving-cars-moving-industrys-drivers-seat)
+      cars in use globally by 2035.  [Read more](http://press.ihs.com/press-release/automotive/self-driving-cars-moving-industrys-drivers-seat)
 
           December 27, 2013
 
           December 20, 2013
 
-## [](http://www.amazon.com/The-New-Killer-Apps-Out-Innovate/dp/0989242013/ref=sr_1_1?ie=UTF8&qid=1387553143&sr=8-1&keywords=The+New+Killer+Apps+Mui) ["The
-
-        New Killer Apps](http://www.amazon.com/The-New-Killer-Apps-Out-Innovate/dp/0989242013/ref=sr_1_1?ie=UTF8&qid=1387553143&sr=8-1&keywords=The+New+Killer+Apps+Mui)
+##  ["The New Killer Apps](http://www.amazon.com/The-New-Killer-Apps-Out-Innovate/dp/0989242013/ref=sr_1_1?ie=UTF8&qid=1387553143&sr=8-1&keywords=The+New+Killer+Apps+Mui)
 
 How Large Companies Can Out-Innovate Start-Ups"
-by Chunka Mui and Paul B. Carroll [Now
+by Chunka Mui and Paul B. Carroll [Now Available](http://www.amazon.com/The-New-Killer-Apps-Out-Innovate/dp/0989242013/ref=sr_1_1?ie=UTF8&qid=1387553143&sr=8-1&keywords=The+New+Killer+Apps+Mui) [Highly Recommended.](https://www.kirkusreviews.com/book-reviews/chunka-mui/the-new-killer-apps/?utm_content=buffer57917&utm_source=buffer&utm_medium=twitter&utm_campaign=Buffer)See also Chunka's Dec. 19 Forbes article [Will The Google Car Force A Choice Between Lives And Jobs?](http://www.forbes.com/sites/chunkamui/2013/12/19/will-the-google-car-force-a-choice-between-lives-and-jobs/)
 
-        Available](http://www.amazon.com/The-New-Killer-Apps-Out-Innovate/dp/0989242013/ref=sr_1_1?ie=UTF8&qid=1387553143&sr=8-1&keywords=The+New+Killer+Apps+Mui) [Highly
-
-          Recommended.](https://www.kirkusreviews.com/book-reviews/chunka-mui/the-new-killer-apps/?utm_content=buffer57917&utm_source=buffer&utm_medium=twitter&utm_campaign=Buffer)See also Chunka's Dec. 19 Forbes article [Will
-
-            The Google Car Force A Choice Between Lives And Jobs?](http://www.forbes.com/sites/chunkamui/2013/12/19/will-the-google-car-force-a-choice-between-lives-and-jobs/)
-
-  [](Mailto:alaink@princeton.edu)[Mailto:alaink@princeton.edu](Mailto:alaink@princeton.edu)[](Mailto:alaink@princeton.edu)
+  [Mailto:alaink@princeton.edu](Mailto:alaink@princeton.edu)
 
  This list is maintained by [Alain Kornhauser](mailto:alaink@princeton.edu) and hosted
-    by the [Princeton University
-      LISTSERV](http://lists.princeton.edu).
+    by the [Princeton University LISTSERV](http://lists.princeton.edu).
 
 [Unsubscribe](https://lists.princeton.edu/cgi-bin/wa?TICKET=NzM1MjMzIGJpbm9AUFJJTkNFVE9OLkVEVSBTTUFSVERSSVZJTkdDQVJTIGluYtYkJuu3&c=SIGNOFF)
     | [Re-subscribe](https://lists.princeton.edu/cgi-bin/wa?TICKET=NzM1MjMzIGJpbm9AUFJJTkNFVE9OLkVEVSBTTUFSVERSSVZJTkdDQVJTIGluYtYkJuu3&c=SIGNUP)

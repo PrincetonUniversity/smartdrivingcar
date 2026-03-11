@@ -10,9 +10,8 @@ Please check out Promo Video and let me know your thoughts in a
 
 [https://youtu.be/q5Ov_dPuRV4](https://youtu.be/q5Ov_dPuRV4)
 
-[](https://youtu.be/q5Ov_dPuRV4)
 
-[https://www.cartsmobility.com/summit](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.cartsmobility.com%2Fsummit&data=05%7C01%7Calaink%40Princeton.EDU%7C497ad80712174192118f08da3cb6f009%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C637889053728618615%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=0x%2BzmmOnJgigi8U9WvpF1CA9tcCQxrgvNoSiIxOCCXQ%3D&reserved=0)
+[https://www.cartsmobility.com/summit](https://www.cartsmobility.com/summit)
 
  Alain
             L. Kornhauser, PhD
@@ -25,7 +24,6 @@ Please check out Promo Video and let me know your thoughts in a
 
           Faculty Chair, Princeton Autonomous Vehicle Engineering
 
-[](https://nam12.safelinks.protection.outlook.com/?url=http%3A%2F%2Fwww.princeton.edu%2F&data=05%7C01%7Calaink%40Princeton.EDU%7C497ad80712174192118f08da3cb6f009%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C637889053728618615%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=G6uJRee0M9IZ1lOt494seW2ukYtox222eUGV1E2yPyw%3D&reserved=0)
 
 ***************************************************************************************************************
 

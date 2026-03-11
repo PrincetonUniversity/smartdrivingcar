@@ -27,9 +27,7 @@ will not be uttered again by anyone at Tesla, and that the operative word become
 and by Tesla, to ensure that its product is not misused by the driver
 and the driver behaves while using "Supervised xyz".    If the driver wishes to not be supervised in their use of Supervised xyz, then that person should, under no circumstances, be permitted to engage/use "Supervised xyz" .   End of story!  Alain
 
-[](https://www.amazon.com/Real-Case-Driverless-Mobility-Vehicles/dp/0443236852/ref=sr_1_1?crid=22SK14SI799RL&dib=eyJ2IjoiMSJ9.lxEa4C-A4uRSBIChfD3wJw.xogl_NdvikO4LhL5RvNCh1iiD7Vx17Dpx_FWynWqyq4&dib_tag=se&keywords=kornhauser+sena&qid=1708172593&s=electronics&sprefix=kornhauser+sena%2Celectronics%2C90&sr=1-1)[Just
- Published](https://www.amazon.com/Real-Case-Driverless-Mobility-Vehicles/dp/0443236852/ref=sr_1_1?crid=1XSXZ611C2JCN&keywords=Kornhauser+sena&qid=1707095108&sprefix=kornhauser+sena%2Caps%2C76&sr=8-1&ufe=app_do%3Aamzn1.fos.18ed3cb5-28d5-4975-8bc7-93deae8f9840)!!!  [Go
- to Amazon.com](https://www.amazon.com/Real-Case-Driverless-Mobility-Vehicles/dp/0443236852/ref=sr_1_1?crid=1XSXZ611C2JCN&keywords=Kornhauser+sena&qid=1707095108&sprefix=kornhauser+sena%2Caps%2C76&sr=8-1&ufe=app_do%3Aamzn1.fos.18ed3cb5-28d5-4975-8bc7-93deae8f9840)… You can still be first on your block to have one
+[Just Published](https://www.amazon.com/Real-Case-Driverless-Mobility-Vehicles/dp/0443236852/ref=sr_1_1?crid=1XSXZ611C2JCN&keywords=Kornhauser+sena&qid=1707095108&sprefix=kornhauser+sena%2Caps%2C76&sr=8-1&ufe=app_do%3Aamzn1.fos.18ed3cb5-28d5-4975-8bc7-93deae8f9840)!!!  [Go to Amazon.com](https://www.amazon.com/Real-Case-Driverless-Mobility-Vehicles/dp/0443236852/ref=sr_1_1?crid=1XSXZ611C2JCN&keywords=Kornhauser+sena&qid=1707095108&sprefix=kornhauser+sena%2Caps%2C76&sr=8-1&ufe=app_do%3Aamzn1.fos.18ed3cb5-28d5-4975-8bc7-93deae8f9840)… You can still be first on your block to have one
 J.
 
 [https://www.amazon.com/Real-Case-Driverless-Mobility-Vehicles/dp/0443236852/ref=sr_1_1](https://www.amazon.com/Real-Case-Driverless-Mobility-Vehicles/dp/0443236852/ref=sr_1_1%0d)
@@ -63,8 +61,7 @@ when the stars are at their brightest, I left Vadstena for three-hour drive sout
  landscape, I saw a large, bright object in the southeastern sky. It appeared to be stationary, approximately 30 degrees above the horizon. It looked like a double cross and was visible for the next forty-five minutes until it was daylight, moving at about
  the same speed as my car. It was too large to be the International Space Station, although it had its shape. I have watched the ISS as a bright dot moving across the sky, 402 kilometers above the Earth. It travels quickly in its low earth orbit, five miles
  per second and orbiting earth every 90 minutes. Try as I might, I could not find any information about the mysterious object guiding me along my way on that cold January morning, but it started me thinking about the next frontier of vehicle communications:
- Low Earth Orbit (LEO) satellites."…  [Read
- More](https://www.michaellsena.com/the-dispatcher-newsletter-2/)  Hmmmm…
+ Low Earth Orbit (LEO) satellites."…  [Read More](https://www.michaellsena.com/the-dispatcher-newsletter-2/)  Hmmmm…
  A very timely feature and much more.  Enjoy!  Alain
 
 [What we know about the Baltimore bridge collapse](https://apnews.com/article/baltimore-key-bridge-collapse-what-to-know-127d6ae38d63561ca4c1f18b3d508ba6)
@@ -72,8 +69,7 @@ when the stars are at their brightest, I left Vadstena for three-hour drive sout
 B. Finley, March 30, "A cargo ship [rammed into Baltimore's Francis Scott Key Bridge](https://apnews.com/article/baltimore-bridge-collapse-a41073d33d08125b41c292b14b899d0a), causing
  the span to collapse and presumably killing six construction workers
 The ship's warning enabled authorities to limit vehicle traffic on the span.
-[Read
- More](https://apnews.com/article/baltimore-key-bridge-collapse-what-to-know-127d6ae38d63561ca4c1f18b3d508ba6)  Hmmmm…
+[Read More](https://apnews.com/article/baltimore-key-bridge-collapse-what-to-know-127d6ae38d63561ca4c1f18b3d508ba6)  Hmmmm…
 Absolutely tragic.  Even well proven transport technologies are not perfectly safe and have challenging corner cases.
 
 However…
@@ -82,8 +78,7 @@ However…
  …  This is a significant sliver of a silver lining…. A MayDay call was made, was heard, and police officers responded instantly
  and effectively stopped traffic in both directions instantaneously. That's a lot of good things  happening perfectly in the dead of night.  Failure by anyone would have substantially escalated the human toll…
 
-"Two of the construction workers who were on the bridge were rescued. [The bodies
- of four of the six others](https://apnews.com/article/baltimore-key-bridge-collapse-03-27-2024-6a95340e5daeff6551fc999d23feb278) were still missing Thursday. Searchers [recovered the bodies](https://apnews.com/live/baltimore-key-bridge-collapse-latest-2024#0000018e-8225-d34d-a99e-9f6751110000) of 35-year-old Alejandro Hernandez Fuentes and 26-year-old
+"Two of the construction workers who were on the bridge were rescued. [The bodies of four of the six others](https://apnews.com/article/baltimore-key-bridge-collapse-03-27-2024-6a95340e5daeff6551fc999d23feb278) were still missing Thursday. Searchers [recovered the bodies](https://apnews.com/live/baltimore-key-bridge-collapse-latest-2024#0000018e-8225-d34d-a99e-9f6751110000) of 35-year-old Alejandro Hernandez Fuentes and 26-year-old
  Dorlian Ronial Castillo Cabrera on Wednesday. They were in a pickup truck submerged in about 25 feet (7.6 meters) of water.
 
 The workers [came to the Maryland area](https://apnews.com/article/baltimore-bridge-collapse-honduras-mexico-guatamala-victims-ac79dd7413b948c635549ef1845c6d22) from Guatemala, Honduras
@@ -96,20 +91,16 @@ One worker, 38-year-old Maynor Yassir Suazo Sandoval, came to the U.S. from Hond
  mess that we made while enjoying our cars.  And we should fix our immigration mess – a complex situation that requires people with disparate perspectives to work together in order to implement solutions. I'm an immigrant. My family came over on a boat in 1951.
  Alain & Elizabeth
 
-   [General Motors has sliced Cruise's budget by $1B, but says it may bring on new
- Cruise investors when it starts rolling robo-taxis back on the streets](https://finance.yahoo.com/news/general-motors-sliced-cruise-budget-030000009.html?guccounter=1)
+   [General Motors has sliced Cruise's budget by $1B, but says it may bring on new Cruise investors when it starts rolling robo-taxis back on the streets](https://finance.yahoo.com/news/general-motors-sliced-cruise-budget-030000009.html?guccounter=1)
 
 J.  Narra,  Mathews, March 28, "After an accident last fall that led General Motors-owned Cruise to pull its robo-taxis off the streets,
  GM is weighing whether it will bring more outside capital into its autonomous robo-taxi subsidiary when it's finally ready to start putting its vehicles back on the road, a GM executive said earlier this week.
 
-While speaking at a [Bank of America](https://fortune.com/company/bank-of-america-corp/) event on March 26, [General
- Motors](https://fortune.com/company/general-motors/) CFO Paul Jacobson said that GM was considering bringing in other strategic partners for capital investment...."
-[Read
- More](https://finance.yahoo.com/news/general-motors-sliced-cruise-budget-030000009.html?guccounter=1)  Hmmmm…  Maybe
+While speaking at a [Bank of America](https://fortune.com/company/bank-of-america-corp/) event on March 26, [General Motors](https://fortune.com/company/general-motors/) CFO Paul Jacobson said that GM was considering bringing in other strategic partners for capital investment...."
+[Read More](https://finance.yahoo.com/news/general-motors-sliced-cruise-budget-030000009.html?guccounter=1)  Hmmmm…  Maybe
  spending less creates a better new product.  Then again, maybe not.  Why not focus on the Real Case for Driverless Cars?  This technology's challenge hasn't been "we've spending too much".  Alain & Elizabeth
 
- [6th
- SmartDrivingCars Summit](https://summit.princeton.edu/) Evening May 29 -> May 31, 2024
+ [6th SmartDrivingCars Summit](https://summit.princeton.edu/) Evening May 29 -> May 31, 2024
 
 Alain Kornhauser, March 8, "We promise civil and lively discussions as to how to improve the Quality-of-Life (QoL) for many while disrupting the QoL to as few
  as possible.  Focus will be on the business aspects…
@@ -150,19 +141,16 @@ Return of
 
 (The following are but a few of the many recent click-bait postings)
 
-   [Ghost ride the whip! Geely shows off AI chassis performing fully-autonomous
- drifting [Video]](https://electrek.co/2024/03/27/geely-shows-off-new-ai-chassis-performing-fully-autonomous-drifting/)
+   [Ghost ride the whip! Geely shows off AI chassis performing fully-autonomous drifting [Video]](https://electrek.co/2024/03/27/geely-shows-off-new-ai-chassis-performing-fully-autonomous-drifting/)
 
-S. Doll,  March 27, "While many are still skeptical about the plausibility of 100% autonomous vehicles, [Geely
- Auto](https://electrek.co/guides/geely/) is showing that its new AI digital chassis can not only safely operate on snow and ice without a driver but can also pull off fully autonomous drifting. See the EV in action in the video below.
+S. Doll,  March 27, "While many are still skeptical about the plausibility of 100% autonomous vehicles, [Geely Auto](https://electrek.co/guides/geely/) is showing that its new AI digital chassis can not only safely operate on snow and ice without a driver but can also pull off fully autonomous drifting. See the EV in action in the video below.
 
 Geely Auto operates as the primary marque auto brand under the larger umbrella of Zhejiang Geely Holding Group Co., Ltd. Aside from its own branded EVs, the Chinese automaker owns stakes in
  plenty of other notable brands we often cover on Electrek, including [ZEEKR](https://electrek.co/2024/02/07/geely-auto-inks-deal-zeekr-sell-evs-mexico-hints-expansion-south-america/), Volvo, Lotus, and [Polestar](https://electrek.co/2024/02/28/funding-secured-polestar-psny-1-billion-external-cash/).
 
 With a knack for advanced automotive technology and nearly forty years of experience in scaled manufacturing, Geely is a notable name in the global EV landscape,
 pushing the boundaries of what mobility means..."
-[Read
- More](https://electrek.co/2024/03/27/geely-shows-off-new-ai-chassis-performing-fully-autonomous-drifting/)  Hmmmm…
+[Read More](https://electrek.co/2024/03/27/geely-shows-off-new-ai-chassis-performing-fully-autonomous-drifting/)  Hmmmm…
   What???
 
 This is not just bad click-bait journalism but outright insanity by the OEM.
@@ -187,8 +175,7 @@ they've been successfully operating across the country for years,"
 ...
 
 "New York City leads the nation in responsible innovation, and we're continuing to do so with this new autonomous vehicle program," said Adams. "This technology is coming whether we like it
- or not, so we're going to make sure that we get it right." " [Read
- More](https://pix11.com/news/local-news/nyc-takes-first-step-in-allowing-driverless-cars-on-city-streets/)  Hmmmm…
+ or not, so we're going to make sure that we get it right." " [Read More](https://pix11.com/news/local-news/nyc-takes-first-step-in-allowing-driverless-cars-on-city-streets/)  Hmmmm…
   This is so bad!!! Maybe for Saten Island, but for Manhattan? Totally crazy.  This stuff has barely worked in two places (Phoenix and San Francisco) and has struggled to deliver any net value in either of these places.  Other than temporary amusement to those
  Manhattanites who already have access to great mobility (taxis, subways, buses, walking, ride hailing), one can't envision any positive contribution to these systems.  While technologically, these systems might work in well behaved uncongested venues, NYC's
  vibrant street and sidewalk environment is the absolute last place in the USA, and maybe the world, that these systems have a chance of actually delivering net good to a community.  There is as close to zero as possible of such systems delivering any net positive

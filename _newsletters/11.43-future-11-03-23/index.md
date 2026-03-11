@@ -19,8 +19,7 @@ M. Sena, Oct 28, ", Oct. 25, "Two-and-a-half months after I came home to Sweden 
  cost, most convenience, greatest comfort, and fastest speed of arrival, and which fits with current conditions of time of year, weather, and time of day? I am fully aware that I didn't need to travel to the U.S. and Canada to spend a few days fishing in the
  wilderness of Labrador. People do a lot of things they do not NEED to do. Do I feel better for having done it? Yes, for more reasons than I can list or explain, even to myself. I am happy to have spent the money for this trip in a way that gives people work,
  and to have had the experience of seeing in person my dearest friends. What else is life for? …"
-[Read
-  more](https://www.michaellsena.com/wp-content/uploads/2023/10/The-Dispatcher_November_2023.pdf)[](https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevenaquino/2023/10/25/cruises-san-francisco-suspension-exposes-peoples-ableism-and-underscores-abled-privilege-enjoyed-by-most/amp/) Hmmmm….
+[Read more](https://www.michaellsena.com/wp-content/uploads/2023/10/The-Dispatcher_November_2023.pdf) Hmmmm….
  Another wonderful issue, especially the lead article "The Business if Transport Systems.  Enjoy reading and tune into my discussion with Michael in ZoomCast 342  Alain
 
 *****

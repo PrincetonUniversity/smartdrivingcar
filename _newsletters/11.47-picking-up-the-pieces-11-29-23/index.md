@@ -10,8 +10,7 @@ display_name: "11.47 - Picking Up The Pieces"
 
 47th edition of the 11th year of SmartDrivingCars eLetter
 
-[Cruise
- is taking a bruising](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https:/www.michaellsena.com/wp-content/uploads/2023/11/The-Dispatcher_Dispatch-Central_January_2024_V1-1.pdf)
+[Cruise is taking a bruising](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https:/www.michaellsena.com/wp-content/uploads/2023/11/The-Dispatcher_Dispatch-Central_January_2024_V1-1.pdf)
 
 M. Sena, Nov.26, "IT HAS BEEN a rough couple of months for CRUISE LLC after it reached a high point in August this year. That was when CRUISE, along with WAYMO LLC, received approval from the
  CALIFORNIA DIVISION OF MOTOR VEHICLES to operate round-the-clock paid ride-supplying services in the state with their driverless vehicles, that is, with no human primary or back-up driver in the vehicle. CRUISE's license was for 300 vehicles. Then the wheels

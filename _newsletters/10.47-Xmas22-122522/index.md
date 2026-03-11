@@ -14,8 +14,7 @@ Click or tap if you trust this link.">
 47th
             edition of the 10th year of SmartDrivingCars eLetter
 
-      [Autonomous Vehicles Reality Check
-              Part 2: Moving People](https://www.forbes.com/sites/richardbishop1/2022/12/22/autonomous-vehicles-reality-check-part-2-moving-people/?sh=3fa925e93d16)
+      [Autonomous Vehicles Reality Check Part 2: Moving People](https://www.forbes.com/sites/richardbishop1/2022/12/22/autonomous-vehicles-reality-check-part-2-moving-people/?sh=3fa925e93d16)
 
 R. Bishop, Dec. 22, " Recent
         reporting/blogging about AV's can be maddeningly confusing,
@@ -80,12 +79,12 @@ Deployment must
             one-size to fit all that has fit very few in the deployed
             Operational Design Domain.  Alain
 
-            SmartDrivingCars [ZoomCast 296](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DMjF3i3uUUz4&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998756378705%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=%2Bx6hY1Q5jTDa0JWuyCTYkdXOPXXPQJ7NU8atHaOgpJM%3D&reserved=0) / [PodCast296](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fanchor.fm%2Fsmartdrivingcars%2Fepisodes%2Fmart-Driving-Cars-Floridas-10th-annual-Automated-Vehicle-Summit--Waymo--TuSimple--more-e1sdcvc%3F%2524web_only%3Dtrue%26_branch_match_id%3D907792449640522550%26utm_source%3Dweb%26utm_campaign%3Dweb-share%26utm_medium%3Dsharing%26_branch_referrer%3DH4sIAAAAAAAAA8soKSkottLXLy7IL8lMq0zMS87IL9ItT03SSywo0MvJzMvWT9UviwryD0%252FxKgssSwIALtk4sTAAAAA%!
+            SmartDrivingCars [ZoomCast 296](https://www.youtube.com/watch?v=MjF3i3uUUz4) / [PodCast296](https://anchor.fm/smartdrivingcars/episodes/mart-Driving-Cars-Floridas-10th-annual-Automated-Vehicle-Summit--Waymo--TuSimple--more-e1sdcvc?%24web_only=true&_branch_match_id=907792449640522550&utm_source=web&utm_campaign=web-share&utm_medium=sharing&_branch_referrer=H4sIAAAAAAAAA8soKSkottLXLy7IL8lMq0zMS87IL9ItT03SSywo0MvJzMvWT9UviwryD0%2FxKgssSwIALtk4sTAAAAA%!
  253D&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998756378705%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=rlrvSxGDDt9m7dd39ZSfTcCINaTh5UPBcjMJyW42ha8%3D&reserved=0) w/ Jeff Brandes,
             term-limited Florida State Senator & visionary of all 10
             annual Florida Automated Vehicle Summits
 
-* [0:00](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DMjF3i3uUUz4%26t%3D0s&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998756378705%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=OEtPdA5a7Vd7mhz0jwQu77BBOWGMqr0s3FgSdQZscfc%3D&reserved=0) "F. Fishkin, Dec. 17,
+* [0:00](https://www.youtube.com/watch?v=MjF3i3uUUz4&t=0s) "F. Fishkin, Dec. 17,
           "The driving force behind Florida's 10th annual Automated
           Vehicle Summit, former State Senator Jeff Brandes, joins Alain
           and Fred for a dive into the progress to date and what's to
@@ -97,7 +96,7 @@ Deployment must
           transportation in Phoenix39:11Uber Eats will use
           sidewalk deliver robots in Miami40:30TuSimple reportedly will
           lay off many in coming week"fishkin@techstination.com732-928-4691
-* [0:00](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DGUooCzu31XA%26t%3D0s&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998757003675%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=eSVl51NJtRFqOOTCICtZyo9%2Bt7q1Ql6mSHoShuWXktk%3D&reserved=0) "F. Fishkin, Dec. 11,
+* [0:00](https://www.youtube.com/watch?v=GUooCzu31XA&t=0s) "F. Fishkin, Dec. 11,
           "Squad Mobility is bringing its solar powered mini vehicle,
           the Solar City Car to CES next month. CEO Robert Hoevers joins
           Alain and Fred on episode 295 to show and tell. Plus the
@@ -113,7 +112,7 @@ Deployment must
           trains assisting Ukrainians42:43TRB gets new executive
           directorSmartDrivingCarsZoomCast 294/PodCast294w Michael Sena,
             Editor, The Dispatcher
-* [0:00](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DnHrUAB17N_Q%26t%3D0s&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998757159914%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=vfxIJVRTawM7vMtK3lDdvEsC88QdpjgVMmatB6nLglY%3D&reserved=0) open1:00The Shifting Driverless Car
+* [0:00](https://www.youtube.com/watch?v=nHrUAB17N_Q&t=0s) open1:00The Shifting Driverless Car
           Landscape15:00Autonomous mobility
           companies have gotten the deployment wrong22:14Automakers pausing paid
           advertising on Twitter. Michael's perfect pizza explanation.31:54China Inc. Global
@@ -122,18 +121,18 @@ Deployment must
           discussion of Artificial Intelligence. Is there even such a
           thing? 72:00 Tesla releases FSD update and delivers first
           Tesla Semis to Pepsi. Can Tesla be a major player in trucking?
-* [0:00](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D1-AM2f_vQL8%26t%3D0s&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998757159914%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=YD7kLb8dIAZ6HPSN1r0hhCO9BzSZJRIgoLdenGHxgLE%3D&reserved=0) open0:42what happened to Alain1:43Argo AI's lifeline from
+* [0:00](https://www.youtube.com/watch?v=1-AM2f_vQL8&t=0s) open0:42what happened to Alain1:43Argo AI's lifeline from
           Amazon that never came5:00Ambarella/Continental Deal12:14Cruise Safety Report13:00Tesla opens up FSD18:44Cybertruck pre-orders top
           1.5 million19:47HOLON!
   23:08NY Times on AI Recipes24:17Mercedes to charge
           subscriptions for performance boost27:00Nuro layoffs29:33BrightDrop
-* [0:00](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DicmJtLze0uY%26t%3D0s&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998757316154%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=9%2FnvGLdYIuPyNA2iDCwBjUdO6K54YwydbuAix6eG9y8%3D&reserved=0) open1:00Tesla FSD Beta tester Chuck Cook29:05Chuck Cook unprotected left turn FSD videos39:00Is Tesla using customers improperly to Beta test?52:40Motional and Lyft to launch fully driverless ride hailing in
+* [0:00](https://www.youtube.com/watch?v=icmJtLze0uY&t=0s) open1:00Tesla FSD Beta tester Chuck Cook29:05Chuck Cook unprotected left turn FSD videos39:00Is Tesla using customers improperly to Beta test?52:40Motional and Lyft to launch fully driverless ride hailing in
           L.A.53:37Waymo shows new prototype vehicle without steering wheel54:10Cruise expands SF driverless service to daylight hours56:34Tesla's data advantage
-* [0:00](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DB0PTV4PUPlI%26t%3D0s&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998757784863%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=wNE2%2BLW4AQCZH%2BlKnYNdsVw5jXzfvGqL67PM2y7Lj3Q%3D&reserved=0) open01:00A New Deployment Framework
+* [0:00](https://www.youtube.com/watch?v=B0PTV4PUPlI&t=0s) open01:00A New Deployment Framework
             for Autonomous Vehicles presentation01:04:20Waymo making passenger trips
             to Phoenix airport01:06:30Layoffs at Lyft01:09:30Aurora reaffirms enough cash
             until commercial deployment01:10:30New FSD Beta from Tesla
-* [0:00](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DtVY5LgBFkyg%26t%3D0s&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998758097341%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=hVgAvtbUsyqwKCcTj4XjkV1yiSLyvJCGgd5LQpnr8%2F8%3D&reserved=0) Intro1:18Battle over
+* [0:00](https://www.youtube.com/watch?v=tVY5LgBFkyg&t=0s) Intro1:18Battle over
           batteries15:53Electricity
           generation and electric vehicles22:28Tech to
           solve ungated railroad crossing dangers26:11Pollution
@@ -143,7 +142,7 @@ Deployment must
           wants half of all cars autonomous by 203543:22Why don't
           you have a self driving car yet? Brad Templeton writes in
           Forbes
-* [00:42](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DnSNERVa3BWo%26t%3D42s&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998758566061%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=U1HbMfRzWpmZ%2B2TLT1W5MBENLZ5JbFgbAxBAJmRvONo%3D&reserved=0) new
+* [00:42](https://www.youtube.com/watch?v=nSNERVa3BWo&t=42s) new
           Tesla FSD Beta15:37Tesla
           AI Day coming19:07Space
           X Launch21:06NY
@@ -155,14 +154,11 @@ Deployment must
           shutting carpooling service41:09NASA
           readies Artemis
 
-[Technical support
-              provided by:](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.cartsmobility.com%2F&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998756534949%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=OLMlgHXvb%2BV4gr8cOB5ahkim9h4YL%2FaOQFYTBljsIoQ%3D&reserved=0)  [CARTSmobility.com](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.cartsmobility.com%2F&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998756534949%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=OLMlgHXvb%2BV4gr8cOB5ahkim9h4YL%2FaOQFYTBljsIoQ%3D&reserved=0)
+[Technical support provided by:](https://www.cartsmobility.com/)  [CARTSmobility.com](https://www.cartsmobility.com/)
           a 501c3 dedicated to Safe & High-Quality Mobility for
-          All.  Tax-deductible donations are most appreciated @ [Support CARTS' mission to provide
-            safe & high-quality mobility for all](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.cartsmobility.com%2Fdonate&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998756534949%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=7MoggSbYYllf2eaDcAvlO36LLm%2B8jsBOkbJyFYmRgag%3D&reserved=0)
+          All.  Tax-deductible donations are most appreciated @ [Support CARTS' mission to provide safe & high-quality mobility for all](https://www.cartsmobility.com/donate)
 
-  [The 2022 FAV Summit at Omni Amelia
-              Island Resort](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Ffavsummit.com%2F&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998756534949%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=fIsqrE9tx2oaIhkpf0jfjMzc8qOdsRID%2BdEDvfMtaQc%3D&reserved=0)
+  [The 2022 FAV Summit at Omni Amelia Island Resort](https://favsummit.com/)
 
         [Robocars and Cities FAV 22](https://prezi.com/view/gV0zcWMJTyXCdmDAPVSN/)
 
@@ -170,19 +166,16 @@ Deployment must
           Most well done!  Look for Brad making a video of this
           presentation.  Alain
 
-  [Autonomous Transit Networks in
-              Florida - Jacksonville MOVES and Tallahassee MOVES](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.cartsmobility.com%2Fblog%2Fautonomous-transit-networks-in-florida-jacksonville-moves-and-tallahassee-moves&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998756534949%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=Vd0ARzTfuO1przRjFgdDCpDWZTo%2FQtSLsxmajW6gQvo%3D&reserved=0)
+  [Autonomous Transit Networks in Florida - Jacksonville MOVES and Tallahassee MOVES](https://www.cartsmobility.com/blog/autonomous-transit-networks-in-florida-jacksonville-moves-and-tallahassee-moves)
 
 J. He, Dec 13, "On
         the occasion of the 10th Florida Automated Vehicles Summit '22,
         CARTS released our study for the Total Addressable Market (TAM)
         for a MOVES-type, city-wide deployment of autonomous transit
-        network (ATN) for Jacksonville, FL and Tallahassee, FL.…."   [Read  more](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.cartsmobility.com%2Fblog%2Fautonomous-transit-networks-in-florida-jacksonville-moves-and-tallahassee-moves&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998756534949%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=Vd0ARzTfuO1przRjFgdDCpDWZTo%2FQtSLsxmajW6gQvo%3D&reserved=0)Hmmmm...  Very
+        network (ATN) for Jacksonville, FL and Tallahassee, FL.…."   [Read  more](https://www.cartsmobility.com/blog/autonomous-transit-networks-in-florida-jacksonville-moves-and-tallahassee-moves)Hmmmm...  Very
             interesting!  Alain
 
-  [Cruise's
-              driverless robotaxis are accepting passengers in Phoenix
-              and Austin](https://www.theverge.com/2022/12/20/23518833/cruise-driverless-taxi-austin-phoenix-waitlist)
+  [Cruise's driverless robotaxis are accepting passengers in Phoenix and Austin](https://www.theverge.com/2022/12/20/23518833/cruise-driverless-taxi-austin-phoenix-waitlist)
 
 A. Hawkins, Dec. 20, "Cruise is
         delivering on its promise to expand its robotaxi service to two
@@ -198,8 +191,7 @@ A. Hawkins, Dec. 20, "Cruise is
         are entering the golden years of AV expansion," he added.…"  [Read more](https://www.theverge.com/2022/12/20/23518833/cruise-driverless-taxi-austin-phoenix-waitlist)  Hmmmm... Excellent.  Congratulations Kyle.
             Alain
 
-  [Elon Musk's giant payday on trial:
-              everything he said in court](https://www.theverge.com/2022/12/22/23465042/elon-musk-tesla-ceo-compensation-trial-full-transcript)
+  [Elon Musk's giant payday on trial: everything he said in court](https://www.theverge.com/2022/12/22/23465042/elon-musk-tesla-ceo-compensation-trial-full-transcript)
 
 T. Sottek, Dec. 22, "These days
         Elon Musk is always on trial in the court of public opinion, but
@@ -211,13 +203,11 @@ T. Sottek, Dec. 22, "These days
         of Twitter, so it was kind of like a peek into an alternate
         simulation. Even Musk seemed to think so:. …"  [Read more](https://www.theverge.com/2022/12/22/23465042/elon-musk-tesla-ceo-compensation-trial-full-transcript)  Hmmmm... . Whew!  Interesting.   Alain
 
-[Trimble to acquire transportation management
-              platform Transporeon for $1.9B](https://www.freightwaves.com/news/trimble-to-acquire-transportation-management-platform-transporeon-for-19b?j=228735&sfmc_sub=44180492&l=256_HTML&u=4744394&mid=514011755&jb=21007&utm_source=sfmc&utm_medium=email&utm_campaign=FW_Daily_12_14_22&utm_term=Trimble+to+acquire+transportation+management+platform+Transporeon+for+%241.9B&utm_id=228735&sfmc_id=44180492)
+[Trimble to acquire transportation management platform Transporeon for $1.9B](https://www.freightwaves.com/news/trimble-to-acquire-transportation-management-platform-transporeon-for-19b?j=228735&sfmc_sub=44180492&l=256_HTML&u=4744394&mid=514011755&jb=21007&utm_source=sfmc&utm_medium=email&utm_campaign=FW_Daily_12_14_22&utm_term=Trimble+to+acquire+transportation+management+platform+Transporeon+for+%241.9B&utm_id=228735&sfmc_id=44180492)
 
 J.
           DiNapoli, Dec. 16,"Technology solutions
-          provider Trimble Inc. [has
-            announced](https://investor.trimble.com/news-releases/news-release-details/trimble-acquire-transporeon-strengthen-and-accelerate-connect) it will acquire German logistics company [Transporeon](https://www.transporeon.com/en),
+          provider Trimble Inc. [has announced](https://investor.trimble.com/news-releases/news-release-details/trimble-acquire-transporeon-strengthen-and-accelerate-connect) it will acquire German logistics company [Transporeon](https://www.transporeon.com/en),
           which uses a cloud-based TMS to connect carriers, logistics
           service providers and shippers.
 
@@ -243,8 +233,7 @@ J.
           maintenance solutions...."  …"  [Read  more](https://www.freightwaves.com/news/trimble-to-acquire-transportation-management-platform-transporeon-for-19b?j=228735&sfmc_sub=44180492&l=256_HTML&u=4744394&mid=514011755&jb=21007&utm_source=sfmc&utm_medium=email&utm_campaign=FW_Daily_12_14_22&utm_term=Trimble+to+acquire+transportation+management+platform+Transporeon+for+%241.9B&utm_id=228735&sfmc_id=44180492)  Hmmmm... Wow, I should have
             stayed in the business.  :-) Alain
 
-[BC joins growing number of colleges
-            banning electric scooters on campus](https://www.bc.edu/content/bc-web/bcnews/campus-community/announcements/e-scooter-policy-change.html)
+[BC joins growing number of colleges banning electric scooters on campus](https://www.bc.edu/content/bc-web/bcnews/campus-community/announcements/e-scooter-policy-change.html)
 
 Staff, Dec. 25, "
         Boston College will ban electric scooters and other electric
@@ -255,15 +244,12 @@ Staff, Dec. 25, "
         Vice President for Student Affairs Shawna Cooper Whitehead, Vice
         President for Human Resources David Trainor, and Executive
         Director of Public Safety William Evans, the decision was made
-        to help ensure the safety of all members of the BC community.  …."  [Read
-                 more](https://www.bc.edu/content/bc-web/bcnews/campus-community/announcements/e-scooter-policy-change.html) Hmmmm….. Yea!!  Alain
+        to help ensure the safety of all members of the BC community.  …."  [Read more](https://www.bc.edu/content/bc-web/bcnews/campus-community/announcements/e-scooter-policy-change.html) Hmmmm….. Yea!!  Alain
 
- [California passes law banning Tesla
-              from calling software FSD](https://www.teslarati.com/califonia-banning-tesla-fsd/)
+ [California passes law banning Tesla from calling software FSD](https://www.teslarati.com/califonia-banning-tesla-fsd/)
 
 J. Crider, Dec. 23,
-        " California passed a [new
-          law banning Tesla](https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202120220SB1398) from calling its software Full
+        " California passed a [new law banning Tesla](https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202120220SB1398) from calling its software Full
         Self-Driving (FSD). Although Tesla has never claimed that FSD
         was fully autonomous, the electric–maker is developing the
         technology for fully autonomous vehicles.  Until its vehicles
@@ -277,12 +263,10 @@ J. Crider, Dec. 23,
         sponsored by Senate Transportation Committee Chair Lena
         Gonzalez, who claimed that Tesla falsely advertised its tech and
         that doing so was a safety issue …."
-        [Read
-                 more](https://www.teslarati.com/califonia-banning-tesla-fsd/)  Hmmmm….. Yea, I hope that we
+        [Read more](https://www.teslarati.com/califonia-banning-tesla-fsd/)  Hmmmm….. Yea, I hope that we
             can now move on.  Alain
 
- [Tesla China Rumors, Wedbush Cuts
-              Price Target, Discount Impact, PCE](https://www.youtube.com/watch?v=zcIlmUxJLBU)
+ [Tesla China Rumors, Wedbush Cuts Price Target, Discount Impact, PCE](https://www.youtube.com/watch?v=zcIlmUxJLBU)
 
 R. Maurer, Dec. 23,
         " ➤ New rumors and reports on Tesla in China
@@ -298,12 +282,12 @@ R. Maurer, Dec. 23,
         ➤ Twitter CEO report …."  [Read  more](https://www.youtube.com/watch?v=zcIlmUxJLBU)  Hmmmm….. Interesting.   Alain
 
 Previous
-            SmartDrivingCars[](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DSNMyGfIAVEo&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998756847434%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=SCTrg8mk5d1SO%2FXm%2BO186%2BwUh4z5fyy8pHnl1JhFslg%3D&reserved=0)ZoomCast/PodCasts
+            SmartDrivingCarsZoomCast/PodCasts
 
- [https://www.cartsmobility.com/](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.cartsmobility.com%2F&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998756847434%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=CKPz8LdBM21w56mQjFQoSwnI3WKleJ1zScse0d9nFpQ%3D&reserved=0) provided technical
+ [https://www.cartsmobility.com/](https://www.cartsmobility.com/) provided technical
             support
 
-SmartDrivingCars [ZoomCast 295](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DGUooCzu31XA&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998757003675%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=%2BEtpBWf3SA%2BsdQW1LwLzNceJJ4zggFF6m3txOG8irZY%3D&reserved=0) / [PodCast295](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fspotifyanchor-web.app.link%2Fe%2Fw9WdMXj0Hvb&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998757003675%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&s!
+SmartDrivingCars [ZoomCast 295](https://www.youtube.com/watch?v=GUooCzu31XA) / [PodCast295](https://spotifyanchor-web.app.link/e/w9WdMXj0Hvb
  data=2tBTDqNNlD1B71pOrJsa2u%2BxeNgcuzEGrPJLG5PGSLg%3D&reserved=0) w/ Robert Hoevers,
             CE, Squad Mobility
 
@@ -315,7 +299,7 @@ SmartDrivingCars [ZoomCast 295](https://nam12.safelinks.protection.outlook.com/
           and what is happening to sidewalks? And there's more...in this
           deep December discussion.
 
-SmartDrivingCars [ZoomCast 293](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fyoutu.be%2F1-AM2f_vQL8&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998757159914%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=XnxaxYuZr%2FygLBuSkSBJY7XWmkanwdlj86v3VVj864k%3D&reserved=0) / [PodCast293](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fspotifyanchor-web.app.link%2Fe%2FxlcYqloo4ub&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998757159914%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=RbZrx0%2FyHwVFsV!
+SmartDrivingCars [ZoomCast 293](https://youtu.be/1-AM2f_vQL8) / [PodCast293](https://spotifyanchor-web.app.link/e/xlcYqloo4ub
  pCJuZOKl8YPdISkfW6DiCbGPXX3UA%3D&reserved=0)
 
 "F. Fishkin, Nov.. 27,
@@ -325,7 +309,7 @@ SmartDrivingCars [ZoomCast 293](https://nam12.safelinks.protection.outlook.com/
           attentiveness. Episode 293 of Smart Driving cars with
           Princeton's Alain Kornhauser & co-host Fred Fishkin.
 
-SmartDrivingCars [ZoomCast 292](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DicmJtLze0uY&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998757316154%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=9AHwpDg8rw51B%2BhmEPBvFr63MEJM7gY6TqYatCGP524%3D&reserved=0) / [PodCast292](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fspotifyanchor-web.app.link%2Fe%2FxlcYqloo4ub&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998757316154%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sda!
+SmartDrivingCars [ZoomCast 292](https://www.youtube.com/watch?v=icmJtLze0uY) / [PodCast292](https://spotifyanchor-web.app.link/e/xlcYqloo4ub
  ta=MiF1NKAC8aQx9eQBc4B3jgfcuUBZGgbgspnb5hZtMqw%3D&reserved=0)  w/Chuck Cook, FSD Betta
             Tester
 
@@ -336,7 +320,7 @@ SmartDrivingCars [ZoomCast 292](https://nam12.safelinks.protection.outlook.com/
           Kornhauser and Fred Fishkin on episode 292 of Smart Driving
           Cars for a look at where FSD is today.
 
-SmartDrivingCars [ZoomCast 290](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fyoutu.be%2FB0PTV4PUPlI&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998757472395%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=j2c7RB7U7QSboaRJLgzcSMjohAUnQf7Cd6Fy56Fxcv4%3D&reserved=0) /[PodCast 290](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fsoundcloud.com%2Fsmartdrivingcar%2Fsmart-driving-cars-argo-ai-demise-not-a-setback-for-future-of-avs-episode-289%3Fsi%3Dededad2f7b2c4282a254f50ebf380850%26utm_source%3Dclipboard%26utm_medium%3Dtext%26utm_campaign%3Dsocial_sharing&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff6011674314!
+SmartDrivingCars [ZoomCast 290](https://youtu.be/B0PTV4PUPlI) /[PodCast 290](https://soundcloud.com/smartdrivingcar/smart-driving-cars-argo-ai-demise-not-a-setback-for-future-of-avs-episode-289?si=ededad2f7b2c4282a254f50ebf380850&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing
  25db5af077d7791bda4%7C0%7C0%7C638069998757472395%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=JnqTLSAp9UhDK%2FRD6z9WeeWpMjmV0q7GsUpwtq%2B1s2M%3D&reserved=0)  A
             New Deployment Framework for Autonomous Vehicles
 
@@ -348,7 +332,7 @@ SmartDrivingCars [ZoomCast 290](https://nam12.safelinks.protection.outlook.com/
           Aurora, Tesla and more.
 
 SmartDrivingCars ZoomCast
-              289 /[PodCast 28](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fsoundcloud.com%2Fsmartdrivingcar%2Fsmart-driving-cars-argo-ai-demise-not-a-setback-for-future-of-avs-episode-289%3Fsi%3Dededad2f7b2c4282a254f50ebf380850%26utm_source%3Dclipboard%26utm_medium%3Dtext%26utm_campaign%3Dsocial_sharing&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998757941114%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=FPhQyxju5aLvMEFUC2XXW1sPuBoaedGFX3AgJboat9s%3D&reserved=0)[9](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fsoundcloud.com%2Fsmartdrivingcar%2Fsmart-driving-cars-argo-ai-demise-not-a-setback-for-future-of-avs-episode-289%3Fsi%3Dededad2f7b2c4282a254f50ebf380850%26utm_source%3Dclipboard%26utm_medium%3Dtext%26utm_campaign%3Dsocial_sharing&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998757941114%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=FPhQyxju5aLvMEFUC2XXW1sPuBoaedGFX3AgJboat9s%3D&reserved=0)[](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fsoundcloud.com%2Fsmartdrivingcar%2Fsmart-driving-cars-argo-ai-demise-not-a-setback-for-future-of-avs-episode-289%3Fsi%3Dededad2f7b2c4282a254f50ebf380850%26utm_source%3Dclipboard%26utm_medium%3Dtext%26utm_campaign%3Dsocial_sharing&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998757941114%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=FPhQyxju5aLvMEFUC2XXW1sPuBoaedGFX3AgJboat9s%3D&reserved=0)Argo Shuts Down w/Michael
+              289 /[PodCast 28](https://soundcloud.com/smartdrivingcar/smart-driving-cars-argo-ai-demise-not-a-setback-for-future-of-avs-episode-289?si=ededad2f7b2c4282a254f50ebf380850&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)[9](https://soundcloud.com/smartdrivingcar/smart-driving-cars-argo-ai-demise-not-a-setback-for-future-of-avs-episode-289?si=ededad2f7b2c4282a254f50ebf380850&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)Argo Shuts Down w/Michael
               Sena, Editor, The Dispatcher
 
 F. Fishkin, Oct. 27,
@@ -359,8 +343,8 @@ F. Fishkin, Oct. 27,
           Dispatcher publisher Michael Sena for that plus #Tesla, Elon
           Musk and more."
 
-SmartDrivingCars [ZoomCast 28](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fyoutu.be%2FieJTLTyAMvI&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998757941114%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=aOBFZndzwGXIKwzE5t0SCWYVEgqcCW1GT8KnZMVd8JQ%3D&reserved=0)[8](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fyoutu.be%2FieJTLTyAMvI&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998757941114%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=aO!
- BFZndzwGXIKwzE5t0SCWYVEgqcCW1GT8KnZMVd8JQ%3D&reserved=0) /[PodCast 28](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fspotifyanchor-web.app.link%2Fe%2FQQIWdMahnub&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998757941114%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=tkttdomZZQNqaNHvYEnLcqJ3lDkfsGhit37uHIZtlI0%3D&reserved=0)[8](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fspotifyanchor-web.app.link%2Fe%2FQQIWdMahnub&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998757941114%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=tkttdomZZQNqaNHvYEnLcqJ3lDk!
+SmartDrivingCars [ZoomCast 28](https://youtu.be/ieJTLTyAMvI)[8](https://youtu.be/ieJTLTyAMvI
+ BFZndzwGXIKwzE5t0SCWYVEgqcCW1GT8KnZMVd8JQ%3D&reserved=0) /[PodCast 28](https://spotifyanchor-web.app.link/e/QQIWdMahnub)[8](https://spotifyanchor-web.app.link/e/QQIWdMahnub
  fsGhit37uHIZtlI0%3D&reserved=0) So Disappointing!
 
 F. Fishkin, Oct. 23,
@@ -371,8 +355,7 @@ F. Fishkin, Oct. 23,
           test drive in the Ford F-150 Lightning on episode 288 of Smart
           Driving Cars. "
 
-SmartDrivingCars [ZoomCast
-                  28](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fyoutu.be%2FZGK2zIXInyE&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998757941114%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=HIV8TGa%2BtbfH28OyU0wLnzuXZWvpbawMOg51FjLQmAA%3D&reserved=0)[7](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fyoutu.be%2FZGK2zIXInyE&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998757941114%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=HIV8TGa%2BtbfH28OyU0wLnzuXZWvpbawMOg51FjLQmAA%3D&reserved=0) /[PodCast 28](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fspotifyanchor-web.app.link%2Fe%2F8Nni4C8D6tb&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998757941114%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=EPwKhepRB%2B01dKos7F1eTzZG0ZW3eWd9GlSY8DJSERE%3D&reserved=0)[7](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fspotifyanchor-web.app.link%2Fe%2F8Nni4C8D6tb&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998757941114%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=EPwKhepRB%2B01dKos7F1eTzZG0ZW3eWd9GlSY8DJSERE%3D&reserved=0) Special Edition: The ABCs of Autonomous
+SmartDrivingCars [ZoomCast 28](https://youtu.be/ZGK2zIXInyE)[7](https://youtu.be/ZGK2zIXInyE) /[PodCast 28](https://spotifyanchor-web.app.link/e/8Nni4C8D6tb)[7](https://spotifyanchor-web.app.link/e/8Nni4C8D6tb) Special Edition: The ABCs of Autonomous
             Vehicles: Technology, Economics and Policy
 
 F. Fishkin, Oct. 12,  "A
@@ -383,7 +366,7 @@ F. Fishkin, Oct. 12,  "A
           Princeton's Alain Kornhauser, Cliff Winston of Brookings and
           Marc Scribner of Reason and moderator Fred Fishkin.
 
-"SmartDrivingCars [ZoomCast 28](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fyoutu.be%2FkAziRle-fnk&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998758097341%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=gfA%2B4ESIpcvgiG2w14tBReBRhQtzRSDt%2BmUZaaC%2FozU%3D&reserved=0)[6](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fyoutu.be%2FkAziRle-fnk&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998758097341%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=gfA%2B4ESIpcvgiG2w14tBReBRhQtzRSDt%2BmUZaaC%2FozU%3D&reserved=0) /[PodCast 28](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fspotifyanchor-web.app.link%2Fe%2FjnqWJO9rZtb&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998758097341%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=vlnNb%2Ff9g4LY0v1YHapmPMJncJ2cXsNEGbQjK8nrf8k%3D&reserved=0)[6](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fspotifyanchor-web.app.link%2Fe%2FjnqWJO9rZtb&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998758097341%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=vlnNb%2Ff9g4LY0v1YHapmPMJncJ2cXsNEGbQjK8nrf8k%3D&reserved=0) Tesla AI Day
+"SmartDrivingCars [ZoomCast 28](https://youtu.be/kAziRle-fnk)[6](https://youtu.be/kAziRle-fnk) /[PodCast 28](https://spotifyanchor-web.app.link/e/jnqWJO9rZtb)[6](https://spotifyanchor-web.app.link/e/jnqWJO9rZtb) Tesla AI Day
 
 F. Fishkin, Oct. 9, "The
           biggest take-away from Tesla's 2022 AI Day?  Princeton's Alain
@@ -391,9 +374,9 @@ F. Fishkin, Oct. 9, "The
           Alain and co-host Fred Fishkin for episode 286 of Smart
           Driving Cars.  Plus Kodiak Robotics, Mobileye, Uber, Motional
           and an upcoming webinar on The Present and Future of
-          Autonomous Vehicle Techn​ology. ["](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fspotifyanchor-web.app.link%2Fe%2FDlkPfMr6Ftb&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998758097341%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=HC2aWzv1BVccjDY1pAFZMPLbQnURaC2iD13sg7l9%2Fcs%3D&reserved=0)
+          Autonomous Vehicle Techn​ology. ["](https://spotifyanchor-web.app.link/e/DlkPfMr6Ftb)
 
-SmartDrivingCars [ZoomCast 28](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fyoutu.be%2FtVY5LgBFkyg&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998758097341%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=zAYj8E7ue9LydCI8Nke7Tu7FoNXTG%2FIrD0mZS8v19HI%3D&reserved=0)[5](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fyoutu.be%2FtVY5LgBFkyg&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998758097341%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=zAYj8E7ue9LydCI8Nke7Tu7FoNXTG%2FIrD0mZS8v19HI%3D&reserved=0) /[PodCast 28](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fspotifyanchor-web.app.link%2Fe%2FDlkPfMr6Ftb&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998758097341%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=HC2aWzv1BVccjDY1pAFZMPLbQnURaC2iD13sg7l9%2Fcs%3D&reserved=0)[5](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fspotifyanchor-web.app.link%2Fe%2FDlkPfMr6Ftb&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998758097341%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=HC2aWzv1BVccjDY1pAFZMPLbQnURaC2iD13sg7l9%2Fcs%3D&reserved=0) w/Michael
+SmartDrivingCars [ZoomCast 28](https://youtu.be/tVY5LgBFkyg)[5](https://youtu.be/tVY5LgBFkyg) /[PodCast 28](https://spotifyanchor-web.app.link/e/DlkPfMr6Ftb)[5](https://spotifyanchor-web.app.link/e/DlkPfMr6Ftb) w/Michael
               Sena, Editor of the Dispatcher
 
 F. Fishkin, Sept 27,
@@ -404,9 +387,9 @@ F. Fishkin, Sept 27,
           Alain Kornhauser and co-host Fred Fishkin. And more on the EV
           tax credits, tire pollution, a tech solution to railroad
           crossing dangers and some hood ornament nostalgia. Or
-          listen.. ["](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fspotifyanchor-web.app.link%2Fe%2FDlkPfMr6Ftb&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998758097341%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=HC2aWzv1BVccjDY1pAFZMPLbQnURaC2iD13sg7l9%2Fcs%3D&reserved=0)
+          listen.. ["](https://spotifyanchor-web.app.link/e/DlkPfMr6Ftb)
 
-SmartDrivingCars [ZoomCast 28](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DLk5jyRJIIBg&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998758253581%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=EbPpD3gAlraBPPq8gv8aMIwHoW%2Bc8Fm1X1AMKMQqJPo%3D&reserved=0)[4](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DLk5jyRJIIBg&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998758253581%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=EbPpD3gAlraBPPq8gv8aMIwHoW%2Bc8Fm1X1AMKMQqJPo%3D&reserved=0) /[PodCast 284](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fsoundcloud.com%2Fsmartdrivingcar%2Fsmart-driving-cars-nvidia-unveils-drive-thor-episode-284%3Fsi%3D8d2de45560054270b21ade3e77aa71bd%26utm_source%3Dclipboard%26utm_medium%3Dtext%26utm_campaign%3Dsocial_sharing&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998758253581%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=EoxoQoe77f%2Fo7%2B2QFkMwkW2cjASfAb%2BR%2BQIkulwDsyY%3D&reserved=0) w/Danny
+SmartDrivingCars [ZoomCast 28](https://www.youtube.com/watch?v=Lk5jyRJIIBg)[4](https://www.youtube.com/watch?v=Lk5jyRJIIBg) /[PodCast 284](https://soundcloud.com/smartdrivingcar/smart-driving-cars-nvidia-unveils-drive-thor-episode-284?si=8d2de45560054270b21ade3e77aa71bd&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing) w/Danny
               Shapiro, VP Automotive, nVIDIA
 
 F. Fishkin, Sept 22,
@@ -417,7 +400,7 @@ F. Fishkin, Sept 22,
           Cruise aims to develop chips for self driving and the NTSB
           pushes tech to combat impaired and reckless driving."
 
-SmartDrivingCars [ZoomCast 28](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DnBl1pD2BFcI&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998758253581%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=aADx5JYQaoS0TJWgryUBL1lEgDKkgwYJUM9oDl%2FX1rQ%3D&reserved=0)[3](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DnBl1pD2BFcI&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998758253581%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=aADx5JYQaoS0TJWgryUBL1lEgDKkgwYJUM9oDl%2FX1rQ%3D&reserved=0) /[PodCast 283](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fspotifyanchor-web.app.link%2Fe%2Faq1ugmpZetb&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998758253581%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=ihi79qWa%2FIj1npYFwcJ2pg2tI1%2FIjCyu08%2FNhdQdsr0%3D&reserved=0)
+SmartDrivingCars [ZoomCast 28](https://www.youtube.com/watch?v=nBl1pD2BFcI)[3](https://www.youtube.com/watch?v=nBl1pD2BFcI) /[PodCast 283](https://spotifyanchor-web.app.link/e/aq1ugmpZetb)
 
 F. Fishkin, Sept 11, "The
           strategy for survival at Aurora, new Detroit testing for
@@ -426,31 +409,31 @@ F. Fishkin, Sept 11, "The
           and co-host Fred Fishkin share the latest on those stories and
           more on episode 283 of Smart Driving Cars."
 
-[https://youtu.be/nBl1pD2BFcI](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DnBl1pD2BFcI%26t%3D0s&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998758253581%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=b9cPQ9wFGM1AgWpDqOEzLXwBhlqk971J8OVByb3nMEs%3D&reserved=0) Open
+[https://youtu.be/nBl1pD2BFcI](https://www.youtube.com/watch?v=nBl1pD2BFcI&t=0s) Open
 
-[https://youtu.be/nBl1pD2BFcI?t=80](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fyoutu.be%2FnBl1pD2BFcI%3Ft%3D80&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998758253581%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=nzBqYroUCv45jOeJ6ENxJDo3DskJlzyiq7D7GLb6clo%3D&reserved=0) Aurora
+[https://youtu.be/nBl1pD2BFcI?t=80](https://youtu.be/nBl1pD2BFcI?t=80) Aurora
 
-[https://youtu.be/nBl1pD2BFcI?t=762](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fyoutu.be%2FnBl1pD2BFcI%3Ft%3D762&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998758253581%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=gPQjGtiQ%2FbVxU5LamtSW5qjBgbnCe3TYvJSw7a7nF68%3D&reserved=0) Mobileye
+[https://youtu.be/nBl1pD2BFcI?t=762](https://youtu.be/nBl1pD2BFcI?t=762) Mobileye
 
-[https://youtu.be/nBl1pD2BFcI?t=872](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fyoutu.be%2FnBl1pD2BFcI%3Ft%3D872&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998758253581%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=C%2BvKP2ikpevVvZ8qXEwAIDzQxUlADoA%2F5T3Or8nO%2FkQ%3D&reserved=0) NVIDIA
+[https://youtu.be/nBl1pD2BFcI?t=872](https://youtu.be/nBl1pD2BFcI?t=872) NVIDIA
 
-[https://youtu.be/nBl1pD2BFcI?t=948](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fyoutu.be%2FnBl1pD2BFcI%3Ft%3D948&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998758253581%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=RmX7kDih0gMgMg9Wv36Ff2S7Ok7yMX1XtfSsUF%2BEAwc%3D&reserved=0) MIT
+[https://youtu.be/nBl1pD2BFcI?t=948](https://youtu.be/nBl1pD2BFcI?t=948) MIT
             Mobility Forum
 
-[https://youtu.be/nBl1pD2BFcI?t=1031](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fyoutu.be%2FnBl1pD2BFcI%3Ft%3D1031&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998758253581%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=qugPAUy0GEWr9ZGd5VZ5Gtz26Qdm4qubRm1i4V%2F3Thw%3D&reserved=0) GM
+[https://youtu.be/nBl1pD2BFcI?t=1031](https://youtu.be/nBl1pD2BFcI?t=1031) GM
             BrightDrop
 
-[https://youtu.be/nBl1pD2BFcI?t=1072](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fyoutu.be%2FnBl1pD2BFcI%3Ft%3D1072&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998758409820%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=WPsRuzixaD18xmnSZtSJFyx%2FKonOyTSqjJyEy7arP5I%3D&reserved=0) GM Cruise
+[https://youtu.be/nBl1pD2BFcI?t=1072](https://youtu.be/nBl1pD2BFcI?t=1072) GM Cruise
 
-[https://youtu.be/nBl1pD2BFcI?t=1446](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fyoutu.be%2FnBl1pD2BFcI%3Ft%3D1446&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998758409820%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=Lgs2wvpnbxvxOtHkqhT%2B3EldPGvcwRpFd9ln%2FjzLdr8%3D&reserved=0) Uber Nuro
+[https://youtu.be/nBl1pD2BFcI?t=1446](https://youtu.be/nBl1pD2BFcI?t=1446) Uber Nuro
 
-[https://youtu.be/nBl1pD2BFcI?t=1589](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fyoutu.be%2FnBl1pD2BFcI%3Ft%3D1589&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998758409820%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=kxn8yJphdsNIAVbF%2Bt8U%2FjyN8bGksWy%2B8C8JQ8ZZ%2FTQ%3D&reserved=0) Lucid
+[https://youtu.be/nBl1pD2BFcI?t=1589](https://youtu.be/nBl1pD2BFcI?t=1589) Lucid
             Nikola
 
-[https://youtu.be/nBl1pD2BFcI?t=1648](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fyoutu.be%2FnBl1pD2BFcI%3Ft%3D1648&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998758409820%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=jV90%2BVehNL9xTC44gGlFophHcGdXvR%2BJvIMfu8FWk54%3D&reserved=0) Tesla AI
+[https://youtu.be/nBl1pD2BFcI?t=1648](https://youtu.be/nBl1pD2BFcI?t=1648) Tesla AI
             Day
 
-SmartDrivingCars [ZoomCast 28](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fyoutu.be%2FF1qDhRqAA5c&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998758409820%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=lDUoYrEYgVT0YWh8%2BAsDSkvmI63wqU4rv5f9A2%2BynM0%3D&reserved=0)[2](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fyoutu.be%2FF1qDhRqAA5c&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998758409820%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=lDUoYrEYgVT0YWh8%2BAsDSkvmI63wqU4rv5f9A2%2BynM0%3D&reserved=0) /[PodCast 28](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fanchor.fm%2Fsmartdrivingcars%2Fepisodes%2F&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998758409820%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=4obGhu3IGXcY%2FHvPdqaAqdVM%2FYzVyvBIehwcAnc80VU%3D&reserved=0)[2](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fanchor.fm%2Fsmartdrivingcars%2Fepisodes%2F&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998758409820%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=4obGhu3IGXcY%2FHvPdqaAqdVM%2FYzVyvBIehwcAnc80VU%3D&reserved=0)w/ Michael Sena,
+SmartDrivingCars [ZoomCast 28](https://youtu.be/F1qDhRqAA5c)[2](https://youtu.be/F1qDhRqAA5c) /[PodCast 28](https://anchor.fm/smartdrivingcars/episodes/)[2](https://anchor.fm/smartdrivingcars/episodes/)w/ Michael Sena,
               Editor of The Dispatcher
 
 F. Fishkin, Aug. 31, "Is
@@ -460,35 +443,35 @@ F. Fishkin, Aug. 31, "Is
           Alain Kornhauser and co-host Fred Fishkin.   Plus... the Saudi
           linear city plan, GM, #Tesla, Baidu, Waymo and more."
 
-[https://youtu.be/F1qDhRqAA5c?t=106](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fyoutu.be%2FF1qDhRqAA5c%3Ft%3D106&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998758409820%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=XeqfLAEsbWYWCy%2FeUtNy3bA3PGfz1d7TSk2uJOK9ON4%3D&reserved=0)
+[https://youtu.be/F1qDhRqAA5c?t=106](https://youtu.be/F1qDhRqAA5c?t=106)
             Michael Sena ..battle over roads
 
-[https://youtu.be/F1qDhRqAA5c?t=2004](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fyoutu.be%2FF1qDhRqAA5c%3Ft%3D2004&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998758409820%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=eGlsVNnLDYN2pOiBDwyJFZ9I9RNAsXPBFHE9s4U%2F46I%3D&reserved=0)
+[https://youtu.be/F1qDhRqAA5c?t=2004](https://youtu.be/F1qDhRqAA5c?t=2004)
           Michael Sena  Saudi linear city plans
 
-[https://youtu.be/F1qDhRqAA5c?t=2456](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fyoutu.be%2FF1qDhRqAA5c%3Ft%3D2456&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998758409820%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=4jodrmyUrpPPIWMvOK7pMJFkiRMlugoAn28EdKqKgYs%3D&reserved=0)
+[https://youtu.be/F1qDhRqAA5c?t=2456](https://youtu.be/F1qDhRqAA5c?t=2456)
           Aluminum makes cars…China makes aluminum
 
-[https://youtu.be/F1qDhRqAA5c?t=2759](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fyoutu.be%2FF1qDhRqAA5c%3Ft%3D2759&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998758409820%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=lYOKWB6DLYVHfxDC4KULHaRCRlLdjLOpyd6Qg5jS5q4%3D&reserved=0)
+[https://youtu.be/F1qDhRqAA5c?t=2759](https://youtu.be/F1qDhRqAA5c?t=2759)
           Teslas banned from Chinese Communist Party retreat
 
-[https://youtu.be/F1qDhRqAA5c?t=2951](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fyoutu.be%2FF1qDhRqAA5c%3Ft%3D2951&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998758409820%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=XWt79mhn60D44SVR6o2t6ayukoAhr0OfO5pOGVcKddg%3D&reserved=0)
+[https://youtu.be/F1qDhRqAA5c?t=2951](https://youtu.be/F1qDhRqAA5c?t=2951)
           GM's mandator OnStar option
 
-[https://youtu.be/F1qDhRqAA5c?t=3333](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fyoutu.be%2FF1qDhRqAA5c%3Ft%3D3333&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998758409820%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=P5tkSXhyMT7whrLW75D5jcvvbEI6amzUz0uf9Oz4DoE%3D&reserved=0)
+[https://youtu.be/F1qDhRqAA5c?t=3333](https://youtu.be/F1qDhRqAA5c?t=3333)
           Gatik partners with Pitney Bowes
 
-[https://youtu.be/F1qDhRqAA5c?t=3416](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fyoutu.be%2FF1qDhRqAA5c%3Ft%3D3416&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998758409820%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=KQFuUmEVjeH6XAD2yE3lbQj2CBPvE9%2FgH9bggvxjRFk%3D&reserved=0)
+[https://youtu.be/F1qDhRqAA5c?t=3416](https://youtu.be/F1qDhRqAA5c?t=3416)
           Waymo reported seeks to withhold trip level data in SF
 
-[https://youtu.be/F1qDhRqAA5c?t=3538](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fyoutu.be%2FF1qDhRqAA5c%3Ft%3D3538&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998758409820%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=aSgFRCO2z68kLLl3qugRlUNDc8OyqLlNJiXICVgVMag%3D&reserved=0)
+[https://youtu.be/F1qDhRqAA5c?t=3538](https://youtu.be/F1qDhRqAA5c?t=3538)
           GM president on autonomous vehicle strategy
 
-[https://youtu.be/F1qDhRqAA5c?t=3619](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fyoutu.be%2FF1qDhRqAA5c%3Ft%3D3619&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998758566061%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=NMMxpXwMxnNGuc11eo9OuSDqHMm6s5m1%2F2rcAdo2%2FeY%3D&reserved=0)
+[https://youtu.be/F1qDhRqAA5c?t=3619](https://youtu.be/F1qDhRqAA5c?t=3619)
           Baidu says automous EV rides in China have surpassed one
           million
 
-SmartDrivingCars [ZoomCast281](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DnSNERVa3BWo&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998758566061%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=XJThO%2Be2neH5%2Fg5Lx%2FZjmDEtQNJyPyqPpG6CGxHExi0%3D&reserved=0) /[PodCast 281](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fspotifyanchor-web.app.link%2Fe%2FFa9Ui4MPRsb&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998758566061%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=C1u652Cy4s5Mj4k%2F0S4VYJ%2FFQvzeisObPBY5JwcafLM%3D&reserved=0)
+SmartDrivingCars [ZoomCast281](https://www.youtube.com/watch?v=nSNERVa3BWo) /[PodCast 281](https://spotifyanchor-web.app.link/e/Fa9Ui4MPRsb)
 
 F. Fishkin, Aug. 28, "A
           new step for Tesla FSD with Beta 10 69 release and the
@@ -498,7 +481,7 @@ F. Fishkin, Aug. 28, "A
           mobility,  Pittsburgh's Guaranteed Basic Mobility Program and
           some excitement surround SpaceX and NASA and more."
 
-SmartDrivingCars [ZoomCast 280](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fyoutu.be%2FVYDu99pKNCc&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998758566061%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=127P8eGXk2T3Okf4jFuUxo3jYjxpqOpelUTM2Z1G0dE%3D&reserved=0) /[PodCast 280](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fspotifyanchor-web.app.link%2Fe%2F2nwElFP8Hsb&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998758722299%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=9%2BGKVOgOZAjdfOkyuJU57VJfPXHYYhD4txvkSzhteww%3D&reserved=0) w/[Cade Metz, NY Times](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.nytimes.com%2Fby%2Fcade-metz&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998758722299%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=GGB8N%2FLJ4anVPYc6yuT0dkEPg1%2FTAINyZ1IJJDRzXLc%3D&reserved=0)
+SmartDrivingCars [ZoomCast 280](https://youtu.be/VYDu99pKNCc) /[PodCast 280](https://spotifyanchor-web.app.link/e/2nwElFP8Hsb) w/[Cade Metz, NY Times](https://www.nytimes.com/by/cade-metz)
 
 F. Fishkin, Aug . 22,
           "How can Tesla data help with the understanding of car
@@ -509,7 +492,7 @@ F. Fishkin, Aug . 22,
           Princeton and NBA great Brian Taylor joins us to remember
           legendary basketball coach Pete Carril."
 
-SmartDrivingCars [ZoomCast 279](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fyoutu.be%2FQIKxxJoD2Ps%3Ft%3D2967&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998758722299%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=KbxFrQj6yDwc8McZXURYdRUQMiI4pl3V6uyn51y0LVE%3D&reserved=0) / [PodCast 2](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fspotifyanchor-web.app.link%2Fe%2FUMfsxnc6psb&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998758722299%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=PxUosDK5PnkgrsM9XOXD4g9jEGXAZETGingmk871ddQ%3D&reserved=0)[7](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fspotifyanchor-web.app.link%2Fe%2FUMfsxnc6psb&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998758722299%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=PxUosDK5PnkgrsM9XOXD4g9jEGXAZETGingmk871ddQ%3D&reserved=0)[9](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fspotifyanchor-web.app.link%2Fe%2FUMfsxnc6psb&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998758722299%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=PxUosDK5PnkgrsM9XOXD4g9jEGXAZETGingmk871ddQ%3D&reserved=0) w/[Scott Painter, CEO Autonomy](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fspainter&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998758722299%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=IW0NQxsZjxkmRyMJIhcuIDbfpexhZmNE8bbiEZ7eH4k%3D&reserved=0)
+SmartDrivingCars [ZoomCast 279](https://youtu.be/QIKxxJoD2Ps?t=2967) / [PodCast 2](https://spotifyanchor-web.app.link/e/UMfsxnc6psb)[7](https://spotifyanchor-web.app.link/e/UMfsxnc6psb)[9](https://spotifyanchor-web.app.link/e/UMfsxnc6psb) w/[Scott Painter, CEO Autonomy](https://www.linkedin.com/in/spainter)
 
 F. Fishkin, Aug . 11,
           "After announcing it will spend 1.2 billion dollars on EVs and
@@ -520,20 +503,19 @@ F. Fishkin, Aug . 11,
 
 Timeining Index:
 
-[@](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fyoutu.be%2FQIKxxJoD2Ps%3Ft%3D47&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998758722299%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=ETeF%2BHJrWK5khmDmUgl3k8ZHUGhyj2sqpIigPFJYvV8%3D&reserved=0)[t=47](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fyoutu.be%2FQIKxxJoD2Ps%3Ft%3D47&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998758722299%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=ETeF%2BHJrWK5khmDmUgl3k8ZHUGhyj2sqpIigPFJYvV8%3D&reserved=0) [Autonomy CEO Scott Painter](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fyoutu.be%2FQIKxxJoD2Ps%3Ft%3D47&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998758722299%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=ETeF%2BHJrWK5khmDmUgl3k8ZHUGhyj2sqpIigPFJYvV8%3D&reserved=0)
+[@](https://youtu.be/QIKxxJoD2Ps?t=47)[t=47](https://youtu.be/QIKxxJoD2Ps?t=47) [Autonomy CEO Scott Painter](https://youtu.be/QIKxxJoD2Ps?t=47)
 
-[@t=2485](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fyoutu.be%2FQIKxxJoD2Ps%3Ft%3D2485&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998758722299%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=YFuC%2BUFCivQQ7K5eED68ei6GB16Tj2aeE3QDEx%2FWvQQ%3D&reserved=0) [Tesla, Ralph Nader](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fyoutu.be%2FQIKxxJoD2Ps%3Ft%3D2485&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998758722299%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=YFuC%2BUFCivQQ7K5eED68ei6GB16Tj2aeE3QDEx%2FWvQQ%3D&reserved=0)
+[@t=2485](https://youtu.be/QIKxxJoD2Ps?t=2485) [Tesla, Ralph Nader](https://youtu.be/QIKxxJoD2Ps?t=2485)
 
-[@](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fyoutu.be%2FQIKxxJoD2Ps%3Ft%3D2635&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998758722299%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=GaJJJR8y4otcGW2BWOJ9xGUqpp1jb90elCXqGswePb8%3D&reserved=0)[t=2635](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fyoutu.be%2FQIKxxJoD2Ps%3Ft%3D2635&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998758722299%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=GaJJJR8y4otcGW2BWOJ9xGUqpp1jb90elCXqGswePb8%3D&reserved=0)  [Anti-Tesla ad campaign](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fyoutu.be%2FQIKxxJoD2Ps%3Ft%3D2635&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998758722299%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=GaJJJR8y4otcGW2BWOJ9xGUqpp1jb90elCXqGswePb8%3D&reserved=0)
+[@](https://youtu.be/QIKxxJoD2Ps?t=2635)[t=2635](https://youtu.be/QIKxxJoD2Ps?t=2635)  [Anti-Tesla ad campaign](https://youtu.be/QIKxxJoD2Ps?t=2635)
 
-[@](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fyoutu.be%2FQIKxxJoD2Ps%3Ft%3D2657&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998758722299%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=HDNVEYCX%2BO7rcPqUiqRt6ulSfTnfx0TYRjW6Fdx8P9s%3D&reserved=0)[t=2657](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fyoutu.be%2FQIKxxJoD2Ps%3Ft%3D2657&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998758878540%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=6vbjFYiALX42B%2FT1jt%2FocaWmd1agJ2Fnj26oUF07zhc%3D&reserved=0) [Pittsburgh Post Gazette](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fyoutu.be%2FQIKxxJoD2Ps%3Ft%3D2657&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998758878540%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=6vbjFYiALX42B%2FT1jt%2FocaWmd1agJ2Fnj26oUF07zhc%3D&reserved=0)
+[@](https://youtu.be/QIKxxJoD2Ps?t=2657)[t=2657](https://youtu.be/QIKxxJoD2Ps?t=2657) [Pittsburgh Post Gazette](https://youtu.be/QIKxxJoD2Ps?t=2657)
 
-[@](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fyoutu.be%2FQIKxxJoD2Ps%3Ft%3D2892&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998758878540%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=QaF9GavdUmY0R0LHws129x3u0afxEkyHv07LtgrUnE0%3D&reserved=0)[t=2892](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fyoutu.be%2FQIKxxJoD2Ps%3Ft%3D2892&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998758878540%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=QaF9GavdUmY0R0LHws129x3u0afxEkyHv07LtgrUnE0%3D&reserved=0) [Argo AI](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fyoutu.be%2FQIKxxJoD2Ps%3Ft%3D2892&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998758878540%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=QaF9GavdUmY0R0LHws129x3u0afxEkyHv07LtgrUnE0%3D&reserved=0)
+[@](https://youtu.be/QIKxxJoD2Ps?t=2892)[t=2892](https://youtu.be/QIKxxJoD2Ps?t=2892) [Argo AI](https://youtu.be/QIKxxJoD2Ps?t=2892)
 
-[@](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fyoutu.be%2FQIKxxJoD2Ps%3Ft%3D2967&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998758878540%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=auTkzVZZTXZLtgiNuPh27f8gb5WKRwuG1%2FFTXFGRqRA%3D&reserved=0)[t=2967](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fyoutu.be%2FQIKxxJoD2Ps%3Ft%3D2967&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998758878540%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=auTkzVZZTXZLtgiNuPh27f8gb5WKRwuG1%2FFTXFGRqRA%3D&reserved=0) [Congressional push for AV
-            legislation](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fyoutu.be%2FQIKxxJoD2Ps%3Ft%3D2967&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998758878540%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=auTkzVZZTXZLtgiNuPh27f8gb5WKRwuG1%2FFTXFGRqRA%3D&reserved=0)
+[@](https://youtu.be/QIKxxJoD2Ps?t=2967)[t=2967](https://youtu.be/QIKxxJoD2Ps?t=2967) [Congressional push for AV legislation](https://youtu.be/QIKxxJoD2Ps?t=2967)
 
-SmartDrivingCars [ZoomCast 278](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fsoundcloud.com%2Fsmartdrivingcar%2Fsmart-driving-cars-elon-musk-tesla-robo-taxis-episode-278%3Futm_source%3Dclipboard%26utm_medium%3Dtext%26utm_campaign%3Dsocial_sharing&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998758878540%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=VH4nIP3jXlo0AiKiTyaDrE7VF%2F%2FmcLy76IduTIWkYCY%3D&reserved=0) / [PodCast 2](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fsoundcloud.com%2Fsmartdrivingcar%2Fsmart-driving-cars-episode-265-designing-the-robotaxi-rider-experience-uniphy-ceo-jim-nicholas&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998758878540%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=RHRU8xfC0gxblOuxtMGF%2Fj0%2BxFxQMkZM50tje6XiGnM%3D&reserved=0)[78](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fsoundcloud.com%2Fsmartdrivingcar%2Fsmart-driving-cars-elon-musk-tesla-robo-taxis-episode-278%3Futm_source%3Dclipboard%26utm_medium%3Dtext%26utm_campaign%3Dsocial_sharing&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998758878540%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=VH4nIP3jXlo0AiKiTyaDrE7VF%2F%2FmcLy76IduTIWkYCY%3D&reserved=0) Tesla 2022
+SmartDrivingCars [ZoomCast 278](https://soundcloud.com/smartdrivingcar/smart-driving-cars-elon-musk-tesla-robo-taxis-episode-278?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing) / [PodCast 2](https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-265-designing-the-robotaxi-rider-experience-uniphy-ceo-jim-nicholas)[78](https://soundcloud.com/smartdrivingcar/smart-driving-cars-elon-musk-tesla-robo-taxis-episode-278?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing) Tesla 2022
               shareholder's meeting
 
 F. Fishkin, Aug . 7,
@@ -546,36 +528,29 @@ F. Fishkin, Aug . 7,
 
 Timeining Index:
 
-[@ t=55](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fyoutu.be%2FRMxjIjog9OI%3Ft%3D55&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998758878540%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=sRp6bRzUt9XTGAIeiCgP%2BVgK6O%2BrsNowlt3Grk9cj5Q%3D&reserved=0)   [Musk vision for autonomous taxis](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fyoutu.be%2FRMxjIjog9OI%3Ft%3D55&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998758878540%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=sRp6bRzUt9XTGAIeiCgP%2BVgK6O%2BrsNowlt3Grk9cj5Q%3D&reserved=0)
+[@ t=55](https://youtu.be/RMxjIjog9OI?t=55)   [Musk vision for autonomous taxis](https://youtu.be/RMxjIjog9OI?t=55)
 
-[@ t=728](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fyoutu.be%2FRMxjIjog9OI%3Ft%3D728&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998758878540%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=pl%2BVxMANPa6Zi5hKTUSSwj2I7csnfAi5jSZZFOvpXgw%3D&reserved=0)  [When and where first robo-taxis
-              will be deployed.](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fyoutu.be%2FRMxjIjog9OI%3Ft%3D728&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998758878540%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=pl%2BVxMANPa6Zi5hKTUSSwj2I7csnfAi5jSZZFOvpXgw%3D&reserved=0)
+[@ t=728](https://youtu.be/RMxjIjog9OI?t=728)  [When and where first robo-taxis will be deployed.](https://youtu.be/RMxjIjog9OI?t=728)
 
-[@ t=1177](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fyoutu.be%2FRMxjIjog9OI%3Ft%3D1177&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998759034786%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=fTjQXz7ndsbKVBGeIx0G6OhGK9lb4ZcbI8NWla8P85Y%3D&reserved=0)  [What about the role of Musk's
-              Boring Company?](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fyoutu.be%2FRMxjIjog9OI%3Ft%3D1177&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998759034786%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=fTjQXz7ndsbKVBGeIx0G6OhGK9lb4ZcbI8NWla8P85Y%3D&reserved=0)
+[@ t=1177](https://youtu.be/RMxjIjog9OI?t=1177)  [What about the role of Musk's Boring Company?](https://youtu.be/RMxjIjog9OI?t=1177)
 
-[@ t=1530](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fyoutu.be%2FRMxjIjog9OI%3Ft%3D1530&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998759034786%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=q0b2c2xb9KU3wjAYRBTUyzn96sOPJzk7JxYueDx3jEk%3D&reserved=0)   [Musk responds to Autopilot
-              suggestion](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fyoutu.be%2FRMxjIjog9OI%3Ft%3D1530&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998759034786%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=q0b2c2xb9KU3wjAYRBTUyzn96sOPJzk7JxYueDx3jEk%3D&reserved=0)
+[@ t=1530](https://youtu.be/RMxjIjog9OI?t=1530)   [Musk responds to Autopilot suggestion](https://youtu.be/RMxjIjog9OI?t=1530)
 
-[@ t=1941](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fyoutu.be%2FRMxjIjog9OI%3Ft%3D1941&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998759034786%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=oIXKSd%2Fx5qqtDa5EU86YcTv2HG5joa46dk%2BPsW566dI%3D&reserved=0)  [Alain on automatic emergency
-              braking](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fyoutu.be%2FRMxjIjog9OI%3Ft%3D1941&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998759034786%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=oIXKSd%2Fx5qqtDa5EU86YcTv2HG5joa46dk%2BPsW566dI%3D&reserved=0)
+[@ t=1941](https://youtu.be/RMxjIjog9OI?t=1941)  [Alain on automatic emergency braking](https://youtu.be/RMxjIjog9OI?t=1941)
 
-[@ t=2230](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fyoutu.be%2FRMxjIjog9OI%3Ft%3D2230&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998759034786%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=bFkudq7B7ZHhl0yfZzrVH1nI5JcFl4YWttYKlTCNRQg%3D&reserved=0)  [California acts against Tesla for
-              using terms Full Self Driving and AutoPilot](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fyoutu.be%2FRMxjIjog9OI%3Ft%3D2230&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998759034786%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=bFkudq7B7ZHhl0yfZzrVH1nI5JcFl4YWttYKlTCNRQg%3D&reserved=0)
+[@ t=2230](https://youtu.be/RMxjIjog9OI?t=2230)  [California acts against Tesla for using terms Full Self Driving and AutoPilot](https://youtu.be/RMxjIjog9OI?t=2230)
 
-[@ t=235](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fyoutu.be%2FRMxjIjog9OI%3Ft%3D2357&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998759034786%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=InEx8rVu0DA78ihJDiF8TVyFH87IvGmOQjLNt04TqvM%3D&reserved=0)7 [TuSimple  blames human error for
-              crash](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fyoutu.be%2FRMxjIjog9OI%3Ft%3D2357&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998759034786%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=InEx8rVu0DA78ihJDiF8TVyFH87IvGmOQjLNt04TqvM%3D&reserved=0)
+[@ t=235](https://youtu.be/RMxjIjog9OI?t=2357)7 [TuSimple  blames human error for crash](https://youtu.be/RMxjIjog9OI?t=2357)
 
-[@ t=2456](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fyoutu.be%2FRMxjIjog9OI%3Ft%3D2456&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998759034786%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=IX5xOlLhR798wrGNPG8dfLtNMevmefI0O4e4IzBI724%3D&reserved=0) [Barron's reports When the Lawyers
-              Come for Autonomous Vehicles](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fyoutu.be%2FRMxjIjog9OI%3Ft%3D2456&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998759034786%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=IX5xOlLhR798wrGNPG8dfLtNMevmefI0O4e4IzBI724%3D&reserved=0)
+[@ t=2456](https://youtu.be/RMxjIjog9OI?t=2456) [Barron's reports When the Lawyers Come for Autonomous Vehicles](https://youtu.be/RMxjIjog9OI?t=2456)
 
-[@ t=2552](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fyoutu.be%2FRMxjIjog9OI%3Ft%3D2552&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998759034786%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=DZ9FXwvLhd1jpohBUdtqF36FsDNloHIzLwxZseElXPM%3D&reserved=0)  [GM President talks safety](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fyoutu.be%2FRMxjIjog9OI%3Ft%3D2552&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998759034786%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=DZ9FXwvLhd1jpohBUdtqF36FsDNloHIzLwxZseElXPM%3D&reserved=0)
+[@ t=2552](https://youtu.be/RMxjIjog9OI?t=2552)  [GM President talks safety](https://youtu.be/RMxjIjog9OI?t=2552)
 
-@[t=2722](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fyoutu.be%2FRMxjIjog9OI%3Ft%3D2722&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998759034786%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=5WHDwemOW%2BP%2BYLaEFVwEbel42rZzvtIgZGIsU3Sh5Os%3D&reserved=0)  [Losses at Lucid](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fyoutu.be%2FRMxjIjog9OI%3Ft%3D2722&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998759034786%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=5WHDwemOW%2BP%2BYLaEFVwEbel42rZzvtIgZGIsU3Sh5Os%3D&reserved=0)
+@[t=2722](https://youtu.be/RMxjIjog9OI?t=2722)  [Losses at Lucid](https://youtu.be/RMxjIjog9OI?t=2722)
 
-[@ t=3071](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fyoutu.be%2FRMxjIjog9OI%3Ft%3D3071&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998759191026%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=gHXAYeC%2FbMjN4U2z2lN5F%2BsxUG4e5PE%2FVwC5OeyfGNM%3D&reserved=0)  [Alex Roy talks elevators!](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fyoutu.be%2FRMxjIjog9OI%3Ft%3D3071&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998759191026%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=gHXAYeC%2FbMjN4U2z2lN5F%2BsxUG4e5PE%2FVwC5OeyfGNM%3D&reserved=0)
+[@ t=3071](https://youtu.be/RMxjIjog9OI?t=3071)  [Alex Roy talks elevators!](https://youtu.be/RMxjIjog9OI?t=3071)
 
-SmartDrivingCars [ZoomCast 277](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fyoutu.be%2FvH4jC5TLO6w&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998759191026%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=tg74Y%2B3MQfKJ1OQlPVWCttadGAFmfyV8vFYPkjJkP4Q%3D&reserved=0)/ [PodCast 2](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fsoundcloud.com%2Fsmartdrivingcar%2Fsmart-driving-cars-episode-265-designing-the-robotaxi-rider-experience-uniphy-ceo-jim-nicholas&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998759191026%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=bnpxxbOSc1rmIBbIJFq%2FTHlRdtBTR6xn%2F9SCFqgTOd0%3D&reserved=0)[77](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fsoundcloud.com%2Fsmartdrivingcar%2Fsmart-driving-cars-cities-mobility-episode-277%3Futm_source%3Dclipboard%26utm_medium%3Dtext%26utm_campaign%3Dsocial_sharing&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998759191026%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=nJGHSdAsarZD%2BYxJBpi7yRE2FgCFZ0ec5FlaoOFyKCs%3D&reserved=0) w/Michael Sena, [Editor of The Dispatcher](https://nam12.safelinks.protection.outlook.com/?url=http%3A%2F%2Fwww.michaellsena.com%2Fthe-dispatcher-newsletter-2%2F&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998759191026%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=atCwrcDSDbeUF6v0HhUW69MZ8AoAX9QP5puHlxvOEd4%3D&reserved=0)
+SmartDrivingCars [ZoomCast 277](https://youtu.be/vH4jC5TLO6w)/ [PodCast 2](https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-265-designing-the-robotaxi-rider-experience-uniphy-ceo-jim-nicholas)[77](https://soundcloud.com/smartdrivingcar/smart-driving-cars-cities-mobility-episode-277?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing) w/Michael Sena, [Editor of The Dispatcher](http://www.michaellsena.com/the-dispatcher-newsletter-2/)
 
 F. Fishkin, July 30, "A
           look at cities & mobility, turmoil at VW, the cash problem
@@ -583,8 +558,7 @@ F. Fishkin, July 30, "A
           joins Alain Kornhauser & Fred Fishkin for another spirited
           discussion on episode 277 of Smart Driving Cars."
 
-SmartDrivingCars[](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fyoutu.be%2FbvlEyVEN43s&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998759191026%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=6GjgBS9MfBRX50A4cz9Uv8Gy1pPt0n9BnMGyXl0PDfs%3D&reserved=0)[ZoomCast
-                  Episode 276](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fyoutu.be%2FbvlEyVEN43s&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998759191026%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=6GjgBS9MfBRX50A4cz9Uv8Gy1pPt0n9BnMGyXl0PDfs%3D&reserved=0)/ [PodCast 2](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fanchor.fm%2Fsmartdrivingcars%2Fepisodes%2FSmart-Driving-Cars-Episode-268-Why-wireless-EV-charging-is-key-to-autonomous-mobility-e1iimbi&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998759191026%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=RBQcMZc%2FPFw5p6OgvkqZbo7pYapnXMuMaL4U%2FbMi9ss%3D&reserved=0)[7](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fanchor.fm%2Fsmartdrivingcars%2Fepisodes%2FSmart-Driving-Cars-TRB-wrap-Tesla--more-Episode-276-e1llte5&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998759191026%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=Yfu71u0yIADo2KMqYr6%2FdV1QEtevRQvi6jaXBt7%2B9CE%3D&reserved=0)[6](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fanchor.fm%2Fsmartdrivingcars%2Fepisodes%2FSmart-Driving-Cars-TRB-wrap-Tesla--more-Episode-276-e1llte5&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998759191026%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=Yfu71u0yIADo2KMqYr6%2FdV1QEtevRQvi6jaXBt7%2B9CE%3D&reserved=0) w/R.
+SmartDrivingCars[ZoomCast Episode 276](https://youtu.be/bvlEyVEN43s)/ [PodCast 2](https://anchor.fm/smartdrivingcars/episodes/Smart-Driving-Cars-Episode-268-Why-wireless-EV-charging-is-key-to-autonomous-mobility-e1iimbi)[7](https://anchor.fm/smartdrivingcars/episodes/Smart-Driving-Cars-TRB-wrap-Tesla--more-Episode-276-e1llte5)[6](https://anchor.fm/smartdrivingcars/episodes/Smart-Driving-Cars-TRB-wrap-Tesla--more-Episode-276-e1llte5) w/R.
             Mudge, President, Compass Transportation
 
 F. Fishkin, July 25,
@@ -594,16 +568,14 @@ F. Fishkin, July 25,
           Tesla, Cruise, Baidu, Zoox & more.   Smart Driving Cars
           episode 276 with Alain Kornhauser & co-host Fred Fishkin."
 
-[Link to 275 previous SDC
-                  PodCasts & ZoomCasts](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.dropbox.com%2Fs%2Figs6ymicy8l10bi%2FLinks2PodCast_55-275.pdf%3Fdl%3D0&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998759191026%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=CQKU%2Brip%2BRC1d1KIcdPZSdZNsN%2FZsOvz3lxIOXYpzQM%3D&reserved=0)
+[Link to 275 previous SDC PodCasts & ZoomCasts](https://www.dropbox.com/s/igs6ymicy8l10bi/Links2PodCast_55-275.pdf?dl=0)
 
  Recent
             Highlights of:
 
 Saturday, December 17, 2022
 
-   [Once You See the Truth About Cars,
-              You Can't Unsee It](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.nytimes.com%2F2022%2F12%2F15%2Fopinion%2Fcar-ownership-inequality.html%3Fcampaign_id%3D0%26emc%3Dedit_cr_20221215%26instance_id%3D0%26nl%3Dcomments-notifications%26regi_id%3D139605010%26segment_id%3D0%26user_id%3D45874dd248641213e045c9ba82c52440&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998756378705%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=ZhJy1LmID%2FvCCBG4zf7602Zb%2Bq%2Bf%2BiRAjVQvqIu7rUs%3D&reserved=0)
+   [Once You See the Truth About Cars, You Can't Unsee It](https://www.nytimes.com/2022/12/15/opinion/car-ownership-inequality.html?campaign_id=0&emc=edit_cr_20221215&instance_id=0&nl=comments-notifications&regi_id=139605010&segment_id=0&user_id=45874dd248641213e045c9ba82c52440)
 
 Guest Opinion: A. Ross & J.
         Livingston,Dec. 15, " In American consumer lore, the automobile
@@ -623,34 +595,32 @@ Guest Opinion: A. Ross & J.
       been turbo-boosted engines of inequality, immobilizing their
       owners with debt, increasing their exposure to hostile law
       enforcement, and in general accelerating the forces that drive
-      apart haves and have-nots.  …."  [Read  more](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.nytimes.com%2F2022%2F12%2F15%2Fopinion%2Fcar-ownership-inequality.html%3Fcampaign_id%3D0%26emc%3Dedit_cr_20221215%26instance_id%3D0%26nl%3Dcomments-notifications%26regi_id%3D139605010%26segment_id%3D0%26user_id%3D45874dd248641213e045c9ba82c52440&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998756378705%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=ZhJy1LmID%2FvCCBG4zf7602Zb%2Bq%2Bf%2BiRAjVQvqIu7rUs%3D&reserved=0)Hmmmm….. The fu!
+      apart haves and have-nots.  …."  [Read  more](https://www.nytimes.com/2022/12/15/opinion/car-ownership-inequality.html?campaign_id=0&emc=edit_cr_20221215&instance_id=0&nl=comments-notifications&regi_id=139605010&segment_id=0&user_id=45874dd248641213e045c9ba82c52440)Hmmmm….. The fu!
  ndamentals of
           our MOVES approach to the deployment is focused directly on
           providing a high-quality affordable alternative to this
-          community.  Moreover, [the comment that the NYT posted with
-            the article](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.nytimes.com%2F2022%2F12%2F15%2Fopinion%2Fcar-ownership-inequality.html%3Fcampaign_id%3D0%26emc%3Dedit_cr_20221215%26instance_id%3D0%26nl%3Dcomments-notifications%26regi_id%3D139605010%26segment_id%3D0%26user_id%3D45874dd248641213e045c9ba82c52440%23commentsContainer%26permid%3D122022082%3A122022082&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998756378705%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=mMTLY00nGMtrlAPDYo095GyCjoZ3kz6jYDk%2BWSyEV0g%3D&reserved=0).   Alain
+          community.  Moreover, [the comment that the NYT posted with the article](https://www.nytimes.com/2022/12/15/opinion/car-ownership-inequality.html?campaign_id=0&emc=edit_cr_20221215&instance_id=0&nl=comments-notifications&regi_id=139605010&segment_id=0&user_id=45874dd248641213e045c9ba82c52440#commentsContainer&permid=122022082:122022082).   Alain
 
               Click or tap if you trust this link.">Sunday, December 11, 2022
 
-* [I'm going to the moon!!!...
-                Literally!](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DQFIuzormhYU&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998759191026%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=K%2BIhCE9GKU1dIY7pAlMR5Hw5ecfmmKE6K0eUykD%2BF9I%3D&reserved=0)
+* [I'm going to the moon!!!... Literally!](https://www.youtube.com/watch?v=QFIuzormhYU)
 
 T. Dodd, Dec. 8, "t's
           true! I have been chosen as one of the members of the
           incredible dearMoon mission around the moon on SpaceX's
           Starship rocket. To learn more about the mission and to meet
-          the rest of the crew, visit - [http://dearmoon.earth](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.youtube.com%2Fredirect%3Fevent%3Dvideo_description%26redir_token%3DQUFFLUhqazhCU2dFN24zdmp4VU5ITl9mbVhVTW9EVXRNZ3xBQ3Jtc0tsOGhkeG96SDVjOXRoM0k1cFZnbXpnbE5YbTBTNW8yTnpOWUNDbEVBMmtoWXd2OFVUTEJ1dkUzSXpZaUNZZFJQUVV4M3BKc0FGcDdIeUdqbVZtNzJpRy1La01tZVZ5V1NuTGM2SXZUaFNnNmJQX1dzRQ%26q%3Dhttp%253A%252F%252Fdearmoon.earth%252F%26v%3DQFIuzormhYU&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998759191026%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=yfukKIy5Tw%2BVgp4J3gTGNJwXUDcy09sO1LahTDfpVHM%3D&reserved=0) & [https://dearmoon.earth/share_crew/tim...](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.youtube.com%2Fredirect%3Fevent%3Dvideo_description%26redir_token%3DQUFFLUhqbFpnamJsdzBVbEVpMjlLRy0xTmE2MmZtWUFTQXxBQ3Jtc0trRlppRXZmTEZmRG1lUnM3S2sxVi1DMmM1UFg0Zzd4ejZJUWJQXzB6WDl5ZXJsS09HUUNHUnRLTERiRnk0dVIzU2tOeXc0bENJTnUxNTRmZkdSYUQ2MW5sSzE1YXFVcV9IUzNseXBkSWliQWVoRld4RQ%26q%3Dhttps%253A%252F%252Fdearmoon.earth%252Fshare_crew%252Ftimdodd_en.html%26v%3DQFIuzormhYU&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998759191026%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=KUGseA47zZxt%2BOPjaAnEgVNUJx71gpDLQpQ7suyywqs%3D&reserved=0) And hear more
-          about the announcement from Yusaku Maezawa!!! - [https://youtu.be/DKNSlL3Inn8](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DDKNSlL3Inn8%26t%3D0s&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998759347272%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=LQ8pM1agCiSyMunktCYrlRgYBD8z4FI3tr0lXuKGcM0%3D&reserved=0)...
-          " [Watch more](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DQFIuzormhYU&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998759347272%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=BDR3%2FkCm1sjU5qyoJxc9BrCdHwFkCj60ru4DWSrwQ%2Bw%3D&reserved=0)  Hmmmm... So deserving!  Tim
+          the rest of the crew, visit - [http://dearmoon.earth](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqazhCU2dFN24zdmp4VU5ITl9mbVhVTW9EVXRNZ3xBQ3Jtc0tsOGhkeG96SDVjOXRoM0k1cFZnbXpnbE5YbTBTNW8yTnpOWUNDbEVBMmtoWXd2OFVUTEJ1dkUzSXpZaUNZZFJQUVV4M3BKc0FGcDdIeUdqbVZtNzJpRy1La01tZVZ5V1NuTGM2SXZUaFNnNmJQX1dzRQ&q=http%3A%2F%2Fdearmoon.earth%2F&v=QFIuzormhYU) & [https://dearmoon.earth/share_crew/tim...](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbFpnamJsdzBVbEVpMjlLRy0xTmE2MmZtWUFTQXxBQ3Jtc0trRlppRXZmTEZmRG1lUnM3S2sxVi1DMmM1UFg0Zzd4ejZJUWJQXzB6WDl5ZXJsS09HUUNHUnRLTERiRnk0dVIzU2tOeXc0bENJTnUxNTRmZkdSYUQ2MW5sSzE1YXFVcV9IUzNseXBkSWliQWVoRld4RQ&q=https%3A%2F%2Fdearmoon.earth%2Fshare_crew%2Ftimdodd_en.html&v=QFIuzormhYU) And hear more
+          about the announcement from Yusaku Maezawa!!! - [https://youtu.be/DKNSlL3Inn8](https://www.youtube.com/watch?v=DKNSlL3Inn8&t=0s)...
+          " [Watch more](https://www.youtube.com/watch?v=QFIuzormhYU)  Hmmmm... So deserving!  Tim
             has done so much to make rigorous "rocket science"
             understandable by non-rocket scientists while maintaining
             the rigor.  For that substance he has been most justifiable
             awarded this special honor.  Life is good!  Tim, you most
             justifiably earned this incredible privilege.  Full
-            disclosure… I'm a long time subscriber to [Everyday Astronaut](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.youtube.com%2F%40EverydayAstronaut&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998759347272%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=EkadIRkSaZzW1gPKVf%2FuaW4ZMqj2ZNYxywG0SLRf%2Bns%3D&reserved=0). Alain
+            disclosure… I'm a long time subscriber to [Everyday Astronaut](https://www.youtube.com/@EverydayAstronaut). Alain
 
               Click or tap if you trust this link.">Friday, December 2, 2022
-  [December 2022 Issue](https://nam12.safelinks.protection.outlook.com/?url=http%3A%2F%2Fwww.michaellsena.com%2Fwp-content%2Fuploads%2F2022%2F11%2FThe-Dispatcher_December_2022.pdf&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998759347272%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=4BsPDBH0%2FDg1ICY6ncoXij8KwEraGziOSSbM8d7SRXY%3D&reserved=0)
+  [December 2022 Issue](http://www.michaellsena.com/wp-content/uploads/2022/11/The-Dispatcher_December_2022.pdf)
 
 M. Sena, Nov. 28, ""In all of
             mankind's history, there has never been more damage done
@@ -675,7 +645,7 @@ I'm not sure if Elon Musk actually
           efforts in exchange for a salary, or in which individuals or
           funds have invested their own or their customers' money. So,
           once again the seemingly never-ending saga of the Musketeer
-          continues on the pages of the. [December issue of The Dispatcher](https://nam12.safelinks.protection.outlook.com/?url=http%3A%2F%2Fwww.michaellsena.com%2Fwp-content%2Fuploads%2F2022%2F11%2FThe-Dispatcher_December_2022.pdf&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998759347272%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=4BsPDBH0%2FDg1ICY6ncoXij8KwEraGziOSSbM8d7SRXY%3D&reserved=0)
+          continues on the pages of the. [December issue of The Dispatcher](http://www.michaellsena.com/wp-content/uploads/2022/11/The-Dispatcher_December_2022.pdf)
 
 But it's only one of the
           stories in the issue. Skip it if you don't care about Musk and
@@ -689,13 +659,12 @@ But it's only one of the
           you to think about whether you want to have sidewalks to walk
           on to get some place in the future, or whether you would
           prefer to have sidewalks that are paid attractions, like rides
-          at an amusement park…."  [Read more](https://nam12.safelinks.protection.outlook.com/?url=http%3A%2F%2Fwww.michaellsena.com%2Fwp-content%2Fuploads%2F2022%2F11%2FThe-Dispatcher_December_2022.pdf&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998759347272%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=4BsPDBH0%2FDg1ICY6ncoXij8KwEraGziOSSbM8d7SRXY%3D&reserved=0)  Hmmmm...Continued
-            excellence.  Comments are @  [ZoomCast 294](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DnHrUAB17N_Q&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998759347272%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=tVA4UNF9umHqOl0F81kDcS1%2FEInI3SDoYRCT6ffqa%2FY%3D&reserved=0) / [PodCast294](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fsoundcloud.com%2Fsmartdrivingcar%2Fthe-driverless-car-landscape-shifts-is-ai-really-ai-can-tesla-make-it-big-in-trucking-ep-294&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998759347272%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7!
+          at an amusement park…."  [Read more](http://www.michaellsena.com/wp-content/uploads/2022/11/The-Dispatcher_December_2022.pdf)  Hmmmm...Continued
+            excellence.  Comments are @  [ZoomCast 294](https://www.youtube.com/watch?v=nHrUAB17N_Q) / [PodCast294](https://soundcloud.com/smartdrivingcar/the-driverless-car-landscape-shifts-is-ai-really-ai-can-tesla-make-it-big-in-trucking-ep-294
  C%7C&sdata=v1hy5sXx2r7kIzYAhF9zGTPSJ%2FBYK%2FfY5Lz%2Fe6hPO5w%3D&reserved=0) . Alain
 
               Click or tap if you trust this link.">Sunday, November 27, 2022
- [Argo AI Folded After a Lifeline
-              From Amazon Never Arrived: Report](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.thedrive.com%2Fnews%2Fargo-ai-folded-after-a-lifeline-from-amazon-never-arrived-report&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998759347272%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=34a7h%2F%2BrlqyMPFte%2B0k1tYonUDslDlA9ktWKSpTatYg%3D&reserved=0)
+ [Argo AI Folded After a Lifeline From Amazon Never Arrived: Report](https://www.thedrive.com/news/argo-ai-folded-after-a-lifeline-from-amazon-never-arrived-report)
 
 P.Holderith, Nov. 22,
           "The dream of smoking a cigar with the windows up in your
@@ -730,16 +699,14 @@ Argo additionally hired 150 people to work
           was for naught. A governing deal couldn't be struck, the
           global economy was in a further state of disrepair thanks to
           that Vlad guy over in Russia—what's his last name again?—and
-          inflation got more serious…."  [Read more](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.thedrive.com%2Fnews%2Fargo-ai-folded-after-a-lifeline-from-amazon-never-arrived-report&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998759347272%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=34a7h%2F%2BrlqyMPFte%2B0k1tYonUDslDlA9ktWKSpTatYg%3D&reserved=0)  Hmmmm... Reminiscent of what
-            Larry Burns recalled in his book  "[Autonomy: The Quest to Build the
-              Driverless Car―And How It Will Reshape Our World](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.amazon.com%2FAutonomy-Quest-Driverless-Car-Reshape%2Fdp%2F0062661124&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998759347272%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=oLU2dIwHkOf%2FfjGIyKe5I59ZMx%2F8BIuXbfsbB5bbQLA%3D&reserved=0)"
+          inflation got more serious…."  [Read more](https://www.thedrive.com/news/argo-ai-folded-after-a-lifeline-from-amazon-never-arrived-report)  Hmmmm... Reminiscent of what
+            Larry Burns recalled in his book  "[Autonomy: The Quest to Build the Driverless Car―And How It Will Reshape Our World](https://www.amazon.com/Autonomy-Quest-Driverless-Car-Reshape/dp/0062661124)"
             about a failed "partnership" between Ford & Waymo that
             would have "reshaped our world".  Waymo (L), VW (W), Amazon
             (L), VW(L)… now what?  Alain
 
               Click or tap if you trust this link.">Saturday, November 19, 2022
-  [What Riding in a Self-Driving Tesla
-              Tells Us About the Future of Autonomy](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.nytimes.com%2Finteractive%2F2022%2F11%2F14%2Ftechnology%2Ftesla-self-driving-flaws.html&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998759347272%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=2Vd9nAVHBnqA40pHx0RCqMBayE2AvkU0nV3cM1zaFpA%3D&reserved=0)
+  [What Riding in a Self-Driving Tesla Tells Us About the Future of Autonomy](https://www.nytimes.com/interactive/2022/11/14/technology/tesla-self-driving-flaws.html)
 
 C. Metz, Nov. 14, "Cade and Ian spent six
           hours riding in a self-driving car in Jacksonville, Fla., to
@@ -830,7 +797,7 @@ As the car approached the
           neighborhoods under certain weather conditions at relatively
           low speeds. And company technicians will provide remote
           assistance to cars that inevitably find themselves in
-          situations they cannot navigate on their own…. "[Read more](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.nytimes.com%2Finteractive%2F2022%2F11%2F14%2Ftechnology%2Ftesla-self-driving-flaws.html&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998759503515%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=PSo41iX6uFuFefCCsjZYxWZtkjXHm6aMyzRLZGE2XMQ%3D&reserved=0)  Hmmmm... This is exactly the
+          situations they cannot navigate on their own…. "[Read more](https://www.nytimes.com/interactive/2022/11/14/technology/tesla-self-driving-flaws.html)  Hmmmm... This is exactly the
             basis for our MOVES-style approach to deployment.  In the
             near term, this technology has a reasonable chance of being
             good enough if its calibrations (the released version) has
@@ -873,8 +840,7 @@ The attributes that
             warranted as is done naturally when using elevators).  Such
             a mobility service is offered by Kiosk2Kiosk elevator-like
             operation throughout the safest subset of interconnecting
-            streets.  We call these [MOVES-style Driverless Transit
-              Networks](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.cartsmobility.com%2Fblog%2Fa-new-deployment-framework-of-autonomous-vehicles&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998759503515%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=zbbVVVkJwvCpJ2oBinKleNj%2FGsdyVb4k7WPMlN%2FxDyA%3D&reserved=0).
+            streets.  We call these [MOVES-style Driverless Transit Networks](https://www.cartsmobility.com/blog/a-new-deployment-framework-of-autonomous-vehicles).
 
 Affordability is THE key
             differentiator.  If you are rich enough to afford a car for
@@ -886,14 +852,12 @@ Affordability is THE key
             Manhattan or in the very center of a few of our largest
             cities.   For everyone else (the too young, the too old, the
             too poor, the sufficiently poor that can't afford a car for
-            each driver in the family, then [MOVES-style Driverless Transit
-              Networks](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.cartsmobility.com%2Fblog%2Fa-new-deployment-framework-of-autonomous-vehicles&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998759503515%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=zbbVVVkJwvCpJ2oBinKleNj%2FGsdyVb4k7WPMlN%2FxDyA%3D&reserved=0) can readily be transformative.  Trenton NJ
+            each driver in the family, then [MOVES-style Driverless Transit Networks](https://www.cartsmobility.com/blog/a-new-deployment-framework-of-autonomous-vehicles) can readily be transformative.  Trenton NJ
             turns out to be one of these communities where 70% of
             households have access to one or fewer cars.  Perth Amboy,
             NJ,. Cherry Hill, MD, Patterson, NJ, Scranton, PA are
-            similar.   My [Mobility Disadvantage Index for
-              places in New Jersey](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.dropbox.com%2Fs%2Fizyqmtplg4muuaa%2FMobility%2520Disadvantaged%2520Index.pptx%3Fdl%3D0&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998759503515%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=z7GjOXG3nMnDXCK9qEAeeEhZQ%2B%2F7hnFhOhlasJ9OIeU%3D&reserved=0) can be found [here](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.dropbox.com%2Fs%2Fizyqmtplg4muuaa%2FMobility%2520Disadvantaged%2520Index.pptx%3Fdl%3D0&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998759503515%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=z7GjOXG3nMnDXCK9qEAeeEhZQ%2B%2F7hnFhOhlasJ9OIeU%3D&reserved=0) and for the rest of the
-            US, [here](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.cartsmobility.com%2Fvehicleimmobilitymap&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998759503515%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=gzF%2B%2FXsYs9k3f28GazVO%2FRsYeCFHFJsI83kBUhlNU%2Fk%3D&reserved=0).
+            similar.   My [Mobility Disadvantage Index for places in New Jersey](https://www.dropbox.com/s/izyqmtplg4muuaa/Mobility%20Disadvantaged%20Index.pptx?dl=0) can be found [here](https://www.dropbox.com/s/izyqmtplg4muuaa/Mobility%20Disadvantaged%20Index.pptx?dl=0) and for the rest of the
+            US, [here](https://www.cartsmobility.com/vehicleimmobilitymap).
 
 I am confident that
             Waymo, Cruise and Tesla could today, make their systems work
@@ -906,8 +870,7 @@ I am confident that
 
               Click or tap if you trust this link.">Monday, November
                 14, 2022
-[Gusciora
-                leads big in Trenton; many council seats up in the air](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fnewjerseyglobe.com%2Flocal%2Fgusciora-leads-big-in-trenton-many-council-seats-up-in-the-air%2F&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998759503515%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=P%2Fg0OeYq8lMBGE2jez9LNNCMZMPlhQSdHi1xQ5mZXDU%3D&reserved=0)
+[Gusciora leads big in Trenton; many council seats up in the air](https://newjerseyglobe.com/local/gusciora-leads-big-in-trenton-many-council-seats-up-in-the-air/)
 
 J. Fox, Nov 9, "Trenton
           Mayor Reed Gusciora has a huge lead in his bid for a second
@@ -921,8 +884,7 @@ J. Fox, Nov 9, "Trenton
 
               Click or tap if you trust this link.">Sunday, November 6, 2022
 
-[A Deployment Framework for
-              MOVES-style Driverless Transit Networks](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.cartsmobility.com%2Fblog%2Fa-new-deployment-framework-of-autonomous-vehicles&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998759503515%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=zbbVVVkJwvCpJ2oBinKleNj%2FGsdyVb4k7WPMlN%2FxDyA%3D&reserved=0)
+[A Deployment Framework for MOVES-style Driverless Transit Networks](https://www.cartsmobility.com/blog/a-new-deployment-framework-of-autonomous-vehicles)
 
 A. Kornhauser, Nov. 1, "So much has been
           happening lately on the AV scene. With all these recent
@@ -936,18 +898,15 @@ A. Kornhauser, Nov. 1, "So much has been
           choice, thus allowing the marketplace to deliver both the
           economic return on the investment in the technology and to
           unleash the societal benefits of the improved
-          quality-of-life."   [Read more](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.cartsmobility.com%2Fblog%2Fa-new-deployment-framework-of-autonomous-vehicles&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998759503515%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=zbbVVVkJwvCpJ2oBinKleNj%2FGsdyVb4k7WPMlN%2FxDyA%3D&reserved=0) Hmmmm... [View
-                slides](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.cartsmobility.com%2Fblog%2Fa-new-deployment-framework-of-autonomous-vehicles&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%!
- 7C638069998759503515%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=zbbVVVkJwvCpJ2oBinKleNj%2FGsdyVb4k7WPMlN%2FxDyA%3D&reserved=0), [listen](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fsoundcloud.com%2Fsmartdrivingcar%2Fsmart-driving-cars-a-new-deployment-framework-for-autonomous-vehicles-ep290%3Fsi%3D3821b5e4e35a4915b9df93a1e5dfdb25%26utm_source%3Dclipboard%26utm_medium%3Dtext%26utm_campaign%3Dsocial_sharing&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998759503515%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=Es8prWeCzi7Jft79QD33d0S7w12IXaE6N1gPE6Tvv%2Fs%3D&reserved=0)
-            to PodCast and/or [watch](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fyoutu.be%2FB0PTV4PUPlI&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998759503515%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=HsdAaQyk1DaSsagh%2BzFL%2FmmLQN5Hi%2BQB%2Bgi53Y8N0Zs%3D&reserved=0)
-            a repeat of the presentation that I made at the [2022
-                UBC International Road Safety Symposium](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fcivil.ubc.ca%2Fevents%2Fevent%2Finternational-road-safety-symposium%2F&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998759503515%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=ALP5GmH9sy4CyLayfzZ30X9CMPHKlsCwrIMrT4tHQ%2Fk%3D&reserved=0).
+          quality-of-life."   [Read more](https://www.cartsmobility.com/blog/a-new-deployment-framework-of-autonomous-vehicles) Hmmmm... [View slides](https://www.cartsmobility.com/blog/a-new-deployment-framework-of-autonomous-vehicles
+ 7C638069998759503515%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=zbbVVVkJwvCpJ2oBinKleNj%2FGsdyVb4k7WPMlN%2FxDyA%3D&reserved=0), [listen](https://soundcloud.com/smartdrivingcar/smart-driving-cars-a-new-deployment-framework-for-autonomous-vehicles-ep290?si=3821b5e4e35a4915b9df93a1e5dfdb25&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)
+            to PodCast and/or [watch](https://youtu.be/B0PTV4PUPlI)
+            a repeat of the presentation that I made at the [2022 UBC International Road Safety Symposium](https://civil.ubc.ca/events/event/international-road-safety-symposium/).
             Alain
 
               Click ">Sunday, October 30, 2022
 
-[Ford,
-                VW-backed Argo AI is shutting down](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Ftechcrunch.com%2F2022%2F10%2F26%2Fford-vw-backed-argo-ai-is-shutting-down%2F%23%3A~%3Atext%3DArgo%2520AI%252C%2520an%2520autonomous%2520vehicle%2Cpeople%2520familiar%2520with%2520the%2520matter.&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998759659739%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=0M%2FnZGeUVsDdny%2BkdeUORwRh%2FmESKJrjlmHPY3IGiT4%3D&reserved=0)
+[Ford, VW-backed Argo AI is shutting down](https://techcrunch.com/2022/10/26/ford-vw-backed-argo-ai-is-shutting-down/#:~:text=Argo%20AI%2C%20an%20autonomous%20vehicle,people%20familiar%20with%20the%20matter.)
 
 K. Korosec, Oct 26,
           "Argo AI, an autonomous vehicle startup that burst on the
@@ -981,7 +940,7 @@ K. Korosec, Oct 26,
           developing it in house. "We're optimistic about a future for
           L4 ADAS, but profitable, fully autonomous vehicles at scale
           are a long way off and we won't necessarily have to create
-          that technology ourselves," ... [Read more](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Ftechcrunch.com%2F2022%2F10%2F26%2Fford-vw-backed-argo-ai-is-shutting-down%2F%23%3A~%3Atext%3DArgo%2520AI%252C%2520an%2520autonomous%2520vehicle%2Cpeople%2520familiar%2520with%2520the%2520matter.&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998759659739%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=0M%2FnZGeUVsDdny%2BkdeUORwRh%2FmESKJrjlmHPY3IGiT4%3D&reserved=0) Hmmmm... What???
+          that technology ourselves," ... [Read more](https://techcrunch.com/2022/10/26/ford-vw-backed-argo-ai-is-shutting-down/#:~:text=Argo%20AI%2C%20an%20autonomous%20vehicle,people%20familiar%20with%20the%20matter.) Hmmmm... What???
             What is "L4 ADAS"??? You are really going to do L3 which
             many believe is harder than L4.  L3 is going to require that
             Ford accept the safety liability and the "obey all the legal
@@ -1006,34 +965,29 @@ Idf someone does
               technology…- competition which commands a decisive cost or
               quality advantage and which strikes not at the margins of
               the profits and the outputs of the existing firms but at
-              their foundations and their very lives." [Joseph A Shumpeter  (1883-1950)](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.jstor.org%2Fstable%2F1907263&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998759659739%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=Mq5vRozCJ1PSsr%2F3C6ad2%2B%2FrEvqiDCoulPEDe28n9bk%3D&reserved=0)",
+              their foundations and their very lives." [Joseph A Shumpeter  (1883-1950)](https://www.jstor.org/stable/1907263)",
             it is going to simply make it available to allow Ford to
             continue to serve its customers or will use it to crush
             Ford?   Alain
 
- [Argo
-                AI shuts down as Ford, VW pull backing from
-                autonomous-vehicle startup that raised more than $3
-                billion](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.marketwatch.com%2Fstory%2Fargo-ai-shuts-down-as-ford-vw-pull-backing-from-autonomous-vehicle-startup-that-raised-more-than-3-billion-11666819396&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998759659739%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=DgrBqH36D3y9dBQ%2FHcMWHie38BPbC%2Fs16%2FVuzVbmwxs%3D&reserved=0)
+ [Argo AI shuts down as Ford, VW pull backing from autonomous-vehicle startup that raised more than $3 billion](https://www.marketwatch.com/story/argo-ai-shuts-down-as-ford-vw-pull-backing-from-autonomous-vehicle-startup-that-raised-more-than-3-billion-11666819396)
 
 L. Sumagaysay, Oct. 27,
-          "...", [Read more](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.marketwatch.com%2Fstory%2Fargo-ai-shuts-down-as-ford-vw-pull-backing-from-autonomous-vehicle-startup-that-raised-more-than-3-billion-11666819396&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998759659739%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=DgrBqH36D3y9dBQ%2FHcMWHie38BPbC%2Fs16%2FVuzVbmwxs%3D&reserved=0) Hmmmm...
+          "...", [Read more](https://www.marketwatch.com/story/argo-ai-shuts-down-as-ford-vw-pull-backing-from-autonomous-vehicle-startup-that-raised-more-than-3-billion-11666819396) Hmmmm...
             Another view.  Alain
 
-[Ford thinks driver assist is a
-                safer bet than driverless cars, but it's fooling itself](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.theverge.com%2F2022%2F10%2F27%2F23426449%2Fford-argo-ai-driver-assist-level-2-level-3-danger-risk&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998759659739%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=FvGFupf2d%2BNamm73AqFPObL2tB5RNEZuRP%2BXaVy90Hg%3D&reserved=0)
+[Ford thinks driver assist is a safer bet than driverless cars, but it's fooling itself](https://www.theverge.com/2022/10/27/23426449/ford-argo-ai-driver-assist-level-2-level-3-danger-risk)
 
 A. Hawkins, Oct. 27,
           "When Ford announced yesterday that it was pulling its support
           for Argo AI, the autonomous driving startup it had financed
           since 2017, it cited as one of its reasons a belief that
           driver-assist technology will have more near-term
-          payoffs....." [Read more](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.theverge.com%2F2022%2F10%2F27%2F23426449%2Fford-argo-ai-driver-assist-level-2-level-3-danger-risk&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998759659739%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=FvGFupf2d%2BNamm73AqFPObL2tB5RNEZuRP%2BXaVy90Hg%3D&reserved=0) Hmmmm... I
+          payoffs....." [Read more](https://www.theverge.com/2022/10/27/23426449/ford-argo-ai-driver-assist-level-2-level-3-danger-risk) Hmmmm... I
             agree with Andrew, as I stated above.  Alain
 
               Click ">Sunday, October 23, 2022
-[Waymo says it's bringing
-                robotaxis to L.A.](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.latimes.com%2Fbusiness%2Fstory%2F2022-10-19%2Fhere-come-the-robotaxis-waymo-set-to-deploy-in-la&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998759659739%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=pSmKe7qSaKhG18i2X3pGztR0AWFMk8UJiCi9uBm2VlM%3D&reserved=0)
+[Waymo says it's bringing robotaxis to L.A.](https://www.latimes.com/business/story/2022-10-19/here-come-the-robotaxis-waymo-set-to-deploy-in-la)
 
 Russ Mitchell, Oct 19,
           2022 "The company, owned by Google parent Alphabet, said
@@ -1045,7 +999,7 @@ Russ Mitchell, Oct 19,
 But Waymo offered scant
           information about its plans, including when the commercial
           service will begin and how extensive the service's coverage
-          will be…."    [Read more](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.latimes.com%2Fbusiness%2Fstory%2F2022-10-19%2Fhere-come-the-robotaxis-waymo-set-to-deploy-in-la&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998759659739%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=pSmKe7qSaKhG18i2X3pGztR0AWFMk8UJiCi9uBm2VlM%3D&reserved=0) Hmmmm...
+          will be…."    [Read more](https://www.latimes.com/business/story/2022-10-19/here-come-the-robotaxis-waymo-set-to-deploy-in-la) Hmmmm...
             or what the service will be?   Ride-hailing???  Compete with
             Uber/Lyft… good luck! After leading the "testing phase" for
             the last 13 years, this is their plan for the "deployment
@@ -1056,32 +1010,30 @@ But Waymo offered scant
               technology…- competition which commands a decisive cost or
               quality advantage and which strikes not at the margins of
               the profits and the outputs of the existing firms but at
-              their foundations and their very lives." [Joseph A Shumpeter  (1883-1950)](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.jstor.org%2Fstable%2F1907263&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998759659739%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=Mq5vRozCJ1PSsr%2F3C6ad2%2B%2FrEvqiDCoulPEDe28n9bk%3D&reserved=0)".
+              their foundations and their very lives." [Joseph A Shumpeter  (1883-1950)](https://www.jstor.org/stable/1907263)".
             Alain
 
               Click or t">Friday, October 14,
               2022
-[The Long Run to Autonomous
-              Vehicles](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fviodi.com%2F2022%2F10%2F13%2Fthe-long-run-to-autonomous-vehicles%2F&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998759659739%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=JYfqtK2n%2FULVE1BRptbBdX3ck1SC3RedsNMj4uPMWKE%3D&reserved=0)
+[The Long Run to Autonomous Vehicles](https://viodi.com/2022/10/13/the-long-run-to-autonomous-vehicles/)
 
 K. Pyle, Oct. 13,
           "Autonomous vehicles (AV) provide the opportunity to correct
-          government transportation failures is how the [Brookings Institution's
-            Clifford Winston](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.brookings.edu%2Fexperts%2Fclifford-winston%2F&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998759659739%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=jujxUCp0q04kf5OyWJDkWCWNgGkFXYFSNHVaB844XAs%3D&reserved=0) characterized the potential opportunity
+          government transportation failures is how the [Brookings Institution's Clifford Winston](https://www.brookings.edu/experts/clifford-winston/) characterized the potential opportunity
           provided by autonomous vehicles. Winston spoke to the possible
           economic impact of autonomous vehicles in an online media
-          briefing ([YouTube video](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fyoutu.be%2FZGK2zIXInyE&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998759659739%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=oHiwKheVoWV%2BqN1dwNxOagvjFi1ll29sLZRD9IsPI8o%3D&reserved=0)) that also included
+          briefing ([YouTube video](https://youtu.be/ZGK2zIXInyE)) that also included
           speakers from Princeton and the Reason Foundation who touched
           on the technology and the role of public policy and
           regulation. A lively question and answer period followed the
-          briefing...."  [Read more](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fviodi.com%2F2022%2F10%2F13%2Fthe-long-run-to-autonomous-vehicles%2F&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998759815980%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=mhV%2FjVFLkMzZA%2BCxO8A89hskAVysoJlJDr0g17alZU4%3D&reserved=0) Hmmmm...  Ken,
+          briefing...."  [Read more](https://viodi.com/2022/10/13/the-long-run-to-autonomous-vehicles/) Hmmmm...  Ken,
             thank you.  Excellent.  Alain
 
               or tap">Saturday, October 08, 2022
-[Tesla AI Day 2022](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DODSJsviD_SU&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998759815980%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=kjnTVel0nkod%2F6QEL6u235NprZeD9yBXyDT%2FHfV%2BS%2Fo%3D&reserved=0)
+[Tesla AI Day 2022](https://www.youtube.com/watch?v=ODSJsviD_SU)
 
 Tesla Staff, Sept. 30,
-          "Streamed live..."  [Read more](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DODSJsviD_SU&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998759815980%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=kjnTVel0nkod%2F6QEL6u235NprZeD9yBXyDT%2FHfV%2BS%2Fo%3D&reserved=0) Hmmmm... I'm
+          "Streamed live..."  [Read more](https://www.youtube.com/watch?v=ODSJsviD_SU) Hmmmm... I'm
             not much of a fan of humanoids so you may skip the first
             hour; however, starting @ 0:58:00 - FSD Intro, the next hour
             and a half is substantive and a must watch.  My takeaway
@@ -1121,13 +1073,12 @@ Sept 28, M. Sena, "IN
           to dramatically increase demand for these commodities, the
           chances for expanded conflicts increase. In many areas, they
           have already begun.  ..." Read more  Another excellent
-            issue.  Enjoy!  Also watch or listen:[ZoomCast 28](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fyoutu.be%2FtVY5LgBFkyg&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998759815980%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=MMy5%2BV3Uouh1yzaOFBbwBKAt5HuQvVa9tfak%2FU8QgJs%3D&reserved=0)[5](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fyoutu.be%2FtVY5LgBFkyg&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998759815980%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=MMy5%2BV3Uouh1yzaOFBbwBKAt5HuQvVa9tfak%2FU8QgJs%3D&reserved=0) /[PodCast 28](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fspotifyanchor-web.app.link%2Fe%2FDlkPfMr6Ftb&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998759815980%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=l%2FTOlnFumgY3tcVmgL3L8OWZy41rtc9AfR4oxILvZ%2BA%3D&reserved=0)[5](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fspotifyanchor-web.app.link%2Fe%2FDlkPfMr6Ftb&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998759815980%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=l%2FTOlnFumgY3tcVmgL3L8OWZy41rtc9AfR4oxILvZ%2BA%3D&reserved=0)  Alain
+            issue.  Enjoy!  Also watch or listen:[ZoomCast 28](https://youtu.be/tVY5LgBFkyg)[5](https://youtu.be/tVY5LgBFkyg) /[PodCast 28](https://spotifyanchor-web.app.link/e/DlkPfMr6Ftb)[5](https://spotifyanchor-web.app.link/e/DlkPfMr6Ftb)  Alain
 
  Thursday, September
             22, 2022
 
-  [Thor for Autonomous Vehicles,
-              Robotics, Medical Instruments and More](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fblogs.nvidia.com%2Fblog%2F2022%2F09%2F20%2Fkeynote-gtc-nvidia-ceo%2F&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998759815980%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=zhAY4UHJULaEuemwi%2FTLtIVFNBTk9OHKUx8uDm3NtyI%3D&reserved=0)
+  [Thor for Autonomous Vehicles, Robotics, Medical Instruments and More](https://blogs.nvidia.com/blog/2022/09/20/keynote-gtc-nvidia-ceo/)
 
 J. Huang, Sept 20, "...In
           today's vehicles, active safety, parking, driver monitoring,
@@ -1144,15 +1095,11 @@ J. Huang, Sept 20, "...In
           performance, replacing Atlan on the DRIVE roadmap, and
           providing a seamless transition from DRIVE Orin, which has 254
           TOPS of performance and is currently in production
-          vehicles..." [Read more](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fblogs.nvidia.com%2Fblog%2F2022%2F09%2F20%2Fkeynote-gtc-nvidia-ceo%2F&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998759815980%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=zhAY4UHJULaEuemwi%2FTLtIVFNBTk9OHKUx8uDm3NtyI%3D&reserved=0) Hmmmm... [Watch Jenmsen's keynote @ 2022 GTC](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fyoutu.be%2FPWcNlRI00jo&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998759815980%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=DDh362xZUy2QpLtdEid6cdP9Ib%2BM0M%2Ba5TGT2rrxuRI%3D&reserved=0).
-            Watch: [Nvidia Explains Self-Driving Car
-              Vision at GTC 2022](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fyoutu.be%2FLjoxHaDCusY&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998759815980%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=1%2FeJsACgH%2F0y8pI4kKdO7RHyDmbPur0NiyYHlsKP1m8%3D&reserved=0).  [See how the XPeng G9 utilized
-              nVIDIA](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fyoutu.be%2FeZ9T0G2DqhE%3Ft%3D1082&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998759815980%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=yjbSvDI1S%2B9gGMvPpIe2WBRoC59W8LSVSxmTZeR2iuU%3D&reserved=0).  [Watch the G9's version of "FSD"
-              called X](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fyoutu.be%2FeZ9T0G2DqhE%3Ft%3D807&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998759815980%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=z5sUZJHMwFGtJUbPwZZbaMQULLUfDI8jv2Tcl0pEnpA%3D&reserved=0) Alain
+          vehicles..." [Read more](https://blogs.nvidia.com/blog/2022/09/20/keynote-gtc-nvidia-ceo/) Hmmmm... [Watch Jenmsen's keynote @ 2022 GTC](https://youtu.be/PWcNlRI00jo).
+            Watch: [Nvidia Explains Self-Driving Car Vision at GTC 2022](https://youtu.be/LjoxHaDCusY).  [See how the XPeng G9 utilized nVIDIA](https://youtu.be/eZ9T0G2DqhE?t=1082).  [Watch the G9's version of "FSD" called X](https://youtu.be/eZ9T0G2DqhE?t=807) Alain
 
               tap ">Saturday September 10, 2022
- [Self-Driving Tech Company Floats
-              Possible Sale to Apple or Microsoft](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2022-09-02%2Fself-driving-ceo-floats-possible-sale-to-apple-or-microsoft%3FleadSource%3Duverify%2520wall&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998759972223%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=7nocuLQCQ6bzsy3aQl6dKbRrUPNo0ns14yIo7gQkVbE%3D&reserved=0)
+ [Self-Driving Tech Company Floats Possible Sale to Apple or Microsoft](https://www.bloomberg.com/news/articles/2022-09-02/self-driving-ceo-floats-possible-sale-to-apple-or-microsoft?leadSource=uverify%20wall)
 
 D. Welch, Aug. 30,
           "Aurora Innovation Inc.'s chief executive officer recently
@@ -1167,7 +1114,7 @@ D. Welch, Aug. 30,
           selling assets and pursuing a small capital raise in a memo
           labeled "board discussion pre-read" and dated Aug. 3. Urmson
           inadvertently sent this to staff and asked them on Aug. 9 not
-          to open it, the document shows.  ..." [Read more](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2022-09-02%2Fself-driving-ceo-floats-possible-sale-to-apple-or-microsoft%3FleadSource%3Duverify%2520wall&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998759972223%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=7nocuLQCQ6bzsy3aQl6dKbRrUPNo0ns14yIo7gQkVbE%3D&reserved=0) Hmmmm... Realistic
+          to open it, the document shows.  ..." [Read more](https://www.bloomberg.com/news/articles/2022-09-02/self-driving-ceo-floats-possible-sale-to-apple-or-microsoft?leadSource=uverify%20wall) Hmmmm... Realistic
             but not good news.  With revenue at zero all of these
             companies are struggling.  The annual addressable market of
             new class 8 trucks in the US is about 275,000 units.  Given
@@ -1177,8 +1124,8 @@ D. Welch, Aug. 30,
             revenue remains a year or more in the future.
 
 What may be even more
-            daunting is competition from a [TeslaSemi](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.inverse.com%2Finnovation%2Ftesla-semi-price-specs&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998759972223%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=6IZUpwJlI3MelBkvcBj6nGOnnzKndT%2BKYeCyozRtK%2Fg%3D&reserved=0) with
-            "FSD.Class8", not to mention the [Waymo Via](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwaymo.com%2Fwaymo-via%2F&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998759972223%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=3qYeuXctx5hYrOJY4Ei29OUc%2FwinBRA1w2sMvo8nB48%3D&reserved=0) initiative.  They
+            daunting is competition from a [TeslaSemi](https://www.inverse.com/innovation/tesla-semi-price-specs) with
+            "FSD.Class8", not to mention the [Waymo Via](https://waymo.com/waymo-via/) initiative.  They
             both can cross subsidize their driverless Class 8
             initiatives with their driverless people movement
             investment.
@@ -1186,7 +1133,7 @@ What may be even more
 I still contend that
             there is a substantial near-term revenue opportunity
             Advanced Professional Driver Assistance focused on
-            improving Professional Driver workplace.  [OSHA](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.osha.gov%2Ftrucking-industry&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998759972223%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=GKuIciTA5wdA7eSAWeV4NBeDaSnwyDHQy4yKVJJ8CkQ%3D&reserved=0) should be mandating such
+            improving Professional Driver workplace.  [OSHA](https://www.osha.gov/trucking-industry) should be mandating such
             technology.  Aurora could be generating revenue from it
             today. CEOs of trucking companies could be paying for it
             today and pocketing extremely attractive RoIs.  Professional
@@ -1194,8 +1141,7 @@ I still contend that
             driver shortage might disappear. Alain
 
               Click ">Thursday September 1, 2022
-[Funding Roads: Pay
-              for the Effect or Pay for the Cause](https://nam12.safelinks.protection.outlook.com/?url=http%3A%2F%2Fwww.michaellsena.com%2Fwp-content%2Fuploads%2F2022%2F08%2FThe-Dispatcher_September_2022.pdf&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998759972223%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=dentyPsZ3Ozwgdd79Pixn691uGbxK5HiU1xSHsw%2FXAY%3D&reserved=0)
+[Funding Roads: Pay for the Effect or Pay for the Cause](http://www.michaellsena.com/wp-content/uploads/2022/08/The-Dispatcher_September_2022.pdf)
 
 M. Sena, Aug. 30, "The
           September 2022 Issue in Brief
@@ -1230,49 +1176,40 @@ Aluminum: Another brick in the Wall of China –
           GM looking for money in all the wrong places – Making
           something like OnStar a 'standard option' is like
           telling parishoners they need to put money in the collection
-          basket in order to get into mass.  ..." [Read more](https://nam12.safelinks.protection.outlook.com/?url=http%3A%2F%2Fwww.michaellsena.com%2Fwp-content%2Fuploads%2F2022%2F08%2FThe-Dispatcher_September_2022.pdf&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998759972223%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=dentyPsZ3Ozwgdd79Pixn691uGbxK5HiU1xSHsw%2FXAY%3D&reserved=0) Hmmmm... Another
-            fantastic issue.  See [ZoomCast 282](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fyoutu.be%2FF1qDhRqAA5c&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998759972223%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=%2F21Dq6JivQjr9NkI4vfyEmeRNNcJmQQ9P7oP%2BNN3dio%3D&reserved=0)/[PodCast 282](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fanchor.fm%2Fsmartdrivingcars%2Fepisodes%2F&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998759972223%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=g4Z4nwLMhPH9zlhtYNiWvCwlVuhlcegpIQrIz4bglLM%3D&reserved=0) for a discussion
+          basket in order to get into mass.  ..." [Read more](http://www.michaellsena.com/wp-content/uploads/2022/08/The-Dispatcher_September_2022.pdf) Hmmmm... Another
+            fantastic issue.  See [ZoomCast 282](https://youtu.be/F1qDhRqAA5c)/[PodCast 282](https://anchor.fm/smartdrivingcars/episodes/) for a discussion
             of the content.  Alain
 
               or tap ">Sunday August 28, 2022
- [Tesla Releases FSD Beta 10 69
-              With New Occupancy Network](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DSZEQeQhCZqY&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998759972223%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=RNisoAvL%2B1T6Az0UbKHZJ0E2CdSBaEl4VSvLqPkxeYg%3D&reserved=0)
+ [Tesla Releases FSD Beta 10 69 With New Occupancy Network](https://www.youtube.com/watch?v=SZEQeQhCZqY)
 
 Tesla Daily, Aug. 22, "
           Looking at first impressions from Tesla's release of FSD Beta
-          10.69..." [Read
-                  more](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DSZEQeQhCZqY&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998760128456%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=JpVARf97A8X5RRgIyYY3nLsGX5BEubwaDU5rp%2B1rfCU%3D&reserved=0)[](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DSZEQeQhCZqY&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998760128456%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=JpVARf97A8X5RRgIyYY3nLsGX5BEubwaDU5rp%2B1rfCU%3D&reserved=0) Be sure to watch [Ashok Elluswamy's](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DjPCV4GKX9Dw&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998760128456%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=OiLpGEpPvsPArtxXPMH1fWjTiIst3Npv67qzy8CS7bE%3D&reserved=0)["Occupancy Networks" keynote
-            presentation](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DjPCV4GKX9Dw&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998760128456%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=OiLpGEpPvsPArtxXPMH1fWjTiIst3Npv67qzy8CS7bE%3D&reserved=0)  at CVPR on June 20, 2022.  Very
+          10.69..." [Read more](https://www.youtube.com/watch?v=SZEQeQhCZqY) Be sure to watch [Ashok Elluswamy's](https://www.youtube.com/watch?v=jPCV4GKX9Dw)["Occupancy Networks" keynote presentation](https://www.youtube.com/watch?v=jPCV4GKX9Dw)  at CVPR on June 20, 2022.  Very
             impressive, especially the use of training videos and it
             realization in FSD 10.69
 
 Also pertinent are
             video demonstrations of:
 
-* [Tesla
-                  FSD Beta V 10.69 Dominates Downtown Driving](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dtd24aq5tcKY&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998760128456%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=VYyzhHKOO8EI8lHyHa%2FhaXpzeR8vUB9lihx1vvPcj4U%3D&reserved=0)
+* [Tesla FSD Beta V 10.69 Dominates Downtown Driving](https://www.youtube.com/watch?v=td24aq5tcKY)
 
-* [FSD Beta 10.69
-                (2022.16.3.10) Release Notes](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.notateslaapp.com%2Fsoftware-updates%2Fversion%2F2022.16.3.10%2Frelease-notes&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998760128456%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=vHnx%2B%2FpttDFLpbdJlbatPjs7PxpfRLgl%2B%2Fs5Rm7hyrs%3D&reserved=0)
+* [FSD Beta 10.69 (2022.16.3.10) Release Notes](https://www.notateslaapp.com/software-updates/version/2022.16.3.10/release-notes)
 
-* [FSDBeta v10.69 - HEAVY
-                TRAFFIC - Unprotected Left Turns](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DxpzJPe1DrzQ&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998760128456%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=6yUo7ypckNnRwtQpmRkduECLI1p3VAhXtoLRcy0hZuE%3D&reserved=0)... Amazing that
+* [FSDBeta v10.69 - HEAVY TRAFFIC - Unprotected Left Turns](https://www.youtube.com/watch?v=xpzJPe1DrzQ)... Amazing that
               such turns are legal let alone FSD's routing algorithm
               deicing that this is on the best way to go.  Safety must
-              not be part of its objective function [C'mon Elon](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DGPGY1NG6sNU&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998760128456%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=RX0dGtqaicmWnF78bIiSThP5Z5khV3pnaZ3rmgoLtyQ%3D&reserved=0).
+              not be part of its objective function [C'mon Elon](https://www.youtube.com/watch?v=GPGY1NG6sNU).
 
-* [FSD Beta V 10.69 Initial
-                Impressions](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DsP7SEyIakJ8&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998760128456%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=YWAAgLxXTIVdtIRAFk3Ll5Gqgczqn41kCOdzMPBD%2Fv4%3D&reserved=0).  My impression is that 10.69 drove
+* [FSD Beta V 10.69 Initial Impressions](https://www.youtube.com/watch?v=sP7SEyIakJ8).  My impression is that 10.69 drove
               better than this tester who seemed intent on driving
               aggressively and not wanting to yield to pedestrians in
               crosswalks.  Hopefully no one at Tesla pays attention to
               this guy.
 
-* [Bullish News From Giga
-                Berlin Tours, Production Rumors, Terrible Toyota](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D7SoN5N0lTj8&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998760128456%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=ZR7i29zCPvYZClcFTWHvGJbnTCpKb4vxK6gY42kLAAg%3D&reserved=0)
+* [Bullish News From Giga Berlin Tours, Production Rumors, Terrible Toyota](https://www.youtube.com/watch?v=7SoN5N0lTj8)
 
-* [The Tesla Semi Is
-                Officially Here](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dc6sgX-cnOyI&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998760128456%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=H1R8jMaB%2B0X%2FxvRxJz6e1B4XTlKCBvB8fdQ6h0wD04w%3D&reserved=0)!
+* [The Tesla Semi Is Officially Here](https://www.youtube.com/watch?v=c6sgX-cnOyI)!
 
 My takeaway from the
             above is that FSD 10.69 is impressive but not near "Full"
@@ -1328,8 +1265,7 @@ Tesla must accept the
             Team-driving or ???   Alain
 
               tap ">Monday August 22, 2022
- [Can Tesla Data Help
-              Us Understand Car Crashes?](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.nytimes.com%2Finteractive%2F2022%2F08%2F18%2Fbusiness%2Ftesla-crash-data.html&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998760128456%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=stDPArmZSSffZy%2FtNbz29BWw0zTdTT1%2B4AyCXwah%2FP0%3D&reserved=0)
+ [Can Tesla Data Help Us Understand Car Crashes?](https://www.nytimes.com/interactive/2022/08/18/business/tesla-crash-data.html)
 
 C. Metz, Aug. 18,
           "Shortly before 2 p.m. on a clear July day in 2020, as Tracy
@@ -1360,15 +1296,14 @@ C. Metz, Aug. 18,
 
           It shows that 10 seconds before the accident, Autopilot was in
           control as the Tesla traveled down the highway at 77 miles per
-          hour. Then she prompted Autopilot to change lanes..." [Read more](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.nytimes.com%2Finteractive%2F2022%2F08%2F18%2Fbusiness%2Ftesla-crash-data.html&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998760128456%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=stDPArmZSSffZy%2FtNbz29BWw0zTdTT1%2B4AyCXwah%2FP0%3D&reserved=0)
+          hour. Then she prompted Autopilot to change lanes..." [Read more](https://www.nytimes.com/interactive/2022/08/18/business/tesla-crash-data.html)
             We've been calling for an independent analysis of the Tesla
             data for some time.  Privacy is easy to protect.  There is
             no need to know who owns or was operating each Tesla.  Also
-            see [ZoomCast 280](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fyoutu.be%2FVYDu99pKNCc&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998760128456%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=7TnDnGrw21PND0DLytTxtDBAR0L7G3CLWaju4fI8Rqs%3D&reserved=0) Alain
+            see [ZoomCast 280](https://youtu.be/VYDu99pKNCc) Alain
 
               or tap ">Saturday August 13, 2022
- [Tesla, GM Score Biggest
-              Share of $1.2 Billion EV Order From Startup Autonomy](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2022-08-09%2Ftesla-gm-ford-evs-included-in-1-2-billion-order-from-startup&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998760284697%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=f9US6fcpbWupH81DxtVxj7xnaPjnD1qTrHFIJzXvCqM%3D&reserved=0)
+ [Tesla, GM Score Biggest Share of $1.2 Billion EV Order From Startup Autonomy](https://www.bloomberg.com/news/articles/2022-08-09/tesla-gm-ford-evs-included-in-1-2-billion-order-from-startup)
 
 D. Hall, Aug. 9,
           "Tesla, GM, Volkswagen and Ford are among the automakers set
@@ -1381,7 +1316,7 @@ D. Hall, Aug. 9,
           $1.2 billion. With chip shortages limiting production capacity
           at most automakers, it's unclear how soon such a fleet could
           be amassed. The order represents 1.2% of the projected US
-          electric vehicle production through the end of next year... ." [Read more](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2022-08-09%2Ftesla-gm-ford-evs-included-in-1-2-billion-order-from-startup&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998760284697%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=f9US6fcpbWupH81DxtVxj7xnaPjnD1qTrHFIJzXvCqM%3D&reserved=0) Hmmmm...
+          electric vehicle production through the end of next year... ." [Read more](https://www.bloomberg.com/news/articles/2022-08-09/tesla-gm-ford-evs-included-in-1-2-billion-order-from-startup) Hmmmm...
             While this is a very interesting play for an individual to
             acquire a subscription to have a
             "Drive-it-Yourself" (DiY) electric car that gives the
@@ -1397,10 +1332,10 @@ D. Hall, Aug. 9,
             those that can DiY.
 
 See the Bloomberg
-            Video and well as SmartDrivingCars [ZoomCast 279](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fyoutu.be%2FQIKxxJoD2Ps%3Ft%3D2967&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998760284697%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=gfevaZGaSLT4PFp3LyhCfY3vxMUKJppE4d5A%2FGgCeMA%3D&reserved=0) / [PodCast 279](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fspotifyanchor-web.app.link%2Fe%2FUMfsxnc6psb&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998760284697%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=SiSKiu1y30vb4xNM%2Bq8x%2FOfOu4JrBPC60P3R84Ip97Y%3D&reserved=0)w/[Scott Painter, CEO Autonomy](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fspainter&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998760284697%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=IUaY6QoYFI7phOp3q80LCq75jSxfH0bAdYsbWNz21F0%3D&reserved=0)
+            Video and well as SmartDrivingCars [ZoomCast 279](https://youtu.be/QIKxxJoD2Ps?t=2967) / [PodCast 279](https://spotifyanchor-web.app.link/e/UMfsxnc6psb)w/[Scott Painter, CEO Autonomy](https://www.linkedin.com/in/spainter)
 
 I can readily envision
-            the extension of [Autonomy](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.autonomy.com%2F&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998760284697%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=hhC6%2FnH5v1NbfvcOI%2BjWHp5kMqv7KhNrWZ7vBQK85Kc%3D&reserved=0)'s DiY/MaaSS to
+            the extension of [Autonomy](https://www.autonomy.com/)'s DiY/MaaSS to
             MOVES/MaaS where "MOVESMobility, Inc." places a $n.m Billion
             RoboTaxi order with Tesla, (and/or GM, Toyota, VW, Benteler,
             Zoox, Baidu, Alibaba, AutoX, ...) to deploy safe, equitable,
@@ -1412,18 +1347,16 @@ I can readily envision
             (ODD).  😁  Alain
 
               Click or">Saturday August 6, 2022
- [Tesla's 2022 Shareholder Meeting
-              with Elon Musk](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Ds_2BU8vqbos&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998760284697%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=YQw5zAwAhQh5PiVYlmdgLb7CTJOJ5zRgB91M40dLYrM%3D&reserved=0)
+ [Tesla's 2022 Shareholder Meeting with Elon Musk](https://www.youtube.com/watch?v=s_2BU8vqbos)
 
-E. Musk, Aug. 4, ." [Read more](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fyoutu.be%2Fs_2BU8vqbos%3Ft%3D3500&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998760284697%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=5Hi%2FBTxFHkd2DZHbAgSqFc1AzkVsbOGkBiz%2BmnjWim8%3D&reserved=0) Hmmmm... Watch
+E. Musk, Aug. 4, ." [Read more](https://youtu.be/s_2BU8vqbos?t=3500) Hmmmm... Watch
             the Q & A portion starting about an hour in from the
             start.  Watch especially the comments about his vision of
             the Tesla RoboTaxi (aka driverless cars, what I prefer to
             call autonomousTaxis or aTaxis, the new "Modern Transit").
             The key visions are:
 
-[@
-                t=6375](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fyoutu.be%2Fs_2BU8vqbos%3Ft%3D6375&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998760284697%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=Yjj25AM4hW8Dc%2B%2BjcBiLVwSvJYkDtQq9b1xDutSQ5Jk%3D&reserved=0) ... the issue of how he sees
+[@ t=6375](https://youtu.be/s_2BU8vqbos?t=6375) ... the issue of how he sees
             these driverless vehicles being operated (deployed).
 
 While I don't agree
@@ -1453,7 +1386,7 @@ At the end of
           things, I think, probably, Tesla will be the most valuable
           company in the world."
 
-[@ t=7057](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fyoutu.be%2Fs_2BU8vqbos%3Ft%3D7057&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998760284697%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=Kb6j59qXIGYB5n6ARnraqPBqFHp1RV8TwsNRT7bOxGA%3D&reserved=0) Elon is asked "when
+[@ t=7057](https://youtu.be/s_2BU8vqbos?t=7057) Elon is asked "when
             will Tesla launch the first pilot city for the RoboTaxi
             business?
 
@@ -1492,7 +1425,7 @@ As you might suspect,
             of the first Teslas spread from California to New Jersey and
             beyond.
 
-[@ t=7417](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fyoutu.be%2Fs_2BU8vqbos%3Ft%3D7417&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998760284697%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=6huNxXKLuSj0XLo5U04EpNaNQxJFi5mdp6HUUCSHnV4%3D&reserved=0) Elon is asked about
+[@ t=7417](https://youtu.be/s_2BU8vqbos?t=7417) Elon is asked about
             the Boring Company.
 
 True, if one
@@ -1511,7 +1444,7 @@ True, if one
             travel.  They should all go underground.  There is much good
             that could be done.  The challenge is the above if.
 
-[@ t=6665](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fyoutu.be%2Fs_2BU8vqbos%3Ft%3D6665&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998760284697%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=LFScj58Q9iP8qxnsl2QEoOuG9tMUx%2FH090w54S8rsOw%3D&reserved=0)  "when disengaging
+[@ t=6665](https://youtu.be/s_2BU8vqbos?t=6665)  "when disengaging
           autoPilot with the wheel, the accelerator stays on. Please fix
           it!"
 
@@ -1561,8 +1494,7 @@ I believe ICC should be
             charge.   Alain
 
               tap ">Saturday July 30, 2022
- [GM's Cruise robotaxi unit
-              drives deeper into the red](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.reuters.com%2Fbusiness%2Fautos-transportation%2Fgms-cruise-robotaxi-unit-drives-deeper-into-red-2022-07-26%2F&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998760284697%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=%2FwFfvDKvscFoudQFKIotIhhGat4JJDO0L8lI%2FT2izqo%3D&reserved=0)
+ [GM's Cruise robotaxi unit drives deeper into the red](https://www.reuters.com/business/autos-transportation/gms-cruise-robotaxi-unit-drives-deeper-into-red-2022-07-26/)
 
 Reuters, July 26,
           "General Motors Co (GM.N) has lost nearly $5 billion since
@@ -1573,7 +1505,7 @@ Reuters, July 26,
           GM said on Tuesday it lost $500 million on Cruise during the
           second quarter - more than $5 million a day - as it began
           charging for rides in a limited area of San Francisco.  ... that may be the
-            case for the last quarter, but the chart below from [GM's 6/30/222 10-Q](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.dropbox.com%2Fs%2Figs6ymicy8l10bi%2FLinks2PodCast_55-275.pdf%3Fdl%3D0&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998760440938%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=audIjAkwQD1DCZK6IgugQAdnSPfH4LZG%2Fr4bo%2BoUMy0%3D&reserved=0)  Shows
+            case for the last quarter, but the chart below from [GM's 6/30/222 10-Q](https://www.dropbox.com/s/igs6ymicy8l10bi/Links2PodCast_55-275.pdf?dl=0)  Shows
             ($800M) for the last 6 months or $4.38/day when divided by
             182.625   Whew!😅...
 
@@ -1602,12 +1534,11 @@ Cruise's losses for the
           Chief Executive Mary Barra said on Tuesday she is still
           bullish on Cruise, and reaffirmed a forecast that the unit
           could generate $50 billion a year in revenue from automated
-          vehicle services and technology by 2030.  ." [Read more](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.reuters.com%2Fbusiness%2Fautos-transportation%2Fgms-cruise-robotaxi-unit-drives-deeper-into-red-2022-07-26%2F&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998760440938%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=Uukh6RpPwwBh9uLzLVW7jDUO1O93PBfxoje858yj48w%3D&reserved=0) Hmmmm...
+          vehicle services and technology by 2030.  ." [Read more](https://www.reuters.com/business/autos-transportation/gms-cruise-robotaxi-unit-drives-deeper-into-red-2022-07-26/) Hmmmm...
             Nice optimism.  The source of the reality check above comes
-            from [GM's 6/30/222 10-Q](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.dropbox.com%2Fs%2Flwm8r1u7kgf1kxc%2F0001467858-22-000094%25281%2529.pdf%3Fdl%3D0&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998760440938%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=jJJPGRhyuv%2BNhVKBkCGrt%2FqvsNjwd72%2BpXGsWA7GSSI%3D&reserved=0).
+            from [GM's 6/30/222 10-Q](https://www.dropbox.com/s/lwm8r1u7kgf1kxc/0001467858-22-000094%281%29.pdf?dl=0).
             Start reading from page 41.  then on page 43:
 
-[](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.dropbox.com%2Fs%2Flwm8r1u7kgf1kxc%2F0001467858-22-000094%25281%2529.pdf%3Fdl%3D0&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998760440938%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=jJJPGRhyuv%2BNhVKBkCGrt%2FqvsNjwd72%2BpXGsWA7GSSI%3D&reserved=0)
 
 Whoa!  The only nice
             thing that can be imagined is by assuming that they've had
@@ -1770,8 +1701,7 @@ If Mary expects this to
             seriously. Please call me! Alain
 
               tap ">Monday July 25, 2022
-  [Baidu unveils
-              autonomous vehicle without steering wheel](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.reuters.com%2Ftechnology%2Fbaidu-unveils-autonomous-vehicle-without-steering-wheel-2022-07-21%2F&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998760440938%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=dY%2Ftd%2F01L1MDqEqZkEds0gb0%2FDvifJ4zX309rA3i03E%3D&reserved=0)
+  [Baidu unveils autonomous vehicle without steering wheel](https://www.reuters.com/technology/baidu-unveils-autonomous-vehicle-without-steering-wheel-2022-07-21/)
 
 Reuters, July 16,
           "China's search engine giant Baidu Inc on Thursday unveiled
@@ -1787,8 +1717,8 @@ Reuters, July 16,
           thousands of AVs across China," Baidu's chief executive Robin
           Li said at the Baidu World conference. "We are moving towards
           a future where taking a robotaxi will be half the cost of
-          taking a taxi today." [Read more](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.reuters.com%2Ftechnology%2Fbaidu-unveils-autonomous-vehicle-without-steering-wheel-2022-07-21%2F&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998760440938%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=dY%2Ftd%2F01L1MDqEqZkEds0gb0%2FDvifJ4zX309rA3i03E%3D&reserved=0) Hmmmm...
-            Really?? [See video](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DbC5ItyrOeEk&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998760440938%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=sj4lXAYa7XE9c4F%2B855pP8qzMsdorwHKYLRNtknYdOo%3D&reserved=0).  Where do I buy 10
+          taking a taxi today." [Read more](https://www.reuters.com/technology/baidu-unveils-autonomous-vehicle-without-steering-wheel-2022-07-21/) Hmmmm...
+            Really?? [See video](https://www.youtube.com/watch?v=bC5ItyrOeEk).  Where do I buy 10
             for immediate delivery to New Jersey with option to buy 100
             more by EoY'22 and 1st inline to buy 1,000 more by EoY'23.  [eMail me](mailto:alaink@princeton.edu)!!!
 
@@ -1800,9 +1730,7 @@ While the design is
             click-bait.  But... that is a really big if . 🙁  Alain
 
               Click or t">Saturday July 16, 2022
-  [MAY MOBILITY CLOSES $111 MILLION
-              SERIES C FUNDING, BEGINS PRELIMINARY DEVELOPMENT ON
-              TOYOTA'S NEXT GENERATION MOBILITY PLATFORM](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fmaymobility.com%2Fmay-mobility-closes-111-million-series-c-funding-begins-preliminary-development-on-toyotas-next-generation-mobility-platform%2F&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998760440938%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=3AnbRue1WIkBUfv3Asb8KAf5mwYY7Hg%2BUhjdoGTJ%2FWU%3D&reserved=0)
+  [MAY MOBILITY CLOSES $111 MILLION SERIES C FUNDING, BEGINS PRELIMINARY DEVELOPMENT ON TOYOTA'S NEXT GENERATION MOBILITY PLATFORM](https://maymobility.com/may-mobility-closes-111-million-series-c-funding-begins-preliminary-development-on-toyotas-next-generation-mobility-platform/)
 
 Press release, July
           12,"May Mobility, a leader in the development and deployment
@@ -1813,14 +1741,13 @@ Press release, July
           development on another vehicle design centered around
           mobility, Toyota's e-Palette, signaling the next potential
           milestone as it seeks new ways to bring equitable mobility
-          solutions to the masses...."    [Read more](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fmaymobility.com%2Fmay-mobility-closes-111-million-series-c-funding-begins-preliminary-development-on-toyotas-next-generation-mobility-platform%2F&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998760440938%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=3AnbRue1WIkBUfv3Asb8KAf5mwYY7Hg%2BUhjdoGTJ%2FWU%3D&reserved=0) Hmmmm...
+          solutions to the masses...."    [Read more](https://maymobility.com/may-mobility-closes-111-million-series-c-funding-begins-preliminary-development-on-toyotas-next-generation-mobility-platform/) Hmmmm...
             Hopefully this will enable May Mobility to take seriously
             Trenton MOVES and other MOVES-style deployment initiatives
             in New Jersey and beyond.  Alain
 
               tap ">Saturday July 9, 2022
-  [U.S. agency probing
-              self-driving Cruise car crash in California](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.reuters.com%2Fbusiness%2Fautos-transportation%2Fus-agency-probing-cruise-crash-california-2022-07-07%2F&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998760440938%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=ZuuShhgUlokC5XFSa%2BlisIu47loYOOCdj7CLMwfh7FE%3D&reserved=0)
+  [U.S. agency probing self-driving Cruise car crash in California](https://www.reuters.com/business/autos-transportation/us-agency-probing-cruise-crash-california-2022-07-07/)
 
           D.Shepardson, July 7, "The National Highway Traffic Safety
           Administration has opened a special investigation into a
@@ -1830,8 +1757,8 @@ Press release, July
           The auto safety agency did not identify the specific crash,
           but a Cruise vehicle operating in driverless autonomous mode
           was involved in a crash involving minor injuries on June 3 in
-          San Francisco, according to a [report filed](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.dmv.ca.gov%2Fportal%2Ffile%2Fcruise_060322-pdf&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998760440938%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=G2m%2B0m258ggn29DkM%2ByrkyoTQI%2BNWIOgc82J5R3fXHU%3D&reserved=0) with the
-          California Department of Motor Vehicles. ... "  [Read more](https://nam12.safelinks.protection.outlook.com/?url=http%3A%2F%2Fwww.michaellsena.com%2Fwp-content%2Fuploads%2F2022%2F06%2FThe-Dispatcher_July_2022.pdf&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998760440938%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=g6e6ZNmQqMY7zhYwCjGow%2ByfB6tZqA6P5tQ51j1Z5x8%3D&reserved=0) Hmmmm... The
+          San Francisco, according to a [report filed](https://www.dmv.ca.gov/portal/file/cruise_060322-pdf) with the
+          California Department of Motor Vehicles. ... "  [Read more](http://www.michaellsena.com/wp-content/uploads/2022/06/The-Dispatcher_July_2022.pdf) Hmmmm... The
             police report indicates that the Cruise vehicle stopped
             while making a protected left turn, yielding to avoid being
             T-boned by a speeding Prius that might run its red. Instead
@@ -1846,8 +1773,7 @@ Press release, July
  THE
             DISPATCHER
 
-   [Princeton Fifth
-              Annual SmartDrivingCars Summit](https://nam12.safelinks.protection.outlook.com/?url=http%3A%2F%2Fwww.michaellsena.com%2Fwp-content%2Fuploads%2F2022%2F06%2FThe-Dispatcher_July_2022.pdf&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998760597180%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=Ovb0SZgBu6FBEcyu4f3Fe4CGru2gO9ojmjmLwutVXqE%3D&reserved=0)
+   [Princeton Fifth Annual SmartDrivingCars Summit](http://www.michaellsena.com/wp-content/uploads/2022/06/The-Dispatcher_July_2022.pdf)
 
 June
           24, M. Sena "THE DISPATCHER, July 2022
@@ -1877,30 +1803,27 @@ IN THIS ISSUE
           Digital Maps for the Vehicle – 1970-2022
           ......................24  ...
 
-" [Read more](https://nam12.safelinks.protection.outlook.com/?url=http%3A%2F%2Fwww.michaellsena.com%2Fwp-content%2Fuploads%2F2022%2F06%2FThe-Dispatcher_July_2022.pdf&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998760597180%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=Ovb0SZgBu6FBEcyu4f3Fe4CGru2gO9ojmjmLwutVXqE%3D&reserved=0)Hmmmm... Another
+" [Read more](http://www.michaellsena.com/wp-content/uploads/2022/06/The-Dispatcher_July_2022.pdf)Hmmmm... Another
             great edition and very well written summary of the 5th
             Summit.  Alain
 
               Click ">Saturday June 18, 2022
- [NHTSA Releases
-              Initial Data on Safety Performance of Advanced Vehicle
-              Technologies](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.nhtsa.gov%2Fpress-releases%2Finitial-data-release-advanced-vehicle-technologies&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998760597180%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=%2FbjQzS%2FNwtQa%2FOa%2BEgZEkjFkaYNH3Oa7kCwZ%2FODIBi4%3D&reserved=0)
+ [NHTSA Releases Initial Data on Safety Performance of Advanced Vehicle Technologies](https://www.nhtsa.gov/press-releases/initial-data-release-advanced-vehicle-technologies)
 
 June 15, Press release,
           "Today, as part of the U.S. Department of Transportation's
           efforts to increase roadway safety and encourage innovation,
-          the National Highway Traffic Safety Administration [published the initial
-            round of data](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.nhtsa.gov%2Flaws-regulations%2Fstanding-general-order-crash-reporting&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998760597180%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=ifWm89IRoYr%2F08MIwnPX5gkYxILEZb0UNb3mUgTire0%3D&reserved=0) it has collected through its S[tanding General Order](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.nhtsa.gov%2Fnode%2F103801&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998760597180%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=IOnNnOgonpBxhyQ76USgkMgfzfPdfpBevIihStUMTt4%3D&reserved=0) issued last
+          the National Highway Traffic Safety Administration [published the initial round of data](https://www.nhtsa.gov/laws-regulations/standing-general-order-crash-reporting) it has collected through its S[tanding General Order](https://www.nhtsa.gov/node/103801) issued last
           year and initial accompanying reports summarizing this data.
 
           The SAE Level 2 advanced driver assistance systems summary
-          report i[s available here](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.nhtsa.gov%2Fdocument%2Fsummary-report-standing-general-order-adas-l2&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998760597180%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=OfqvY3x1QIswyl8EXuPNb0NIUKUIGyMiKjbX2trT48U%3D&reserved=0),
+          report i[s available here](https://www.nhtsa.gov/document/summary-report-standing-general-order-adas-l2),
           while the SAE Levels 3-5 automated driving systems summary
-          report [is available here](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.nhtsa.gov%2Fdocument%2Fsummary-report-standing-general-order-ads&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998760597180%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=GSiqrBoob2lNXcTW1%2B%2FGsqZIsIzdhyX6No01I1J5%2BxU%3D&reserved=0).
-          Going forward, NHTSA will release data updates monthly..."   [Read more](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.nhtsa.gov%2Fpress-releases%2Finitial-data-release-advanced-vehicle-technologies&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998760597180%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=%2FbjQzS%2FNwtQa%2FOa%2BEgZEkjFkaYNH3Oa7kCwZ%2FODIBi4%3D&reserved=0)Hmmmm...
+          report [is available here](https://www.nhtsa.gov/document/summary-report-standing-general-order-ads).
+          Going forward, NHTSA will release data updates monthly..."   [Read more](https://www.nhtsa.gov/press-releases/initial-data-release-advanced-vehicle-technologies)Hmmmm...
             This is a good start; however, as NHTSA repeats many times,
             this is just a start and there are many "data limitations".
-            The most severe may well be the possibility of substantial "[sampling bias](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FSampling_bias&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998760597180%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=CCpEIcn1gEDVgjWkBSuCpAoeRxXilKuxyn0KfgsKAQw%3D&reserved=0)", the most
+            The most severe may well be the possibility of substantial "[sampling bias](https://en.wikipedia.org/wiki/Sampling_bias)", the most
             severe of which is that each OEM sourced the reported data
             very differently.  That makes the data between OEMs
             incomparable.
@@ -1912,8 +1835,7 @@ Also un reported is
 
 Finally, 392 crashes
             of "Level 2" cars were reported during the "10" month period
-            of July 2021 and May 15, 2022.  About [12 million vehicles
-              are involved in traffic crashes](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.statista.com%2Ftopics%2F3708%2Froad-accidents-in-the-us%2F%23topicHeader__wrapper&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998760597180%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=dwOaPjC4qxxCVERby4OWFIsTWlrrY4YcRDuu5xSTdmU%3D&reserved=0) every year among the
+            of July 2021 and May 15, 2022.  About [12 million vehicles are involved in traffic crashes](https://www.statista.com/topics/3708/road-accidents-in-the-us/#topicHeader__wrapper) every year among the
             283 million vehicles that operate in the US.  Assuming any
             one vehicle is unlikely to be involved in more than one
             crash per yer, it means that each vehicle, on average is
@@ -1956,7 +1878,7 @@ Consequently, either,
 
 * likely, only Tesla has the
                   opportunity to either "know all" or sample effectively
-                  because of their [OtA monitoring](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.wired.com%2Finsights%2F2014%2F02%2Fteslas-air-fix-best-example-yet-internet-things%2F&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998760597180%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=8N7oGM%2FxfLSvcmzyzF5%2FJyC3KNQMD%2FD4A0lNdUFedhk%3D&reserved=0) of
+                  because of their [OtA monitoring](https://www.wired.com/insights/2014/02/teslas-air-fix-best-example-yet-internet-things/) of
                   its vehicles.  Everyone else has conveniently kept
                   their heads in the sand. Mercedes didn't report any;
                   however, during that period I think my Intelligent
@@ -1972,9 +1894,9 @@ What needs
             improvement is sourcing of the incidents.  Maybe OtA should
             be mandated.  At minimum, the VIN should specify the
             existence of theses capabilities.  Then normal police
-            reportings can begin to "automatically" access the "[black box event recorders](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FEvent_data_recorder&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998760597180%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=tFnOZQ7xQDcIQkc0cw54FUKk%2BOQM64DN31OIkhYfeqc%3D&reserved=0)"
-            (see also [Accident data recorder](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FAccident_data_recorder&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998760597180%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=D9f%2BmZPKFSdJpDAmrvSdumk7xc%2FqAO31u1AhaDWS5KY%3D&reserved=0) and [NHTSA](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.nhtsa.gov%2Fresearch-data%2Fevent-data-recorder&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998760597180%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=x7N9PUahJxxyKBXkETDblLtoejWZnt1wNCwQV9AE8VY%3D&reserved=0)) that are in
-            most cars today.  Unfortunately, [privacy concerns](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.ncsl.org%2Fresearch%2Ftelecommunications-and-information-technology%2Fprivacy-of-data-from-event-data-recorders.aspx&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998760753421%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=PR20f97AUdq04yTeIkG1VPj%2BE04qW2ySpmaxON4Kau4%3D&reserved=0) makes this
+            reportings can begin to "automatically" access the "[black box event recorders](https://en.wikipedia.org/wiki/Event_data_recorder)"
+            (see also [Accident data recorder](https://en.wikipedia.org/wiki/Accident_data_recorder) and [NHTSA](https://www.nhtsa.gov/research-data/event-data-recorder)) that are in
+            most cars today.  Unfortunately, [privacy concerns](https://www.ncsl.org/research/telecommunications-and-information-technology/privacy-of-data-from-event-data-recorders.aspx) makes this
             not-easy.  So here we are.  It wont be easy to do much
             better, but we should continue to try.
 
@@ -2012,27 +1934,25 @@ But when one is in
 
               or tap">Saturday June 11, 2022
 3
-            minute Promo: [https://youtu.be/q5Ov_dPuRV4](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fyoutu.be%2Fq5Ov_dPuRV4&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998760753421%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=LkK79y1YUOIfrySlXDyIXiP%2B%2FFBzkloOeOAnpXlw6hM%3D&reserved=0)
+            minute Promo: [https://youtu.be/q5Ov_dPuRV4](https://youtu.be/q5Ov_dPuRV4)
 
  The
-            5th Summit: [https://www.cartsmobility.com/summit](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.cartsmobility.com%2Fsummit&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998760753421%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=2CirN3RM6f6Tu7oFpggLcJuXJhxZ97xDeFhqug4siXA%3D&reserved=0)
+            5th Summit: [https://www.cartsmobility.com/summit](https://www.cartsmobility.com/summit)
 
- [Summit Preview Tour](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fimages.squarespace-cdn.com%2Fcontent%2Fv1%2F614ac4ef54d1aa1941cc4a60%2Ff3abf253-396d-46cf-bb8b-14b664c073ee%2FSmartDrivingCars-Summit-Preview-FinalFinal.jpg%3Fformat%3D1000w&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998760753421%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=N5i9anw%2BB4E9NiYKqraeaXg%2FmXl2BLwZt2khsQcc0So%3D&reserved=0)
+ [Summit Preview Tour](https://images.squarespace-cdn.com/content/v1/614ac4ef54d1aa1941cc4a60/f3abf253-396d-46cf-bb8b-14b664c073ee/SmartDrivingCars-Summit-Preview-FinalFinal.jpg?format=1000w)
 
-  [Dr. Steve Still's Tribute to
-              Heywood Patterson](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fvimeo.com%2F716226813%2F1927a6fb4b&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998760753421%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=5O0TMtZrNMS5lDJdZd6L3NkQ51pWE70ZB8ZfYn2UFsM%3D&reserved=0)
+  [Dr. Steve Still's Tribute to Heywood Patterson](https://vimeo.com/716226813/1927a6fb4b)
 
 S. Still, June 3, "...
           Heywood Patterson, 67, He often drove members of his church to
           Tops, helping them load their groceries into his car and then
           taking them home. "That's what eh did all the time," Deborah
-          Patterson said. "That's what the loved to do".  ..." [Watch Video](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fvimeo.com%2F716226813%2F1927a6fb4b&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998760753421%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=5O0TMtZrNMS5lDJdZd6L3NkQ51pWE70ZB8ZfYn2UFsM%3D&reserved=0)Hmmmm... A
+          Patterson said. "That's what the loved to do".  ..." [Watch Video](https://vimeo.com/716226813/1927a6fb4b)Hmmmm... A
             principal reason for "Trenton MOVES"-like deployments is to
             do what Heywood Patterson "loved to do" for the many.  Alain
 
               or tap">Saturday May 28, 2022
-[The Evolving
-              Business of Powering Our Vehicles](https://nam12.safelinks.protection.outlook.com/?url=http%3A%2F%2Fwww.michaellsena.com%2Fwp-content%2Fuploads%2F2022%2F05%2FThe-Dispatcher_June_2022.pdf&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998760753421%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=m14MVJc%2F5glb8ZgVHutni7x%2FKmgUu0dw9j9E3ATMFgc%3D&reserved=0)
+[The Evolving Business of Powering Our Vehicles](http://www.michaellsena.com/wp-content/uploads/2022/05/The-Dispatcher_June_2022.pdf)
 
 M. Sena, May 24, "New Car
           Assessment Programs (NCAPs) all around the world have created
@@ -2057,8 +1977,7 @@ M. Sena, May 24, "New Car
             Every month, great reading.  Enjoy!  Alain
 
               tap ">Sunday May 15, 2022
-  [From pricing carbon to fighting
-              opioid abuse, ORFE showcased top senior projects](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fengineering.princeton.edu%2Fnews%2F2022%2F05%2F11%2Fpricing-carbon-fighting-opioid-abuse-orfe-showcased-top-senior-projects&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998760753421%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=2IsPEOWzSqE1YEITyPlPGN1FW%2Bb%2BVJZbrbWMF0mNiFo%3D&reserved=0)
+  [From pricing carbon to fighting opioid abuse, ORFE showcased top senior projects](https://engineering.princeton.edu/news/2022/05/11/pricing-carbon-fighting-opioid-abuse-orfe-showcased-top-senior-projects)
 
 A. Nathans, May 11,
           "When Serena Ren presented her senior thesis on using machine
@@ -2071,46 +1990,38 @@ A. Nathans, May 11,
           But on May 4, Ren and Luo finally got to see each other's
           presentations in a classroom in Sherrerd Hall, thanks to the
           department's first-ever event in which selected students
-          present their thesis work to the whole department.... "  [Read more](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fengineering.princeton.edu%2Fnews%2F2022%2F05%2F11%2Fpricing-carbon-fighting-opioid-abuse-orfe-showcased-top-senior-projects&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998760753421%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=2IsPEOWzSqE1YEITyPlPGN1FW%2Bb%2BVJZbrbWMF0mNiFo%3D&reserved=0)  Hmmmm...  I'm so
+          present their thesis work to the whole department.... "  [Read more](https://engineering.princeton.edu/news/2022/05/11/pricing-carbon-fighting-opioid-abuse-orfe-showcased-top-senior-projects)  Hmmmm...  I'm so
             proud!  Hopefully we'll be able to release the video so you
             can enjoy. Keep trying the link:
 
-  [Princeton ORFE Class of 2022 Senior
-              Thesis Symposium "Best 8"](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fyoutu.be%2FRlrHnI5qvA0&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998760753421%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=ZmMzkkWsGDAhnwHlewaq2rq%2BuUnf6qnbiZ1wfKw%2FTPo%3D&reserved=0)
+  [Princeton ORFE Class of 2022 Senior Thesis Symposium "Best 8"](https://youtu.be/RlrHnI5qvA0)
 
 * Isabelle
-            Grosgogeat "[Impact of women and
-                minority ownership on private equity](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DRlrHnI5qvA0%26%26t%3D20s&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998760753421%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=Nk4gYMJijaJSuHP3qY%2B8hZEV8acBCGCP%2Fk4oI7zWYw8%3D&reserved=0)"
+            Grosgogeat "[Impact of women and minority ownership on private equity](https://www.youtube.com/watch?v=RlrHnI5qvA0&&t=20s)"
 
 * Joyce
-            Luo "[Equitable data-driven resource
-                allocation to fight the opioid pandemic](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fyoutu.be%2FRlrHnI5qvA0%3Ft%3D1184&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998760753421%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=KMZrn4wM3Gd8tf069QC5NxscXT6voNjOJHeTm5fcNOg%3D&reserved=0)"
+            Luo "[Equitable data-driven resource allocation to fight the opioid pandemic](https://youtu.be/RlrHnI5qvA0?t=1184)"
 
 * Caroline
-            Noonan "[The impact of carbon price on
-                power plant dispatch, production costs, and total
-                emissions](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fyoutu.be%2FRlrHnI5qvA0%3Ft%3D1903&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998760909659%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=CFE%2BvggYYqPtHHkTTdILCR5PUwZ3gORmruY2Mtevy0s%3D&reserved=0)"
+            Noonan "[The impact of carbon price on power plant dispatch, production costs, and total emissions](https://youtu.be/RlrHnI5qvA0?t=1903)"
 
 * Hari
-            Ramakrishnan "[Lighting up dark pools](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fyoutu.be%2FRlrHnI5qvA0%3Ft%3D3026&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998760909659%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=3y0yn5%2BtTX9siLQYdgK5%2Fzh7Yzee75hV1w%2BxbwgfnQQ%3D&reserved=0)"
+            Ramakrishnan "[Lighting up dark pools](https://youtu.be/RlrHnI5qvA0?t=3026)"
 
 * Serena
-            Ren "[Automatic art appraisals](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fyoutu.be%2FRlrHnI5qvA0%3Ft%3D3967&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998760909659%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=yWj8UaKkJjcCw5inoCZGBLP4NsuoezpzhosY4HgrsXc%3D&reserved=0)"
+            Ren "[Automatic art appraisals](https://youtu.be/RlrHnI5qvA0?t=3967)"
 
 * Mitchell
-            Stroebell "[A comparison of advanced player
-                statistics for the NBA](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fyoutu.be%2FRlrHnI5qvA0%3Ft%3D4827&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998760909659%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=jOoh7DaWX2XKvmgBB%2FDdelMir4m5bFEJaJy%2FT2eWNm4%3D&reserved=0)"
+            Stroebell "[A comparison of advanced player statistics for the NBA](https://youtu.be/RlrHnI5qvA0?t=4827)"
 
 * Jack
-            Woll "[Pairs trading and volatility](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fyoutu.be%2FRlrHnI5qvA0%3Ft%3D5673&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998760909659%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=SOJMV8NgtcDEdXaF3M2QK31L%2BQT0c030k%2FRWDU1qwJU%3D&reserved=0)"
+            Woll "[Pairs trading and volatility](https://youtu.be/RlrHnI5qvA0?t=5673)"
 
 * Andre
-            Yin "[Equity trading strategies based
-                on macroeconomic event analysis](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fyoutu.be%2FRlrHnI5qvA0%3Ft%3D6650&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998760909659%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=284K6jmB2L3WtzGXaUjSy%2FUFaNCMYDsXZXV%2BpEK2pEM%3D&reserved=0)"
+            Yin "[Equity trading strategies based on macroeconomic event analysis](https://youtu.be/RlrHnI5qvA0?t=6650)"
 
               tap ">Saturday May 7, 2022
-  [PAVE VIRTUAL PANEL "AVS AND
-              PUBLIC GOOD: TRENTON MOVES"](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fpavecampaign.org%2Fevent%2Favs-and-public-good-trenton-moves-2%2F&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998760909659%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=OOE0udhHJuKsT7aQRCyDL%2FQLf7i54NfBukpvSwh%2F%2B3s%3D&reserved=0)
+  [PAVE VIRTUAL PANEL "AVS AND PUBLIC GOOD: TRENTON MOVES"](https://pavecampaign.org/event/avs-and-public-good-trenton-moves-2/)
 
 PAVE, May 4,
           "Autonomous vehicle technologies offer incredible potential:
@@ -2133,13 +2044,12 @@ PAVE, May 4,
           access to a single automobile, or no access at all. Our
           panelists will detail the program, describing how it works,
           the results it has achieved, and their vision for the
-          future......"  [Read more](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fpavecampaign.org%2Fevent%2Favs-and-public-good-trenton-moves-2%2F&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998760909659%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=OOE0udhHJuKsT7aQRCyDL%2FQLf7i54NfBukpvSwh%2F%2B3s%3D&reserved=0)  Hmmmm...   Very nice.  Be sure
-            to[watch video](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fyoutu.be%2FKawGghbte4s&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998760909659%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=5oGyFBD9d4yOdNjRH4rdSIbS%2FruGBEhmNwocAnVDk1s%3D&reserved=0) 😁 and see [ZoomCast 267](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fyoutu.be%2FmJLwot_SfrI%3Ft%3D1137&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998760909659%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=xvwfmoU8LthIJnymrQdiJxzEXUU1sNtOF7KVkzNs4xg%3D&reserved=0) Alain
+          future......"  [Read more](https://pavecampaign.org/event/avs-and-public-good-trenton-moves-2/)  Hmmmm...   Very nice.  Be sure
+            to[watch video](https://youtu.be/KawGghbte4s) 😁 and see [ZoomCast 267](https://youtu.be/mJLwot_SfrI?t=1137) Alain
 
               Click or tap ">Friday, April 30,
               2022
-  [NJDOT Commissioner
-              Gutierrez-Scaccetti and the Trenton NJ MOVES Program](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fallenovery.podbean.com%2Fe%2Fpropel-njdot-commissioner-gutierrez-scaccetti-and-the-trenton-nj-moves-program%2F&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998760909659%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=j9URY4WSUTOTAzGS%2Bg%2BdKVLDqPRKAX7pC89OX8wIGH4%3D&reserved=0)
+  [NJDOT Commissioner Gutierrez-Scaccetti and the Trenton NJ MOVES Program](https://allenovery.podbean.com/e/propel-njdot-commissioner-gutierrez-scaccetti-and-the-trenton-nj-moves-program/)
 
 P. Keller, April 29,
           "New Jersey recently announced a $5 million grant for the
@@ -2147,7 +2057,7 @@ P. Keller, April 29,
           MOVES Project. The grant to the City of Trenton will support
           the planned start up and eventual deployment of 100 Autonomous
           Vehicles that will provide an on-demand automated transit
-          system to serve the 90,000 residents of Trenton....."  [Read more](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fallenovery.podbean.com%2Fe%2Fpropel-njdot-commissioner-gutierrez-scaccetti-and-the-trenton-nj-moves-program%2F&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998760909659%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=j9URY4WSUTOTAzGS%2Bg%2BdKVLDqPRKAX7pC89OX8wIGH4%3D&reserved=0)  Hmmmm...   Very nice.
+          system to serve the 90,000 residents of Trenton....."  [Read more](https://allenovery.podbean.com/e/propel-njdot-commissioner-gutierrez-scaccetti-and-the-trenton-nj-moves-program/)  Hmmmm...   Very nice.
 
 H.
           Jin, April 6, "Electric carmaker Tesla (TSLA.O) will make a
@@ -2162,7 +2072,7 @@ H.
 
           "Massive scale. Full self-driving. There's going to be
           a dedicated robotaxi," Musk told a large crowd at the
-          factory...." [Read more](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.reuters.com%2Fbusiness%2Fautos-transportation%2Ftesla-open-texas-factory-critical-growth-ambitions-2022-04-07%2F&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998761065900%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=CNnQViCunmwjmTlYFnzsvlZIc%2F9PLOM4Bw6HI3gYD2g%3D&reserved=0)
+          factory...." [Read more](https://www.reuters.com/business/autos-transportation/tesla-open-texas-factory-critical-growth-ambitions-2022-04-07/)
 
 Hmmmm... Wow! It was
             brilliant for Elon to begin focusing his EVs on rich
@@ -2175,11 +2085,11 @@ Elon followed the
             enabled the upper-middle class that doesn't have a backup
             fleet and needs to have a toy and reliably go back and forth
             to grandma's house.  Viola!!! No longer just a toy.
-            Seamless evolution to "[Massive Scale](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.reuters.com%2Fbusiness%2Fautos-transportation%2Ftesla-open-texas-factory-critical-growth-ambitions-2022-04-07%2F&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998761065900%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=CNnQViCunmwjmTlYFnzsvlZIc%2F9PLOM4Bw6HI3gYD2g%3D&reserved=0)" scale
+            Seamless evolution to "[Massive Scale](https://www.reuters.com/business/autos-transportation/tesla-open-texas-factory-critical-growth-ambitions-2022-04-07/)" scale
             and Massive Profitability.
 
 RoboTaxis' evolution
-            to "[Massive Scale](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.reuters.com%2Fbusiness%2Fautos-transportation%2Ftesla-open-texas-factory-critical-growth-ambitions-2022-04-07%2F&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998761065900%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=CNnQViCunmwjmTlYFnzsvlZIc%2F9PLOM4Bw6HI3gYD2g%3D&reserved=0)" is
+            to "[Massive Scale](https://www.reuters.com/business/autos-transportation/tesla-open-texas-factory-critical-growth-ambitions-2022-04-07/)" is
             turning out to be different.  Starting with rich
             WesternStaters doesn't seem to be working sociologically for
             Waymo.  The rides offered seem to be taken for entertainment
@@ -2207,7 +2117,7 @@ For those that don't
             endearment, respect, love, appreciation, loyalty, and use.
 
 Consequently, if Elon
-            is really serious about achieving "[Massive Scale](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.reuters.com%2Fbusiness%2Fautos-transportation%2Ftesla-open-texas-factory-critical-growth-ambitions-2022-04-07%2F&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998761065900%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=CNnQViCunmwjmTlYFnzsvlZIc%2F9PLOM4Bw6HI3gYD2g%3D&reserved=0)"
+            is really serious about achieving "[Massive Scale](https://www.reuters.com/business/autos-transportation/tesla-open-texas-factory-critical-growth-ambitions-2022-04-07/)"
             then he should basically flip his Tesla strategy and start
             by focusing on serving the mobility needs of those that will
             fully appreciate and gain the most personal value from his
@@ -2220,7 +2130,7 @@ Consequently, if Elon
               substantially change their lives for the better.
 
 These are the
-            customers of [Trenton MOVES](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.cartsmobility.com%2Fblog%2Fkornhauser-trb-2022&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998761065900%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=TVx%2B34eEHzU4dM7m%2Foqir0kGwYP3Fh8BfBHuu%2FnW8jg%3D&reserved=0);
+            customers of [Trenton MOVES](https://www.cartsmobility.com/blog/kornhauser-trb-2022);
             only about 50,000 of Trenton's 90,000 population; but 50,000
             that will really appreciate you.  Start by only serving
             Trenton's 8 square mile area with about 100 vehicles and
@@ -2235,17 +2145,16 @@ They'll be so
             .....
 
 That's the natural
-            road to "[Massive Scale](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.reuters.com%2Fbusiness%2Fautos-transportation%2Ftesla-open-texas-factory-critical-growth-ambitions-2022-04-07%2F&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998761065900%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=CNnQViCunmwjmTlYFnzsvlZIc%2F9PLOM4Bw6HI3gYD2g%3D&reserved=0)"
+            road to "[Massive Scale](https://www.reuters.com/business/autos-transportation/tesla-open-texas-factory-critical-growth-ambitions-2022-04-07/)"
             for Mobility for all.   Start with those in most need and
             evolve to convert those that will leave their own cars
             parked in their driveway.
 
-"[Massive Scale](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.reuters.com%2Fbusiness%2Fautos-transportation%2Ftesla-open-texas-factory-critical-growth-ambitions-2022-04-07%2F&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998761065900%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=CNnQViCunmwjmTlYFnzsvlZIc%2F9PLOM4Bw6HI3gYD2g%3D&reserved=0)"
-              starts with [Trenton MOVES](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.cartsmobility.com%2Fblog%2Fkornhauser-trb-2022&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998761065900%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=TVx%2B34eEHzU4dM7m%2Foqir0kGwYP3Fh8BfBHuu%2FnW8jg%3D&reserved=0).  Alain
+"[Massive Scale](https://www.reuters.com/business/autos-transportation/tesla-open-texas-factory-critical-growth-ambitions-2022-04-07/)"
+              starts with [Trenton MOVES](https://www.cartsmobility.com/blog/kornhauser-trb-2022).  Alain
 
               or tap">Thursday, March 31, 2022
-  [Taking our next step
-              in the City by the Bay](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fblog.waymo.com%2F2022%2F03%2Ftaking-our-next-step-in-city-by-bay.html%3Fm%3D1&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998761065900%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=tYlHA6WzWvo9lMnkB6qgWtGcJLgNKz3oDBjlXKp5VeQ%3D&reserved=0)
+  [Taking our next step in the City by the Bay](https://blog.waymo.com/2022/03/taking-our-next-step-in-city-by-bay.html?m=1)
 
 The Waymo Team, March
           30, "This morning in San Francisco, a fully autonomous
@@ -2256,7 +2165,7 @@ The Waymo Team, March
           city, we've begun fully autonomous rides with our San
           Francisco employees. They now join the thousands of Waymo One
           riders we've been serving in Arizona, making fully autonomous
-          driving technology part of their daily lives...."  [Read more](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fblog.waymo.com%2F2022%2F03%2Ftaking-our-next-step-in-city-by-bay.html%3Fm%3D1&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998761065900%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=tYlHA6WzWvo9lMnkB6qgWtGcJLgNKz3oDBjlXKp5VeQ%3D&reserved=0)  Hmmmm... Congratulations!
+          driving technology part of their daily lives...."  [Read more](https://blog.waymo.com/2022/03/taking-our-next-step-in-city-by-bay.html?m=1)  Hmmmm... Congratulations!
             Enormous accomplishment and fundamental expression of
             confidence in your technology.  Please come to New Jersey
             where we are certain that you can actually delier "Safe,
@@ -2379,7 +2288,7 @@ Seems
             and shouldn't be completely ignoring me.  I guess I'm
             missing something.  Maybe someone else will call me? 😎  Alain
 
-  [Moving Forward with Trenton MOVES](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fviodi.com%2F2022%2F02%2F09%2Fmoving-forward-with-trenton-moves%2F&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998761222138%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=pskFaXx7yMniiDkkdpPN2Jm0D0Je6wjyUo8Z%2B69I304%3D&reserved=0)
+  [Moving Forward with Trenton MOVES](https://viodi.com/2022/02/09/moving-forward-with-trenton-moves/)
 
 K. Pyle, Feb. 9, "Dr.
           Alain Kornhauser's vision of bringing equitable, sustainable,
@@ -2388,23 +2297,22 @@ K. Pyle, Feb. 9, "Dr.
           (Facebook) of a $5 million NJDOT Local Transportation Planning
           Fund Grant for the Trenton Mobility & Opportunity:
           Vehicles Equity System (MOVES) Project (PDF). The significance
-          of this event goes beyond the grant announcement..."  [Read more](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fviodi.com%2F2022%2F02%2F09%2Fmoving-forward-with-trenton-moves%2F&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998761222138%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=pskFaXx7yMniiDkkdpPN2Jm0D0Je6wjyUo8Z%2B69I304%3D&reserved=0)  Hmmmm... Ken, thank
+          of this event goes beyond the grant announcement..."  [Read more](https://viodi.com/2022/02/09/moving-forward-with-trenton-moves/)  Hmmmm... Ken, thank
             you for the kind words.  Alain
 
-    [Smart Driving Cars Extra: Trenton
-              MOVES gets moving](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DGXnluyz2GSE&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998761222138%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=7d%2FMhr6IvZlghDCZSFkO2%2BfkssFNCnEPvG0MLXNKTls%3D&reserved=0)
+    [Smart Driving Cars Extra: Trenton MOVES gets moving](https://www.youtube.com/watch?v=GXnluyz2GSE)
 
 Feb. 11, "The New Jersey
           DOT is providing 5 million dollars to get Trenton MOVES
           moving.  The goal..autonomous, affordable, safe mobility for
-          all.   This is a video of the event held on February 9th."  [Read more](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DGXnluyz2GSE&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998761222138%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=7d%2FMhr6IvZlghDCZSFkO2%2BfkssFNCnEPvG0MLXNKTls%3D&reserved=0)  Hmmmm...
+          all.   This is a video of the event held on February 9th."  [Read more](https://www.youtube.com/watch?v=GXnluyz2GSE)  Hmmmm...
             Fantastic even with challenging audio.  Turn on Closed
             Caption. The substance is in the quality of the words from
             the Mayor, Commissioner and Superintendent.  All from the
             heart. Very worth absorbing.  Alain.
 
               or ta">Friday, February 4, 2022
-  [Trenton MOVES](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.dropbox.com%2Fs%2Fkxyvrjqi1u351tj%2FTretonHS_Announcenet_Invitation.pdf%3Fdl%3D0&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998761222138%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=nwzIlBHcLNRO9LXIGkY7N15aZluhO7fxLepzBDVlGyQ%3D&reserved=0)
+  [Trenton MOVES](https://www.dropbox.com/s/kxyvrjqi1u351tj/TretonHS_Announcenet_Invitation.pdf?dl=0)
 
 W. Skaggs, Feb. 3,"We
             are excited to invite you to join Mayor Gusciora, N.J.
@@ -2417,8 +2325,7 @@ W. Skaggs, Feb. 3,"We
           the Trenton Mobility & Opportunity: Vehicular Equity
           System (MOVES) initiative.
 
-Originally[announced by Governor Murphy and
-            Commissioner Gutierrez-Scaccetti in December](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.nj.gov%2Fgovernor%2Fnews%2Fnews%2F562021%2Fapproved%2F20211206b.shtml%23%3A~%3Atext%3DTrenton%2520MOVES%2520will%2520act%2520to%2Cserve%252090%252C000%2520residents%2520of%2520Trenton.&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998761222138%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=cyLEqTM1joyVRJHa4xhfh9jCyqe0hL5qB12pWNKPChU%3D&reserved=0),
+Originally[announced by Governor Murphy and Commissioner Gutierrez-Scaccetti in December](https://www.nj.gov/governor/news/news/562021/approved/20211206b.shtml#:~:text=Trenton%20MOVES%20will%20act%20to,serve%2090%2C000%20residents%20of%20Trenton.),
           TrentonMOVES seeks to provide a safe, equitable, and
           affordable high-quality on-demand mobility service to Trenton
           residents. The effort is a collaboration between the
@@ -2436,12 +2343,11 @@ The $5 million award is
 The event will take
           place at 11:00 a.m. on  in
             the Trenton Central High School auditorium. Members of
-          the press will be invited to attend. ...." [Read more](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.dropbox.com%2Fs%2Fkxyvrjqi1u351tj%2FTretonHS_Announcenet_Invitation.pdf%3Fdl%3D0&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998761222138%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=nwzIlBHcLNRO9LXIGkY7N15aZluhO7fxLepzBDVlGyQ%3D&reserved=0)  Hmmmm... Another
+          the press will be invited to attend. ...." [Read more](https://www.dropbox.com/s/kxyvrjqi1u351tj/TretonHS_Announcenet_Invitation.pdf?dl=0)  Hmmmm... Another
             real milestone.
 
 The Trenton MOVES
-            RfEI closed February 25, with 20 submittals.  Next comes the[](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.cartsmobility.com%2Fsummit&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998761222138%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=RsifhU0%2BSAcBKx9Y6rw59cN%2Bg7dUVVcGpf3zp0sFqZI%3D&reserved=0)[5thPrinceton  SmartDrivingCar
-                Summit](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.cartsmobility.com%2Fsummit&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998761222138%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=RsifhU0%2BSAcBKx9Y6rw59cN%2Bg7dUVVcGpf3zp0sFqZI%3D&reserved=0) June 2 -> 4, 2022 in Princeton &
+            RfEI closed February 25, with 20 submittals.  Next comes the[5thPrinceton  SmartDrivingCar Summit](https://www.cartsmobility.com/summit) June 2 -> 4, 2022 in Princeton &
             Trenton, NJ.  The Summit will be  focused on enabling
             Trentonians to get a first glimpse at technology and
             mobility systems that can deliver Trenton MOVES' mobility
@@ -2479,12 +2385,10 @@ Alain L. Kornhauser, PhD
 
                 609-980-1427 (c)
 
-[](http://www.princeton.edu/)
 
 ***************************************************************************************************************
 
-          This list is maintained by [Alain
-            Kornhauser](mailto:alaink@princeton.edu) and hosted by the [Princeton University LISTSERV](https://nam12.safelinks.protection.outlook.com/?url=http%3A%2F%2Flists.princeton.edu%2F&data=05%7C01%7Calaink%40princeton.edu%7Cd018ca623a7f4c8073e808dae1487f3d%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638069998761222138%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=%2F4OJIYBOlQlv8ICz8ye%2BT5e65MhhMDBR%2BmwJrOzE%2F2w%3D&reserved=0).
+          This list is maintained by [Alain Kornhauser](mailto:alaink@princeton.edu) and hosted by the [Princeton University LISTSERV](http://lists.princeton.edu/).
 
 ***************************************************************************************************************
 

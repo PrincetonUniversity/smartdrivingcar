@@ -12,8 +12,7 @@ Click or tap if you trust this link." data-auth="NotApplicable" data-linkindex="
           18th edition of the 12th year of SmartDrivingCars
           eLetter
 
-        [Automatic Emergency Braking Systems
-              for Light Vehicles | Web](https://www.nhtsa.gov/sites/nhtsa.gov/files/2024-04/final-rule-automatic-emergency-braking-systems-light-vehicles_web-version.pdf)
+        [Automatic Emergency Braking Systems for Light Vehicles | Web](https://www.nhtsa.gov/sites/nhtsa.gov/files/2024-04/final-rule-automatic-emergency-braking-systems-light-vehicles_web-version.pdf)
 
 Final
         Rule, May 1, ".…"

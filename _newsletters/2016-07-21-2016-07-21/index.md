@@ -7,8 +7,7 @@ permalink: /2016-07-21-2016-07-21/
 
 July 21, 2016
 
-### [Master
-                          Plan, Part Deux](https://www.tesla.com/en_HK/blog/master-plan-part-deux?redirect=no)
+### [Master Plan, Part Deux](https://www.tesla.com/en_HK/blog/master-plan-part-deux?redirect=no)
 
                       E. Musk, July 20 "...Integrate Energy
                         Generation and Storage
@@ -90,8 +89,7 @@ Sharing
                       up, you will be able to sleep, read or do anything
                       else enroute to your destination.  You will also
                       be able to add your car to the Tesla shared fleet
-                      just by tapping a button on... [Read
-                        more](https://www.tesla.com/en_HK/blog/master-plan-part-deux?redirect=no)Hmmm....This
+                      just by tapping a button on... [Read more](https://www.tesla.com/en_HK/blog/master-plan-part-deux?redirect=no)Hmmm....This
                           is a chock-full vision that sounds pretty good
                           me (and doesn't have a mention of DSRC, V2V or
                           V2x :-)  ); except, do I really want to invest
@@ -101,8 +99,7 @@ Sharing
                           (unfortunately NJ Transit, the obvious MoDTS
                           operator, will pass.)  Alain
 
-### [Germany
-                          to require 'black box' in autonomous cars](http://www.reuters.com/article/us-germany-autos-idUSKCN0ZY1LT)
+### [Germany to require 'black box' in autonomous cars](http://www.reuters.com/article/us-germany-autos-idUSKCN0ZY1LT)
 
                       July 18, "Germany plans new legislation to require
                       manufacturers of cars equipped with an autopilot
@@ -119,11 +116,9 @@ Sharing
                       black box that records when the autopilot system
                       was active, when the driver drove and when the
                       system requested that the driver take over,
-                      according to the proposals..." [Read
-                        more](http://www.reuters.com/article/us-germany-autos-idUSKCN0ZY1LT)Hmmm....What
+                      according to the proposals..." [Read more](http://www.reuters.com/article/us-germany-autos-idUSKCN0ZY1LT)Hmmm....What
                           is the definition of "an emergency situation"
-                          ?  Is it just like some other things that "[I know it
-                            when I see it](https://en.wikipedia.org/wiki/I_know_it_when_I_see_it)"?  But here, it is the
+                          ?  Is it just like some other things that "[I know it when I see it](https://en.wikipedia.org/wiki/I_know_it_when_I_see_it)"?  But here, it is the
                           automated system that is "seeing it".  What
                           "false alarm" and 'false negative" rates will
                           be imposed/tolerated?  Will there be a driver
@@ -152,9 +147,7 @@ Sharing
                           because the data stream indicated a broken
                           tail light.)   Alain
 
-### [Pokémon
-                          Go-playing driver after hitting police car:
-                          'That's what I get for playing'](https://www.washingtonpost.com/news/morning-mix/wp/2016/07/20/pokemon-go-playing-driver-after-hitting-police-car-thats-what-i-get-for-playing-this-dumb-a-game/)
+### [Pokémon Go-playing driver after hitting police car: 'That's what I get for playing'](https://www.washingtonpost.com/news/morning-mix/wp/2016/07/20/pokemon-go-playing-driver-after-hitting-police-car-thats-what-i-get-for-playing-this-dumb-a-game/)
 
                       R. Premack, July 20 "Not surprisingly, playing
                       Pokémon Go while driving is a poor idea. That was
@@ -163,15 +156,12 @@ Sharing
                       outside their patrol car, parked nearby Patterson
                       Park. About 3:30 a.m., according to body-camera
                       footage, a Toyota RAV4 moving down the street
-                      side-swiped the parked police car..."  [Read
-                        more](https://www.washingtonpost.com/news/morning-mix/wp/2016/07/20/pokemon-go-playing-driver-after-hitting-police-car-thats-what-i-get-for-playing-this-dumb-a-game/)Hmmm....And
+                      side-swiped the parked police car..."  [Read more](https://www.washingtonpost.com/news/morning-mix/wp/2016/07/20/pokemon-go-playing-driver-after-hitting-police-car-thats-what-i-get-for-playing-this-dumb-a-game/)Hmmm....And
                           now another reason why we need Automated
                           Emergency Braking (AEB) and Self-driving that
                           actually work.  Alain
 
-### [State
-                          to buy former Willow Run Powertrain site for
-                          connected vehicle research](http://www.mlive.com/business/ann-arbor/index.ssf/2016/07/agreement_in_place_for_sale_of.html)
+### [State to buy former Willow Run Powertrain site for connected vehicle research](http://www.mlive.com/business/ann-arbor/index.ssf/2016/07/agreement_in_place_for_sale_of.html)
 
                       M. Durr, July 18, "The Michigan Strategic Fund is
                       closing in on a deal to buy the former Willow Run
@@ -186,13 +176,10 @@ Sharing
                       MSF would allow the American Center for Mobility
                       to develop and operate a facility where testing
                       and research for CAV technology will be
-                      conducted..." [Read
-                        more](http://fortune.com/2016/07/20/regulator-on-tesla-autopilot-death-says-one-incident-wont-derail-tech/) Hmmm...Land
+                      conducted..." [Read more](http://fortune.com/2016/07/20/regulator-on-tesla-autopilot-death-says-one-incident-wont-derail-tech/) Hmmm...Land
                           is really inexpensive in Michigan.  Alain
 
-### [Regulator
-                          on Tesla Autopilot Death Says One Incident
-                          Won't Derail Tech](http://fortune.com/2016/07/20/regulator-on-tesla-autopilot-death-says-one-incident-wont-derail-tech/)
+### [Regulator on Tesla Autopilot Death Says One Incident Won't Derail Tech](http://fortune.com/2016/07/20/regulator-on-tesla-autopilot-death-says-one-incident-wont-derail-tech/)
 
                       K. Fehrenbacher, July 20, "Mark Rosekind, the
                       administrator of auto safety regulator the
@@ -201,17 +188,14 @@ Sharing
                       incident will derail the Department of
                       Transportation and NHTSA from its mission to
                       improve safety on the roads by pursuing
-                      life-saving technologies." [Read
-                        more](http://fortune.com/2016/07/20/regulator-on-tesla-autopilot-death-says-one-incident-wont-derail-tech/) Hmmm..."derail
+                      life-saving technologies." [Read more](http://fortune.com/2016/07/20/regulator-on-tesla-autopilot-death-says-one-incident-wont-derail-tech/) Hmmm..."derail
                           its mission???..  It's been focused on crash
                           mitigation and "connected" stuff instead of
                           making sure that Automated Emergency Braking
                           (AEB) systems actually work.  When are they
                             deaths went up last year! Alain
 
-### [Autonomous
-                          Vehicles: A Case Study of Liability and
-                          Insurance](http://www.jdsupra.com/legalnews/autonomous-vehicles-a-case-study-of-30633/)
+### [Autonomous Vehicles: A Case Study of Liability and Insurance](http://www.jdsupra.com/legalnews/autonomous-vehicles-a-case-study-of-30633/)
 
 D. Cusack, July 19, "...We have run across only
                         one policy so far that bills itself as a
@@ -220,14 +204,11 @@ D. Cusack, July 19, "...We have run across only
                         the British market, it expressly agrees to cover
                         the driver if the autonomous systems fail, or if
                         the owner failed to install updates to the
-                        system software in a timely manner....[Read
-                          more](http://www.jdsupra.com/legalnews/autonomous-vehicles-a-case-study-of-30633/) Hmmm...This
+                        system software in a timely manner....[Read more](http://www.jdsupra.com/legalnews/autonomous-vehicles-a-case-study-of-30633/) Hmmm...This
                             is somewhat informative, but very light.
                             Alain
 
-### [What
-                          NASA Could Teach Tesla about Autopilot's
-                          Limits](http://www.scientificamerican.com/article/what-nasa-could-teach-tesla-about-autopilot-s-limits/)
+### [What NASA Could Teach Tesla about Autopilot's Limits](http://www.scientificamerican.com/article/what-nasa-could-teach-tesla-about-autopilot-s-limits/)
 
                       J. Pavlus, July 18, "...Stephen Casner, a research
                       psychologist in NASA's Human Systems Integration
@@ -237,15 +218,13 @@ D. Cusack, July 19, "...We have run across only
                       behave together that NASA has known for
                       years...THE LIMITS OF BEING "ON THE LOOP"... THE
                       LIMITS OF ATTENTION...AUTOMATION AND AUTONOMY: NOT
-                      THE SAME THING..."  [Read
-                        more](http://www.scientificamerican.com/article/what-nasa-could-teach-tesla-about-autopilot-s-limits/)  Hmmmm...Well
+                      THE SAME THING..."  [Read more](http://www.scientificamerican.com/article/what-nasa-could-teach-tesla-about-autopilot-s-limits/)  Hmmmm...Well
                           worth reading.  Alain
 
 ## Some other
                         thoughts that deserve your attention
 
-### [Uber
-                          Just Completed Its Two Billionth Ride](http://www.forbes.com/sites/briansolomon/2016/07/18/uber-just-completed-its-two-billionth-ride/#46315f792a50)
+### [Uber Just Completed Its Two Billionth Ride](http://www.forbes.com/sites/briansolomon/2016/07/18/uber-just-completed-its-two-billionth-ride/#46315f792a50)
 
                       B. Solomon, July 18, "...The milestone comes less
                       than six months after Uber hit one billion
@@ -265,8 +244,7 @@ D. Cusack, July 19, "...We have run across only
                       countries began on the moment of 4:16:48 AM GMT on
                       June 18. 54 of those trips were in China, 46 in
                       the U.S., 13 in Mexico, and seven each in Brazil
-                      and India...." [Read
-                        more](http://www.forbes.com/sites/briansolomon/2016/07/18/uber-just-completed-its-two-billionth-ride/#46315f792a50) Hmmm...That's
+                      and India...." [Read more](http://www.forbes.com/sites/briansolomon/2016/07/18/uber-just-completed-its-two-billionth-ride/#46315f792a50) Hmmm...That's
                           good progress, but, there are about 1B
                           non-walking person-trips on a typical day in
                           the US.  This means that Lyft served about
@@ -276,8 +254,7 @@ D. Cusack, July 19, "...We have run across only
                           be doing about 0.4% .  Again a good start, but
                           still a long way to go.   Alain
 
-### [Controversy
-                          over Tesla 'autopilot' name keeps growing](http://www.latimes.com/business/autos/la-fi-hy-autopilot-controversy-20160721-snap-story.html)
+### [Controversy over Tesla 'autopilot' name keeps growing](http://www.latimes.com/business/autos/la-fi-hy-autopilot-controversy-20160721-snap-story.html)
 
                       R. Mitchell, July 21, "...Some of the most
                       enthusiastic proponents of autonomous vehicles and
@@ -288,8 +265,7 @@ D. Cusack, July 19, "...We have run across only
                       shame, as autonomous technologies are designed to
                       make driving safer by preventing minor
                       fender-benders as well as reducing the number of
-                      traffic fatalities. ..." [Read
-                        more](http://www.latimes.com/business/autos/la-fi-hy-autopilot-controversy-20160721-snap-story.html) Hmmm...I
+                      traffic fatalities. ..." [Read more](http://www.latimes.com/business/autos/la-fi-hy-autopilot-controversy-20160721-snap-story.html) Hmmm...I
                           pointed out in SDC that this was a bad product
                           name when it was first announced by Tesla.
                           :-)  Alain
@@ -301,19 +277,15 @@ D. Cusack, July 19, "...We have run across only
 ## Half-baked stuff that
                             probably doesn't deserve your time:
 
-### [The
-                            Mercedes-Benz Future Bus Will Change the Way
-                            We Commute to School and Work](https://hypebeast.com/2016/7/mercedes-benz-future-bus)
+### [The Mercedes-Benz Future Bus Will Change the Way We Commute to School and Work](https://hypebeast.com/2016/7/mercedes-benz-future-bus)
 
  K. Estiler, July 18,
                           "Mercedes-Benz struck the fairway with a
-                          lavish concept [golf
-                            cart](http://hypebeast.com/2016/7/mercedes-benz-golf-cart) last week and just recently, the
+                          lavish concept [golf cart](http://hypebeast.com/2016/7/mercedes-benz-golf-cart) last week and just recently, the
                           German automobile manufacturer introduced its
                           Future Bus that is seemingly a game-changer in
                           the burgeoning world of public transportation.
-                          The kernel of this latest concept is [Mercedes's
-                            CityPilot](http://www.autoblog.com/2016/07/18/mercedes-autonomous-bus-test-amsterdam-future/) — an operating system for
+                          The kernel of this latest concept is [Mercedes's CityPilot](http://www.autoblog.com/2016/07/18/mercedes-autonomous-bus-test-amsterdam-future/) — an operating system for
                           autonomous driving. The mechanization involves
                           a network of various cameras that are placed
                           all around the bus, GPS as well as two
@@ -325,8 +297,7 @@ D. Cusack, July 19, "...We have run across only
                           passengers by itself. However, there is a
                           driver seat and wheel just in case human
                             intervention is needed.(emphasis added)
-                          ..." [Read
-                            more](https://hypebeast.com/2016/7/mercedes-benz-future-bus)Hmmm....This
+                          ..." [Read more](https://hypebeast.com/2016/7/mercedes-benz-future-bus)Hmmm....This
                               bus is simply same-old, same-old except
                               "over-the-top lip-stick' that greatly
                               increases the cost of mobility without
@@ -353,9 +324,7 @@ D. Cusack, July 19, "...We have run across only
                               course is not a freeway! You could use the
                               exercise.  :-)  )   Alain
 
-### [Transit
-                            Columbus starts petition urging city not to
-                            'leap-frog' light rail](http://www.bizjournals.com/columbus/news/2016/07/18/transit-columbus-starts-petition-urging-city-not.html)
+### [Transit Columbus starts petition urging city not to 'leap-frog' light rail](http://www.bizjournals.com/columbus/news/2016/07/18/transit-columbus-starts-petition-urging-city-not.html)
 
  T. Knox, July 18, "An advocate
                           for integrated public transportation has
@@ -366,8 +335,7 @@ D. Cusack, July 19, "...We have run across only
                           Transit Columbus wants local leaders to not
                           overly rely on driverless cars and other
                           technologies proposed in its Smart City
-                          Challenge bid..."  [Read
-                            more](http://www.bizjournals.com/columbus/news/2016/07/18/transit-columbus-starts-petition-urging-city-not.html)Hmmm....
+                          Challenge bid..."  [Read more](http://www.bizjournals.com/columbus/news/2016/07/18/transit-columbus-starts-petition-urging-city-not.html)Hmmm....
                               And Columbus won the SmartCities grant??
                               (I do understand that a $1B LightRail
                               system brings more $$$ to Columbus than a
@@ -378,15 +346,13 @@ D. Cusack, July 19, "...We have run across only
 ## [C'mon Man!](https://www.youtube.com/watch?v=A7SwSd59E4I)
                         (These folks didn't get/read the memo)
 
-### [Tesla
-                          Working On Autopilot Radar Changes After Crash](http://miami.cbslocal.com/2016/07/16/tesla-working-on-autopilot-radar-changes-after-crash/)
+### [Tesla Working On Autopilot Radar Changes After Crash](http://miami.cbslocal.com/2016/07/16/tesla-working-on-autopilot-radar-changes-after-crash/)
 
                       July 16. "...CEO Elon Musk, in a Twitter post
                       Thursday night, said Tesla is working on
                       improvements to the radar system....Experts say
                       this means that the radar likely overlooked the
-                      tractor-trailer in the Florida crash...." [Read
-                        more](http://miami.cbslocal.com/2016/07/16/tesla-working-on-autopilot-radar-changes-after-crash/)Hmmm....But
+                      tractor-trailer in the Florida crash...." [Read more](http://miami.cbslocal.com/2016/07/16/tesla-working-on-autopilot-radar-changes-after-crash/)Hmmm....But
                           the tractor preceded the trailer across
                           Tesla's path and the Tesla reportedly didn't
                           try to slow down for that.  And, what if it
@@ -398,13 +364,9 @@ D. Cusack, July 19, "...We have run across only
 ## Calendar
                           of Upcoming Events:
 
-[Sept 15 & 16, 2016
+[Sept 15 & 16, 2016 Arlington, VA](http://www.railwayage.com/index.php/conference_details/nextgen_agenda.html)
 
-Arlington, VA](http://www.railwayage.com/index.php/conference_details/nextgen_agenda.html)
-
-   [Sept 19-21, 2016
-
-Antwerp, Belgium](http://podcarcity.org/antwerp/)
+   [Sept 19-21, 2016 Antwerp, Belgium](http://podcarcity.org/antwerp/)
 
 ### Recent Highlights of:
 
@@ -414,19 +376,16 @@ Antwerp, Belgium](http://podcarcity.org/antwerp/)
 
                         July 14, 2016
 
-### [Another
-                        Tesla crash blamed on car's Autopilot system](http://www.cnet.com/au/news/another-tesla-crash-blamed-on-cars-autopilot-system/)
+### [Another Tesla crash blamed on car's Autopilot system](http://www.cnet.com/au/news/another-tesla-crash-blamed-on-cars-autopilot-system/)
 
  S. Musil, July 12, "The most
                       recent crash involved a Model X near the small
                       town of Whitehall, Montana, on Sunday morning,
-                      according to the [Detroit
-                        Free Press](http://www.freep.com/story/money/cars/2016/07/11/another-tesla-veers-off-road-crashes-into-guardrail-montana/86956048/). Neither the driver nor the
+                      according to the [Detroit Free Press](http://www.freep.com/story/money/cars/2016/07/11/another-tesla-veers-off-road-crashes-into-guardrail-montana/86956048/). Neither the driver nor the
                       passenger was injured in the single-vehicle crash,
                       the Montana Highway Patrol told the
                       newspaper....The car failed to detect an obstacle
-                      in the road, according to a [thread
-                        posted](https://teslamotorsclub.com/tmc/threads/my-friend-model-x-crash-bad-on-ap-yesterday.73308/) on the Tesla Motors Club forum by
+                      in the road, according to a [thread posted](https://teslamotorsclub.com/tmc/threads/my-friend-model-x-crash-bad-on-ap-yesterday.73308/) on the Tesla Motors Club forum by
                       someone who said they're a friend of the driver.
                       The thread included photos showing the damage to
                       the vehicle.
@@ -453,8 +412,7 @@ Antwerp, Belgium](http://podcarcity.org/antwerp/)
                       that the Autopilot feature was being used on an
                       undivided mountain road despite being designed for
                       use on a divided highway in slow-moving
-                      traffic....[Read
-                        more](http://www.cnet.com/au/news/another-tesla-crash-blamed-on-cars-autopilot-system/)  Hmmm....Interesting
+                      traffic....[Read more](http://www.cnet.com/au/news/another-tesla-crash-blamed-on-cars-autopilot-system/)  Hmmm....Interesting
                           that Tesla didn't say that the car began to
                           slow down (as it is supposed to if the driver
                           does not put his/her hand back on the
@@ -490,8 +448,7 @@ Antwerp, Belgium](http://podcarcity.org/antwerp/)
                           car has just averted a possible catastrophe
                           associated with a comatose driver.     Alain
 
-### [Lessons
-                      From the Tesla Crash](http://www.nytimes.com/2016/07/11/opinion/lessons-from-the-tesla-crash.html?ribbon-ad-idx=2&rref=opinion&module=Ribbon&version=context&region=Header&action=click&contentCollection=Opinion&pgtype=article)
+### [Lessons From the Tesla Crash](http://www.nytimes.com/2016/07/11/opinion/lessons-from-the-tesla-crash.html?ribbon-ad-idx=2&rref=opinion&module=Ribbon&version=context&region=Header&action=click&contentCollection=Opinion&pgtype=article)
 
                   Editorial Board, July 11, "A recent fatal crash in
                   Florida involving a Tesla Model S is an example of how
@@ -539,8 +496,7 @@ Antwerp, Belgium](http://podcarcity.org/antwerp/)
                       wise.  They should also immediately focus on
                       Automated Emergency Braking systems which are the
                       foundation of any Self-driving or Driverless
-                      systems. )  [Read
-                    more](http://www.nytimes.com/2016/07/11/opinion/lessons-from-the-tesla-crash.html?ribbon-ad-idx=2&rref=opinion&module=Ribbon&version=context&region=Header&action=click&contentCollection=Opinion&pgtype=article)[](http://www.nytimes.com/2016/07/11/opinion/lessons-from-the-tesla-crash.html?ribbon-ad-idx=2&rref=opinion&module=Ribbon&version=context&region=Header&action=click&contentCollection=Opinion&pgtype=article)Hmmm....Comments in-line above.  Alain
+                      systems. )  [Read more](http://www.nytimes.com/2016/07/11/opinion/lessons-from-the-tesla-crash.html?ribbon-ad-idx=2&rref=opinion&module=Ribbon&version=context&region=Header&action=click&contentCollection=Opinion&pgtype=article)Hmmm....Comments in-line above.  Alain
 
 ### May 7 Crash
 
@@ -550,15 +506,12 @@ Hmmm...What
 1.  On May 7,
                         2016 at about 4:40pm EDT, there was a crash
                         between a Tesla and a Class 8 Tractor-Trailer.
-                        The accident is depicted in the [Diagram
-                          from the Police Report](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/TeslaCrash050716/PoliceReportDiagramTeslaCrash050716FrmNYT.JPG): HSMV Crash Report
+                        The accident is depicted in the [Diagram from the Police Report](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/TeslaCrash050716/PoliceReportDiagramTeslaCrash050716FrmNYT.JPG): HSMV Crash Report
                         # 85234095. [(1)](http://www.nytimes.com/2016/07/01/business/self-driving-tesla-fatal-crash-investigation.html?rref=collection%2Ftimestopic%2FNational%20Highway%20Traffic%20Safety%20Administration&action=click&contentCollection=timestopics&region=stream&module=stream_unit&version=latest&contentPlacement=1&pgtype=collection&_r=0)
-                        [Google
-                          Earth images from the site](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/TeslaCrash050716/CrashSceneGoogleEarth.pdf).
+                        [Google Earth images from the site](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/TeslaCrash050716/CrashSceneGoogleEarth.pdf).
 
  2. The
-                        driver of the Tesla was [Joshua
-                          Brown](http://www.legacy.com/obituaries/ohio/obituary.aspx?pid=179994314).  "No
+                        driver of the Tesla was [Joshua Brown](http://www.legacy.com/obituaries/ohio/obituary.aspx?pid=179994314).  "No
                             citations have been issued, but the initial
                             accident report from the FHP indicates the
                             truck driver "failed to yield
@@ -575,8 +528,7 @@ Hmmm...What
                         doesn't  ATRI (the American Trucking
                         Association's research arm recognize the lack
                         availability/adoption of "SmartDrivingTruck
-                        technology" as one of its [Critical
-                          Issues](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Reports&Speaches_External/ATRI-2015-Top-Industry-Issues-FINAL-10-2015.pdf)?  Why didn't his insurance agent
+                        technology" as one of its [Critical Issues](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Reports&Speaches_External/ATRI-2015-Top-Industry-Issues-FINAL-10-2015.pdf)?  Why didn't his insurance agent
                         encourage/convince him to equip his truck with
                         collision risk sensors.  If they aren't
                         commercially available, why hasn't his insurance
@@ -676,8 +628,7 @@ One can also
                         environment?  Why doesn't  ATRI (the American
                         Trucking Association's research arm) recognize
                         the lack availability/adoption of
-                        "SmartDrivingTruck technology" as one of its [Critical
-                          Issues](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Reports&Speaches_External/ATRI-2015-Top-Industry-Issues-FINAL-10-2015.pdf)?  Why didn't the driver's insurance
+                        "SmartDrivingTruck technology" as one of its [Critical Issues](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Reports&Speaches_External/ATRI-2015-Top-Industry-Issues-FINAL-10-2015.pdf)?  Why didn't the driver's insurance
                         agent encourage/convince him to equip his truck
                         with collision risk sensors.  If they aren't
                         commercially available, why hasn't his insurance
@@ -779,8 +730,7 @@ While
                         take appropriate evasive action. AEB is a
                         fallback safety feature that operates by design
                         only at high levels of severity and should not
-                        be tested with live subjects."..." [Read
-                          more](http://electrek.co/2016/07/02/tesla-autopilot-mobileye-automatic-emergency-braking/)(5)
+                        be tested with live subjects."..." [Read more](http://electrek.co/2016/07/02/tesla-autopilot-mobileye-automatic-emergency-braking/)(5)
                                 With all of the expertise that MobilEye
                                 has in image processing, it is
                                 surprising that it can't recognize the
@@ -808,35 +758,23 @@ While
                                 seem to be the case in this crash).
                                 Alain
 
-(1) [Self-Driving
-                            Tesla Was Involved in Fatal Crash, U.S. Says](http://www.nytimes.com/2016/07/01/business/self-driving-tesla-fatal-crash-investigation.html?rref=collection%2Ftimestopic%2FNational%20Highway%20Traffic%20Safety%20Administration&action=click&contentCollection=timestopics&region=stream&module=stream_unit&version=latest&contentPlacement=1&pgtype=collection&_r=0),
+(1) [Self-Driving Tesla Was Involved in Fatal Crash, U.S. Says](http://www.nytimes.com/2016/07/01/business/self-driving-tesla-fatal-crash-investigation.html?rref=collection%2Ftimestopic%2FNational%20Highway%20Traffic%20Safety%20Administration&action=click&contentCollection=timestopics&region=stream&module=stream_unit&version=latest&contentPlacement=1&pgtype=collection&_r=0),
                         June 30 NYT,
 
-(2) [DVD
-                          player found in Tesla car in fatal May crash](http://www.reuters.com/article/us-tesla-autopilot-dvd-idUSKCN0ZH5BW),
+(2) [DVD player found in Tesla car in fatal May crash](http://www.reuters.com/article/us-tesla-autopilot-dvd-idUSKCN0ZH5BW),
                         July 1, Reuters
 
 (3)[A Tragic Los](https://www.teslamotors.com/blog/tragic-loss)s,
                         June 30, Tesla Blog
 
-(4) [NHTSA
-                          ODI Resume PE 16-007 Automatic vehicle control
-                          system, June 28, 2016](http://www-odi.nhtsa.dot.gov/acms/cs/jaxrs/download/doc/UCM530776/INOA-PE16007-7080.PDF)
+(4) [NHTSA ODI Resume PE 16-007 Automatic vehicle control system, June 28, 2016](http://www-odi.nhtsa.dot.gov/acms/cs/jaxrs/download/doc/UCM530776/INOA-PE16007-7080.PDF)
 
-(5) [Tesla
-                          elaborates on Autopilot's automatic emergency
-                          braking capacity over Mobileye's system](http://electrek.co/2016/07/02/tesla-autopilot-mobileye-automatic-emergency-braking/)
-                        Electrek, July 2, 2016  See also: [Understanding
-                          the fatal Tesla accident on Autopilot and the
-                          NHTSA probe](http://electrek.co/2016/07/01/understanding-fatal-tesla-accident-autopilot-nhtsa-probe/)July
-                              2, 2016, [Tesla
-                                Autopilot partner Mobileye comments on
-                                fatal crash, says tech isn't meant to
-                                avoid this type of accident [Updated]](http://electrek.co/2016/07/01/tesla-autopilot-mobileye-fatal-crash-comment/),
+(5) [Tesla elaborates on Autopilot's automatic emergency braking capacity over Mobileye's system](http://electrek.co/2016/07/02/tesla-autopilot-mobileye-automatic-emergency-braking/)
+                        Electrek, July 2, 2016  See also: [Understanding the fatal Tesla accident on Autopilot and the NHTSA probe](http://electrek.co/2016/07/01/understanding-fatal-tesla-accident-autopilot-nhtsa-probe/)July
+                              2, 2016, [Tesla Autopilot partner Mobileye comments on fatal crash, says tech isn't meant to avoid this type of accident [Updated]](http://electrek.co/2016/07/01/tesla-autopilot-mobileye-fatal-crash-comment/),
                               July 1,
 
-### [Who
-                      Will Build the Next Great Car Company?](http://fortune.com/self-driving-cars-silicon-valley-detroit/)
+### [Who Will Build the Next Great Car Company?](http://fortune.com/self-driving-cars-silicon-valley-detroit/)
 
 E. Griffith, June 24, "...Also, he's
                     hit the decoy plenty of times. In 2012 he even did
@@ -861,8 +799,7 @@ E. Griffith, June 24, "...Also, he's
                     machine-learning technology, and a kick in the butt
                     from the likes of Google and Tesla Motors  ,
                     driverless vehicles are becoming a
-                    sooner-than-you-think reality...." [Read
-                      more](http://fortune.com/self-driving-cars-silicon-valley-detroit/) Hmmm...A very
+                    sooner-than-you-think reality...." [Read more](http://fortune.com/self-driving-cars-silicon-valley-detroit/) Hmmm...A very
                         good summary of where the industry stands with
                         respect to Self-driving; however, it really
                         doesn't address Driverless, (autonomousTaxi
@@ -871,12 +808,9 @@ E. Griffith, June 24, "...Also, he's
                         [CityMobil2](http://www.citymobil2.eu/en/)approaches.  Fortune is still seeing a
                         personal car future and not a Mobility-on-Demand
                         future.  That would be way too disruptive.  See
-                        also the [intro
-                          video](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=video&cd=1&cad=rja&uact=8&ved=0ahUKEwjOgvOwqMjNAhWD7D4KHaKBBboQtwIIJTAA&url=http%3A%2F%2Ffortune.com%2Fself-driving-cars-silicon-valley-detroit%2F&usg=AFQjCNEAKqTgIv3IkKMPgmuTWrldf5Wn0w&sig2=K7e6Mhjn1jDEYqvjwMklZw&bvm=bv.125596728,d.cWw)  Alain
+                        also the [intro video](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=video&cd=1&cad=rja&uact=8&ved=0ahUKEwjOgvOwqMjNAhWD7D4KHaKBBboQtwIIJTAA&url=http%3A%2F%2Ffortune.com%2Fself-driving-cars-silicon-valley-detroit%2F&usg=AFQjCNEAKqTgIv3IkKMPgmuTWrldf5Wn0w&sig2=K7e6Mhjn1jDEYqvjwMklZw&bvm=bv.125596728,d.cWw)  Alain
 
-### [Derailment
-                          of Amtrak passenger train 188, Philadelphia,
-                          PA, May 12, 2015 NTSB/ DCA15MR010](http://www.ntsb.gov/news/events/Documents/DCA15MR010_Abstract.pdf)
+### [Derailment of Amtrak passenger train 188, Philadelphia, PA, May 12, 2015 NTSB/ DCA15MR010](http://www.ntsb.gov/news/events/Documents/DCA15MR010_Abstract.pdf)
 
 Public meeting of May 17 "...
                         Executive Summary...This report addresses the
@@ -904,8 +838,7 @@ Hmmm... Kudos to NTSB
                               positive train control or another control
                               system had been in place to enforce..."
 
-                            HOWEVER, given that PCT was [mandated
-                              by Congress in 2008](https://www.fra.dot.gov/eLib/Details/L03588) with a deadline of
+                            HOWEVER, given that PCT was [mandated by Congress in 2008](https://www.fra.dot.gov/eLib/Details/L03588) with a deadline of
                             December 15, 2015 and that 6 months before
                             the deadline PTC had NOT been implemented on
                             Amtrak's highest volume segment (PHL-NYC) is
@@ -919,10 +852,8 @@ Hmmm... Kudos to NTSB
                             "threw" the engineer "under the bus" and
                             essentially all of the news reports pointed
                             to the engineer rather than Amtrak's senior
-                            (mis)management ([The
-                              Atlantic](http://www.theatlantic.com/national/archive/2016/02/the-mystery-of-amtrak-188/458967/), [NBC](http://www.nbcphiladelphia.com/news/local/Deadly-Amtrak-Crash-Philadelphia-NTSB-Cause-379762581.html),
-                            [Washington
-                              Post](https://www.washingtonpost.com/local/trafficandcommuting/ntsb-prepared-to-release-report-on-last-years-deadly-amtrak-wreck/2016/02/01/3c9f7e46-c837-11e5-88ff-e2d1b4289c2f_story.html), [WSJ](http://www.wsj.com/articles/ntsb-says-engineer-in-2015-philadelphia-amtrak-crash-lost-situational-awareness-1463497474),
+                            (mis)management ([The Atlantic](http://www.theatlantic.com/national/archive/2016/02/the-mystery-of-amtrak-188/458967/), [NBC](http://www.nbcphiladelphia.com/news/local/Deadly-Amtrak-Crash-Philadelphia-NTSB-Cause-379762581.html),
+                            [Washington Post](https://www.washingtonpost.com/local/trafficandcommuting/ntsb-prepared-to-release-report-on-last-years-deadly-amtrak-wreck/2016/02/01/3c9f7e46-c837-11e5-88ff-e2d1b4289c2f_story.html), [WSJ](http://www.wsj.com/articles/ntsb-says-engineer-in-2015-philadelphia-amtrak-crash-lost-situational-awareness-1463497474),
                             [NYT](http://www.nytimes.com/2016/01/31/magazine/the-wreck-of-amtrak-188.html?_r=0)
                             etc.  Why didn't the NYT do a long story on
                             why Amtrak management didn't install PTC in
@@ -933,8 +864,7 @@ Hmmm... Kudos to NTSB
                             industry where crash-avoidance technology
                             exists today that can substantially reduce
                             collisions and do so while printing money
-                            for the transit industry.  [Dr.
-                              Jerome Lutin and I](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/PDFs/LutinKornhauser_2016TRB_BusACAS.pdf) have pointed out to
+                            for the transit industry.  [Dr. Jerome Lutin and I](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/PDFs/LutinKornhauser_2016TRB_BusACAS.pdf) have pointed out to
                             deaf ears that automated collision avoidance
                             systems exist today for buses whose costs
                             are substantially less than the net present
@@ -968,9 +898,7 @@ Hmmm... Kudos to NTSB
                             is to become aware, it will need to rise to
                             the top bullet.  Alain
 
-### [Extracting
-                          Cognition out of Images for the Purpose of
-                          Autonomous Driving](http://orfe.princeton.edu/%7Ealaink/Theses/chenyiPhDfinal_ExtractingCognitionOutOfImagesForThePurposeOfAutonomousDriving.pdf)
+### [Extracting Cognition out of Images for the Purpose of Autonomous Driving](http://orfe.princeton.edu/%7Ealaink/Theses/chenyiPhDfinal_ExtractingCognitionOutOfImagesForThePurposeOfAutonomousDriving.pdf)
 
  Chenyi Chen PhD Dissertation ,
                         "...the key part of the thesis, a direct
@@ -979,8 +907,7 @@ Hmmm... Kudos to NTSB
                         input image is mapped to a small number of key
                         perception indicators that directly relate to
                         the affordance of a road/traffic state for
-                        driving....." [Read more](http://orfe.princeton.edu/%7Ealaink/Theses/chenyiPhDfinal_ExtractingCognitionOutOfImagesForThePurposeOfAutonomousDriving.pdf)  Hmmm..[FPO
-                              10:00am, May 16 , 120 Sherrerd Hall](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Presentations/ChenyiFPO.pdf),
+                        driving....." [Read more](http://orfe.princeton.edu/%7Ealaink/Theses/chenyiPhDfinal_ExtractingCognitionOutOfImagesForThePurposeOfAutonomousDriving.pdf)  Hmmm..[FPO 10:00am, May 16 , 120 Sherrerd Hall](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Presentations/ChenyiFPO.pdf),
                             Establishing a foundation for image-based
                             autonomous driving using DeepLearning Neural
                             Networks trained in virtual environments.
@@ -988,19 +915,14 @@ Hmmm... Kudos to NTSB
 
 ###
 
-### [N.J.
-                          superintendent killed while jogging was struck
-                          by student late for trip](http://www.nj.com/mercer/index.ssf/2016/04/student_who_struck_superintendent_was_late_for_cla.html)
+### [N.J. superintendent killed while jogging was struck by student late for trip](http://www.nj.com/mercer/index.ssf/2016/04/student_who_struck_superintendent_was_late_for_cla.html)
 
 K. Shea, April 19, "...The
                           Robbinsville High School student who was
-                          driving the car that [struck
-                          and killed the district's superintendent
-                          Tuesday](http://www.nj.com/mercer/index.ssf/2016/04/nj_superintendent_remembered_for_energy_commitment.html) morning
+                          driving the car that [struck and killed the district's superintendent Tuesday](http://www.nj.com/mercer/index.ssf/2016/04/nj_superintendent_remembered_for_energy_commitment.html) morning
                           was late for a school trip when the crash
                           occurred, according to two sources involved in
-                          the investigation...." [Read
-                          more](http://www.nj.com/mercer/index.ssf/2016/04/student_who_struck_superintendent_was_late_for_cla.html) Hmmm...Most
+                          the investigation...." [Read more](http://www.nj.com/mercer/index.ssf/2016/04/student_who_struck_superintendent_was_late_for_cla.html) Hmmm...Most
                             tragic in so many dimensions!!!  HOWEVER, it
                             was NOT the student that STRUCK the
                             Superintendent, it was the CAR.  AND the CAR
@@ -1040,22 +962,13 @@ K. Shea, April 19, "...The
                             substantially safer.  Let's really get on
                             with it.  It's time!   Alain
 
-### [Hearing
-                          focus of SF 2569 Autonomous vehicles task
-                          force establishment and demonstration project
-                          for people with disabilities](http://mnsenate.granicus.com/MediaPlayer.php?view_id=1&clip_id=235)
+### [Hearing focus of SF 2569 Autonomous vehicles task force establishment and demonstration project for people with disabilities](http://mnsenate.granicus.com/MediaPlayer.php?view_id=1&clip_id=235)
 
  March 23 Hmmm...
-                            [Watch
-                              the video of the Committee
-                                Meeting](http://mnsenate.granicus.com/MediaPlayer.php?view_id=1&clip_id=235).  The testimony is Excellent
-                            and very compelling! Also see [Self-Driving
-                              Minnesota](http://www.selfdrivingmn.org/) Alain
+                            [Watch the video of the Committee Meeting](http://mnsenate.granicus.com/MediaPlayer.php?view_id=1&clip_id=235).  The testimony is Excellent
+                            and very compelling! Also see [Self-Driving Minnesota](http://www.selfdrivingmn.org/) Alain
 
-### [U.S.
-                          DOT and IIHS announce historic commitment of
-                          20 automakers to make automatic emergency
-                          braking standard on new vehicles](http://www.nhtsa.gov/About+NHTSA/Press+Releases/nhtsa-iihs-commitment-on-aeb-03172016)
+### [U.S. DOT and IIHS announce historic commitment of 20 automakers to make automatic emergency braking standard on new vehicles](http://www.nhtsa.gov/About+NHTSA/Press+Releases/nhtsa-iihs-commitment-on-aeb-03172016)
 
  Press Release, Mar 17, NHTSA
                         & IIHS "announced today a historic
@@ -1084,16 +997,12 @@ K. Shea, April 19, "...The
                             beginning to emerge. The
                         performance measures are based on real world
                         data showing that vehicles with this level of
-                        capability are avoiding crashes..[Watch NHTSA video on AEB](https://www.youtube.com/watch?v=Src2jhS4wcA)  [Download
-                          AEB video from IIHS](https://www.hightail.com/download/ZWJVbGtNR3NrWTg4RmNUQw)[Read
-                          more](http://www.nhtsa.gov/About+NHTSA/Press+Releases/nhtsa-iihs-commitment-on-aeb-03172016)  Hmmmm...Fantastic!
+                        capability are avoiding crashes..[Watch NHTSA video on AEB](https://www.youtube.com/watch?v=Src2jhS4wcA)  [Download AEB video from IIHS](https://www.hightail.com/download/ZWJVbGtNR3NrWTg4RmNUQw)[Read more](http://www.nhtsa.gov/About+NHTSA/Press+Releases/nhtsa-iihs-commitment-on-aeb-03172016)  Hmmmm...Fantastic!
                             Automakers leading with regulatory process
                             staying out of the way.   Alain
                                 2016
 
-### [Motor
-                          Vehicle Deaths Increase by Largest Percent in
-                          50 Years](http://www.nsc.org/NewsDocuments/2016/mv-fatality-report-1215.pdf)
+### [Motor Vehicle Deaths Increase by Largest Percent in 50 Years](http://www.nsc.org/NewsDocuments/2016/mv-fatality-report-1215.pdf)
 
  Press Release Feb 16 "With
                         continued lower gasoline prices and an improving
@@ -1113,8 +1022,7 @@ K. Shea, April 19, "...The
                         rate. The estimated annual mileage death rate is
                         1.22 deaths per 100 million vehicle miles
                         traveled, an increase of 5% from the 2014 rate.
-                        [Read
-                          more](http://www.nsc.org/NewsDocuments/2016/mv-fatality-report-1215.pdf)Hmmmm...This
+                        [Read more](http://www.nsc.org/NewsDocuments/2016/mv-fatality-report-1215.pdf)Hmmmm...This
                             is REALLY BAD news.  Come on insurance. This
                             is costing you money!  Accident rates going
                             up means that your actuarials are behind,
@@ -1128,9 +1036,7 @@ K. Shea, April 19, "...The
 
 ###
 
-### [Obama's
-                          $4 Billion Plan for Self-Driving Cars Will
-                          Make Google Very Happy](http://recode.net/2016/01/14/obamas-4-billion-plan-for-self-driving-cars-will-make-google-very-happy/)
+### [Obama's $4 Billion Plan for Self-Driving Cars Will Make Google Very Happy](http://recode.net/2016/01/14/obamas-4-billion-plan-for-self-driving-cars-will-make-google-very-happy/)
 
  M. Bergen, Jan 14 "The Obama
                         Administration has seen the self-driving future,
@@ -1151,21 +1057,15 @@ K. Shea, April 19, "...The
                         Secretary Foxx said in a statement. ...But
                           here's the part of Foxx's talk that really
                           matters for Google: These national rules will
-                          allow fully driverless cars..." [Read
-                          More](http://recode.net/2016/01/14/obamas-4-billion-plan-for-self-driving-cars-will-make-google-very-happy/)  Hmmm...
-                                A [few
-                                  months ago](http://www.its.dot.gov/press/2015/ngv_tech_announcement.htm) it was $42M for
+                          allow fully driverless cars..." [Read More](http://recode.net/2016/01/14/obamas-4-billion-plan-for-self-driving-cars-will-make-google-very-happy/)  Hmmm...
+                                A [few months ago](http://www.its.dot.gov/press/2015/ngv_tech_announcement.htm) it was $42M for
                                 Connected Vehicles. Today it is 100x for
                                 automated vehicles! Finally Secretary
-                                Foxx.."[YES!
-                                          YES! JESUS H. TAP-DANCING
-                                          CHRIST... I HAVE SEEN THE
-                                          LIGHT](https://www.youtube.com/watch?v=lX5tfRdkoY0)" (Blue Brothers)
+                                Foxx.."[YES! YES! JESUS H. TAP-DANCING CHRIST... I HAVE SEEN THE LIGHT](https://www.youtube.com/watch?v=lX5tfRdkoY0)" (Blue Brothers)
                                       Yea!!!!!   :-)
                               Alain
 
-### [Google
-                          Pairs With Ford To Build Self-Driving Cars](https://www.yahoo.com/autos/google-pairs-with-ford-to-1326344237400118.html)
+### [Google Pairs With Ford To Build Self-Driving Cars](https://www.yahoo.com/autos/google-pairs-with-ford-to-1326344237400118.html)
 
  J. Hyde & S. Carty, Dec. 21
                         "Google and Ford will create a joint venture to
@@ -1195,19 +1095,16 @@ K. Shea, April 19, "...The
                         where cars were sold as on-demand services. Ford
                         CEO Mark Fields has repeatedly said Ford was
                         thinking of itself "as a mobility company," and
-                        what that would mean for its business" [Read
-                          more](https://www.yahoo.com/autos/google-pairs-with-ford-to-1326344237400118.html)  Hmmm...Not
+                        what that would mean for its business" [Read more](https://www.yahoo.com/autos/google-pairs-with-ford-to-1326344237400118.html)  Hmmm...Not
                                 surprising and not exclusive. :-)
                               Alain
                                 2015
 
-### [Adam
-                          Jonas' View on Autonomous Cars](http://linkback.morganstanley.com/web/sendlink/webapp/BMServlet?file=kpmb1mve-3p5j-g000-97a7-d8d3855a5201&store=0&d=1&user=dagn42i4pkquh-0&__gda__=1549992813_42e5b148a43b27b943d8d34f1e5c3295#0011&dagn42i4pkquh-1&1549992813_f2523f33158f4db2b6d628c5c9008f28&0021&dagn42i4pkquh-2&1549992813_f9a15a1b06e61ec454fad4cc7759010a)
+### [Adam Jonas' View on Autonomous Cars](http://linkback.morganstanley.com/web/sendlink/webapp/BMServlet?file=kpmb1mve-3p5j-g000-97a7-d8d3855a5201&store=0&d=1&user=dagn42i4pkquh-0&__gda__=1549992813_42e5b148a43b27b943d8d34f1e5c3295#0011&dagn42i4pkquh-1&1549992813_f2523f33158f4db2b6d628c5c9008f28&0021&dagn42i4pkquh-2&1549992813_f9a15a1b06e61ec454fad4cc7759010a)
 
  Video similar to part of Adam's
                         Luncheon talk @ 2015 Florida Automated Vehicle
-                        Symposium on Dec 1.  [Hmmm ... Watch
-                          Video](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Videos/AdamJonas10T_MorganStanley.mp4)  especially
+                        Symposium on Dec 1.  [Hmmm ... Watch Video](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Videos/AdamJonas10T_MorganStanley.mp4)  especially
                             at the 13:12 mark.  Compelling; especially
                             after the 60 Minutes segment above!  Also
                             see his [TipRanks](https://www.tipranks.com/analysts/adam-jonas).
@@ -1219,13 +1116,11 @@ K. Shea, April 19, "...The
 
 [Unsubscribe](https://lists.princeton.edu/cgi-bin/wa?TICKET=NzM1MjMzIGJpbm9AUFJJTkNFVE9OLkVEVSBTTUFSVERSSVZJTkdDQVJTIGluYtYkJuu3&c=SIGNOFF) |[Re-subscribe](https://lists.princeton.edu/cgi-bin/wa?SUBED1=SmartDrivingCars&A=1)
 
-  [](Mailto:alaink@princeton.edu)[Mailto:alaink@princeton.edu](Mailto:alaink@princeton.edu) [](Mailto:alaink@princeton.edu)
+  [Mailto:alaink@princeton.edu](Mailto:alaink@princeton.edu) 
 
                                               This list is maintained by
-                                              [Alain
-                                                Kornhauser](mailto:alaink@princeton.edu) and
-                                              hosted by the [Princeton
-                                                University LISTSERV](http://lists.princeton.edu).
+                                              [Alain Kornhauser](mailto:alaink@princeton.edu) and
+                                              hosted by the [Princeton University LISTSERV](http://lists.princeton.edu).
 
 [Unsubscribe](https://lists.princeton.edu/cgi-bin/wa?TICKET=NzM1MjMzIGJpbm9AUFJJTkNFVE9OLkVEVSBTTUFSVERSSVZJTkdDQVJTIGluYtYkJuu3&c=SIGNOFF)
                                               |[Re-subscribe](https://lists.princeton.edu/cgi-bin/wa?SUBED1=SmartDrivingCars&A=1)

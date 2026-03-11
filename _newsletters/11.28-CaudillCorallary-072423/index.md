@@ -27,8 +27,7 @@ In addition to LightHouse, other groups include the San Francisco LGBT Center, S
 [Read  more](https://www.axios.com/local/san-francisco/2023/07/21/disability-advocates-support-waymo-self-driving-cars)
 Hmmmm…  Excellent! Thrilled to see that communities are advocating for MORE Waymo/driverless services, and that their requests are getting at least some media attention. We are
  hoping that many more groups follow suit. Wouldn't it be great if  companies like Waymo focused on the needs of similar community groups AND did a better job publicizing their progress in terms of delivering safe, affordable demand-responsive/high-quality
- rides?  All too often the stories intended to catch the public eye are written by those who don't actually need a ride and who don't seem to care about the potential of driverless services to disrupt the giving rides  market for the betterment of society [see
- below].  The fact that "more than a dozen" advocacy groups are joining to lobby for Waymo's permitting is proof that they (and Cruise) meet the
+ rides?  All too often the stories intended to catch the public eye are written by those who don't actually need a ride and who don't seem to care about the potential of driverless services to disrupt the giving rides  market for the betterment of society [see below].  The fact that "more than a dozen" advocacy groups are joining to lobby for Waymo's permitting is proof that they (and Cruise) meet the
 [Caudill Corollary: "Proof-of-Community Value & Sustainability"](https://www.dropbox.com/scl/fi/6e9o5fywbldcbkxg3mjf0/Caudill-Corollary-Proof-of-Community-Value-and-Sustainability.docx?rlkey=mv7buyyfj7ohw861trniultz6&dl=0).  Alain
 
 SmartDrivingCars [ZoomCast

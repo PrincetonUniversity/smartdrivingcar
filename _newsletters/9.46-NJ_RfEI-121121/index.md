@@ -18,10 +18,7 @@ December
                                                           SmartDrivingCars
                                                           eLetter
 
-### [REQUEST
-                                                          FOR EXPRESSION
-                                                          OF INTEREST:
-                                                          Trenton MOVES](https://d31hzlhk6di2h5.cloudfront.net/20211206/7b/67/1d/92/27ba0772be5390c912cc007e/Trenton_MOVES_RFEI.pdf)
+### [REQUEST FOR EXPRESSION OF INTEREST: Trenton MOVES](https://d31hzlhk6di2h5.cloudfront.net/20211206/7b/67/1d/92/27ba0772be5390c912cc007e/Trenton_MOVES_RFEI.pdf)
 
 P, Murphy,
                                                           Dec. 6, "The
@@ -162,18 +159,10 @@ proof-of-concept Operational Design
                                                           is described
                                                           in Section
                                                           3.1. ...  "[Read more](https://d31hzlhk6di2h5.cloudfront.net/20211206/7b/67/1d/92/27ba0772be5390c912cc007e/Trenton_MOVES_RFEI.pdf)  Hmmmm... How fantastic is this!
-                                                          Plus, [Governor
-                                                          Phil Murphy's
-                                                          Press Release
-                                                          announcing
-                                                          Trenton MOVES](https://www.dropbox.com/s/jqvixybcx3xa0bo/GovMurpgyTrentonMOVES_Press%20Release_120621.pdf?dl=0).
+                                                          Plus, [Governor Phil Murphy's Press Release announcing Trenton MOVES](https://www.dropbox.com/s/jqvixybcx3xa0bo/GovMurpgyTrentonMOVES_Press%20Release_120621.pdf?dl=0).
                                                           All substance!!  I also
                                                           presented
-                                                          relevant [testimony
-                                                          to NJ's
-                                                          Assembly
-                                                          Transportation
-                                                          Committee](https://www.dropbox.com/s/y2kxq6t2vnmf6dy/KornhauserTestimonyA5681v2.docx?dl=0)
+                                                          relevant [testimony to NJ's Assembly Transportation Committee](https://www.dropbox.com/s/y2kxq6t2vnmf6dy/KornhauserTestimonyA5681v2.docx?dl=0)
                                                           Thursday
                                                           morning.  An
                                                           ALK trifecta
@@ -207,18 +196,14 @@ proof-of-concept Operational Design
                                                           one!  Or we'll
                                                           assemble
                                                           volunteers
-                                                          (and[not hostages
-                                                          as Mike Tomlin
-                                                          would put it](https://www.si.com/nfl/steelers/news/pittsburgh-steelers-mike-tomlin-addresses-melvin-ingram-trade))
+                                                          (and[not hostages as Mike Tomlin would put it](https://www.si.com/nfl/steelers/news/pittsburgh-steelers-mike-tomlin-addresses-melvin-ingram-trade))
                                                           and build a
                                                           winning team
                                                           ourselves.😎
                                                           Alain
 
-### SmartDrivingCars [Pod-Cast
-                                                          Episode 245](https://anchor.fm/smartdrivingcars/episodes/Smart-Driving-Cars-Episode-245-Trenton-MOVES--more-e1bihs3),
-                                                          [](https://www.youtube.com/watch?v=xFegxpeq0Gk)[Zoom-Cast
-                                                          Episode 2](https://www.youtube.com/watch?v=4GCWnmKNU8c)[45](https://www.youtube.com/watch?v=4GCWnmKNU8c)
+### SmartDrivingCars [Pod-Cast Episode 245](https://anchor.fm/smartdrivingcars/episodes/Smart-Driving-Cars-Episode-245-Trenton-MOVES--more-e1bihs3),
+                                                          [Zoom-Cast Episode 2](https://www.youtube.com/watch?v=4GCWnmKNU8c)[45](https://www.youtube.com/watch?v=4GCWnmKNU8c)
 Trenton
                                                           MOVES
 
@@ -253,7 +238,7 @@ F.
                                                           and more."
 Technical
                                                           support
-                                                          provided by: [](https://www.cartsmobility.com/)
+                                                          provided by: 
 [https://www.cartsmobility.com/](https://www.cartsmobility.com/)
 
                                                           The
@@ -294,15 +279,7 @@ Technical
 
 ###
 
-### [Orf
-                                                          467F21
-                                                          Symposium:
-                                                          Evolutionary
-                                                          Deployment of
-                                                          a State-wide
-                                                          aTaxis system
-                                                          starting from
-                                                          MyVillage](https://www.dropbox.com/s/dfw2wpr7r8fnvzm/Orf%20467F21SymposiumProgram.docx?dl=0)
+### [Orf 467F21 Symposium: Evolutionary Deployment of a State-wide aTaxis system starting from MyVillage](https://www.dropbox.com/s/dfw2wpr7r8fnvzm/Orf%20467F21SymposiumProgram.docx?dl=0)
 
                                                           J. Woll'22, A.
                                                           Lau'23, M.
@@ -317,23 +294,14 @@ Technical
                                                           California -
                                                           Washington -
                                                           Florida -
-                                                          Connecticut" [Read more](https://drive.google.com/file/d/1Y268gtmYa3l1tNLrzNPKqYFCl6NtfKwX/view)  Hmmmm...[Video
-                                                          of
-                                                          Presentation](https://drive.google.com/file/d/1Y268gtmYa3l1tNLrzNPKqYFCl6NtfKwX/view?usp=sharing),
+                                                          Connecticut" [Read more](https://drive.google.com/file/d/1Y268gtmYa3l1tNLrzNPKqYFCl6NtfKwX/view)  Hmmmm...[Video of Presentation](https://drive.google.com/file/d/1Y268gtmYa3l1tNLrzNPKqYFCl6NtfKwX/view?usp=sharing),
                                                           [Slides](https://docs.google.com/presentation/d/1eE91cabQccyLE7B7suyQp63mKmhQHlEM6g29qf_b2gc/edit?usp=sharing),
-                                                          [Report
-                                                          Format](https://www.dropbox.com/s/fp615tv61rt7xnb/Orf467F21FinalProjectSuggested%20Format.pdf?dl=0).  I
+                                                          [Report Format](https://www.dropbox.com/s/fp615tv61rt7xnb/Orf467F21FinalProjectSuggested%20Format.pdf?dl=0).  I
                                                           coudn't be
                                                           more proud.
                                                           😁  Alain
 
-### [Robotaxi
-                                                          race opens up
-                                                          as top
-                                                          contender
-                                                          Waymo in low
-                                                          gear in
-                                                          Arizona](https://www.reuters.com/technology/waymos-slow-going-arizona-opens-up-us-robotaxi-race-2021-12-08/)
+### [Robotaxi race opens up as top contender Waymo in low gear in Arizona](https://www.reuters.com/technology/waymos-slow-going-arizona-opens-up-us-robotaxi-race-2021-12-08/)
 
                                                           P. Dave, Dec.
                                                           1, "Alphabet
@@ -409,8 +377,7 @@ Waymo's
                                                           not expanded
                                                           beyond
                                                           suburbs..... "
-                                                          [Read
-                                                          more](https://www.reuters.com/technology/waymos-slow-going-arizona-opens-up-us-robotaxi-race-2021-12-08/)  Hmmmm...
+                                                          [Read more](https://www.reuters.com/technology/waymos-slow-going-arizona-opens-up-us-robotaxi-race-2021-12-08/)  Hmmmm...
                                                           Maybe Waymo
                                                           should realize
                                                           that the
@@ -445,9 +412,7 @@ Unfortunately, they've chosen to
                                                           Sustainable,
                                                           High-quality
                                                           Mobility, as
-                                                          only a  [parking
-                                                          garage for
-                                                          their  efforts](https://www.theverge.com/2021/11/3/22761058/waymo-autonomous-vehicles-nyc-mapping-manual)
+                                                          only a  [parking garage for their  efforts](https://www.theverge.com/2021/11/3/22761058/waymo-autonomous-vehicles-nyc-mapping-manual)
                                                           to compete
                                                           with
                                                           Manhattan's
@@ -467,13 +432,7 @@ Unfortunately, they've chosen to
                                                           Good luck!
                                                           Alain
 
-### [Car
-                                                          crash deaths
-                                                          have surged
-                                                          during
-                                                          COVID-19
-                                                          pandemic.
-                                                          Here's why](https://www.latimes.com/world-nation/story/2021-12-08/traffic-deaths-surged-during-covid-19-pandemic-heres-why)
+### [Car crash deaths have surged during COVID-19 pandemic. Here's why](https://www.latimes.com/world-nation/story/2021-12-08/traffic-deaths-surged-during-covid-19-pandemic-heres-why)
 
 R.
                                                           Mitchell, Dec.
@@ -557,8 +516,7 @@ R.
                                                           less safe than
                                                           they were
                                                           pre-pandemic."..."
-                                                          [Read
-                                                          more](https://www.latimes.com/world-nation/story/2021-12-08/traffic-deaths-surged-during-covid-19-pandemic-heres-why)  Hmmmm...
+                                                          [Read more](https://www.latimes.com/world-nation/story/2021-12-08/traffic-deaths-surged-during-covid-19-pandemic-heres-why)  Hmmmm...
                                                           I prefer to
                                                           call it
                                                           mis-behavior.
@@ -573,14 +531,7 @@ R.
                                                           We all need to
                                                           relax!.  Alain
 
-### [Robotic
-                                                          Research
-                                                          raises $228M
-                                                          Series A to
-                                                          build out
-                                                          commercial
-                                                          autonomous
-                                                          offerings](https://techcrunch.com/2021/12/08/robotic-research-raises-228m-series-a-to-build-out-commercial-autonomous-offerings/)
+### [Robotic Research raises $228M Series A to build out commercial autonomous offerings](https://techcrunch.com/2021/12/08/robotic-research-raises-228m-series-a-to-build-out-commercial-autonomous-offerings/)
 
 R.
                                                           Bellan, Dec.
@@ -696,18 +647,10 @@ R.
                                                           As a result,
                                                           RR thinks it
                                                           has a leg
-                                                          up...."  [Read
-                                                          more](https://techcrunch.com/2021/12/08/robotic-research-raises-228m-series-a-to-build-out-commercial-autonomous-offerings/)  Hmmmm...
+                                                          up...."  [Read more](https://techcrunch.com/2021/12/08/robotic-research-raises-228m-series-a-to-build-out-commercial-autonomous-offerings/)  Hmmmm...
 Congratulations Alberton. 😎 Alain
 
-### [Intel
-                                                          stock rallies
-                                                          amid plan for
-                                                          Mobileye IPO
-                                                          that could
-                                                          'obviously'
-                                                          unlock value
-                                                          for chipmaker](https://www.marketwatch.com/story/intel-stock-rallies-amid-plan-for-mobileye-ipo-that-could-obviously-unlock-value-for-chipmaker-11638894229)
+### [Intel stock rallies amid plan for Mobileye IPO that could 'obviously' unlock value for chipmaker](https://www.marketwatch.com/story/intel-stock-rallies-amid-plan-for-mobileye-ipo-that-could-obviously-unlock-value-for-chipmaker-11638894229)
 
 E. Bary,
                                                           Dec. 7, "Intel
@@ -762,8 +705,7 @@ E. Bary,
                                                           Intel's
                                                           financial
                                                           statements...."
-                                                          [Read
-                                                          more](https://www.marketwatch.com/story/intel-stock-rallies-amid-plan-for-mobileye-ipo-that-could-obviously-unlock-value-for-chipmaker-11638894229)  Hmmmm...
+                                                          [Read more](https://www.marketwatch.com/story/intel-stock-rallies-amid-plan-for-mobileye-ipo-that-could-obviously-unlock-value-for-chipmaker-11638894229)  Hmmmm...
                                                           Impressive.
                                                           😎.  How much
                                                           does that make
@@ -771,13 +713,7 @@ E. Bary,
                                                           of Tesla
                                                           worth?   Alain
 
-### [Finally,
-                                                          a Fusion
-                                                          Reaction Has
-                                                          Generated More
-                                                          Energy Than
-                                                          Absorbed by
-                                                          The Fuel](https://www.sciencealert.com/for-the-first-time-a-fusion-reaction-has-generated-more-energy-than-absorbed-by-the-fuel)
+### [Finally, a Fusion Reaction Has Generated More Energy Than Absorbed by The Fuel](https://www.sciencealert.com/for-the-first-time-a-fusion-reaction-has-generated-more-energy-than-absorbed-by-the-fuel)
 
 M. Star,
                                                           Dec.3, "A
@@ -802,8 +738,7 @@ M. Star,
                                                           absorbed by
                                                           the fuel used
                                                           to trigger
-                                                          it...."  [Read
-                                                          more](https://www.marketwatch.com/story/intel-stock-rallies-amid-plan-for-mobileye-ipo-that-could-obviously-unlock-value-for-chipmaker-11638894229)  Hmmmm...
+                                                          it...."  [Read more](https://www.marketwatch.com/story/intel-stock-rallies-amid-plan-for-mobileye-ipo-that-could-obviously-unlock-value-for-chipmaker-11638894229)  Hmmmm...
                                                           Impressive. However...The
                                                           "triggering"
                                                           energy" has to
@@ -868,12 +803,7 @@ The societal objective is develop a process that takes
                                                           Vehicles.
                                                           Alain
 
-### [Transit-tech
-                                                          startup Via
-                                                          valued at $3.3
-                                                          bln after
-                                                          latest funding
-                                                          round](https://www.reuters.com/markets/funds/transit-tech-startup-via-valued-33-bln-after-latest-funding-round-2021-11-30/)
+### [Transit-tech startup Via valued at $3.3 bln after latest funding round](https://www.reuters.com/markets/funds/transit-tech-startup-via-valued-33-bln-after-latest-funding-round-2021-11-30/)
 
 R. Wilking,
                                                           Nov. 30, "Via
@@ -944,10 +874,7 @@ R. Wilking,
                                                           Congratulations!
                                                           Alain
 
-### [Tesla is selling fleet of hundreds of Model 3
-                                                          electric cars
-                                                          to New York
-                                                          City](https://electrek.co/2021/12/09/tesla-fleet-hundreds-model-3-electric-cars-new-york-city/)
+### [Tesla is selling fleet of hundreds of Model 3 electric cars to New York City](https://electrek.co/2021/12/09/tesla-fleet-hundreds-model-3-electric-cars-new-york-city/)
 
                                                           F. Lambert,
                                                           Dec. 9 ".The
@@ -1071,14 +998,7 @@ $12,360,000.00.  The term of the contract shall be five years from date
                                                           costs....." [Read more](https://electrek.co/2021/12/09/tesla-fleet-hundreds-model-3-electric-cars-new-york-city/) Hmmmm...  Impressive.
                                                           Alain
 
-### [Tesla
-                                                          is under
-                                                          scrutiny by
-                                                          NHTSA for
-                                                          enabling
-                                                          in-car video
-                                                          games while
-                                                          driving](https://electrek.co/2021/12/08/tesla-scrutiny-nhtsa-in-car-video-games-while-driving/)
+### [Tesla is under scrutiny by NHTSA for enabling in-car video games while driving](https://electrek.co/2021/12/08/tesla-scrutiny-nhtsa-in-car-video-games-while-driving/)
 
                                                           F. Lambert,
                                                           Dec. 9 "People
@@ -1115,27 +1035,17 @@ $12,360,000.00.  The term of the contract shall be five years from date
                                                           games on them,
                                                           while
                                                           driving...."
-                                                          [Read
-                                                          more](https://electrek.co/2021/12/08/tesla-scrutiny-nhtsa-in-car-video-games-while-driving/) Hmmmm...
+                                                          [Read more](https://electrek.co/2021/12/08/tesla-scrutiny-nhtsa-in-car-video-games-while-driving/) Hmmmm...
                                                           Absolutely irresponsible of Tesla who can instantly put
                                                           a stop to it
                                                           using
                                                           Over-the-Air
                                                           updating.
-                                                          [C'mon
-                                                          Elon!](https://www.youtube.com/watch?v=Wgs9u514vtg)
+                                                          [C'mon Elon!](https://www.youtube.com/watch?v=Wgs9u514vtg)
                                                           Alain
 +++++++++++++++++++
 
-### [5th Annual SmartDrivingCars
-                                                          Summit:
-                                                          Deployment of
-                                                          Equitable
-                                                          Affordable,
-                                                          High Quality
-                                                          Mobility
-                                                          throughout New
-                                                          Jersey](https://www.cartsmobility.com/summit)
+### [5th Annual SmartDrivingCars Summit: Deployment of Equitable Affordable, High Quality Mobility throughout New Jersey](https://www.cartsmobility.com/summit)
 
 Date Change:   Thursday evening, May 5,
                                                           through
@@ -1144,8 +1054,7 @@ Date Change:   Thursday evening, May 5,
                                                           in Trenton,
                                                           New Jersey.
 
-"Everything" was going well wrt the [5th
-                                                          Summit](https://www.cartsmobility.com/summit)
+"Everything" was going well wrt the [5th Summit](https://www.cartsmobility.com/summit)
                                                           Nov 18->20;
                                                            however...
 
@@ -1262,11 +1171,7 @@ Please
                                                           pencil into
                                                           your calendar
                                                           the new dates
-                                                          of  [May 5 (Thursday evening)
-                                                          though May 7 (Trenton
-                                                          Mobility
-                                                          Festival
-                                                          Saturday](https://www.cartsmobility.com/summit)).
+                                                          of  [May 5 (Thursday evening) though May 7 (Trenton Mobility Festival Saturday](https://www.cartsmobility.com/summit)).
                                                           😎   Please
                                                           let me know if
                                                           these dates
@@ -1285,8 +1190,7 @@ Sorry
                                                           Alain
 
 This
-                                                          [5th
-                                                          Summit](https://www.cartsmobility.com/summit) is
+                                                          [5th Summit](https://www.cartsmobility.com/summit) is
                                                           inspired by
                                                           the many
                                                           levels of
@@ -1552,15 +1456,9 @@ The
                                                           Mercer County
                                                           and the rest
                                                           of New Jersey
-                                                          on Saturday.  [Link to
-                                                          Sponsorship
-                                                          Opportunities](https://www.cartsmobility.com/summit-sponsorship) [Link to
-                                                          Draft Program](https://www.cartsmobility.com/summit)  [Link
-                                                          to
-                                                          Registration](https://www.eventbrite.com/e/5th-annual-princeton-smartdrivingcars-summit-trenton-nj-tickets-179506979207)
+                                                          on Saturday.  [Link to Sponsorship Opportunities](https://www.cartsmobility.com/summit-sponsorship) [Link to Draft Program](https://www.cartsmobility.com/summit)  [Link to Registration](https://www.eventbrite.com/e/5th-annual-princeton-smartdrivingcars-summit-trenton-nj-tickets-179506979207)
 
-## [C'mon
-                                                          Man!](https://www.youtube.com/watch?v=bnXl32ICWjQ)(These folks didn't get/read the memo)
+## [C'mon Man!](https://www.youtube.com/watch?v=bnXl32ICWjQ)(These folks didn't get/read the memo)
 
 ## Sunday Supplement
 
@@ -1570,7 +1468,7 @@ The
 
 ## More On....
 
-   [4th](https://orfe.princeton.edu/conferences/sdc/session/20210128)[Annual Princeton](https://orfe.princeton.edu/conferences/sdc/session/20210128)[](https://orfe.princeton.edu/conferences/sdc/session/20210128)SmartDrivingCar Summit  [It is over!!!](https://orfe.princeton.edu/conferences/sdc/session/20210325) Now
+   [4th](https://orfe.princeton.edu/conferences/sdc/session/20210128)[Annual Princeton](https://orfe.princeton.edu/conferences/sdc/session/20210128)SmartDrivingCar Summit  [It is over!!!](https://orfe.princeton.edu/conferences/sdc/session/20210325) Now
                                                           time to
                                                           actually do
                                                           something in
@@ -1578,18 +1476,13 @@ The
                                                           of this
                                                           world.
 
-### [Making
-                                                          Driverless
-                                                          Happen: The
-                                                          Road Forward
-                                                          (Updated)](https://viodi.com/2021/04/18/making-driverless-happen-the-road-forward/)
+### [Making Driverless Happen: The Road Forward (Updated)](https://viodi.com/2021/04/18/making-driverless-happen-the-road-forward/)
 
                                                           K. Pyle, April
                                                           18, "It's time
                                                           to hit the
                                                           start button,"
-                                                           is [Fred
-                                                          Fishkin's](https://www.techstination.com/) succinct
+                                                           is [Fred Fishkin's](https://www.techstination.com/) succinct
                                                           way of
                                                           summarizing
                                                           the next steps
@@ -1598,15 +1491,10 @@ The
                                                           journey.
                                                           Fiskin, along
                                                           with the LA
-                                                          Times' [Russ
-                                                          Mitchell](https://twitter.com/russ1mitchell?lang=en) co-produced
+                                                          Times' [Russ Mitchell](https://twitter.com/russ1mitchell?lang=en) co-produced
                                                           the final
                                                           session of
-                                                          the [2021
-                                                          Smart Driving
-                                                          Car Summit,
-                                                          Making It
-                                                          Happen: Part 2](https://orfe.princeton.edu/conferences/sdc/session/20210415).
+                                                          the [2021 Smart Driving Car Summit, Making It Happen: Part 2](https://orfe.princeton.edu/conferences/sdc/session/20210415).
                                                           This 16th and
                                                           final session
                                                           in this
@@ -1614,10 +1502,7 @@ The
                                                           online
                                                           conference not
                                                           only provided
-                                                          a s[ummary
-                                                          of the
-                                                          thought-provoking
-                                                          speakers](https://viodi.com/2021/04/18/making-driverless-happen-the-road-forward/),
+                                                          a s[ummary of the thought-provoking speakers](https://viodi.com/2021/04/18/making-driverless-happen-the-road-forward/),
                                                           but also
                                                           provided food
                                                           for thought on
@@ -1656,109 +1541,50 @@ The
                                                           Kornhauser,
                                                           the conference
                                                           organizer put
-                                                          it,....." [Read
-                                                          more](https://viodi.com/2021/04/18/making-driverless-happen-the-road-forward/)  Hmmmm.... We had another
+                                                          it,....." [Read more](https://viodi.com/2021/04/18/making-driverless-happen-the-road-forward/)  Hmmmm.... We had another
                                                           excellent
                                                           Session.
                                                           Thank you for
                                                           the summary,
                                                           Ken!  Alain
 
-[Ken
-                                                          Pyle](https://viodi.com/author/Ken/)'s
+[Ken Pyle](https://viodi.com/author/Ken/)'s
                                                           Session
                                                           Summaries of
                                                           4th Princeton
 SmartDrivingCar Summit:
 
-[15th
-                                                          Session    Making it Happen -
-                                                          Part One:
-                                                          Elected
-                                                          Officials'
-                                                          Role in
-                                                          Creating a
-                                                          Welcoming
-                                                          Environment in
-                                                          the Trentons
-                                                          of this World](https://viodi.com/2021/04/10/driverless-lessons-from-the-sunshine-state-to-the-garden-state/)
+[15th Session    Making it Happen - Part One: Elected Officials' Role in Creating a Welcoming Environment in the Trentons of this World](https://viodi.com/2021/04/10/driverless-lessons-from-the-sunshine-state-to-the-garden-state/)
 
-[14th
-                                                          Session    What Will Power
-                                                          Safely-driven
-                                                          Cars](https://viodi.com/2021/04/06/energizing-tomorrows-electric-drivetrains/#energy-sources-flexibility-resilience-and-independence-are-critical)
+[14th Session    What Will Power Safely-driven Cars](https://viodi.com/2021/04/06/energizing-tomorrows-electric-drivetrains/#energy-sources-flexibility-resilience-and-independence-are-critical)
 
-[13th
-                                                          Session    Improving the Moving
-                                                          of Goods](https://viodi.com/2021/03/31/driving-towards-better-goods-delivery-through-automation/)
+[13th Session    Improving the Moving of Goods](https://viodi.com/2021/03/31/driving-towards-better-goods-delivery-through-automation/)
 
-[12th
-                                                          Session    3/18/21
-                                                          Human-centered
-                                                          Design of Safe
-                                                          and Affordable
-                                                          Driverless
-                                                          Mobility](https://viodi.com/2021/03/20/empathy-trust-human-centric-autonomous-mobility-design/)
+[12th Session    3/18/21 Human-centered Design of Safe and Affordable Driverless Mobility](https://viodi.com/2021/03/20/empathy-trust-human-centric-autonomous-mobility-design/)
 
-[11th
-                                                          Session    3/11/21
-                                                          Incentivizing
-                                                          Through
-                                                          Regulation](https://viodi.com/2021/03/13/safety-first-at-the-fully-smart-driving-car-summit/)
+[11th Session    3/11/21 Incentivizing Through Regulation](https://viodi.com/2021/03/13/safety-first-at-the-fully-smart-driving-car-summit/)
 
-[10th
-                                                          Session    3/04/21
-                                                          Incentivizing
-                                                          Through
-                                                          Insurance](https://viodi.com/2021/03/05/automated-driving-technologies-driving-change-in-insurance/)
+[10th Session    3/04/21 Incentivizing Through Insurance](https://viodi.com/2021/03/05/automated-driving-technologies-driving-change-in-insurance/)
 
-[9th
-                                                          Session    2/25/21  Can Level 3
-                                                          be Delivered?](https://viodi.com/2021/02/26/level-3-the-tech-is-here-but-the-problem-is-us/#talking-about-the-vehicles-people-can-buy)
+[9th Session    2/25/21  Can Level 3 be Delivered?](https://viodi.com/2021/02/26/level-3-the-tech-is-here-but-the-problem-is-us/#talking-about-the-vehicles-people-can-buy)
 
-[8th
-                                                          Session    2/18/21  Who Will
-                                                          Build, Sell
-                                                          and Maintain
-                                                          Driverless
-                                                          Cars?](https://viodi.com/2021/02/20/to-own-or-to-use-driverless-that-is-the-question/)
+[8th Session    2/18/21  Who Will Build, Sell and Maintain Driverless Cars?](https://viodi.com/2021/02/20/to-own-or-to-use-driverless-that-is-the-question/)
 
-    [Michael
-                                                          Sena's Slides](https://www.dropbox.com/s/yfzscinfy41vrka/Sena_Session8%20SDC_Summit.pdf?dl=0), [Glenn
-                                                          Mercer Slides](https://www.dropbox.com/s/8x4sd97vrifa9r9/Mercer_Session8%20SDC_Summit.pdf?dl=0)
+    [Michael Sena's Slides](https://www.dropbox.com/s/yfzscinfy41vrka/Sena_Session8%20SDC_Summit.pdf?dl=0), [Glenn Mercer Slides](https://www.dropbox.com/s/8x4sd97vrifa9r9/Mercer_Session8%20SDC_Summit.pdf?dl=0)
 
-[7th
-                                                          Session    2/11/21  Finally
-                                                          Doing It](https://viodi.com/2021/02/13/memories-of-the-past-reflect-the-future-of-driverless/)
+[7th Session    2/11/21  Finally Doing It](https://viodi.com/2021/02/13/memories-of-the-past-reflect-the-future-of-driverless/)
 
-[6th
-                                                          Session    2/ 4/21   Safe Enough
-                                                          in the
-                                                          Operational
-                                                          Design Domain](https://viodi.com/2021/02/05/a-culture-of-safety-is-av-table-stakes/)
+[6th Session    2/ 4/21   Safe Enough in the Operational Design Domain](https://viodi.com/2021/02/05/a-culture-of-safety-is-av-table-stakes/)
 
-[5th
-                                                          Session    1/28/21   At the Tipping Point](https://viodi.com/2021/01/28/a-tipping-point-or-a-fork-in-the-road/)
+[5th Session    1/28/21   At the Tipping Point](https://viodi.com/2021/01/28/a-tipping-point-or-a-fork-in-the-road/)
 
-[4th
-                                                          Session
-                                                          1/21/21  Why
-                                                          Customers are
-                                                          Buying Them](https://viodi.com/2021/02/10/viodi-view-02-10-21/#safety-in-the-showroom-the-dispatcher)
+[4th Session 1/21/21  Why Customers are Buying Them](https://viodi.com/2021/02/10/viodi-view-02-10-21/#safety-in-the-showroom-the-dispatcher)
 
-[3rd Session    1/14/21
-                                                          The
-                                                          SmartDrivingCars
-                                                          We Can Buy
-                                                          Today](https://viodi.com/2021/01/16/where-are-we-on-the-road-to-safe-driving/)
+[3rd Session    1/14/21 The SmartDrivingCars We Can Buy Today](https://viodi.com/2021/01/16/where-are-we-on-the-road-to-safe-driving/)
 
-[2nd Session](https://viodi.com/2021/01/08/whats-the-vision-for-the-smart-driving-future/)[1/ 7/21  A Look into the Future](https://viodi.com/2021/01/08/whats-the-vision-for-the-smart-driving-future/)[](https://www.youtube.com/watch?v=pCc9N8o1dys&feature=youtu.be)[1st
-                                                          Session:](https://www.youtube.com/watch?v=pCc9N8o1dys&feature=youtu.be)[](https://www.youtube.com/watch?v=pCc9N8o1dys&feature=youtu.be)[12/17/20](https://www.youtube.com/watch?v=pCc9N8o1dys&feature=youtu.be)[Setting
-                                                          the Stage](https://www.youtube.com/watch?v=pCc9N8o1dys&feature=youtu.be)[](https://www.dropbox.com/s/akvl1klaz3jlgjf/041521_Making%20it%20Happen%20Part%202.pptx)
+[2nd Session](https://viodi.com/2021/01/08/whats-the-vision-for-the-smart-driving-future/)[1/ 7/21  A Look into the Future](https://viodi.com/2021/01/08/whats-the-vision-for-the-smart-driving-future/)[1st Session:](https://www.youtube.com/watch?v=pCc9N8o1dys&feature=youtu.be)[12/17/20](https://www.youtube.com/watch?v=pCc9N8o1dys&feature=youtu.be)[Setting the Stage](https://www.youtube.com/watch?v=pCc9N8o1dys&feature=youtu.be)
 
-[Kornhauser
-                                                          & He,
-                                                          April 2021](https://www.dropbox.com/s/akvl1klaz3jlgjf/041521_Making%20it%20Happen%20Part%202.pptx)"Making it Happen:  A Proposal for Providing
+[Kornhauser & He, April 2021](https://www.dropbox.com/s/akvl1klaz3jlgjf/041521_Making%20it%20Happen%20Part%202.pptx)"Making it Happen:  A Proposal for Providing
                                                           Affordable,
                                                           High-quality,
                                                           On-demand
@@ -1767,22 +1593,12 @@ SmartDrivingCar Summit:
                                                           "Trentons" of
                                                           this World"
 
-Orf467F20_FinalReport "[Analyzing Ride-Share Potential and Empty
-                                                          Repositioning
-                                                          Requirements
-                                                          of a
-                                                          Nationwide
-                                                          aTaxi System](https://www.dropbox.com/s/custfytlu31kca7/Orf467F20Nationwide_aTaxiFinalReportCompilaation.pdf)"
-Kornhauser & He, March 2021 ["AV
-                                                          101 + Trenton
-                                                          Affordable HQ
-                                                          Mobility
-                                                          Initiative"](https://www.dropbox.com/s/bzbpvbddgnyb79r/032021_AutomatedVehicleTechnologiesODD%2BTrenton_Alain_Jerry.pptx?dl=0)
+Orf467F20_FinalReport "[Analyzing Ride-Share Potential and Empty Repositioning Requirements of a Nationwide aTaxi System](https://www.dropbox.com/s/custfytlu31kca7/Orf467F20Nationwide_aTaxiFinalReportCompilaation.pdf)"
+Kornhauser & He, March 2021 ["AV 101 + Trenton Affordable HQ Mobility Initiative"](https://www.dropbox.com/s/bzbpvbddgnyb79r/032021_AutomatedVehicleTechnologiesODD%2BTrenton_Alain_Jerry.pptx?dl=0)
 
 ###
 
-### Re-see:    [Pop Up Metro USA
-                                                          Intro 09 2020](https://www.youtube.com/watch?v=rFyRcbL6-N8)
+### Re-see:    [Pop Up Metro USA Intro 09 2020](https://www.youtube.com/watch?v=rFyRcbL6-N8)
 
 H.
                                                           Poser'77, Sept
@@ -1791,8 +1607,7 @@ H.
                                                           Value for
                                                           Light Density
                                                           Urban Rail
-                                                          Lines"  . [See
-                                                          slides](http://rrdc.com/presentation_NJ_TransAction_2020_10_PUM.pdf),  [See video](https://www.youtube.com/watch?v=rFyRcbL6-N8) Hmmmm... Simply Brilliant.  Alain
+                                                          Lines"  . [See slides](http://rrdc.com/presentation_NJ_TransAction_2020_10_PUM.pdf),  [See video](https://www.youtube.com/watch?v=rFyRcbL6-N8) Hmmmm... Simply Brilliant.  Alain
 
 ### Calendar of Upcoming
                                                           Events
@@ -1801,25 +1616,12 @@ H.
                                                           Summit
 
 [Spring 2022](https://www.cartsmobility.com/summit)
-[](https://www.cartsmobility.com/summit)[](https://www.cartsmobility.com/summit)[](https://www.cartsmobility.com/summit)
-[Thursday
-                                                          (evening), May
-                                                          5, Welcome
-                                                          Reception](https://www.cartsmobility.com/summit) [(Registration
-                                                          required)](https://www.eventbrite.com/e/5th-annual-princeton-smartdrivingcars-summit-trenton-nj-tickets-179506979207)
 
-[Friday, May 6,
-                                                          Equitable
-                                                          Mobility
-                                                          Innovation
-                                                          Forum](https://www.cartsmobility.com/summit) [(Registration
-                                                          required)](https://www.eventbrite.com/e/5th-annual-princeton-smartdrivingcars-summit-trenton-nj-tickets-179506979207)
+[Thursday (evening), May 5, Welcome Reception](https://www.cartsmobility.com/summit) [(Registration required)](https://www.eventbrite.com/e/5th-annual-princeton-smartdrivingcars-summit-trenton-nj-tickets-179506979207)
 
-[Saturday,
-                                                          May 7,
-                                                          Equitable
-                                                          Mobility
-                                                          Festival](https://www.cartsmobility.com/summit) (Open
+[Friday, May 6, Equitable Mobility Innovation Forum](https://www.cartsmobility.com/summit) [(Registration required)](https://www.eventbrite.com/e/5th-annual-princeton-smartdrivingcars-summit-trenton-nj-tickets-179506979207)
+
+[Saturday, May 7, Equitable Mobility Festival](https://www.cartsmobility.com/summit) (Open
                                                           to All)
 
 Trenton,
@@ -1828,21 +1630,12 @@ Trenton,
 Live
                                                           in Person
 
-[On the
-                                                          More Technical
-                                                          Side](https://orfe.princeton.edu/~alaink/SmartDrivingCars/Papers/indexNew.html)
+[On the More Technical Side](https://orfe.princeton.edu/~alaink/SmartDrivingCars/Papers/indexNew.html)
 [http://orfe.princeton.edu/~alaink/SmartDrivingCars/Papers/](https://orfe.princeton.edu/~alaink/SmartDrivingCars/Papers/indexNew.html)
 
-[K.
-                                                          Lockean's AV
-                                                          Research Group
-                                                          at U of Texas](https://www.caee.utexas.edu/prof/kockelman/home.html#RESEARCH_&_REPORTS:_Self-Driving,_Automated,_&_Connected_Vehicles)
+[K. Lockean's AV Research Group at U of Texas](https://www.caee.utexas.edu/prof/kockelman/home.html#RESEARCH_&_REPORTS:_Self-Driving,_Automated,_&_Connected_Vehicles)
 
-### and     [The SYMPOSIUM
-                                                          ON THE FUTURE
-                                                          NETWORKED CAR
-                                                          2021 VIRTUAL
-                                                          EVENT](https://www.itu.int/en/fnc/2021/Pages/default.aspx)
+### and     [The SYMPOSIUM ON THE FUTURE NETWORKED CAR 2021 VIRTUAL EVENT](https://www.itu.int/en/fnc/2021/Pages/default.aspx)
 
  R.
                                                           Shields, 22 -
@@ -1858,10 +1651,8 @@ Session
 
                                                           Session 3: [(Automated Driving Systems](https://youtu.be/uL2dRHuX2Cc)): [https://youtu.be/uL2dRHuX2Cc](https://youtu.be/uL2dRHuX2Cc)
 
-                                                          Session 4: [(Communications for
-                                                          ADS](https://www.youtube.com/watch?v=IFQcL6yfBso)) : [https://www.youtube.com/watch?v=IFQcL6yfBso](https://www.youtube.com/watch?v=IFQcL6yfBso)
-[Read
-                                                          more](https://www.itu.int/en/fnc/2021/Pages/default.aspx)  Hmmmm...
+                                                          Session 4: [(Communications for ADS](https://www.youtube.com/watch?v=IFQcL6yfBso)) : [https://www.youtube.com/watch?v=IFQcL6yfBso](https://www.youtube.com/watch?v=IFQcL6yfBso)
+[Read more](https://www.itu.int/en/fnc/2021/Pages/default.aspx)  Hmmmm...
                                                           Russ, thank
                                                           you for
                                                           sharing!
@@ -1881,21 +1672,17 @@ These
                                                           information
                                                           head to [www.motoetf.com](https://gate.sc/?url=http%3A%2F%2Fwww.motoetf.com&token=314192-1-1579871872239)
 
-[](https://www.cartsmobility.com/)
+
 [https://www.cartsmobility.com/](https://www.cartsmobility.com/)
                                                           provides
                                                           technical
                                                           support
 
 SmartDrivingCars
-                                                          [Pod-Cast
-                                                          Episode 244](https://anchor.fm/smartdrivingcars/episodes/Smart-Driving-Cars-Episode-244-e1b54me),
-                                                          [](https://www.youtube.com/watch?v=xFegxpeq0Gk)[Zoom-Cast Episode 2](https://www.youtube.com/watch?v=CYQkIfDRx4s)[44](https://www.youtube.com/watch?v=CYQkIfDRx4s)
+                                                          [Pod-Cast Episode 244](https://anchor.fm/smartdrivingcars/episodes/Smart-Driving-Cars-Episode-244-e1b54me),
+                                                          [Zoom-Cast Episode 2](https://www.youtube.com/watch?v=CYQkIfDRx4s)[44](https://www.youtube.com/watch?v=CYQkIfDRx4s)
 w/Michael
-                                                          Sena... [Germany's
-                                                          Automotive
-                                                          Industry in
-                                                          Transition](https://www.dropbox.com/s/jrb9v5qrh05l1ms/The%20Dispatcher_December%202021.pdf?dl=0)…
+                                                          Sena... [Germany's Automotive Industry in Transition](https://www.dropbox.com/s/jrb9v5qrh05l1ms/The%20Dispatcher_December%202021.pdf?dl=0)…
 
 ###
 
@@ -1933,9 +1720,8 @@ F.
                                                           Fishkin".
 
 SmartDrivingCars
-                                                          [Pod-Cast
-                                                          Episode 24](https://anchor.fm/smartdrivingcars/episodes/Smart-Driving-Cars-Episode-243-AutoX--Gatik--Tesla--more-e1as9aq)[3](https://anchor.fm/smartdrivingcars/episodes/Smart-Driving-Cars-Episode-243-AutoX--Gatik--Tesla--more-e1as9aq),
-                                                          [](https://www.youtube.com/watch?v=xFegxpeq0Gk)[Zoom-Cast Episode 2](https://www.youtube.com/watch?v=_bVvILL7O9Q)[43](https://www.youtube.com/watch?v=_bVvILL7O9Q)
+                                                          [Pod-Cast Episode 24](https://anchor.fm/smartdrivingcars/episodes/Smart-Driving-Cars-Episode-243-AutoX--Gatik--Tesla--more-e1as9aq)[3](https://anchor.fm/smartdrivingcars/episodes/Smart-Driving-Cars-Episode-243-AutoX--Gatik--Tesla--more-e1as9aq),
+                                                          [Zoom-Cast Episode 2](https://www.youtube.com/watch?v=_bVvILL7O9Q)[43](https://www.youtube.com/watch?v=_bVvILL7O9Q)
 Progress
                                                           with
                                                           Driverless
@@ -1976,9 +1762,8 @@ F.
                                                           Driving Cars".
 
 SmartDrivingCars
-                                                          [Pod-Cast
-                                                          Episode 24](https://anchor.fm/smartdrivingcars/episodes/Smart-Driving-Cars-Episode-242-e1act7n)2,
-                                                          [](https://www.youtube.com/watch?v=xFegxpeq0Gk)[Zoom-Cast Episode 2](https://www.youtube.com/watch?v=NnebUnomQIQ)[42](https://www.youtube.com/watch?v=NnebUnomQIQ)
+                                                          [Pod-Cast Episode 24](https://anchor.fm/smartdrivingcars/episodes/Smart-Driving-Cars-Episode-242-e1act7n)2,
+                                                          [Zoom-Cast Episode 2](https://www.youtube.com/watch?v=NnebUnomQIQ)[42](https://www.youtube.com/watch?v=NnebUnomQIQ)
 w/Gabe Hinton
                                                           & Dick
                                                           Mudge
@@ -2020,9 +1805,8 @@ F.
                                                           the issues.
 
 SmartDrivingCars
-                                                          [Pod-Cast
-                                                          Episode 241](https://anchor.fm/smartdrivingcars/episodes/Smart-Driving-Cars-Episode-241-NVIDIAs-everything-autonomous-declaration-e1a590e),
-                                                          [](https://www.youtube.com/watch?v=xFegxpeq0Gk)[Zoom-Cast Episode 2](https://www.youtube.com/watch?v=XW3DMLqBiZA)[41](https://www.youtube.com/watch?v=XW3DMLqBiZA)
+                                                          [Pod-Cast Episode 241](https://anchor.fm/smartdrivingcars/episodes/Smart-Driving-Cars-Episode-241-NVIDIAs-everything-autonomous-declaration-e1a590e),
+                                                          [Zoom-Cast Episode 2](https://www.youtube.com/watch?v=XW3DMLqBiZA)[41](https://www.youtube.com/watch?v=XW3DMLqBiZA)
 w/Danny
                                                           Shapiro,
                                                           nVIDIA
@@ -2063,9 +1847,8 @@ F.
                                                           Cars. "
 
 SmartDrivingCars
-                                                          [Pod-Cast
-                                                          Episode 240](https://anchor.fm/smartdrivingcars/episodes/Smart-Driving-Cars-Episode-240-e19t39s)[,](https://soundcloud.com/smartdrivingcar/smart-driving-cars-230-with-tim-higgins-author-of-power-play)
-[](https://www.youtube.com/watch?v=xFegxpeq0Gk)[Zoom-Cast Episode 2](https://youtu.be/-DN4ShwqX7Q)[40](https://youtu.be/-DN4ShwqX7Q) AEB&FSD
+                                                          [Pod-Cast Episode 240](https://anchor.fm/smartdrivingcars/episodes/Smart-Driving-Cars-Episode-240-e19t39s)[,](https://soundcloud.com/smartdrivingcar/smart-driving-cars-230-with-tim-higgins-author-of-power-play)
+[Zoom-Cast Episode 2](https://youtu.be/-DN4ShwqX7Q)[40](https://youtu.be/-DN4ShwqX7Q) AEB&FSD
 
 ###
 
@@ -2099,9 +1882,8 @@ F.
                                                           Fishkin. "
 
 SmartDrivingCars
-                                                          [Pod-Cast
-                                                          Episode 239](https://anchor.fm/smartdrivingcars/episodes/Smart-Driving-Cars-Episode-239-The-EV-battle-to-come-e19f7oo)[,](https://soundcloud.com/smartdrivingcar/smart-driving-cars-230-with-tim-higgins-author-of-power-play)
-[](https://www.youtube.com/watch?v=xFegxpeq0Gk)[Zoom-Cast Episode 239](https://www.youtube.com/watch?v=omuNXHE-cto) w/Michael
+                                                          [Pod-Cast Episode 239](https://anchor.fm/smartdrivingcars/episodes/Smart-Driving-Cars-Episode-239-The-EV-battle-to-come-e19f7oo)[,](https://soundcloud.com/smartdrivingcar/smart-driving-cars-230-with-tim-higgins-author-of-power-play)
+[Zoom-Cast Episode 239](https://www.youtube.com/watch?v=omuNXHE-cto) w/Michael
                                                           Sena, Editor
                                                           of The
                                                           Dispatcher
@@ -2140,8 +1922,7 @@ F.
                                                           more."
 
 SmartDrivingCars
-                                                          [Pod-Cast
-                                                          Episode 238](https://anchor.fm/smartdrivingcars/episodes/Smart-Driving-Cars-Episode-238-Futurist--Author-Chunka-Mui-e1949gd)[,](https://soundcloud.com/smartdrivingcar/smart-driving-cars-230-with-tim-higgins-author-of-power-play)
+                                                          [Pod-Cast Episode 238](https://anchor.fm/smartdrivingcars/episodes/Smart-Driving-Cars-Episode-238-Futurist--Author-Chunka-Mui-e1949gd)[,](https://soundcloud.com/smartdrivingcar/smart-driving-cars-230-with-tim-higgins-author-of-power-play)
 [Zoom-Cast Episode 238](https://www.youtube.com/watch?v=xFegxpeq0Gk) w/Chunk Mui, Futurist
 
 ###
@@ -2151,14 +1932,7 @@ SmartDrivingCars
 F.
                                                           Fishkin,Oct
                                                           18, "With his
-                                                          new book "[A
-                                                          Brief History
-                                                          of a Perfect
-                                                          Future..Inventing
-                                                          the World We
-                                                          Can Proudly
-                                                          Leave Our Kids
-                                                          by 2050](https://www.amazon.com/Brief-History-Perfect-Future-Inventing/dp/B09J6YK1YW/ref=sr_1_1?crid=1K07BXDCCIUYE&dchild=1&keywords=chunka+mui&qid=1635109022&qsid=138-7445338-7334933&s=books&sprefix=chunka+mui%2Caps%2C189&sr=1-1&sres=0989242048%2C1591842891%2C0989242013%2CB00C4D43K4%2CB001G0KBR0%2C1578512611%2C1781256179%2C8576842904%2C3822815667%2CB00G0ADGX2%2C9506412901%2C157851262X%2CB0716D8MLV)",
+                                                          new book "[A Brief History of a Perfect Future..Inventing the World We Can Proudly Leave Our Kids by 2050](https://www.amazon.com/Brief-History-Perfect-Future-Inventing/dp/B09J6YK1YW/ref=sr_1_1?crid=1K07BXDCCIUYE&dchild=1&keywords=chunka+mui&qid=1635109022&qsid=138-7445338-7334933&s=books&sprefix=chunka+mui%2Caps%2C189&sr=1-1&sres=0989242048%2C1591842891%2C0989242013%2CB00C4D43K4%2CB001G0KBR0%2C1578512611%2C1781256179%2C8576842904%2C3822815667%2CB00G0ADGX2%2C9506412901%2C157851262X%2CB0716D8MLV)",
                                                           author and
                                                           futurist
                                                           Chunka Mui
@@ -2193,8 +1967,7 @@ F.
                                                           Driving Cars".
 
 SmartDrivingCars
-                                                          [Pod-Cast
-                                                          Episode 23](https://anchor.fm/smartdrivingcars/episodes/Smart-Driving-Cars-Episode-237-Aurora--Motional--Tesla--more-e18ubqh)[7](https://anchor.fm/smartdrivingcars/episodes/Smart-Driving-Cars-Episode-237-Aurora--Motional--Tesla--more-e18ubqh)[,](https://soundcloud.com/smartdrivingcar/smart-driving-cars-230-with-tim-higgins-author-of-power-play)
+                                                          [Pod-Cast Episode 23](https://anchor.fm/smartdrivingcars/episodes/Smart-Driving-Cars-Episode-237-Aurora--Motional--Tesla--more-e18ubqh)[7](https://anchor.fm/smartdrivingcars/episodes/Smart-Driving-Cars-Episode-237-Aurora--Motional--Tesla--more-e18ubqh)[,](https://soundcloud.com/smartdrivingcar/smart-driving-cars-230-with-tim-higgins-author-of-power-play)
 [Zoom-Cast Episode 237](https://youtu.be/Y6Thme6JZvk) Aurora aTaxi  & aTrucking
 
 ###
@@ -2235,8 +2008,7 @@ F.
                                                           Fred Fishkin."
 
 SmartDrivingCars
-                                                          [Pod-Cast
-                                                          Episode 236](https://anchor.fm/smartdrivingcars/episodes/The-Tesla-automatic-braking-mystery-e18jqe5)[,](https://soundcloud.com/smartdrivingcar/smart-driving-cars-230-with-tim-higgins-author-of-power-play)
+                                                          [Pod-Cast Episode 236](https://anchor.fm/smartdrivingcars/episodes/The-Tesla-automatic-braking-mystery-e18jqe5)[,](https://soundcloud.com/smartdrivingcar/smart-driving-cars-230-with-tim-higgins-author-of-power-play)
 [Zoom-Cast Episode 236](https://youtu.be/g12kXGw-tYk) w/Russ
                                                           Mitchell, LA
                                                           Times Staff
@@ -2287,8 +2059,7 @@ F.
                                                           liftoff."
 
 SmartDrivingCars
-                                                          [Pod-Cast
-                                                          Episode 235](https://anchor.fm/smartdrivingcars/episodes/Smart-Driving-Cars-Episode-235---The-shifting-picture-of-what-is-a-car-company-e184ds0)[,](https://soundcloud.com/smartdrivingcar/smart-driving-cars-230-with-tim-higgins-author-of-power-play)
+                                                          [Pod-Cast Episode 235](https://anchor.fm/smartdrivingcars/episodes/Smart-Driving-Cars-Episode-235---The-shifting-picture-of-what-is-a-car-company-e184ds0)[,](https://soundcloud.com/smartdrivingcar/smart-driving-cars-230-with-tim-higgins-author-of-power-play)
 [Zoom-Cast Episode 235](https://www.youtube.com/watch?v=N-sUN5B8pWw) w/Michael
                                                           Sena, Editor,
                                                           The
@@ -2327,13 +2098,9 @@ F.
                                                           all... "
 
 SmartDrivingCars
-                                                          [Pod-Cast
-                                                          Episode 234](https://anchor.fm/smartdrivingcars/episodes/Smart-Driving-Cars-Episode-234-e17uqk1)[,](https://soundcloud.com/smartdrivingcar/smart-driving-cars-230-with-tim-higgins-author-of-power-play)
+                                                          [Pod-Cast Episode 234](https://anchor.fm/smartdrivingcars/episodes/Smart-Driving-Cars-Episode-234-e17uqk1)[,](https://soundcloud.com/smartdrivingcar/smart-driving-cars-230-with-tim-higgins-author-of-power-play)
 [Zoom-Cast Episode 234](https://youtu.be/Ny-D6RpMEBc) 1st Preview
-                                                          of [5th
-                                                          Princeton
-                                                          SmartDrivingCar
-                                                          Summit](https://www.dropbox.com/s/2w9c5uxrtkp0sqy/ProgramDraft_5thAnnualPrincetonSDC_Summit_V1.2.pdf?dl=0)
+                                                          of [5th Princeton SmartDrivingCar Summit](https://www.dropbox.com/s/2w9c5uxrtkp0sqy/ProgramDraft_5thAnnualPrincetonSDC_Summit_V1.2.pdf?dl=0)
 
 ###
 
@@ -2373,12 +2140,9 @@ F.
                                                           subscribe.."
 
 SmartDrivingCars
-                                                          [Pod-Cast
-                                                          Episode 233](https://anchor.fm/smartdrivingcars/episodes/Smart-Driving-Cars-Episode-233-Making-mobility-happen-in-Europe--Trenton-and-beyond-e17hlb3?fbclid=IwAR1xbB6MtwXTfUMc9cDSO9R4JxL5lN4iZriVN_tQvxLdLndZVeoMtRwFR2o)[,](https://soundcloud.com/smartdrivingcar/smart-driving-cars-230-with-tim-higgins-author-of-power-play)
-[](https://www.youtube.com/watch?v=YT4B5P9bK2E)[Zoom-Cast Episode 233](https://www.youtube.com/watch?v=tXftLIjz4as)
-                                                          w [Prof.
-                                                          Adriano
-                                                          Alessandrini](https://www.f6s.com/adrianoalessandrini)at
+                                                          [Pod-Cast Episode 233](https://anchor.fm/smartdrivingcars/episodes/Smart-Driving-Cars-Episode-233-Making-mobility-happen-in-Europe--Trenton-and-beyond-e17hlb3?fbclid=IwAR1xbB6MtwXTfUMc9cDSO9R4JxL5lN4iZriVN_tQvxLdLndZVeoMtRwFR2o)[,](https://soundcloud.com/smartdrivingcar/smart-driving-cars-230-with-tim-higgins-author-of-power-play)
+[Zoom-Cast Episode 233](https://www.youtube.com/watch?v=tXftLIjz4as)
+                                                          w [Prof. Adriano Alessandrini](https://www.f6s.com/adrianoalessandrini)at
                                                           the U. of
                                                           Florence
 
@@ -2425,11 +2189,9 @@ SmartDrivingCars
                                                           Smart Driving
                                                           Car
 SmartDrivingCars
-                                                          [Pod-Cast
-                                                          Episode 232](https://anchor.fm/smartdrivingcars/episodes/Smart-Driving-Cars-Episode-232-Can-cameras-alone-get-to-driverless-mobility-e16tilm)[,](https://soundcloud.com/smartdrivingcar/smart-driving-cars-230-with-tim-higgins-author-of-power-play)
-[](https://www.youtube.com/watch?v=YT4B5P9bK2E)[Zoom-Cast Episode 232](https://www.youtube.com/watch?v=PeGxqFemSWw)
-                                                          w [Steven
-                                                          Shladover](https://path.berkeley.edu/steven-e-shladover)
+                                                          [Pod-Cast Episode 232](https://anchor.fm/smartdrivingcars/episodes/Smart-Driving-Cars-Episode-232-Can-cameras-alone-get-to-driverless-mobility-e16tilm)[,](https://soundcloud.com/smartdrivingcar/smart-driving-cars-230-with-tim-higgins-author-of-power-play)
+[Zoom-Cast Episode 232](https://www.youtube.com/watch?v=PeGxqFemSWw)
+                                                          w [Steven Shladover](https://path.berkeley.edu/steven-e-shladover)
 
 ###
 
@@ -2473,13 +2235,11 @@ F.
                                                           subscribe!"
 
 SmartDrivingCars
-                                                          [Pod-Cast
-                                                          Episode 231](https://anchor.fm/smartdrivingcars/episodes/Smart-Driving-Cars-Episode-231-Tesla--Waymo--the-future-of-car-making-e16g8ka)[,](https://soundcloud.com/smartdrivingcar/smart-driving-cars-230-with-tim-higgins-author-of-power-play)
-[](https://www.youtube.com/watch?v=YT4B5P9bK2E)[Zoom-Cast Episode 231](https://www.youtube.com/watch?v=YT4B5P9bK2E)
+                                                          [Pod-Cast Episode 231](https://anchor.fm/smartdrivingcars/episodes/Smart-Driving-Cars-Episode-231-Tesla--Waymo--the-future-of-car-making-e16g8ka)[,](https://soundcloud.com/smartdrivingcar/smart-driving-cars-230-with-tim-higgins-author-of-power-play)
+[Zoom-Cast Episode 231](https://www.youtube.com/watch?v=YT4B5P9bK2E)
                                                           w Michael
                                                           Sena, Creator
-                                                          of [The
-                                                          Dispatcher](https://www.dropbox.com/s/jaau5r3mbqetqoj/The-Dispatcher_September-2021.pdf?dl=0)
+                                                          of [The Dispatcher](https://www.dropbox.com/s/jaau5r3mbqetqoj/The-Dispatcher_September-2021.pdf?dl=0)
 
 ###
 
@@ -2518,15 +2278,10 @@ F.
                                                           Or listen."
 
 SmartDrivingCars
-                                                          [Pod-Cast
-                                                          Episode 230](https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-230-teslas-humanoids-and-elevators)[,](https://soundcloud.com/smartdrivingcar/smart-driving-cars-230-with-tim-higgins-author-of-power-play)
-[](https://www.youtube.com/watch?v=bZAfs4qULMk)[Zoom-Cast Episode 230](https://www.youtube.com/watch?v=uE7O7gvdcIQ)
+                                                          [Pod-Cast Episode 230](https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-230-teslas-humanoids-and-elevators)[,](https://soundcloud.com/smartdrivingcar/smart-driving-cars-230-with-tim-higgins-author-of-power-play)
+[Zoom-Cast Episode 230](https://www.youtube.com/watch?v=uE7O7gvdcIQ)
                                                           w/Tim Higgins,
-                                                          author: P[OWER
-                                                          PLAY: Tesla,
-                                                          Elon Musk and
-                                                          the Bet of the
-                                                          Century](https://www.amazon.com/Power-Play-Tesla-Elon-Century/dp/B08N8PG1LR/ref=sr_1_1?dchild=1&keywords=Higgins+power+play&qid=1627871949&sr=8-1)
+                                                          author: P[OWER PLAY: Tesla, Elon Musk and the Bet of the Century](https://www.amazon.com/Power-Play-Tesla-Elon-Century/dp/B08N8PG1LR/ref=sr_1_1?dchild=1&keywords=Higgins+power+play&qid=1627871949&sr=8-1)
 
 ###
 
@@ -2584,16 +2339,9 @@ F.
                                                           Higgins of the
                                                           Wall Street
                                                           Journal
-                                                          ..author of [POWER
-                                                          PLAY... Tesla,
-                                                          Elon Musk and
-                                                          the Bet of the
-                                                          Century](https://anchor.fm/smartdrivingcars/episodes/Smart-Driving-Cars-Episode-230-Teslas--Humanoids-and-Elevators-e168g34).
+                                                          ..author of [POWER PLAY... Tesla, Elon Musk and the Bet of the Century](https://anchor.fm/smartdrivingcars/episodes/Smart-Driving-Cars-Episode-230-Teslas--Humanoids-and-Elevators-e168g34).
 
-SmartDrivingCars [Pod-Cast
-                                                          Episode 229](https://anchor.fm/smartdrivingcars/episodes/Smart-Driving-Cars-Episode-229-e1649ro), [Zoom-Cast Episode 229](https://www.youtube.com/watch?v=gQQhxqnPv_M) w/[Russ
-                                                          Mitchell, Los
-                                                          Angeles Times](https://www.latimes.com/people/russ-mitchell)
+SmartDrivingCars [Pod-Cast Episode 229](https://anchor.fm/smartdrivingcars/episodes/Smart-Driving-Cars-Episode-229-e1649ro), [Zoom-Cast Episode 229](https://www.youtube.com/watch?v=gQQhxqnPv_M) w/[Russ Mitchell, Los Angeles Times](https://www.latimes.com/people/russ-mitchell)
 
 F.
                                                           Fishkin, Aug
@@ -2625,9 +2373,7 @@ F.
                                                           other vehicle
                                                           makers."
 
-SmartDrivingCars [Pod-Cast
-                                                          Episode 228](https://anchor.fm/smartdrivingcars/episodes/Smart-Driving-Cars-Episode-228-e15t6ss), [Zoom-Cast
-                                                          Episode 228](https://youtu.be/Prun7fwOzYM)
+SmartDrivingCars [Pod-Cast Episode 228](https://anchor.fm/smartdrivingcars/episodes/Smart-Driving-Cars-Episode-228-e15t6ss), [Zoom-Cast Episode 228](https://youtu.be/Prun7fwOzYM)
 Planes,
                                                           Trains &
                                                           Automobiles
@@ -2665,15 +2411,10 @@ F.
                                                           Cars. "
 
 SmartDrivingCars
-                                                          [Pod-Cast
-                                                          Episode 226](https://soundcloud.com/smartdrivingcar/smart-driving-cars-226-with-tim-higgins-author-of-power-play),
-                                                          [](https://www.youtube.com/watch?v=bZAfs4qULMk)[Zoom-Cast Episode 226](https://www.youtube.com/watch?v=Mi6tCNj6Zro)
+                                                          [Pod-Cast Episode 226](https://soundcloud.com/smartdrivingcar/smart-driving-cars-226-with-tim-higgins-author-of-power-play),
+                                                          [Zoom-Cast Episode 226](https://www.youtube.com/watch?v=Mi6tCNj6Zro)
                                                           w/Tim Higgins,
-                                                          author: P[OWER
-                                                          PLAY: Tesla,
-                                                          Elon Musk and
-                                                          the Bet of the
-                                                          Century](https://www.amazon.com/Power-Play-Tesla-Elon-Century/dp/B08N8PG1LR/ref=sr_1_1?dchild=1&keywords=Higgins+power+play&qid=1627871949&sr=8-1)
+                                                          author: P[OWER PLAY: Tesla, Elon Musk and the Bet of the Century](https://www.amazon.com/Power-Play-Tesla-Elon-Century/dp/B08N8PG1LR/ref=sr_1_1?dchild=1&keywords=Higgins+power+play&qid=1627871949&sr=8-1)
 
 ###
 
@@ -2706,9 +2447,7 @@ F.
                                                           Fishkin.    Or
                                                           listen..  [https://soundcloud.com/smartdrivingcar/smart-driving-cars-226-with-tim-higgins-author-of-power-play](https://soundcloud.com/smartdrivingcar/smart-driving-cars-226-with-tim-higgins-author-of-power-play).
 
-SmartDrivingCars [Pod-Cast
-                                                          Episode 225](https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-225), [Zoom-Cast
-                                                          Episode 225](https://youtu.be/pRrA7Ii6Hcc) w/Kevin
+SmartDrivingCars [Pod-Cast Episode 225](https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-225), [Zoom-Cast Episode 225](https://youtu.be/pRrA7Ii6Hcc) w/Kevin
                                                           Biesty, Deputy
                                                           Director for
                                                           Policy @
@@ -2748,8 +2487,7 @@ Transportation,  joins Princeton's Alain Kornhauser & co-host Fred
                                                           Mercedes &
                                                           more. "
 
-SmartDrivingCars [Pod-Cast
-                                                          Episode 224](https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-224), [Zoom-Cast Episode 224](https://www.youtube.com/watch?v=rOjuxzwErEY)  w/Selika
+SmartDrivingCars [Pod-Cast Episode 224](https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-224), [Zoom-Cast Episode 224](https://www.youtube.com/watch?v=rOjuxzwErEY)  w/Selika
                                                           Josiah Talbot,
                                                           Principal,
                                                           Autonomous
@@ -2796,8 +2534,7 @@ F.
                                                           deployed to
                                                           improve lives.
 
-SmartDrivingCars [Pod-Cast
-                                                          Episode 223](https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-223), [Zoom-Cast Episode 223](https://www.youtube.com/watch?v=hir1uWf8_TE)  w/Richard
+SmartDrivingCars [Pod-Cast Episode 223](https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-223), [Zoom-Cast Episode 223](https://www.youtube.com/watch?v=hir1uWf8_TE)  w/Richard
                                                           Mudge, Compass
                                                           Transp.  &
                                                           Baruch
@@ -2837,9 +2574,7 @@ F.
                                                           Research Board
                                                           sessions. "
 
-SmartDrivingCars [Pod-Cast
-                                                          Episode 222](https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-222), [Zoom-Cast
-                                                          Episode 222](https://youtu.be/o7NJhbvCX7c)
+SmartDrivingCars [Pod-Cast Episode 222](https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-222), [Zoom-Cast Episode 222](https://youtu.be/o7NJhbvCX7c)
 
 F.
                                                           Fishkin, July
@@ -2868,9 +2603,7 @@ F.
                                                           co-host Fred
                                                           Fishkin. "
 
-SmartDrivingCars [Pod-Cast
-                                                          Episode 221](https://soundcloud.com/smartdrivingcar/smart-driving-cars-221-the-zoox-safety-report), [Zoom-Cast
-                                                          Episode 221](https://youtu.be/iHWTpaIXu4I)
+SmartDrivingCars [Pod-Cast Episode 221](https://soundcloud.com/smartdrivingcar/smart-driving-cars-221-the-zoox-safety-report), [Zoom-Cast Episode 221](https://youtu.be/iHWTpaIXu4I)
                                                             w/Mark
                                                           Rosekind,
                                                           Chief Safety
@@ -2917,8 +2650,7 @@ F.
                                                           those issues
                                                           and more.
 
-SmartDrivingCars [Pod-Cast
-                                                          Episode 220](https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-220), [Zoom-Cast Episode 220](https://www.youtube.com/watch?v=8Li7xyruM0w)    w/John
+SmartDrivingCars [Pod-Cast Episode 220](https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-220), [Zoom-Cast Episode 220](https://www.youtube.com/watch?v=8Li7xyruM0w)    w/John
                                                           Thornhill,
                                                           Innovation
                                                           Editor,
@@ -2955,11 +2687,7 @@ F.
                                                           is also the
                                                           founder of [Sifted.eu](https://sifted.eu/).
 
-[Link
-                                                          to previous
-                                                          SDC PodCasts
-                                                          &
-                                                          ZoomCasts](https://www.dropbox.com/s/y2xlnlaphxb0i6k/Links2PodCast_55-220.pdf?dl=0)
+[Link to previous SDC PodCasts & ZoomCasts](https://www.dropbox.com/s/y2xlnlaphxb0i6k/Links2PodCast_55-220.pdf?dl=0)
 
 Recent Highlights of:
 
@@ -2968,17 +2696,7 @@ Recent Highlights of:
                                                           December
                                                           6, 2021
 
-                                                          [Murphy
-                                                          Administration
-                                                          Announces RFEI
-                                                          for Project to
-                                                          Create the
-                                                          First
-                                                          Autonomous
-                                                          Vehicle-Based
-                                                          Urban Transit
-                                                          System in
-                                                          America](https://www.dropbox.com/s/jqvixybcx3xa0bo/GovMurpgyTrentonMOVES_Press%20Release_120621.pdf?dl=0)
+                                                          [Murphy Administration Announces RFEI for Project to Create the First Autonomous Vehicle-Based Urban Transit System in America](https://www.dropbox.com/s/jqvixybcx3xa0bo/GovMurpgyTrentonMOVES_Press%20Release_120621.pdf?dl=0)
 
 Press
                                                           release, Dec.
@@ -3299,8 +3017,7 @@ NJDOT
 Copy of
                                                           Request for
                                                           Expression of
-                                                          Interest" [Read
-                                                          more](https://www.dropbox.com/s/jqvixybcx3xa0bo/GovMurpgyTrentonMOVES_Press%20Release_120621.pdf?dl=0)    This
+                                                          Interest" [Read more](https://www.dropbox.com/s/jqvixybcx3xa0bo/GovMurpgyTrentonMOVES_Press%20Release_120621.pdf?dl=0)    This
                                                           is all about deployment
 that will begin to enable
                                                           New Jersey and
@@ -3328,10 +3045,7 @@ that will begin to enable
                                                           4, 2021
 
 ### December 2021
-                                                          Issue: [Germany's
-                                                          Automotive
-                                                          Industry in
-                                                          Transition](https://www.dropbox.com/s/jrb9v5qrh05l1ms/The%20Dispatcher_December%202021.pdf?dl=0)
+                                                          Issue: [Germany's Automotive Industry in Transition](https://www.dropbox.com/s/jrb9v5qrh05l1ms/The%20Dispatcher_December%202021.pdf?dl=0)
 
 M. Sena,
                                                           Dec. 1,
@@ -3512,9 +3226,8 @@ Steam
                                                           enjoy!  Also
                                                           check out our
                                                           SmartDrivingCars
-                                                          [Pod-Cast
-                                                          Episode 244](https://anchor.fm/smartdrivingcars/episodes/Smart-Driving-Cars-Episode-244-e1b54me),
-                                                          [](https://www.youtube.com/watch?v=xFegxpeq0Gk)[Zoom-Cast Episode 2](https://www.youtube.com/watch?v=CYQkIfDRx4s)[44](https://www.youtube.com/watch?v=CYQkIfDRx4s)
+                                                          [Pod-Cast Episode 244](https://anchor.fm/smartdrivingcars/episodes/Smart-Driving-Cars-Episode-244-e1b54me),
+                                                          [Zoom-Cast Episode 2](https://www.youtube.com/watch?v=CYQkIfDRx4s)[44](https://www.youtube.com/watch?v=CYQkIfDRx4s)
 w/Michael
                                                           Sena, Editor
                                                           of The
@@ -3526,16 +3239,7 @@ w/Michael
                                                           text-decoration:
                                                           none;">
 
-                                                          [Gatik
-                                                          and Walmart
-                                                          Achieve Fully
-                                                          Driverless
-                                                          Deliveries in
-                                                          a First for
-                                                          Autonomous
-                                                          Trucking
-                                                          Industry
-                                                          Worldwide](https://www.businesswire.com/news/home/20211108005409/en/Gatik-and-Walmart-Achieve-Fully-Driverless-Deliveries-in-a-First-for-Autonomous-Trucking-Industry-Worldwide)
+                                                          [Gatik and Walmart Achieve Fully Driverless Deliveries in a First for Autonomous Trucking Industry Worldwide](https://www.businesswire.com/news/home/20211108005409/en/Gatik-and-Walmart-Achieve-Fully-Driverless-Deliveries-in-a-First-for-Autonomous-Trucking-Industry-Worldwide)
 Press
                                                           release, Nov.
                                                           8, "[Gatik](https://cts.businesswire.com/ct/CT?id=smartlink&url=https%3A%2F%2Fgatik.ai%2F&esheet=52524421&newsitemid=20211108005409&lan=en-US&anchor=Gatik&index=1&md5=6a4c96f3d6a11910ad46e9eed7ed1f86)
@@ -3753,8 +3457,7 @@ In December
                                                           informational
                                                           workshops
                                                           concerning its
-ground-breaking autonomous operations..."  [Read
-                                                          more](https://www.businesswire.com/news/home/20211108005409/en/Gatik-and-Walmart-Achieve-Fully-Driverless-Deliveries-in-a-First-for-Autonomous-Trucking-Industry-Worldwide)  Hmmmm...
+ground-breaking autonomous operations..."  [Read more](https://www.businesswire.com/news/home/20211108005409/en/Gatik-and-Walmart-Achieve-Fully-Driverless-Deliveries-in-a-First-for-Autonomous-Trucking-Industry-Worldwide)  Hmmmm...
                                                           If you are trying to do it
                                                           for real ,
                                                           this is the
@@ -3793,19 +3496,7 @@ ground-breaking autonomous operations..."  [Read
                                                           November
                                                           20, 2021
 
- [The
-                                                          impact of
-                                                          Advanced
-                                                          Driver
-                                                          Assistance
-                                                          Systems (ADAS)
-                                                          on insurance
-                                                          claims](https://risk.lexisnexis.com/insights-resources/white-paper/true-impact-of-adas-features-on-insurance-claim-severity-revealed?trmid=INSATO21.2021AutoLG.2021ADAS.OMXX-545501) ([True
-                                                          Impact of ADAS
-                                                          Features on
-                                                          Insurance
-                                                          Claim Severity
-                                                          Revealed](https://www.dropbox.com/s/y2cytptjo5243qm/Vehicle-ADAS-Features-wp_final%20pdf.pdf?dl=0))
+ [The impact of Advanced Driver Assistance Systems (ADAS) on insurance claims](https://risk.lexisnexis.com/insights-resources/white-paper/true-impact-of-adas-features-on-insurance-claim-severity-revealed?trmid=INSATO21.2021AutoLG.2021ADAS.OMXX-545501) ([True Impact of ADAS Features on Insurance Claim Severity Revealed](https://www.dropbox.com/s/y2cytptjo5243qm/Vehicle-ADAS-Features-wp_final%20pdf.pdf?dl=0))
 
 J. Kanet,
                                                           Nov 9,
@@ -3863,12 +3554,7 @@ J. Kanet,
                                                           severity. It
                                                           is a follow up
                                                           to our earlier
-                                                          report, [ADAS
-                                                          Analysis
-                                                          Creates Path
-                                                          for Auto
-                                                          Insurance
-                                                          Rating](https://lexisnexis.turtl.co/story/multivariate-adas-whitepaper/?utm_campaign=INSATO20.MetStraDem.VBDemGenWP),
+                                                          report, [ADAS Analysis Creates Path for Auto Insurance Rating](https://lexisnexis.turtl.co/story/multivariate-adas-whitepaper/?utm_campaign=INSATO20.MetStraDem.VBDemGenWP),
                                                           which analyzed
                                                           the impact of
                                                           ADAS systems
@@ -3908,8 +3594,7 @@ J. Kanet,
                                                           combinations
                                                           of those
                                                           features. ...
-                                                          " [Read
-                                                          more](https://risk.lexisnexis.com/insights-resources/white-paper/true-impact-of-adas-features-on-insurance-claim-severity-revealed?trmid=INSATO21.2021AutoLG.2021ADAS.OMXX-545501)  Hmmmm...
+                                                          " [Read more](https://risk.lexisnexis.com/insights-resources/white-paper/true-impact-of-adas-features-on-insurance-claim-severity-revealed?trmid=INSATO21.2021AutoLG.2021ADAS.OMXX-545501)  Hmmmm...
                                                           Excellent.  Finally there is
                                                           data that
                                                           supports that
@@ -3925,9 +3610,7 @@ J. Kanet,
                                                           crass, but
                                                           "crash
                                                           mitigation"
-                                                          (airbag, [energy
-                                                          absorbing car
-                                                          design](https://www-nrd.nhtsa.dot.gov/pdf/esv/esv17/Proceed/00137.pdf),
+                                                          (airbag, [energy absorbing car design](https://www-nrd.nhtsa.dot.gov/pdf/esv/esv17/Proceed/00137.pdf),
                                                           ...) has been
                                                           great for
                                                           safety...
@@ -3942,8 +3625,7 @@ J. Kanet,
                                                           with crash
                                                           mitigation
                                                           have
-                                                          increased.  [Claim
-                                                          Severity](https://www.iii.org/fact-statistic/facts-statistics-auto-insurance)
+                                                          increased.  [Claim Severity](https://www.iii.org/fact-statistic/facts-statistics-auto-insurance)
                                                           for both Physical
                                                           Damage and
                                                           Bodily Injury
@@ -4063,12 +3745,7 @@ This
                                                           data. To me,
                                                           this is major!
 
-Be sure to see the white paper [True
-                                                          Impact of ADAS
-                                                          Features on
-                                                          Insurance
-                                                          Claim Severity
-                                                          Revealed](https://risk.lexisnexis.com/insights-resources/white-paper/true-impact-of-adas-features-on-insurance-claim-severity-revealed)
+Be sure to see the white paper [True Impact of ADAS Features on Insurance Claim Severity Revealed](https://risk.lexisnexis.com/insights-resources/white-paper/true-impact-of-adas-features-on-insurance-claim-severity-revealed)
                                                           and
                                                           listen/watch
                                                           the SDC [Pod](https://anchor.fm/smartdrivingcars/episodes/Smart-Driving-Cars-Episode-242-e1act7n)/[Zoom](https://www.youtube.com/watch?v=NnebUnomQIQ)Cast 242.
@@ -4079,11 +3756,8 @@ Be sure to see the white paper [True
                                                           blue;
                                                           text-decoration:
                                                           none;">
- [](http://rrdc.com/op_usa_pop_up_metro.html)
-                                                          [First
-                                                          across the
-                                                          Forth – and a
-                                                          royal visit](https://vivarail.co.uk/first-across-the-forth-and-a-royal-visit/)
+ 
+                                                          [First across the Forth – and a royal visit](https://vivarail.co.uk/first-across-the-forth-and-a-royal-visit/)
 H. Posner,
                                                           Nov 10,
                                                           "UK-based
@@ -4149,16 +3823,14 @@ H. Posner,
                                                           media and
                                                           advocacy
                                                           groups. ... "
-                                                          [Read
-                                                          more](https://vivarail.co.uk/first-across-the-forth-and-a-royal-visit/)  Hmmmm...
+                                                          [Read more](https://vivarail.co.uk/first-across-the-forth-and-a-royal-visit/)  Hmmmm...
                                                           But you know that the Pop-Up Metro train was the
                                                           First Across
                                                           the Atlantic.
                                                           [Video](https://www.youtube.com/watch?v=TSjAozf2r3g),
                                                           [Slides](http://rrdc.com/presentation_NJ_TransAction_2020_10_PUM.pdf)
                                                           and [ZoomCast](https://www.youtube.com/watch?v=rFyRcbL6-N8)
-                                                          re: [Pop-Up
-                                                          Metro](https://www.cmu.edu/news/stories/archives/2021/august/future-of-rail-transit.html).
+                                                          re: [Pop-Up Metro](https://www.cmu.edu/news/stories/archives/2021/august/future-of-rail-transit.html).
                                                           And there is
                                                           always [Alain](https://www.dropbox.com/s/hkt1zu1c6joq9ch/ClimbingOn6998.JPG?dl=0)
                                                           climbing on  [#6988](https://www.icloud.com/photos/#0twHZBw5LwCqIbK_4HJoHjyOQ).😎
@@ -4170,13 +3842,7 @@ H. Posner,
                                                           November
                                                           4, 2021
 
-                                                          [Tesla's
-                                                          handling of
-                                                          braking bug in
-                                                          public
-                                                          self-driving
-                                                          test raises
-                                                          alarms](https://www.latimes.com/business/story/2021-11-03/teslas-handling-braking-bug-in-public-self-driving-test)
+                                                          [Tesla's handling of braking bug in public self-driving test raises alarms](https://www.latimes.com/business/story/2021-11-03/teslas-handling-braking-bug-in-public-self-driving-test)
 
                                                           R. Mitchell,
                                                           Nov. 3, "Tesla
@@ -4275,8 +3941,7 @@ H. Posner,
                                                           testers over
                                                           the weekend,
                                                           the company
-                                                          said. ..."  [Read
-                                                          more](https://www.latimes.com/business/story/2021-11-03/teslas-handling-braking-bug-in-public-self-driving-test)  Hmmmm...
+                                                          said. ..."  [Read more](https://www.latimes.com/business/story/2021-11-03/teslas-handling-braking-bug-in-public-self-driving-test)  Hmmmm...
                                                           At least the
                                                           AEB was on
                                                           this time
@@ -4331,16 +3996,7 @@ short-sighted.  Explicitly turning it off is totally irresponsible
                                                           October 29,
                                                           2021
 
-### [Tesla
-                                                          pulled its
-                                                          latest 'Full
-                                                          Self Driving'
-                                                          beta after
-                                                          testers
-                                                          complained
-                                                          about false
-                                                          crash warnings
-                                                          and other bugs](https://www.theverge.com/2021/10/24/22743628/elon-musk-tesla-fsd-beta-10-3-rollback-issues-phantom-fcw)
+### [Tesla pulled its latest 'Full Self Driving' beta after testers complained about false crash warnings and other bugs](https://www.theverge.com/2021/10/24/22743628/elon-musk-tesla-fsd-beta-10-3-rollback-issues-phantom-fcw)
 
                                                           R. Lawler, Oct
                                                           24, "Tesla's
@@ -4367,9 +4023,7 @@ short-sighted.  Explicitly turning it off is totally irresponsible
                                                           out on
                                                           Saturday night
                                                           / Sunday
-                                                          morning with [a
-                                                          long list of
-                                                          release notes](https://www.reddit.com/r/teslamotors/comments/qem0lu/fsd_bets_103_release_notes/).
+                                                          morning with [a long list of release notes](https://www.reddit.com/r/teslamotors/comments/qem0lu/fsd_bets_103_release_notes/).
                                                           The list
                                                           mentions
                                                           changes
@@ -4412,8 +4066,7 @@ short-sighted.  Explicitly turning it off is totally irresponsible
                                                           rolling back
                                                           to 10.2
                                                           temporarily."
-                                                          [Read
-                                                          more](https://www.theverge.com/2021/10/24/22743628/elon-musk-tesla-fsd-beta-10-3-rollback-issues-phantom-fcw) Hmmmm...
+                                                          [Read more](https://www.theverge.com/2021/10/24/22743628/elon-musk-tesla-fsd-beta-10-3-rollback-issues-phantom-fcw) Hmmmm...
                                                           The problems stem from version
                                                           10.3 loading
                                                           with Automated
@@ -4474,15 +4127,7 @@ They may finally realize that the
                                                           October 24,
                                                           2021
 
-                                                          [Amazon's
-                                                          self-driving
-                                                          cars are
-                                                          coming to
-                                                          downtown
-                                                          Seattle.
-                                                          Safety
-                                                          advocates are
-                                                          not pleased](https://www.cnn.com/2021/10/22/cars/tesla-missy-cummings/index.html)
+                                                          [Amazon's self-driving cars are coming to downtown Seattle. Safety advocates are not pleased](https://www.cnn.com/2021/10/22/cars/tesla-missy-cummings/index.html)
 K.
                                                           Long,  Oct 19,
                                                           "... But an
@@ -4510,8 +4155,7 @@ transportation-safety advocates. The early promise of the technology,
                                                           lax oversight
                                                           of the rapidly
                                                           growing
-                                                          sector..." [Read
-                                                          more](https://www.cnn.com/2021/10/22/cars/tesla-missy-cummings/index.html) Hmmmm...
+                                                          sector..." [Read more](https://www.cnn.com/2021/10/22/cars/tesla-missy-cummings/index.html) Hmmmm...
                                                           First news out
                                                           of the box
                                                           from the home
@@ -4522,14 +4166,8 @@ transportation-safety advocates. The early promise of the technology,
                                                           October 10,
                                                           2021
 
-                                                          [A
-                                                          Tesla mystery:
-                                                          Why didn't
-                                                          auto-braking
-                                                          stop these
-                                                          crashes?](https://www.latimes.com/business/story/2021-10-07/why-arent-automatic-braking-systems-stopping-deadly-tesla-crashes)
-                                                          [In
-                                                          Spanish](https://www.latimes.com/espanol/eeuu/articulo/2021-10-09/por-que-los-sistemas-de-freno-automatico-no-paran-los-accidentes-mortales-de-tesla)
+                                                          [A Tesla mystery: Why didn't auto-braking stop these crashes?](https://www.latimes.com/business/story/2021-10-07/why-arent-automatic-braking-systems-stopping-deadly-tesla-crashes)
+                                                          [In Spanish](https://www.latimes.com/espanol/eeuu/articulo/2021-10-09/por-que-los-sistemas-de-freno-automatico-no-paran-los-accidentes-mortales-de-tesla)
 
 R.
                                                           Mitchel, Oct
@@ -4582,9 +4220,7 @@ R.
 
 Tesla
                                                           calls its
-                                                          vehicles "[the
-                                                          safest cars in
-                                                          the world](https://www.tesla.com/VehicleSafetyReport),"
+                                                          vehicles "[the safest cars in the world](https://www.tesla.com/VehicleSafetyReport),"
                                                           citing their
                                                           combination of
                                                           structural
@@ -4678,8 +4314,7 @@ One
                                                           slamming on
                                                           the
                                                           brakes."... "
-                                                          [Read
-                                                          more](https://www.latimes.com/business/story/2021-10-07/why-arent-automatic-braking-systems-stopping-deadly-tesla-crashes) Hmmmm...
+                                                          [Read more](https://www.latimes.com/business/story/2021-10-07/why-arent-automatic-braking-systems-stopping-deadly-tesla-crashes) Hmmmm...
                                                           This story is
                                                           great and is
                                                           not what
@@ -4961,13 +4596,7 @@ I
                                                           blue;
                                                           text-decoration:
                                                           none;">
-  [Cruise
-                                                          gets the green
-                                                          light to give
-                                                          driverless
-                                                          rides to
-                                                          passengers in
-                                                          San Francisco](https://www.theverge.com/2021/9/30/22702962/cruise-waymo-california-dmv-autonomous-vehicle-permit)
+  [Cruise gets the green light to give driverless rides to passengers in San Francisco](https://www.theverge.com/2021/9/30/22702962/cruise-waymo-california-dmv-autonomous-vehicle-permit)
 A.
                                                           Hawkins, Sep
                                                           30, "Waymo and
@@ -4991,9 +4620,7 @@ A.
                                                           Cruise was
                                                           approved to
                                                           give rides in
-                                                          its [fully
-                                                          driverless
-                                                          vehicles](https://www.theverge.com/2021/6/5/22520227/cruise-permit-california-driverless-autonomous-vehicles)
+                                                          its [fully driverless vehicles](https://www.theverge.com/2021/6/5/22520227/cruise-permit-california-driverless-autonomous-vehicles)
                                                           without safety
                                                           drivers, Waymo
                                                           only is
@@ -5015,12 +4642,7 @@ A.
                                                           Arizona, the
                                                           Google spinoff
                                                           would need to
-                                                          apply for an [additional
-                                                          permit from
-                                                          the California
-                                                          Public
-                                                          Utilities
-                                                          Commission](https://www.theverge.com/2020/11/23/21591045/california-robotaxi-paid-rides-cpuc-permits).
+                                                          apply for an [additional permit from the California Public Utilities Commission](https://www.theverge.com/2020/11/23/21591045/california-robotaxi-paid-rides-cpuc-permits).
                                                           ... " [Read more](https://www.theverge.com/2021/9/30/22702962/cruise-waymo-california-dmv-autonomous-vehicle-permit) Hmmmm...
 Congratulations Kyle, Robert and everyone else!!!! This is a non-trivial
 accomplishment!
@@ -5059,8 +4681,7 @@ Given all of the additional knocks
                                                           you'll divert
                                                           a little
                                                           bandwidth to
-                                                          our upcoming "[5th Annual
-                                                          SDC Summit](https://www.cartsmobility.com/summit)",
+                                                          our upcoming "[5th Annual SDC Summit](https://www.cartsmobility.com/summit)",
                                                           New Jersey's
                                                           next step in
                                                           our process to
@@ -5096,9 +4717,7 @@ Again...  Congratulations!  So
                                                           deserved!
                                                           Alain
 
-[Link
-                                                          to previous
-                                                          SDC eLetters](https://www.dropbox.com/s/vt5s55av9ysx2fz/Links2SDC_eLetter2_Odt_24_2021.pdf?dl=0)
+[Link to previous SDC eLetters](https://www.dropbox.com/s/vt5s55av9ysx2fz/Links2SDC_eLetter2_Odt_24_2021.pdf?dl=0)
 
 Alain L. Kornhauser, PhD
 Professor,

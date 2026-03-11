@@ -95,13 +95,12 @@ Rob Mauer, Aug. 28, "➤ Elon Musk livestreams Tesla's FSD Beta v12
 ➤ Tesla lithium refinery progress
 ➤ Megapack price reduction
 ➤ Piper Sandler issues note on TSLA
-➤ Calendar." [](https://www.youtube.com/watch?v=fza6dhm9nX0)[Read  more](https://www.youtube.com/watch?v=FHhrN-GXrF8)  Hmmmm…  Very
+➤ Calendar." [Read  more](https://www.youtube.com/watch?v=FHhrN-GXrF8)  Hmmmm…  Very
  perceptive perspective on FSDv12.  Is FSDv12 close to passing Kornhauser's "Turing Proof-of-concept" for driverless mobility?   Alain
 
 [Elon Musk Livestream of his FSD v12 drive](https://www.youtube.com/watch?v=-bZwoAqQ8Cw)
 
-Brighter w/Herbert, Aug. 25, ""Elon Musk just livestreamed his Full Self Driving of V12 around Palo Alto Ashok Elluswamy Director of AI was with him".   [](https://www.youtube.com/watch?v=fza6dhm9nX0)[Read
-  more](https://www.youtube.com/watch?v=-bZwoAqQ8Cw)  Hmmmm…  Interesting commentary on Elon's LiveStream of FSDv12.. Alain
+Brighter w/Herbert, Aug. 25, ""Elon Musk just livestreamed his Full Self Driving of V12 around Palo Alto Ashok Elluswamy Director of AI was with him".   [Read more](https://www.youtube.com/watch?v=-bZwoAqQ8Cw)  Hmmmm…  Interesting commentary on Elon's LiveStream of FSDv12.. Alain
 
 ************
 

@@ -7,8 +7,7 @@ permalink: /2013-12-22-2013-12-22/
 
 December 20, 2013
 
-## [A
-          Pilot Project to Safely Test Autonomous Vehicles](http://www.ontariocanada.com/registry/view.do?postingId=14802&language=en&utm_campaign=cmp_259437&utm_source=getanewsletter)
+## [A Pilot Project to Safely Test Autonomous Vehicles](http://www.ontariocanada.com/registry/view.do?postingId=14802&language=en&utm_campaign=cmp_259437&utm_source=getanewsletter)
 
 Proposal Number: 13-MTO043  Posting Date: Dec. 17, 2013 "MTO
         recognizes the importance of new vehicle technology, especially
@@ -24,19 +23,11 @@ Proposal Number: 13-MTO043  Posting Date: Dec. 17, 2013 "MTO
         proactively evaluate and determine how these vehicles can be
         safely integrated with other road users prior to them becoming
         widely available to the public, which manufacturers indicate
-        could be in the near future. "  [Read
-
-          more](http://www.ontariocanada.com/registry/view.do?postingId=14802&language=en&utm_campaign=cmp_259437&utm_source=getanewsletter)See also: [A
-            Pilot Project to Safely Test Autonomous Vehicles](http://www.ontariocanada.com/registry/showAttachment.do?postingId=14802&attachmentId=22912) and
-        [Notice
-
-            of Release – A Pilot Project to Safely Test Autonomous
-            Vehicles](http://www.ontariocanada.com/registry/showAttachment.do?postingId=14802&attachmentId=22888)  Comments are due
+        could be in the near future. "  [Read more](http://www.ontariocanada.com/registry/view.do?postingId=14802&language=en&utm_campaign=cmp_259437&utm_source=getanewsletter)See also: [A Pilot Project to Safely Test Autonomous Vehicles](http://www.ontariocanada.com/registry/showAttachment.do?postingId=14802&attachmentId=22912) and
+        [Notice of Release – A Pilot Project to Safely Test Autonomous Vehicles](http://www.ontariocanada.com/registry/showAttachment.do?postingId=14802&attachmentId=22888)  Comments are due
             Feb 24, 2014. Alain
 
-## [The
-
-          Self-Driving Car Will Watch Your Every Move](http://www.eetimes.com/author.asp?section_id=36&doc_id=1320470)
+## [The Self-Driving Car Will Watch Your Every Move](http://www.eetimes.com/author.asp?section_id=36&doc_id=1320470)
 
 Davide Santo 12/20/2013 "...There needs to be mechanisms in
         place that allow the car to know when and how much control to
@@ -47,9 +38,7 @@ Davide Santo 12/20/2013 "...There needs to be mechanisms in
         tracking that senses gaze, pupil dilation, and even spatial
         orientation of the driver's head. Voice recognition software
         will detect your mood as you interact with the car's
-        infotainment and navigation systems...." [Read
-
-          more](http://www.eetimes.com/author.asp?section_id=36&doc_id=1320470) as well as the comments.
+        infotainment and navigation systems...." [Read more](http://www.eetimes.com/author.asp?section_id=36&doc_id=1320470) as well as the comments.
 
 Hmmm...Well, maybe, at some distant
             end-state; however, this can't be on the "critical path".
@@ -83,42 +72,29 @@ There are many "easy" driving
             more development will be warranted to evolve "Self".
             Alain
 
-## [](http://www.amazon.com/The-New-Killer-Apps-Out-Innovate/dp/0989242013/ref=sr_1_1?ie=UTF8&qid=1387553143&sr=8-1&keywords=The+New+Killer+Apps+Mui) ["The
-
-          New Killer Apps](http://www.amazon.com/The-New-Killer-Apps-Out-Innovate/dp/0989242013/ref=sr_1_1?ie=UTF8&qid=1387553143&sr=8-1&keywords=The+New+Killer+Apps+Mui)
+##  ["The New Killer Apps](http://www.amazon.com/The-New-Killer-Apps-Out-Innovate/dp/0989242013/ref=sr_1_1?ie=UTF8&qid=1387553143&sr=8-1&keywords=The+New+Killer+Apps+Mui)
 
 How Large Companies Can Out-Innovate Start-Ups"
-by Chunka Mui and Paul B. Carroll [Now
-
-          Available](http://www.amazon.com/The-New-Killer-Apps-Out-Innovate/dp/0989242013/ref=sr_1_1?ie=UTF8&qid=1387553143&sr=8-1&keywords=The+New+Killer+Apps+Mui) [Highly
-
-            Recommended.](https://www.kirkusreviews.com/book-reviews/chunka-mui/the-new-killer-apps/?utm_content=buffer57917&utm_source=buffer&utm_medium=twitter&utm_campaign=Buffer)See also Chunka's Dec. 19 Forbes article
-          [Will
-
-              The Google Car Force A Choice Between Lives And Jobs?](http://www.forbes.com/sites/chunkamui/2013/12/19/will-the-google-car-force-a-choice-between-lives-and-jobs/)   My my question would be: what happened to
+by Chunka Mui and Paul B. Carroll [Now Available](http://www.amazon.com/The-New-Killer-Apps-Out-Innovate/dp/0989242013/ref=sr_1_1?ie=UTF8&qid=1387553143&sr=8-1&keywords=The+New+Killer+Apps+Mui) [Highly Recommended.](https://www.kirkusreviews.com/book-reviews/chunka-mui/the-new-killer-apps/?utm_content=buffer57917&utm_source=buffer&utm_medium=twitter&utm_campaign=Buffer)See also Chunka's Dec. 19 Forbes article
+          [Will The Google Car Force A Choice Between Lives And Jobs?](http://www.forbes.com/sites/chunkamui/2013/12/19/will-the-google-car-force-a-choice-between-lives-and-jobs/)   My my question would be: what happened to
           all of he elevator operators that had "good" jobs.  One still
           exists at Tiffany, but the others? "Manhattans" are
               better today because of the elevator's automation
-          .  See also the comments, especially [Dick
-
-            Mudge's](http://www.forbes.com/sites/chunkamui/2013/12/19/will-the-google-car-force-a-choice-between-lives-and-jobs/3/).  I might add that his observation of
+          .  See also the comments, especially [Dick Mudge's](http://www.forbes.com/sites/chunkamui/2013/12/19/will-the-google-car-force-a-choice-between-lives-and-jobs/3/).  I might add that his observation of
           "...universal use of GPS." likely caused a significant loss of
           jobs at paper map companies such as Rand-McNally (at one time,
           one of the most-recognized brand name) but the created many
           better jobs at places such as[ALK.](http://alk.com/)
           :-)  Alain
 
-## [Application of Autonomous
-        Driving Technology to Transit](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Presentations/LutinKornhauser_ITS-NJ_2013AnnualMtg_wURL.pdf)
+## [Application of Autonomous Driving Technology to Transit](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Presentations/LutinKornhauser_ITS-NJ_2013AnnualMtg_wURL.pdf)
 
  Presentation by Jerome Lutin and Alain Kornhauser
       at 2013 Annual meeting of ITS-NewJersey @ Met Life Stadium, Dec.
       16, 2013.  Slides 35 & 36 outlines a
           substantial proposal for advancing SmartDrivingTransit. Alain
 
-## [](www.dailyfinance.com/) [Driverless
-
-          Cars Aren't a Threat to Progressive](http://www.dailyfinance.com/2013/12/08/driverless-cars-arent-a-threat-to-progressive/)
+##  [Driverless Cars Aren't a Threat to Progressive](http://www.dailyfinance.com/2013/12/08/driverless-cars-arent-a-threat-to-progressive/)
 
 by Brendan Mathews, The Motley Fool Dec 8th 2013 "A Wall Street
         bigwig is currently claiming that driverless cars could put
@@ -140,9 +116,7 @@ Cars have been getting safer for years, yet insurance premiums
         improvements in automobile safety, total insurance premiums have
         increased as cars on the road, drivers, miles driven, car
         prices, and accident liability have combined to push up the
-        total market for car insurance...." [Read
-
-          more](http://www.dailyfinance.com/2013/12/08/driverless-cars-arent-a-threat-to-progressive/)
+        total market for car insurance...." [Read more](http://www.dailyfinance.com/2013/12/08/driverless-cars-arent-a-threat-to-progressive/)
 
 Hmm .. I agree with Mathews, but for
             very different reasons.  Cars have been getting "safer" and
@@ -174,19 +148,16 @@ Also, driverLess means that driver
 # Calendar of Upcoming
           Events:
 
-## [](http://www.trb.org/main/blurbs/169728.aspx)
+## 
 
-## [2014 TRB
-          93rd Annual Meeting](http://www.trb.org/main/blurbs/169728.aspx)
+## [2014 TRB 93rd Annual Meeting](http://www.trb.org/main/blurbs/169728.aspx)
 
 ### January 12-16, 2014
 
         Washington, DC
 
 ## 42nd Annual Princeton University
-        Transportation Program [Reunion
-
-            Banquet](http://orfe.princeton.edu/%7Ealaink/TRB%2714/TRB%2714_Invite.pdf)
+        Transportation Program [Reunion Banquet](http://orfe.princeton.edu/%7Ealaink/TRB%2714/TRB%2714_Invite.pdf)
 
 ### January 14, 2014
 
@@ -198,21 +169,15 @@ Also, driverLess means that driver
 
           December 13, 2013
 
-## [Millennials
+## [Millennials Pushing Development of Driverless Vehicles](http://www.thedetroitbureau.com/2013/12/millennials-pushing-development-of-driverless-vehicles/)
 
-        Pushing Development of Driverless Vehicles](http://www.thedetroitbureau.com/2013/12/millennials-pushing-development-of-driverless-vehicles/)
-
-Also be certain to read the actual [Accenture
-
-          Survey](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/PDFs/Accenture-Connected-Vehicle-Survey-Global.pdf) results.  Alain
+Also be certain to read the actual [Accenture Survey](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/PDFs/Accenture-Connected-Vehicle-Survey-Global.pdf) results.  Alain
 
           December 6, 2013
 
           December 1, 2013
 
-## [Amazon's
-
-        Jeff Bezos'86 looks to the future](http://www.cbsnews.com/news/amazons-jeff-bezos-looks-to-the-future/)
+## [Amazon's Jeff Bezos'86 looks to the future](http://www.cbsnews.com/news/amazons-jeff-bezos-looks-to-the-future/)
 
     Sunday, December 1, 2013  CBS New, 60 Minutes "... But
     during our visit to Amazon's campus in Seattle, Bezos kept telling
@@ -242,23 +207,19 @@ Also be certain to read the actual [Accenture
 
     Charlie Rose: Wow!
 
-    ... [Read
-
-      more](http://www.cbsnews.com/news/amazons-jeff-bezos-looks-to-the-future/)  See video starting
+    ... [Read more](http://www.cbsnews.com/news/amazons-jeff-bezos-looks-to-the-future/)  See video starting
 
         @ 11:00.  Beyond SmartDriving Cars?  Very interesting! Alain
 
           November 22, 2013
 
-## [Auto Correct: Has the self-driving car
-        at last arrived?](http://www.newyorker.com/reporting/2013/11/25/131125fa_fact_bilger)
+## [Auto Correct: Has the self-driving car at last arrived?](http://www.newyorker.com/reporting/2013/11/25/131125fa_fact_bilger)
 
     by Burkhard Bilger November 25, 2013:  An
         absolutely great article featuring Anthony Levandowski, Product
-        Manager, Google Self-Driving Car and more.  [A
-          MUST read](http://www.newyorker.com/reporting/2013/11/25/131125fa_fact_bilger).  Alain
+        Manager, Google Self-Driving Car and more.  [A MUST read](http://www.newyorker.com/reporting/2013/11/25/131125fa_fact_bilger).  Alain
 
-## [](http://www.fleng.org/seminars.cfm?event_id=598)[Florida Automated Vehicles Summit](http://www.fleng.org/images/files/1025%2013Draft%20Agenda_Florida%20Automated%20Vehicle%20Summit.pdf)
+## [Florida Automated Vehicles Summit](http://www.fleng.org/images/files/1025%2013Draft%20Agenda_Florida%20Automated%20Vehicle%20Summit.pdf)
 
      November 14 – 15, 2013, Marriott Waterside Hotel, Tampa, FL .  This was an excellent conference.  I
         highly recommend that each State do something similar in terms
@@ -274,18 +235,12 @@ Also be certain to read the actual [Accenture
 
           November 08, 2013
 
-## [Clifford
-
-        I. Nass](http://comm.stanford.edu/faculty-nass/)'81,*86  [expert
-
-        on human/computer interactions, dead at 55](http://news.stanford.edu/news/2013/november/cliff-nass-obit-110413.html)
+## [Clifford I. Nass](http://comm.stanford.edu/faculty-nass/)'81,*86  [expert on human/computer interactions, dead at 55](http://news.stanford.edu/news/2013/november/cliff-nass-obit-110413.html)
 
 Tragic!! What a terrible
-          loss.  We have all taken an enormous step backwards.  [His
+          loss.  We have all taken an enormous step backwards.  [His simulator.](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Videos/Nass_Driving_Simulator_Stanford.mp4) Alain
 
-            simulator.](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Videos/Nass_Driving_Simulator_Stanford.mp4) Alain
-
-  [](Mailto:alaink@princeton.edu)[Mailto:alaink@princeton.edu](Mailto:alaink@princeton.edu)[](Mailto:alaink@princeton.edu)
+  [Mailto:alaink@princeton.edu](Mailto:alaink@princeton.edu)
 
 --
 
@@ -295,9 +250,7 @@ Tragic!! What a terrible
 
     ***************************************************************************************************************
 
-    This list is maintained by [Alain
-
-      Kornhauser](mailto:alaink@princeton.edu) and hosted by the [Princeton University LISTSERV](http://lists.princeton.edu).
+    This list is maintained by [Alain Kornhauser](mailto:alaink@princeton.edu) and hosted by the [Princeton University LISTSERV](http://lists.princeton.edu).
 
 [Unsubscribe](https://lists.princeton.edu/cgi-bin/wa?TICKET=NzM1MjMzIGJpbm9AUFJJTkNFVE9OLkVEVSBTTUFSVERSSVZJTkdDQVJTIGluYtYkJuu3&c=SIGNOFF)
     | [Re-subscribe](https://lists.princeton.edu/cgi-bin/wa?TICKET=NzM1MjMzIGJpbm9AUFJJTkNFVE9OLkVEVSBTTUFSVERSSVZJTkdDQVJTIGluYtYkJuu3&c=SIGNUP)

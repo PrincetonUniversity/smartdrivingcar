@@ -9,9 +9,7 @@ display_name: "14.3 - TedCruz'92"
 3rd
             edition of the 14th year of SmartDrivingCars eLetter
 
-[WATCH: Tesla, Waymo executives
-                join safety experts in testifying on future of
-                self-driving cars](https://www.pbs.org/newshour/politics/watch-live-tesla-waymo-executives-join-safety-experts-in-testifying-on-future-of-self-driving-cars)
+[WATCH: Tesla, Waymo executives join safety experts in testifying on future of self-driving cars](https://www.pbs.org/newshour/politics/watch-live-tesla-waymo-executives-join-safety-experts-in-testifying-on-future-of-self-driving-cars)
 
 Politics,
           Feb. 4, "….. WATCH ..."  [View more](https://www.pbs.org/newshour/politics/watch-live-tesla-waymo-executives-join-safety-experts-in-testifying-on-future-of-self-driving-cars)
@@ -25,8 +23,7 @@ Politics,
             [@ 1:04:22](https://youtu.be/tnw-H8TZr90?t=3856) and Senator Moreno
             (OH) [@ 1:09:58](https://youtu.be/tnw-H8TZr90?t=4198) . Certainly not bad
             were Senator Lummis (WY) [@1:36:06](https://youtu.be/tnw-H8TZr90?t=5760),
-            Senator Fetterman (PA) [@
-              2:05:12](https://youtu.be/tnw-H8TZr90?t=7511) and all of the others.  Fantastic, kudos to
+            Senator Fetterman (PA) [@ 2:05:12](https://youtu.be/tnw-H8TZr90?t=7511) and all of the others.  Fantastic, kudos to
             all.
 
 My
@@ -76,8 +73,7 @@ Anyway,
 
             [The Transportation Channel](https://www.thetransportationchannel.com/)
 
-[The Real Case for Driverless
-                Mobility](https://www.audible.com/pd/The-Real-Case-for-Driverless-Mobility-Audiobook/B0D9PJY6MW?eac_link=CiwdHDwLDA9n&ref=web_search_eac_asin_1&eac_selected_type=asin&eac_selected=B0D9PJY6MW&qid=502i1TXUsp&eac_id=130-7496845-4686001_502i1TXUsp&sr=1-1)
+[The Real Case for Driverless Mobility](https://www.audible.com/pd/The-Real-Case-for-Driverless-Mobility-Audiobook/B0D9PJY6MW?eac_link=CiwdHDwLDA9n&ref=web_search_eac_asin_1&eac_selected_type=asin&eac_selected=B0D9PJY6MW&qid=502i1TXUsp&eac_id=130-7496845-4686001_502i1TXUsp&sr=1-1)
 
 Narrated
               by Fred Fishkin, Available now
@@ -85,15 +81,12 @@ Narrated
 [Published](https://www.amazon.com/Real-Case-Driverless-Mobility-Vehicles/dp/0443236852/ref=sr_1_1?crid=1XSXZ611C2JCN&keywords=Kornhauser+sena&qid=1707095108&sprefix=kornhauser+sena%2Caps%2C76&sr=8-1&ufe=app_do%3Aamzn1.fos.18ed3cb5-28d5-4975-8bc7-93deae8f9840) in
               2024 (but
             still relevant)!!!
-             [Go to
-                  Amazon.com](https://www.amazon.com/Real-Case-Driverless-Mobility-Vehicles/dp/0443236852/ref=sr_1_1?crid=1XSXZ611C2JCN&keywords=Kornhauser+sena&qid=1707095108&sprefix=kornhauser+sena%2Caps%2C76&sr=8-1&ufe=app_do%3Aamzn1.fos.18ed3cb5-28d5-4975-8bc7-93deae8f9840)…
+             [Go to Amazon.com](https://www.amazon.com/Real-Case-Driverless-Mobility-Vehicles/dp/0443236852/ref=sr_1_1?crid=1XSXZ611C2JCN&keywords=Kornhauser+sena&qid=1707095108&sprefix=kornhauser+sena%2Caps%2C76&sr=8-1&ufe=app_do%3Aamzn1.fos.18ed3cb5-28d5-4975-8bc7-93deae8f9840)…
 
 SmartDrivingCars
-          [ZoomCast
-              406](https://youtu.be/B79VYII3JZE) /
+          [ZoomCast 406](https://youtu.be/B79VYII3JZE) /
 
-[PodCast
-                406](https://open.spotify.com/episode/2EKsy1Yfd50yAO8oALDWMt?si=rrp3kAB6SdSD2hqFlKKNvA)
+[PodCast 406](https://open.spotify.com/episode/2EKsy1Yfd50yAO8oALDWMt?si=rrp3kAB6SdSD2hqFlKKNvA)
             Self Driving Safety hearing in DC
 
 Smart
@@ -661,25 +654,22 @@ Smart
                   investing 850 million dollars in Cruise and resuming
                   operations in Houston
 
-[](https://www.youtube.com/playlist?list=PLFwuZ9jMeu5uwfTZP00zHjP7eSpG34Hsm)[SmartDrivingCars ZoomCasts](https://www.youtube.com/playlist?list=PLFwuZ9jMeu5uwfTZP00zHjP7eSpG34Hsm)
+[SmartDrivingCars ZoomCasts](https://www.youtube.com/playlist?list=PLFwuZ9jMeu5uwfTZP00zHjP7eSpG34Hsm)
 
  [CALL FOR Proposals](https://www.cvent.com/c/abstracts/739f4041-3744-44c3-a97e-9f688c5e544f)
 
  Deadline
             2/7/26
 
- [2026 Automated transportation
-                Symposium (ATS)](https://www.cvent.com/c/abstracts/739f4041-3744-44c3-a97e-9f688c5e544f)
+ [2026 Automated transportation Symposium (ATS)](https://www.cvent.com/c/abstracts/739f4041-3744-44c3-a97e-9f688c5e544f)
 
  [July 27-30, 2026](https://www.cvent.com/c/abstracts/739f4041-3744-44c3-a97e-9f688c5e544f)
 
  [San Diego, CA](https://www.cvent.com/c/abstracts/739f4041-3744-44c3-a97e-9f688c5e544f)
 
- [CALL
-                FOR PAPERS:](https://bridgingtransport.org/)
+ [CALL FOR PAPERS:](https://bridgingtransport.org/)
 
- [8th Bridging
-                Transportation Researchers (BTR#8)](https://bridgingtransport.org/)
+ [8th Bridging Transportation Researchers (BTR#8)](https://bridgingtransport.org/)
 
  [Online Conference!](https://bridgingtransport.org/)
 
@@ -688,13 +678,11 @@ Smart
 
  [The Transportation Channel](https://www.thetransportationchannel.com/)
 
- [](https://itnannualmeeting.org/)
+ 
 
  [https://www.itnamerica.org/](https://www.itnamerica.org/)
 
-[We rode in dozens of driverless
-                robotaxis in China. Here's what we saw — and our advice
-                for other curious travelers](https://www.aol.com/news/rode-dozens-driverless-robotaxis-china-101101852.html)
+[We rode in dozens of driverless robotaxis in China. Here's what we saw — and our advice for other curious travelers](https://www.aol.com/news/rode-dozens-driverless-robotaxis-china-101101852.html)
 
 Bryant
           Walker Smith & Sven Beiker, Jan 31, "…China is the other
@@ -718,9 +706,7 @@ Hmmmm…
             Extremely valuable unvarnished observations and insights.
             Thank you, Bryant and Sven. Alain
 
-[Super
-                Heavy Testing Begins! SpaceX Back on Track After B18
-                Disaster | Starship Update](https://www.youtube.com/watch?v=OwMRMh_6jbw)
+[Super Heavy Testing Begins! SpaceX Back on Track After B18 Disaster | Starship Update](https://www.youtube.com/watch?v=OwMRMh_6jbw)
 
 Staff,
           Jan 31, "…Dive into the latest SpaceX Starship Update as
@@ -736,8 +722,7 @@ Hmmmm…
             Extremely valuable unvarnished observations and insights.
             Thank you, Bryant and Sven. Alain
 
-[Why
-              does Elon Musk want to put AI data centers in space?](https://www.cnn.com/2026/02/04/business/elon-musk-orbiting-ai-data-center-plans)
+[Why does Elon Musk want to put AI data centers in space?](https://www.cnn.com/2026/02/04/business/elon-musk-orbiting-ai-data-center-plans)
 
 C.
           Isidore, Feb. 4, Elon Musk believes the best way to solve the
@@ -749,8 +734,7 @@ Hmmmm…
             Totally wild.  Totally [Schumpeter-style](https://en.wikipedia.org/wiki/Joseph_Schumpeter) disruptive.
             Alain
 
-[Conversation
-              with Elon Musk | World Economic Forum Annual Meeting 2026](https://youtu.be/IgifEgm1-e0?t=387)
+[Conversation with Elon Musk | World Economic Forum Annual Meeting 2026](https://youtu.be/IgifEgm1-e0?t=387)
 
 L.
           Fink, Jan 22,.…"    [Read more](https://youtu.be/IgifEgm1-e0?t=387)
@@ -769,7 +753,7 @@ Hmmmm… Students
             are putting together a compendium of their findings that
             will be linked by  future version of the SDC eletter. Alain
 
-[](https://handyrides.com/welcome)
+
         [HandyRides](https://handyrides.com/welcome) Update
 
 Alain

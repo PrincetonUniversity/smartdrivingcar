@@ -7,10 +7,9 @@ permalink: /2022-05-23-2022-05-23/
 
 [https://www.cartsmobility.com/summit](https://www.cartsmobility.com/summit)
 
-[](https://www.cartsmobility.com/summit)
+
 --
 
-[](https://www.youtube.com/watch?v=GMG4lG939rc&feature=emb_rel_pause)
 
  Alain
             L. Kornhauser, PhD
@@ -33,7 +32,6 @@ permalink: /2022-05-23-2022-05-23/
 
                   609-980-1427 (c)
 
-[](http://www.princeton.edu)
 
 ***************************************************************************************************************
 

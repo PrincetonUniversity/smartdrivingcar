@@ -7,23 +7,17 @@ permalink: /2013-10-15-tuesday-oct.-15-2013/
 
 November 05, 2013
 
-## [](http://transportation.house.gov/hearing/how-autonomous-vehicles-will-shape-future-surface-transportation)[House to hold hearing on driverless cars](http://transportation.house.gov/hearing/how-autonomous-vehicles-will-shape-future-surface-transportation)
+## [House to hold hearing on driverless cars](http://transportation.house.gov/hearing/how-autonomous-vehicles-will-shape-future-surface-transportation)
 
 New date is November 19, 2003, 10:00am  for
         hearing on  "How Autonomous Vehicles Will Shape the Future of
           Surface Transportation" to be held in 2167 Rayburn Office
         Building, Washington DC 20515 By clicking the following you'll
-        be able t to: [Watch
+        be able t to: [Watch the live webcast of this hearing on November 19th](http://mfile.akamai.com/65785/live/reflector:40333.asx?bkup=40341&prop=n)Alain
 
-          the live webcast of this hearing on November 19th](http://mfile.akamai.com/65785/live/reflector:40333.asx?bkup=40341&prop=n)Alain
+##  [On the Road with Autonomous Emergency Braking (AEB) Systems](http://euroncap.synapticdigital.com/Latest-Release/on-the-road-with-autonomous-emergency-braking-systems/s/0d5f0a78-2afc-4c63-ad36-a1acdb2c0b19)
 
-## [](http://www.euroncap.com/about.aspx) [On
-
-        the Road with Autonomous Emergency Braking (AEB) Systems](http://euroncap.synapticdigital.com/Latest-Release/on-the-road-with-autonomous-emergency-braking-systems/s/0d5f0a78-2afc-4c63-ad36-a1acdb2c0b19)
-
-[Press
-
-        Releas](http://preview.thenewsmarket.com/Previews/NCAP/DocumentAssets/305458_v2.pdf)e: Brussels 29 October – "Euro NCAP releases
+[Press Releas](http://preview.thenewsmarket.com/Previews/NCAP/DocumentAssets/305458_v2.pdf)e: Brussels 29 October – "Euro NCAP releases
       the first results of rear-end crash avoidance systems
       tested against the upcoming 2014 rating protocol. Eight vehicles
       have been compared with respect to their performance on the test
@@ -34,17 +28,12 @@ New date is November 19, 2003, 10:00am  for
       and lead to a significant reduction of injuries. As from January
       2014, Euro NCAP will in its rating scheme give credit to vehicle
       manufacturers that equip their models with robust forward
-      collision warning and/or automatic braking technology..."  [Read
-
-        more](http://euroncap.synapticdigital.com/Latest-Release/on-the-road-with-autonomous-emergency-braking-systems/s/0d5f0a78-2afc-4c63-ad36-a1acdb2c0b19)
+      collision warning and/or automatic braking technology..."  [Read more](http://euroncap.synapticdigital.com/Latest-Release/on-the-road-with-autonomous-emergency-braking-systems/s/0d5f0a78-2afc-4c63-ad36-a1acdb2c0b19)
 
 A good summary of the tests appears in[FleetDirectory](http://www.fleetdirectory.co.uk/)
-[First
-
-              self-braking cars rated by Euro NCAP](http://www.fleetdirectory.co.uk/news/first-autonomous-braking-systems-rated-by-euro-ncap/) by John
+[First self-braking cars rated by Euro NCAP](http://www.fleetdirectory.co.uk/news/first-autonomous-braking-systems-rated-by-euro-ncap/) by John
           Simpson 30 October 2013. Eight (8)  car models equipped AEB
-          systems were tested and are reported on [Euro NCAP's
-            website](http://euroncap.synapticdigital.com/).  Both "City" tests and "Inter-Urban" tests were
+          systems were tested and are reported on [Euro NCAP's website](http://euroncap.synapticdigital.com/).  Both "City" tests and "Inter-Urban" tests were
           conducted of the Autonomous Emergency Braking (AEB) systems.
           While the test results indicate that at least some of these
           systems work some of the time, only one perfect score was
@@ -66,9 +55,7 @@ A good summary of the tests appears in[FleetDirectory](http://www.fleetdirectory
 
 ### How the eight vehicles' AEB systems scored:
 
-[Video
-
-        description of test](http://euroncap.synapticdigital.com/Latest-Release/on-the-road-with-autonomous-emergency-braking-systems/s/0d5f0a78-2afc-4c63-ad36-a1acdb2c0b19)
+[Video description of test](http://euroncap.synapticdigital.com/Latest-Release/on-the-road-with-autonomous-emergency-braking-systems/s/0d5f0a78-2afc-4c63-ad36-a1acdb2c0b19)
 
 Model
 
@@ -80,9 +67,7 @@ Score: Inter-Urban
 
 Rating: Inter-Urban
 
-[Mercedes-Benz
-
-                    E-Class](http://preview.thenewsmarket.com/Previews/NCAP/DocumentAssets/305463_v2.pdf)
+[Mercedes-Benz E-Class](http://preview.thenewsmarket.com/Previews/NCAP/DocumentAssets/305463_v2.pdf)
 
 3.0 points
 
@@ -94,9 +79,7 @@ Good
 
 Good
 
-[Volvo
-
-                    V40](http://preview.thenewsmarket.com/Previews/NCAP/DocumentAssets/305460_v3.pdf)
+[Volvo V40](http://preview.thenewsmarket.com/Previews/NCAP/DocumentAssets/305460_v3.pdf)
 
 2.1 points
 
@@ -106,9 +89,7 @@ Good ([video](http://euroncap.synapticdigital.com/Latest-Release/on-the-road-wit
 
 Good
 
-[Mitsubishi
-
-                    Outlander](http://preview.thenewsmarket.com/Previews/NCAP/DocumentAssets/305465_v2.pdf)
+[Mitsubishi Outlander](http://preview.thenewsmarket.com/Previews/NCAP/DocumentAssets/305465_v2.pdf)
 
 2.1 points
 
@@ -118,9 +99,7 @@ Good ([video](http://euroncap.synapticdigital.com/Latest-Release/on-the-road-wit
 
 Adequate
 
-[Volvo
-
-                    XC60](http://preview.thenewsmarket.com/Previews/NCAP/DocumentAssets/305467_v2.pdf)
+[Volvo XC60](http://preview.thenewsmarket.com/Previews/NCAP/DocumentAssets/305467_v2.pdf)
 
 1.9 points
 
@@ -130,9 +109,7 @@ Adequate ([video](http://euroncap.synapticdigital.com/Latest-Release/on-the-road
 
 - - -
 
-[Fiat
-
-                    500L](http://preview.thenewsmarket.com/Previews/NCAP/DocumentAssets/305461_v2.pdf)
+[Fiat 500L](http://preview.thenewsmarket.com/Previews/NCAP/DocumentAssets/305461_v2.pdf)
 
 1.8 points
 
@@ -142,9 +119,7 @@ Adequate ([video](http://euroncap.synapticdigital.com/Latest-Release/on-the-road
 
 - - -
 
-[Ford
-
-                    Focus](http://preview.thenewsmarket.com/Previews/NCAP/DocumentAssets/305462_v2.pdf)
+[Ford Focus](http://preview.thenewsmarket.com/Previews/NCAP/DocumentAssets/305462_v2.pdf)
 
 1.7 points
 
@@ -154,9 +129,7 @@ Adequate ([video](http://euroncap.synapticdigital.com/Latest-Release/on-the-road
 
 - - -
 
-[Volkswagen
-
-                    Golf](http://preview.thenewsmarket.com/Previews/NCAP/DocumentAssets/305459_v2.pdf)
+[Volkswagen Golf](http://preview.thenewsmarket.com/Previews/NCAP/DocumentAssets/305459_v2.pdf)
 
 - - -
 
@@ -166,9 +139,7 @@ Adequate ([video](http://euroncap.synapticdigital.com/Latest-Release/on-the-road
 
 Good ([video](http://euroncap.synapticdigital.com/Latest-Release/on-the-road-with-autonomous-emergency-braking-systems/s/0d5f0a78-2afc-4c63-ad36-a1acdb2c0b19))
 
-[Honda
-
-                    Civic](http://preview.thenewsmarket.com/Previews/NCAP/DocumentAssets/305464_v2.pdf)
+[Honda Civic](http://preview.thenewsmarket.com/Previews/NCAP/DocumentAssets/305464_v2.pdf)
 
 - - -
 
@@ -181,9 +152,7 @@ Marginal ([video](http://euroncap.synapticdigital.com/Latest-Release/on-the-road
 The videos which are well worth watching
           are at [http://euroncap.synapticdigital.com/Latest-Release/on-the-road-with-autonomous-emergency-braking-systems/s/0d5f0a78-2afc-4c63-ad36-a1acdb2c0b19](http://euroncap.synapticdigital.com/Latest-Release/on-the-road-with-autonomous-emergency-braking-systems/s/0d5f0a78-2afc-4c63-ad36-a1acdb2c0b19)
 
-## [Vehicle-to-Vehicle
-        Technologies Expected to Offer Safety Benefits, but a Variety of
-        Deployment Challenges Exist](http://www.gao.gov/products/GAO-14-13)
+## [Vehicle-to-Vehicle Technologies Expected to Offer Safety Benefits, but a Variety of Deployment Challenges Exist](http://www.gao.gov/products/GAO-14-13)
 
     GAO-14-13, Nov 1, 2013  What GAO Found:
 
@@ -312,23 +281,16 @@ Hmmm...In the above I have listed only  the
             it is worth it, that private entity can make it happen.
             Alain
 
-## [Preparing
-
-        a Nation for Autonomous Vehicles: Opportunities, Barriers and
-        Policy Recommendations](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/PDFs/Eno_Preparing%20a%20Nation%20for%20Autonomous%20Vehiles_Oct2013.pdf)
+## [Preparing a Nation for Autonomous Vehicles: Opportunities, Barriers and Policy Recommendations](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/PDFs/Eno_Preparing%20a%20Nation%20for%20Autonomous%20Vehiles_Oct2013.pdf)
 
 Eno Center for Transportation, Oct 2013.  "...AVs
 
         have the potential to dramatically change the transportation
         network..."
 
-[Read
+[Read more](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/PDFs/Eno_Preparing%20a%20Nation%20for%20Autonomous%20Vehiles_Oct2013.pdf).
 
-                more](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/PDFs/Eno_Preparing%20a%20Nation%20for%20Autonomous%20Vehiles_Oct2013.pdf).
-
-This report is getting [some
-
-          attention](http://www.automotiveworld.com/analysis/autonomous-vehicle-study-predicts-us447bn-saving/) because of its estimate that at a 90%
+This report is getting [some attention](http://www.automotiveworld.com/analysis/autonomous-vehicle-study-predicts-us447bn-saving/) because of its estimate that at a 90%
         penetration rate, autonomous vehicles "have the potential to
         save the U.S. economy roughly $450 billion annually".  This is
         one of the largest annual benefits quoted so far.  However, I
@@ -363,13 +325,9 @@ This report is getting [some
         and little additional mobility for the aged and handicapped.
 
         Finally, the section on goods movement needs work.  Maybe you
-        need not [Read
+        need not [Read more](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/PDFs/Eno_Preparing%20a%20Nation%20for%20Autonomous%20Vehiles_Oct2013.pdf)  Alain
 
-              more](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/PDFs/Eno_Preparing%20a%20Nation%20for%20Autonomous%20Vehiles_Oct2013.pdf)  Alain
-
-## [](http://nextbigfuture.com/) [The
-
-            Self Driving car revolution should begin with Trucks](http://nextbigfuture.com/2013/11/the-self-driving-car-revolution-should.html)
+##  [The Self Driving car revolution should begin with Trucks](http://nextbigfuture.com/2013/11/the-self-driving-car-revolution-should.html)
 
 November 04, 2013  "[Nextbigfuture](http://nextbigfuture.com/) was looking
       at how and where to operate robotic cars to accelerate their
@@ -388,9 +346,7 @@ November 04, 2013  "[Nextbigfuture](http://nextbigfuture.com/) was looking
         to driverless cars, driverless trucking is technically way
         simpler. When going from one warehouse in a sparsely populated
         area to another warehouse in a similarly sparsely populated
-        area, there's a lot less that can go wrong...."    [Read
-
-          more](http://nextbigfuture.com/2013/11/the-self-driving-car-revolution-should.html)
+        area, there's a lot less that can go wrong...."    [Read more](http://nextbigfuture.com/2013/11/the-self-driving-car-revolution-should.html)
 
         Hmmm... As I have pointed out above, the lowest hanging fruit
         for driverless cars is in fact driverless freight trains.  Talk
@@ -400,17 +356,14 @@ November 04, 2013  "[Nextbigfuture](http://nextbigfuture.com/) was looking
         brainer with only existing labor unions and at-grade crossings
         as solvable challenges.  Alain
 
-## [Hackers Offer Advice To
-        Automakers On How To Prevent Attacks](http://autos.aol.com/article/hackers-def-con-cyber-security-ford-toyota/)
+## [Hackers Offer Advice To Automakers On How To Prevent Attacks](http://autos.aol.com/article/hackers-def-con-cyber-security-ford-toyota/)
 
 ##
 
     From Owen P. Curtis, Curtis Transportation Consultants:
     Police are finally starting to catch up to crafty thieves who are
     using a cheap wireless fob to hack into cars. The device, which has
-    been [used
-
-      in other break-ins around the world](http://autos.aol.com/article/car-thieves-using-new-wireless-technology-to-break-into-cars/), had confounded
+    been [used in other break-ins around the world](http://autos.aol.com/article/car-thieves-using-new-wireless-technology-to-break-into-cars/), had confounded
     authorities until now.
 
     After being burglarized last year, Rick Henzel of Winnipeg, Man.
@@ -419,9 +372,7 @@ November 04, 2013  "[Nextbigfuture](http://nextbigfuture.com/) was looking
     unlocked the doors with an mysterious electronic instrument. They
     then helped themselves to the contents.
 
-    Michael Legary, a security expert with Seccuris, told [CBC
-
-      News](http://www.cbc.ca/news/canada/manitoba/new-5-device-easily-unlocks-car-doors-for-thieves-in-winnipeg-1.2288826?cmp=rss) that the thieves hacked into his car using a device that
+    Michael Legary, a security expert with Seccuris, told [CBC News](http://www.cbc.ca/news/canada/manitoba/new-5-device-easily-unlocks-car-doors-for-thieves-in-winnipeg-1.2288826?cmp=rss) that the thieves hacked into his car using a device that
     emits an electromagnetic pulse. The thieves used it to trick the car
     into thinking it was a legitimate key fob, enabling them to gain
     entrance and steal his valuables in mere minutes.
@@ -433,18 +384,13 @@ November 04, 2013  "[Nextbigfuture](http://nextbigfuture.com/) was looking
     Unfortunately, as it stands, the only way to protect yourself from
     this threat is to have your keyless entry disabled by a [mechanic](http://autos.aol.com/article/mechanic-advice/).
     As more electronics are integrated into car design, hacking has the
-    potential to become a [global
+    potential to become a [global crisis on roadways.](http://autos.aol.com/article/hackers-def-con-cyber-security-ford-toyota/)
 
-      crisis on roadways.](http://autos.aol.com/article/hackers-def-con-cyber-security-ford-toyota/)
-
-     [](http://autos.aol.com/article/hackers-def-con-cyber-security-ford-toyota/)
+     
 
 # Reports on Recent Events:
 
-## [](file:///C:/Users/alaink/Pictures/2012-12-05%20AlainSignature/www.auto-free.org) "[Autonomous
-
-        Vehicles Competing with Autonomous Pedestrians and Everything
-        Else -- Where Might it Work in Manhattan's Crowded Streets?](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Presentations/Auto-Free_NY_101513wURLs.pptx)"A.
+##  "[Autonomous Vehicles Competing with Autonomous Pedestrians and Everything Else -- Where Might it Work in Manhattan's Crowded Streets?](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Presentations/Auto-Free_NY_101513wURLs.pptx)"A.
 
           L. Kornhauser
 
@@ -453,9 +399,7 @@ November 04, 2013  "[Nextbigfuture](http://nextbigfuture.com/) was looking
           presentation in Manhattan.  Most of the slides are ones that I
           use to bring the audience up to speed on the current status
           and my perspective on SmartDrivingCars.  However, beginning
-          with Slide 61 (and contained in this [abbreviated
-
-            pdf](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Presentations/Auto-Free_NY_101513_What%20About.pdf)) I suggested that there are corridors in
+          with Slide 61 (and contained in this [abbreviated pdf](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Presentations/Auto-Free_NY_101513_What%20About.pdf)) I suggested that there are corridors in
           Manhattan where the coming generation of Driverless Vehicles
           could not only coexist with pedestrians on some Manhattan's
           crowded streets but substantially enhance mobility in those
@@ -463,9 +407,7 @@ November 04, 2013  "[Nextbigfuture](http://nextbigfuture.com/) was looking
 
  For example, if most conventional
           traffic was to be prohibited from 42nd St. during most of the
-          and 5 European cities as part of the [EU's
-
-            CityMobil2](http://www.citymobil2.eu/en/About-CityMobil2/Overview/) project could provide efficient and effective
+          and 5 European cities as part of the [EU's CityMobil2](http://www.citymobil2.eu/en/About-CityMobil2/Overview/) project could provide efficient and effective
           cross-town mobility along a "Pedestrian-enhanced 42nd
           Street".
 
@@ -499,13 +441,9 @@ As I've written previously, and I
           Bus Rapid Transit proposal should be re-evaluated
 
           in the light of this emerging urban mass transportation
-          technology.  [Read
+          technology.  [Read more](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Presentations/Auto-Free_NY_101513wURLs.pptx) Alain
 
-            more](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Presentations/Auto-Free_NY_101513wURLs.pptx) Alain
-
-## [](http://www.sitaonline.org/conference.htm) ["SmartDrivingCars:
-
-            Financially Attractive to the Insurer and Insuree"](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Presentations/SITA_102113v4wURLs.pptx)A.
+##  ["SmartDrivingCars: Financially Attractive to the Insurer and Insuree"](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Presentations/SITA_102113v4wURLs.pptx)A.
 
               L. Kornhauser
 
@@ -568,13 +506,9 @@ Monday Oct. 21, 2013, @ Mirage, Las
             able to maintain higher rates and reap windfall profits.
             Even without the discounts, my view is that the improved
             safety is more than worth the option cost of Intelligent
-            Drive.   [Read
+            Drive.   [Read more](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Presentations/SITA_102113v4wURLs.pptx) Alain
 
-            more](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Presentations/SITA_102113v4wURLs.pptx) Alain
-
-## [Emerging
-
-        Transportation Technologies  - R&D](http://www.podcarcity.org/washington/program-schedule/detail/?tx_cal_controller[view]=event&tx_cal_controller[type]=tx_cal_phpicalendar&tx_cal_controller[uid]=168&tx_cal_controller[lastview]=view-day%7Cpage_id-731&tx_cal_controller[year]=2013&tx_cal_controller[month]=10&tx_cal_controller[day]=24)
+## [Emerging Transportation Technologies  - R&D](http://www.podcarcity.org/washington/program-schedule/detail/?tx_cal_controller[view]=event&tx_cal_controller[type]=tx_cal_phpicalendar&tx_cal_controller[uid]=168&tx_cal_controller[lastview]=view-day%7Cpage_id-731&tx_cal_controller[year]=2013&tx_cal_controller[month]=10&tx_cal_controller[day]=24)
 
 Thursday, October 24, 2013 @ George Mason
         University, Alexandria VA.  I moderated a panel focused on
@@ -582,10 +516,7 @@ Thursday, October 24, 2013 @ George Mason
         SmartDrivingCars
 
 * Dr. Jerome Lutin, Former VP of
-            Research at New Jersey Transit focused on "[Opportunities
-
-              to Leverage Advances in Driverless Car Technology to
-              Evolve Conventional Bus Transit Systems](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/PodCar7/Presentations/PodCar7_Lutin_102413.pdf)".   Jerry
+            Research at New Jersey Transit focused on "[Opportunities to Leverage Advances in Driverless Car Technology to Evolve Conventional Bus Transit Systems](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/PodCar7/Presentations/PodCar7_Lutin_102413.pdf)".   Jerry
             pointed out that Transit Agencies are mostly [self-insured](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/PDFs/WSTIP2012AnnualReport.pdf)
             and his estimated are that the incremental cost of
             SmartDriving Technology is likely less than what these
@@ -599,16 +530,10 @@ Thursday, October 24, 2013 @ George Mason
             perfection of "Level 4" driverless systems that will
             completely revolutionize the Urban Transit Industry by
             allowing it to become to mode of choice to a much larger
-            segment of the traveling public.  [Read
-
-              more](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Papers/Lutin_Kornhauser_Sanders_Brief_Application_ACAT2Bus%20Transit_100313.pdf)   Also  see [Lutin
-
-              & Kornhauser "Application of..."](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Papers/130731RevisedLutin&%20Kornhauser_Ap_of_AutonomousDrivingTecht2Transit_072213.pdf)
+            segment of the traveling public.  [Read more](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Papers/Lutin_Kornhauser_Sanders_Brief_Application_ACAT2Bus%20Transit_100313.pdf)   Also  see [Lutin & Kornhauser "Application of..."](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Papers/130731RevisedLutin&%20Kornhauser_Ap_of_AutonomousDrivingTecht2Transit_072213.pdf)
 
 * Dr. Ingmar Andreasson,
-            Logistikcentrum, focused on ["Synergies
-
-              Between PRT and Driverless Cars"](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/PodCar7/Presentations/PodCar7_Andreasson_Synergies.pptx).  He argued
+            Logistikcentrum, focused on ["Synergies Between PRT and Driverless Cars"](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/PodCar7/Presentations/PodCar7_Andreasson_Synergies.pptx).  He argued
             that substantial urban capacity and throughput could be
             achieved by "Dual-mode" personal vehicles.  These vehicles
             would be conventionally driven on public streets and be
@@ -617,21 +542,15 @@ Thursday, October 24, 2013 @ George Mason
             surface street sub-networks. The only drawback to this
             concept is that the conventional driving local collection
             and distribution does not embrace shared-use which limits
-            its "mass transit" aspects. [Read
-
-              more](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/PodCar7/Presentations/PodCar7_Andreasson_Synergies.pptx)
+            its "mass transit" aspects. [Read more](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/PodCar7/Presentations/PodCar7_Andreasson_Synergies.pptx)
 
 * Dr. Samuel Lott, Kimley Horn, focused
-            on ["Evolving
-
-              APMs to ATNs Using Driverless Car Technology"](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/PodCar7/Presentations/PodCar7_LOTT-Evolving%20APMs%20to%20ATNs%20Using%20Driverless%20Car%20Technology.pptx)
+            on ["Evolving APMs to ATNs Using Driverless Car Technology"](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/PodCar7/Presentations/PodCar7_LOTT-Evolving%20APMs%20to%20ATNs%20Using%20Driverless%20Car%20Technology.pptx)
             from the perspective of the safety standards that have been
             created at great expense for APMs.  He argued that this
             investment in standards should be leveraged by Driverless
             car technology to allow it to more readily evolve to offer
-            public transit mobility.  [Read
-
-              more](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/PodCar7/Presentations/PodCar7_LOTT-Evolving%20APMs%20to%20ATNs%20Using%20Driverless%20Car%20Technology.pptx)
+            public transit mobility.  [Read more](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/PodCar7/Presentations/PodCar7_LOTT-Evolving%20APMs%20to%20ATNs%20Using%20Driverless%20Car%20Technology.pptx)
 
 * Dr. Adriano Alessandrini, University
             of Rome, focused on the existing and near term
@@ -651,19 +570,15 @@ Thursday, October 24, 2013 @ George Mason
  summary of PodCar7 Conference by
       Lawrence Fabian
 
-[Read
-
-          more](http://www.podcarcity.org/washington/program-schedule/detail/?tx_cal_controller[view]=event&tx_cal_controller[type]=tx_cal_phpicalendar&tx_cal_controller[uid]=168&tx_cal_controller[lastview]=view-day%7Cpage_id-731&tx_cal_controller[year]=2013&tx_cal_controller[month]=10&tx_cal_controller[day]=24)  Alain
+[Read more](http://www.podcarcity.org/washington/program-schedule/detail/?tx_cal_controller[view]=event&tx_cal_controller[type]=tx_cal_phpicalendar&tx_cal_controller[uid]=168&tx_cal_controller[lastview]=view-day%7Cpage_id-731&tx_cal_controller[year]=2013&tx_cal_controller[month]=10&tx_cal_controller[day]=24)  Alain
 
 # Calendar of Upcoming
           Events:
 
 [http://www.cs.cmu.edu/%7ECVAD2013/](http://www.cs.cmu.edu/%7ECVAD2013/)
 
-[](http://www.cs.cmu.edu/%7ECVAD2013/)
 
-## [First International Workshop on Computer
-          Vision for Autonomous Driving](http://www.cs.cmu.edu/%7ECVAD2013/)
+## [First International Workshop on Computer Vision for Autonomous Driving](http://www.cs.cmu.edu/%7ECVAD2013/)
 
 ### [Sydney, Australia     December 2, 2013](http://www.cs.cmu.edu/%7ECVAD2013/)
 
@@ -673,18 +588,14 @@ Thursday, October 24, 2013 @ George Mason
 
         11, 2013
 
-## [The
-
-        Ethics of Autonomous Cars](http://www.theatlantic.com/technology/archive/2013/10/the-ethics-of-autonomous-cars/280360/)
+## [The Ethics of Autonomous Cars](http://www.theatlantic.com/technology/archive/2013/10/the-ethics-of-autonomous-cars/280360/)
 
 [Patrick Lin](http://www.theatlantic.com/patrick-lin/)
     Oct 8 2013, "If a small tree branch pokes out onto a highway and
     there's no incoming traffic, we'd simply drift a little into the
     opposite lane and drive around it. But an automated car might come
     to a full stop, as it dutifully observes traffic laws that prohibit
-    crossing a double-yellow line...." [Read
-
-      more](http://www.theatlantic.com/technology/archive/2013/10/the-ethics-of-autonomous-cars/280360/)  Good article as are some of
+    crossing a double-yellow line...." [Read more](http://www.theatlantic.com/technology/archive/2013/10/the-ethics-of-autonomous-cars/280360/)  Good article as are some of
         the comments that follow. I'll add mine:  Yes, ethics are really
         important here, but we also need to not be sophomoric.   Laws,
         even traffic laws, are created and interpreted with human
@@ -716,9 +627,7 @@ Thursday, October 24, 2013 @ George Mason
 
               September 28, 2013
 
-## [IIHS
-
-            issues first crash avoidance ratings](http://www.iihs.org/iihs/news/desktopnews/iihs-issues-first-crash-avoidance-ratings-under-new-test-program-7-midsize-vehicles-earn-top-marks-for-front-crash-prevention)
+## [IIHS issues first crash avoidance ratings](http://www.iihs.org/iihs/news/desktopnews/iihs-issues-first-crash-avoidance-ratings-under-new-test-program-7-midsize-vehicles-earn-top-marks-for-front-crash-prevention)
 
 IIHS News | Sept. 27, 2013  ARLINGTON, Va. —
           "A new test program by the Insurance Institute for Highway
@@ -753,11 +662,7 @@ IIHS News | Sept. 27, 2013  ARLINGTON, Va. —
           damaging the test vehicles," Zuby says. "As such, we expect
           crash mitigation benefits at higher speeds as well."
 
-[Read
-
-            more](http://www.iihs.org/iihs/news/desktopnews/iihs-issues-first-crash-avoidance-ratings-under-new-test-program-7-midsize-vehicles-earn-top-marks-for-front-crash-prevention)  [See
-
-            Video](http://www.youtube.com/watch?feature=player_embedded&v=omHES8mqtW4) [http://www.youtube.com/watch?feature=player_embedded&v=omHES8mqtW4](http://www.youtube.com/watch?feature=player_embedded&v=omHES8mqtW4)
+[Read more](http://www.iihs.org/iihs/news/desktopnews/iihs-issues-first-crash-avoidance-ratings-under-new-test-program-7-midsize-vehicles-earn-top-marks-for-front-crash-prevention)  [See Video](http://www.youtube.com/watch?feature=player_embedded&v=omHES8mqtW4) [http://www.youtube.com/watch?feature=player_embedded&v=omHES8mqtW4](http://www.youtube.com/watch?feature=player_embedded&v=omHES8mqtW4)
 
 Hats
 
@@ -765,9 +670,7 @@ Hats
                   of tests!
 
 Be sure to look at the
-              scoring table at the bottom of the [IIHS
-
-                news release](http://www.iihs.org/iihs/news/desktopnews/iihs-issues-first-crash-avoidance-ratings-under-new-test-program-7-midsize-vehicles-earn-top-marks-for-front-crash-prevention). It is disheartening to learn that for
+              scoring table at the bottom of the [IIHS news release](http://www.iihs.org/iihs/news/desktopnews/iihs-issues-first-crash-avoidance-ratings-under-new-test-program-7-midsize-vehicles-earn-top-marks-for-front-crash-prevention). It is disheartening to learn that for
               the most part, these systems didn't work!  Only Subaru,
               Cadillac and Volvo didn't crash in the 12 mph test and
               only Subaru in the 25 mph test.  The purpose of these
@@ -785,13 +688,11 @@ Why would manufacturers
 
               September 27, 2013
 
-## [](http://transportation.house.gov/hearing/how-autonomous-vehicles-will-shape-future-surface-transportation)[House to hold hearing on driverless cars](http://transportation.house.gov/hearing/how-autonomous-vehicles-will-shape-future-surface-transportation)
+## [House to hold hearing on driverless cars](http://transportation.house.gov/hearing/how-autonomous-vehicles-will-shape-future-surface-transportation)
 
               September 20, 2013
 
-## [At
-
-            Frankfurt Auto Show, the Driver Began to Take a Back Seat](http://www.nytimes.com/2013/09/16/automobiles/the-driver-begins-to-take-a-back-seat.html?ref=technology)
+## [At Frankfurt Auto Show, the Driver Began to Take a Back Seat](http://www.nytimes.com/2013/09/16/automobiles/the-driver-begins-to-take-a-back-seat.html?ref=technology)
 
  By JACK EWING Sept. 15, 2013  FRANKFURT —" A
           wide grin beneath his bushy mustache, Dieter Zetsche, the
@@ -799,23 +700,18 @@ Why would manufacturers
           auto shows, cruising onto the stage in the company's newest
           model. But at the Frankfurt motor show last week, Mr. Zetsche
           added a surprise: he sprang from the back of a Mercedes
-          S-Class that had no one in the driver's seat..."  [Read
-
-            more](http://www.nytimes.com/2013/09/16/automobiles/the-driver-begins-to-take-a-back-seat.html?ref=technology)  This is how Daimler
+          S-Class that had no one in the driver's seat..."  [Read more](http://www.nytimes.com/2013/09/16/automobiles/the-driver-begins-to-take-a-back-seat.html?ref=technology)  This is how Daimler
               chose to spend a substantial amount of money to introduce
               its automotive products at the 2013 Frankfurt Auto Show on
               Sept. 9, 2013. They must believe that consumers are ready
               to spend money on Smart Driving Cars.  Alain
-[](http://www.detroitnews.com/)
 
-## [](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Videos/MB_%20AutonomousLong-distanceDrive.mp4)[Video:
 
-            MB Self-Driving Manheim 2 Pforzheim 2:08 long](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Videos/MB_%20AutonomousLong-distanceDrive.mp4)
+## [Video: MB Self-Driving Manheim 2 Pforzheim 2:08 long](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Videos/MB_%20AutonomousLong-distanceDrive.mp4)
 
-## [S
-            500 MB Intelligent Drive (Self-Driving) TV footage:](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Videos/MB_Autonomous_TV_Footage_Long-distanceDrive.mp4)
+## [S 500 MB Intelligent Drive (Self-Driving) TV footage:](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Videos/MB_Autonomous_TV_Footage_Long-distanceDrive.mp4)
 
-  [](Mailto:alaink@princeton.edu)[Mailto:alaink@princeton.edu](Mailto:alaink@princeton.edu)
+  [Mailto:alaink@princeton.edu](Mailto:alaink@princeton.edu)
 
 --
 

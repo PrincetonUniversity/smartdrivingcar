@@ -7,10 +7,7 @@ permalink: /2014-07-01-2014-07-01/
 
 July 1, 2014
 
-## [](http://www.bloomberg.com/news/2014-06-30/intel-chases-sales-on-silicon-road-to-driverless-cars.html)[Intel
-
-                                    Chases Sales on Silicon Road to
-                                    Driverless Cars](http://www.bloomberg.com/news/2014-06-30/intel-chases-sales-on-silicon-road-to-driverless-cars.html)
+## [Intel Chases Sales on Silicon Road to Driverless Cars](http://www.bloomberg.com/news/2014-06-30/intel-chases-sales-on-silicon-road-to-driverless-cars.html)
 
 Ian King Jun 30,
                                 2014 "...The market for automotive chips
@@ -23,10 +20,7 @@ Ian King Jun 30,
                                 2020, making it the fastest-growing
                                 area. ..."[Read more](http://www.bloomberg.com/news/2014-06-30/intel-chases-sales-on-silicon-road-to-driverless-cars.html)
 
-## [](http://www.wired.com/2014/06/oshkosh-autonomous-minesweeping/)[I](http://www.wired.com/2014/06/oshkosh-autonomous-minesweeping/)[ngenious
-
-                                    Self-Driving Vehicle Saves Lives by
-                                    Detecting Roadside Bom](http://www.wired.com/2014/06/oshkosh-autonomous-minesweeping/)[b](http://www.wired.com/2014/06/oshkosh-autonomous-minesweeping/)[s](http://www.wired.com/2014/06/oshkosh-autonomous-minesweeping/)
+## [I](http://www.wired.com/2014/06/oshkosh-autonomous-minesweeping/)[ngenious Self-Driving Vehicle Saves Lives by Detecting Roadside Bom](http://www.wired.com/2014/06/oshkosh-autonomous-minesweeping/)[b](http://www.wired.com/2014/06/oshkosh-autonomous-minesweeping/)[s](http://www.wired.com/2014/06/oshkosh-autonomous-minesweeping/)
 
 Jordan Golson
                                 06.30.14 "...The system does more than
@@ -35,22 +29,16 @@ Jordan Golson
                                 tire inflation system and driveline
                                 locks to navigate deep sand or mud, all
                                 without any input from the operator....
-                                "  [Read
-
-                                  more](http://www.wired.com/2014/06/oshkosh-autonomous-minesweeping/)   Another outgrowth of
+                                "  [Read more](http://www.wired.com/2014/06/oshkosh-autonomous-minesweeping/)   Another outgrowth of
                                   the DARPA Challenges.  Arguably the
                                   next best military investment after
 
                                   GPS.  Alain
 
-## [Will
-
-                                    Driverless Cars Fuel Cheap
-                                    Insurance?](http://www.foxbusiness.com/personal-finance/2014/06/11/will-driverless-cars-fuel-cheap-insurance/)
+## [Will Driverless Cars Fuel Cheap Insurance?](http://www.foxbusiness.com/personal-finance/2014/06/11/will-driverless-cars-fuel-cheap-insurance/)
 
 Mark Chalon Smith,
-                                June 26, "...[A
-                                  CarInsurance.com survey](http://www.carinsurance.com/Articles/autonomous-cars-ready.aspx) of 2,000
+                                June 26, "...[A CarInsurance.com survey](http://www.carinsurance.com/Articles/autonomous-cars-ready.aspx) of 2,000
                                 licensed motorists found that only about
                                 20% would happily switch to autonomous
                                 cars if they became readily available.
@@ -65,17 +53,12 @@ Mark Chalon Smith,
                                 some analysts, would make it "very
                                 likely" that they'd buy a driverless
                                 car, and 90% said they would at least
-                                consider the possibility...." [Read
-
-                                  more](http://www.foxbusiness.com/personal-finance/2014/06/11/will-driverless-cars-fuel-cheap-insurance/)   Be
+                                consider the possibility...." [Read more](http://www.foxbusiness.com/personal-finance/2014/06/11/will-driverless-cars-fuel-cheap-insurance/)   Be
 
                                     sure to look at the[survey summary.](http://www.carinsurance.com/Articles/autonomous-cars-ready.aspx)  It is 6 month
                                     old, but probably still good.  Alain
 
-## [Are
-
-                                    driverless cars only a generation
-                                    away?](http://blogs.crikey.com.au/theurbanist/2014/06/23/are-driverless-cars-only-a-generation-away/)
+## [Are driverless cars only a generation away?](http://blogs.crikey.com.au/theurbanist/2014/06/23/are-driverless-cars-only-a-generation-away/)
 
 Alan Davies | Jun 23
                                 "...A lot of the discussion on
@@ -106,12 +89,8 @@ Alan Davies | Jun 23
                                 capable of what must've seemed
                                 incomprehensible speeds.
 
-                                Moreover, there was active [opposition
-
-                                  to cars](http://pricetags.wordpress.com/2013/04/18/origins-of-motordom-when-there-really-was-a-war-on-the-car/). As Aaron Wiener notes in
-                                the [Washington
-
-                                  City Paper](http://www.washingtoncitypaper.com/articles/44173/there-is-no-war-on-cars/):  ….in the early days
+                                Moreover, there was active [opposition to cars](http://pricetags.wordpress.com/2013/04/18/origins-of-motordom-when-there-really-was-a-war-on-the-car/). As Aaron Wiener notes in
+                                the [Washington City Paper](http://www.washingtoncitypaper.com/articles/44173/there-is-no-war-on-cars/):  ….in the early days
                                 of the automobile, when the technology
                                 itself was being questioned and few
                                 rules existed to govern traffic and
@@ -130,16 +109,12 @@ Alan Davies | Jun 23
                                 trucks offered back in the early
                                 twentieth century, but it seems likely
                                 they'll nevertheless offer a compelling,
-                                even irresistible, proposition..." [Read
-
-                                  more](http://blogs.crikey.com.au/theurbanist/2014/06/23/are-driverless-cars-only-a-generation-away/)
+                                even irresistible, proposition..." [Read more](http://blogs.crikey.com.au/theurbanist/2014/06/23/are-driverless-cars-only-a-generation-away/)
 
 Thoughtful and
                                     well worth reading.  Alain
 
-## [Retro-fit
-
-                                    an 'autopilot' to your car!](http://motoring.iafrica.com/features/946049.html)
+## [Retro-fit an 'autopilot' to your car!](http://motoring.iafrica.com/features/946049.html)
 
 Fri, 27 Jun "...
                                 Then there's the fact that many of the
@@ -154,16 +129,13 @@ Fri, 27 Jun "...
                                 The Distronic Plus system has been
                                 offered on the E-Class and S-Class since
                                 2013 and is now available to C-Class,
-                                CLA and CLS owners too..." [Read
-
-                                  more](http://motoring.iafrica.com/features/946049.html)
+                                CLA and CLS owners too..." [Read more](http://motoring.iafrica.com/features/946049.html)
 
 Even in Africa,
                                     SmartDrivingCars are part of the
                                     news.  Alain
 
-## [Visualizing
-                                        MBTA Data](http://mbtaviz.github.io/)
+## [Visualizing MBTA Data](http://mbtaviz.github.io/)
 
 Mike
                                     Barry and Brian Card - June 10, 2014
@@ -177,8 +149,7 @@ Mike
                                     understand the trains, how people
                                     use the trains, and how the people
                                     and trains interact with each
-                                    other..." [Read
-                                      mor](http://mbtaviz.github.io/)e
+                                    other..." [Read mor](http://mbtaviz.github.io/)e
 
 ##
 
@@ -187,10 +158,7 @@ Mike
                                 stuff that probably doesn't deserve your
                                 time:
 
-### [Google,
-
-                                    Detroit diverge on road map for
-                                    self-driving cars](http://mobile.reuters.com/article/idUSKBN0F50C320140630?irpc=932)
+### [Google, Detroit diverge on road map for self-driving cars](http://mobile.reuters.com/article/idUSKBN0F50C320140630?irpc=932)
 
 This is about
                                     a meeting in 2012 which is
@@ -201,10 +169,7 @@ This is about
                                     what is happening today and
                                     tomorrow.  Alain
 
-### [How
-
-                                    to Invest in the Driverless-Car
-                                    Future](http://www.greentechmedia.com/articles/read/How-to-Invest-in-the-Driverless-Car-Future)
+### [How to Invest in the Driverless-Car Future](http://www.greentechmedia.com/articles/read/How-to-Invest-in-the-Driverless-Car-Future)
 
 "...Tesla's Elon
                                   Musk stated in early June, "I am
@@ -217,10 +182,7 @@ This is about
                                     upgrade which I'm sure they have my
                                     S class could do it today.  Alain
 
-### [Perspective:
-
-                                    Self-driving Cars As An Ideal, Is
-                                    Not The Same Thing In Real Life](http://www.theautofuture.com/2014/06/27/self-driving-cars-ideal/)
+### [Perspective: Self-driving Cars As An Ideal, Is Not The Same Thing In Real Life](http://www.theautofuture.com/2014/06/27/self-driving-cars-ideal/)
 
 By Rick Carlton |
                                   June 27 "...That's why in the case of
@@ -239,15 +201,9 @@ By Rick Carlton |
                                   versus eight guys in a business park
                                   in San Francisco, I'd take the big
                                   company any day."  Hmmm  I guess Rick
-                                    owns a GM car ([New
+                                    owns a GM car ([New General Motors Recall Includes Best Sellers](http://www.nytimes.com/2014/06/28/business/new-general-motors-recall-includes-best-sellers.html?_r=0))
 
-                                      General Motors Recall Includes
-                                      Best Sellers](http://www.nytimes.com/2014/06/28/business/new-general-motors-recall-includes-best-sellers.html?_r=0))
-
-### [What
-
-                                    Will a Self-Driving Future Look
-                                    Like?](http://www.ourmidland.com/prweb/what-will-a-self-driving-future-look-like-at-ce/article_d77cbb2b-d1d4-5646-872a-c036fa5b011e.html)
+### [What Will a Self-Driving Future Look Like?](http://www.ourmidland.com/prweb/what-will-a-self-driving-future-look-like-at-ce/article_d77cbb2b-d1d4-5646-872a-c036fa5b011e.html)
 
 ...Total PR.
                                   Alain
@@ -261,11 +217,10 @@ By Rick Carlton |
 ## Calendar
                                                 of Upcoming Events:
 
-## [](http://www.auvsi.org/avs2014/register)
+## 
 
  [http://www.auvsi.org/avs2014/register](http://www.auvsi.org/avs2014/register)
 
-[](http://www.auvsi.org/avs2014/register)
 
 Invitation
 
@@ -286,14 +241,9 @@ Save the
 
 ###
 
-### [In
+### [In wake of Tracy Morgan crash, rising truck fatalities lead to new scrutiny](http://www.nj.com/news/index.ssf/2014/06/rising_truck_fatalities_nationwide_leading_to_new_scrutiny_in_wake_of_tracy_morgan_crash.html)
 
-                                                  wake of Tracy Morgan
-                                                  crash, rising truck
-                                                  fatalities lead to new
-                                                  scrutiny](http://www.nj.com/news/index.ssf/2014/06/rising_truck_fatalities_nationwide_leading_to_new_scrutiny_in_wake_of_tracy_morgan_crash.html)
-
- [](http://connect.nj.com/staff/thsherma/posts.html)Ted
+ Ted
                                                   Sherman/The
                                                   Star-Ledger  June 15
                                               "The Wal-Mart truck that
@@ -324,9 +274,7 @@ Save the
                                               spot sensors, and
                                               electronic controls
                                               limiting its top speed to
-                                              65 miles per hour...."  [Read
-
-                                                more](http://www.nj.com/news/index.ssf/2014/06/rising_truck_fatalities_nationwide_leading_to_new_scrutiny_in_wake_of_tracy_morgan_crash.html)
+                                              65 miles per hour...."  [Read more](http://www.nj.com/news/index.ssf/2014/06/rising_truck_fatalities_nationwide_leading_to_new_scrutiny_in_wake_of_tracy_morgan_crash.html)
 
 Hmm...
                                                 I wrote last Tuesday as
@@ -428,10 +376,7 @@ US
 
                                                 June 10, 2014
 
-### [If
-
-                                              Robots Drove, How Much
-                                              Safer Would Roads Be?](http://www.nytimes.com/2014/06/10/upshot/if-robots-drove-how-much-safer-would-roads-be.html?emc=eta1)
+### [If Robots Drove, How Much Safer Would Roads Be?](http://www.nytimes.com/2014/06/10/upshot/if-robots-drove-how-much-safer-would-roads-be.html?emc=eta1)
 
  Claire
                                               Cain Miller, June 10 "
@@ -460,11 +405,8 @@ US
                                               the most dangerous aspects
                                               of driving could have as
                                               big an effect as seatbelts
-                                              have had...[Read
+                                              have had...[Read more](http://www.nytimes.com/2014/06/10/upshot/if-robots-drove-how-much-safer-would-roads-be.html?emc=eta1)
 
-                                              more](http://www.nytimes.com/2014/06/10/upshot/if-robots-drove-how-much-safer-would-roads-be.html?emc=eta1)
-
-[](http://www.nytimes.com/2014/06/10/upshot/if-robots-drove-how-much-safer-would-roads-be.html?emc=eta1)
 
 Hmm...
 
@@ -474,12 +416,7 @@ Hmm...
 
                                                 I. Gorman, Kristofer D.
                                                 Kusano, and Hampton C.
-                                                Gabler "[Model
-
-                                                    of Fleet-wide Safety
-                                                    Benefits of Lane
-                                                    Departure Warning
-                                                    Systems](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6728260)"
+                                                Gabler "[Model of Fleet-wide Safety Benefits of Lane Departure Warning Systems](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6728260)"
                                                 . "...The expected
                                                 reduction in road
                                                 departurecrashes due to
@@ -489,18 +426,12 @@ Hmm...
                                                 that are caused by LDW
                                                 applicable crashes is
                                                 estimated to be
-                                                25.8%..."  [Read
-
-                                                  more](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6728260)
+                                                25.8%..."  [Read more](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6728260)
 
  Kusano,
 
                                                 K., Gabler, H., and
-                                                Gorman, T., "[Fleetwide Safety Benefits of
-                                                    Production Forward
-                                                    Collision and Lane
-                                                    Departure Warning
-                                                    Systems](http://papers.sae.org/2014-01-0166/),"
+                                                Gorman, T., "[Fleetwide Safety Benefits of Production Forward Collision and Lane Departure Warning Systems](http://papers.sae.org/2014-01-0166/),"
                                                 SAE Int. J. Passeng.
                                                 Cars - Mech. Syst.
                                                 7(2):2014,
@@ -544,10 +475,7 @@ Hmm...
                                                 addition to distance to
                                                 lane cross...." [Read more](http://papers.sae.org/2014-01-0166/)
 
-### [Driver Charged in Crash
-                                              Involving Tracy Morgan Had
-                                              Not Slept in 24 Hours,
-                                              Prosecutors Say](http://www.nytimes.com/2014/06/10/nyregion/driver-charged-in-tracy-morgan-crash-had-not-slept-in-24-hours-prosecutors-say.html)
+### [Driver Charged in Crash Involving Tracy Morgan Had Not Slept in 24 Hours, Prosecutors Say](http://www.nytimes.com/2014/06/10/nyregion/driver-charged-in-tracy-morgan-crash-had-not-slept-in-24-hours-prosecutors-say.html)
 
  J. DAVID
                                             GOODMANJUNE 9, "The Walmart
@@ -576,9 +504,7 @@ Hmm...
                                             regulations," which limit
                                             work shifts to 14 hours,
                                             with only 11 of those behind
-                                            the wheel. [Read
-
-                                              more](http://www.nytimes.com/2014/06/10/nyregion/driver-charged-in-tracy-morgan-crash-had-not-slept-in-24-hours-prosecutors-say.html)
+                                            the wheel. [Read more](http://www.nytimes.com/2014/06/10/nyregion/driver-charged-in-tracy-morgan-crash-had-not-slept-in-24-hours-prosecutors-say.html)
 
 Hmmm...
 
@@ -672,10 +598,7 @@ Hmmm...
 
 ###
 
-### [Just
-
-                                              press go: designing a
-                                              self-driving vehicle](http://googleblog.blogspot.com/2014/05/just-press-go-designing-self-driving.html)
+### [Just press go: designing a self-driving vehicle](http://googleblog.blogspot.com/2014/05/just-press-go-designing-self-driving.html)
 
 Posted:
                                             Tuesday, May 27 "Ever since
@@ -717,9 +640,7 @@ Posted:
                                           transforming mobility for
                                           millions of people. .."  Must
                                           watch [video](https://www.youtube.com/watch?feature=player_embedded&v=CqSDWoAhvLU)
-                                          [Read
-
-                                            more](http://googleblog.blogspot.com/2014/05/just-press-go-designing-self-driving.html)
+                                          [Read more](http://googleblog.blogspot.com/2014/05/just-press-go-designing-self-driving.html)
 
                                                 May 22, 2014
 
@@ -749,11 +670,7 @@ Since
 
 ###
 
-### [Autonomous
-
-                                              Vehicles: Handing Over
-                                              Control: Opportunities and
-                                              Risks for Insurance](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/PDFs/LLoyds-Autonomous%20Vehicles.pdf)
+### [Autonomous Vehicles: Handing Over Control: Opportunities and Risks for Insurance](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/PDFs/LLoyds-Autonomous%20Vehicles.pdf)
 
                                           Gillian Yeomans,
                                           Lloyd'sExposure Management
@@ -779,33 +696,23 @@ Since
                                           give rise to new business
                                           opportunities, with
                                           corresponding opportunities
-                                          for insurers....["Read
-
-                                            more](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/PDFs/LLoyds-Autonomous%20Vehicles.pdf)  Nice to
+                                          for insurers....["Read more](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/PDFs/LLoyds-Autonomous%20Vehicles.pdf)  Nice to
                                               see Lloyd's weigh in here.
                                               Alain
 
                                                 May 2, 2014
 
-### [Who Is at Fault When a
-                                              Driverless Car Gets in an
-                                              Accident?](http://www.theatlantic.com/business/archive/2014/04/who-is-at-fault-when-a-driverless-car-gets-in-an-accident/361250/)
+### [Who Is at Fault When a Driverless Car Gets in an Accident?](http://www.theatlantic.com/business/archive/2014/04/who-is-at-fault-when-a-driverless-car-gets-in-an-accident/361250/)
 
                                           John Villasenor Apr 25 2014
                                           "It may seem odd, but we
                                           already have the laws we need
                                           for dealing with this
-                                          inevitable situation." [Read
-
-                                            more](http://www.theatlantic.com/business/archive/2014/04/who-is-at-fault-when-a-driverless-car-gets-in-an-accident/361250/) especially
+                                          inevitable situation." [Read more](http://www.theatlantic.com/business/archive/2014/04/who-is-at-fault-when-a-driverless-car-gets-in-an-accident/361250/) especially
 
                                               the source report:
 
-### [Products
-
-                                              Liability and Driverless
-                                              Cars: Issues and Guiding
-                                              Principles for Legislation](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/PDFs/Brookings_Products_Liability_and_Driverless_Cars.pdf)
+### [Products Liability and Driverless Cars: Issues and Guiding Principles for Legislation](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/PDFs/Brookings_Products_Liability_and_Driverless_Cars.pdf)
 
                                                 April 18, 2014
 
@@ -815,11 +722,7 @@ Since
                                             Student Theses
 
 Wyrough, Alexander Penn
-                                            Hill Jr.: [A
-                                              National Disaggregate
-                                              Transportation Demand
-                                              Model for the Analysis of
-                                              autonomousTaxi Systems](http://orfe.princeton.edu/%7Ealaink/Theses/SeniorTheses%2714/Draft-Wyrough_NoationalDisaggregateTripSynthesizer.pdf)
+                                            Hill Jr.: [A National Disaggregate Transportation Demand Model for the Analysis of autonomousTaxi Systems](http://orfe.princeton.edu/%7Ealaink/Theses/SeniorTheses%2714/Draft-Wyrough_NoationalDisaggregateTripSynthesizer.pdf)
 
 Included
 
@@ -872,35 +775,15 @@ Included
                                               nearest major airports.
                                               Alain
 
-Lee, Eileen: [Uncovering
+Lee, Eileen: [Uncovering Systemic Corruption in the ER:An Empirical Analysis of Motor Vehicle-Related Hospital Bill and their Impact on Insurance Companies](http://orfe.princeton.edu/%7Ealaink/Theses/SeniorTheses%2714/Draft-Lee_UncoveringSystematicCorruptionInTheER.pdf)
 
-                                              Systemic Corruption in the
-                                              ER:An Empirical Analysis
-                                              of Motor Vehicle-Related
-                                              Hospital Bill and their
-                                              Impact on Insurance
-                                              Companies](http://orfe.princeton.edu/%7Ealaink/Theses/SeniorTheses%2714/Draft-Lee_UncoveringSystematicCorruptionInTheER.pdf)
+Sun, Zhuyi (Judy): [Causal Price Discrimination: An Analysis of the Healthcare Costs Associated with Motor Vehicle and Transportation Collisions](http://orfe.princeton.edu/%7Ealaink/Theses/SeniorTheses%2714/Draft-Sun_CausalPriceDiscrimination.pdf)
 
-Sun, Zhuyi (Judy): [Causal
-
-                                              Price Discrimination: An
-                                              Analysis of the Healthcare
-                                              Costs Associated with
-                                              Motor Vehicle and
-                                              Transportation Collisions](http://orfe.princeton.edu/%7Ealaink/Theses/SeniorTheses%2714/Draft-Sun_CausalPriceDiscrimination.pdf)
-
-Rhodes, Brandon Xavier: [An
-
-                                              Analysis  of
-                                              Economically  Efficient
-                                              Insurance  Schemes  for
-                                              Automated  Vehicle](http://orfe.princeton.edu/%7Ealaink/Theses/SeniorTheses%2714/Draft-Rhodes_InsuranceSchemesForAutomatedVehicles.pdf)
+Rhodes, Brandon Xavier: [An Analysis  of Economically  Efficient Insurance  Schemes  for Automated  Vehicle](http://orfe.princeton.edu/%7Ealaink/Theses/SeniorTheses%2714/Draft-Rhodes_InsuranceSchemesForAutomatedVehicles.pdf)
 
                                                 April 11, 2014
 
-### [Hands-On: 2015 Hyundai
-                                              Genesis Flirts with
-                                              Autonomous Driving](http://www.chipchick.com/2014/04/2015-hyundai-genesis.html)
+### [Hands-On: 2015 Hyundai Genesis Flirts with Autonomous Driving](http://www.chipchick.com/2014/04/2015-hyundai-genesis.html)
 
                                           By Scott Schaen on April 7,
                                           "...Lane keep assist worked
@@ -914,27 +797,21 @@ Rhodes, Brandon Xavier: [An
                                           it won't bring you to a
                                           complete stop. They're SAFETY
                                           features; they're not intended
-                                          to auto-drive (yet)..." [Read
-
-                                            more](http://www.chipchick.com/2014/04/2015-hyundai-genesis.html)
+                                          to auto-drive (yet)..." [Read more](http://www.chipchick.com/2014/04/2015-hyundai-genesis.html)
 
                                                 April 4, 2014
 
 ### [Webinar on the 3DV product](http://www.autonomoustuff.com/vislab-webinar-recording.html)
 
-                                          Thursday, March 27, 2014  [Video
-
-                                                of Webinar](http://www.autonomoustuff.com/vislab-webinar-recording.html).
+                                          Thursday, March 27, 2014  [Video of Webinar](http://www.autonomoustuff.com/vislab-webinar-recording.html).
                                               Excellent presentation by
                                             Prof. Alberto Broggi
                                               Alain
 
-  [](Mailto:alaink@princeton.edu)[Mailto:alaink@princeton.edu](Mailto:alaink@princeton.edu)[](Mailto:alaink@princeton.edu)
+  [Mailto:alaink@princeton.edu](Mailto:alaink@princeton.edu)
 
                                           This list is maintained by [Alain Kornhauser](mailto:alaink@princeton.edu) and hosted by
-                                          the [Princeton
-
-                                            University LISTSERV](http://lists.princeton.edu).
+                                          the [Princeton University LISTSERV](http://lists.princeton.edu).
 
 [Unsubscribe](https://lists.princeton.edu/cgi-bin/wa?TICKET=NzM1MjMzIGJpbm9AUFJJTkNFVE9OLkVEVSBTTUFSVERSSVZJTkdDQVJTIGluYtYkJuu3&c=SIGNOFF)
                                           | [Re-subscribe](https://lists.princeton.edu/cgi-bin/wa?TICKET=NzM1MjMzIGJpbm9AUFJJTkNFVE9OLkVEVSBTTUFSVERSSVZJTkdDQVJTIGluYtYkJuu3&c=SIGNUP)

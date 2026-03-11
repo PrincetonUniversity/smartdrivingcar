@@ -15,23 +15,23 @@ A. Nathans, May 11, "When Serena Ren presented her senior thesis on using machin
 
 But on May 4, Ren and Luo finally got to see each other's presentations in a classroom in Sherrerd Hall, thanks to the department's first-ever event in which selected students present their thesis work to the whole department.... " [Read more](https://engineering.princeton.edu/news/2022/05/11/pricing-carbon-fighting-opioid-abuse-orfe-showcased-top-senior-projects) Hmmmm... I'm so proud! Hopefully we'll be able to release the video so you can enjoy. Keep trying the link:
 
-### [Princeton ORFE Class of 2022 Senior Thesis Symposium "Best 8"](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fyoutu.be%2FRlrHnI5qvA0&data=05%7C01%7Calaink%40Princeton.EDU%7C528917d7c8fb44209c0508da306cc089%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C637875540923375683%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=a1Tg49Su1D4ZjI7PNiRaXqn2pMJK7LJWdH2MS%2BjK5fU%3D&reserved=0)
+### [Princeton ORFE Class of 2022 Senior Thesis Symposium "Best 8"](https://youtu.be/RlrHnI5qvA0)
 
 * Isabelle Grosgogeat "[Impact of women and minority ownership on private equity](https://www.youtube.com/watch?v=RlrHnI5qvA0&&t=20s)"
 
-* Joyce Luo "[Equitable data-driven resource allocation to fight the opioid pandemic](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fyoutu.be%2FRlrHnI5qvA0%3Ft%3D1184&data=05%7C01%7Calaink%40Princeton.EDU%7C528917d7c8fb44209c0508da306cc089%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C637875540923375683%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=OG3U762omWiRUZB6hfA4twcpyYJQIccMZBoPNMXglwg%3D&reserved=0)"
+* Joyce Luo "[Equitable data-driven resource allocation to fight the opioid pandemic](https://youtu.be/RlrHnI5qvA0?t=1184)"
 
-* Caroline Noonan "[The impact of carbon price on power plant dispatch, production costs, and total emissions](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fyoutu.be%2FRlrHnI5qvA0%3Ft%3D1903&data=05%7C01%7Calaink%40Princeton.EDU%7C528917d7c8fb44209c0508da306cc089%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C637875540923375683%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=GIlIMo%2Fo9X%2BvT%2B7YXr2UdUOIqFY1Ek%2BIKeYOWThJOjw%3D&reserved=0)"
+* Caroline Noonan "[The impact of carbon price on power plant dispatch, production costs, and total emissions](https://youtu.be/RlrHnI5qvA0?t=1903)"
 
-* Hari Ramakrishnan "[Lighting up dark pools](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fyoutu.be%2FRlrHnI5qvA0%3Ft%3D3026&data=05%7C01%7Calaink%40Princeton.EDU%7C528917d7c8fb44209c0508da306cc089%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C637875540923375683%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=4U9IY%2FDhmeH8q10bd%2BJMcU8G%2Bgd561CnunARNR9c%2FOs%3D&reserved=0)"
+* Hari Ramakrishnan "[Lighting up dark pools](https://youtu.be/RlrHnI5qvA0?t=3026)"
 
-* Serena Ren "[Automatic art appraisals](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fyoutu.be%2FRlrHnI5qvA0%3Ft%3D3967&data=05%7C01%7Calaink%40Princeton.EDU%7C528917d7c8fb44209c0508da306cc089%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C637875540923375683%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=YT0nytBhoywoiLnC05pFqy3g8HTm0j32zXOZyT8ei2w%3D&reserved=0)"
+* Serena Ren "[Automatic art appraisals](https://youtu.be/RlrHnI5qvA0?t=3967)"
 
-* Mitchell Stroebell "[A comparison of advanced player statistics for the NBA](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fyoutu.be%2FRlrHnI5qvA0%3Ft%3D4827&data=05%7C01%7Calaink%40Princeton.EDU%7C528917d7c8fb44209c0508da306cc089%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C637875540923375683%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=O2q14bDx5Cs0nHHhZzI6Kv0fo4UgdXhEIfO9BaDxd3I%3D&reserved=0)"
+* Mitchell Stroebell "[A comparison of advanced player statistics for the NBA](https://youtu.be/RlrHnI5qvA0?t=4827)"
 
-* Jack Woll "[Pairs trading and volatility](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fyoutu.be%2FRlrHnI5qvA0%3Ft%3D5673&data=05%7C01%7Calaink%40Princeton.EDU%7C528917d7c8fb44209c0508da306cc089%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C637875540923375683%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=Zv83akeUcHbzKcJOKJxmxvVu8xOy5EspqqDx7%2Bg24hg%3D&reserved=0)"
+* Jack Woll "[Pairs trading and volatility](https://youtu.be/RlrHnI5qvA0?t=5673)"
 
-* Andre Yin "[Equity trading strategies based on macroeconomic event analysis](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fyoutu.be%2FRlrHnI5qvA0%3Ft%3D6650&data=05%7C01%7Calaink%40Princeton.EDU%7C528917d7c8fb44209c0508da306cc089%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C637875540923375683%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=Qdc1vO2uQeCjeIcOrtF0lTMqcZCzcJD%2Bmu%2BG91%2FdSNw%3D&reserved=0)"
+* Andre Yin "[Equity trading strategies based on macroeconomic event analysis](https://youtu.be/RlrHnI5qvA0?t=6650)"
 
 F. Fishkin, May 15, Wireless electric vehicle charging can make autonomous mobility services more affordable for all. How? Momentum Dynamics Chief Commercial Officer Bob Kacergis explains on episode 268 of Smart Driving Cars with Princeton's Alain Kornhauser & co-host Fred Fishkin. Plus..Oshkosh, Torc Robotics, Trenton Moves and more."
 
@@ -59,7 +59,7 @@ Kornhauser & He, March 2021
 
 & Community Engagement
 
-[https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.cartsmobility.com%2Fsummit&data=05%7C01%7Calaink%40Princeton.EDU%7C528917d7c8fb44209c0508da306cc089%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C637875540923688163%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=pPvx9jMQO0onDJ3HyQoguXuwIQmWhMvetyOjFBCF%2BrU%3D&reserved=0]
+[https://www.cartsmobility.com/summit
 
 @ Princeton University
 
@@ -79,7 +79,7 @@ Setting the stage for this final session, Michael Sena provided highlights of th
 
 's Session Summaries of 4th Princeton SmartDrivingCar Summit:
 
-[https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.dropbox.com%2Fs%2Fakvl1klaz3jlgjf%2F041521_Making%2520it%2520Happen%2520Part%25202.pptx&data=05%7C01%7Calaink%40Princeton.EDU%7C528917d7c8fb44209c0508da306cc089%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C637875540923688163%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=1ws2uYrOrf5Zx%2FjF8%2B%2B4dtjWvD5t1%2B%2F%2BbudO1vdQwb4%3D&reserved=0]
+[https://www.dropbox.com/s/akvl1klaz3jlgjf/041521_Making%20it%20Happen%20Part%202.pptx
 
 n: A Proposal for Providing Affordable, High-quality, On-demand Mobility for All in the "Trentons" of this World"
 
@@ -111,7 +111,7 @@ F. Fishkin, Feb. 25, "So what about these reports and opinion pieces casting dou
 
 SmartDrivingCars / w/ F. Fishkin, Feb. 18, "With Jaguar Land Rover signing on to partner with NVIDIA for advanced driver assistance and autonomous capabilities in all of their vehicles starting in 2025, what will the collaboration mean? NVIDIA's VP for Automotive Danny Shapiro joins Princeton's Alain Kornhauser & co-host Fred Fishkin for that plus the latest on Waymo, VW, Trenton and more."
 
-SmartDrivingCars [https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DxFegxpeq0Gk&data=05%7C01%7Calaink%40Princeton.EDU%7C528917d7c8fb44209c0508da306cc089%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C637875540924156883%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=8u03sqpb9d6BL%2F3fUb2uYzvkyoQneO2Il1%2Bautl8lVo%3D&reserved=0] / w/
+SmartDrivingCars [https://www.youtube.com/watch?v=xFegxpeq0Gk / w/
 
 F. Fishkin, Feb. 11, "The engaging debate over disengagements. In episode 255 of Smart Driving Cars, Forbes.com Sr. Transportation Contributor Brad Templeton engages with Princeton's Alain Kornhauser over the path to the future of autonomous mobility. The latest data on disengagements from companies testing self driving vehicles in California, Tesla, Cruise, Waymo and New Jersey begins funding Trenton MOVES...are part of the spirited discussion with co-host Fred Fishkin."
 
@@ -183,7 +183,7 @@ Profit: $1.70 *2.7M = $4.6M/day = $1.5B/year
 
 Seems to me that Waymo should have responded to the NJ DoT RfEI and shouldn't be completely ignoring me. I guess I'm missing something. Maybe someone else will call me? 😎 Alain
 
-[https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DGXnluyz2GSE&data=05%7C01%7Calaink%40Princeton.EDU%7C528917d7c8fb44209c0508da306cc089%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C637875540924469365%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=MRq8tL%2BQHDWMbeZALUaqtl5kw51D6FSnp3S1iq2heAU%3D&reserved=0]
+[https://www.youtube.com/watch?v=GXnluyz2GSE
 
 Feb. 11, "The New Jersey DOT is providing 5 million dollars to get Trenton MOVES moving. The goal..autonomous, affordable, safe mobility for all. This is a video of the event held on February 9th." Hmmmm... Fantastic even with challenging audio. Turn on Closed Caption. The substance is in the quality of the words from the Mayor, Commissioner and Superintendent. All from the heart. Very worth absorbing. Alain.
 

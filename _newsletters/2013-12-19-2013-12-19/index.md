@@ -15,9 +15,7 @@ Princeton University's
 You are cordially invited to attend the
 
 42nd
-            Annual Princeton University Transportation Program [Reunion
-
-                  Banquet](imap://alaink@exchangeimap.princeton.edu:993/fetch%3EUID%3E/INBOX%3E307564?part=1.2.3&filename=TRB%2714_Invite.pdf)
+            Annual Princeton University Transportation Program [Reunion Banquet](imap://alaink@exchangeimap.princeton.edu:993/fetch%3EUID%3E/INBOX%3E307564?part=1.2.3&filename=TRB%2714_Invite.pdf)
 
 in conjunction with the 93rd annual
 
@@ -58,9 +56,7 @@ Phone:
 
               (202) 483-8705
 
-GPS: [38.92463N,
-
-              77.05201W](https://www.google.com/maps/preview#%21q=38.92463N%2C+77.05201W&data=%211m4%211m3%211d2126%212d-77.052061%213d38.9248721%214m14%212m13%211m12%213m8%211m3%211d66643%212d-74.6698425%213d40.3483134%213m2%211i1213%212i1052%214f13.1%214m2%213d38.92463%214d-77.05201)
+GPS: [38.92463N, 77.05201W](https://www.google.com/maps/preview#%21q=38.92463N%2C+77.05201W&data=%211m4%211m3%211d2126%212d-77.052061%213d38.9248721%214m14%212m13%211m12%213m8%211m3%211d66643%212d-74.6698425%213d40.3483134%213m2%211i1213%212i1052%214f13.1%214m2%213d38.92463%214d-77.05201)
 
 Conveniently
 

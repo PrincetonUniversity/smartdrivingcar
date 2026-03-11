@@ -12,12 +12,7 @@ New
                                                           41st edition of the 6th year of SmartDrivingCars
                                                           2018
 
-### [FORGET
-                                                          UNIVERSAL
-                                                          BASIC INCOME.
-                                                          WE NEED
-                                                          UNIVERSAL
-                                                          BASIC MOBILITY](https://www.2025ad.com/latest/alex-roy-driverless-cars-universal-basic-mobility/)
+### [FORGET UNIVERSAL BASIC INCOME. WE NEED UNIVERSAL BASIC MOBILITY](https://www.2025ad.com/latest/alex-roy-driverless-cars-universal-basic-mobility/)
 
                                                           A. Roy, Sept
                                                           5, "...THE
@@ -325,9 +320,7 @@ Walking/(bicycles, electric skate boards) in cities are like the stairs.
                                                           Thoughts???
                                                           Alain
 
-### [Smart Driving
-                                                          Cars Podcast
-                                                          Episode 59](https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-59)
+### [Smart Driving Cars Podcast Episode 59](https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-59)
 
 F. Fishkin,
                                                           Sept
@@ -387,10 +380,7 @@ Real
                                                           [alaink@princeton.edu](mailto:alaink@princeton.edu)!
                                                           Alain
 
-### [Seeing
-                                                          the world in
-                                                          autopilot,
-                                                          part deux](https://www.reddit.com/r/teslamotors/comments/9irh2a/seeing_the_world_in_autopilot_part_deux/)
+### [Seeing the world in autopilot, part deux](https://www.reddit.com/r/teslamotors/comments/9irh2a/seeing_the_world_in_autopilot_part_deux/)
 
 u/greentheonly, Sept 24, "... So we proceeded to gather a bunch of
                                                           footage from
@@ -492,8 +482,7 @@ u/greentheonly, Sept 24, "... So we proceeded to gather a bunch of
                                                           present) and
                                                           various other
                                                           properties..."
-                                                          [Read
-                                                          more](https://www.reddit.com/r/teslamotors/comments/9irh2a/seeing_the_world_in_autopilot_part_deux/) Hmmmm....
+                                                          [Read more](https://www.reddit.com/r/teslamotors/comments/9irh2a/seeing_the_world_in_autopilot_part_deux/) Hmmmm....
 
 Look
                                                           at the
@@ -502,16 +491,10 @@ Look
                                                           spectacular
                                                           (in tech
                                                           content) [Crazy Paris streets;](https://youtu.be/_1MHGUC_BzQ)
-                                                          [Paris
-                                                          highways](https://youtu.be/24dRkHdpEPo)
+                                                          [Paris highways](https://youtu.be/24dRkHdpEPo)
                                                           Alain
 
-### [SEC
-                                                          lawsuit seeks
-                                                          to force Musk
-                                                          out as Tesla
-                                                          CEO and board
-                                                          member](https://arstechnica.com/cars/2018/09/sec-sues-elon-musk-over-funding-secured-tweets/)
+### [SEC lawsuit seeks to force Musk out as Tesla CEO and board member](https://arstechnica.com/cars/2018/09/sec-sues-elon-musk-over-funding-secured-tweets/)
 
 T. Lee,
                                                           Sept 27, "The
@@ -576,8 +559,7 @@ T. Lee,
                                                           Tesla's CEO
                                                           and give up
                                                           his board
-                                                          seat..."  [Read
-                                                          more](https://arstechnica.com/cars/2018/09/sec-sues-elon-musk-over-funding-secured-tweets/) Hmmmm....
+                                                          seat..."  [Read more](https://arstechnica.com/cars/2018/09/sec-sues-elon-musk-over-funding-secured-tweets/) Hmmmm....
                                                           But
                                                           it is well
                                                           known that
@@ -589,13 +571,7 @@ T. Lee,
                                                           harm.  He
                                                           certainly is
                                                           inspiring.
-                                                          See also [Tesla
-                                                          stock dives as
-                                                          SEC tries to
-                                                          force Elon
-                                                          Musk out of
-                                                          company
-                                                          leadership](http://www.latimes.com/business/autos/la-fi-hy-tesla-elon-musk-sec-20180928-story.html#nt=outfit)
+                                                          See also [Tesla stock dives as SEC tries to force Elon Musk out of company leadership](http://www.latimes.com/business/autos/la-fi-hy-tesla-elon-musk-sec-20180928-story.html#nt=outfit)
                                                           Should
                                                           "shorters" be
                                                           banned for
@@ -610,9 +586,7 @@ T. Lee,
                                                           shorts???
                                                           Alain
 
-### [JRC Science for
-                                                          Policy Report:
-                                                          CCAM in Europe](https://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/PDFs/The%20Dispatcher_October%202018.pdf)
+### [JRC Science for Policy Report: CCAM in Europe](https://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/PDFs/The%20Dispatcher_October%202018.pdf)
 
 M. Sena,
                                                           Oct 1, "THE
@@ -704,8 +678,7 @@ M. Sena,
                                                           driving on the
                                                           economy,
                                                           employment and
-                                                          skills..."  [Read
-                                                          more](https://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/PDFs/The%20Dispatcher_October%202018.pdf)  Hmmmm...
+                                                          skills..."  [Read more](https://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/PDFs/The%20Dispatcher_October%202018.pdf)  Hmmmm...
                                                           I point you to
                                                           Michael's
                                                           evaluation of
@@ -783,12 +756,7 @@ Musings
 
 Alain
 
-### [This
-                                                          major European
-                                                          city wants to
-                                                          embrace
-                                                          autonomous
-                                                          cars](https://www.cnbc.com/2018/09/27/this-major-european-city-wants-to-embrace-autonomous-cars.html)
+### [This major European city wants to embrace autonomous cars](https://www.cnbc.com/2018/09/27/this-major-european-city-wants-to-embrace-autonomous-cars.html)
 
 A.
                                                           Frangoul, Sept
@@ -811,8 +779,7 @@ A.
                                                           be more even,
                                                           smooth and
                                                           efficient."
-                                                          ..."  [Read
-                                                          more](https://www.cnbc.com/2018/09/27/this-major-european-city-wants-to-embrace-autonomous-cars.html)  Hmmmm...
+                                                          ..."  [Read more](https://www.cnbc.com/2018/09/27/this-major-european-city-wants-to-embrace-autonomous-cars.html)  Hmmmm...
                                                           I t continues
                                                           to amaze me
                                                           that European
@@ -890,15 +857,7 @@ A.
                                                           Dispatcher.)
                                                           Alain
 
-### [Two
-                                                          Tesla bulls
-                                                          say the
-                                                          company is
-                                                          wrong about
-                                                          one key part
-                                                          of its
-                                                          self-driving
-                                                          car strategy](https://consultantsinsider.com/articles/Two-Tesla-bulls-say-the-company-is-wrong-about-one-key-part-of-its-selfdriving-car-strategy--5babc9f1245c8d35aba2b130)
+### [Two Tesla bulls say the company is wrong about one key part of its self-driving car strategy](https://consultantsinsider.com/articles/Two-Tesla-bulls-say-the-company-is-wrong-about-one-key-part-of-its-selfdriving-car-strategy--5babc9f1245c8d35aba2b130)
 
 Sept 26,
                                                           "The most
@@ -963,8 +922,7 @@ Sept 26,
                                                           some form of
                                                           lidаr on the
                                                           саr," he
-                                                          sаid..."  [Read
-                                                          more](https://consultantsinsider.com/articles/Two-Tesla-bulls-say-the-company-is-wrong-about-one-key-part-of-its-selfdriving-car-strategy--5babc9f1245c8d35aba2b130)  Hmmmm....
+                                                          sаid..."  [Read more](https://consultantsinsider.com/articles/Two-Tesla-bulls-say-the-company-is-wrong-about-one-key-part-of-its-selfdriving-car-strategy--5babc9f1245c8d35aba2b130)  Hmmmm....
                                                           I don't like
                                                           to disagree
                                                           with Adam, but
@@ -1027,8 +985,7 @@ Sept 26,
                                                           mail :-().
                                                           Alain
 
-### [Viodi View –
-                                                          09/29/18](https://viodi.com/2018/09/29/viodi-view-09-29-18/)
+### [Viodi View – 09/29/18](https://viodi.com/2018/09/29/viodi-view-09-29-18/)
 
 K. Pyle,
                                                           Sept 29, "The
@@ -1092,16 +1049,13 @@ K. Pyle,
                                                           to a kind of
                                                           mobile study
                                                           hall (e.g. see
-                                                          this [ViodiTV
-                                                          interview](http://www.viodi.tv/2010/07/21/broadband-to-the-unserved/))...."
+                                                          this [ViodiTV interview](http://www.viodi.tv/2010/07/21/broadband-to-the-unserved/))...."
                                                           [Read more](https://viodi.com/2018/09/29/viodi-view-09-29-18/)
                                                           Hmmmm....   Great
                                                           idea, Ken.
                                                           Alain
 
-### [Better
-                                                          Roadmarkings =
-                                                          Safer Roads](https://viodi.com/2018/09/25/better-roadmarkings-safer-roads/)
+### [Better Roadmarkings = Safer Roads](https://viodi.com/2018/09/25/better-roadmarkings-safer-roads/)
 
 K. Pyle,
                                                           "Sept 25, "We
@@ -1165,8 +1119,7 @@ K. Pyle,
                                                           and graphics
                                                           seen by a
                                                           human
-                                                          driver...."  [Read
-                                                          more](https://viodi.com/2018/09/25/better-roadmarkings-safer-roads/)  Hmmmm....
+                                                          driver...."  [Read more](https://viodi.com/2018/09/25/better-roadmarkings-safer-roads/)  Hmmmm....
                                                           [See video](https://youtu.be/3n9I2C1LBWk).  Maybe... However,
                                                           the focus
                                                           needs to be
@@ -1184,10 +1137,7 @@ K. Pyle,
                                                           that might
                                                           help sensors.
                                                           For example,
-                                                          my friend [Howard
-                                                          Bell at
-                                                          Intelligent
-                                                          Materials](https://intelligentmaterial.com/)
+                                                          my friend [Howard Bell at Intelligent Materials](https://intelligentmaterial.com/)
                                                           has very interesting
                                                           ways to add
                                                           rare earth
@@ -1197,11 +1147,7 @@ K. Pyle,
                                                           "paint".
                                                           Alain
 
-### [Toyota's Vision of
-                                                          Autonomous
-                                                          Cars Is Not
-                                                          Exactly
-                                                          Driverless](https://www.bloomberg.com/hyperdrive)
+### [Toyota's Vision of Autonomous Cars Is Not Exactly Driverless](https://www.bloomberg.com/hyperdrive)
 
 J. Lippert,
                                                           Sept 19,
@@ -1398,13 +1344,7 @@ Toyota is
                                                           excellent
                                                           terms.  Alain
 
-### [Tesla achieves
-                                                          Model 3
-                                                          production
-                                                          goal for
-                                                          record quarter
-                                                          with 2 days
-                                                          still to go](https://electrek.co/2018/09/28/tesla-model-3-production-goal-achieved-record-quarter/)
+### [Tesla achieves Model 3 production goal for record quarter with 2 days still to go](https://electrek.co/2018/09/28/tesla-model-3-production-goal-achieved-record-quarter/)
 
 F. Lambert,
                                                           Sept 28,
@@ -1464,17 +1404,14 @@ We have
                                                           produced to
                                                           over 51,000
                                                           vehicles...."
-                                                          [Read
-                                                          more](https://electrek.co/2018/09/28/tesla-model-3-production-goal-achieved-record-quarter/)  Hmmmm....
+                                                          [Read more](https://electrek.co/2018/09/28/tesla-model-3-production-goal-achieved-record-quarter/)  Hmmmm....
                                                           This is a
                                                           substantial
                                                           achievement on
                                                           the road to
                                                           electrification
                                                           of cars.
-                                                          Looking at [monthly
-                                                          year-over-year
-                                                          EV sales](https://insideevs.com/monthly-plug-in-sales-scorecard/)
+                                                          Looking at [monthly year-over-year EV sales](https://insideevs.com/monthly-plug-in-sales-scorecard/)
                                                           in the US, one
                                                           sees the
                                                           "Model 3
@@ -1532,15 +1469,7 @@ Volvo/wIntellisafe, MB/w...}  ?!  It would be nice if someone compiled and
                                                           features.
                                                           Alain
 
-### [Elon
-                                                          Musk
-                                                          reportedly
-                                                          asks Tesla
-                                                          employees to
-                                                          test full
-                                                          self-driving
-                                                          version of
-                                                          Autopilot](https://www.theverge.com/2018/9/28/17915888/elon-musk-tesla-full-self-driving-autopilot-test-employees-email)
+### [Elon Musk reportedly asks Tesla employees to test full self-driving version of Autopilot](https://www.theverge.com/2018/9/28/17915888/elon-musk-tesla-full-self-driving-autopilot-test-employees-email)
 
                                                           S. O'Kane,
                                                           Sept 28, "The
@@ -1560,9 +1489,7 @@ Volvo/wIntellisafe, MB/w...}  ?!  It would be nice if someone compiled and
                                                           employees for
                                                           testing,
                                                           according to
-                                                          an [internal
-                                                          email obtained
-                                                          by Bloomberg](https://www.bloomberg.com/news/articles/2018-09-28/tesla-enlists-employees-to-be-full-self-driving-beta-testers).
+                                                          an [internal email obtained by Bloomberg](https://www.bloomberg.com/news/articles/2018-09-28/tesla-enlists-employees-to-be-full-self-driving-beta-testers).
                                                           In the email,
                                                           Musk promised
                                                           there were
@@ -1614,11 +1541,9 @@ Volvo/wIntellisafe, MB/w...}  ?!  It would be nice if someone compiled and
                                                           would normally
                                                           cost $13,000
                                                           combined...."
-                                                          [Read
-                                                          more](https://www.theverge.com/2018/9/28/17915888/elon-musk-tesla-full-self-driving-autopilot-test-employees-email)  Hmmmm....
+                                                          [Read more](https://www.theverge.com/2018/9/28/17915888/elon-musk-tesla-full-self-driving-autopilot-test-employees-email)  Hmmmm....
                                                           Even @ +$8k
-                                                          & "[Corintian
-                                                          leather](https://www.youtube.com/watch?v=Vsg97bxuJnc) @
+                                                          & "[Corintian leather](https://www.youtube.com/watch?v=Vsg97bxuJnc) @
                                                           $5k, this is
                                                           still
                                                           Self-driving
@@ -1635,10 +1560,7 @@ Volvo/wIntellisafe, MB/w...}  ?!  It would be nice if someone compiled and
                                                           purchase.
                                                           Alain
 
-### [Ride-hailing
-                                                          increases
-                                                          vehicle miles
-                                                          traveled](https://phys.org/news/2018-09-ride-hailing-vehicle-miles.html)
+### [Ride-hailing increases vehicle miles traveled](https://phys.org/news/2018-09-ride-hailing-vehicle-miles.html)
 
 M. Moore,
                                                           Sept 27,
@@ -1663,20 +1585,12 @@ M. Moore,
                                                           University of
                                                           Colorado
                                                           Denver.   ..."
-                                                          [Read
-                                                          more](https://phys.org/news/2018-09-ride-hailing-vehicle-miles.html)  Hmmmm....
+                                                          [Read more](https://phys.org/news/2018-09-ride-hailing-vehicle-miles.html)  Hmmmm....
                                                           I don't
                                                           contest the
                                                           findings in
                                                           Alejandro's
-                                                          paper, [A.
-                                                          Henao, W.
-                                                          Marshall, "The
-                                                          impact of
-                                                          ride-hailing
-                                                          on vehicle
-                                                          miles
-                                                          traveled"](https://link.springer.com/article/10.1007%2Fs11116-018-9923-2).
+                                                          paper, [A. Henao, W. Marshall, "The impact of ride-hailing on vehicle miles traveled"](https://link.springer.com/article/10.1007%2Fs11116-018-9923-2).
                                                           In fact I find
                                                           it an
                                                           excellent
@@ -1739,12 +1653,7 @@ M. Moore,
                                                           Obligation".
                                                           Alain
 
-### [Softbank's
-                                                          ARM unveils
-                                                          dedicated chip
-                                                          design for
-                                                          autonomous
-                                                          cars](https://www.reuters.com/article/us-autonomous-tech-arm/softbanks-arm-unveils-dedicated-chip-design-for-autonomous-cars-idUSKCN1M61RO)
+### [Softbank's ARM unveils dedicated chip design for autonomous cars](https://www.reuters.com/article/us-autonomous-tech-arm/softbanks-arm-unveils-dedicated-chip-design-for-autonomous-cars-idUSKCN1M61RO)
 
 E. Auchard,
                                                           Sept 26,
@@ -1768,8 +1677,7 @@ E. Auchard,
                                                           collision
                                                           avoidance into
                                                           vehicles...."
-                                                          [Read
-                                                          more](https://www.reuters.com/article/us-autonomous-tech-arm/softbanks-arm-unveils-dedicated-chip-design-for-autonomous-cars-idUSKCN1M61RO)  Hmmmm....
+                                                          [Read more](https://www.reuters.com/article/us-autonomous-tech-arm/softbanks-arm-unveils-dedicated-chip-design-for-autonomous-cars-idUSKCN1M61RO)  Hmmmm....
                                                           Hopefully this
                                                           processor will
                                                           enable
@@ -1788,9 +1696,7 @@ E. Auchard,
                                                           or the car
                                                           owners.  Alain
 
-### [Axios
-                                                          Autonomous
-                                                          Vehicles](https://www.axios.com/newsletters/axios-autonomous-vehicles-71be17cf-56a3-4b03-a01a-d316c634bad4.html?utm_source=newsletter&utm_medium=email&utm_campaign=newsletter_axiosautonomousvehicles&stream=top)
+### [Axios Autonomous Vehicles](https://www.axios.com/newsletters/axios-autonomous-vehicles-71be17cf-56a3-4b03-a01a-d316c634bad4.html?utm_source=newsletter&utm_medium=email&utm_campaign=newsletter_axiosautonomousvehicles&stream=top)
 
 A, Snyder,
                                                           Sept 21,"
@@ -1824,8 +1730,7 @@ A, Snyder,
                                                           arrives next
                                                           month. Think
                                                           of me as Level
-                                                          1...." [Read
-                                                          more](https://www.axios.com/newsletters/axios-autonomous-vehicles-71be17cf-56a3-4b03-a01a-d316c634bad4.html?utm_source=newsletter&utm_medium=email&utm_campaign=newsletter_axiosautonomousvehicles&stream=top)  Hmmmm....
+                                                          1...." [Read more](https://www.axios.com/newsletters/axios-autonomous-vehicles-71be17cf-56a3-4b03-a01a-d316c634bad4.html?utm_source=newsletter&utm_medium=email&utm_campaign=newsletter_axiosautonomousvehicles&stream=top)  Hmmmm....
                                                           It isn't funny
                                                           using "Levels"
                                                           and "...including
@@ -1846,13 +1751,8 @@ A, Snyder,
                                                           helpful.
                                                           Whew!  Alain
 
-### [](https://www.wired.com/story/uber-waymo-gm-infiniti-lucid/)
-                                                          [What
-                                                          Investors Need
-                                                          to Know About
-                                                          NIO, China's
-                                                          Answer to
-                                                          Tesla](https://www.fool.com/investing/2018/09/24/what-investors-need-to-know-about-nio-chinas-answe.aspx)
+### 
+                                                          [What Investors Need to Know About NIO, China's Answer to Tesla](https://www.fool.com/investing/2018/09/24/what-investors-need-to-know-about-nio-chinas-answe.aspx)
 
                                                           J. Rosevear,
                                                           Sept 24,
@@ -1922,8 +1822,7 @@ A, Snyder,
                                                           connected
                                                           assistant,"
                                                           called NOMI."
-                                                          [Read
-                                                          more](https://www.fool.com/investing/2018/09/24/what-investors-need-to-know-about-nio-chinas-answe.aspx)  Hmmmm....
+                                                          [Read more](https://www.fool.com/investing/2018/09/24/what-investors-need-to-know-about-nio-chinas-answe.aspx)  Hmmmm....
                                                           It is a brave
                                                           new world when
                                                           "Self-driving
@@ -1939,11 +1838,8 @@ A, Snyder,
                                                           might be.
                                                           Alain
 
-### [](https://www.wired.com/story/uber-waymo-gm-infiniti-lucid/)
-                                                          [The
-                                                          Case Against
-                                                          Driverless
-                                                          Cars](https://www.fool.com/investing/2018/09/28/the-case-against-driverless-cars.aspx)
+### 
+                                                          [The Case Against Driverless Cars](https://www.fool.com/investing/2018/09/28/the-case-against-driverless-cars.aspx)
 
 C. Neiger,
                                                           Sept 28,
@@ -1977,8 +1873,7 @@ C. Neiger,
                                                           cars that are
                                                           expected to be
                                                           sold in
-                                                          2021...."  [Read
-                                                          more](https://www.fool.com/investing/2018/09/28/the-case-against-driverless-cars.aspx)  Hmmmm....
+                                                          2021...."  [Read more](https://www.fool.com/investing/2018/09/28/the-case-against-driverless-cars.aspx)  Hmmmm....
                                                           Just a bad
                                                           article
                                                           because it
@@ -2069,13 +1964,7 @@ C. Neiger,
                                                           Please don't.
                                                           Alain
 
-### [To
-                                                          Find China's
-                                                          Best
-                                                          Driverless
-                                                          Technology,
-                                                          Look in
-                                                          Silicon Valley](https://www.bloomberg.com/news/articles/2018-09-24/to-find-china-s-best-driverless-technology-look-in-silicon-valley)
+### [To Find China's Best Driverless Technology, Look in Silicon Valley](https://www.bloomberg.com/news/articles/2018-09-24/to-find-china-s-best-driverless-technology-look-in-silicon-valley)
 
                                                           D. Welch, Sept
                                                           24, "China's
@@ -2157,8 +2046,7 @@ C. Neiger,
                                                           to build up.
                                                           China has work
                                                           to do."... "
-                                                          [Read
-                                                          more](https://www.bloomberg.com/news/articles/2018-09-24/to-find-china-s-best-driverless-technology-look-in-silicon-valley)  Hmmmm....
+                                                          [Read more](https://www.bloomberg.com/news/articles/2018-09-24/to-find-china-s-best-driverless-technology-look-in-silicon-valley)  Hmmmm....
                                                           No surprise.
                                                           Alain
 
@@ -2175,24 +2063,13 @@ C. Neiger,
 
 ###
 
-### [](https://dfw.cbslocal.com/2018/09/13/new-toll-road-game-changer/)
+### 
 
 ###
 
-## [C'mon
-                                                          Man!](https://www.youtube.com/watch?v=XSYiSVRWIHU)(These folks didn't get/read the memo)
+## [C'mon Man!](https://www.youtube.com/watch?v=XSYiSVRWIHU)(These folks didn't get/read the memo)
 
-### [The
-                                                          end of the red
-                                                          light?
-                                                          Dashboard
-                                                          'virtual
-                                                          traffic light'
-                                                          that lets cars
-                                                          talk to each
-                                                          other could
-                                                          slash commute
-                                                          times by 60%](https://www.thisismoney.co.uk/sciencetech/article-6207203/First-tests-dashboard-virtual-traffic-light-lets-cars-talk-slashes-commute.html)
+### [The end of the red light? Dashboard 'virtual traffic light' that lets cars talk to each other could slash commute times by 60%](https://www.thisismoney.co.uk/sciencetech/article-6207203/First-tests-dashboard-virtual-traffic-light-lets-cars-talk-slashes-commute.html)
 
 M. Prigg,
                                                           Sept. 25,
@@ -2224,8 +2101,7 @@ M. Prigg,
                                                           infrastructure
                                                           based traffic
                                                           lights?' ...
-                                                          "  [Read
-                                                          more](https://www.thisismoney.co.uk/sciencetech/article-6207203/First-tests-dashboard-virtual-traffic-light-lets-cars-talk-slashes-commute.html)  Hmmmm....
+                                                          "  [Read more](https://www.thisismoney.co.uk/sciencetech/article-6207203/First-tests-dashboard-virtual-traffic-light-lets-cars-talk-slashes-commute.html)  Hmmmm....
                                                           Wow, CMU is
                                                           bent on
                                                           finding any
@@ -2249,11 +2125,7 @@ M. Prigg,
 5th
                                                           Symposium on
 
-[Autonomous
-                                                          &
-                                                          Connected
-                                                          vehicles](http://cavnycsymposium.com/index.php)[](http://cavnycsymposium.com/index.php)[October
-                                                          23-24, 2018](http://cavnycsymposium.com/index.php)
+[Autonomous & Connected vehicles](http://cavnycsymposium.com/index.php)[October 23-24, 2018](http://cavnycsymposium.com/index.php)
 
 Brooklyn,
                                                           NY
@@ -2268,24 +2140,7 @@ evening May
                                                           14 through May
                                                           16, 2019
 
-[Catalog
-                                                          of Videos of
-                                                          Presentations
-                                                          @ 2nd Annual
-                                                          Princeton
-                                                          SmartDrivingCar
-                                                          Summit](https://docs.google.com/spreadsheets/d/1Qr6oXK659caLtxvDu3BKAyydoRaVgBDW1wp_1CmRKbU/edit#gid=0)[](https://www.fredfishkin.com/Events/Smart-Driving-Car-Summit-2018/)[Photos
-                                                          from 2nd
-                                                          Annual
-                                                          Princeton
-                                                          SmartDrivingCar
-                                                          Summit](https://www.fredfishkin.com/Events/Smart-Driving-Car-Summit-2018/)[](https://www.fredfishkin.com/Events/Smart-Driving-Car-Summit-2018/)[Program
-                                                          & Links to
-                                                          slides from
-                                                          2nd Annual
-                                                          Princeton
-                                                          SmartDrivingCar
-                                                          Summit](https://www.fredfishkin.com/Events/Smart-Driving-Car-Summit-2018/)
+[Catalog of Videos of Presentations @ 2nd Annual Princeton SmartDrivingCar Summit](https://docs.google.com/spreadsheets/d/1Qr6oXK659caLtxvDu3BKAyydoRaVgBDW1wp_1CmRKbU/edit#gid=0)[Photos from 2nd Annual Princeton SmartDrivingCar Summit](https://www.fredfishkin.com/Events/Smart-Driving-Car-Summit-2018/)[Program & Links to slides from 2nd Annual Princeton SmartDrivingCar Summit](https://www.fredfishkin.com/Events/Smart-Driving-Car-Summit-2018/)
 
 ### [On the More Technical Side](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Papers/)
 
@@ -2298,10 +2153,7 @@ evening May
 ## Recent
                                                           PodCasts
 
-[Smart
-                                                          Driving Cars
-                                                          Podcast
-                                                          Episode 58](https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-58)
+[Smart Driving Cars Podcast Episode 58](https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-58)
 
 F. Fishkin,
                                                           Sept
@@ -2339,10 +2191,7 @@ F. Fishkin,
                                                           in and
                                                           subscribe!"
 
-[Smart
-                                                          Driving Cars
-                                                          Podcast
-                                                          Episode 57](https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-57)
+[Smart Driving Cars Podcast Episode 57](https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-57)
 
 F. Fishkin,
                                                           Sept
@@ -2374,10 +2223,7 @@ F. Fishkin,
                                                           Nuro. Tune in
                                                           and
                                                           subscribe!"
-[Smart
-                                                          Driving Cars
-                                                          Podcast
-                                                          Episode 56](https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-56)
+[Smart Driving Cars Podcast Episode 56](https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-56)
 
 F. Fishkin,
                                                           Sept
@@ -2407,10 +2253,7 @@ F. Fishkin,
                                                           Fiat Chrysler.
                                                           Tune in and
                                                           subscribe!"
-[Smart
-                                                          Driving Cars
-                                                          Podcast
-                                                          Episode 55](https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-55)
+[Smart Driving Cars Podcast Episode 55](https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-55)
 
 F.
                                                           Fishkin, Sept
@@ -2441,10 +2284,7 @@ F.
                                                           Will Reshape
                                                           Our World"
 
-[Smart
-                                                          Driving Cars
-                                                          Podcast
-                                                          Episode 54](https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-54)
+[Smart Driving Cars Podcast Episode 54](https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-54)
 
 F.
                                                           Fishkin, Aug
@@ -2475,10 +2315,7 @@ F.
                                                           publisher
                                                           Michael Sena."
 
-[Smart
-                                                          Driving Cars
-                                                          Podcast
-                                                          Episode 53](https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-53)
+[Smart Driving Cars Podcast Episode 53](https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-53)
 
 F.
                                                           Fishkin, Aug
@@ -2513,10 +2350,7 @@ F.
                                                           in and
                                                           subscribe!"
 
-[Smart
-                                                          Driving Cars
-                                                          Podcast
-                                                          Episode 52](https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-52)
+[Smart Driving Cars Podcast Episode 52](https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-52)
 
 F.
                                                           Fishkin, Aug
@@ -2548,10 +2382,7 @@ F.
                                                           and
                                                           subscribe!"
 
-[Smart
-                                                          Driving Cars
-                                                          Podcast
-                                                          Episode 51](https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-51)
+[Smart Driving Cars Podcast Episode 51](https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-51)
 
 F.
                                                           Fishkin, Aug
@@ -2581,10 +2412,7 @@ F.
                                                           Buffalo, Tesla
                                                           and BMW."
 
-[Smart
-                                                          Driving Cars
-                                                          Podcast
-                                                          Episode 50](https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-50)
+[Smart Driving Cars Podcast Episode 50](https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-50)
 
 Aug 3, F.
                                                           Fishkin, ,
@@ -2614,10 +2442,7 @@ Aug 3, F.
                                                           in and
                                                           subscribe!"
 
-[Smart
-                                                          Driving Cars
-                                                          Podcast
-                                                          Episode 49](https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-49)
+[Smart Driving Cars Podcast Episode 49](https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-49)
 
 F. Fishkin,
                                                           July 27, "When
@@ -2653,10 +2478,7 @@ F. Fishkin,
                                                           Uber and
                                                           more."
 
-[Smart
-                                                          Driving Cars
-                                                          Podcast
-                                                          Episode 48](https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-48)
+[Smart Driving Cars Podcast Episode 48](https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-48)
 F.
                                                           Fishkin, July
                                                           23, "What to
@@ -2681,10 +2503,7 @@ F.
                                                           Nvidia and new
                                                           reports from
                                                           Brookings."
-[Smart
-                                                          Driving Cars
-                                                          Podcast
-                                                          Episode 47](https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-47)
+[Smart Driving Cars Podcast Episode 47](https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-47)
 F. Fishkin,
                                                           July 14, "Self
                                                           driving taxis
@@ -2710,9 +2529,7 @@ F. Fishkin,
                                                           Driving Cars
                                                           podcast."
 
-[Smart Driving
-                                                          Cars Podcast
-                                                          Episode 45](https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-45)
+[Smart Driving Cars Podcast Episode 45](https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-45)
 F.
                                                           Fishkin, June
                                                           15, "Waymo
@@ -2736,10 +2553,7 @@ F.
                                                           latest on GM,
                                                           Voyage, Ford
                                                           and more "
-[Smart
-                                                          Driving Cars
-                                                          Podcast
-                                                          Episode 44](https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-43)
+[Smart Driving Cars Podcast Episode 44](https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-43)
 F. Fishkin,
                                                           June 12, "What
                                                           is the big
@@ -2768,10 +2582,7 @@ F. Fishkin,
                                                           Waymo, Tesla
                                                           and more.
 
-[Smart
-                                                          Driving Cars
-                                                          Podcast
-                                                          Episode 38](https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-38)
+[Smart Driving Cars Podcast Episode 38](https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-38)
 F. Fishkin,
                                                           May 10, "The
                                                           continuing
@@ -2804,10 +2615,7 @@ F. Fishkin,
                                                           Tune in and
                                                           subscribe!"
 
-[Smart
-                                                          Driving Cars
-                                                          Podcast
-                                                          Episode 34](https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-34)
+[Smart Driving Cars Podcast Episode 34](https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-34)
 F.
                                                           Fishkin, Apr
                                                           13, "Should a
@@ -2841,10 +2649,7 @@ F.
                                                           with the
                                                           NTSB."
 
-[Smart
-                                                          Driving Cars
-                                                          Podcast
-                                                          Episode 33](https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-33)
+[Smart Driving Cars Podcast Episode 33](https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-33)
 F. Fishkin,
                                                           Apr 4, "
 Waymo is making
@@ -2878,12 +2683,7 @@ Waymo is making
                                                           coming
                                                           up!         "
 
- [BMW
-                                                          Develops New
-                                                          Insurance
-                                                          Concept, Aims
-                                                          at Future of
-                                                          Car Insurance](https://www.bmwblog.com/2018/09/17/bmw-develops-new-insurance-concept-aims-at-future-of-car-insurance/)
+ [BMW Develops New Insurance Concept, Aims at Future of Car Insurance](https://www.bmwblog.com/2018/09/17/bmw-develops-new-insurance-concept-aims-at-future-of-car-insurance/)
                                                           G. Nica, Sept
                                                           17, "With the
                                                           BMW Group's
@@ -2964,12 +2764,7 @@ vehicle-specific insurance premium...." [Read more](https://www.bmwblog.com/2018
                                                           mirrors.
                                                           Alain
 
-  [Self-driving
-                                                          delivery
-                                                          startup Nuro
-                                                          releases its
-                                                          voluntary
-                                                          safety report](https://www.theverge.com/2018/9/13/17855136/nuro-self-driving-car-safety-report?ref=streamer.ai)
+  [Self-driving delivery startup Nuro releases its voluntary safety report](https://www.theverge.com/2018/9/13/17855136/nuro-self-driving-car-safety-report?ref=streamer.ai)
                                                           [Link2Report](https://static1.squarespace.com/static/57bcb0e02994ca36c2ee746c/t/5b9a00848a922d8eaecf65a2/1536819358607/delivering_safety_nuros_approach.pdf)
 
 A. Hawkins,
@@ -2978,11 +2773,8 @@ A. Hawkins,
                                                           self-driving
                                                           delivery
                                                           startup
-                                                          founded by [a
-                                                          pair of Google
-                                                          veterans](https://www.theverge.com/2018/1/30/16936548/nuro-self-driving-delivery-last-mile-google),
-                                                          released its [voluntary
-                                                          safety report](https://static1.squarespace.com/static/57bcb0e02994ca36c2ee746c/t/5b9a00848a922d8eaecf65a2/1536819358607/delivering_safety_nuros_approach.pdf)on
+                                                          founded by [a pair of Google veterans](https://www.theverge.com/2018/1/30/16936548/nuro-self-driving-delivery-last-mile-google),
+                                                          released its [voluntary safety report](https://static1.squarespace.com/static/57bcb0e02994ca36c2ee746c/t/5b9a00848a922d8eaecf65a2/1536819358607/delivering_safety_nuros_approach.pdf)on
                                                           Thursday.
                                                           Titled
                                                           "Delivering
@@ -3015,10 +2807,7 @@ A. Hawkins,
                                                           ride-hailing.
                                                           The startup
                                                           recently
-                                                          announced a [pilot
-                                                          delivery
-                                                          service in
-                                                          Arizona](https://www.theverge.com/2018/8/16/17693760/nuro-kroger-self-driving-delivery-scottsdale-arizona) in
+                                                          announced a [pilot delivery service in Arizona](https://www.theverge.com/2018/8/16/17693760/nuro-kroger-self-driving-delivery-scottsdale-arizona) in
                                                           partnership
                                                           with grocery
                                                           giant Kroger.
@@ -3068,14 +2857,10 @@ state-of-the-art software and sensing capabilities that never get
                                                           And if Jeff
                                                           Bezos is
                                                           watching,
-                                                          watch out. [Link
-                                                          to the report](https://static1.squarespace.com/static/57bcb0e02994ca36c2ee746c/t/5b9a00848a922d8eaecf65a2/1536819358607/delivering_safety_nuros_approach.pdf).
+                                                          watch out. [Link to the report](https://static1.squarespace.com/static/57bcb0e02994ca36c2ee746c/t/5b9a00848a922d8eaecf65a2/1536819358607/delivering_safety_nuros_approach.pdf).
                                                           Alain
 
- [Self-Driving
-                                                          Cars Will Keep
-                                                          Getting Better
-                                                          Forever](https://www.forbes.com/sites/davidsilver/2018/09/04/self-driving-cars-will-keep-getting-better-forever/#6a6a4801217d)
+ [Self-Driving Cars Will Keep Getting Better Forever](https://www.forbes.com/sites/davidsilver/2018/09/04/self-driving-cars-will-keep-getting-better-forever/#6a6a4801217d)
                                                           D. Silver,
                                                           Sept. 4, "
                                                           Evans raises a
@@ -3154,12 +2939,7 @@ semi-autonomous cars. Collectively, Autopilot-enabled vehicles have
                                                           What do you
                                                           think?  Alain
 
-  [Customers
-                                                          Died. Will
-                                                          That Be a
-                                                          Wake-Up Call
-                                                          for China's
-                                                          Tech Scene?](https://www.nytimes.com/2018/08/29/technology/china-didi-chuxing-women-killed.html)
+  [Customers Died. Will That Be a Wake-Up Call for China's Tech Scene?](https://www.nytimes.com/2018/08/29/technology/china-didi-chuxing-women-killed.html)
                                                           L. Yuan, Aug.
                                                           29. "Huang
                                                           Jieli, who ran
@@ -3327,10 +3107,7 @@ Hmmmm....
                                                           This is really
                                                           UGLY!  Alain
 
-  [Waymo's
-                                                          Big Ambitions
-                                                          Slowed by Tech
-                                                          Trouble](https://www.theinformation.com/articles/waymos-big-ambitions-slowed-by-tech-trouble?jwt=eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJhbGFpbmtAcHJpbmNldG9uLmVkdSIsImV4cCI6MTU2NzA0MjA2NiwibiI6IkFsYWluIEtvcm5oYXVzZXIiLCJzY29wZSI6WyJzaGFyZSJdfQ.ejgpq5onTwAK-r-lt4znaE6J-t9mg7V6RGPv0BY7nIE&unlock=dbcf3fa59ce34aa1)
+  [Waymo's Big Ambitions Slowed by Tech Trouble](https://www.theinformation.com/articles/waymos-big-ambitions-slowed-by-tech-trouble?jwt=eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJhbGFpbmtAcHJpbmNldG9uLmVkdSIsImV4cCI6MTU2NzA0MjA2NiwibiI6IkFsYWluIEtvcm5oYXVzZXIiLCJzY29wZSI6WyJzaGFyZSJdfQ.ejgpq5onTwAK-r-lt4znaE6J-t9mg7V6RGPv0BY7nIE&unlock=dbcf3fa59ce34aa1)
                                                           A. Efrati, Aug
                                                           28, "HANDLER,
 Ariz.—Alphabet's Waymo unit is a worldwide leader in autonomous vehicle
@@ -3593,17 +3370,7 @@ drivers—individuals who sit in the driver's seat—regularly have to take
 
                                                           Augus26, 2018
 
-### [The
-                                                          founder of
-                                                          $3.2 billion
-                                                          startup Zoox
-                                                          says that he
-                                                          was ousted as
-                                                          CEO 'without a
-                                                          warning'
-                                                          because 'the
-                                                          board chose a
-                                                          path of fear'](https://www.businessinsider.com/zoox-ousts-ceo-tim-kentley-klay-2018-8?nr_email_referer=1&utm_source=Sailthru&utm_medium=email&utm_content=10ThingsSAI&pt=385758&ct=Sailthru_BI_Newsletters&mt=8&utm_campaign=Post%20Blast%20%28sai%29:%2010%20things%20in%20tech%20you%20need%20to%20know%20today&utm_term=10%20Things%20In%20Tech%20You%20Need%20To%20Know%20-%20Engaged%2C%20Active%2C%20Passive%2C%20Disengaged)
+### [The founder of $3.2 billion startup Zoox says that he was ousted as CEO 'without a warning' because 'the board chose a path of fear'](https://www.businessinsider.com/zoox-ousts-ceo-tim-kentley-klay-2018-8?nr_email_referer=1&utm_source=Sailthru&utm_medium=email&utm_content=10ThingsSAI&pt=385758&ct=Sailthru_BI_Newsletters&mt=8&utm_campaign=Post%20Blast%20%28sai%29:%2010%20things%20in%20tech%20you%20need%20to%20know%20today&utm_term=10%20Things%20In%20Tech%20You%20Need%20To%20Know%20-%20Engaged%2C%20Active%2C%20Passive%2C%20Disengaged)
 
 T.
                                                           Wolverton, Aug
@@ -3729,7 +3496,7 @@ T.
                                                           had worked in
                                                           online
                                                           advertising.."
-                                                          [Read more](https://www.businessinsider.com/zoox-ousts-ceo-tim-kentley-klay-2018-8?nr_email_referer=1&utm_source=Sailthru&utm_medium=email&utm_content=10ThingsSAI&pt=385758&ct=Sailthru_BI_Newsletters&mt=8&utm_campaign=Post%20Blast%20%28sai%29:%2010%20things%20in%20tech%20you%20need%20to%20know%20today&utm_term=10%20Things%20In%20Tech%20You%20Need%20To%20Know%20-%20Engaged%2C%20Active%2C%20Passive%2C%20Disengaged)[](https://www.theinformation.com/articles/ubers-losses-mount-at-self-driving-car-unit?jwt=eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJhbGFpbmtAcHJpbmNldG9uLmVkdSIsImV4cCI6MTU2NjA4NzU3MiwibiI6IkFsYWluIEtvcm5oYXVzZXIiLCJzY29wZSI6WyJzaGFyZSJdfQ.NGVWMEG_dL6ZBSWjvi378q9kH295P-j2xXbxGhdZWq0&unlock=b752f66dae5c2414)Hmmmm....
+                                                          [Read more](https://www.businessinsider.com/zoox-ousts-ceo-tim-kentley-klay-2018-8?nr_email_referer=1&utm_source=Sailthru&utm_medium=email&utm_content=10ThingsSAI&pt=385758&ct=Sailthru_BI_Newsletters&mt=8&utm_campaign=Post%20Blast%20%28sai%29:%2010%20things%20in%20tech%20you%20need%20to%20know%20today&utm_term=10%20Things%20In%20Tech%20You%20Need%20To%20Know%20-%20Engaged%2C%20Active%2C%20Passive%2C%20Disengaged)Hmmmm....
                                                           Must be trying
                                                           to protect its
                                                           $3.2B
@@ -3744,11 +3511,7 @@ T.
                                                           August 18,
                                                           2018
 
-  [Uber's
-                                                          Losses Mount
-                                                          at
-                                                          Self-Driving
-                                                          Car Unit](https://www.theinformation.com/articles/ubers-losses-mount-at-self-driving-car-unit?jwt=eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJhbGFpbmtAcHJpbmNldG9uLmVkdSIsImV4cCI6MTU2NjA4NzU3MiwibiI6IkFsYWluIEtvcm5oYXVzZXIiLCJzY29wZSI6WyJzaGFyZSJdfQ.NGVWMEG_dL6ZBSWjvi378q9kH295P-j2xXbxGhdZWq0&unlock=b752f66dae5c2414)
+  [Uber's Losses Mount at Self-Driving Car Unit](https://www.theinformation.com/articles/ubers-losses-mount-at-self-driving-car-unit?jwt=eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJhbGFpbmtAcHJpbmNldG9uLmVkdSIsImV4cCI6MTU2NjA4NzU3MiwibiI6IkFsYWluIEtvcm5oYXVzZXIiLCJzY29wZSI6WyJzaGFyZSJdfQ.NGVWMEG_dL6ZBSWjvi378q9kH295P-j2xXbxGhdZWq0&unlock=b752f66dae5c2414)
                                                           A. Efrati, Aug
                                                           15, "Uber has
                                                           been spending
@@ -3892,7 +3655,7 @@ T.
                                                           to pick up
                                                           Uber's
                                                           passengers...."
-                                                          [Read more](https://www.theinformation.com/articles/ubers-losses-mount-at-self-driving-car-unit?jwt=eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJhbGFpbmtAcHJpbmNldG9uLmVkdSIsImV4cCI6MTU2NjA4NzU3MiwibiI6IkFsYWluIEtvcm5oYXVzZXIiLCJzY29wZSI6WyJzaGFyZSJdfQ.NGVWMEG_dL6ZBSWjvi378q9kH295P-j2xXbxGhdZWq0&unlock=b752f66dae5c2414)[](https://www.theinformation.com/articles/ubers-losses-mount-at-self-driving-car-unit?jwt=eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJhbGFpbmtAcHJpbmNldG9uLmVkdSIsImV4cCI6MTU2NjA4NzU3MiwibiI6IkFsYWluIEtvcm5oYXVzZXIiLCJzY29wZSI6WyJzaGFyZSJdfQ.NGVWMEG_dL6ZBSWjvi378q9kH295P-j2xXbxGhdZWq0&unlock=b752f66dae5c2414)Hmmmm....
+                                                          [Read more](https://www.theinformation.com/articles/ubers-losses-mount-at-self-driving-car-unit?jwt=eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJhbGFpbmtAcHJpbmNldG9uLmVkdSIsImV4cCI6MTU2NjA4NzU3MiwibiI6IkFsYWluIEtvcm5oYXVzZXIiLCJzY29wZSI6WyJzaGFyZSJdfQ.NGVWMEG_dL6ZBSWjvi378q9kH295P-j2xXbxGhdZWq0&unlock=b752f66dae5c2414)Hmmmm....
                                                           They are
                                                           really between
                                                           a rock and a
@@ -3927,14 +3690,7 @@ T.
                                                           Alain
                                                           2018
 
-  [Why
-                                                          Waymo Is Worth
-                                                          A Staggering
-                                                          $175 Billion
-                                                          Even Before
-                                                          Launching Its
-                                                          Self-Driving
-                                                          Cars](https://www.forbes.com/sites/alanohnsman/2018/08/07/why-waymo-is-worth-a-staggering-175-billion-even-before-launching-its-self-driving-cars/#a07c18bdd3a9)
+  [Why Waymo Is Worth A Staggering $175 Billion Even Before Launching Its Self-Driving Cars](https://www.forbes.com/sites/alanohnsman/2018/08/07/why-waymo-is-worth-a-staggering-175-billion-even-before-launching-its-self-driving-cars/#a07c18bdd3a9)
 
                                                           A. Ohnsman,
                                                           Aug 7,
@@ -3993,7 +3749,7 @@ multibillion-dollar self-driving vehicle bet hasn't yet launched
                                                           generate as
                                                           much as $90
                                                           billion....."
-                                                          [Read more](https://www.forbes.com/sites/alanohnsman/2018/08/07/why-waymo-is-worth-a-staggering-175-billion-even-before-launching-its-self-driving-cars/#a07c18bdd3a9)[](https://www.forbes.com/sites/alanohnsman/2018/08/07/why-waymo-is-worth-a-staggering-175-billion-even-before-launching-its-self-driving-cars/#a07c18bdd3a9)Hmmmm....
+                                                          [Read more](https://www.forbes.com/sites/alanohnsman/2018/08/07/why-waymo-is-worth-a-staggering-175-billion-even-before-launching-its-self-driving-cars/#a07c18bdd3a9)Hmmmm....
                                                           Wow, a year
                                                           ago some
                                                           thought Waymo
@@ -4105,13 +3861,7 @@ multibillion-dollar self-driving vehicle bet hasn't yet launched
                                                           fun!!).  Alain
                                                           August 3, 2018
 
-### [On
-                                                          the eve of a
-                                                          6-month pilot,
-                                                          Drive.ai
-                                                          details its
-                                                          self-driving
-                                                          car plans](https://venturebeat.com/2018/07/30/on-the-eve-of-a-6-month-pilot-drive-ai-details-its-self-driving-car-plans/)
+### [On the eve of a 6-month pilot, Drive.ai details its self-driving car plans](https://venturebeat.com/2018/07/30/on-the-eve-of-a-6-month-pilot-drive-ai-details-its-self-driving-car-plans/)
 
                                                           K. Wiggers,
                                                           July 30, "It's
@@ -4177,7 +3927,7 @@ multibillion-dollar self-driving vehicle bet hasn't yet launched
 
                                                           Here's how
                                                           it'll do
-                                                          it...." [Read more](https://venturebeat.com/2018/07/30/on-the-eve-of-a-6-month-pilot-drive-ai-details-its-self-driving-car-plans/https://venturebeat.com/2018/07/30/on-the-eve-of-a-6-month-pilot-drive-ai-details-its-self-driving-car-plans/)[](https://www.cnbc.com/2018/04/30/ford-ceo-jim-hacketts-decision-to-dump-cars-may-prove-fatal.html)Hmmmm....
+                                                          it...." [Read more](https://venturebeat.com/2018/07/30/on-the-eve-of-a-6-month-pilot-drive-ai-details-its-self-driving-car-plans/https://venturebeat.com/2018/07/30/on-the-eve-of-a-6-month-pilot-drive-ai-details-its-self-driving-car-plans/)Hmmmm....
                                                           This shows the
                                                           amount of work
                                                           that needs to
@@ -4201,14 +3951,7 @@ multibillion-dollar self-driving vehicle bet hasn't yet launched
 Friday, July
                                                           27,  2018
 
- [Ford
-                                                          is taking on
-                                                          Waymo and GM's
-                                                          Cruise by
-                                                          creating its
-                                                          own standalone
-                                                          self-driving
-                                                          division](https://www.businessinsider.com/ford-creates-self-driving-division-to-rival-gms-cruise-and-waymo-2018-7)
+ [Ford is taking on Waymo and GM's Cruise by creating its own standalone self-driving division](https://www.businessinsider.com/ford-creates-self-driving-division-to-rival-gms-cruise-and-waymo-2018-7)
                                                           M. deBord,
                                                           July 24, "...
                                                           The division
@@ -4353,7 +4096,7 @@ Friday, July
                                                           $1 billion
                                                           investment in
                                                           Argo AI."j..."
-                                                          [Read more](https://www.businessinsider.com/ford-creates-self-driving-division-to-rival-gms-cruise-and-waymo-2018-7)[](https://www.cnbc.com/2018/04/30/ford-ceo-jim-hacketts-decision-to-dump-cars-may-prove-fatal.html)Hmmmm....
+                                                          [Read more](https://www.businessinsider.com/ford-creates-self-driving-division-to-rival-gms-cruise-and-waymo-2018-7)Hmmmm....
                                                           Ford need this
                                                           since the
                                                           legacy piece
@@ -4363,14 +4106,7 @@ Friday, July
                                                           New
                                                           Roman"">Monday,
                                                           July 23,  2018
- [Transition
-                                                          To Autonomous
-                                                          Cars Will Take
-                                                          Longer Than
-                                                          You Think,
-                                                          Waymo CEO
-                                                          Tells
-                                                          Governors](https://www.forbes.com/sites/samabuelsamid/2018/07/20/waymo-ceo-tells-governors-av-time-will-be-longer-than-you-think/#34a8a9ced7da)
+ [Transition To Autonomous Cars Will Take Longer Than You Think, Waymo CEO Tells Governors](https://www.forbes.com/sites/samabuelsamid/2018/07/20/waymo-ceo-tells-governors-av-time-will-be-longer-than-you-think/#34a8a9ced7da)
                                                           S. Abuelsamid,
                                                           July 20,
                                                           "Speaking in a
@@ -4659,12 +4395,7 @@ yet....Widespread adoption in the millions of vehicles globally is
                                                           New
                                                           Roman"">Saturday,
                                                           July 14,  2018
-[MERCEDES WILL
-                                                          LAUNCH
-                                                          SELF-DRIVING
-                                                          TAXIS IN
-                                                          CALIFORNIA
-                                                          NEXT YEAR](https://www.wired.com/story/mercedes-will-launch-self-driving-taxis-in-california-next-year)
+[MERCEDES WILL LAUNCH SELF-DRIVING TAXIS IN CALIFORNIA NEXT YEAR](https://www.wired.com/story/mercedes-will-launch-self-driving-taxis-in-california-next-year)
                                                           J. Stewart,
                                                           July 10,
                                                           "...Mercedes-Benz
@@ -4712,8 +4443,7 @@ yet....Widespread adoption in the millions of vehicles globally is
                                                           concept it
                                                           showed off a
                                                           few years
-                                                          back..."  [Read
-                                                          more](https://www.wired.com/story/mercedes-will-launch-self-driving-taxis-in-california-next-year) Hmmmm....
+                                                          back..."  [Read more](https://www.wired.com/story/mercedes-will-launch-self-driving-taxis-in-california-next-year) Hmmmm....
                                                           Daimler,
                                                           please
                                                           DON'T!!!! This
@@ -4819,13 +4549,7 @@ yet....Widespread adoption in the millions of vehicles globally is
 
 ###
 
- [Uber
-                                                          car's 'safety'
-                                                          driver
-                                                          streamed TV
-                                                          show before
-                                                          fatal crash:
-                                                          police](https://www.reuters.com/article/us-uber-selfdriving-crash/uber-driver-was-streaming-hulu-show-just-before-self-driving-car-crash-police-report-idUSKBN1JI0LB)
+ [Uber car's 'safety' driver streamed TV show before fatal crash: police](https://www.reuters.com/article/us-uber-selfdriving-crash/uber-driver-was-streaming-hulu-show-just-before-self-driving-car-crash-police-report-idUSKBN1JI0LB)
                                                           H. Somerville,
                                                           June 22, "The
                                                           safety driver
@@ -4907,8 +4631,7 @@ yet....Widespread adoption in the millions of vehicles globally is
                                                           time of the
                                                           collision,"
                                                           the report
-                                                          said."  [Read
-                                                          more](https://www.reuters.com/article/us-uber-selfdriving-crash/uber-driver-was-streaming-hulu-show-just-before-self-driving-car-crash-police-report-idUSKBN1JI0LB) Hmmmm....
+                                                          said."  [Read more](https://www.reuters.com/article/us-uber-selfdriving-crash/uber-driver-was-streaming-hulu-show-just-before-self-driving-car-crash-police-report-idUSKBN1JI0LB) Hmmmm....
                                                           This doesn't
                                                           absolve Uber.
                                                           Uber's
@@ -5028,10 +4751,7 @@ yet....Widespread adoption in the millions of vehicles globally is
                                                           Roman"">Friday,
                                                           June 15,  2018
 
-  [Waymo's
-                                                          early rider
-                                                          program, one
-                                                          year in](https://medium.com/waymo/waymos-early-rider-program-one-year-in-3a788f995a9c)
+  [Waymo's early rider program, one year in](https://medium.com/waymo/waymos-early-rider-program-one-year-in-3a788f995a9c)
 Waymo team,
                                                           June 13,
                                                           "Ariel rides
@@ -5124,8 +4844,7 @@ Waymo team,
                                                           to carry
                                                           grocery bags a
                                                           block down the
-                                                          street... "  [Read
-                                                          more](https://medium.com/waymo/waymos-early-rider-program-one-year-in-3a788f995a9c) Hmmmm....
+                                                          street... "  [Read more](https://medium.com/waymo/waymos-early-rider-program-one-year-in-3a788f995a9c) Hmmmm....
                                                           Yipes!!  The
                                                           personal car
                                                           isn't bad
@@ -5187,12 +4906,10 @@ parkingSpot2parkingSpot mobility? Are we now going to have Waymo
                                                           entitled
                                                           privileged
                                                           class:
-                                                          [See
-                                                          video](https://youtu.be/3HrN12WG-2Q) Just
+                                                          [See video](https://youtu.be/3HrN12WG-2Q) Just
                                                           like watching
                                                           [Oszzie & Harriet](https://www.youtube.com/watch?v=0OulA-4zii8)
-                                                          or [Leave
-                                                          it to Beaver](https://archive.org/details/leave.it.to.beaver.complete.series).
+                                                          or [Leave it to Beaver](https://archive.org/details/leave.it.to.beaver.complete.series).
                                                           For Waymo to
                                                           "Win it",
                                                           they'll need
@@ -5210,16 +4927,7 @@ parkingSpot2parkingSpot mobility? Are we now going to have Waymo
                                                           New
                                                           Roman"">Tuesday,
                                                           June 12,  2018
- [CPUC
-                                                          AUTHORIZES
-                                                          PASSENGER
-                                                          CARRIERS TO
-                                                          PROVIDE FREE
-                                                          TEST RIDES IN
-                                                          AUTONOMOUS
-                                                          VEHICLES WITH
-                                                          VALID CPUC AND
-                                                          DMV PERMITS](http://docs.cpuc.ca.gov/PublishedDocs/Published/G000/M215/K467/215467801.PDF)
+ [CPUC AUTHORIZES PASSENGER CARRIERS TO PROVIDE FREE TEST RIDES IN AUTONOMOUS VEHICLES WITH VALID CPUC AND DMV PERMITS](http://docs.cpuc.ca.gov/PublishedDocs/Published/G000/M215/K467/215467801.PDF)
                                                           Press Release,
                                                           May 31,
                                                           "...Today's
@@ -5302,8 +5010,7 @@ parkingSpot2parkingSpot mobility? Are we now going to have Waymo
                                                           will be
                                                           publicly
                                                           available...."
-                                                          [Read
-                                                          more](http://docs.cpuc.ca.gov/PublishedDocs/Published/G000/M215/K467/215467801.PDF)  Hmmmm.....Good
+                                                          [Read more](http://docs.cpuc.ca.gov/PublishedDocs/Published/G000/M215/K467/215467801.PDF)  Hmmmm.....Good
                                                           News:
                                                           Able to serve
                                                           customers with
@@ -5359,15 +5066,7 @@ autonomousTaxis.  Bad news: Not able to Share Rides.
                                                           Roman"">Friday,
                                                           June 8,  2018
 
- [Tesla
-                                                          Model X on
-                                                          Autopilot sped
-                                                          up seconds
-                                                          before deadly
-                                                          crash in
-                                                          Silicon
-                                                          Valley, report
-                                                          says](http://www.latimes.com/business/autos/la-fi-hy-tesla-autopilot-death-report-20180607-story.html)
+ [Tesla Model X on Autopilot sped up seconds before deadly crash in Silicon Valley, report says](http://www.latimes.com/business/autos/la-fi-hy-tesla-autopilot-death-report-20180607-story.html)
                                                           R. Mitchell,
                                                           June 7, "Three
                                                           seconds before
@@ -5391,9 +5090,7 @@ autonomousTaxis.  Bad news: Not able to Share Rides.
 
                                                           Those findings
                                                           were disclosed
-                                                          Thursday in a[preliminary
-                                                          report from
-                                                          the NTSB](https://www.ntsb.gov/investigations/AccidentReports/Pages/HWY18FH011-preliminary.aspx)
+                                                          Thursday in a[preliminary report from the NTSB](https://www.ntsb.gov/investigations/AccidentReports/Pages/HWY18FH011-preliminary.aspx)
                                                           on the Highway
                                                           101 crash that
                                                           took the life
@@ -5416,8 +5113,7 @@ autonomousTaxis.  Bad news: Not able to Share Rides.
                                                           and Tesla have
                                                           plenty of
                                                           questions left
-                                                          to answer....[Read
-                                                          more](http://www.latimes.com/business/autos/la-fi-hy-tesla-autopilot-death-report-20180607-story.html)  Hmmmm.....Just
+                                                          to answer....[Read more](http://www.latimes.com/business/autos/la-fi-hy-tesla-autopilot-death-report-20180607-story.html)  Hmmmm.....Just
                                                           a couple of
                                                           things:
 
@@ -5562,11 +5258,7 @@ autonomousTaxis.  Bad news: Not able to Share Rides.
                                                           Roman"">Sunday,
                                                           June 3,  2018
 
-                                                          [SOFTBANK
-                                                          FLIPS THE
-                                                          VENTURE-CAPITAL
-                                                          SCRIPT AGAIN
-                                                          WITH GM DEAL](https://www.wired.com/story/softbank-flips-venture-capital-script-gm-deal/)
+                                                          [SOFTBANK FLIPS THE VENTURE-CAPITAL SCRIPT AGAIN WITH GM DEAL](https://www.wired.com/story/softbank-flips-venture-capital-script-gm-deal/)
 
                                                           E. Griffith,
                                                           May 31,
@@ -5740,8 +5432,7 @@ artificial-intelligence-focused investment thesis, including aspects of
                                                           investment arm
                                                           of
                                                           Alphabet...."
-                                                          [Read
-                                                          more](https://www.wired.com/story/softbank-flips-venture-capital-script-gm-deal/)  Hmmmm....
+                                                          [Read more](https://www.wired.com/story/softbank-flips-venture-capital-script-gm-deal/)  Hmmmm....
                                                           Most
                                                           interesting.
                                                           Must be a
@@ -5773,17 +5464,10 @@ artificial-intelligence-focused investment thesis, including aspects of
                                                           Waymo seems to
                                                           be putting the
                                                           pedal to the
-                                                          metal. ([next
-                                                          article](https://www.theverge.com/2018/5/31/17412908/waymo-chrysler-pacifica-minvan-self-driving-fleet)).
+                                                          metal. ([next article](https://www.theverge.com/2018/5/31/17412908/waymo-chrysler-pacifica-minvan-self-driving-fleet)).
                                                               Alain
 
-### [Waymo's
-                                                          fleet of
-                                                          self-driving
-                                                          minivans is
-                                                          about to get
-                                                          100 times
-                                                          bigger](https://www.theverge.com/2018/5/31/17412908/waymo-chrysler-pacifica-minvan-self-driving-fleet)
+### [Waymo's fleet of self-driving minivans is about to get 100 times bigger](https://www.theverge.com/2018/5/31/17412908/waymo-chrysler-pacifica-minvan-self-driving-fleet)
 
                                                           A. Hawkins,
                                                           May 31, "The
@@ -5867,8 +5551,7 @@ personTrips/aTaxi-day).  That's about 0.5% of all personTrips greater
                                                           customers as
                                                           personally
                                                           owned
-                                                          vehicles..." R[ead
-                                                          more](https://www.theverge.com/2018/5/31/17412908/waymo-chrysler-pacifica-minvan-self-driving-fleet)  Hmmmm....
+                                                          vehicles..." R[ead more](https://www.theverge.com/2018/5/31/17412908/waymo-chrysler-pacifica-minvan-self-driving-fleet)  Hmmmm....
                                                           What????
                                                           Waymo can't be
                                                           serious.  No
@@ -5931,8 +5614,7 @@ personTrips/aTaxi-day).  That's about 0.5% of all personTrips greater
                                                           lose money.
                                                           This "rumor"
                                                           deserves a
-                                                          super [C'mon
-                                                          Man](https://www.youtube.com/watch?v=HoXv6JHI0OE)!!!
+                                                          super [C'mon Man](https://www.youtube.com/watch?v=HoXv6JHI0OE)!!!
                                                           Alain
 
                                                           New
@@ -5941,9 +5623,7 @@ personTrips/aTaxi-day).  That's about 0.5% of all personTrips greater
 
 ###
 
-[AI
-                                                          Winter Is Well
-                                                          On Its Way](https://blog.piekniewski.info/2018/05/28/ai-winter-is-well-on-its-way/)
+[AI Winter Is Well On Its Way](https://blog.piekniewski.info/2018/05/28/ai-winter-is-well-on-its-way/)
 F.
                                                           Piekniewski,
                                                           "Deep learning
@@ -5996,24 +5676,18 @@ But by far
                                                           read some
                                                           astonishing
                                                           statements:..."
-                                                          [Read
-                                                          more](https://blog.piekniewski.info/2018/05/28/ai-winter-is-well-on-its-way/)  Hmmmm....
+                                                          [Read more](https://blog.piekniewski.info/2018/05/28/ai-winter-is-well-on-its-way/)  Hmmmm....
                                                           Very
                                                           interesting.
                                                           We still have
                                                           an awful lot
                                                           to do.  See
-                                                          also,[G.
-                                                          Marcu](https://arxiv.org/abs/1801.00631)s,
+                                                          also,[G. Marcu](https://arxiv.org/abs/1801.00631)s,
                                                           below. Alain
 
                                                           May 25,  2018
- [PRELIMINARY
-                                                          REPORT:
-                                                          HIGHWAY:
-                                                          HWY18MH010 (Uber/Herzberg
-                                                          Crash)](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/PDFs/NTSBuberPreliminaryMay2018.pdf)
-[](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/PDFs/NTSBuberPreliminaryMay2018.pdf)
+ [PRELIMINARY REPORT: HIGHWAY: HWY18MH010 (Uber/Herzberg Crash)](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/PDFs/NTSBuberPreliminaryMay2018.pdf)
+
 
 KMay 24,
                                                           "About 9:58
@@ -6245,8 +5919,7 @@ KMay 24,
                                                           collision" (1.3 x 57.2 = 74.4
                                                           ft. which is
                                                           about equal to
-                                                          the [braking
-                                                          distance](http://www.brakingdistances.com/39Mph).
+                                                          the [braking distance](http://www.brakingdistances.com/39Mph).
 So it still could
                                                           have stopped
                                                           short.
@@ -6346,18 +6019,12 @@ So it still could
                                                           do anyway.
                                                           This is pretty
                                                           much as I
-                                                          stated in [PodCast
-                                                          3](https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-30)0 and the
+                                                          stated in [PodCast 3](https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-30)0 and the
                                                           24 edition of
 SmartDrivingCar, See below.  Alain
                                                           May 18,  2018
 
-### [The
-                                                          Open Source
-                                                          Solution to
-                                                          Autonomous
-                                                          Safety
-                                                          #smartdrivingcar](http://viodi.com/2018/05/09/the-open-source-solution-to-autonomous-safety-smartdrivingcar/)
+### [The Open Source Solution to Autonomous Safety #smartdrivingcar](http://viodi.com/2018/05/09/the-open-source-solution-to-autonomous-safety-smartdrivingcar/)
 
 K. Pyle,
                                                           May 9, "Safety
@@ -6410,10 +6077,8 @@ K. Pyle,
                                                           actual
                                                           standard in
                                                           autonomous
-                                                          safety."  [Read
-                                                          more](http://viodi.com/2018/05/09/the-open-source-solution-to-autonomous-safety-smartdrivingcar/), Hmmmm....
-                                                          [See
-                                                          the video](https://youtu.be/wVu43D6PfiA)
+                                                          safety."  [Read more](http://viodi.com/2018/05/09/the-open-source-solution-to-autonomous-safety-smartdrivingcar/), Hmmmm....
+                                                          [See the video](https://youtu.be/wVu43D6PfiA)
                                                           that was
                                                           played at the
                                                           Princeton SDC
@@ -6422,20 +6087,11 @@ K. Pyle,
                                                           substantial
                                                           positive
                                                           discussion at
-                                                          the Summit. [See
-                                                          also full
-                                                          length video.](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/SDC_Summit_2018/180507-Voyage-Roughcut-1.mp4) Alain
+                                                          the Summit. [See also full length video.](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/SDC_Summit_2018/180507-Voyage-Roughcut-1.mp4) Alain
 
                                                           May 10,  2018
 
-### [](https://www.theinformation.com/articles/uber-finds-deadly-accident-likely-caused-by-software-set-to-ignore-objects-on-road?jwt=eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJhbGFpbmtAcHJuY2V0b24uZWR1IiwiZXhwIjoxNTU3Mzg3NDI4LCJuIjoiR3Vlc3QiLCJzY29wZSI6WyJzaGFyZSJdfQ.o4p6EB44dU2-ZNq6Gm4FjXGvf8yQ7_VWE4_s6bIs9dU&unlock=ba34e04e870be38a)[Uber
-                                                          Finds Deadly
-                                                          Accident
-                                                          Likely Caused
-                                                          By Software
-                                                          Set to Ignore
-                                                          Objects On
-                                                          Road](https://www.theinformation.com/articles/uber-finds-deadly-accident-likely-caused-by-software-set-to-ignore-objects-on-road?jwt=eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJhbGFpbmtAcHJuY2V0b24uZWR1IiwiZXhwIjoxNTU3Mzg3NDI4LCJuIjoiR3Vlc3QiLCJzY29wZSI6WyJzaGFyZSJdfQ.o4p6EB44dU2-ZNq6Gm4FjXGvf8yQ7_VWE4_s6bIs9dU&unlock=ba34e04e870be38a)
+### [Uber Finds Deadly Accident Likely Caused By Software Set to Ignore Objects On Road](https://www.theinformation.com/articles/uber-finds-deadly-accident-likely-caused-by-software-set-to-ignore-objects-on-road?jwt=eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJhbGFpbmtAcHJuY2V0b24uZWR1IiwiZXhwIjoxNTU3Mzg3NDI4LCJuIjoiR3Vlc3QiLCJzY29wZSI6WyJzaGFyZSJdfQ.o4p6EB44dU2-ZNq6Gm4FjXGvf8yQ7_VWE4_s6bIs9dU&unlock=ba34e04e870be38a)
 
 A. Efrati,
                                                           May 7, "Uber
@@ -6461,8 +6117,7 @@ A. Efrati,
                                                           according to
                                                           two people
                                                           briefed about
-                                                          the matter." [Read
-                                                          more](https://www.theinformation.com/articles/uber-finds-deadly-accident-likely-caused-by-software-set-to-ignore-objects-on-road?jwt=eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJhbGFpbmtAcHJuY2V0b24uZWR1IiwiZXhwIjoxNTU3Mzg3NDI4LCJuIjoiR3Vlc3QiLCJzY29wZSI6WyJzaGFyZSJdfQ.o4p6EB44dU2-ZNq6Gm4FjXGvf8yQ7_VWE4_s6bIs9dU&unlock=ba34e04e870be38a)  Hmmmm....Uber
+                                                          the matter." [Read more](https://www.theinformation.com/articles/uber-finds-deadly-accident-likely-caused-by-software-set-to-ignore-objects-on-road?jwt=eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJhbGFpbmtAcHJuY2V0b24uZWR1IiwiZXhwIjoxNTU3Mzg3NDI4LCJuIjoiR3Vlc3QiLCJzY29wZSI6WyJzaGFyZSJdfQ.o4p6EB44dU2-ZNq6Gm4FjXGvf8yQ7_VWE4_s6bIs9dU&unlock=ba34e04e870be38a)  Hmmmm....Uber
                                                           is "leaking"
                                                           this???  Is
                                                           this Spin?
@@ -6912,14 +6567,7 @@ Since
 Thursday,
                                                           May 3,  2018
 
-### [As
-                                                          the Number of
-                                                          Driverless
-                                                          Cars Increase,
-                                                          So Does the
-                                                          Need for Car
-                                                          Maker
-                                                          Transparency](http://www.govtech.com/fs/automation/As-the-Number-of-Driverless-Cars-Increase-So-Does-the-Need-for-Car-Maker-Transparency.html)
+### [As the Number of Driverless Cars Increase, So Does the Need for Car Maker Transparency](http://www.govtech.com/fs/automation/As-the-Number-of-Driverless-Cars-Increase-So-Does-the-Need-for-Car-Maker-Transparency.html)
 
                                                           R. Mitchell,
                                                           Apr 30, "...A
@@ -6990,8 +6638,7 @@ Thursday,
                                                           of South
                                                           Carolina.
                                                           "Essentially,
-                                                          [the public
-                                                          will be]
+                                                          [the public will be]
                                                           looking to see
                                                           whether these
                                                           companies are
@@ -7193,8 +6840,7 @@ driverless-vehicle program at Princeton University, said he believes
                                                           shouldn't
                                                           crash on
                                                           public roads."
-                                                          ..."  [Read
-                                                          more](http://www.govtech.com/fs/automation/As-the-Number-of-Driverless-Cars-Increase-So-Does-the-Need-for-Car-Maker-Transparency.html)
+                                                          ..."  [Read more](http://www.govtech.com/fs/automation/As-the-Number-of-Driverless-Cars-Increase-So-Does-the-Need-for-Car-Maker-Transparency.html)
 
                                                           Hmmmm...
                                                           Amen!  This
@@ -7484,8 +7130,7 @@ uncertainty/stochastic characteristics of that decision process needs to
 
                                                           Please come
                                                           join in the
-                                                          discourse. [Click to
-                                                          register.](https://www.regonline.com/registration/Checkin.aspx?EventID=2246346)
+                                                          discourse. [Click to register.](https://www.regonline.com/registration/Checkin.aspx?EventID=2246346)
                                                           Alain
 Thursday,
                                                           April 26,
@@ -7503,18 +7148,11 @@ Thursday,
 
 ###
 
- [This
-                                                          startup's CEO
-                                                          wants to
-                                                          open-source
-                                                          self-driving
-                                                          car safety
-                                                          testing](https://arstechnica.com/cars/2018/04/this-startups-ceo-wants-to-open-source-self-driving-car-safety-testing/?ref=streamer.ai)
+ [This startup's CEO wants to open-source self-driving car safety testing](https://arstechnica.com/cars/2018/04/this-startups-ceo-wants-to-open-source-self-driving-car-safety-testing/?ref=streamer.ai)
                                                           M. Harris, Apr
                                                           24, "... "I had to
                                                           spend time
-                                                          after [the
-                                                          Uber crash]
+                                                          after [the Uber crash]
                                                           calming people
                                                           down, telling
                                                           folks at our
@@ -7571,8 +7209,7 @@ Thursday,
                                                           retirement
                                                           communities in
                                                           California and
-                                                          Florida..."  [Read
-                                                          more](https://arstechnica.com/cars/2018/04/this-startups-ceo-wants-to-open-source-self-driving-car-safety-testing/?ref=streamer.ai)  Hmmmm...
+                                                          Florida..."  [Read more](https://arstechnica.com/cars/2018/04/this-startups-ceo-wants-to-open-source-self-driving-car-safety-testing/?ref=streamer.ai)  Hmmmm...
                                                           This is a very
                                                           positive
                                                           step taken by
@@ -7692,13 +7329,7 @@ Thursday,
 
                                                           April 12,
                                                           2018
- [The
-                                                          way we
-                                                          regulate
-                                                          self-driving
-                                                          cars is
-                                                          broken—here's
-                                                          how to fix it](https://arstechnica.com/cars/2018/04/the-way-we-regulate-self-driving-cars-is-broken-heres-how-to-fix-it/)
+ [The way we regulate self-driving cars is broken—here's how to fix it](https://arstechnica.com/cars/2018/04/the-way-we-regulate-self-driving-cars-is-broken-heres-how-to-fix-it/)
                                                           T. Lee, Apr
                                                           10,"...Federal
                                                           car safety
@@ -7788,8 +7419,7 @@ Thursday,
                                                           effective
                                                           regulation of
                                                           driverless
-                                                          cars....  [Read
-                                                          more](https://arstechnica.com/cars/2018/04/the-way-we-regulate-self-driving-cars-is-broken-heres-how-to-fix-it/)  Hmmmm...What
+                                                          cars....  [Read more](https://arstechnica.com/cars/2018/04/the-way-we-regulate-self-driving-cars-is-broken-heres-how-to-fix-it/)  Hmmmm...What
                                                           needs to be
                                                           recognized is
                                                           that
@@ -7870,9 +7500,7 @@ Thursday,
                                                           them as a new
                                                           mode.  Alain
                                                           April 5,  2018
-[Waymo
-                                                          Isn't Going to
-                                                          Slow Down Now](https://www.bloomberg.com/news/features/2018-04-02/waymo-isn-t-slowing-down-pact-with-honda-could-include-delivery)
+[Waymo Isn't Going to Slow Down Now](https://www.bloomberg.com/news/features/2018-04-02/waymo-isn-t-slowing-down-pact-with-honda-could-include-delivery)
 M.
                                                           Bergen, "Apr
                                                           2, " Waymo,
@@ -7980,8 +7608,7 @@ Krafcik
                                                           no.  "Coming
                                                           soon," Krafcik
                                                           said with a
-                                                          laugh."  [Read
-                                                          more](https://www.bloomberg.com/news/features/2018-04-02/waymo-isn-t-slowing-down-pact-with-honda-could-include-delivery) Hmmmm...
+                                                          laugh."  [Read more](https://www.bloomberg.com/news/features/2018-04-02/waymo-isn-t-slowing-down-pact-with-honda-could-include-delivery) Hmmmm...
                                                           Wow, this is
                                                           more info than
                                                           has been put
@@ -8018,12 +7645,7 @@ Krafcik
                                                           HQ"?   Alain
                                                           March 31,
                                                           2018
-[The
-                                                          Most Important
-                                                          Self-Driving
-                                                          Car
-                                                          Announcement
-                                                          Yet](https://www.theatlantic.com/technology/archive/2018/03/the-most-important-self-driving-car-announcement-yet/556712/)
+[The Most Important Self-Driving Car Announcement Yet](https://www.theatlantic.com/technology/archive/2018/03/the-most-important-self-driving-car-announcement-yet/556712/)
 A. Madrigal,
                                                           Mar 28, "On
                                                           Tuesday, Waymo
@@ -8073,8 +7695,7 @@ A. Madrigal,
                                                           doing a
                                                           million trips
                                                           each day in
-                                                          2020. ..."   [Read
-                                                          more](https://www.theatlantic.com/technology/archive/2018/03/the-most-important-self-driving-car-announcement-yet/556712/)  Hmmmm...Yup!!
+                                                          2020. ..."   [Read more](https://www.theatlantic.com/technology/archive/2018/03/the-most-important-self-driving-car-announcement-yet/556712/)  Hmmmm...Yup!!
                                                           This is HUGE!
                                                           It will change
                                                           the city and
@@ -8117,15 +7738,7 @@ A. Madrigal,
 
                                                           March 24,
                                                           2018
-[Experts
-                                                          say video of
-                                                          Uber's
-                                                          self-driving
-                                                          car killing a
-                                                          pedestrian
-                                                          suggests its
-                                                          technology may
-                                                          have failed](http://www.latimes.com/business/la-fi-uber-death-video-20180321-story.html)
+[Experts say video of Uber's self-driving car killing a pedestrian suggests its technology may have failed](http://www.latimes.com/business/la-fi-uber-death-video-20180321-story.html)
 R. Mitchell,
                                                           Mar 22,
                                                           "Police late
@@ -8355,9 +7968,7 @@ The
                                                           have "seen"
                                                           her beginning
                                                           at about that
-                                                          time.   [Car
-                                                          stopping
-                                                          distance](https://www.random-science-tools.com/physics/stopping-distance.htm)
+                                                          time.   [Car stopping distance](https://www.random-science-tools.com/physics/stopping-distance.htm)
                                                           including
                                                           "thinking time
                                                           used in The
@@ -8476,13 +8087,7 @@ The
                                                           March 20,
                                                           2018
 
-[Robot
-                                                          drivers may be
-                                                          safer than
-                                                          humans, but
-                                                          tech companies
-                                                          are way behind
-                                                          in proving it](http://www.latimes.com/business/autos/la-fi-hy-robot-car-safety-pr-20180321-story.html)
+[Robot drivers may be safer than humans, but tech companies are way behind in proving it](http://www.latimes.com/business/autos/la-fi-hy-robot-car-safety-pr-20180321-story.html)
 R. Mitchell,
                                                           Mar 21, "As
                                                           long as robot
@@ -8672,14 +8277,7 @@ R. Mitchell,
 
                                                           March 13,
                                                           2018
-[Waymo
-                                                          shows off what
-                                                          it is like to
-                                                          ride in a
-                                                          truly
-                                                          driverless
-                                                          self-driving
-                                                          car](https://techcrunch.com/2018/03/02/mit-study-shows-how-much-driving-for-uber-or-lyft-sucks/)
+[Waymo shows off what it is like to ride in a truly driverless self-driving car](https://techcrunch.com/2018/03/02/mit-study-shows-how-much-driving-for-uber-or-lyft-sucks/)
 G.
                                                           Kumparak,
                                                           Mar 13,
@@ -8805,16 +8403,9 @@ Be
                                                           Waymo!!!!!
                                                           Alain
 
-[Wednesday,
-                                                          February 28,
-                                                          2018](http://SmartDrivingCars-6.09-Remote-022818)
+[Wednesday, February 28, 2018](http://SmartDrivingCars-6.09-Remote-022818)
 
-[California
-                                                          to allow
-                                                          testing of
-                                                          self-driving
-                                                          cars without a
-                                                          driver present](https://techcrunch.com/2018/02/27/california-to-allow-testing-of-self-driving-cars-without-a-driver-present/)
+[California to allow testing of self-driving cars without a driver present](https://techcrunch.com/2018/02/27/california-to-allow-testing-of-self-driving-cars-without-a-driver-present/)
 D. Etherington,
                                                           Feb 27,
                                                           "California's
@@ -8919,40 +8510,15 @@ D. Etherington,
                                                           agencies.
                                                           Alain
 
-[Friday,
-                                                          February 23,
-                                                          2018](http://SmartDrivingCars-6.08-TNCs-022318)
+[Friday, February 23, 2018](http://SmartDrivingCars-6.08-TNCs-022318)
 
-[Broadening
-                                                          Understanding
-                                                          of the
-                                                          Interplay
-                                                          Between Public
-                                                          Transit,
-                                                          Shared
-                                                          Mobility, and
-                                                          Personal
-                                                          Automobiles](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/PDFs/FeigonInterplayPublicTransitSharedMobilityPersonalAutomobile2018.pdf)
+[Broadening Understanding of the Interplay Between Public Transit, Shared Mobility, and Personal Automobiles](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/PDFs/FeigonInterplayPublicTransitSharedMobilityPersonalAutomobile2018.pdf)
 
-[Friday,
-                                                          February 16,
-                                                          2018](http://SmartDrivingCars-6.07-Valentine-021618)
-[Billionaire
-                                                          Bets On a
-                                                          World Without
-                                                          Car Crashes](https://www.bloomberg.com/gadfly/articles/2018-02-12/softbank-billionaire-bets-on-a-world-without-car-crashes)
+[Friday, February 16, 2018](http://SmartDrivingCars-6.07-Valentine-021618)
+[Billionaire Bets On a World Without Car Crashes](https://www.bloomberg.com/gadfly/articles/2018-02-12/softbank-billionaire-bets-on-a-world-without-car-crashes)
 
-[Thursday,
-                                                          February 1,
-                                                          2018](http://SmartDrivingCars-6.04-Deisel-020118)
-[Waymo
-                                                          strikes a deal
-                                                          to buy
-                                                          'thousands'
-                                                          more
-                                                          self-driving
-                                                          minivans from
-                                                          Fiat Chrysler](https://www.theverge.com/2018/1/30/16948356/waymo-google-fiat-chrysler-pacfica-minivan-self-driving)
+[Thursday, February 1, 2018](http://SmartDrivingCars-6.04-Deisel-020118)
+[Waymo strikes a deal to buy 'thousands' more self-driving minivans from Fiat Chrysler](https://www.theverge.com/2018/1/30/16948356/waymo-google-fiat-chrysler-pacfica-minivan-self-driving)
 Andrew
                                                           Hawkins, Jan
                                                           30, "Waymo,
@@ -9039,8 +8605,7 @@ Waymo currently
                                                           were also
                                                           phased out
                                                           last year.)…"
-                                                          [Read
-                                                          more](https://www.theverge.com/2018/1/30/16948356/waymo-google-fiat-chrysler-pacfica-minivan-self-drivingttps:/www.nytimes.com/2018/01/25/world/europe/volkswagen-diesel-emissions-monkeys.html)  Hmmmm...
+                                                          [Read more](https://www.theverge.com/2018/1/30/16948356/waymo-google-fiat-chrysler-pacfica-minivan-self-drivingttps:/www.nytimes.com/2018/01/25/world/europe/volkswagen-diesel-emissions-monkeys.html)  Hmmmm...
                                                           We've all been
                                                           wondering"
                                                           Who's going to
@@ -9085,8 +8650,7 @@ Well….Looks
                                                           minivans".
                                                           Guess what
                                                           that means…
-                                                          The [Kornhauser
-                                                          Scale](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/PDFs/KornhauserScale.pdf) is
+                                                          The [Kornhauser Scale](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/PDFs/KornhauserScale.pdf) is
                                                           going to start
                                                           really going
                                                           up!!! J
@@ -9267,24 +8831,12 @@ Chandler/Phoenix and report back as to what we think it would take to
                                                           mobility for
                                                           all.  Alain
 
-[Monday,
-                                                          January 29,
-                                                          2018](http://SmartDrivingCars-6.03-THCs-012918)
+[Monday, January 29, 2018](http://SmartDrivingCars-6.03-THCs-012918)
 [Didi
-Chuxing
-                                                          looks beyond
-                                                          ride-hailing
-                                                          to help
-                                                          Chinese cities
-                                                          tackle
-                                                          transport
-                                                          challenge](http://www.scmp.com/tech/china-tech/article/2130602/didi-chuxing-looks-beyond-ride-hailing-help-chinese-cities-tackle)
-[Sunday,
-                                                          January 14,
-                                                          2018](http://SmartDrivingCars-6.01-HelloDriverless-011418)
+Chuxing looks beyond ride-hailing to help Chinese cities tackle transport challenge](http://www.scmp.com/tech/china-tech/article/2130602/didi-chuxing-looks-beyond-ride-hailing-help-chinese-cities-tackle)
+[Sunday, January 14, 2018](http://SmartDrivingCars-6.01-HelloDriverless-011418)
 
-### [Say
-                                                          hello to Waymo](http://www.princeton.edu/%7Ealaink/Orf467F17/AHB30_Waymo_Papandreou_Jan2018.pdf)
+### [Say hello to Waymo](http://www.princeton.edu/%7Ealaink/Orf467F17/AHB30_Waymo_Papandreou_Jan2018.pdf)
 
 Jan. 9, T.
                                                           Papandreou
@@ -9292,8 +8844,7 @@ Jan. 9, T.
                                                           "...
                                                           Waymo
                                                           driverless
-                                                          service..."  [Read
-                                                          more](http://www.princeton.edu/%7Ealaink/Orf467F17/AHB30_Waymo_Papandreou_Jan2018.pdf)
+                                                          service..."  [Read more](http://www.princeton.edu/%7Ealaink/Orf467F17/AHB30_Waymo_Papandreou_Jan2018.pdf)
                                                           Hmmmm...  Tim
                                                           and Ellie made
                                                           presentation
@@ -9337,9 +8888,7 @@ Jan. 9, T.
                                                           country (slide
                                                           7): however,
                                                           to date,
-                                                          except for [one ride given to
-                                                          Steve Mahan in
-                                                          Austin, TX](https://www.youtube.com/watch?v=qyzNlBqmXxY),
+                                                          except for [one ride given to Steve Mahan in Austin, TX](https://www.youtube.com/watch?v=qyzNlBqmXxY),
                                                           rides on
                                                           normally
                                                           operating
@@ -9495,54 +9044,27 @@ While the definition of "soon" was not given, I've
                                                           and are at KS
                                                           = 1 only by
                                                           virtue of the
-                                                          [one
-                                                          Steve Mahan
-                                                          ride in Austin](http://kxan.com/2016/12/13/video-austin-host-to-worlds-first-truly-self-driving-car-ride/)).
+                                                          [one Steve Mahan ride in Austin](http://kxan.com/2016/12/13/video-austin-host-to-worlds-first-truly-self-driving-car-ride/)).
                                                           :-) Alain
 
                                                           December 2,
                                                           2017
 
-### [Personal
-                                                          Sedan Sales in
-                                                          Jeopardy as
-                                                          U.S. Auto
-                                                          Market
-                                                          Transitions to
-                                                          "Islands" of
-                                                          Autonomous
-                                                          Mobility: KPMG
-                                                          Research](https://home.kpmg.com/us/en/home/media/press-releases/2017/11/personal-sedan-sales-in-jeopardy-as-us-auto-market-transitions-to-islands-of-autonomous-mobility-kpmg-research.html)
+### [Personal Sedan Sales in Jeopardy as U.S. Auto Market Transitions to "Islands" of Autonomous Mobility: KPMG Research](https://home.kpmg.com/us/en/home/media/press-releases/2017/11/personal-sedan-sales-in-jeopardy-as-us-auto-market-transitions-to-islands-of-autonomous-mobility-kpmg-research.html)
 
                                                           November 26,
                                                           2017
 
-### [Volvo
-                                                          to supply Uber
-                                                          with up to
-                                                          24,000
-                                                          self-driving
-                                                          SUVs for taxi
-                                                          fleet](http://www.latimes.com/business/autos/la-fi-hy-volvo-uber-20171120-story.html)
+### [Volvo to supply Uber with up to 24,000 self-driving SUVs for taxi fleet](http://www.latimes.com/business/autos/la-fi-hy-volvo-uber-20171120-story.html)
 
                                                           November 17,
                                                           2017
-[THE
-                                                          TECH &
-                                                          DESIGN ISSUE:
-                                                          LIFE AFTER
-                                                          DRIVING](https://www.nytimes.com/interactive/2017/11/07/magazine/tech-design-future-autonomous-cars-american-interstate-highway-roads-suburbs.html)
+[THE TECH & DESIGN ISSUE: LIFE AFTER DRIVING](https://www.nytimes.com/interactive/2017/11/07/magazine/tech-design-future-autonomous-cars-american-interstate-highway-roads-suburbs.html)
 
                                                           November 10,
                                                           2017
 
-[Waymo
-                                                          will now put
-                                                          self-driving
-                                                          vans on public
-                                                          roads with
-                                                          nobody at the
-                                                          wheel](http://www.latimes.com/business/autos/la-fi-hy-waymo-self-driving-20171107-story.html)
+[Waymo will now put self-driving vans on public roads with nobody at the wheel](http://www.latimes.com/business/autos/la-fi-hy-waymo-self-driving-20171107-story.html)
 AP, Nov. 7,
                                                           2017 "Waymo,
                                                           the
@@ -9577,8 +9099,7 @@ AP, Nov. 7,
                                                           without human
                                                           backup
                                                           drivers. ..."
-                                                          [Read
-                                                          more](http://www.latimes.com/business/autos/la-fi-hy-waymo-self-driving-20171107-story.html) Hmmmm...  Not to be
+                                                          [Read more](http://www.latimes.com/business/autos/la-fi-hy-waymo-self-driving-20171107-story.html) Hmmmm...  Not to be
                                                           too critical,
                                                           but Waymo
                                                           is still just
@@ -9660,8 +9181,7 @@ Just
                                                           there will be
                                                           a room full of
                                                           engineers in Waymo's
-                                                          '[Situation
-                                                          Room](https://www.bing.com/images/search?view=detailV2&ccid=sgZWYJW3&id=3075512187179AAEB3DF97757FAABF10556A5AEB&thid=OIP.sgZWYJW3NIwE2M0pC4kcOgEsDH&mediaurl=http%3a%2f%2fy1.blog.sbc.edu%2ffiles%2f2011%2f05%2fObama-Osama-bin-Laden-situation-room-650x433.jpg&exph=433&expw=650&q=situation+room+photo+osama+obama&simid=607992527163099674&selectedIndex=0&ajaxhist=0)'
+                                                          '[Situation Room](https://www.bing.com/images/search?view=detailV2&ccid=sgZWYJW3&id=3075512187179AAEB3DF97757FAABF10556A5AEB&thid=OIP.sgZWYJW3NIwE2M0pC4kcOgEsDH&mediaurl=http%3a%2f%2fy1.blog.sbc.edu%2ffiles%2f2011%2f05%2fObama-Osama-bin-Laden-situation-room-650x433.jpg&exph=433&expw=650&q=situation+room+photo+osama+obama&simid=607992527163099674&selectedIndex=0&ajaxhist=0)'
                                                           ready to take
                                                           over the
                                                           driving should
@@ -9765,49 +9285,27 @@ The
 
                                                           November 4,
                                                           2017
-[APNewsBreak:
-                                                          Gov't won't
-                                                          pursue talking
-                                                          car mandate](http://abcnews.go.com/Technology/wireStory/ap-newsbreak-govt-pursue-talking-car-mandate-50855129)
+[APNewsBreak: Gov't won't pursue talking car mandate](http://abcnews.go.com/Technology/wireStory/ap-newsbreak-govt-pursue-talking-car-mandate-50855129)
                                                           October 27 ,
                                                           2017
 
-### [Strategic
-                                                          Plan for FY
-                                                          2018 -2022](https://www.transportation.gov/sites/dot.gov/files/docs/mission/administrations/office-policy/287816/draft-dot-strategic-plan-fy-2018-2022-public-comment.pdf)
+### [Strategic Plan for FY 2018 -2022](https://www.transportation.gov/sites/dot.gov/files/docs/mission/administrations/office-policy/287816/draft-dot-strategic-plan-fy-2018-2022-public-comment.pdf)
 
                                                           October 15 ,
                                                           2017
 
-### [Proposed Driverless Testing and Deployment
-                                                          Regulations –
-                                                          Released
-                                                          October 11,
-                                                          2017](https://www.dmv.ca.gov/portal/dmv/detail/about/lad/regactions)
+### [Proposed Driverless Testing and Deployment Regulations – Released October 11, 2017](https://www.dmv.ca.gov/portal/dmv/detail/about/lad/regactions)
 
  Rulemaking
                                                           Actions, Oct 1The following 3 PDFs
                                                           are important:
 
-[1.
-                                                          Autonomous
-                                                          Vehicles
-                                                          Notice of
-                                                          Modification
-                                                          (PDF)](https://www.dmv.ca.gov/portal/wcm/connect/8d34f851-9009-4158-89a0-c56bcee45656/NoticeofModification.pdf?MOD=AJPERES)  Act
+[1. Autonomous Vehicles Notice of Modification (PDF)](https://www.dmv.ca.gov/portal/wcm/connect/8d34f851-9009-4158-89a0-c56bcee45656/NoticeofModification.pdf?MOD=AJPERES)  Act
 
-[2.
-                                                          Autonomous
-                                                          Vehicles
-                                                          Statement of
-                                                          Reasons (PDF)](https://www.dmv.ca.gov/portal/wcm/connect/21a714c1-17dd-4846-81f7-5b0086e23b14/StatementofReasons.pdf?MOD=AJPERES)
+[2. Autonomous Vehicles Statement of Reasons (PDF)](https://www.dmv.ca.gov/portal/wcm/connect/21a714c1-17dd-4846-81f7-5b0086e23b14/StatementofReasons.pdf?MOD=AJPERES)
                                                           Act
 
-[3.
-                                                          Autonomous
-                                                          Vehicles 15
-                                                          Day Express
-                                                          Terms (PDF)](https://www.dmv.ca.gov/portal/wcm/connect/f0a611ed-9579-44a3-ac0b-85d9508f53d9/15DayExpressTerms.pdf?MOD=AJPERES)
+[3. Autonomous Vehicles 15 Day Express Terms (PDF)](https://www.dmv.ca.gov/portal/wcm/connect/f0a611ed-9579-44a3-ac0b-85d9508f53d9/15DayExpressTerms.pdf?MOD=AJPERES)
                                                           Act  Hmmmm..This is all about Driverless!
                                                           Thank you
                                                           California,
@@ -9833,54 +9331,29 @@ The
                                                           October 6 ,
                                                           2017
 
-### F[HWA Awards $4
-                                                          Million Grant
-                                                          to South
-                                                          Carolina's
-                                                          Greenville
-                                                          County for
-                                                          Automated Taxi
-                                                          Shuttles](https://www.fhwa.dot.gov/pressroom/fhwa1717g.cfm)
+### F[HWA Awards $4 Million Grant to South Carolina's Greenville County for Automated Taxi Shuttles](https://www.fhwa.dot.gov/pressroom/fhwa1717g.cfm)
 
                                                           September 1,
                                                           2017
 
-### [Automated
-                                                          Vehicles: Are
-                                                          We Moving Too
-                                                          Fast or Too
-                                                          Slow?](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/PDFs/The%20Dispatcher_September%202017.pdf)
+### [Automated Vehicles: Are We Moving Too Fast or Too Slow?](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/PDFs/The%20Dispatcher_September%202017.pdf)
 
                                                           August 25,
                                                           2017
 
-### [Inside
-                                                          Waymo's
-                                                          Secret World
-                                                          for Training
-                                                          Self-Driving
-                                                          Cars](https://www.theatlantic.com/technology/archive/2017/08/inside-waymos-secret-testing-and-simulation-facilities/537648/)
+### [Inside Waymo's Secret World for Training Self-Driving Cars](https://www.theatlantic.com/technology/archive/2017/08/inside-waymos-secret-testing-and-simulation-facilities/537648/)
 
                                                           August 21,
                                                           2017
 
-### [Driverless-Car
-                                                          Outlook Shifts
-                                                          as Intel Takes
-                                                          Over Mobileye](https://www.nytimes.com/2017/08/08/technology/intel-mobileye-driverless-cars.html?_r=0)
+### [Driverless-Car Outlook Shifts as Intel Takes Over Mobileye](https://www.nytimes.com/2017/08/08/technology/intel-mobileye-driverless-cars.html?_r=0)
 
                                                           August 7, 2017
 
-### [Cadillac's
-                                                          Super Cruise
-                                                          'autopilot' is
-                                                          ready for the
-                                                          expressway](https://techcrunch.com/2017/08/03/cadillacs-super-cruise-autopilot-is-ready-for-the-expressway/)
+### [Cadillac's Super Cruise 'autopilot' is ready for the expressway](https://techcrunch.com/2017/08/03/cadillacs-super-cruise-autopilot-is-ready-for-the-expressway/)
 
                                                           June 25, 2017
-[NTSB
-                                                          Opens Docket
-                                                          on Tesla Crash](https://www.ntsb.gov/news/press-releases/Pages/PR20170619.aspx)
+[NTSB Opens Docket on Tesla Crash](https://www.ntsb.gov/news/press-releases/Pages/PR20170619.aspx)
 The docket
                                                           material is
                                                           available at:
@@ -9987,8 +9460,7 @@ Hmmmm... A few comments...
 6.
                                                           The head
                                                           injury
-                                                          description ([Table 1
-                                                          p2 of 3](https://dms.ntsb.gov/public/59500-59999/59989/604692.pdf))
+                                                          description ([Table 1 p2 of 3](https://dms.ntsb.gov/public/59500-59999/59989/604692.pdf))
                                                           certainly
                                                           suggests that
                                                           Joshua Brown
@@ -10083,8 +9555,7 @@ Hmmmm... A few comments...
 
 Anyway,
                                                           lots to read
-                                                          in the [500
-                                                          pages](https://dms.ntsb.gov/pubdms/search/hitlist.cfm?docketID=59989&CFID=1126988&CFTOKEN=b1b9a5b7e849bb32-88C471C8-01C8-077F-A22C23E2E219927F), but
+                                                          in the [500 pages](https://dms.ntsb.gov/pubdms/search/hitlist.cfm?docketID=59989&CFID=1126988&CFTOKEN=b1b9a5b7e849bb32-88C471C8-01C8-077F-A22C23E2E219927F), but
                                                           there is also
                                                           a lot
                                                           missing.  I'm
@@ -10101,16 +9572,11 @@ interpretations of the facts reported by NTSB.   Please reach your own
 
                                                           June 19, 2017
 
-### [Amazon
-                                                          Deal for Whole
-                                                          Foods Starts a
-                                                          Supermarket
-                                                          War](https://www.nytimes.com/2017/06/17/technology/whole-foods-amazon-jeff-bezos.html?ref=business&_r=0)
+### [Amazon Deal for Whole Foods Starts a Supermarket War](https://www.nytimes.com/2017/06/17/technology/whole-foods-amazon-jeff-bezos.html?ref=business&_r=0)
 
                                                           May 28, 2017
 
-### [Rethinking
-                                                          Mobility: The
+### [Rethinking Mobility: The
 'pay-as-you-go' ca: Ride hailing, just the start](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/PDFs/Rethinking%20Mobility_GoldmanSachsMay2017.pdf)
 
                                                           May 23, 2017
@@ -10124,13 +9590,9 @@ May 18,
                                                           inaugural
                                                           Summit
                                                           starting with
-                                                          the [Adam
-                                                          Jonas video](http://linkback.morganstanley.com/web/sendlink/webapp/BMServlet?file=e72626n0-3pka-g002-b8c7-005056013600&store=0&d=1&user=ded82hm7bu07c-2&__gda__=1601757194_55d7b23ee93236041c022c4c70eacdf9#0001&ded82hm7bu07c-0&1601757194_c1c3530231514a8ac2e1c78bdf76871f&0011&ded82hm7bu07c-1&1601757194_45a5104d280513428eb57e473a5220c0)
+                                                          the [Adam Jonas video](http://linkback.morganstanley.com/web/sendlink/webapp/BMServlet?file=e72626n0-3pka-g002-b8c7-005056013600&store=0&d=1&user=ded82hm7bu07c-2&__gda__=1601757194_55d7b23ee93236041c022c4c70eacdf9#0001&ded82hm7bu07c-0&1601757194_c1c3530231514a8ac2e1c78bdf76871f&0011&ded82hm7bu07c-1&1601757194_45a5104d280513428eb57e473a5220c0)
                                                           and finishing
-                                                          with [Fred Fishkin's
-                                                          live interview
-                                                          with Wm. C
-                                                          Ford III](http://www.techstination.com/interview.jsp?interviewId=3002).
+                                                          with [Fred Fishkin's live interview with Wm. C Ford III](http://www.techstination.com/interview.jsp?interviewId=3002).
                                                           In between, [serious engagement](https://youtu.be/KvLsgRyLyZw)among over
                                                           150 leaders
                                                           from
@@ -10178,53 +9640,22 @@ May 18,
                                                           16 & 17,
                                                           2018,
                                                           Princeton NJ
-                                                          [Read
-                                                          Inaugural
-                                                          Program with
-                                                          links to
-                                                          Slides](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/SDC_Summit_2017/CommercializationSummit2017_WithLink_052117.pdf). [Fishkin Interview of Summit Summary](https://youtu.be/KvLsgRyLyZw)
-                                                          and [Interview of
-                                                          Yann LeCun](http://www.techstination.com/interview.jsp?interviewId=3001).
-                                                          [Read Inaugural
-                                                          Program with
-                                                          links to
-                                                          Slides](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/SDC_Summit_2017/CommercializationSummit2017_WithLink_052117.pdf). Hmmmm... Enormous thank you to all who
+                                                          [Read Inaugural Program with links to Slides](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/SDC_Summit_2017/CommercializationSummit2017_WithLink_052117.pdf). [Fishkin Interview of Summit Summary](https://youtu.be/KvLsgRyLyZw)
+                                                          and [Interview of Yann LeCun](http://www.techstination.com/interview.jsp?interviewId=3001).
+                                                          [Read Inaugural Program with links to Slides](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/SDC_Summit_2017/CommercializationSummit2017_WithLink_052117.pdf). Hmmmm... Enormous thank you to all who
                                                           participated.
                                                           Well done!
                                                           Alain
 
                                                           April 17, 2017
 
-### [Don't
-                                                          Worry,
-                                                          Driverless
-                                                          Cars Are
-                                                          Learning From
-                                                          Grand Theft
-                                                          Auto](https://www.bloomberg.com/news/articles/2017-04-17/don-t-worry-driverless-cars-are-learning-from-grand-theft-auto)
+### [Don't Worry, Driverless Cars Are Learning From Grand Theft Auto](https://www.bloomberg.com/news/articles/2017-04-17/don-t-worry-driverless-cars-are-learning-from-grand-theft-auto)
 
-### [Extracting
-                                                          Cognition out
-                                                          of Images for
-                                                          the Purpose of
-                                                          Autonomous
-                                                          Driving](http://orfe.princeton.edu/%7Ealaink/Theses/chenyiPhDfinal_ExtractingCognitionOutOfImagesForThePurposeOfAutonomousDriving.pdf)
+### [Extracting Cognition out of Images for the Purpose of Autonomous Driving](http://orfe.princeton.edu/%7Ealaink/Theses/chenyiPhDfinal_ExtractingCognitionOutOfImagesForThePurposeOfAutonomousDriving.pdf)
 
-[announce
-                                                          historic
-                                                          commitment of
-                                                          20 automakers
-                                                          to make
-                                                          automatic
-                                                          emergency
-                                                          braking
-                                                          standard on
-                                                          new vehicles](http://www.nhtsa.gov/About+NHTSA/Press+Releases/nhtsa-iihs-commitment-on-aeb-03172016)
+[announce historic commitment of 20 automakers to make automatic emergency braking standard on new vehicles](http://www.nhtsa.gov/About+NHTSA/Press+Releases/nhtsa-iihs-commitment-on-aeb-03172016)
 
-### [Adam
-                                                          Jonas' View on
-                                                          Autonomous
-                                                          Cars](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Videos/Adam%20Jones%20-%20Shared%20Autonomy%20-%20Morgan%20Stanley.mp4)
+### [Adam Jonas' View on Autonomous Cars](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Videos/Adam%20Jones%20-%20Shared%20Autonomy%20-%20Morgan%20Stanley.mp4)
 
 Video similar
                                                           to part of
@@ -10234,9 +9665,7 @@ Video similar
                                                           Automated
                                                           Vehicle
                                                           Symposium on
-                                                          Dec 1.  [Hmmm
-                                                          ... Watch
-                                                          Video](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Videos/Adam%20Jones%20-%20Shared%20Autonomy%20-%20Morgan%20Stanley.mp4)
+                                                          Dec 1.  [Hmmm ... Watch Video](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Videos/Adam%20Jones%20-%20Shared%20Autonomy%20-%20Morgan%20Stanley.mp4)
 especially
                                                           at the 13:12
                                                           mark.
@@ -10251,16 +9680,14 @@ especially
 
                                                           This list is
                                                           maintained by
-                                                          [Alain
-                                                          Kornhauser](mailto:alaink@princeton.edu)
+                                                          [Alain Kornhauser](mailto:alaink@princeton.edu)
                                                           and hosted by
-                                                          the [Princeton
-                                                          University](http://lists.princeton.edu)
+                                                          the [Princeton University](http://lists.princeton.edu)
 
 [Leave](https://lists.princeton.edu/cgi-bin/wa?TICKET=NzM1MjMzIGJpbm9AUFJJTkNFVE9OLkVEVSBTTUFSVERSSVZJTkdDQVJTIGluYtYkJuu3&c=SIGNOFF)
                                                           |[Re-enter](https://lists.princeton.edu/cgi-bin/wa?SUBED1=SmartDrivingCars&A=1)
 
-  [](mailto:alaink@princeton.edu)[Mailto:alaink@princeton.edu](Mailto:alaink@princeton.edu)
+  [Mailto:alaink@princeton.edu](Mailto:alaink@princeton.edu)
 
 ***************************************************************************************************************
 

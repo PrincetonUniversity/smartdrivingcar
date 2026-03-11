@@ -7,16 +7,13 @@ permalink: /2023-10-02-monday-oct.-2-2023/
 
 38th edition of the 11th year of SmartDrivingCars eLetter
 
-[Why
- Driverless Cars Are a Tough Sell](https://www.theatlantic.com/newsletters/archive/2023/09/why-driverless-cars-are-a-tough-sell/675468/)
+[Why Driverless Cars Are a Tough Sell](https://www.theatlantic.com/newsletters/archive/2023/09/why-driverless-cars-are-a-tough-sell/675468/)
 
-C. Friedersdif, Sept. 27, "Last week, [I
- asked](https://www.theatlantic.com/newsletters/archive/2023/09/are-driverless-cars-the-future/675413/) for your thoughts on self-driving cars.
+C. Friedersdif, Sept. 27, "Last week, [I asked](https://www.theatlantic.com/newsletters/archive/2023/09/are-driverless-cars-the-future/675413/) for your thoughts on self-driving cars.
 
 Replies have been edited for length and clarity….
 
-"Our century-long love affair with all things automotive dooms the driverless concept to a niche market," one reader argues…."  [Read
-  more](https://www.theatlantic.com/newsletters/archive/2023/09/why-driverless-cars-are-a-tough-sell/675468/)  Hmmmm…
+"Our century-long love affair with all things automotive dooms the driverless concept to a niche market," one reader argues…."  [Read more](https://www.theatlantic.com/newsletters/archive/2023/09/why-driverless-cars-are-a-tough-sell/675468/)  Hmmmm…
    Maybe for those who are able to "Home Depot" (or do it themselves) their mobility…For the many, many others who need a ride and can't "Do it Themselves" for whatever reason (who are responsible for about 500 million personTrips each day), a driverless vehicle
  that provides a good ride is an enormous market opportunity whose ease and affordability might even make the "Do it Themselves-er" ask "what the heck have I been doing burdening myself with the capX, parking, fueling, headaches???"  Looking beyond the market
  opportunity and societal benefits, we take issue (again) with the premise that driverless vehicles are/should be intended for private, single-family ownership. We push against the notion that these potentially-life changing modes of transport should be positioned

@@ -36,10 +36,8 @@ M,
 
 Narrated by Fred Fishkin, Available now
 
-[Just
-                Published](https://www.amazon.com/Real-Case-Driverless-Mobility-Vehicles/dp/0443236852/ref=sr_1_1?crid=1XSXZ611C2JCN&keywords=Kornhauser+sena&qid=1707095108&sprefix=kornhauser+sena%2Caps%2C76&sr=8-1&ufe=app_do%3Aamzn1.fos.18ed3cb5-28d5-4975-8bc7-93deae8f9840)!!!
-        [Go to
-                Amazon.com](https://www.amazon.com/Real-Case-Driverless-Mobility-Vehicles/dp/0443236852/ref=sr_1_1?crid=1XSXZ611C2JCN&keywords=Kornhauser+sena&qid=1707095108&sprefix=kornhauser+sena%2Caps%2C76&sr=8-1&ufe=app_do%3Aamzn1.fos.18ed3cb5-28d5-4975-8bc7-93deae8f9840)…
+[Just Published](https://www.amazon.com/Real-Case-Driverless-Mobility-Vehicles/dp/0443236852/ref=sr_1_1?crid=1XSXZ611C2JCN&keywords=Kornhauser+sena&qid=1707095108&sprefix=kornhauser+sena%2Caps%2C76&sr=8-1&ufe=app_do%3Aamzn1.fos.18ed3cb5-28d5-4975-8bc7-93deae8f9840)!!!
+        [Go to Amazon.com](https://www.amazon.com/Real-Case-Driverless-Mobility-Vehicles/dp/0443236852/ref=sr_1_1?crid=1XSXZ611C2JCN&keywords=Kornhauser+sena&qid=1707095108&sprefix=kornhauser+sena%2Caps%2C76&sr=8-1&ufe=app_do%3Aamzn1.fos.18ed3cb5-28d5-4975-8bc7-93deae8f9840)…
 
 SmartDrivingCars
         [ZoomCast 380](https://www.youtube.com/watch?v=GdqA4WfcgI4)/ [PodCast 380](https://podcasters.spotify.com/pod/show/smartdrivingcars/episodes/Smart-Driving-Cars-episode-380-with-guest-Michael-Sena-e2nsce9) – w
@@ -91,18 +89,16 @@ F.
 
 [1:04:40](https://www.youtube.com/watch?v=GdqA4WfcgI4&t=3880s)
         Florida AV Conference this coming week
- [](https://www.youtube.com/playlist?list=PLFwuZ9jMeu5uwfTZP00zHjP7eSpG34Hsm)[SmartDrivingCars ZoomCasts](https://www.youtube.com/playlist?list=PLFwuZ9jMeu5uwfTZP00zHjP7eSpG34Hsm)
+ [SmartDrivingCars ZoomCasts](https://www.youtube.com/playlist?list=PLFwuZ9jMeu5uwfTZP00zHjP7eSpG34Hsm)
 
-  [Self-driving
-          Waymo car goes wrong way into oncoming traffic in Arizona](https://www.youtube.com/watch?v=PMAjYBy2FCM)
+  [Self-driving Waymo car goes wrong way into oncoming traffic in Arizona](https://www.youtube.com/watch?v=PMAjYBy2FCM)
 
 ABC
       30 Action News, Aug 29, "A Waymo self-driving car was caught on
       camera driving the wrong way in Arizona. The women said they were
       driving near Arizona State University when a Waymo car came into
       their lane after making a turn..".…"
-       [Watch
-              video](https://www.youtube.com/watch?v=PMAjYBy2FCM)
+       [Watch video](https://www.youtube.com/watch?v=PMAjYBy2FCM)
         Hmmmm…    This is news???  That happens all the
         time in New Jersey.  Making a left and deciding that wasn't a
         good idea leads to this situation all the time at the end of
@@ -113,8 +109,7 @@ ABC
         confusion.  Does anyone in Phoenix know how to drive in the
         rain?  Alain
 
-[](https://www.buffalo.edu/grad/news.host.html/content/shared/university/news/news-center-releases/2024/08/self-driving-cars-attackers.detail.html)[UB researchers probe safety of AI in
-          driverless cars, find vulnerabilities](https://www.buffalo.edu/grad/news.host.html/content/shared/university/news/news-center-releases/2024/08/self-driving-cars-attackers.detail.html)
+[UB researchers probe safety of AI in driverless cars, find vulnerabilities](https://www.buffalo.edu/grad/news.host.html/content/shared/university/news/news-center-releases/2024/08/self-driving-cars-attackers.detail.html)
 
 L.
       Kaiser, Aug 30, "Artificial intelligence is a key technology for
@@ -145,8 +140,7 @@ L.
         powering these vehicles, especially artificial intelligence
         models, are safe from adversarial acts. This is something we're
         working on diligently at the University at Buffalo.".…"
-         [Read
-                more](https://www.buffalo.edu/grad/news.host.html/content/shared/university/news/news-center-releases/2024/08/self-driving-cars-attackers.detail.html)
+         [Read more](https://www.buffalo.edu/grad/news.host.html/content/shared/university/news/news-center-releases/2024/08/self-driving-cars-attackers.detail.html)
           Hmmmm…    Very nice work, but it sure would be
           nice if everyone just behaved instead of trying to break
           things.  Don't they have something better to do than attack an
@@ -155,20 +149,16 @@ L.
           adversarial actor as well as eliminate the challenge.  Isn't
           minding one's business enough for most folks? Alain
 
-[](https://www.youtube.com/watch?v=DmAv5cPLm6A&t=329s)[Tesla FSD 12.5 on HW3, Waymo Upgrades,
-          Cruise Downgrades, DrivePilot adds +1](https://www.youtube.com/watch?v=DmAv5cPLm6A&t=329s)
+[Tesla FSD 12.5 on HW3, Waymo Upgrades, Cruise Downgrades, DrivePilot adds +1](https://www.youtube.com/watch?v=DmAv5cPLm6A&t=329s)
 
-[](https://www.youtube.com/watch?v=DmAv5cPLm6A&t=329s)AI
+AI
       DRIVR, Aug 26, ".....
-      …"  [Read
-              more](https://www.youtube.com/watch?v=DmAv5cPLm6A&t=329s)
+      …"  [Read more](https://www.youtube.com/watch?v=DmAv5cPLm6A&t=329s)
           Hmmmm…
            Watch the video.  Alain
 
-[Is Uber's Stock Going to Crash in the
-          Next 18 Months? - 24/7 Wall St.](https://247wallst.com/investing/2024/08/31/is-ubers-stock-going-to-crash-in-the-next-18-months/)
+[Is Uber's Stock Going to Crash in the Next 18 Months? - 24/7 Wall St.](https://247wallst.com/investing/2024/08/31/is-ubers-stock-going-to-crash-in-the-next-18-months/)
 
-[](https://247wallst.com/investing/2024/08/31/is-ubers-stock-going-to-crash-in-the-next-18-months/)
 
 C.
       MacDonald, Aug 31, "Uber Technologies (NYSE:UBER) is among the top
@@ -195,15 +185,13 @@ We'll
         have to see which group is right, but my view is that Uber won't
         crash over the next 18 months, and there are a number of reasons
         for this. Let's take a more bullish angle on why Uber may be
-        poised to see continued upside over the near-term. …"  [Read
-                more](https://247wallst.com/investing/2024/08/31/is-ubers-stock-going-to-crash-in-the-next-18-months/)
+        poised to see continued upside over the near-term. …"  [Read more](https://247wallst.com/investing/2024/08/31/is-ubers-stock-going-to-crash-in-the-next-18-months/)
             Hmmmm…
              OK.  So I've been wrong on this one, too.  No
           wonder I always buy high; sell low.  So sad!
           Alain
 
- [An app called Screwber allegedly
-          scammed Uber riders out of $40M](https://www.crainsnewyork.com/transportation/screwber-app-allegedly-scammed-uber-riders)B.
+ [An app called Screwber allegedly scammed Uber riders out of $40M](https://www.crainsnewyork.com/transportation/screwber-app-allegedly-scammed-uber-riders)B.
       Ennis, Aug. 30, "Federal prosecutors in Brooklyn have accused two
       software developers in Queens of a sweeping, six-year scheme in
       which they sold shady apps — including one called Screwber — that
@@ -221,19 +209,16 @@ We'll
 The
       indictment does not explicitly name Uber, but a spokesman for the
       company, Josh Gold, confirmed to Crain's that the rideshare
-      juggernaut was the target of the alleged fraud."  [Read
-              more](https://www.crainsnewyork.com/transportation/screwber-app-allegedly-scammed-uber-riders)
+      juggernaut was the target of the alleged fraud."  [Read more](https://www.crainsnewyork.com/transportation/screwber-app-allegedly-scammed-uber-riders)
           Hmmmm…
         First of all, Uber is NOT rideSharing, but rideHailing!
         More importantly, this has been going on for 6 years and Uber
         didn't know?  What else is going on to scam riders?  Seems like
         this may just be the tip of some huge iceberg.  Alain
 
-[58 Uber Statistics For 2024 (Trending
-          Facts Included) An app called Screwber allegedly scammed Uber
-          riders out of $40M](https://www.demandsage.com/uber-statistics/)
+[58 Uber Statistics For 2024 (Trending Facts Included) An app called Screwber allegedly scammed Uber riders out of $40M](https://www.demandsage.com/uber-statistics/)
 
-[](https://www.demandsage.com/uber-statistics/)R.
+R.
       Shewale, Dec. 27, 2023, "With more than 72% of the ride-hailing
       market share belonging to Uber, it is one of the most popular
       brands worldwide. Most people prefer Uber over other ridesharing
@@ -269,8 +254,7 @@ Just
 Roughly 3.5 for each person between the ages of 6 and 85.
           Alain
 
-[](https://www.wsj.com/podcasts/google-news-update/how-will-self-driving-cars-make-ethical-decisions-on-the-road/0973741a-056b-406e-b146-73ae2a615127)[How Will Self-Driving Cars Make
-          Ethical Decisions on the Road?](https://www.wsj.com/podcasts/google-news-update/how-will-self-driving-cars-make-ethical-decisions-on-the-road/0973741a-056b-406e-b146-73ae2a615127)
+[How Will Self-Driving Cars Make Ethical Decisions on the Road?](https://www.wsj.com/podcasts/google-news-update/how-will-self-driving-cars-make-ethical-decisions-on-the-road/0973741a-056b-406e-b146-73ae2a615127)
 
 Z.
       Thomas, Aug 30, "As carmakers work to get fully self-driving cars
@@ -285,14 +269,12 @@ Z.
         move on.  This all has gone completely full circle without yet
         delivering any societal value for fear that somehow it isn't
         going to be completely perfect.  Alain
- [Self-driving pods to take passengers
-            from Atlanta airport to College Park](https://ajc.com/news/atlanta-news/self-driving-pods-to-take-passengers-from-atlanta-airport-to-college-park/62VS3HGFGRC73PYPJQA6ZGH2VU/)
+ [Self-driving pods to take passengers from Atlanta airport to College Park](https://ajc.com/news/atlanta-news/self-driving-pods-to-take-passengers-from-atlanta-airport-to-college-park/62VS3HGFGRC73PYPJQA6ZGH2VU/)
 
 S.
         Gregory, Aug 30, "Self-driving pods to take passengers from
         Atlanta airport to College Parkaffic. ".…"
-         [Read
-                more](https://ajc.com/news/atlanta-news/self-driving-pods-to-take-passengers-from-atlanta-airport-to-college-park/62VS3HGFGRC73PYPJQA6ZGH2VU/)  Hmmmm…    Personal
+         [Read more](https://ajc.com/news/atlanta-news/self-driving-pods-to-take-passengers-from-atlanta-airport-to-college-park/62VS3HGFGRC73PYPJQA6ZGH2VU/)  Hmmmm…    Personal
           Rapid Transit is back!!  😎
           This was a good idea 50 years ago.  It is still a good idea
           today. Maybe it's time for me to call it quits. Alain

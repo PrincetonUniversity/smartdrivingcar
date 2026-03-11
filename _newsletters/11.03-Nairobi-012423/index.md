@@ -11,8 +11,7 @@ Click or tap if you trust this link.">Tuesday,
 3rd
 edition of the 11th year of SmartDrivingCars eLetter
 
-    [Riding
- Nairobi's Craziest Matatu, Kenya](https://www.youtube.com/watch?v=pPkKX41M674)
+    [Riding Nairobi's Craziest Matatu, Kenya](https://www.youtube.com/watch?v=pPkKX41M674)
 
 J. Billam, Feb. 11 '22, "I show my wild experience riding Nairobi's Craziest
 [Matatu](https://en.wikipedia.org/wiki/Matatu) (local bus) bound for Rongai in Kenya's capital city… "
@@ -21,8 +20,7 @@ If we aren't going to have
 [Moves-style Autonomous Transit Networks](https://www.cartsmobility.com/blog/a-new-deployment-framework-of-autonomous-vehicles), then [Matatus](https://blog.myride.co.ke/all-nairobi-matatu-routes-at-your-fingertips/) may well be  the answer to safe, equitable, affordable, sustainable, and colorful mobility.  Millions take them every day in Nairobi, Kenya.  Amazing. J
  Alain
 
-[All
- Nairobi Matatu Routes at your fingertips!](https://blog.myride.co.ke/all-nairobi-matatu-routes-at-your-fingertips/)
+[All Nairobi Matatu Routes at your fingertips!](https://blog.myride.co.ke/all-nairobi-matatu-routes-at-your-fingertips/)
 
 " Have you ever found yoursel in town with no idea how to get to a certain destination using Public Transport and you end up calling friends or asking strangers where a certain Matatu stage is?
  You are not alone!! Thousands of Nairobians go through this daily!
@@ -41,10 +39,9 @@ Just returned from a trip of a life time to Kenya.  Absolutely fantastic experi
 
 [fishkin@techstination.com](mailto:fishkin@techstination.com)  732-928-4691
 
-[Technical
- support provided by:](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.cartsmobility.com%2F&data=05%7C01%7Calaink%40princeton.edu%7Cef1a2eb123774e168f0408daf571bb1b%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638092166077066968%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=taxvqW3PXw9HdBws4TY9O5RGh3YuLOj48KckWLmW7j8%3D&reserved=0)  [CARTSmobility.com](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.cartsmobility.com%2F&data=05%7C01%7Calaink%40princeton.edu%7Cef1a2eb123774e168f0408daf571bb1b%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638092166077066968%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=taxvqW3PXw9HdBws4TY9O5RGh3YuLOj48KckWLmW7j8%3D&reserved=0)
+[Technical support provided by:](https://www.cartsmobility.com/)  [CARTSmobility.com](https://www.cartsmobility.com/)
  a 501c3 dedicated to Safe & High-Quality Mobility for All.  Tax-deductible donations are most appreciated @
-[Support CARTS' mission to provide safe & high-quality mobility for all](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.cartsmobility.com%2Fdonate&data=05%7C01%7Calaink%40princeton.edu%7Cef1a2eb123774e168f0408daf571bb1b%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C638092166077066968%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=8NirhFuKyYh7UZs3NpygeAwjMGcgoYSN9yYciGMJyrs%3D&reserved=0)
+[Support CARTS' mission to provide safe & high-quality mobility for all](https://www.cartsmobility.com/donate)
 
 ### Save the Date:
 

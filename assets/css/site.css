@@ -136,6 +136,8 @@ section:last-of-type{margin-bottom:0}
 }
 .newsletter-issue header h2{margin:0 0 5px;font-size:2rem;font-weight:600}
 .newsletter-issue .meta{color:#777;margin:0 0 30px;font-size:.9rem}
+.issue-body a{color:#2ea3f2;text-decoration:none}
+.issue-body a:hover,.issue-body a:focus{text-decoration:underline}
 .issue-pagination{display:flex;justify-content:space-between;margin:60px 0 0}
 .issue-pagination a{color:#2ea3f2;text-decoration:none;font-weight:600}
 .issue-pagination a:hover,.issue-pagination a:focus{text-decoration:underline}

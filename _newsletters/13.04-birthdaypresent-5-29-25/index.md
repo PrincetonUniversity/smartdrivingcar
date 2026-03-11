@@ -11,9 +11,7 @@ BirthdayPresent -5/29/25
 4th
           edition of the 13th year of SmartDrivingCars eLetter
 
-           [Tesla stock higher as robotaxi
-              'golden age' begins with June 12 start date, Musk
-              officially departing D.C.](https://finance.yahoo.com/news/tesla-stock-higher-as-robotaxi-golden-age-begins-with-june-12-start-date-musk-officially-departing-dc-124545658.html)
+           [Tesla stock higher as robotaxi 'golden age' begins with June 12 start date, Musk officially departing D.C.](https://finance.yahoo.com/news/tesla-stock-higher-as-robotaxi-golden-age-begins-with-june-12-start-date-musk-officially-departing-dc-124545658.html)
 
 P.
         Subramanian, May 29, "esla ([TSLA](https://finance.yahoo.com/quote/TSLA))
@@ -34,8 +32,7 @@ Per
           Thank you and thank you for leaving Washington.  This is much
           easier and much better.  😊  Alain
 
-[The Real Case for Driverless
-              Mobility](https://www.audible.com/pd/The-Real-Case-for-Driverless-Mobility-Audiobook/B0D9PJY6MW?eac_link=ZoLH4Nc4tFbA&ref=web_search_eac_asin_1&eac_selected_type=asin&eac_selected=B0D9PJY6MW&qid=Jjuo8XtoL1&eac_id=142-9434497-3046660_Jjuo8XtoL1&sr=1-1)
+[The Real Case for Driverless Mobility](https://www.audible.com/pd/The-Real-Case-for-Driverless-Mobility-Audiobook/B0D9PJY6MW?eac_link=ZoLH4Nc4tFbA&ref=web_search_eac_asin_1&eac_selected_type=asin&eac_selected=B0D9PJY6MW&qid=Jjuo8XtoL1&eac_id=142-9434497-3046660_Jjuo8XtoL1&sr=1-1)
 
 Narrated
             by Fred Fishkin, Available now
@@ -45,7 +42,7 @@ Narrated
            [Go to Amazon.com](https://www.amazon.com/Real-Case-Driverless-Mobility-Vehicles/dp/0443236852/ref=sr_1_1?crid=1XSXZ611C2JCN&keywords=Kornhauser+sena&qid=1707095108&sprefix=kornhauser+sena%2Caps%2C76&sr=8-1&ufe=app_do%3Aamzn1.fos.18ed3cb5-28d5-4975-8bc7-93deae8f9840)…
 
 SmartDrivingCars
-      [ZoomCast 389](https://www.youtube.com/watch?v=Eow4Qg5qogE)[](https://www.youtube.com/watch?v=Eow4Qg5qogE)/
+      [ZoomCast 389](https://www.youtube.com/watch?v=Eow4Qg5qogE)/
       PodCast
                   389 –
       Tesla,
@@ -253,8 +250,7 @@ F.
 
 [SmartDrivingCars ZoomCasts](https://www.youtube.com/playlist?list=PLFwuZ9jMeu5uwfTZP00zHjP7eSpG34Hsm)
 
- [Farmers fuming over California's
-              ban on driverless tractors, other robots](https://www.nbcbayarea.com/news/local/autonomous-farming-agriculture-equipment-california/3878319/)
+ [Farmers fuming over California's ban on driverless tractors, other robots](https://www.nbcbayarea.com/news/local/autonomous-farming-agriculture-equipment-california/3878319/)
 
 M.
         Shaban, May 28, "From flame-wielding robots to driverless
@@ -283,14 +279,12 @@ When
         USDA Census of Agriculture."    [Read more](https://www.nbcbayarea.com/news/local/autonomous-farming-agriculture-equipment-california/3878319/)
         Hmmmm… It's
           crazy.  It Doesn't make any sense!
-         [C'mon California!](https://www.youtube.com/watch?v=dC98ZZHHkAc)[&n!
- bsp;](https://www.youtube.com/watch?v=dC98ZZHHkAc)It
+         [C'mon California!](https://www.youtube.com/watch?v=dC98ZZHHkAc)[&n! bsp;](https://www.youtube.com/watch?v=dC98ZZHHkAc)It
           is way more dangerous being "at the controls" than at the
           comfort of a remote oversight location. Can't OSHA help here?
           Alain
 
-[Santa Monica residents' battle against Waymo beeping
-              escalates](https://ktla.com/news/local-news/santa-monica-residents-battle-against-waymo-beeping-escalates/)
+[Santa Monica residents' battle against Waymo beeping escalates](https://ktla.com/news/local-news/santa-monica-residents-battle-against-waymo-beeping-escalates/)
 
 C.
         Kisla, May 29, "TSanta Monica residents are reportedly stepping
@@ -311,8 +305,7 @@ C.
           you get this. Waymo, your business case may well be terribly
           flawed! Alain
 
-        [Report shows Autopilot is 10x
-              better than humans](https://www.teslarati.com/tesla-vehicle-safety-report-that-shows-autopilot-10-times-better-than-humans/#google_vignette)
+        [Report shows Autopilot is 10x better than humans](https://www.teslarati.com/tesla-vehicle-safety-report-that-shows-autopilot-10-times-better-than-humans/#google_vignette)
 
 J.
         Klender, April 29, "Tesla has officially released its Vehicle
@@ -335,8 +328,7 @@ Tesla
 
 It
         is also a big improvement from the
-      [5.94 million miles it recorded
-            between accidents in Q4](https://www.teslarati.com/tesla-posts-q4-2024-vehicle-safety-report/),
+      [5.94 million miles it recorded between accidents in Q4](https://www.teslarati.com/tesla-posts-q4-2024-vehicle-safety-report/),
         but it is important to note that the last quarter of each year
         has shown to have lower numbers than others. This can mostly be
         attributed to weather conditions.
@@ -358,13 +350,11 @@ This
           public policy was really interested in safety, use of
           Autopilot would be encouraged, if not mandated. Alain
 
-        [Humans step up as Texas steps back
-              from autonomous trucking](https://electrek.co/2025/05/24/humans-step-up-as-texas-steps-back-from-autonomous-trucking/)
+        [Humans step up as Texas steps back from autonomous trucking](https://electrek.co/2025/05/24/humans-step-up-as-texas-steps-back-from-autonomous-trucking/)
 
 J.
         Borras, May 24, "Texas technology firm
-      [Aurora made headlines earlier this
-              month](https://electrek.co/2025/05/01/aurora-first-company-deploy-class-8-self-driving-trucks-us-public-roads-video/) by
+      [Aurora made headlines earlier this month](https://electrek.co/2025/05/01/aurora-first-company-deploy-class-8-self-driving-trucks-us-public-roads-video/) by
         launching the first fully autonomous freight service in the US
         – but those celebrations may have been premature. According to
         the company's CEO, human operators are back in the saddle.
@@ -374,8 +364,7 @@ In
         said the decision to put a human operator back behind the wheel
         of its tech-boosted Peterbilt Class 8 semi trucks was a result
         of pressure from the truck manufacturer's parent company PACCAR.
-      [PACCAR apparently wanted a human in
-              place](https://electrek.co/2025/05/03/e-quipment-highlight-kenworth-t880e-vocational-electric-semi-truck/),
+      [PACCAR apparently wanted a human in place](https://electrek.co/2025/05/03/e-quipment-highlight-kenworth-t880e-vocational-electric-semi-truck/),
         "because of certain prototype parts in their base vehicle
         platform."
 
@@ -414,8 +403,7 @@ The
         re-introduction of human operators comes just as Texas State
         lawmakers are reviewing House Bill 4402 – a proposed law just
         passed out of the Texas House Committee on Transportation and
-        would require trained human operators in autonomous vehicles, [effectively banning fully self
-              driving semi trucks in Texas](https://electrek.co/2025/05/23/tesla-full-self-driving-veers-off-road-flips-car-scary-crash-driver-couldnt-prevent/).
+        would require trained human operators in autonomous vehicles, [effectively banning fully self driving semi trucks in Texas](https://electrek.co/2025/05/23/tesla-full-self-driving-veers-off-road-flips-car-scary-crash-driver-couldnt-prevent/).
 
 ...."
       [Read more](https://electrek.co/2025/05/24/humans-step-up-as-texas-steps-back-from-autonomous-trucking/)
@@ -431,8 +419,7 @@ The
           looking over their shoulder ([Tesla Semi Testing FSD/Autopilot?](https://www.youtube.com/watch?v=PqYme4wpMmU))
            will give Chris a call.    Alain
 
-        [Driverless Semi Trucks Are Here,
-              With Little Regulation and Big Promises](https://www.nytimes.com/2025/05/27/business/driverless-semi-trucks-aurora-innovation.html)
+        [Driverless Semi Trucks Are Here, With Little Regulation and Big Promises](https://www.nytimes.com/2025/05/27/business/driverless-semi-trucks-aurora-innovation.html)
 
 T.
         Balk, May 27, "The semi truck rumbled down the congested,
@@ -456,8 +443,7 @@ Last
           Unfortunately, the rest of the article
           is about imaginary fear. So disappointing.  Alain
 
- [Waymo to begin testing self-driving
-              cars in San Antonio, Houston - Spectrum News](https://spectrumlocalnews.com/tx/san-antonio/news/2025/05/28/waymo-to-begin-testing-self-driving-cars-in-san-antonio--houston)
+ [Waymo to begin testing self-driving cars in San Antonio, Houston - Spectrum News](https://spectrumlocalnews.com/tx/san-antonio/news/2025/05/28/waymo-to-begin-testing-self-driving-cars-in-san-antonio--houston)
 
 K.
         Garrett, May 28, ".The wave of self-driving cars doesn't seem to
@@ -486,8 +472,7 @@ While
           never
         Share rides.) Alain
 
-        [Tesla Is Hiring Humans To Control
-              Its 'Self-Driving' Robotaxis](https://insideevs.com/news/760863/tesla-hiring-humans-to-control-robotaxis/)
+        [Tesla Is Hiring Humans To Control Its 'Self-Driving' Robotaxis](https://insideevs.com/news/760863/tesla-hiring-humans-to-control-robotaxis/)
 
 S.
         Kothari, May 27, "After promising self-driving cars nearly every
@@ -518,8 +503,7 @@ Adam
           foreseeable future.  Humans are always "in the loop"! Some
           body has to be where the buck stops.  Alain
 
-        [Legislation aims to jump-start
-              rollout of driverless vehicles](https://www.yahoo.com/news/legislation-aims-jump-start-rollout-185653915.html?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAAEiQlcldsGPWrBO0iXqBEqTDl5rnjEzIMIgJd2Igv4fkw4VNqgrsQgFFJdwvQWeLG_WNEj_6zQ1fYTb62nKHlwJ9U9EtRXAJPi9vtCGjIWxnqqZE2-V56P5iHJE_VnJD4hxvq1J4gi2umkugDNQCVqiIvgXrxheAty-ynd5bIc88)
+        [Legislation aims to jump-start rollout of driverless vehicles](https://www.yahoo.com/news/legislation-aims-jump-start-rollout-185653915.html?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAAEiQlcldsGPWrBO0iXqBEqTDl5rnjEzIMIgJd2Igv4fkw4VNqgrsQgFFJdwvQWeLG_WNEj_6zQ1fYTb62nKHlwJ9U9EtRXAJPi9vtCGjIWxnqqZE2-V56P5iHJE_VnJD4hxvq1J4gi2umkugDNQCVqiIvgXrxheAty-ynd5bIc88)
 
 J.
         Gallaher, May 27, New legislation introduced in the Senate
@@ -536,8 +520,7 @@ The
 "For
         nearly a decade, Washington has talked about autonomous vehicles
         without meaningful action," remarked Sen. Cynthia Lummis,
-        R-Wyo., when she introduced her bill, the[Autonomous Vehicle Advancement Act
-            of 2025](https://www.lummis.senate.gov/wp-content/uploads/Autonomous-Vehicle-Acceleration-Act.pdf),
+        R-Wyo., when she introduced her bill, the[Autonomous Vehicle Advancement Act of 2025](https://www.lummis.senate.gov/wp-content/uploads/Autonomous-Vehicle-Acceleration-Act.pdf),
         earlier this month…."
       [Read more](https://www.yahoo.com/news/legislation-aims-jump-start-rollout-185653915.html?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAAEiQlcldsGPWrBO0iXqBEqTDl5rnjEzIMIgJd2Igv4fkw4VNqgrsQgFFJdwvQWeLG_WNEj_6zQ1fYTb62nKHlwJ9U9EtRXAJPi9vtCGjIWxnqqZE2-V56P5iHJE_VnJD4hxvq1J4gi2umkugDNQCVqiIvgXrxheAty-ynd5bIc88)
         Hmmmm…
@@ -546,10 +529,7 @@ The
           rather than kill it like the Texas legislation aimed at
           killing it! Alain
 
-        [Warren Buffett Was Asked If
-              Self-Driving Cars Will Shift Insurance To 'Product
-              Liability' — 'There's No Question... It's Going to Change
-              Dramatically'](https://finance.yahoo.com/news/warren-buffett-asked-self-driving-143100768.html)
+        [Warren Buffett Was Asked If Self-Driving Cars Will Shift Insurance To 'Product Liability' — 'There's No Question... It's Going to Change Dramatically'](https://finance.yahoo.com/news/warren-buffett-asked-self-driving-143100768.html)
 
 I.
         Grace, May 25, "As
@@ -593,11 +573,9 @@ In
         HandyRides 😊.
           Alain
 
-      [Exploring the Benefits of
-              Multimodal Sensor Fusion in Autonomous Driving:](https://www.dropbox.com/scl/fi/ep3g2ktz5np9exgcumc0g/Doniger-Sammy.pdf?rlkey=wreza354kdvcz7sgpd078283y&dl=0)
+      [Exploring the Benefits of Multimodal Sensor Fusion in Autonomous Driving:](https://www.dropbox.com/scl/fi/ep3g2ktz5np9exgcumc0g/Doniger-Sammy.pdf?rlkey=wreza354kdvcz7sgpd078283y&dl=0)
 
-[A Comparative Study of Camera and
-              LiDAR Using Transformer Architectures for Object Detection](https://www.dropbox.com/scl/fi/ep3g2ktz5np9exgcumc0g/Doniger-Sammy.pdf?rlkey=wreza354kdvcz7sgpd078283y&dl=0)
+[A Comparative Study of Camera and LiDAR Using Transformer Architectures for Object Detection](https://www.dropbox.com/scl/fi/ep3g2ktz5np9exgcumc0g/Doniger-Sammy.pdf?rlkey=wreza354kdvcz7sgpd078283y&dl=0)
 
 Samantha
         Doniger,  May 2025, "Accurate and robust object detection is
@@ -644,8 +622,7 @@ Through
       Hmmmm…
           This is a really good senior thesis.  Alain
 
-      [An Analysis of MOVES Style
-              Transportation in New York City](https://www.dropbox.com/scl/fi/eh8bae1fih1btpihhb6vw/Ginder_Koby-Senior_Thesis_vFinal.pdf?rlkey=zx12jkxmyi9mjrznor5fqw8eb&e=1&dl=0)
+      [An Analysis of MOVES Style Transportation in New York City](https://www.dropbox.com/scl/fi/eh8bae1fih1btpihhb6vw/Ginder_Koby-Senior_Thesis_vFinal.pdf?rlkey=zx12jkxmyi9mjrznor5fqw8eb&e=1&dl=0)
 
 Koby
         Ginder, May 2025, "Today, we stand at a critical moment in the
@@ -676,9 +653,7 @@ Koby
       Hmmmm…
           This is a really good senior thesis.  Alain
 
-      [Pardon my French: Assessing the
-              Potential for Data Centers in Rural Quebec with Machine
-              Learning Models](https://www.dropbox.com/scl/fi/b97rcwugx2hi9ujmz8y6b/BERRETTA_Tyler_ORFE_SENIOR_THESIS.pdf?rlkey=d30zm46zg3xaex7q2ccg4exos&dl=0)
+      [Pardon my French: Assessing the Potential for Data Centers in Rural Quebec with Machine Learning Models](https://www.dropbox.com/scl/fi/b97rcwugx2hi9ujmz8y6b/BERRETTA_Tyler_ORFE_SENIOR_THESIS.pdf?rlkey=d30zm46zg3xaex7q2ccg4exos&dl=0)
 
 Tyler
         Barretta,  May 2025, "This thesis aims to explore the
@@ -710,8 +685,7 @@ Tyler
       Hmmmm…
           This is a really creative senior thesis.  Alain
 
-        Draft… [Orf467F24: Investigation of
-              MOVES-Style Mobility Deployments](https://www.dropbox.com/scl/fi/zxmw5iip1v3p9mv8416d0/Orf467F24-Compilation-of-Final-MOVES-style-Mobility-Reports.docx?rlkey=7yr746atariyj24ytagqbjwvu&dl=0)…
+        Draft… [Orf467F24: Investigation of MOVES-Style Mobility Deployments](https://www.dropbox.com/scl/fi/zxmw5iip1v3p9mv8416d0/Orf467F24-Compilation-of-Final-MOVES-style-Mobility-Reports.docx?rlkey=7yr746atariyj24ytagqbjwvu&dl=0)…
         Draft
 
 Alain
@@ -729,9 +703,6 @@ Alain
 
                                 May 27, 2024
 
-[](https://kornhauser.princeton.edu/real-case)
-
-[](https://www.princeton.edu/)
 
 ***************************************************************************************************************
 

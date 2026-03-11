@@ -11,10 +11,7 @@ permalink: /2017-03-13-2017-03-13/
 
 ###
 
-### [Intel
-                                      to Buy Mobileye, Maker of Sensors
-                                      for Self-Driving Cars, for $15.3
-                                      Billion](https://www.nytimes.com/2017/03/13/business/dealbook/intel-mobileye-autonomous-cars-israel.html?_r=0)
+### [Intel to Buy Mobileye, Maker of Sensors for Self-Driving Cars, for $15.3 Billion](https://www.nytimes.com/2017/03/13/business/dealbook/intel-mobileye-autonomous-cars-israel.html?_r=0)
 
                                   M. Scott, Mar 13, "Intel agreed on
                                   Monday to buy Mobileye, an Israeli
@@ -38,19 +35,14 @@ Intel's deal for Mobileye seems to
                                     would continue investing in the
                                     autonomous-driving industry, a
                                     sector that it said would be worth
-                                    about $70 billion by 2030..."  [Read
-                                      more](https://www.nytimes.com/2017/03/13/business/dealbook/intel-mobileye-autonomous-cars-israel.html?_r=0)Hmmm...
+                                    about $70 billion by 2030..."  [Read more](https://www.nytimes.com/2017/03/13/business/dealbook/intel-mobileye-autonomous-cars-israel.html?_r=0)Hmmm...
                                         The hits keep coming!
-                                        Friday..the [California
-                                          Regs welcoming
+                                        Friday..the [California Regs welcoming
 Driverless](https://www.dmv.ca.gov/portal/dmv/detail/vr/autonomous/auto);
                                         Monday... this.  Tomorrow...
                                         nVIDIA????   Alain
 
-### [Robot
-                                      cars — with no human driver —
-                                      could hit California roads next
-                                      year](http://www.latimes.com/business/autos/la-fi-hy-dmv-autonomous-regulations-20170310-story.html)
+### [Robot cars — with no human driver — could hit California roads next year](http://www.latimes.com/business/autos/la-fi-hy-dmv-autonomous-regulations-20170310-story.html)
 
                                   R. Mitchell, Mar 10, "California is
                                   back on the map as a state that's
@@ -61,14 +53,12 @@ Driverless](https://www.dmv.ca.gov/portal/dmv/detail/vr/autonomous/auto);
                                   headed toward California streets and
                                   highways starting in 2018...
 
-[The
-                                    regulations](https://www.dmv.ca.gov/portal/dmv/detail/vr/autonomous/auto) lay out "a clear
+[The regulations](https://www.dmv.ca.gov/portal/dmv/detail/vr/autonomous/auto) lay out "a clear
                                   path for future deployment of
                                   autonomous vehicles" in California,
                                   said Bernard Soriano, deputy director
                                   at the Department of Motor
-                                  Vehicles...." [Read
-                                    more](http://www.latimes.com/business/autos/la-fi-hy-dmv-autonomous-regulations-20170310-story.html) Hmmm...
+                                  Vehicles...." [Read more](http://www.latimes.com/business/autos/la-fi-hy-dmv-autonomous-regulations-20170310-story.html) Hmmm...
                                       Congratulations Bernard!  This is
                                       fantastic news on the road to
                                       providing high-quality mobility
@@ -89,7 +79,7 @@ Driverless](https://www.dmv.ca.gov/portal/dmv/detail/vr/autonomous/auto);
 
 [Unsubscribe](https://lists.princeton.edu/cgi-bin/wa?TICKET=NzM1MjMzIGJpbm9AUFJJTkNFVE9OLkVEVSBTTUFSVERSSVZJTkdDQVJTIGluYtYkJuu3&c=SIGNOFF) |[Re-subscribe](https://lists.princeton.edu/cgi-bin/wa?SUBED1=SmartDrivingCars&A=1)
 
-  [](Mailto:alaink@princeton.edu)[Mailto:alaink@princeton.edu](Mailto:alaink@princeton.edu) [](Mailto:alaink@princeton.edu)
+  [Mailto:alaink@princeton.edu](Mailto:alaink@princeton.edu) 
 
                                                           This list is
                                                           maintained by

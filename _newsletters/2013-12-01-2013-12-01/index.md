@@ -7,9 +7,7 @@ permalink: /2013-12-01-2013-12-01/
 
 December 1, 2013
 
-## [Amazon's
-
-            Jeff Bezos'86 looks to the future](http://www.cbsnews.com/news/amazons-jeff-bezos-looks-to-the-future/)
+## [Amazon's Jeff Bezos'86 looks to the future](http://www.cbsnews.com/news/amazons-jeff-bezos-looks-to-the-future/)
 
 Sunday, December 1, 2013  CBS New, 60 Minutes "...
           But during our visit to Amazon's campus in Seattle, Bezos kept
@@ -40,16 +38,12 @@ Sunday, December 1, 2013  CBS New, 60 Minutes "...
 
           Charlie Rose: Wow!
 
-          ... [Read
-
-            more](http://www.cbsnews.com/news/amazons-jeff-bezos-looks-to-the-future/)  See video starting
+          ... [Read more](http://www.cbsnews.com/news/amazons-jeff-bezos-looks-to-the-future/)  See video starting
 
               @ 11:00.  Beyond SmartDriving Cars?  Very interesting!
               Alain
 
-## [](http://mashable.com/) [Military's
-
-            Driverless Vehicle Plans Languish Amid Technology Woes](http://mashable.com/2013/11/25/military-unmanned-vehicles/)
+##  [Military's Driverless Vehicle Plans Languish Amid Technology Woes](http://mashable.com/2013/11/25/military-unmanned-vehicles/)
 
         By Colin Daileda Nov. 26, 2013.  "In 2003, members of the U.S.
         Congress and military hatched a plan, called Future Combat
@@ -70,18 +64,14 @@ Sunday, December 1, 2013  CBS New, 60 Minutes "...
         driverless cars from companies that range from Google to
         Volkswagen that all want this out there in the early 2020s,"
         Singer said. "So you'll have this tech proliferated on the
-        civilian side," and not on the military side. "  [Read
-
-          more](http://mashable.com/2013/11/25/military-unmanned-vehicles/).  Interesting.  Another
+        civilian side," and not on the military side. "  [Read more](http://mashable.com/2013/11/25/military-unmanned-vehicles/).  Interesting.  Another
             example of technology transfer from the military to the
             consumer.  From ARPAnet to the WorldWideWeb and GPS to
             Turn-by-Turn navigation and location-based-services.  Now
             from DARPA Grand Challenges to SmartDrivingCars and
             autonomousTaxi Transit Services.   Alain
 
-## [L.A.
-
-            Auto Show Wrap-Up: Self-Driving Cars Steer Future Shock](http://www.hollywoodreporter.com/news/la-auto-show-wrap-up-659700)
+## [L.A. Auto Show Wrap-Up: Self-Driving Cars Steer Future Shock](http://www.hollywoodreporter.com/news/la-auto-show-wrap-up-659700)
 
         "... At a series of panels held during the show, executives,
         industry analysts and academics were unanimous in their
@@ -94,8 +84,7 @@ Sunday, December 1, 2013  CBS New, 60 Minutes "...
         vehicles arriving by 2020..." [Read more](http://www.hollywoodreporter.com/news/la-auto-show-wrap-up-659700) Continuing the trend
             that started at the Frankfurt Auto Show.  Alain
 
-## [7
-            cool or disturbing things about high-tech cars](http://www.consumerreports.org/cro/news/2013/11/7-cool-or-disturbing-things-about-high-tech-cars/index.htm)
+## [7 cool or disturbing things about high-tech cars](http://www.consumerreports.org/cro/news/2013/11/7-cool-or-disturbing-things-about-high-tech-cars/index.htm)
 
         Published: November 20, 2013 04:45 PM  "Experts from the auto,
         cell-phone, and other high-tech industries gathered in Los
@@ -103,9 +92,7 @@ Sunday, December 1, 2013  CBS New, 60 Minutes "...
         better integrate cars and smart phones, develop self-driving
         cars, reduce driver distraction, and other tech-driven
         topics...Below are some of coolest, and sometimes disturbing,
-        insights..."  [Read
-
-          more](http://www.consumerreports.org/cro/news/2013/11/7-cool-or-disturbing-things-about-high-tech-cars/index.htm)
+        insights..."  [Read more](http://www.consumerreports.org/cro/news/2013/11/7-cool-or-disturbing-things-about-high-tech-cars/index.htm)
 
 Hmmm...TravelTainment, whose
             fundamental focused is on grabbing the driver's attention,
@@ -118,8 +105,7 @@ Hmmm...TravelTainment, whose
 
 ##
 
-## [Toyota Rejects
-            Autonomous Vehicles](http://www.motoring.com.au/news/2013/toyota/toyota-rejects-autonomous-vehicles-40259)
+## [Toyota Rejects Autonomous Vehicles](http://www.motoring.com.au/news/2013/toyota/toyota-rejects-autonomous-vehicles-40259)
 
         "Toyota has bucked the trend and declared it is not interested
         in developing a driver-less car despite demonstrating a slew of
@@ -163,9 +149,7 @@ Hmmm...TravelTainment, whose
         "The system is for long and high-speed drives and we are using
         automatic functionality to relieve the stress of driving in
 
-        that environment," insisted Kuzamaki.  [Read
-
-          more](http://www.motoring.com.au/news/2013/toyota/toyota-rejects-autonomous-vehicles-40259)
+        that environment," insisted Kuzamaki.  [Read more](http://www.motoring.com.au/news/2013/toyota/toyota-rejects-autonomous-vehicles-40259)
 
             Hmmm.  Seems like Toyota realizes that "safety" doesn't
             really resonate with consumers, but "relieving
@@ -184,17 +168,13 @@ Hmmm...TravelTainment, whose
             yet uttered the thought of enabling multi-tasking which is
             what some (many, most?) drivers really want to do.  -  Alain
 
-## [House hearing on
-          driverless cars](http://transport.house.gov/calendar/eventsingle.aspx?EventID=357149)
+## [House hearing on driverless cars](http://transport.house.gov/calendar/eventsingle.aspx?EventID=357149)
 
                 November 22, 2013 issue of
-            SmartDrivingCars. [Read
-
-              more from others](http://news.google.com/news/story?ncl=http://thehill.com/blogs/transportation-report/automobiles/190756-lawmakers-question-safety-of-driverless-cars&hl=en&geo=US) about the hearing.
+            SmartDrivingCars. [Read more from others](http://news.google.com/news/story?ncl=http://thehill.com/blogs/transportation-report/automobiles/190756-lawmakers-question-safety-of-driverless-cars&hl=en&geo=US) about the hearing.
             Alain
 
-## [ITS Podcast: Daimler and
-            KIT Berta Benz Route Autonomous Drive](http://itsp.cicei.com/?p=348)
+## [ITS Podcast: Daimler and KIT Berta Benz Route Autonomous Drive](http://itsp.cicei.com/?p=348)
 
         "...a three way interview with scientists from Karlsruhe
         Technical University and Daimler on autonomous driving through
@@ -202,21 +182,10 @@ Hmmm...TravelTainment, whose
         minisection, this time about the autonomous electric four seats
         pods they are using in London's Heathrow airport, and their
         plans on using them on an actual British city, Milton
-        Keynes..."  [Listen
-
-          more](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/PodCasts/ITS_Podcast_Episode_8_96.mp3) [Read
-
-          more](http://www.kit.edu/downloads/pi/KIT_PI_2013_114_engl_Fully_Automatic_-_Following_the_Tracks_of_Bertha_Benz.pdf) [Video
-
-          of MB Autonomous Concept Car](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Videos/MB_Autonomous_TV_Footage_Long-distanceDrive.mp4) driving the [Bertha
-
-          Benz Memorial Route](http://en.wikipedia.org/wiki/Bertha_Benz_Memorial_Route)SmartDrivingCars
+        Keynes..."  [Listen more](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/PodCasts/ITS_Podcast_Episode_8_96.mp3) [Read more](http://www.kit.edu/downloads/pi/KIT_PI_2013_114_engl_Fully_Automatic_-_Following_the_Tracks_of_Bertha_Benz.pdf) [Video of MB Autonomous Concept Car](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Videos/MB_Autonomous_TV_Footage_Long-distanceDrive.mp4) driving the [Bertha Benz Memorial Route](http://en.wikipedia.org/wiki/Bertha_Benz_Memorial_Route)SmartDrivingCars
 
               9, 2013.  Also, a history of MB SmartDrivingCar
-            efforts can be found at ["A
-
-                  Short History of Mercedes-Benz Autonomous Driving
-                  Technology"](http://www.autoevolution.com/news/a-short-history-of-mercedes-benz-autonomous-driving-technology-68148.html).  Alain
+            efforts can be found at ["A Short History of Mercedes-Benz Autonomous Driving Technology"](http://www.autoevolution.com/news/a-short-history-of-mercedes-benz-autonomous-driving-technology-68148.html).  Alain
 
 # Call for Papers &
             Abstracts:
@@ -230,18 +199,13 @@ Hmmm...TravelTainment, whose
         Design Standing Committee is organizing a full session on
         Autonomous Vehicles and invites the SmartDrivingCars community
         to submit abstracts on this topic relevant to Geometric Design.
-        Abstract deadline is Dec. 31, 2013.  [Call
-
-          for Papers](http://tac-atc.ca/english/annualconference/callforpapers/) ;  [Prospectus](http://tac-atc.ca/english/annualconference/callforpapers/prospectus.pdf)
+        Abstract deadline is Dec. 31, 2013.  [Call for Papers](http://tac-atc.ca/english/annualconference/callforpapers/) ;  [Prospectus](http://tac-atc.ca/english/annualconference/callforpapers/prospectus.pdf)
 
 # Calendar of Upcoming
           Events:
 
-[](http://transportation.njit.edu/itsnj/ITS_Information_Packet.pdf)
 
-## [2013
-
-              ITS New Jersey Annual Meeting](http://transportation.njit.edu/itsnj/ITS_Information_Packet.pdf)
+## [2013 ITS New Jersey Annual Meeting](http://transportation.njit.edu/itsnj/ITS_Information_Packet.pdf)
 
 ##
 
@@ -250,15 +214,12 @@ Hmmm...TravelTainment, whose
 December 16, 2013,   East
               Rutherford, NJ 07073
 
-[Bernie
-            Wagenblast interview of Dennis Motiani](http://www.buzzsprout.com/18472/133642)
+[Bernie Wagenblast interview of Dennis Motiani](http://www.buzzsprout.com/18472/133642)
 
 [http://www.cs.cmu.edu/%7ECVAD2013/](http://www.cs.cmu.edu/%7ECVAD2013/)
 
-[](http://www.cs.cmu.edu/%7ECVAD2013/)
 
-## [First International Workshop on Computer
-          Vision for Autonomous Driving](http://www.cs.cmu.edu/%7ECVAD2013/)
+## [First International Workshop on Computer Vision for Autonomous Driving](http://www.cs.cmu.edu/%7ECVAD2013/)
 
 ### [Sydney, Australia     December 2, 2013](http://www.cs.cmu.edu/%7ECVAD2013/)
 
@@ -266,25 +227,20 @@ December 16, 2013,   East
 
           November 22, 2013
 
-## [Auto Correct: Has the
-        self-driving car at last arrived?](http://www.newyorker.com/reporting/2013/11/25/131125fa_fact_bilger)
+## [Auto Correct: Has the self-driving car at last arrived?](http://www.newyorker.com/reporting/2013/11/25/131125fa_fact_bilger)
 
     by Burkhard Bilger November 25, 2013:  An
         absolutely great article featuring Anthony Levandowski, Product
-        Manager, Google Self-Driving Car and more.  [A
-          MUST read](http://www.newyorker.com/reporting/2013/11/25/131125fa_fact_bilger).  Alain
+        Manager, Google Self-Driving Car and more.  [A MUST read](http://www.newyorker.com/reporting/2013/11/25/131125fa_fact_bilger).  Alain
 
-## [House hearing on
-        driverless cars](http://transport.house.gov/calendar/eventsingle.aspx?EventID=357149)
+## [House hearing on driverless cars](http://transport.house.gov/calendar/eventsingle.aspx?EventID=357149)
 
 November 19, 2013, House hearing on  "How Autonomous Vehicles
           Will Shape the Future of Surface Transportation" held by
         the Subcommittee on Highways and Transit, chaired by U.S. Rep.
         Tom Petri (R-WI)
 
-Click: [to](http://transport.house.gov/calendar/eventsingle.aspx?EventID=357149)[Watch
-
-              the webcast of this hearing](http://transport.house.gov/calendar/eventsingle.aspx?EventID=357149)
+Click: [to](http://transport.house.gov/calendar/eventsingle.aspx?EventID=357149)[Watch the webcast of this hearing](http://transport.house.gov/calendar/eventsingle.aspx?EventID=357149)
 
 Here are a few overriding comments:
 
@@ -305,14 +261,11 @@ Here are a few overriding comments:
         insightful.  Some excellent questions seemed to not be
         understood by any of the witnesses.
 
-[Summary
+[Summary of the Questioning of the witnesses](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/HouseHearing_119113/SummaryOfQuestioning_HouseHearing_111913.pdf)
 
-            of the Questioning of the witnesses](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/HouseHearing_119113/SummaryOfQuestioning_HouseHearing_111913.pdf)
+[Summary of the Testimony of the witnesses](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/HouseHearing_119113/SummaryOfTestimony_HouseHearing_111913.pdf)     Alain
 
-[Summary of the
-                Testimony of the witnesses](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/HouseHearing_119113/SummaryOfTestimony_HouseHearing_111913.pdf)     Alain
-
-## [](http://www.fleng.org/seminars.cfm?event_id=598)[Florida Automated Vehicles Summit](http://www.fleng.org/images/files/1025%2013Draft%20Agenda_Florida%20Automated%20Vehicle%20Summit.pdf)
+## [Florida Automated Vehicles Summit](http://www.fleng.org/images/files/1025%2013Draft%20Agenda_Florida%20Automated%20Vehicle%20Summit.pdf)
 
      November 14 – 15, 2013, Marriott Waterside Hotel, Tampa, FL .  This was an excellent conference.  I
         highly recommend that each State do something similar in terms
@@ -330,17 +283,11 @@ Here are a few overriding comments:
 
 ##
 
-## [Clifford
-
-        I. Nass](http://comm.stanford.edu/faculty-nass/)'81,*86  [expert
-
-        on human/computer interactions, dead at 55](http://news.stanford.edu/news/2013/november/cliff-nass-obit-110413.html)
+## [Clifford I. Nass](http://comm.stanford.edu/faculty-nass/)'81,*86  [expert on human/computer interactions, dead at 55](http://news.stanford.edu/news/2013/november/cliff-nass-obit-110413.html)
 
  Tragic!! What a
           terrible loss.  We have all taken an enormous step backwards.
-          [His
-
-            simulator.](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Videos/Nass_Driving_Simulator_Stanford.mp4) Alain
+          [His simulator.](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Videos/Nass_Driving_Simulator_Stanford.mp4) Alain
 
 ##
 
@@ -348,25 +295,18 @@ Here are a few overriding comments:
 
           November 05, 2013
 
-## [](http://www.euroncap.com/about.aspx) [On
+##  [On the Road with Autonomous Emergency Braking (AEB) Systems](http://euroncap.synapticdigital.com/Latest-Release/on-the-road-with-autonomous-emergency-braking-systems/s/0d5f0a78-2afc-4c63-ad36-a1acdb2c0b19)
 
-        the Road with Autonomous Emergency Braking (AEB) Systems](http://euroncap.synapticdigital.com/Latest-Release/on-the-road-with-autonomous-emergency-braking-systems/s/0d5f0a78-2afc-4c63-ad36-a1acdb2c0b19)
-
-[Press
-
-        Releas](http://preview.thenewsmarket.com/Previews/NCAP/DocumentAssets/305458_v2.pdf)e: Brussels 29 October – "Euro NCAP releases
+[Press Releas](http://preview.thenewsmarket.com/Previews/NCAP/DocumentAssets/305458_v2.pdf)e: Brussels 29 October – "Euro NCAP releases
       the first results of rear-end crash avoidance systems
       tested against the upcoming 2014 rating protocol. Eight vehicles
       have been compared with respect to their performance on the test
       track.
 
 A good summary of the tests appears in[FleetDirectory](http://www.fleetdirectory.co.uk/)
-[First
-
-              self-braking cars rated by Euro NCAP](http://www.fleetdirectory.co.uk/news/first-autonomous-braking-systems-rated-by-euro-ncap/) by John
+[First self-braking cars rated by Euro NCAP](http://www.fleetdirectory.co.uk/news/first-autonomous-braking-systems-rated-by-euro-ncap/) by John
           Simpson 30 October 2013. Eight (8)  car models equipped AEB
-          systems were tested and are reported on [Euro NCAP's
-            website](http://euroncap.synapticdigital.com/).  Both "City" tests and "Inter-Urban" tests were
+          systems were tested and are reported on [Euro NCAP's website](http://euroncap.synapticdigital.com/).  Both "City" tests and "Inter-Urban" tests were
           conducted of the Autonomous Emergency Braking (AEB) systems.
           While the test results indicate that at least some of these
           systems work some of the time, only one perfect score was
@@ -390,18 +330,14 @@ A good summary of the tests appears in[FleetDirectory](http://www.fleetdirectory
 
         11, 2013
 
-## [The
-
-        Ethics of Autonomous Cars](http://www.theatlantic.com/technology/archive/2013/10/the-ethics-of-autonomous-cars/280360/)
+## [The Ethics of Autonomous Cars](http://www.theatlantic.com/technology/archive/2013/10/the-ethics-of-autonomous-cars/280360/)
 
 [Patrick Lin](http://www.theatlantic.com/patrick-lin/)
     Oct 8 2013, "If a small tree branch pokes out onto a highway and
     there's no incoming traffic, we'd simply drift a little into the
     opposite lane and drive around it. But an automated car might come
     to a full stop, as it dutifully observes traffic laws that prohibit
-    crossing a double-yellow line...." [Read
-
-      more](http://www.theatlantic.com/technology/archive/2013/10/the-ethics-of-autonomous-cars/280360/)  Good article as are some of
+    crossing a double-yellow line...." [Read more](http://www.theatlantic.com/technology/archive/2013/10/the-ethics-of-autonomous-cars/280360/)  Good article as are some of
         the comments that follow. I'll add mine:  Yes, ethics are really
         important here, but we also need to not be sophomoric.   Laws,
         even traffic laws, are created and interpreted with human
@@ -433,9 +369,7 @@ A good summary of the tests appears in[FleetDirectory](http://www.fleetdirectory
 
               September 28, 2013
 
-## [IIHS
-
-            issues first crash avoidance ratings](http://www.iihs.org/iihs/news/desktopnews/iihs-issues-first-crash-avoidance-ratings-under-new-test-program-7-midsize-vehicles-earn-top-marks-for-front-crash-prevention)
+## [IIHS issues first crash avoidance ratings](http://www.iihs.org/iihs/news/desktopnews/iihs-issues-first-crash-avoidance-ratings-under-new-test-program-7-midsize-vehicles-earn-top-marks-for-front-crash-prevention)
 
 IIHS News | Sept. 27, 2013  ARLINGTON, Va. —
           "A new test program by the Insurance Institute for Highway
@@ -470,11 +404,7 @@ IIHS News | Sept. 27, 2013  ARLINGTON, Va. —
           damaging the test vehicles," Zuby says. "As such, we expect
           crash mitigation benefits at higher speeds as well."
 
-[Read
-
-            more](http://www.iihs.org/iihs/news/desktopnews/iihs-issues-first-crash-avoidance-ratings-under-new-test-program-7-midsize-vehicles-earn-top-marks-for-front-crash-prevention)  [See
-
-            Video](http://www.youtube.com/watch?feature=player_embedded&v=omHES8mqtW4) [http://www.youtube.com/watch?feature=player_embedded&v=omHES8mqtW4](http://www.youtube.com/watch?feature=player_embedded&v=omHES8mqtW4)
+[Read more](http://www.iihs.org/iihs/news/desktopnews/iihs-issues-first-crash-avoidance-ratings-under-new-test-program-7-midsize-vehicles-earn-top-marks-for-front-crash-prevention)  [See Video](http://www.youtube.com/watch?feature=player_embedded&v=omHES8mqtW4) [http://www.youtube.com/watch?feature=player_embedded&v=omHES8mqtW4](http://www.youtube.com/watch?feature=player_embedded&v=omHES8mqtW4)
 
 Hats
 
@@ -482,9 +412,7 @@ Hats
                   of tests!
 
 Be sure to look at the
-              scoring table at the bottom of the [IIHS
-
-                news release](http://www.iihs.org/iihs/news/desktopnews/iihs-issues-first-crash-avoidance-ratings-under-new-test-program-7-midsize-vehicles-earn-top-marks-for-front-crash-prevention). It is disheartening to learn that for
+              scoring table at the bottom of the [IIHS news release](http://www.iihs.org/iihs/news/desktopnews/iihs-issues-first-crash-avoidance-ratings-under-new-test-program-7-midsize-vehicles-earn-top-marks-for-front-crash-prevention). It is disheartening to learn that for
               the most part, these systems didn't work!  Only Subaru,
               Cadillac and Volvo didn't crash in the 12 mph test and
               only Subaru in the 25 mph test.  The purpose of these
@@ -504,9 +432,7 @@ Why would manufacturers
 
               September 20, 2013
 
-## [At
-
-            Frankfurt Auto Show, the Driver Began to Take a Back Seat](http://www.nytimes.com/2013/09/16/automobiles/the-driver-begins-to-take-a-back-seat.html?ref=technology)
+## [At Frankfurt Auto Show, the Driver Began to Take a Back Seat](http://www.nytimes.com/2013/09/16/automobiles/the-driver-begins-to-take-a-back-seat.html?ref=technology)
 
  By JACK EWING Sept. 15, 2013  FRANKFURT —" A
           wide grin beneath his bushy mustache, Dieter Zetsche, the
@@ -514,23 +440,18 @@ Why would manufacturers
           auto shows, cruising onto the stage in the company's newest
           model. But at the Frankfurt motor show last week, Mr. Zetsche
           added a surprise: he sprang from the back of a Mercedes
-          S-Class that had no one in the driver's seat..."  [Read
-
-            more](http://www.nytimes.com/2013/09/16/automobiles/the-driver-begins-to-take-a-back-seat.html?ref=technology)  This is how Daimler
+          S-Class that had no one in the driver's seat..."  [Read more](http://www.nytimes.com/2013/09/16/automobiles/the-driver-begins-to-take-a-back-seat.html?ref=technology)  This is how Daimler
               chose to spend a substantial amount of money to introduce
               its automotive products at the 2013 Frankfurt Auto Show on
               Sept. 9, 2013. They must believe that consumers are ready
               to spend money on Smart Driving Cars.  Alain
-[](http://www.detroitnews.com/)
 
-## [](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Videos/MB_%20AutonomousLong-distanceDrive.mp4)[Video:
 
-            MB Self-Driving Manheim 2 Pforzheim 2:08 long](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Videos/MB_%20AutonomousLong-distanceDrive.mp4)
+## [Video: MB Self-Driving Manheim 2 Pforzheim 2:08 long](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Videos/MB_%20AutonomousLong-distanceDrive.mp4)
 
-## [S
-            500 MB Intelligent Drive (Self-Driving) TV footage:](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Videos/MB_Autonomous_TV_Footage_Long-distanceDrive.mp4)
+## [S 500 MB Intelligent Drive (Self-Driving) TV footage:](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Videos/MB_Autonomous_TV_Footage_Long-distanceDrive.mp4)
 
-  [](Mailto:alaink@princeton.edu)[Mailto:alaink@princeton.edu](Mailto:alaink@princeton.edu)
+  [Mailto:alaink@princeton.edu](Mailto:alaink@princeton.edu)
 
 --
 
