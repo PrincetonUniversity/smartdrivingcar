@@ -14,18 +14,13 @@ Hmmm...What we know now (and don't know):
                                                           Tractor-Trailer.
                                                           The accident
                                                           is depicted in
-                                                          the [Diagram
-                                                          from the
-                                                          Police Report](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/TeslaCrash050716/PoliceReportDiagramTeslaCrash050716FrmNYT.JPG):
+                                                          the [Diagram from the Police Report](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/TeslaCrash050716/PoliceReportDiagramTeslaCrash050716FrmNYT.JPG):
                                                           HSMV Crash
                                                           Report #
                                                           85234095. [(1)](http://www.nytimes.com/2016/07/01/business/self-driving-tesla-fatal-crash-investigation.html?rref=collection%2Ftimestopic%2FNational%20Highway%20Traffic%20Safety%20Administration&action=click&contentCollection=timestopics&region=stream&module=stream_unit&version=latest&contentPlacement=1&pgtype=collection&_r=0)
-                                                          [Google
-                                                          Earth images
-                                                          from the site](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/TeslaCrash050716/CrashSceneGoogleEarth.pdf).
+                                                          [Google Earth images from the site](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/TeslaCrash050716/CrashSceneGoogleEarth.pdf).
 
- 2. The driver of the Tesla was [Joshua
-                                                          Brown](http://www.legacy.com/obituaries/ohio/obituary.aspx?pid=179994314).  "No
+ 2. The driver of the Tesla was [Joshua Brown](http://www.legacy.com/obituaries/ohio/obituary.aspx?pid=179994314).  "No
                                                           citations have
                                                           been issued,
                                                           but the
@@ -84,8 +79,7 @@ Hmmm...What we know now (and don't know):
                                                           of
                                                           "SmartDrivingTruck
                                                           technology" as
-                                                          one of its [Critical
-                                                          Issues](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Reports&Speaches_External/ATRI-2015-Top-Industry-Issues-FINAL-10-2015.pdf)?
+                                                          one of its [Critical Issues](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Reports&Speaches_External/ATRI-2015-Top-Industry-Issues-FINAL-10-2015.pdf)?
                                                           Why didn't his
                                                           insurance
                                                           agent
@@ -394,8 +388,7 @@ One can also ask: Why was the truck not equipped with
                                                           of
                                                           "SmartDrivingTruck
                                                           technology" as
-                                                          one of its [Critical
-                                                          Issues](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Reports&Speaches_External/ATRI-2015-Top-Industry-Issues-FINAL-10-2015.pdf)?
+                                                          one of its [Critical Issues](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Reports&Speaches_External/ATRI-2015-Top-Industry-Issues-FINAL-10-2015.pdf)?
                                                           Why didn't the
                                                           driver's
                                                           insurance
@@ -715,8 +708,7 @@ hands-on-wheel.  Unfortunately, it is likely that we will eventually
                                                           be tested with
                                                           live
                                                           subjects."..."
-                                                          [Read
-                                                          more](http://electrek.co/2016/07/02/tesla-autopilot-mobileye-automatic-emergency-braking/)(5) With all of the expertise that MobilEye has in
+                                                          [Read more](http://electrek.co/2016/07/02/tesla-autopilot-mobileye-automatic-emergency-braking/)(5) With all of the expertise that MobilEye has in
                                                           image
                                                           processing, it
                                                           is surprising
@@ -781,75 +773,28 @@ hands-on-wheel.  Unfortunately, it is likely that we will eventually
                                                           crash).  Alain
 
 (1)
-                                                          [Self-Driving
-                                                          Tesla Was
-                                                          Involved in
-                                                          Fatal Crash,
-                                                          U.S. Says](http://www.nytimes.com/2016/07/01/business/self-driving-tesla-fatal-crash-investigation.html?rref=collection%2Ftimestopic%2FNational%20Highway%20Traffic%20Safety%20Administration&action=click&contentCollection=timestopics&region=stream&module=stream_unit&version=latest&contentPlacement=1&pgtype=collection&_r=0),
+                                                          [Self-Driving Tesla Was Involved in Fatal Crash, U.S. Says](http://www.nytimes.com/2016/07/01/business/self-driving-tesla-fatal-crash-investigation.html?rref=collection%2Ftimestopic%2FNational%20Highway%20Traffic%20Safety%20Administration&action=click&contentCollection=timestopics&region=stream&module=stream_unit&version=latest&contentPlacement=1&pgtype=collection&_r=0),
                                                           June 30 NYT,
 
-(2) [DVD
-                                                          player found
-                                                          in Tesla car
-                                                          in fatal May
-                                                          crash](http://www.reuters.com/article/us-tesla-autopilot-dvd-idUSKCN0ZH5BW),
+(2) [DVD player found in Tesla car in fatal May crash](http://www.reuters.com/article/us-tesla-autopilot-dvd-idUSKCN0ZH5BW),
                                                           July 1,
                                                           Reuters
 
 (3)[A Tragic Los](https://www.teslamotors.com/blog/tragic-loss)s, June 30, Tesla Blog
 
-(4) [NHTSA
-                                                          ODI Resume PE
-                                                          16-007
-                                                          Automatic
-                                                          vehicle
-                                                          control system, June 28, 2016](http://www-odi.nhtsa.dot.gov/acms/cs/jaxrs/download/doc/UCM530776/INOA-PE16007-7080.PDF)
+(4) [NHTSA ODI Resume PE 16-007 Automatic vehicle control system, June 28, 2016](http://www-odi.nhtsa.dot.gov/acms/cs/jaxrs/download/doc/UCM530776/INOA-PE16007-7080.PDF)
 
-(5) [Tesla
-                                                          elaborates on
-                                                          Autopilot's
-                                                          automatic
-                                                          emergency
-                                                          braking
-                                                          capacity over
-                                                          Mobileye's
-                                                          system](http://electrek.co/2016/07/02/tesla-autopilot-mobileye-automatic-emergency-braking/)
+(5) [Tesla elaborates on Autopilot's automatic emergency braking capacity over Mobileye's system](http://electrek.co/2016/07/02/tesla-autopilot-mobileye-automatic-emergency-braking/)
                                                           Electrek, July
                                                           2, 2016  See
-                                                          also: [Understanding
-                                                          the fatal
-                                                          Tesla accident
-                                                          on Autopilot
-                                                          and the NHTSA
-                                                          probe](http://electrek.co/2016/07/01/understanding-fatal-tesla-accident-autopilot-nhtsa-probe/)July 2, 2016, [Tesla
-                                                          Autopilot
-                                                          partner
-                                                          Mobileye
-                                                          comments on
-                                                          fatal crash,
-                                                          says tech
-                                                          isn't meant to
-                                                          avoid this
-                                                          type of
-                                                          accident
-                                                          [Updated]](http://electrek.co/2016/07/01/tesla-autopilot-mobileye-fatal-crash-comment/),
+                                                          also: [Understanding the fatal Tesla accident on Autopilot and the NHTSA probe](http://electrek.co/2016/07/01/understanding-fatal-tesla-accident-autopilot-nhtsa-probe/)July 2, 2016, [Tesla Autopilot partner Mobileye comments on fatal crash, says tech isn't meant to avoid this type of accident [Updated]](http://electrek.co/2016/07/01/tesla-autopilot-mobileye-fatal-crash-comment/),
                                                           July 1,
 
 ## Some other thoughts that deserve your attention
 
-### [Now
-                                                          Orbiting
-                                                          Jupiter,
-                                                          NASA's Juno
-                                                          Spacecraft Is
-                                                          Poised for
-                                                          'Tantalizing'
-                                                          Data](http://www.nytimes.com/2016/07/06/science/nasa-jupiter-juno-orbit.html?rref=collection%2Fsectioncollection%2Fscience&action=click&contentCollection=science&region=rank&module=package&version=highlights&contentPlacement=2&pgtype=sectionfront&_r=0)
+### [Now Orbiting Jupiter, NASA's Juno Spacecraft Is Poised for 'Tantalizing' Data](http://www.nytimes.com/2016/07/06/science/nasa-jupiter-juno-orbit.html?rref=collection%2Fsectioncollection%2Fscience&action=click&contentCollection=science&region=rank&module=package&version=highlights&contentPlacement=2&pgtype=sectionfront&_r=0)
 
-### [Our
-                                                          Vast Solar
-                                                          System and Its
-                                                          Many Explorers](http://www.nytimes.com/interactive/2016/07/05/science/nasa-space-missions.html?rref=collection%2Fsectioncollection%2Fscience&action=click&contentCollection=science&region=rank&module=package&version=highlights&contentPlacement=1&pgtype=sectionfront)
+### [Our Vast Solar System and Its Many Explorers](http://www.nytimes.com/interactive/2016/07/05/science/nasa-space-missions.html?rref=collection%2Fsectioncollection%2Fscience&action=click&contentCollection=science&region=rank&module=package&version=highlights&contentPlacement=1&pgtype=sectionfront)
 
 ## [On the More Technical Side](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Papers/)
 
@@ -875,19 +820,10 @@ hands-on-wheel.  Unfortunately, it is likely that we will eventually
 
 ## Calendar of Upcoming Events:
 
-[](http://community.ite.org/events/event-description?CalendarEventKey=3251f8d0-945b-4923-a4b4-eb4945aeddf1)
 
-### [ITE
-                                                          + ARRB Present
-                                                          Driverless
-                                                          Vehicles:
-                                                          Progress in
-                                                          the U.S. and
-                                                          Australia
-                                                          Webinar](http://community.ite.org/events/event-description?CalendarEventKey=3251f8d0-945b-4923-a4b4-eb4945aeddf1)
+### [ITE + ARRB Present Driverless Vehicles: Progress in the U.S. and Australia Webinar](http://community.ite.org/events/event-description?CalendarEventKey=3251f8d0-945b-4923-a4b4-eb4945aeddf1)
 
-[My
-                                                          Slides](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Presentations/ITE-ARRB_Webinar_V5.pptx)
+[My Slides](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Presentations/ITE-ARRB_Webinar_V5.pptx)
 
                                                           Thursday, June
                                                           30, 2016,
@@ -965,11 +901,7 @@ Blog,
                                                           his family and
                                                           friends.   Alain
 
-### [Self-Driving
-                                                          Tesla Was
-                                                          Involved in
-                                                          Fatal Crash,
-                                                          U.S. Says](http://www.nytimes.com/2016/07/01/business/self-driving-tesla-fatal-crash-investigation.html?rref=collection%2Ftimestopic%2FNational%20Highway%20Traffic%20Safety%20Administration&action=click&contentCollection=timestopics&region=stream&module=stream_unit&version=latest&contentPlacement=1&pgtype=collection)
+### [Self-Driving Tesla Was Involved in Fatal Crash, U.S. Says](http://www.nytimes.com/2016/07/01/business/self-driving-tesla-fatal-crash-investigation.html?rref=collection%2Ftimestopic%2FNational%20Highway%20Traffic%20Safety%20Administration&action=click&contentCollection=timestopics&region=stream&module=stream_unit&version=latest&contentPlacement=1&pgtype=collection)
 
                                                           B. Vlasic
                                                           & N.
@@ -1017,10 +949,8 @@ Florida
                                                           owned a
                                                           technology
                                                           consulting
-                                                          firm...." [Read
-                                                          more](http://www.nytimes.com/2016/07/01/business/self-driving-tesla-fatal-crash-investigation.html?rref=collection%2Ftimestopic%2FNational%20Highway%20Traffic%20Safety%20Administration&action=click&contentCollection=timestopics&region=stream&module=stream_unit&version=latest&contentPlacement=1&pgtype=collection)  Hmmm...Thank you NYT for providing more information
-                                                          on [Joshua
-                                                          Brown](http://www.legacy.com/obituaries/ohio/obituary.aspx?pid=179994314).
+                                                          firm...." [Read more](http://www.nytimes.com/2016/07/01/business/self-driving-tesla-fatal-crash-investigation.html?rref=collection%2Ftimestopic%2FNational%20Highway%20Traffic%20Safety%20Administration&action=click&contentCollection=timestopics&region=stream&module=stream_unit&version=latest&contentPlacement=1&pgtype=collection)  Hmmm...Thank you NYT for providing more information
+                                                          on [Joshua Brown](http://www.legacy.com/obituaries/ohio/obituary.aspx?pid=179994314).
 
                                                           What is
                                                           interesting
@@ -1089,10 +1019,7 @@ Florida
                                                           All one need
                                                           to do is to
                                                           look at the
-                                                          videos in [slide
-                                                          9 of David
-                                                          Zuby's
-                                                          presentation](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Presentations/ZubyIIHS_Presentation_2106.pptx)at
+                                                          videos in [slide 9 of David Zuby's presentation](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Presentations/ZubyIIHS_Presentation_2106.pptx)at
                                                           last week's
                                                           I-95 CC AV
                                                           Conference.
@@ -1119,8 +1046,7 @@ Florida
                                                           (We certainly
                                                           don't do what
                                                           GM did with
-                                                          the [ignition
-                                                          switch issue](http://www.nytimes.com/2015/09/18/business/gm-to-pay-us-900-million-over-ignition-switch-flaw.html)
+                                                          the [ignition switch issue](http://www.nytimes.com/2015/09/18/business/gm-to-pay-us-900-million-over-ignition-switch-flaw.html)
                                                           .). Zuby's
                                                           following
                                                           slides
@@ -1160,8 +1086,7 @@ Florida
                                                           it happened to
                                                           be on at crash
                                                           time.  (It is
-                                                          likely that [EgyptAir
-                                                          804's](http://www.nytimes.com/live/egyptair-flight-missing-paris-cairo/)
+                                                          likely that [EgyptAir 804's](http://www.nytimes.com/live/egyptair-flight-missing-paris-cairo/)
                                                           autopilot was
                                                           on when it
                                                           began to fall
@@ -1275,17 +1200,13 @@ Florida
                                                           This does not
                                                           reach the
                                                           levels of the
-                                                          [Apollo
-                                                          1](http://history.nasa.gov/Apollo204/) and [Challenger](http://www.nytimes.com/learning/general/onthisday/big/0128.html)
+                                                          [Apollo 1](http://history.nasa.gov/Apollo204/) and [Challenger](http://www.nytimes.com/learning/general/onthisday/big/0128.html)
                                                           tragedies nor
                                                           require that
                                                           intensive of
                                                           an
                                                           investigation.
-                                                          The [Amtrak
-                                                          188
-                                                          Philadelphia
-                                                          Derailment](http://www.ntsb.gov/news/events/Pages/2016-Amtrak-BMG.aspx)
+                                                          The [Amtrak 188 Philadelphia Derailment](http://www.ntsb.gov/news/events/Pages/2016-Amtrak-BMG.aspx)
                                                           comes closer.
                                                           This case
                                                           certainly
@@ -1300,7 +1221,7 @@ Florida
                                                           the bus".)
                                                           Alain
 
-                                                          [](Mailto:alaink@princeton.edu)[Mailto:alaink@princeton.edu](Mailto:alaink@princeton.edu) [](Mailto:alaink@princeton.edu)
+                                                          [Mailto:alaink@princeton.edu](Mailto:alaink@princeton.edu) 
 
                                                           This list is
                                                           maintained by

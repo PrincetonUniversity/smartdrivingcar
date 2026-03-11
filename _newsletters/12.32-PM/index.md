@@ -57,8 +57,7 @@ P.S.
 Mark, Mike & Jane, Alain, Ida & her
       father Henry @ TRB Banquet 2018
 
-[The Real Case for Driverless
-              Mobility](https://www.audible.com/pd/The-Real-Case-for-Driverless-Mobility-Audiobook/B0D9PJY6MW?eac_link=ZoLH4Nc4tFbA&ref=web_search_eac_asin_1&eac_selected_type=asin&eac_selected=B0D9PJY6MW&qid=Jjuo8XtoL1&eac_id=142-9434497-3046660_Jjuo8XtoL1&sr=1-1)
+[The Real Case for Driverless Mobility](https://www.audible.com/pd/The-Real-Case-for-Driverless-Mobility-Audiobook/B0D9PJY6MW?eac_link=ZoLH4Nc4tFbA&ref=web_search_eac_asin_1&eac_selected_type=asin&eac_selected=B0D9PJY6MW&qid=Jjuo8XtoL1&eac_id=142-9434497-3046660_Jjuo8XtoL1&sr=1-1)
 
 Narrated
           by Fred Fishkin, Available now
@@ -67,8 +66,8 @@ Narrated
         [Go to Amazon.com](https://www.amazon.com/Real-Case-Driverless-Mobility-Vehicles/dp/0443236852/ref=sr_1_1?crid=1XSXZ611C2JCN&keywords=Kornhauser+sena&qid=1707095108&sprefix=kornhauser+sena%2Caps%2C76&sr=8-1&ufe=app_do%3Aamzn1.fos.18ed3cb5-28d5-4975-8bc7-93deae8f9840)…
 
 SmartDrivingCars
-          [](https://youtu.be/JiN3nqkM6Mw)[ZoomCast 384](https://youtu.be/JiN3nqkM6Mw)[](https://youtu.be/JiN3nqkM6Mw) /
-          [](https://podcasters.spotify.com/pod/show/smartdrivingcars/episodes/Smart-Driving-Cars-The-Election--Musk--Tesla--Waymo--more-with-guest-Michael-Sena-ep--384-e2qou0d)[PodCast 384](https://podcasters.spotify.com/pod/show/smartdrivingcars/episodes/Smart-Driving-Cars-The-Election--Musk--Tesla--Waymo--more-with-guest-Michael-Sena-ep--384-e2qou0d)
+          [ZoomCast 384](https://youtu.be/JiN3nqkM6Mw) /
+          [PodCast 384](https://podcasters.spotify.com/pod/show/smartdrivingcars/episodes/Smart-Driving-Cars-The-Election--Musk--Tesla--Waymo--more-with-guest-Michael-Sena-ep--384-e2qou0d)
           – The Election, Musk, Tesla, Waymo & more with guest
           Michael Sena
 
@@ -113,7 +112,7 @@ On
                           review and questions"Read moreHmmmm…Again, interesting and informative
                             to watch Rob report it live.  Alain
 
-[](https://www.youtube.com/playlist?list=PLFwuZ9jMeu5uwfTZP00zHjP7eSpG34Hsm)[SmartDrivingCars ZoomCasts](https://www.youtube.com/playlist?list=PLFwuZ9jMeu5uwfTZP00zHjP7eSpG34Hsm)
+[SmartDrivingCars ZoomCasts](https://www.youtube.com/playlist?list=PLFwuZ9jMeu5uwfTZP00zHjP7eSpG34Hsm)
 
   America
             went to the polls on 5 October '24 ... The
@@ -137,8 +136,7 @@ M.
           College's role in the America's democratic process.
             Alain
 
- [2024 Presidential Election Results, RVDB's "Purple
-              America"](https://vanderbei.princeton.edu/JAVA/election2024/)
+ [2024 Presidential Election Results, RVDB's "Purple America"](https://vanderbei.princeton.edu/JAVA/election2024/)
 
 R.
         Vanderbei, Nov 7, "The Election is History…." Read
@@ -150,14 +148,12 @@ R.
   [Tesla Vehicle Safety Report Q3 2024](https://www.tesla.com/VehicleSafetyReport)
 
 Corporate
-        report, Oct 28, "…."  [Read
-                      more](https://www.tesla.com/VehicleSafetyReport)Hmmmm…
+        report, Oct 28, "…."  [Read more](https://www.tesla.com/VehicleSafetyReport)Hmmmm…
           See charts.  Even with whatever caveats one wishes to
           infer when one converts data/charts into information, these
           data/charts are impressive.  Alain
 
-  [Waymo is now valued at a staggering
-              $45 billion](https://electrek.co/2024/11/01/waymo-is-now-valued-at-a-staggering-45-billion/)
+  [Waymo is now valued at a staggering $45 billion](https://electrek.co/2024/11/01/waymo-is-now-valued-at-a-staggering-45-billion/)
 
 J.
          Petrova, Nov. 1, "After getting [a hefty $5.6 billion](https://electrek.co/2024/10/25/waymo-secures-5-6-billion-funding-expanding-robotaxis-new-cities-2025/) in fresh
@@ -187,8 +183,7 @@ No
           least".  For this to make any sense to me, I'll need one of
           those PhDs in Flipping from GoldMineSax University. Alain
 
-  [Want To Hail An Autonomous Vehicle?
-            Pay More To Get There Slower](https://www.forbes.com/sites/gustavo-castillo/2024/11/04/want-to-hail-an-autonomous-vehicle-pay-more-to-get-there-slower/)
+  [Want To Hail An Autonomous Vehicle? Pay More To Get There Slower](https://www.forbes.com/sites/gustavo-castillo/2024/11/04/want-to-hail-an-autonomous-vehicle-pay-more-to-get-there-slower/)
 
 G.
         Castillo,
@@ -221,8 +216,7 @@ The
 In
         the meantime, Waymo will primarily see demand from customers
         that take rides for the experience. But a cool experience will
-        not ensure sustained demand at scale." [Read
-                      more](https://www.forbes.com/sites/gustavo-castillo/2024/11/04/want-to-hail-an-autonomous-vehicle-pay-more-to-get-there-slower/)   Hmmmm…
+        not ensure sustained demand at scale." [Read more](https://www.forbes.com/sites/gustavo-castillo/2024/11/04/want-to-hail-an-autonomous-vehicle-pay-more-to-get-there-slower/)   Hmmmm…
           If you're valued @ $45B you'll need sustained scale and high
           fares 'cause the "moon
           shots" folks
@@ -243,8 +237,7 @@ C.
           progress on what is a non-trivial launch devoid of smoke &
           mirrors.  We continue to wish Chris all the best. Alain
 
-  [Lyft Is Teaming Up with This
-              Company on Robotaxis](https://www.autoweek.com/news/a62853018/lyft-mobileye-autonomous-robotaxis/)
+  [Lyft Is Teaming Up with This Company on Robotaxis](https://www.autoweek.com/news/a62853018/lyft-mobileye-autonomous-robotaxis/)
 
 J.
         Ramey  Nov. 8, "...."Lyft's
@@ -256,14 +249,11 @@ J.
 
         The ride-hailing network is also teaming up with May Mobility to
         offer rides in autonomous Toyota Sienna minivans developed by
-        May in Atlanta starting in 2025.…" [Read
-                      more](https://www.autoweek.com/news/a62853018/lyft-mobileye-autonomous-robotaxis/)
+        May in Atlanta starting in 2025.…" [Read more](https://www.autoweek.com/news/a62853018/lyft-mobileye-autonomous-robotaxis/)
         Hmmmm…
           What will happen to all of Lyft's gig workers? Alain
 
-[](https://www.detroitnews.com/picture-gallery/media/photo/2024/11/01/gallery-riding-the-driverless-waymo-one-jaguar-ipace-in-san-francisco/75903319007/)[Gallery:
-              Riding the driverless Waymo One Jaguar iPace in San
-              Francisco](https://www.detroitnews.com/picture-gallery/media/photo/2024/11/01/gallery-riding-the-driverless-waymo-one-jaguar-ipace-in-san-francisco/75903319007/)
+[Gallery: Riding the driverless Waymo One Jaguar iPace in San Francisco](https://www.detroitnews.com/picture-gallery/media/photo/2024/11/01/gallery-riding-the-driverless-waymo-one-jaguar-ipace-in-san-francisco/75903319007/)
 
 H.
         Payne  Nov. 1, "A Waymo One Jaguar iPace arrives to pick up
@@ -286,8 +276,7 @@ R.
         guest. Otherwise, here's what's really happening in the
         autonomous people-moving space, i.e. robotaxis and roboshuttles.
           ... Waymo Dominates.…"
-      [Read
-                      more](https://www.forbes.com/sites/richardbishop1/2024/11/04/forget-tesla-heres-whats-real-in-moving-people-driverlessly/)[](https://www.forbes.com/sites/richardbishop1/2024/11/04/forget-tesla-heres-whats-real-in-moving-people-driverlessly/)  Hmmmm…
+      [Read more](https://www.forbes.com/sites/richardbishop1/2024/11/04/forget-tesla-heres-whats-real-in-moving-people-driverlessly/)  Hmmmm…
           Agreed, but what's the real problem? What's Real in Moving
           People who Really Need a Ride? As opposed to offering
           yet another, and likely non-primary, alternative to those who
@@ -305,24 +294,15 @@ Alain
           Deployment.  We remain encouraged and on our critical
           path.  Alain
 
-[Link to
-                                 previous 351 -> 375  SDC
-                                PodCasts & ZoomCasts](https://www.dropbox.com/scl/fi/ancrz3wfqq8f01udm7zo9/Links-to-prevous-SDC-PodCast-351-through-375.pdf?rlkey=pybjrb16jy6gaig6vayu60xtm&dl=0)
+[Link to previous 351 -> 375  SDC PodCasts & ZoomCasts](https://www.dropbox.com/scl/fi/ancrz3wfqq8f01udm7zo9/Links-to-prevous-SDC-PodCast-351-through-375.pdf?rlkey=pybjrb16jy6gaig6vayu60xtm&dl=0)
 
-[Link to
-                                 previous 326 -> 350  SDC
-                                PodCasts & ZoomCasts](https://www.dropbox.com/scl/fi/qrb0k2q5piqsi9z3v1e3u/Link-o-previous-326-350-SDC-ZoomCasts-PodCasts.pdf?rlkey=zrbxkjusq68hxibdz62d33vvp&dl=0')
+[Link to previous 326 -> 350  SDC PodCasts & ZoomCasts](https://www.dropbox.com/scl/fi/qrb0k2q5piqsi9z3v1e3u/Link-o-previous-326-350-SDC-ZoomCasts-PodCasts.pdf?rlkey=zrbxkjusq68hxibdz62d33vvp&dl=0')
 
-[](https://www.dropbox.com/scl/fi/rkmb52a5wn3uyapfmpnm3/Link-o-previous-301-325-SDC-ZoomCasts-PodCasts.pdf?rlkey=yaotlhhbbqaeab5knsoppolpp&dl=0)[Link to
-                                 previous 301 -> 325  SDC
-                                PodCasts & ZoomCasts](https://www.dropbox.com/scl/fi/rkmb52a5wn3uyapfmpnm3/Link-o-previous-301-325-SDC-ZoomCasts-PodCasts.pdf?rlkey=yaotlhhbbqaeab5knsoppolpp&dl=0)
+[Link to previous 301 -> 325  SDC PodCasts & ZoomCasts](https://www.dropbox.com/scl/fi/rkmb52a5wn3uyapfmpnm3/Link-o-previous-301-325-SDC-ZoomCasts-PodCasts.pdf?rlkey=yaotlhhbbqaeab5knsoppolpp&dl=0)
 
-[Link to  previous
-                                276 -> 300  SDC PodCasts &
-                                ZoomCasts](https://www.dropbox.com/s/khfsviefix2vm7c/SmartDrivingCarsPodCasts276-300.pdf?dl=0)
+[Link to  previous 276 -> 300  SDC PodCasts & ZoomCasts](https://www.dropbox.com/s/khfsviefix2vm7c/SmartDrivingCarsPodCasts276-300.pdf?dl=0)
 
-[Link to 275
-                                previous SDC PodCasts & ZoomCasts](https://www.dropbox.com/s/igs6ymicy8l10bi/Links2PodCast_55-275.pdf?dl=0)
+[Link to 275 previous SDC PodCasts & ZoomCasts](https://www.dropbox.com/s/igs6ymicy8l10bi/Links2PodCast_55-275.pdf?dl=0)
 
 Recent
                           Highlights of SDC eLetter
@@ -330,8 +310,7 @@ Recent
                 Click or tap if you trust this link." moz-do-not-send="true">riday, October
                                 25, 2024
 
-[Tesla Q3 Earnings
-                              Report Coverage & Analysis (Q3-24)](https://www.youtube.com/watch?v=Xg1ut4hwH0g)
+[Tesla Q3 Earnings Report Coverage & Analysis (Q3-24)](https://www.youtube.com/watch?v=Xg1ut4hwH0g)
 
 Rob
                           Maurer, Oct. 23, "live coverage of the release
@@ -343,8 +322,7 @@ Rob
                               Interesting and informative to
                             watch Rob report it live.  Alain
 
-[Live:
-                              Tesla Q3 Earnings Call 2024 (TSLA)](https://youtube.com/live/iCYSM1q7m1c)
+[Live: Tesla Q3 Earnings Call 2024 (TSLA)](https://youtube.com/live/iCYSM1q7m1c)
 
 Listen to Elon
                           Musk and Tesla management discuss Tesla's Q3
@@ -356,8 +334,7 @@ Listen to Elon
 
                 Click or tap if you trust this link." data-auth="NotApplicable" style="color: rgb(70, 120, 134); margin-top: 0px; margin-bottom: 0px;" id="OWAf90535e4-d161-00ee-286e-ba9a43a762e8" class="OWAAutoLink" moz-do-not-send="true">Sunday, October 13,
                               2024
- [SpaceX Launches
-                              Starship Flight 5 (and Catches A Booster)](mailto:https://youtu.be/YC87WmFN_As?t=12306)
+ [SpaceX Launches Starship Flight 5 (and Catches A Booster)](mailto:https://youtu.be/YC87WmFN_As?t=12306)
 
 J.
                         Beyer, Oct. 13, "SpaceX is preparing the launch
@@ -384,8 +361,7 @@ J.
 
                               27, 2024
 
-[The
-                              Dispatcher_October 2024](https://www.michaellsena.com/the-dispatcher-newsletter-2/)
+[The Dispatcher_October 2024](https://www.michaellsena.com/the-dispatcher-newsletter-2/)
 
 M.
                         Sena, September 26, "… It is when management
@@ -407,8 +383,7 @@ M.
                 Click or tap if you trust this link." data-auth="NotApplicable" style="color: blue; margin-top: 0px; margin-bottom: 0px;" id="OWA535ca862-283e-707e-6233-d288b5b80e68" class="OWAAutoLink" moz-do-not-send="true">Sunday, September
                               1, 2024
 
-[The
-                              Dispatcher_September 2024](https://www.dropbox.com/scl/fi/j1snypnss0ao2zy6kj3yz/The-Dispatcher_September_2024.pdf?rlkey=0ttugtxp90hvqrpheql9wmfnt&dl=0)
+[The Dispatcher_September 2024](https://www.dropbox.com/scl/fi/j1snypnss0ao2zy6kj3yz/The-Dispatcher_September_2024.pdf?rlkey=0ttugtxp90hvqrpheql9wmfnt&dl=0)
 
 M.
                         Sena, August 28, "Amidst wars, riots,
@@ -475,26 +450,21 @@ But
                         what is sunk is sunk, so we are jumping in.  It
                         looks like we're going to call it HandyRides,
                         Inc. and focus on taking the first step to
-                        implementing our book.   We have  [version
-                            1 of our elevator pitch](https://f.io/C1M3liTk) (feedback
+                        implementing our book.   We have  [version 1 of our elevator pitch](https://f.io/C1M3liTk) (feedback
                         welcomed) and a plan that we've begun to
                         implement with some very good members of what we
                         are calling "our coalition of the willing".  [Read more](https://f.io/C1M3liTk)
                             Hmmmm…    Wish
                           us luck.  We can use all the help that we can
                           get, so if you wish to help, let us know via
-                          return eMail to [mailto:alaink@princeton.edu?subject=I
-                              want to help ...](mailto:alaink@princeton.edu?subject=I%20want%20to%20help%20...).
-                          Also hope to see you at the [Florida AV
-                              Conference](https://favsummit.com/register-for-the-2024-fav-summit/) in
+                          return eMail to [mailto:alaink@princeton.edu?subject=I want to help ...](mailto:alaink@princeton.edu?subject=I%20want%20to%20help%20...).
+                          Also hope to see you at the [Florida AV Conference](https://favsummit.com/register-for-the-2024-fav-summit/) in
                           Tampa in two weeks.  Alain
 
                 Click or tap if you trust this link." data-auth="NotApplicable" style="color: blue; margin-top: 0px; margin-bottom: 0px;" id="OWAae725280-5172-be46-822c-44fcf0bb9119" class="OWAAutoLink" moz-do-not-send="true">Wednesday, July 24,
                               2024
 
-[GM's Cruise
-                              abandons Origin robotaxi, takes $583
-                              million charge](https://techcrunch.com/2024/07/23/gms-cruise-abandons-origin-robotaxi-takes-583-million-charge/)
+[GM's Cruise abandons Origin robotaxi, takes $583 million charge](https://techcrunch.com/2024/07/23/gms-cruise-abandons-origin-robotaxi-takes-583-million-charge/)
 
 K.
                         Korosec, July 23, "GM's self-driving car
@@ -525,9 +495,7 @@ GM
                         charge …" [Read more](https://techcrunch.com/2024/07/23/gms-cruise-abandons-origin-robotaxi-takes-583-million-charge/)
                             Hmmmm…    RIP.  Alain
 
-[Former Cruise CEO
-                              responds to GM canceling Origin
-                              self-driving vehicle](https://www.teslarati.com/former-cruise-ceo-gm-canceling-origin/)[](https://www.teslarati.com/former-cruise-ceo-gm-canceling-origin/)
+[Former Cruise CEO responds to GM canceling Origin self-driving vehicle](https://www.teslarati.com/former-cruise-ceo-gm-canceling-origin/)
 
 Z.
                         Visconti, July 23, "A founder and former CEO of
@@ -537,16 +505,11 @@ Z.
                         driverless vehicle to focus on a next-generation
                         vehicle instead.
 
-[GM officially
-                              announced plans to suspend the Cruise
-                              Origin self-driving vehicle](https://www.teslarati.com/general-motors-self-driving-vehicle-hold/) in
+[GM officially announced plans to suspend the Cruise Origin self-driving vehicle](https://www.teslarati.com/general-motors-self-driving-vehicle-hold/) in
                         its Q2 2024 [letter](https://investor.gm.com/news-releases/news-release-details/q2-2024-letter-shareholders) to
-                        shareholders on Tuesday, after [initially halting
-                              production of the driverless vehicle last
-                              year](https://www.teslarati.com/cruise-gm-halt-production-origin-van/).
+                        shareholders on Tuesday, after [initially halting production of the driverless vehicle last year](https://www.teslarati.com/cruise-gm-halt-production-origin-van/).
 
-[Former CEO and
-                              Cruise co-founder Kyle Vogt](https://www.teslarati.com/former-cruise-ceo-robotics-tesla-ai/) responded
+[Former CEO and Cruise co-founder Kyle Vogt](https://www.teslarati.com/former-cruise-ceo-robotics-tesla-ai/) responded
                         to the news on X on Tuesday, saying he was
                         "disappointed to see GM kill the Origin."…"  [Read more](https://techcrunch.com/2024/07/23/gms-cruise-abandons-origin-robotaxi-takes-583-million-charge/)
                             Hmmmm…  What a Cry'n Shame.
@@ -556,14 +519,12 @@ Z.
                           "Coalition of the Willing", then send your
                           resume.  Alain
 
-[The Real Case for
-                              Driverless Mobility](https://www.audible.com/pd/The-Real-Case-for-Driverless-Mobility-Audiobook/B0D9PJY6MW?eac_link=ZoLH4Nc4tFbA&ref=web_search_eac_asin_1&eac_selected_type=asin&eac_selected=B0D9PJY6MW&qid=Jjuo8XtoL1&eac_id=142-9434497-3046660_Jjuo8XtoL1&sr=1-1)
+[The Real Case for Driverless Mobility](https://www.audible.com/pd/The-Real-Case-for-Driverless-Mobility-Audiobook/B0D9PJY6MW?eac_link=ZoLH4Nc4tFbA&ref=web_search_eac_asin_1&eac_selected_type=asin&eac_selected=B0D9PJY6MW&qid=Jjuo8XtoL1&eac_id=142-9434497-3046660_Jjuo8XtoL1&sr=1-1)
 
                 Click or tap if you trust this link." data-auth="NotApplicable" style="color: blue; margin-top: 0px; margin-bottom: 0px;" id="OWAaf021e69-5dac-e211-382d-7a839fffb831" class="OWAAutoLink" moz-do-not-send="true">Tuesday, July 9,
                               2024
 
-[Henley Champs:
-                              Princeton 1V Takes Ladies' Plate Title](https://goprincetontigers.com/news/2024/7/7/heavyweight-rowing-henley-champs-princeton-1v-takes-ladies-plate-title)
+[Henley Champs: Princeton 1V Takes Ladies' Plate Title](https://goprincetontigers.com/news/2024/7/7/heavyweight-rowing-henley-champs-princeton-1v-takes-ladies-plate-title)
 
 Staff,
                         , July7, "The literal finish line at the Henley
@@ -589,14 +550,12 @@ Hmmmm…
                           various aspects of the system simulation. So
                           proud.  �� Alain
 
-[GreenVilleMOVES:](https://www.dropbox.com/scl/fi/ok1o4veatxvbufhlrke7t/GreenVilleDemo20.mp4?rlkey=7x4jedfme1cxcsqnaz0xf4j0y&e=1&dl=0) [Generating an
-                                initial MOVES configuration:
-                                GreenVilleDemo20](https://www.dropbox.com/scl/fi/ok1o4veatxvbufhlrke7t/GreenVilleDemo20.mp4?rlkey=7x4jedfme1cxcsqnaz0xf4j0y&dl=0)
+[GreenVilleMOVES:](https://www.dropbox.com/scl/fi/ok1o4veatxvbufhlrke7t/GreenVilleDemo20.mp4?rlkey=7x4jedfme1cxcsqnaz0xf4j0y&e=1&dl=0) [Generating an initial MOVES configuration: GreenVilleDemo20](https://www.dropbox.com/scl/fi/ok1o4veatxvbufhlrke7t/GreenVilleDemo20.mp4?rlkey=7x4jedfme1cxcsqnaz0xf4j0y&dl=0)
 
 Alain
                         Kornhauser, July 8, "Video describing the use of
                         the MOVES-style Design, Analysis &
-                        Simulation System …" [Watch v](https://www.dropbox.com/scl/fi/ok1o4veatxvbufhlrke7t/GreenVilleDemo20.mp4?rlkey=7x4jedfme1cxcsqnaz0xf4j0y&dl=0)[ideo](https://www.dropbox.com/scl/fi/ok1o4veatxvbufhlrke7t/GreenVilleDemo20.mp4?rlkey=7x4jedfme1cxcsqnaz0xf4j0y&dl=0)[](https://www.dropbox.com/scl/fi/ok1o4veatxvbufhlrke7t/GreenVilleDemo20.mp4?rlkey=7x4jedfme1cxcsqnaz0xf4j0y&dl=0)[](https://www.dropbox.com/scl/fi/ok1o4veatxvbufhlrke7t/GreenVilleDemo20.mp4?rlkey=7x4jedfme1cxcsqnaz0xf4j0y&dl=0)
+                        Simulation System …" [Watch v](https://www.dropbox.com/scl/fi/ok1o4veatxvbufhlrke7t/GreenVilleDemo20.mp4?rlkey=7x4jedfme1cxcsqnaz0xf4j0y&dl=0)[ideo](https://www.dropbox.com/scl/fi/ok1o4veatxvbufhlrke7t/GreenVilleDemo20.mp4?rlkey=7x4jedfme1cxcsqnaz0xf4j0y&dl=0)
                             Hmmmm…   Nice.  Alain
 
                 Click or tap if you trust this link." data-auth="NotApplicable" style="color: blue; margin-top: 0px; margin-bottom: 0px;" id="OWA0344b062-8f02-0753-d94d-791d05afe110" class="OWAAutoLink" moz-do-not-send="true">Monday, July 1,
@@ -655,9 +614,7 @@ For
                 Click or tap if you trust this link." data-auth="NotApplicable" style="color: blue; margin-top: 0px; margin-bottom: 0px;" id="OWA0307bb6d-6b63-0405-122d-c0d60616178d" class="OWAAutoLink" moz-do-not-send="true">Saturday, June 15,
                               2024
 
-[Elon Musk's
-                              PREDICTIONS Just Left Audience
-                              SPEECHLESS!!](https://www.youtube.com/watch?v=X4kRzlffBBI)
+[Elon Musk's PREDICTIONS Just Left Audience SPEECHLESS!!](https://www.youtube.com/watch?v=X4kRzlffBBI)
 
 Farzad,
                         June 13, "…".  [Watch Video](https://www.youtube.com/watch?v=X4kRzlffBBI) Hmmmm…
@@ -667,8 +624,7 @@ Farzad,
                 Click or tap if you trust this link." data-auth="NotApplicable" style="color: blue; margin-top: 0px; margin-bottom: 0px;" id="OWA28bfc6ed-f42c-ab03-341a-66c91398caa9" class="OWAAutoLink" moz-do-not-send="true">Monday, May 27,
                               2024
 
-[Dispatch Central:
-                              The 6th Princeton SmartDrivingCars Summit](https://www.michaellsena.com/the-dispatcher-newsletter-2/)
+[Dispatch Central: The 6th Princeton SmartDrivingCars Summit](https://www.michaellsena.com/the-dispatcher-newsletter-2/)
 
 Michael
                         Sena,  June 1, AFTER THE 4TH PRINCETON
@@ -800,7 +756,7 @@ On
                         students, and they are all credited with special
                         mention at the end or out book.
 
-[](https://www.dropbox.com/scl/fi/daoinf8btujv332q021nd/Orf401S24_-About_HandyRides.docx?rlkey=gjylhc9bsim5nncf8x7eq5hlz&dl=0)It's
+It's
                           time for MOVES to get moving
 
 At
@@ -828,17 +784,14 @@ At
                 Click or tap if you trust this link." data-auth="NotApplicable" style="color: blue; margin-top: 0px; margin-bottom: 0px;" id="OWA11a4eb78-f7d2-a58b-478c-81929f95626c" class="OWAAutoLink" moz-do-not-send="true">Monday, May 27,
                               2024
 
-[On self driving,
-                              Waymo is playing chess while Tesla plays
-                              checkers](https://www.understandingai.org/p/waymos-investments-in-san-francisco)
+[On self driving, Waymo is playing chess while Tesla plays checkers](https://www.understandingai.org/p/waymos-investments-in-san-francisco)
 
 Timothy
                         Lee,  May 21, ".Tesla fans—and CEO Elon Musk
                         himself—are excited about the prospects for
                         Tesla's Full Self Driving (FSD) software. Tesla
                         released a major upgrade—version 12.3—of the
-                        software in March. Then last month [Musk
-                            announced](https://substack.com/redirect/e664c475-2d2b-4042-a063-0dc7ce35361d?j=eyJ1IjoiM3kycjUifQ.iO9vWnOnnUFaDRRnr0aYW5fGSS_3xidyuMieXDUuPp8) that
+                        software in March. Then last month [Musk announced](https://substack.com/redirect/e664c475-2d2b-4042-a063-0dc7ce35361d?j=eyJ1IjoiM3kycjUifQ.iO9vWnOnnUFaDRRnr0aYW5fGSS_3xidyuMieXDUuPp8) that
                         Tesla would unveil a purpose-built robotaxi on
                         August 8. Last week Elon Musk [announced](https://substack.com/redirect/7868ad4e-9734-40c1-82d3-ed5a09ca7ac5?j=eyJ1IjoiM3kycjUifQ.iO9vWnOnnUFaDRRnr0aYW5fGSS_3xidyuMieXDUuPp8) that
                         a new version of FSD—12.4—is coming out in the
@@ -876,8 +829,7 @@ So while
                 Click or tap if you trust this link." data-auth="NotApplicable" style="color: blue; margin-top: 0px; margin-bottom: 0px;" id="OWAe311babb-723b-272a-fdae-280340e4c9ea" class="OWAAutoLink" moz-do-not-send="true">Sunday, May 19,
                               2024
 
-[The Battle for the
-                              Streets of New York](https://www.nytimes.com/interactive/2024/05/13/nyregion/nyc-traffic-congestion-pricing-parking.html)
+[The Battle for the Streets of New York](https://www.nytimes.com/interactive/2024/05/13/nyregion/nyc-traffic-congestion-pricing-parking.html)
 
 D.
                         Stewart,  May 13, "On a recent morning, the
@@ -920,8 +872,7 @@ But
                           play on these streets in this context?  Is no
                           one in the room going to raise their hand and
                           ask: "We want to do what??  Doesn't anyone
-                          recall [Napoleon's invasion
-                              of Moscow](https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Minard.png/1600px-Minard.png) ?"
+                          recall [Napoleon's invasion of Moscow](https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Minard.png/1600px-Minard.png) ?"
 
                           Is Waymo as  clueless as Apple, when nobody in
                           any room during any meeting raised their hand
@@ -932,8 +883,7 @@ But
                 Click or tap if you trust this link." data-auth="NotApplicable" style="color: blue; margin-top: 0px; margin-bottom: 0px;" id="OWA2646396f-555c-0600-31ea-a7d995a692e8" class="OWAAutoLink" moz-do-not-send="true">Sunday, May 12,
                               2024
 
-[Information Request
-                              ID RQ24009 to Mr. Gates](https://www.dropbox.com/scl/fi/0x3xi0wgbe8wyvpweoi91/NHTSATesla-Letter-5.6.24.pdf?rlkey=ms2qpe3vv428se9ofnkmgaukl&dl=0):
+[Information Request ID RQ24009 to Mr. Gates](https://www.dropbox.com/scl/fi/0x3xi0wgbe8wyvpweoi91/NHTSATesla-Letter-5.6.24.pdf?rlkey=ms2qpe3vv428se9ofnkmgaukl&dl=0):
 
 G.
                         Magno, May 6, "This letter is to inform you that
@@ -1102,8 +1052,7 @@ Alain
 
                 Click or tap if you trust this link." data-auth="NotApplicable" style="color: blue; margin-top: 0px; margin-bottom: 0px;" id="OWA63e4b06a-b15b-78b6-b23d-94448d689776" class="OWAAutoLink" moz-do-not-send="true">Sunday, May 5, 2024
 
-                         [The Business of
-                              Safe Car Design](https://usercontent.one/wp/www.michaellsena.com/wp-content/uploads/2024/04/The-Dispatcher_May_2024.pdf)
+                         [The Business of Safe Car Design](https://usercontent.one/wp/www.michaellsena.com/wp-content/uploads/2024/04/The-Dispatcher_May_2024.pdf)
 
 M.
                         Sena, May 2024, "THE MOTIVATION FOR writing this
@@ -1192,8 +1141,7 @@ Program
                           was presented to the rest of the invited
                           attendees.  I am really pumped.  Alain
 
- [Tesla starts
-                              leaning into advantages of supervised FSD](https://www.teslarati.com/tesla-promotes-supervised-fsd-advantages/)
+ [Tesla starts leaning into advantages of supervised FSD](https://www.teslarati.com/tesla-promotes-supervised-fsd-advantages/)
 
 J.
                         Huang, March 18, " With the release and warm
@@ -1245,8 +1193,7 @@ While
 
                 Click or tap if you trust this link." data-auth="NotApplicable" style="color: blue; margin-top: 0px; margin-bottom: 0px;" id="OWA1c80a746-9523-b150-5135-dc9c261b864f" class="OWAAutoLink" moz-do-not-send="true">Special Edition
 
- [I Am AI | NVIDIA
-                              GTC 2024 | Official Keynote Intro](https://www.youtube.com/watch?v=Y2F8yisiS6E)
+ [I Am AI | NVIDIA GTC 2024 | Official Keynote Intro](https://www.youtube.com/watch?v=Y2F8yisiS6E)
 
 J.
                         Huang, March 18, " Watch NVIDIA CEO Jensen
@@ -1254,9 +1201,7 @@ J.
                         announcements on AI advances that are shaping
                         our future…." [Read More](https://www.youtube.com/watch?v=Y2F8yisiS6E)Hmmmm…
                              Certainly worth your time to
-                          watch the whole 2 hours. The Living [Art interactive
-                              Large Nature Model: Living Art interactive
-                              graphic display at the very beginning](https://www.dropbox.com/s/muiqerhaxw0934l/IMG_0703.MOV?dl=0) is
+                          watch the whole 2 hours. The Living [Art interactive Large Nature Model: Living Art interactive graphic display at the very beginning](https://www.dropbox.com/s/muiqerhaxw0934l/IMG_0703.MOV?dl=0) is
                           phenomenal. Pictures of us in front of Large
                           Nature Model: [one,](https://www.dropbox.com/scl/fi/eelyuo6z5qgo44z8npmcx/IMG_0716.JPG?rlkey=4a624s98a8bnchkjngmk5ebrn&dl=0)
 [two](https://www.dropbox.com/scl/fi/zxwwg0xtu6korhusgwnxg/IMG_0722.JPG?rlkey=6nv0742a4olzff3ow7pcedafq&dl=0).
@@ -1277,8 +1222,7 @@ J.
 
 Alain
                         Kornhauser & Elizabeth Monroe,  March 23,
-                        we reported on IIHS/HDLI's [Partial automation
-                              safeguard ratings](https://www.iihs.org/ratings/partial-automation-safeguards) with
+                        we reported on IIHS/HDLI's [Partial automation safeguard ratings](https://www.iihs.org/ratings/partial-automation-safeguards) with
                         the " …[Read More](https://sfstandard.com/2024/03/13/waymo-safety-robotaxis/)
                             Hmmmm… Really good rating system;
                           however, it could be much better if it started

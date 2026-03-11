@@ -9,11 +9,7 @@ SmartDrivingCars_012414 Detroit AutoShow
 
               February 4, 2014
 
-## [U.S.
-
-            Department of Transportation Announces Decision to Move
-            Forward with Vehicle-to-Vehicle Communication Technology for
-            Light Vehicles](http://www.nhtsa.gov/About+NHTSA/Press+Releases/2014/USDOT+to+Move+Forward+with+Vehicle-to-Vehicle+Communication+Technology+for+Light+Vehicles)
+## [U.S. Department of Transportation Announces Decision to Move Forward with Vehicle-to-Vehicle Communication Technology for Light Vehicles](http://www.nhtsa.gov/About+NHTSA/Press+Releases/2014/USDOT+to+Move+Forward+with+Vehicle-to-Vehicle+Communication+Technology+for+Light+Vehicles)
 
         HTSA 05-14  Contact: Nathan Naylor,
         202-366-9550, [Public.Affairs@dot.gov](mailto:Public.Affairs@dot.gov)
@@ -76,35 +72,27 @@ What is clear about this statement is that it
               vehicle movements....", and
 
 •    is silent about [DSRC](http://en.wikipedia.org/wiki/Dedicated_short-range_communications)
-              and "[the
-                spectrum](http://www.its.dot.gov/DSRC/dsrc_faq.htm)".
+              and "[the spectrum](http://www.its.dot.gov/DSRC/dsrc_faq.htm)".
 
 Did I miss something?  Is this just a
             baby step or did the door to Pandora's box just crack open?
             Alain
 
-## [](http://www.citymobil2.eu/en/About-CityMobil2/Overview/) [European
-
-            Commission agreed upon the demonstration schedule](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Reports&Speaches_External/Demo_timetable-1.pdf)
+##  [European Commission agreed upon the demonstration schedule](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Reports&Speaches_External/Demo_timetable-1.pdf)
 
         Adrianon Alessandrini [adriano.alessandrini@uniroma1.it](mailto:adriano.alessandrini@uniroma1.it)
         Feb 2 2014 reports via email that the European Commission has
         confirmed that the CityMobile2 driverless vehicle demonstrations
         with a showcase of [Robosoft](http://www.robosoft.com/products/people-transportation/index.html)
-        vehicles in [Leon
-          (Spain)](http://en.wikipedia.org/wiki/Le%C3%B3n,_Spain) in May.  This will be followed by a three months
-        summer demonstration in [Torregrande
-
-          Beach](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Images/TorregrandeBeach.JPG), Oristano (Italy) June first.  Three or four Induct
+        vehicles in [Leon (Spain)](http://en.wikipedia.org/wiki/Le%C3%B3n,_Spain) in May.  This will be followed by a three months
+        summer demonstration in [Torregrande Beach](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Images/TorregrandeBeach.JPG), Oristano (Italy) June first.  Three or four Induct
 
         vehicles will be in service alongside the beach all summer.  (A
         live broadcast of the operation will be attempted during this
         summer's TRB Automated Vehicle Conference.)
 
         Beginning in September, the full fleet (six vehicles) of [Robosoft](http://www.robosoft.com/products/people-transportation/index.html)
-        will be in [La
-
-          Rochelle](http://en.wikipedia.org/wiki/La_Rochelle) for the entire autumn and winter seasons.   These
+        will be in [La Rochelle](http://en.wikipedia.org/wiki/La_Rochelle) for the entire autumn and winter seasons.   These
         vehicles will become part of the local transit network.  As
         such, they will meet several urban integration challenges such
         as: connecting with the train at the main station, crossing a
@@ -135,9 +123,7 @@ Did I miss something?  Is this just a
         vehicles will be detached and sent to Finland between 15th of
         July and 15th of August where they will bring people from a
         train station to the housing fair in the municipality of [Vantaa](http://simple.wikipedia.org/wiki/Vantaa).  A
-        new settlement, [Marja
-
-          Vantaa](http://www.vantaa.fi/instancedata/prime_product_julkaisu/vantaa/embeds/vantaawwwstructure/31014_CompetitionProgrammeENG.pdf), is being built and might be served solely by
+        new settlement, [Marja Vantaa](http://www.vantaa.fi/instancedata/prime_product_julkaisu/vantaa/embeds/vantaawwwstructure/31014_CompetitionProgrammeENG.pdf), is being built and might be served solely by
         automated vehicles.  The Municipality will bring people to see
         the construction sites on board to such vehicles, much as the
         electric railways enticed home buyers a century ago.
@@ -147,30 +133,22 @@ Did I miss something?  Is this just a
         but which will do a demonstration and which a showcase will be
         decided in August 2015 pending the progress realized.
 
-[Calendar
-
-                of all of the deployments](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Reports&Speaches_External/Demo_timetable-1.pdf).  This EU Commission
+[Calendar of all of the deployments](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Reports&Speaches_External/Demo_timetable-1.pdf).  This EU Commission
               announcement takes a giant step. Alain
 
-## [](https://www.hyundaiusa.com/)
-                  By far the BEST Super Bowl Commercial   [Play
-
-                    video](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Videos/HyundaiSuperBowlCommercial2014.mp4) Alain
+## 
+                  By far the BEST Super Bowl Commercial   [Play video](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Videos/HyundaiSuperBowlCommercial2014.mp4) Alain
 
 ##
 
-## [Carlos
-
-            Ghosn tests Renault's autonomous vehicle](http://blog.alliance-renault-nissan.com/blog/carlos-ghosn-tests-renaults-autonomous-vehicle)
+## [Carlos Ghosn tests Renault's autonomous vehicle](http://blog.alliance-renault-nissan.com/blog/carlos-ghosn-tests-renaults-autonomous-vehicle)
 
 Renault-Nissan Alliance Team, Jan 28, 2014, "Watch
           Renault-Nissan Alliance CEO and Chairman Carlos Ghosn take a
           ride in Renault's autonomous vehicle prototype.  In specific
           situations such as traffic jams up to 30 km/h, the prototype
           drives itself, allowing the driver to concentrate on other
-          matters than the road ahead... [Watch
-
-            the video](http://www.youtube.com/watch?v=RnsqH1DYirQ&feature=player_embedded) .  This video begins
+          matters than the road ahead... [Watch the video](http://www.youtube.com/watch?v=RnsqH1DYirQ&feature=player_embedded) .  This video begins
               to hit the nail on the head.  Ghosn focuses on creating a
               car that allows the driver to do what the driver really
               wants to do at least during some of the "2 hours a day "
@@ -215,11 +193,7 @@ This may be an ideal situation for
 
 The Chairman's view is substantially
               different than that of  the Chief Performance Officer's
-              view as presented in the 2nd video at this site: [Renault's
-
-              Stoll on high-potential markets and driverless cars](http://blog.alliance-renault-nissan.com/category/tag/autonomous-drive)  In this video, ([jumped
-
-                forward to 2:40](http://www.youtube.com/watch?feature=player_embedded&v=jIhH8dyc8CA#t=158)),  he seems to question the
+              view as presented in the 2nd video at this site: [Renault's Stoll on high-potential markets and driverless cars](http://blog.alliance-renault-nissan.com/category/tag/autonomous-drive)  In this video, ([jumped forward to 2:40](http://www.youtube.com/watch?feature=player_embedded&v=jIhH8dyc8CA#t=158)),  he seems to question the
               rationale for anyone wanting to purchase an autonomous
               vehicle. Why would anyone want to  buy a car to just be
               driven by the car?  He almost suggests that public
@@ -244,9 +218,7 @@ The Chairman's view is substantially
 Seems clear that the Chairman has
               the better view.  Alain
 
-## [Selmon
-
-            Expressway becomes testing ground for automated vehicles](http://www.tampabay.com/news/business/autos/selmon-expressway-becomes-testing-ground-for-automated-vehicles/2163702)
+## [Selmon Expressway becomes testing ground for automated vehicles](http://www.tampabay.com/news/business/autos/selmon-expressway-becomes-testing-ground-for-automated-vehicles/2163702)
 
         Susan Thurston, Friday, Jan. 31, 2014 Tampa — "...The Tampa
         Hillsborough Expressway Authority said Friday the Selmon
@@ -261,13 +233,9 @@ Seems clear that the Chairman has
         area access to the businesses, automakers and researchers
         developing the technology, said the authority's executive
         director Joe Waggoner. Long term, the goal is to make Florida a
-        leader in driverless transportation systems..." [Read
+        leader in driverless transportation systems..." [Read more](http://www.tampabay.com/news/business/autos/selmon-expressway-becomes-testing-ground-for-automated-vehicles/2163702)
 
-          more](http://www.tampabay.com/news/business/autos/selmon-expressway-becomes-testing-ground-for-automated-vehicles/2163702)
-
-## [Google
-
-            New Ad Patent Offers Free Taxi Ride to the Store](http://www.hngn.com/articles/22958/20140126/google-new-ad-patent-offers-free-taxi-ride-to-the-store.htm)
+## [Google New Ad Patent Offers Free Taxi Ride to the Store](http://www.hngn.com/articles/22958/20140126/google-new-ad-patent-offers-free-taxi-ride-to-the-store.htm)
 
         TBy Julie S Jan 26, 2014  "...The patented algorithm would
         consider things like user's current location, route and possible
@@ -276,46 +244,28 @@ Seems clear that the Chairman has
         location. Other things such as the user's daily agenda and "the
         price competing advertisers are willing to pay for the customers
         to be delivered to the alternate locations" are also
-        considered..."[Read
-
-          more](http://www.hngn.com/articles/22958/20140126/google-new-ad-patent-offers-free-taxi-ride-to-the-store.htm)
+        considered..."[Read more](http://www.hngn.com/articles/22958/20140126/google-new-ad-patent-offers-free-taxi-ride-to-the-store.htm)
 
             Humm... This is patentable?  Hasn't this been in the
             literature for a very long time? Patent office must be
             broken.  Alain
 
 ## Some other
-            reports on the "[V2V
+            reports on the "[V2V announcement](http://www.nhtsa.gov/About+NHTSA/Press+Releases/2014/USDOT+to+Move+Forward+with+Vehicle-to-Vehicle+Communication+Technology+for+Light+Vehicles)"
 
-            announcement](http://www.nhtsa.gov/About+NHTSA/Press+Releases/2014/USDOT+to+Move+Forward+with+Vehicle-to-Vehicle+Communication+Technology+for+Light+Vehicles)"
+### [U.S. Plans Car-to-Car Warning System](http://www.nytimes.com/2014/02/04/business/us-plans-car-to-car-warning-system.html?ref=business&_r=0)
 
-### [U.S.
+### [It's Time to Start Talking About Cars Talking to Each Other](http://motherboard.vice.com/blog/its-time-to-start-talking-about-cars-talking-to-each-other)
 
-            Plans Car-to-Car Warning System](http://www.nytimes.com/2014/02/04/business/us-plans-car-to-car-warning-system.html?ref=business&_r=0)
-
-### [It's
-
-            Time to Start Talking About Cars Talking to Each Other](http://motherboard.vice.com/blog/its-time-to-start-talking-about-cars-talking-to-each-other)
-
-### ['Connected-vehicle
-
-            technology' could cut crashes while paving way for
-            driverless cars](http://www.washingtonpost.com/local/trafficandcommuting/direct-communication-between-car-computers-may-reduce-accidents-by-up-to-80-percent/2014/02/03/b55e9330-8d1a-11e3-833c-33098f9e5267_story.html)
+### ['Connected-vehicle technology' could cut crashes while paving way for driverless cars](http://www.washingtonpost.com/local/trafficandcommuting/direct-communication-between-car-computers-may-reduce-accidents-by-up-to-80-percent/2014/02/03/b55e9330-8d1a-11e3-833c-33098f9e5267_story.html)
 
 ###
 
-## [Serving
+## [Serving New Jersey's Mobility Needs:](http://orfe.princeton.edu/%7Ealaink/NJ_aTaxiOrf467F13/Orf%20467F13_FinalReport&PresentationLinks.pdf)
 
-        New Jersey's Mobility Needs:](http://orfe.princeton.edu/%7Ealaink/NJ_aTaxiOrf467F13/Orf%20467F13_FinalReport&PresentationLinks.pdf)
-
-[With
-
-      Walking, Cycling, aTaxis and Trains; Mobility, Congestion and
-      Environmental Consequences](http://orfe.princeton.edu/%7Ealaink/NJ_aTaxiOrf467F13/Orf%20467F13_FinalReport&PresentationLinks.pdf).  Very
+[With Walking, Cycling, aTaxis and Trains; Mobility, Congestion and Environmental Consequences](http://orfe.princeton.edu/%7Ealaink/NJ_aTaxiOrf467F13/Orf%20467F13_FinalReport&PresentationLinks.pdf).  Very
       interesting student [PowerPoints](http://orfe.princeton.edu/%7Ealaink/NJ_aTaxiOrf467F13/Orf467F13_FinalProjectPresntations/)
-      and [Drafts
-
-        of Chapters](http://orfe.princeton.edu/%7Ealaink/NJ_aTaxiOrf467F13/Orf467F13_FinalReports/). A little rough in places but still well worth
+      and [Drafts of Chapters](http://orfe.princeton.edu/%7Ealaink/NJ_aTaxiOrf467F13/Orf467F13_FinalReports/). A little rough in places but still well worth
       browsing.  Alain
 
  [Slides:
@@ -323,13 +273,11 @@ http://orfe.princeton.edu/~alaink/NJ_aTaxiOrf467F13/Orf%20467F13_FinalReport&Pre
 
 Drafts of chapters: [http://orfe.princeton.edu/~alaink/NJ_aTaxiOrf467F13/Orf467F13_FinalReports/](http://orfe.princeton.edu/%7Ealaink/NJ_aTaxiOrf467F13/Orf467F13_FinalReports/)
 
-[](http://orfe.princeton.edu/%7Ealaink/NJ_aTaxiOrf467F13/Orf467F13_FinalReports/)
 
 # Calendar of Upcoming
         Events:
 
-## [Understanding
-        Young Driver Behavior to Prevent Risk](http://www.cts.umn.edu/events/youngdrivers/)
+## [Understanding Young Driver Behavior to Prevent Risk](http://www.cts.umn.edu/events/youngdrivers/)
 
 Marie Claude Ouimet, Université de Sherbrooke  February 11,
     2014  1:30 p.m. – 3:00 p.m. Room 219 Center for Transportation
@@ -338,13 +286,10 @@ Marie Claude Ouimet, Université de Sherbrooke  February 11,
     University of Minnesota 200 Transportation & Safety Building 511
     Washington Ave. SE Minneapolis, MN
 
-## [Google's Self-Driving Car: What We've
-        Done and What We Need](http://ite.cvent.com/events/ite-2014-technical-conference-and-exhibit/agenda-bee5f7ffea4540ffbf41f324d1e6c081.aspx)
+## [Google's Self-Driving Car: What We've Done and What We Need](http://ite.cvent.com/events/ite-2014-technical-conference-and-exhibit/agenda-bee5f7ffea4540ffbf41f324d1e6c081.aspx)
 
 Andrew Chatham, Principal Software Engineer, Google will
-      lead the plenary session on [Tuesday,
-
-        March 11](http://ite.cvent.com/events/ite-2014-technical-conference-and-exhibit/agenda-bee5f7ffea4540ffbf41f324d1e6c081.aspx). Chatham leads the offboard software and mapping
+      lead the plenary session on [Tuesday, March 11](http://ite.cvent.com/events/ite-2014-technical-conference-and-exhibit/agenda-bee5f7ffea4540ffbf41f324d1e6c081.aspx). Chatham leads the offboard software and mapping
       efforts for Google's self-driving cars. He joined the project in
       2009 and has helped the team achieve over 500,000 miles of
       autonomous driving. He is especially interested in the
@@ -352,9 +297,7 @@ Andrew Chatham, Principal Software Engineer, Google will
       transportation world. He joined Google in 2002 and is a graduate
       of Duke University.
 
-[Register
-
-        TODAY](https://ite.cvent.com/events/ite-2014-technical-conference-and-exhibit/registration-bee5f7ffea4540ffbf41f324d1e6c081.aspx?r=eba498f2-ec68-4f77-9bad-e6b73dfb9d25) for the ITE 2014 Technical Conference and Exhibit.
+[Register TODAY](https://ite.cvent.com/events/ite-2014-technical-conference-and-exhibit/registration-bee5f7ffea4540ffbf41f324d1e6c081.aspx?r=eba498f2-ec68-4f77-9bad-e6b73dfb9d25) for the ITE 2014 Technical Conference and Exhibit.
 
 # Recent Versions of:
 
@@ -362,29 +305,20 @@ Andrew Chatham, Principal Software Engineer, Google will
 
           January 26, 2014
 
-## [What
-
-        Will Happen to Public Transit in a World Full of Autonomous
-        Cars?](http://www.theatlanticcities.com/commute/2014/01/what-will-happen-public-transit-world-full-autonomous-cars/8131/)
+## [What Will Happen to Public Transit in a World Full of Autonomous Cars?](http://www.theatlanticcities.com/commute/2014/01/what-will-happen-public-transit-world-full-autonomous-cars/8131/)
 
     by Emily Badger, Jan 17, 2014   "...The great promise of autonomous
     cars is not that we could each own one in our own driveway – the
     21st century's version of owning your own Model T, or your own color
     TV, or your own bulky Macintosh – but that no one would need to own
-    one at all..." [Read
-
-      more](http://www.theatlanticcities.com/commute/2014/01/what-will-happen-public-transit-world-full-autonomous-cars/8131/) In fact read the whole thing as well as the [266
-
-              Comments](http://www.theatlanticcities.com/commute/2014/01/what-will-happen-public-transit-world-full-autonomous-cars/8131/#disqus_thread). This may be the first
+    one at all..." [Read more](http://www.theatlanticcities.com/commute/2014/01/what-will-happen-public-transit-world-full-autonomous-cars/8131/) In fact read the whole thing as well as the [266 Comments](http://www.theatlanticcities.com/commute/2014/01/what-will-happen-public-transit-world-full-autonomous-cars/8131/#disqus_thread). This may be the first
         time that these concepts have received any attention in any of
         the public press, the better reports by KPMG and Rand or
         the Congressional hearings.  Alain
 
           January 17, 2014
 
-## [Autonomous
-
-        Vehicle Technology:  A Guide for Policymakers](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/PDFs/Rand_Anderson_AutonomousVehicleTechnology.pdf)
+## [Autonomous Vehicle Technology:  A Guide for Policymakers](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/PDFs/Rand_Anderson_AutonomousVehicleTechnology.pdf)
 
 by James M. Anderson, Nidhi Kalra, Karlyn D. Stanley, Paul
       Sorensen, Constantine Samaras, Oluwatobi Oluwatola
@@ -393,9 +327,7 @@ This report is excellent
 
           January 6, 2014
 
-## [Self-Driving
-
-        Cars Moving into the Industry's Driver's Seat](http://press.ihs.com/press-release/automotive/self-driving-cars-moving-industrys-drivers-seat)
+## [Self-Driving Cars Moving into the Industry's Driver's Seat](http://press.ihs.com/press-release/automotive/self-driving-cars-moving-industrys-drivers-seat)
 
 Jan. 2, 2014  "Accident rates will plunge to near zero for SDCs,
       although other cars will crash into SDCs, but as the market share
@@ -412,32 +344,21 @@ Jan. 2, 2014  "Accident rates will plunge to near zero for SDCs,
       11.8 million in 2035 – 7 million SDCs with both driver control and
       autonomous control and 4.8 million that have only autonomous
       control. In all, there should be nearly 54 million self-driving
-      cars in use globally by 2035.  [Read
-
-        more](http://press.ihs.com/press-release/automotive/self-driving-cars-moving-industrys-drivers-seat)
+      cars in use globally by 2035.  [Read more](http://press.ihs.com/press-release/automotive/self-driving-cars-moving-industrys-drivers-seat)
 
           December 27, 2013
 
           December 20, 2013
 
-## [](http://www.amazon.com/The-New-Killer-Apps-Out-Innovate/dp/0989242013/ref=sr_1_1?ie=UTF8&qid=1387553143&sr=8-1&keywords=The+New+Killer+Apps+Mui) ["The
-
-        New Killer Apps](http://www.amazon.com/The-New-Killer-Apps-Out-Innovate/dp/0989242013/ref=sr_1_1?ie=UTF8&qid=1387553143&sr=8-1&keywords=The+New+Killer+Apps+Mui)
+##  ["The New Killer Apps](http://www.amazon.com/The-New-Killer-Apps-Out-Innovate/dp/0989242013/ref=sr_1_1?ie=UTF8&qid=1387553143&sr=8-1&keywords=The+New+Killer+Apps+Mui)
 
 How Large Companies Can Out-Innovate Start-Ups"
-by Chunka Mui and Paul B. Carroll [Now
+by Chunka Mui and Paul B. Carroll [Now Available](http://www.amazon.com/The-New-Killer-Apps-Out-Innovate/dp/0989242013/ref=sr_1_1?ie=UTF8&qid=1387553143&sr=8-1&keywords=The+New+Killer+Apps+Mui) [Highly Recommended.](https://www.kirkusreviews.com/book-reviews/chunka-mui/the-new-killer-apps/?utm_content=buffer57917&utm_source=buffer&utm_medium=twitter&utm_campaign=Buffer)See also Chunka's Dec. 19 Forbes article [Will The Google Car Force A Choice Between Lives And Jobs?](http://www.forbes.com/sites/chunkamui/2013/12/19/will-the-google-car-force-a-choice-between-lives-and-jobs/)
 
-        Available](http://www.amazon.com/The-New-Killer-Apps-Out-Innovate/dp/0989242013/ref=sr_1_1?ie=UTF8&qid=1387553143&sr=8-1&keywords=The+New+Killer+Apps+Mui) [Highly
-
-          Recommended.](https://www.kirkusreviews.com/book-reviews/chunka-mui/the-new-killer-apps/?utm_content=buffer57917&utm_source=buffer&utm_medium=twitter&utm_campaign=Buffer)See also Chunka's Dec. 19 Forbes article [Will
-
-            The Google Car Force A Choice Between Lives And Jobs?](http://www.forbes.com/sites/chunkamui/2013/12/19/will-the-google-car-force-a-choice-between-lives-and-jobs/)
-
-  [](Mailto:alaink@princeton.edu)[Mailto:alaink@princeton.edu](Mailto:alaink@princeton.edu)[](Mailto:alaink@princeton.edu)
+  [Mailto:alaink@princeton.edu](Mailto:alaink@princeton.edu)
 
  This list is maintained by [Alain Kornhauser](mailto:alaink@princeton.edu) and hosted
-    by the [Princeton University
-      LISTSERV](http://lists.princeton.edu).
+    by the [Princeton University LISTSERV](http://lists.princeton.edu).
 
 [Unsubscribe](https://lists.princeton.edu/cgi-bin/wa?TICKET=NzM1MjMzIGJpbm9AUFJJTkNFVE9OLkVEVSBTTUFSVERSSVZJTkdDQVJTIGluYtYkJuu3&c=SIGNOFF)
     | [Re-subscribe](https://lists.princeton.edu/cgi-bin/wa?TICKET=NzM1MjMzIGJpbm9AUFJJTkNFVE9OLkVEVSBTTUFSVERSSVZJTkdDQVJTIGluYtYkJuu3&c=SIGNUP)

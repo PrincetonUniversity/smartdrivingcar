@@ -7,8 +7,7 @@ permalink: /2013-10-17-2013-10-17/
 
 October 18, 2013
 
-## [Are
-        You Ready When Your Google Car Freaks Out?](http://www.eetimes.com/document.asp?doc_id=1319810)
+## [Are You Ready When Your Google Car Freaks Out?](http://www.eetimes.com/document.asp?doc_id=1319810)
 
     Junko Yoshida 10/16/2013 TOKYO — All eyes have been fixed on the
     autonomous car at the ITS World Congress here this week. For
@@ -35,17 +34,13 @@ October 18, 2013
     Asked by EE Times, after the ITS session, about how self-driving
     cars are designed to handle exceptions, Ron Medford, Google's
     director of safety for self-driving cars, deflected the question. He
-    said, "Readiness of drivers to take over the control [of a
-    self-driving car at the moment's notice] is simply not understood
+    said, "Readiness of drivers to take over the control [of a self-driving car at the moment's notice] is simply not understood
     yet."  Citing a number of studies now underway, Medford explained
     that, not only companies like Google, but also a lot of government
-    officials and regulators are all eager for the results..."  [Read
-      more](http://www.eetimes.com/document.asp?doc_id=1319810) Also be sure to look at the
+    officials and regulators are all eager for the results..."  [Read more](http://www.eetimes.com/document.asp?doc_id=1319810) Also be sure to look at the
         comments.
 
-This same issue came up at the [International
-
-          Task Force On Vehicle-Highway Automation](http://www.fot-net.eu/en/news__events/events/upcoming_fot_events/international_task_force_on_vehicle-highway_automation__.htm) held the
+This same issue came up at the [International Task Force On Vehicle-Highway Automation](http://www.fot-net.eu/en/news__events/events/upcoming_fot_events/international_task_force_on_vehicle-highway_automation__.htm) held the
         day before ITS.  My comment was that Google must already have a
         pretty good idea about this issue.  They've driven a half
         million miles.  They've experienced a very large number of
@@ -60,10 +55,7 @@ This same issue came up at the [International
         community so that it can build on the the Google experience
         rather than having to redo it.  Alain
 
-## [Texas
-
-        Instruments drives customer applications one lane closer to an
-        autonomous driving experience and reduction in collisions](http://newscenter.ti.com/2013-10-16-Texas-Instruments-drives-customer-applications-one-lane-closer-to-an-autonomous-driving-experience-and-reduction-in-collisions)
+## [Texas Instruments drives customer applications one lane closer to an autonomous driving experience and reduction in collisions](http://newscenter.ti.com/2013-10-16-Texas-Instruments-drives-customer-applications-one-lane-closer-to-an-autonomous-driving-experience-and-reduction-in-collisions)
 
     BADEN-BADEN, Germany, Oct. 16, 2013 "…Texas Instruments Incorporated
     (TI) (NASDAQ: TXN) today unveiled an automotive System-on-Chip (SoC)
@@ -79,13 +71,10 @@ This same issue came up at the [International
     fusion. Furthermore, TI's unique Vision AccelerationPac complements
     the industry's leading TMS320C66x digital signal processors (DSP)
     generation cores, and enables more ADAS algorithms to run
-    simultaneously…"  [Read
-
-      more](http://newscenter.ti.com/2013-10-16-Texas-Instruments-drives-customer-applications-one-lane-closer-to-an-autonomous-driving-experience-and-reduction-in-collisions)  Very interesting.  Someone
+    simultaneously…"  [Read more](http://newscenter.ti.com/2013-10-16-Texas-Instruments-drives-customer-applications-one-lane-closer-to-an-autonomous-driving-experience-and-reduction-in-collisions)  Very interesting.  Someone
         needs to jump on this and we need to get the SDK. Alain.
 
-## [Empowering
-        automotive vision with TI's Vision AccelerationPac](http://www.ti.com/lit/wp/spry251/spry251.pdf)
+## [Empowering automotive vision with TI's Vision AccelerationPac](http://www.ti.com/lit/wp/spry251/spry251.pdf)
 
     "…TI's Vision AccelerationPac is a programmable accelerator created
     specifically to enable the processing, power, latency and
@@ -98,13 +87,9 @@ This same issue came up at the [International
     performance and value. Each EVE delivers more than 8× improvement in
     compute performance for advanced vision analytics than existing ADAS
     systems at same power levels…" [Read more](http://www.ti.com/lit/wp/spry251/spry251.pdf)
-[ADAS
-        Applications Processor TDA2x System-on-Chip Technical Brief](http://www.ti.com/lit/ds/symlink/tda2.pdf)
+[ADAS Applications Processor TDA2x System-on-Chip Technical Brief](http://www.ti.com/lit/ds/symlink/tda2.pdf)
 
-## [Consumers
-
-        More Likely To Use Self-Driving Cars From Tech Cos. Over
-        Traditional Automakers](http://www.kpmg.com/US/en/IssuesAndInsights/ArticlesPublications/Press-Releases/Pages/Consumers-More-Likely-To-Use-Self-Driving-Cars-From-Tech-Cos-Over-Traditional-Automakers-KPMG-Study-Finds.aspx)
+## [Consumers More Likely To Use Self-Driving Cars From Tech Cos. Over Traditional Automakers](http://www.kpmg.com/US/en/IssuesAndInsights/ArticlesPublications/Press-Releases/Pages/Consumers-More-Likely-To-Use-Self-Driving-Cars-From-Tech-Cos-Over-Traditional-Automakers-KPMG-Study-Finds.aspx)
 
     "…The KPMG research yielded three important insights into when, why
     and how consumers might use self-driving vehicles.
@@ -125,18 +110,12 @@ This same issue came up at the [International
     or regulatory systems. However, we believe the market opportunities
     for self-driving vehicles and technologies are enormous, and
     innovative companies will continue to drive the technology
-    forward."…"  [Read
-
-          the original report: Self-Driving Cars: Are We Ready](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/PDFs/KPMG_self-driving-cars-are-we-ready.pdf)?
+    forward."…"  [Read the original report: Self-Driving Cars: Are We Ready](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/PDFs/KPMG_self-driving-cars-are-we-ready.pdf)?
 
         It is another very good report from KPMG to go along with their
-      [Self-Driving
+      [Self-Driving Cars: The Next Revolution](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/PDFs/KPMG_self-driving-cars-next-revolution.pdf) Alain
 
-          Cars: The Next Revolution](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/PDFs/KPMG_self-driving-cars-next-revolution.pdf) Alain
-
-## [On-Demand
-
-        Transit System Summons Buses Via An App](http://www.psfk.com/2013/10/personalized-bus-transport.html)
+## [On-Demand Transit System Summons Buses Via An App](http://www.psfk.com/2013/10/personalized-bus-transport.html)
 
     "[Kutsuplus](https://kutsuplus.fi/home), which means
     "call plus" in Finnish, is an on-demand minibus service run by
@@ -149,9 +128,7 @@ This same issue came up at the [International
     may vary.
 
     The service costs a little more than a bus ride, but less than the
-    usual Helsinki taxi fare..."  [Read
-
-      more](http://www.psfk.com/2013/10/personalized-bus-transport.html)
+    usual Helsinki taxi fare..."  [Read more](http://www.psfk.com/2013/10/personalized-bus-transport.html)
 
 Hmmm, I wonder what the Helsinki taxi
         drivers think about the new competition???  Plus, why would
@@ -163,9 +140,7 @@ Hmmm, I wonder what the Helsinki taxi
         has 'em for "little more than a bus ride" and is on the road to
         full employment.  What a city; what a country! Alain
 
-## [Toyota's
-
-        baby steps towards vehicle autonomy](http://www.motoring.com.au/news/2013/toyotas-baby-steps-towards-vehicle-autonomy-39402)
+## [Toyota's baby steps towards vehicle autonomy](http://www.motoring.com.au/news/2013/toyotas-baby-steps-towards-vehicle-autonomy-39402)
 
     "Toyota has announced it will begin installing semi-autonomous
     driving technologies in its cars from the middle of this decade.
@@ -181,9 +156,7 @@ Hmmm, I wonder what the Helsinki taxi
     Cars equipped with the gear provide each other with constant
     real-time acceleration, coasting, braking and location updates,
     improving the precision of vehicle separation and eliminating the
-    errors made by radar's analogue spatial sensory systems…" [Read
-
-      more](http://www.motoring.com.au/news/2013/toyotas-baby-steps-towards-vehicle-autonomy-39402)
+    errors made by radar's analogue spatial sensory systems…" [Read more](http://www.motoring.com.au/news/2013/toyotas-baby-steps-towards-vehicle-autonomy-39402)
 
 Hmmm (or maybe don't bother reading more),
         from the image that Toyota released above, its "baby steps" are
@@ -200,9 +173,7 @@ Hmmm (or maybe don't bother reading more),
         not be the right basis for Advanced Driver Assistance Systems.
         Alain
 
-## [Crash-less
-
-        cars? Toyota, Ford systems steer clear of pedestrians](http://www.nbcnews.com/business/crash-less-cars-toyota-ford-systems-steer-clear-pedestrians-8C11381604)
+## [Crash-less cars? Toyota, Ford systems steer clear of pedestrians](http://www.nbcnews.com/business/crash-less-cars-toyota-ford-systems-steer-clear-pedestrians-8C11381604)
 
     Paul A. Eisenstein, The Detroit Bureau Oct. 13, 2013 "A Toyota test
     car demonstrates its Pre-collision System that uses automatic
@@ -233,11 +204,7 @@ Hmmm (or maybe don't bother reading more),
     Obstacle Avoidance technology relying on a mix of sensors, including
     a camera tucked behind the rearview mirror, to scan the road for
     vehicles and pedestrians. Like the Toyota PCS, it can steer out of
-    the way if a collision seems imminent..." [Read
-
-      More](http://www.nbcnews.com/business/crash-less-cars-toyota-ford-systems-steer-clear-pedestrians-8C11381604).  Interesting [video
-
-          of a test car](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Videos/Toyota_Integrated_Safety.mp4) but not yet available in the showroom.
+    the way if a collision seems imminent..." [Read More](http://www.nbcnews.com/business/crash-less-cars-toyota-ford-systems-steer-clear-pedestrians-8C11381604).  Interesting [video of a test car](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Videos/Toyota_Integrated_Safety.mp4) but not yet available in the showroom.
         Also, it does this without vehicle2 vehicle nor
         vehicle2pedestrian communications.
         Alain
@@ -245,7 +212,6 @@ Hmmm (or maybe don't bother reading more),
 # Calendar of Upcoming
         Events:
 
-[](http://www.sitaonline.org/conference.htm)
 
 [http://www.sitaonline.org/conference.htm](http://www.sitaonline.org/conference.htm)
 
@@ -257,37 +223,30 @@ Hmmm (or maybe don't bother reading more),
 
 ##
 
-### [](http://www.podcarcity.org/washington/)
+### 
 
 ### [http://www.podcarcity.org/washington/](http://www.podcarcity.org/washington/)
 
 ## [Washington DC Oct 23-25](http://www.podcarcity.org/washington/)
 
-[](ttp://www.cs.cmu.edu/%7ECVAD2013/)
 
 [http://www.cs.cmu.edu/%7ECVAD2013/](http://www.cs.cmu.edu/%7ECVAD2013/)
 
-[](http://www.cs.cmu.edu/%7ECVAD2013/)
 
-## [First International Workshop on Computer
-          Vision for Autonomous Driving](http://www.cs.cmu.edu/%7ECVAD2013/)
+## [First International Workshop on Computer Vision for Autonomous Driving](http://www.cs.cmu.edu/%7ECVAD2013/)
 
 ### [Sydney, Australia     December 2, 2013](http://www.cs.cmu.edu/%7ECVAD2013/)
 
         11, 2013
 
-## [The
-
-        Ethics of Autonomous Cars](http://www.theatlantic.com/technology/archive/2013/10/the-ethics-of-autonomous-cars/280360/)
+## [The Ethics of Autonomous Cars](http://www.theatlantic.com/technology/archive/2013/10/the-ethics-of-autonomous-cars/280360/)
 
 [Patrick Lin](http://www.theatlantic.com/patrick-lin/)
     Oct 8 2013, "If a small tree branch pokes out onto a highway and
     there's no incoming traffic, we'd simply drift a little into the
     opposite lane and drive around it. But an automated car might come
     to a full stop, as it dutifully observes traffic laws that prohibit
-    crossing a double-yellow line...." [Read
-
-      more](http://www.theatlantic.com/technology/archive/2013/10/the-ethics-of-autonomous-cars/280360/)  Good article as are some of
+    crossing a double-yellow line...." [Read more](http://www.theatlantic.com/technology/archive/2013/10/the-ethics-of-autonomous-cars/280360/)  Good article as are some of
         the comments that follow. I'll add mine:  Yes, ethics are really
         important here, but we also need to not be sophomoric.   Laws,
         even traffic laws, are created and interpreted with human
@@ -315,9 +274,7 @@ Hmmm (or maybe don't bother reading more),
 
         October 4, 2013
 
-## [Car
-
-        Fire a Test for High-Flying Tesla](http://www.nytimes.com/2013/10/04/business/car-fire-a-test-for-high-flying-tesla.html)
+## [Car Fire a Test for High-Flying Tesla](http://www.nytimes.com/2013/10/04/business/car-fire-a-test-for-high-flying-tesla.html)
 
 ##
 
@@ -330,9 +287,7 @@ Hmmm (or maybe don't bother reading more),
     that has garnered almost unanimous praise for its battery-powered
     vehicles.The fire, on a highway exit in Kent, Wash., poses a serious
     challenge for Tesla and, at the same time, prompts new questions
-    about the safety of lithium-ion batteries in electric cars.  [Read
-
-      more](http://www.nytimes.com/2013/10/04/business/car-fire-a-test-for-high-flying-tesla.html)
+    about the safety of lithium-ion batteries in electric cars.  [Read more](http://www.nytimes.com/2013/10/04/business/car-fire-a-test-for-high-flying-tesla.html)
 
         Hmmm.  Let this be a wake-up call to all in the  SmartDrivingCar
         community that we need to be careful and be prepared to address
@@ -345,12 +300,7 @@ Hmmm (or maybe don't bother reading more),
         What this article fails to bring out is that highway vehicle
         fires are "common".
 
-      From [Highway
-
-          Vehic](http://www.usfa.fema.gov/downloads/pdf/statistics/v13i11.pdf)[le
-
-          Fires (2008-2010) FEMA  Topical Fire Report Series Vol
-        13, Issue 11, Jan 2013](http://www.usfa.fema.gov/downloads/pdf/statistics/v13i11.pdf):
+      From [Highway Vehic](http://www.usfa.fema.gov/downloads/pdf/statistics/v13i11.pdf)[le Fires (2008-2010) FEMA  Topical Fire Report Series Vol 13, Issue 11, Jan 2013](http://www.usfa.fema.gov/downloads/pdf/statistics/v13i11.pdf):
 
 * "...an estimated 194,000 highway
             vehicle fires occurred in the United States each year (1.6
@@ -368,9 +318,7 @@ Hmmm (or maybe don't bother reading more),
 
               September 28, 2013
 
-## [IIHS
-
-            issues first crash avoidance ratings](http://www.iihs.org/iihs/news/desktopnews/iihs-issues-first-crash-avoidance-ratings-under-new-test-program-7-midsize-vehicles-earn-top-marks-for-front-crash-prevention)
+## [IIHS issues first crash avoidance ratings](http://www.iihs.org/iihs/news/desktopnews/iihs-issues-first-crash-avoidance-ratings-under-new-test-program-7-midsize-vehicles-earn-top-marks-for-front-crash-prevention)
 
 IIHS News | Sept. 27, 2013  ARLINGTON, Va. —
           "A new test program by the Insurance Institute for Highway
@@ -405,11 +353,7 @@ IIHS News | Sept. 27, 2013  ARLINGTON, Va. —
           damaging the test vehicles," Zuby says. "As such, we expect
           crash mitigation benefits at higher speeds as well."
 
-[Read
-
-            more](http://www.iihs.org/iihs/news/desktopnews/iihs-issues-first-crash-avoidance-ratings-under-new-test-program-7-midsize-vehicles-earn-top-marks-for-front-crash-prevention)  [See
-
-            Video](http://www.youtube.com/watch?feature=player_embedded&v=omHES8mqtW4) [http://www.youtube.com/watch?feature=player_embedded&v=omHES8mqtW4](http://www.youtube.com/watch?feature=player_embedded&v=omHES8mqtW4)
+[Read more](http://www.iihs.org/iihs/news/desktopnews/iihs-issues-first-crash-avoidance-ratings-under-new-test-program-7-midsize-vehicles-earn-top-marks-for-front-crash-prevention)  [See Video](http://www.youtube.com/watch?feature=player_embedded&v=omHES8mqtW4) [http://www.youtube.com/watch?feature=player_embedded&v=omHES8mqtW4](http://www.youtube.com/watch?feature=player_embedded&v=omHES8mqtW4)
 
 Hats
 
@@ -417,9 +361,7 @@ Hats
                   of tests!
 
 Be sure to look at the
-              scoring table at the bottom of the [IIHS
-
-                news release](http://www.iihs.org/iihs/news/desktopnews/iihs-issues-first-crash-avoidance-ratings-under-new-test-program-7-midsize-vehicles-earn-top-marks-for-front-crash-prevention). It is disheartening to learn that for
+              scoring table at the bottom of the [IIHS news release](http://www.iihs.org/iihs/news/desktopnews/iihs-issues-first-crash-avoidance-ratings-under-new-test-program-7-midsize-vehicles-earn-top-marks-for-front-crash-prevention). It is disheartening to learn that for
               the most part, these systems didn't work!  Only Subaru,
               Cadillac and Volvo didn't crash in the 12 mph test and
               only Subaru in the 25 mph test.  The purpose of these
@@ -437,7 +379,7 @@ Why would manufacturers
 
               September 27, 2013
 
-## [](http://thehill.com/blogs/transportation-report/automobiles/324661-house-to-hold-hearing-on-driverless-cars#ixzz2g6SkOjlU)[House to hold hearing on driverless cars](http://thehill.com/blogs/transportation-report/automobiles/324661-house-to-hold-hearing-on-driverless-cars#ixzz2g6SkOjlU)
+## [House to hold hearing on driverless cars](http://thehill.com/blogs/transportation-report/automobiles/324661-house-to-hold-hearing-on-driverless-cars#ixzz2g6SkOjlU)
 
  By Keith Laing - 09/25/13 "The House
           Transportation and Infrastructure will hold a hearing next
@@ -512,9 +454,7 @@ Hmm...but
 
               September 20, 2013
 
-## [At
-
-            Frankfurt Auto Show, the Driver Began to Take a Back Seat](http://www.nytimes.com/2013/09/16/automobiles/the-driver-begins-to-take-a-back-seat.html?ref=technology)
+## [At Frankfurt Auto Show, the Driver Began to Take a Back Seat](http://www.nytimes.com/2013/09/16/automobiles/the-driver-begins-to-take-a-back-seat.html?ref=technology)
 
  By JACK EWING Sept. 15, 2013  FRANKFURT —" A
           wide grin beneath his bushy mustache, Dieter Zetsche, the
@@ -522,27 +462,20 @@ Hmm...but
           auto shows, cruising onto the stage in the company's newest
           model. But at the Frankfurt motor show last week, Mr. Zetsche
           added a surprise: he sprang from the back of a Mercedes
-          S-Class that had no one in the driver's seat..."  [Read
-
-            more](http://www.nytimes.com/2013/09/16/automobiles/the-driver-begins-to-take-a-back-seat.html?ref=technology)  This is how Daimler
+          S-Class that had no one in the driver's seat..."  [Read more](http://www.nytimes.com/2013/09/16/automobiles/the-driver-begins-to-take-a-back-seat.html?ref=technology)  This is how Daimler
               chose to spend a substantial amount of money to introduce
               its automotive products at the 2013 Frankfurt Auto Show on
               Sept. 9, 2013. They must believe that consumers are ready
               to spend money on Smart Driving Cars.  Alain
-[](http://www.detroitnews.com/)
 
-## [](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Videos/MB_%20AutonomousLong-distanceDrive.mp4)[Video:
 
-            MB Self-Driving Manheim 2 Pforzheim 2:08 long](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Videos/MB_%20AutonomousLong-distanceDrive.mp4)
+## [Video: MB Self-Driving Manheim 2 Pforzheim 2:08 long](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Videos/MB_%20AutonomousLong-distanceDrive.mp4)
 
-## [S
-            500 MB Intelligent Drive (Self-Driving) TV footage:](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Videos/MB_Autonomous_TV_Footage_Long-distanceDrive.mp4)
+## [S 500 MB Intelligent Drive (Self-Driving) TV footage:](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Videos/MB_Autonomous_TV_Footage_Long-distanceDrive.mp4)
 
               September 13, 2013
 
-## [Race
-
-            is on as automakers embrace self-driving cars](http://www.detroitnews.com/article/20130912/AUTO01/309120050#ixzz2egMAiJQQ)
+## [Race is on as automakers embrace self-driving cars](http://www.detroitnews.com/article/20130912/AUTO01/309120050#ixzz2egMAiJQQ)
 
 David Shepardson
             September 12, 2013 Frankfurt, Germany — " The race to
@@ -555,18 +488,15 @@ David Shepardson
 
  "Those who want to drive themselves are
             free to do so, and that won't change in the future, either,"
-            Weber said..." [Read
-
-            more](http://www.detroitnews.com/article/20130912/AUTO01/309120050/1361/Automakers-focus-on-autonomous-car-developments)
+            Weber said..." [Read more](http://www.detroitnews.com/article/20130912/AUTO01/309120050/1361/Automakers-focus-on-autonomous-car-developments)
 
 Well worth reading  Alain
 
             2013
 
-## [A New
-              Product Category:  the PCwD !](https://us.mobileye.com/products/compare/)
+## [A New Product Category:  the PCwD !](https://us.mobileye.com/products/compare/)
 
-## Personal Collision-warning Device (PCwD) Available at under $850[](https://us.mobileye.com/products/compare/)
+## Personal Collision-warning Device (PCwD) Available at under $850
 
 The market for Collision Warning
               Systems may well be developing in a manner similar to that
@@ -575,11 +505,8 @@ The market for Collision Warning
               installed" versions sold as options with new cars. The
               popularity and adoption of navigation systems was fueled
               by their availability to all car users as inexpensive
-              stand-alone [Personal
-
-                Navigation Device (PND)](http://www.tomtom.com/en_us/products/?WT.Click_Link=top_nav)that could be used in any
-              car or as [less
-                expensive, even "free", application programs](http://www.copilotlive.com/us/) that
+              stand-alone [Personal Navigation Device (PND)](http://www.tomtom.com/en_us/products/?WT.Click_Link=top_nav)that could be used in any
+              car or as [less expensive, even "free", application programs](http://www.copilotlive.com/us/) that
               leverage the capabilities of one's existing device, be it
               a notebook, tablet, iPad, or smartPhone. Mobileye is out
               with what I'd like to call a "Personal
@@ -626,12 +553,10 @@ The market for Collision Warning
             See following videos for more information:
 
 [2013_Commercial_Teen](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Videos/MobileyeSexyCommercialCollisionPreventionTV%20Show%202013.mp4)
-            [About
-
-              Mobileye](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Videos/MobileyeAboutJuly2013.mp4)  Links to Videos of
+            [About Mobileye](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Videos/MobileyeAboutJuly2013.mp4)  Links to Videos of
               individual capabilities available @   [https://us.mobileye.com/products/mobileye-560/](https://us.mobileye.com/products/mobileye-560/)
 
-  [](Mailto:alaink@princeton.edu)[Mailto:alaink@princeton.edu](Mailto:alaink@princeton.edu)
+  [Mailto:alaink@princeton.edu](Mailto:alaink@princeton.edu)
 
 --
 

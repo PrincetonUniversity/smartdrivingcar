@@ -32,7 +32,6 @@ They are complemented by NJ Transit's existing [commuter rail facilities](http:/
  This multi-modal system would serve all long trips that wouldn't otherwise be served by walking or cycling.
 [Read more](http://orfe.princeton.edu/~alaink/SmartDrivingCars/SDC081113.pdf)
 
-[](http://orfe.princeton.edu/~alaink/SmartDrivingCars/SDC081113.pdf)
 
   mailto:alaink@princeton.edu
 

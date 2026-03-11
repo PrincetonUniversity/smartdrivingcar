@@ -7,12 +7,8 @@ permalink: /2018-05-13-2018-05-13/
 
 # Last Call:  In 3 Days....
 
-[2nd
-            Annual
-            Princeton SmartDrivingCar
-            Summit](https://www.regonline.com/registration/)
+[2nd Annual Princeton SmartDrivingCar Summit](https://www.regonline.com/registration/)
 
-[](https://www.regonline.com/)
 
 ***************************************************************************************************************
 

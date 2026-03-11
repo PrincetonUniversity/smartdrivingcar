@@ -5,8 +5,7 @@ date: 2013-11-23
 permalink: /2013-11-23-2013-11-23/
 ---
 
-## [Auto Correct: Has the
-            self-driving car at last arrived?](http://www.newyorker.com/reporting/2013/11/25/131125fa_fact_bilger)
+## [Auto Correct: Has the self-driving car at last arrived?](http://www.newyorker.com/reporting/2013/11/25/131125fa_fact_bilger)
 
 by Burkhard Bilger November 25, 2013:  "Human beings make
           terrible drivers. They talk on the phone and run red lights,
@@ -20,40 +19,29 @@ by Burkhard Bilger November 25, 2013:  "Human beings make
           late, take the curve too hard, spill coffee in their laps, and
           flip over their cars..." An
               absolutely great article featuring Anthony Levandowski,
-              Product Manager, Google Self-Driving Car and more.  [A
-                MUST read](http://www.newyorker.com/reporting/2013/11/25/131125fa_fact_bilger).  Alain
+              Product Manager, Google Self-Driving Car and more.  [A MUST read](http://www.newyorker.com/reporting/2013/11/25/131125fa_fact_bilger).  Alain
 
-## [Florida transportation leaders say
-              automated cars not too far off](http://www.tampabay.com/news/business/autos/florida-transportation-leaders-say-automated-cars-not-too-far-off/2152528)
+## [Florida transportation leaders say automated cars not too far off](http://www.tampabay.com/news/business/autos/florida-transportation-leaders-say-automated-cars-not-too-far-off/2152528)
 
 Thursday, November 14, 2013  As crazy as it might sound, the
           day motorists will be able to take their hands off the wheel
           and let their car do the driving could be just around the
-          bend.... [Read
-
-                more](http://www.tampabay.com/news/business/autos/florida-transportation-leaders-say-automated-cars-not-too-far-off/2152528)and [even
-
-                more](https://www.google.com/search?q=Florida+Automated+Vehicles+Summit&ie=utf-8&oe=utf-8&aq=t&rls=org.mozilla:en-US:official&client=firefox-a#q=Florida+Automated+Vehicles+Summit&rls=org.mozilla:en-US:official&tbm=nws).  See my summary below Alain
+          bend.... [Read more](http://www.tampabay.com/news/business/autos/florida-transportation-leaders-say-automated-cars-not-too-far-off/2152528)and [even more](https://www.google.com/search?q=Florida+Automated+Vehicles+Summit&ie=utf-8&oe=utf-8&aq=t&rls=org.mozilla:en-US:official&client=firefox-a#q=Florida+Automated+Vehicles+Summit&rls=org.mozilla:en-US:official&tbm=nws).  See my summary below Alain
 
 # Reports on Recent Events:
 
-## [House hearing on
-          driverless cars](http://transport.house.gov/calendar/eventsingle.aspx?EventID=357149)
+## [House hearing on driverless cars](http://transport.house.gov/calendar/eventsingle.aspx?EventID=357149)
 
 November 19, 2013, House hearing on  "How Autonomous
               Vehicles Will Shape the Future of Surface Transportation"
             held by the Subcommittee on Highways and Transit, chaired by
             U.S. Rep. Tom Petri (R-WI)
 
-Click: [to](http://transport.house.gov/calendar/eventsingle.aspx?EventID=357149)[Watch
-
-                  the webcast of this hearing](http://transport.house.gov/calendar/eventsingle.aspx?EventID=357149)
+Click: [to](http://transport.house.gov/calendar/eventsingle.aspx?EventID=357149)[Watch the webcast of this hearing](http://transport.house.gov/calendar/eventsingle.aspx?EventID=357149)
 
  Hearing starts @ 17:20 into the webcast with a
                 Statement by Chairman Tom Petri (R-WI) which is
-                basically a  [Summary
-
-                    of Subject Matter](http://transportation.house.gov/uploadedfiles/2013-11-19-highways_ssm.pdf)
+                basically a  [Summary of Subject Matter](http://transportation.house.gov/uploadedfiles/2013-11-19-highways_ssm.pdf)
 
 Here are a few overriding comments:
 
@@ -73,31 +61,23 @@ Here are a few overriding comments:
             insightful.  Some excellent questions seemed to not be
             understood by any of the witnesses.
 
-[Summary
+[Summary of the Questioning of the witnesses](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/HouseHearing_119113/SummaryOfQuestioning_HouseHearing_111913.pdf)
 
-                of the Questioning of the witnesses](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/HouseHearing_119113/SummaryOfQuestioning_HouseHearing_111913.pdf)
+[Summary of the Testimony of the witnesses](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/HouseHearing_119113/SummaryOfTestimony_HouseHearing_111913.pdf)     Alain
 
-[Summary
-                    of the Testimony of the witnesses](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/HouseHearing_119113/SummaryOfTestimony_HouseHearing_111913.pdf)     Alain
-
-## [](http://www.fleng.org/seminars.cfm?event_id=598)[Florida Automated Vehicles Summit](http://www.fleng.org/images/files/1025%2013Draft%20Agenda_Florida%20Automated%20Vehicle%20Summit.pdf)
+## [Florida Automated Vehicles Summit](http://www.fleng.org/images/files/1025%2013Draft%20Agenda_Florida%20Automated%20Vehicle%20Summit.pdf)
 
          November 14 – 15, 2013, Marriott Waterside Hotel, Tampa, FL .  I had the pleasure of being a keynote
             speaker at this [Conference](https://www.google.com/search?q=florida+automated+vehicle+summit&ie=utf-8&oe=utf-8&aq=t&rls=org.mozilla:en-US:official&client=firefox-a#q=florida+automated+vehicle+summit&rls=org.mozilla:en-US:official&tbm=nws)
             last week.  I gave a retrospective of the evolution of the
             concept of Automated Vehicles over the past 75 years as well
             as a prospective of their possible evolution over the next
-            75 years.  [My
-
-              presentation is linked here](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Presentations/Florida_Seminar_Nov2013_URLsV2.pdf).  There
+            75 years.  [My presentation is linked here](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Presentations/Florida_Seminar_Nov2013_URLsV2.pdf).  There
             were many other excellent presenters including Anthony
             Levandowski from Google Car, Chunka Mui, writer from Forbes
-            Magazine (an advance copy of his book "[The New
-              Killer Apps: How Large Companies Can Out-Innovate
-              Start-Ups](http://www.youtube.com/watch?v=yn18xCzUnuU)" was appropriately distributed to each
+            Magazine (an advance copy of his book "[The New Killer Apps: How Large Companies Can Out-Innovate Start-Ups](http://www.youtube.com/watch?v=yn18xCzUnuU)" was appropriately distributed to each
             attendee. The technological revolution associated with Smart
-            Driving Cars is a central theme of the book.),  [Tom
-              Bamonte](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Presentations/BamonteFloridaAutomatedVehicl%20Summit_111413.pdf), N. Texas Toll Authority, Chandra Bhat, U. of
+            Driving Cars is a central theme of the book.),  [Tom Bamonte](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Presentations/BamonteFloridaAutomatedVehicl%20Summit_111413.pdf), N. Texas Toll Authority, Chandra Bhat, U. of
             Texas and others.  More importantly, the key players from
             Florida were there in substance, not just form, including
             Tom DiGiacomo, Exec. Director, Florida Transportation
@@ -109,8 +89,7 @@ Here are a few overriding comments:
             fast.  The downside risk is miniscule relative to the upside
             potential for Florida and the nation. [Much the same view](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/HouseHearing_119113/SummaryOfQuestioning_HouseHearing_111913.pdf) was expressed by Ranking Member
             Eleanor Norton (D-DC) at the conclusion of the recent House
-            hearing on Autonomous Vehicles ([@
-              1:56:10](http://transport.house.gov/calendar/eventsingle.aspx?EventID=357149) see below).
+            hearing on Autonomous Vehicles ([@ 1:56:10](http://transport.house.gov/calendar/eventsingle.aspx?EventID=357149) see below).
 
             This was an excellent conference.  I highly recommend that
             each State do something similar in terms of form, substance
@@ -124,25 +103,19 @@ Here are a few overriding comments:
             deploy driverless transit vehicles in Florida's many
             retirement communities.    Alain
 
-## [3rd International Conference on Urban
-                  Public Transportation Systems](http://content.asce.org/conferences/tdi/utsconference/)
+## [3rd International Conference on Urban Public Transportation Systems](http://content.asce.org/conferences/tdi/utsconference/)
 
         November 14-17, 2013, National Conservatory of Arts and Crafts,
         Paris, FR. While small, this was an
             excellent public transportation conference with a
             substantial focus on automation and its opportunities to
             substantially enhance everyone's mobility.  I presented a
-            summary of my work on [area-wide
-
-              PRT and aTaxi concepts](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/ICUTS2013_Paris/ICUTS_Paris_2013.pdf).  David Nelson gave an[excellent presentation on the state of Un-attended Train
-              Operations](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/ICUTS2013_Paris/UTO%20Metros%20Opportunities%20and%20Challenges%20%20VER%201.1.pdf) (UTO, aka driverless metros) of
+            summary of my work on [area-wide PRT and aTaxi concepts](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/ICUTS2013_Paris/ICUTS_Paris_2013.pdf).  David Nelson gave an[excellent presentation on the state of Un-attended Train Operations](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/ICUTS2013_Paris/UTO%20Metros%20Opportunities%20and%20Challenges%20%20VER%201.1.pdf) (UTO, aka driverless metros) of
             which today exists 32 cities encompassing 48 lines, 674
             route kilometers  servicing 700 stations.  40% of the km are
-            in Asia, 19% in France, 13% in the rest of Europe.   [Read
-              Peter Muller's Summary](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/ICUTS2013_Paris/PeterMullerSummary_2013ICUTS_Paris.pdf)
+            in Asia, 19% in France, 13% in the rest of Europe.   [Read Peter Muller's Summary](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/ICUTS2013_Paris/PeterMullerSummary_2013ICUTS_Paris.pdf)
 
- [Prof.
-              Vukan Vichic](http://www.seas.upenn.edu/%7Evuchic/), a giant in rail transit (but long
+ [Prof. Vukan Vichic](http://www.seas.upenn.edu/%7Evuchic/), a giant in rail transit (but long
             time PRT skeptic) admitted at the conference that he sees
             the value of automation in transit.  His focus is strictly
             on serving the needs of the traveling public using the most
@@ -180,11 +153,8 @@ Here are a few overriding comments:
 # Calendar of Upcoming
           Events:
 
-[](http://transportation.njit.edu/itsnj/ITS_Information_Packet.pdf)
 
-## [2013
-
-              ITS New Jersey Annual Meeting](http://transportation.njit.edu/itsnj/ITS_Information_Packet.pdf)
+## [2013 ITS New Jersey Annual Meeting](http://transportation.njit.edu/itsnj/ITS_Information_Packet.pdf)
 
 ##
 
@@ -195,10 +165,8 @@ December 16, 2013,   East
 
 [http://www.cs.cmu.edu/%7ECVAD2013/](http://www.cs.cmu.edu/%7ECVAD2013/)
 
-[](http://www.cs.cmu.edu/%7ECVAD2013/)
 
-## [First International Workshop on Computer
-          Vision for Autonomous Driving](http://www.cs.cmu.edu/%7ECVAD2013/)
+## [First International Workshop on Computer Vision for Autonomous Driving](http://www.cs.cmu.edu/%7ECVAD2013/)
 
 ### [Sydney, Australia     December 2, 2013](http://www.cs.cmu.edu/%7ECVAD2013/)
 
@@ -208,41 +176,28 @@ December 16, 2013,   East
 
 ##
 
-## [Clifford
-
-        I. Nass](http://comm.stanford.edu/faculty-nass/)'81,*86  [expert
-
-        on human/computer interactions, dead at 55](http://news.stanford.edu/news/2013/november/cliff-nass-obit-110413.html)
+## [Clifford I. Nass](http://comm.stanford.edu/faculty-nass/)'81,*86  [expert on human/computer interactions, dead at 55](http://news.stanford.edu/news/2013/november/cliff-nass-obit-110413.html)
 
  Tragic!! What a
           terrible loss.  We have all taken an enormous step backwards.
-          [His
-
-            simulator.](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Videos/Nass_Driving_Simulator_Stanford.mp4) Alain
+          [His simulator.](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Videos/Nass_Driving_Simulator_Stanford.mp4) Alain
 
 ##
 
           November 05, 2013
 
-## [](http://www.euroncap.com/about.aspx) [On
+##  [On the Road with Autonomous Emergency Braking (AEB) Systems](http://euroncap.synapticdigital.com/Latest-Release/on-the-road-with-autonomous-emergency-braking-systems/s/0d5f0a78-2afc-4c63-ad36-a1acdb2c0b19)
 
-        the Road with Autonomous Emergency Braking (AEB) Systems](http://euroncap.synapticdigital.com/Latest-Release/on-the-road-with-autonomous-emergency-braking-systems/s/0d5f0a78-2afc-4c63-ad36-a1acdb2c0b19)
-
-[Press
-
-        Releas](http://preview.thenewsmarket.com/Previews/NCAP/DocumentAssets/305458_v2.pdf)e: Brussels 29 October – "Euro NCAP releases
+[Press Releas](http://preview.thenewsmarket.com/Previews/NCAP/DocumentAssets/305458_v2.pdf)e: Brussels 29 October – "Euro NCAP releases
       the first results of rear-end crash avoidance systems
       tested against the upcoming 2014 rating protocol. Eight vehicles
       have been compared with respect to their performance on the test
       track.
 
 A good summary of the tests appears in[FleetDirectory](http://www.fleetdirectory.co.uk/)
-[First
-
-              self-braking cars rated by Euro NCAP](http://www.fleetdirectory.co.uk/news/first-autonomous-braking-systems-rated-by-euro-ncap/) by John
+[First self-braking cars rated by Euro NCAP](http://www.fleetdirectory.co.uk/news/first-autonomous-braking-systems-rated-by-euro-ncap/) by John
           Simpson 30 October 2013. Eight (8)  car models equipped AEB
-          systems were tested and are reported on [Euro NCAP's
-            website](http://euroncap.synapticdigital.com/).  Both "City" tests and "Inter-Urban" tests were
+          systems were tested and are reported on [Euro NCAP's website](http://euroncap.synapticdigital.com/).  Both "City" tests and "Inter-Urban" tests were
           conducted of the Autonomous Emergency Braking (AEB) systems.
           While the test results indicate that at least some of these
           systems work some of the time, only one perfect score was
@@ -266,18 +221,14 @@ A good summary of the tests appears in[FleetDirectory](http://www.fleetdirectory
 
         11, 2013
 
-## [The
-
-        Ethics of Autonomous Cars](http://www.theatlantic.com/technology/archive/2013/10/the-ethics-of-autonomous-cars/280360/)
+## [The Ethics of Autonomous Cars](http://www.theatlantic.com/technology/archive/2013/10/the-ethics-of-autonomous-cars/280360/)
 
 [Patrick Lin](http://www.theatlantic.com/patrick-lin/)
     Oct 8 2013, "If a small tree branch pokes out onto a highway and
     there's no incoming traffic, we'd simply drift a little into the
     opposite lane and drive around it. But an automated car might come
     to a full stop, as it dutifully observes traffic laws that prohibit
-    crossing a double-yellow line...." [Read
-
-      more](http://www.theatlantic.com/technology/archive/2013/10/the-ethics-of-autonomous-cars/280360/)  Good article as are some of
+    crossing a double-yellow line...." [Read more](http://www.theatlantic.com/technology/archive/2013/10/the-ethics-of-autonomous-cars/280360/)  Good article as are some of
         the comments that follow. I'll add mine:  Yes, ethics are really
         important here, but we also need to not be sophomoric.   Laws,
         even traffic laws, are created and interpreted with human
@@ -309,9 +260,7 @@ A good summary of the tests appears in[FleetDirectory](http://www.fleetdirectory
 
               September 28, 2013
 
-## [IIHS
-
-            issues first crash avoidance ratings](http://www.iihs.org/iihs/news/desktopnews/iihs-issues-first-crash-avoidance-ratings-under-new-test-program-7-midsize-vehicles-earn-top-marks-for-front-crash-prevention)
+## [IIHS issues first crash avoidance ratings](http://www.iihs.org/iihs/news/desktopnews/iihs-issues-first-crash-avoidance-ratings-under-new-test-program-7-midsize-vehicles-earn-top-marks-for-front-crash-prevention)
 
 IIHS News | Sept. 27, 2013  ARLINGTON, Va. —
           "A new test program by the Insurance Institute for Highway
@@ -346,11 +295,7 @@ IIHS News | Sept. 27, 2013  ARLINGTON, Va. —
           damaging the test vehicles," Zuby says. "As such, we expect
           crash mitigation benefits at higher speeds as well."
 
-[Read
-
-            more](http://www.iihs.org/iihs/news/desktopnews/iihs-issues-first-crash-avoidance-ratings-under-new-test-program-7-midsize-vehicles-earn-top-marks-for-front-crash-prevention)  [See
-
-            Video](http://www.youtube.com/watch?feature=player_embedded&v=omHES8mqtW4) [http://www.youtube.com/watch?feature=player_embedded&v=omHES8mqtW4](http://www.youtube.com/watch?feature=player_embedded&v=omHES8mqtW4)
+[Read more](http://www.iihs.org/iihs/news/desktopnews/iihs-issues-first-crash-avoidance-ratings-under-new-test-program-7-midsize-vehicles-earn-top-marks-for-front-crash-prevention)  [See Video](http://www.youtube.com/watch?feature=player_embedded&v=omHES8mqtW4) [http://www.youtube.com/watch?feature=player_embedded&v=omHES8mqtW4](http://www.youtube.com/watch?feature=player_embedded&v=omHES8mqtW4)
 
 Hats
 
@@ -358,9 +303,7 @@ Hats
                   of tests!
 
 Be sure to look at the
-              scoring table at the bottom of the [IIHS
-
-                news release](http://www.iihs.org/iihs/news/desktopnews/iihs-issues-first-crash-avoidance-ratings-under-new-test-program-7-midsize-vehicles-earn-top-marks-for-front-crash-prevention). It is disheartening to learn that for
+              scoring table at the bottom of the [IIHS news release](http://www.iihs.org/iihs/news/desktopnews/iihs-issues-first-crash-avoidance-ratings-under-new-test-program-7-midsize-vehicles-earn-top-marks-for-front-crash-prevention). It is disheartening to learn that for
               the most part, these systems didn't work!  Only Subaru,
               Cadillac and Volvo didn't crash in the 12 mph test and
               only Subaru in the 25 mph test.  The purpose of these
@@ -380,9 +323,7 @@ Why would manufacturers
 
               September 20, 2013
 
-## [At
-
-            Frankfurt Auto Show, the Driver Began to Take a Back Seat](http://www.nytimes.com/2013/09/16/automobiles/the-driver-begins-to-take-a-back-seat.html?ref=technology)
+## [At Frankfurt Auto Show, the Driver Began to Take a Back Seat](http://www.nytimes.com/2013/09/16/automobiles/the-driver-begins-to-take-a-back-seat.html?ref=technology)
 
  By JACK EWING Sept. 15, 2013  FRANKFURT —" A
           wide grin beneath his bushy mustache, Dieter Zetsche, the
@@ -390,23 +331,18 @@ Why would manufacturers
           auto shows, cruising onto the stage in the company's newest
           model. But at the Frankfurt motor show last week, Mr. Zetsche
           added a surprise: he sprang from the back of a Mercedes
-          S-Class that had no one in the driver's seat..."  [Read
-
-            more](http://www.nytimes.com/2013/09/16/automobiles/the-driver-begins-to-take-a-back-seat.html?ref=technology)  This is how Daimler
+          S-Class that had no one in the driver's seat..."  [Read more](http://www.nytimes.com/2013/09/16/automobiles/the-driver-begins-to-take-a-back-seat.html?ref=technology)  This is how Daimler
               chose to spend a substantial amount of money to introduce
               its automotive products at the 2013 Frankfurt Auto Show on
               Sept. 9, 2013. They must believe that consumers are ready
               to spend money on Smart Driving Cars.  Alain
-[](http://www.detroitnews.com/)
 
-## [](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Videos/MB_%20AutonomousLong-distanceDrive.mp4)[Video:
 
-            MB Self-Driving Manheim 2 Pforzheim 2:08 long](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Videos/MB_%20AutonomousLong-distanceDrive.mp4)
+## [Video: MB Self-Driving Manheim 2 Pforzheim 2:08 long](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Videos/MB_%20AutonomousLong-distanceDrive.mp4)
 
-## [S
-            500 MB Intelligent Drive (Self-Driving) TV footage:](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Videos/MB_Autonomous_TV_Footage_Long-distanceDrive.mp4)
+## [S 500 MB Intelligent Drive (Self-Driving) TV footage:](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Videos/MB_Autonomous_TV_Footage_Long-distanceDrive.mp4)
 
-  [](Mailto:alaink@princeton.edu)[Mailto:alaink@princeton.edu](Mailto:alaink@princeton.edu)
+  [Mailto:alaink@princeton.edu](Mailto:alaink@princeton.edu)
 
 --
 

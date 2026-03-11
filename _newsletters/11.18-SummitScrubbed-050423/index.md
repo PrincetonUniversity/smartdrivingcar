@@ -11,8 +11,7 @@ Click or tap if you trust this link.">Thursday,
 
 18th edition of the 11th year of SmartDrivingCars eLetter
 
-[S&P Dow Jones Indices to Calculate The Road
- to Autonomy Index Tracking Autonomous Vehicles and Logistics](https://www.prnewswire.com/news-releases/sp-dow-jones-indices-to-calculate-the-road-to-autonomy-index-tracking-autonomous-vehicles-and-logistics-301806479.html?TrucksFoT)
+[S&P Dow Jones Indices to Calculate The Road to Autonomy Index Tracking Autonomous Vehicles and Logistics](https://www.prnewswire.com/news-releases/sp-dow-jones-indices-to-calculate-the-road-to-autonomy-index-tracking-autonomous-vehicles-and-logistics-301806479.html?TrucksFoT)
 
 [The Road to Autonomy](https://www.roadtoautonomy.com/), April 25. "The Road to Autonomy®, a leading source of data, insight and commentary on autonomous vehicles and logistics, has selected
  S&P Dow Jones Indices (S&P DJI) to be the custom calculation agent for The Road to Autonomy Index (ticker: AUTONOMY) and The Road to Autonomy Total Return Index (ticker: AUTOMYTR).
@@ -23,8 +22,7 @@ The Road to Autonomy Index, comprised of 38 publicly-traded companies, measures
  "Our unmatched knowledge of the industry and the influences that drive it give us unique perspective into its potential, and our partnership with S&P DJI provides a foundation of integrity and transparency for the Index."… "
 [Read  more](https://www.prnewswire.com/news-releases/sp-dow-jones-indices-to-calculate-the-road-to-autonomy-index-tracking-autonomous-vehicles-and-logistics-301806479.html?TrucksFoT)
 Hmmmm…  Very interesting.  See
-[ZoomCast 316](https://www.youtube.com/watch?v=ergz1f_bzYk)/[PodCast
- 316](https://podcasters.spotify.com/pod/show/smartdrivingcars/episodes/Smart-Driving-Cars-The-Road-to-Autonomy-with-Grayson-Brulte--episode-316-e23ehro?%24web_only=true&_branch_match_id=1090439320385822468&utm_source=web&utm_campaign=web-share&utm_medium=sharing&_branch_referrer=H4sIAAAAAAAAA8soKSkottLXLy7IL8lMq0zMS87IL9ItT03SSywo0MvJzMvWT9UvMw5KNs2IqCqrSgIACXi5mDAAAAA%3D) below Alain
+[ZoomCast 316](https://www.youtube.com/watch?v=ergz1f_bzYk)/[PodCast 316](https://podcasters.spotify.com/pod/show/smartdrivingcars/episodes/Smart-Driving-Cars-The-Road-to-Autonomy-with-Grayson-Brulte--episode-316-e23ehro?%24web_only=true&_branch_match_id=1090439320385822468&utm_source=web&utm_campaign=web-share&utm_medium=sharing&_branch_referrer=H4sIAAAAAAAAA8soKSkottLXLy7IL8lMq0zMS87IL9ItT03SSywo0MvJzMvWT9UvMw5KNs2IqCqrSgIACXi5mDAAAAA%3D) below Alain
 
  SmartDrivingCars [ZoomCast 316](https://www.youtube.com/watch?v=ergz1f_bzYk)
 / [PodCast 316](https://podcasters.spotify.com/pod/show/smartdrivingcars/episodes/Smart-Driving-Cars-The-Road-to-Autonomy-with-Grayson-Brulte--episode-316-e23ehro?%24web_only=true&_branch_match_id=1090439320385822468&utm_source=web&utm_campaign=web-share&utm_medium=sharing&_branch_referrer=H4sIAAAAAAAAA8soKSkottLXLy7IL8lMq0zMS87IL9ItT03SSywo0MvJzMvWT9UvMw5KNs2IqCqrSgIACXi5mDAAAAA%3D) w/Grayson Brultye, CEO, [The Road to Autonomy](https://www.roadtoautonomy.com/)
@@ -200,8 +198,7 @@ F. Fishkin,  May 3, "Grayson Brulte, head of The Road to Autonomy, selects S&P 
  January 8, 2023
 
 * SafeDrivingCars:
-Those in which the automated function are explicitly designed to not only substantially reduce driver misbehavior by constraining the performance characteristic such as incorporating  [speed
- governors](https://www.google.com/search?q=speed+governor&rlz=1C1GCEB_enUS791US791&oq=speed+governor&aqs=chrome..69i57j0i512l9.4112j0j7&sourceid=chrome&ie=UTF-8) that only permit excessive speeds in geofenced locations such as
+Those in which the automated function are explicitly designed to not only substantially reduce driver misbehavior by constraining the performance characteristic such as incorporating  [speed governors](https://www.google.com/search?q=speed+governor&rlz=1C1GCEB_enUS791US791&oq=speed+governor&aqs=chrome..69i57j0i512l9.4112j0j7&sourceid=chrome&ie=UTF-8) that only permit excessive speeds in geofenced locations such as
 [Watkins Glen International](https://www.theglen.com/) and stretches of the
 [German Autobahn](https://en.wikipedia.org/wiki/Autobahn), but also
 automatically intervene to prevent crashes; thus, extending what  is done today with
@@ -248,8 +245,7 @@ Those which serve only passengers and/or good from trip start, through finish. 
  October 30, 2022
 
 * Hawkins, Oct. 27, "When Ford announced yesterday that it was pulling its support for Argo AI, the autonomous driving startup it had financed since 2017, it cited as one of its reasons a belief that driver-assist technology will
- have more near-term payoffs....." [Read
- more](https://www.theverge.com/2022/10/27/23426449/ford-argo-ai-driver-assist-level-2-level-3-danger-risk) Hmmmm... I agree with Andrew, as I stated above.  Alain
+ have more near-term payoffs....." [Read more](https://www.theverge.com/2022/10/27/23426449/ford-argo-ai-driver-assist-level-2-level-3-danger-risk) Hmmmm... I agree with Andrew, as I stated above.  Alain
 
               Click ">Sunday,
  October 23, 2022
@@ -272,19 +268,12 @@ Those which serve only passengers and/or good from trip start, through finish. 
               or tap ">Sunday,
  August 28, 2022
 
-* [Tesla FSD Beta
- V 10.69 Dominates Downtown Driving](https://www.youtube.com/watch?v=td24aq5tcKY)
-* [FSD
- Beta 10.69 (2022.16.3.10) Release Notes](https://www.notateslaapp.com/software-updates/version/2022.16.3.10/release-notes)
-* [FSDBeta v10.69
- - HEAVY TRAFFIC - Unprotected Left Turns](https://www.youtube.com/watch?v=xpzJPe1DrzQ)... Amazing that such turns are legal let alone FSD's routing algorithm deicing that this is on the best way to go.  Safety must not be part of its objective function [C'mon
- Elon](https://www.youtube.com/watch?v=GPGY1NG6sNU).
-* [FSD Beta V
- 10.69 Initial Impressions](https://www.youtube.com/watch?v=sP7SEyIakJ8).  My impression is that 10.69 drove better than this tester who seemed intent on driving aggressively and not wanting to yield to pedestrians in crosswalks.  Hopefully no one at Tesla pays attention to this guy.
-* [Bullish News
- From Giga Berlin Tours, Production Rumors, Terrible Toyota](https://www.youtube.com/watch?v=7SoN5N0lTj8)
-* [The Tesla
- Semi Is Officially Here](https://www.youtube.com/watch?v=c6sgX-cnOyI)!
+* [Tesla FSD Beta V 10.69 Dominates Downtown Driving](https://www.youtube.com/watch?v=td24aq5tcKY)
+* [FSD Beta 10.69 (2022.16.3.10) Release Notes](https://www.notateslaapp.com/software-updates/version/2022.16.3.10/release-notes)
+* [FSDBeta v10.69 - HEAVY TRAFFIC - Unprotected Left Turns](https://www.youtube.com/watch?v=xpzJPe1DrzQ)... Amazing that such turns are legal let alone FSD's routing algorithm deicing that this is on the best way to go.  Safety must not be part of its objective function [C'mon Elon](https://www.youtube.com/watch?v=GPGY1NG6sNU).
+* [FSD Beta V 10.69 Initial Impressions](https://www.youtube.com/watch?v=sP7SEyIakJ8).  My impression is that 10.69 drove better than this tester who seemed intent on driving aggressively and not wanting to yield to pedestrians in crosswalks.  Hopefully no one at Tesla pays attention to this guy.
+* [Bullish News From Giga Berlin Tours, Production Rumors, Terrible Toyota](https://www.youtube.com/watch?v=7SoN5N0lTj8)
+* [The Tesla Semi Is Officially Here](https://www.youtube.com/watch?v=c6sgX-cnOyI)!
 
               tap ">Monday,
  August 22, 2022
@@ -322,8 +311,7 @@ Those which serve only passengers and/or good from trip start, through finish. 
 
 * enormous under counting
 
-* likely, only Tesla has the opportunity to either "know all" or sample effectively because of their [OtA
- monitoring](https://www.wired.com/insights/2014/02/teslas-air-fix-best-example-yet-internet-things/) of its vehicles.  Everyone else has conveniently kept their heads in the sand. Mercedes didn't report any; however, during that period I think my Intelligent Cruise Control and Lane Centering were engaged when I hit a deer.  Mercedes
+* likely, only Tesla has the opportunity to either "know all" or sample effectively because of their [OtA monitoring](https://www.wired.com/insights/2014/02/teslas-air-fix-best-example-yet-internet-things/) of its vehicles.  Everyone else has conveniently kept their heads in the sand. Mercedes didn't report any; however, during that period I think my Intelligent Cruise Control and Lane Centering were engaged when I hit a deer.  Mercedes
  must not have been watching me, I didn't report it and I didn't get the memo that informed me to do anything.
 
               or tap">Saturday

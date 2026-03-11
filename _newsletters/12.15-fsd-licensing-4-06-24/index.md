@@ -42,9 +42,7 @@ On Apr 7, 2024, at 8:44 PM, Alain L.
                     15h edition of the 12th year of
                     SmartDrivingCars eLetter
 
-    [Tesla's Elon Musk
-                      reiterates FSD licensing offer for other
-                      automakers](https://urldefense.proofpoint.com/v2/url?u=https-3A__www.teslarati.com_tesla-2Delon-2Dmusk-2Dreiterates-2Dfsd-2Dlicensing-2Dother-2Dautomakers_&d=DwMGaQ&c=euGZstcaTDllvimEN8b7jXrwqOf-v5A_CdpgnVfiiMM&r=q6DiFre9_71aezF6Pm9Jl7w9qGR3W13-VtQBDABhhik&m=6BrkId4vXnRpYhZ02lkJKvcys3Or-fEP-mAsNu1xjY5ZfH1jbbMMf3p6gxbxAnXq&s=ZyBaN7ltzn90IK5QD2k0Bsy9fMgFLCvN5EZcs5qg7eQ&e=)
+    [Tesla's Elon Musk reiterates FSD licensing offer for other automakers](https://urldefense.proofpoint.com/v2/url?u=https-3A__www.teslarati.com_tesla-2Delon-2Dmusk-2Dreiterates-2Dfsd-2Dlicensing-2Dother-2Dautomakers_&d=DwMGaQ&c=euGZstcaTDllvimEN8b7jXrwqOf-v5A_CdpgnVfiiMM&r=q6DiFre9_71aezF6Pm9Jl7w9qGR3W13-VtQBDABhhik&m=6BrkId4vXnRpYhZ02lkJKvcys3Or-fEP-mAsNu1xjY5ZfH1jbbMMf3p6gxbxAnXq&s=ZyBaN7ltzn90IK5QD2k0Bsy9fMgFLCvN5EZcs5qg7eQ&e=)
 
 J.
                   Huang, March 18, "
@@ -106,9 +104,7 @@ What
                     is the response by MobilEye?  Is this competitive
                     capitalism at work?   Alain
 
-[](https://urldefense.proofpoint.com/v2/url?u=https-3A__www.amazon.com_Real-2DCase-2DDriverless-2DMobility-2DVehicles_dp_0443236852_ref-3Dsr-5F1-5F1-3Fcrid-3D22SK14SI799RL-26dib-3DeyJ2IjoiMSJ9.lxEa4C-2DA4uRSBIChfD3wJw.xogl-5FNdvikO4LhL5RvNCh1iiD7Vx17Dpx-5FFWynWqyq4-26dib-5Ftag-3Dse-26keywords-3Dkornhauser-2Bsena-26qid-3D1708172593-26s-3Delectronics-26sprefix-3Dkornhauser-2Bsena-252Celectronics-252C90-26sr-3D1-2D1&d=DwMGaQ&c=euGZstcaTDllvimEN8b7jXrwqOf-v5A_CdpgnVfiiMM&r=q6DiFre9_71aezF6Pm9Jl7w9qGR3W13-VtQBDABhhik&m=6BrkId4vXnRpYhZ02lkJKvcys3Or-fEP-mAsNu1xjY5ZfH1jbbMMf3p6gxbxAnXq&s=_PHlZ5ACPHclSjLl9HjpixHfm7URiOP89GHWjHZ9EdM&e=)[Just
-                                        Published](https://urldefense.proofpoint.com/v2/url?u=https-3A__www.amazon.com_Real-2DCase-2DDriverless-2DMobility-2DVehicles_dp_0443236852_ref-3Dsr-5F1-5F1-3Fcrid-3D1XSXZ611C2JCN-26keywords-3DKornhauser-2Bsena-26qid-3D1707095108-26sprefix-3Dkornhauser-2Bsena-252Caps-252C76-26sr-3D8-2D1-26ufe-3Dapp-5Fdo-253Aamzn1.fos.18ed3cb5-2D28d5-2D4975-2D8bc7-2D93deae8f9840&d=DwMGaQ&c=euGZstcaTDllvimEN8b7jXrwqOf-v5A_CdpgnVfiiMM&r=q6DiFre9_71aezF6Pm9Jl7w9qGR3W13-VtQBDABhhik&m=6BrkId4vXnRpYhZ02lkJKvcys3Or-fEP-mAsNu1xjY5ZfH1jbbMMf3p6gxbxAnXq&s=nH1uPMJkdKyUnJJZ-05adkMQNZVscBKzn2J7jMuwzzA&e=)!!!  [Go to
-                                          Amazon.com](https://urldefense.proofpoint.com/v2/url?u=https-3A__www.amazon.com_Real-2DCase-2DDriverless-2DMobility-2DVehicles_dp_0443236852_ref-3Dsr-5F1-5F1-3Fcrid-3D1XSXZ611C2JCN-26keywords-3DKornhauser-2Bsena-26qid-3D1707095108-26sprefix-3Dkornhauser-2Bsena-252Caps-252C76-26sr-3D8-2D1-26ufe-3Dapp-5Fdo-253Aamzn1.fos.18ed3cb5-2D28d5-2D4975-2D8bc7-2D93deae8f9840&d=DwMGaQ&c=euGZstcaTDllvimEN8b7jXrwqOf-v5A_CdpgnVfiiMM&r=q6DiFre9_71aezF6Pm9Jl7w9qGR3W13-VtQBDABhhik&m=6BrkId4vXnRpYhZ02lkJKvcys3Or-fEP-mAsNu1xjY5ZfH1jbbMMf3p6gxbxAnXq&s=nH1uPMJkdKyUnJJZ-05adkMQNZVscBKzn2J7jMuwzzA&e=)… You can
+[Just Published](https://urldefense.proofpoint.com/v2/url?u=https-3A__www.amazon.com_Real-2DCase-2DDriverless-2DMobility-2DVehicles_dp_0443236852_ref-3Dsr-5F1-5F1-3Fcrid-3D1XSXZ611C2JCN-26keywords-3DKornhauser-2Bsena-26qid-3D1707095108-26sprefix-3Dkornhauser-2Bsena-252Caps-252C76-26sr-3D8-2D1-26ufe-3Dapp-5Fdo-253Aamzn1.fos.18ed3cb5-2D28d5-2D4975-2D8bc7-2D93deae8f9840&d=DwMGaQ&c=euGZstcaTDllvimEN8b7jXrwqOf-v5A_CdpgnVfiiMM&r=q6DiFre9_71aezF6Pm9Jl7w9qGR3W13-VtQBDABhhik&m=6BrkId4vXnRpYhZ02lkJKvcys3Or-fEP-mAsNu1xjY5ZfH1jbbMMf3p6gxbxAnXq&s=nH1uPMJkdKyUnJJZ-05adkMQNZVscBKzn2J7jMuwzzA&e=)!!!  [Go to Amazon.com](https://urldefense.proofpoint.com/v2/url?u=https-3A__www.amazon.com_Real-2DCase-2DDriverless-2DMobility-2DVehicles_dp_0443236852_ref-3Dsr-5F1-5F1-3Fcrid-3D1XSXZ611C2JCN-26keywords-3DKornhauser-2Bsena-26qid-3D1707095108-26sprefix-3Dkornhauser-2Bsena-252Caps-252C76-26sr-3D8-2D1-26ufe-3Dapp-5Fdo-253Aamzn1.fos.18ed3cb5-2D28d5-2D4975-2D8bc7-2D93deae8f9840&d=DwMGaQ&c=euGZstcaTDllvimEN8b7jXrwqOf-v5A_CdpgnVfiiMM&r=q6DiFre9_71aezF6Pm9Jl7w9qGR3W13-VtQBDABhhik&m=6BrkId4vXnRpYhZ02lkJKvcys3Or-fEP-mAsNu1xjY5ZfH1jbbMMf3p6gxbxAnXq&s=nH1uPMJkdKyUnJJZ-05adkMQNZVscBKzn2J7jMuwzzA&e=)… You can
                                       still be first on your block to
                                       have one
 J.
@@ -116,9 +112,7 @@ J.
 [https://www.amazon.com/Real-Case-Driverless-Mobility-Vehicles/dp/0443236852/ref=sr_1_1](https://urldefense.proofpoint.com/v2/url?u=https-3A__www.amazon.com_Real-2DCase-2DDriverless-2DMobility-2DVehicles_dp_0443236852_ref-3Dsr-5F1-5F1-250d&d=DwMGaQ&c=euGZstcaTDllvimEN8b7jXrwqOf-v5A_CdpgnVfiiMM&r=q6DiFre9_71aezF6Pm9Jl7w9qGR3W13-VtQBDABhhik&m=6BrkId4vXnRpYhZ02lkJKvcys3Or-fEP-mAsNu1xjY5ZfH1jbbMMf3p6gxbxAnXq&s=HkM1yI1mqC3jvZJ49LXa8MqRQsPeoMF54QlPZLZLKis&e=)
 
 SmartDrivingCars
-                                    [ZoomCast
-                                        366](https://urldefense.proofpoint.com/v2/url?u=https-3A__youtu.be_dyaYkkVeCOE&d=DwMGaQ&c=euGZstcaTDllvimEN8b7jXrwqOf-v5A_CdpgnVfiiMM&r=q6DiFre9_71aezF6Pm9Jl7w9qGR3W13-VtQBDABhhik&m=6BrkId4vXnRpYhZ02lkJKvcys3Or-fEP-mAsNu1xjY5ZfH1jbbMMf3p6gxbxAnXq&s=lgraUXLoUUzpMGlOOfaoC-KH7otQ3nD3wSlW0r_hy38&e=) / [PodCast
-                                        366](https://urldefense.proofpoint.com/v2/url?u=https-3A__podcasters.spotify.com_pod_show_smartdrivingcars_episodes_Smart-2DDriving-2DCars-2Depisode-2D366-2DTesla-2Dout-2Dwith-2DSupervised-2DFSD-2Dand-2Doffers-2Dto-2Dlicense-2Dit-2Dto-2Dothers-2De2i356p&d=DwMGaQ&c=euGZstcaTDllvimEN8b7jXrwqOf-v5A_CdpgnVfiiMM&r=q6DiFre9_71aezF6Pm9Jl7w9qGR3W13-VtQBDABhhik&m=6BrkId4vXnRpYhZ02lkJKvcys3Or-fEP-mAsNu1xjY5ZfH1jbbMMf3p6gxbxAnXq&s=0CsXMgAlVBFzIf5pyEn4wBw4ClHeIgMRNNCXUP10jLM&e=)  Tesla out with
+                                    [ZoomCast 366](https://urldefense.proofpoint.com/v2/url?u=https-3A__youtu.be_dyaYkkVeCOE&d=DwMGaQ&c=euGZstcaTDllvimEN8b7jXrwqOf-v5A_CdpgnVfiiMM&r=q6DiFre9_71aezF6Pm9Jl7w9qGR3W13-VtQBDABhhik&m=6BrkId4vXnRpYhZ02lkJKvcys3Or-fEP-mAsNu1xjY5ZfH1jbbMMf3p6gxbxAnXq&s=lgraUXLoUUzpMGlOOfaoC-KH7otQ3nD3wSlW0r_hy38&e=) / [PodCast 366](https://urldefense.proofpoint.com/v2/url?u=https-3A__podcasters.spotify.com_pod_show_smartdrivingcars_episodes_Smart-2DDriving-2DCars-2Depisode-2D366-2DTesla-2Dout-2Dwith-2DSupervised-2DFSD-2Dand-2Doffers-2Dto-2Dlicense-2Dit-2Dto-2Dothers-2De2i356p&d=DwMGaQ&c=euGZstcaTDllvimEN8b7jXrwqOf-v5A_CdpgnVfiiMM&r=q6DiFre9_71aezF6Pm9Jl7w9qGR3W13-VtQBDABhhik&m=6BrkId4vXnRpYhZ02lkJKvcys3Or-fEP-mAsNu1xjY5ZfH1jbbMMf3p6gxbxAnXq&s=0CsXMgAlVBFzIf5pyEn4wBw4ClHeIgMRNNCXUP10jLM&e=)  Tesla out with
                                     Supervised FSD and offers to license
                                     it to others.
 
@@ -427,22 +421,18 @@ F.
 * [0:00](https://urldefense.proofpoint.com/v2/url?u=https-3A__www.youtube.com_watch-3Fv-3DvXH2r2bNjk8-26list-3DPL0lACHv09kBz2IJkc0dAo0kZc9A-5Fu7opr-26index-3D2-26t-3D0s&d=DwMGaQ&c=euGZstcaTDllvimEN8b7jXrwqOf-v5A_CdpgnVfiiMM&r=q6DiFre9_71aezF6Pm9Jl7w9qGR3W13-VtQBDABhhik&m=6BrkId4vXnRpYhZ02lkJKvcys3Or-fEP-mAsNu1xjY5ZfH1jbbMMf3p6gxbxAnXq&s=YZ4rmPDteISvHUFuUMQEAskPGFRw_WgMs3xh-v7dl1M&e=) R.
                                   Mauer, Dec. 13, "TSLA0:51FOMC / interest rates4:39Tesla bot updates8:56Tax credit changes12:54Uber incentives14:33Hotel adds Tesla chargers15:58Giga Mexico approval16:46Cybertrucks at Giga Texas17:24Carwow Cybertruck review19:44Autopilot / NHTSA resolution24:16Musk's university."Alain
 
-                                 [Elon Musk
-                                      says he'll unveil a Tesla robotaxi
-                                      on August 8](https://urldefense.proofpoint.com/v2/url?u=https-3A__techcrunch.com_2024_04_05_elon-2Dmusk-2Dsays-2Dhell-2Dunveil-2Da-2Dtesla-2Drobotaxi-2Don-2Daugust-2D8_&d=DwMGaQ&c=euGZstcaTDllvimEN8b7jXrwqOf-v5A_CdpgnVfiiMM&r=q6DiFre9_71aezF6Pm9Jl7w9qGR3W13-VtQBDABhhik&m=6BrkId4vXnRpYhZ02lkJKvcys3Or-fEP-mAsNu1xjY5ZfH1jbbMMf3p6gxbxAnXq&s=00RL0emLaw2ei9mD2Xcw-Mv88l9nWhCNLkL3zePKdDU&e=)
+                                 [Elon Musk says he'll unveil a Tesla robotaxi on August 8](https://urldefense.proofpoint.com/v2/url?u=https-3A__techcrunch.com_2024_04_05_elon-2Dmusk-2Dsays-2Dhell-2Dunveil-2Da-2Dtesla-2Drobotaxi-2Don-2Daugust-2D8_&d=DwMGaQ&c=euGZstcaTDllvimEN8b7jXrwqOf-v5A_CdpgnVfiiMM&r=q6DiFre9_71aezF6Pm9Jl7w9qGR3W13-VtQBDABhhik&m=6BrkId4vXnRpYhZ02lkJKvcys3Or-fEP-mAsNu1xjY5ZfH1jbbMMf3p6gxbxAnXq&s=00RL0emLaw2ei9mD2Xcw-Mv88l9nWhCNLkL3zePKdDU&e=)
 
 K.
                                   Karosec, April 5, "
 Just
-                                  hours after [Elon Musk
-                                    claimed Reuters](https://urldefense.proofpoint.com/v2/url?u=https-3A__techcrunch.com_2024_04_05_tesla-2Dabandons-2Dlow-2Dcost-2Dev-2Drobotaxi_&d=DwMGaQ&c=euGZstcaTDllvimEN8b7jXrwqOf-v5A_CdpgnVfiiMM&r=q6DiFre9_71aezF6Pm9Jl7w9qGR3W13-VtQBDABhhik&m=6BrkId4vXnRpYhZ02lkJKvcys3Or-fEP-mAsNu1xjY5ZfH1jbbMMf3p6gxbxAnXq&s=1n0Dv6_ftYATdyjBAFYmvfbj9jiB2Zmg3eyC0d5mlIA&e=) was "lying"
+                                  hours after [Elon Musk claimed Reuters](https://urldefense.proofpoint.com/v2/url?u=https-3A__techcrunch.com_2024_04_05_tesla-2Dabandons-2Dlow-2Dcost-2Dev-2Drobotaxi_&d=DwMGaQ&c=euGZstcaTDllvimEN8b7jXrwqOf-v5A_CdpgnVfiiMM&r=q6DiFre9_71aezF6Pm9Jl7w9qGR3W13-VtQBDABhhik&m=6BrkId4vXnRpYhZ02lkJKvcys3Or-fEP-mAsNu1xjY5ZfH1jbbMMf3p6gxbxAnXq&s=1n0Dv6_ftYATdyjBAFYmvfbj9jiB2Zmg3eyC0d5mlIA&e=) was "lying"
                                   about plans to ditch its $25,000 low
                                   cost EV and instead focus all its
                                   efforts on a robotaxi, the Tesla CEO
                                   announced on X that he would reveal
                                   said robotaxi in an event on August
-                                  8.."…  [Read
-                                            More](https://urldefense.proofpoint.com/v2/url?u=https-3A__techcrunch.com_2024_04_05_elon-2Dmusk-2Dsays-2Dhell-2Dunveil-2Da-2Dtesla-2Drobotaxi-2Don-2Daugust-2D8_&d=DwMGaQ&c=euGZstcaTDllvimEN8b7jXrwqOf-v5A_CdpgnVfiiMM&r=q6DiFre9_71aezF6Pm9Jl7w9qGR3W13-VtQBDABhhik&m=6BrkId4vXnRpYhZ02lkJKvcys3Or-fEP-mAsNu1xjY5ZfH1jbbMMf3p6gxbxAnXq&s=00RL0emLaw2ei9mD2Xcw-Mv88l9nWhCNLkL3zePKdDU&e=)  Hmmmm…
+                                  8.."…  [Read More](https://urldefense.proofpoint.com/v2/url?u=https-3A__techcrunch.com_2024_04_05_elon-2Dmusk-2Dsays-2Dhell-2Dunveil-2Da-2Dtesla-2Drobotaxi-2Don-2Daugust-2D8_&d=DwMGaQ&c=euGZstcaTDllvimEN8b7jXrwqOf-v5A_CdpgnVfiiMM&r=q6DiFre9_71aezF6Pm9Jl7w9qGR3W13-VtQBDABhhik&m=6BrkId4vXnRpYhZ02lkJKvcys3Or-fEP-mAsNu1xjY5ZfH1jbbMMf3p6gxbxAnXq&s=00RL0emLaw2ei9mD2Xcw-Mv88l9nWhCNLkL3zePKdDU&e=)  Hmmmm…
                                     I can't wait for August 8.  Should
                                     be very interesting.  In less than 6
                                     months we'll know if he's "read the
@@ -453,9 +443,7 @@ Just
                                   😊
                                     Alain
 
-[NVIDIA
-                                      automotive VP says AI and more
-                                      just getting started](https://urldefense.proofpoint.com/v2/url?u=https-3A__www.techstination.com_report.jsp-3FreportId-3D6853&d=DwMGaQ&c=euGZstcaTDllvimEN8b7jXrwqOf-v5A_CdpgnVfiiMM&r=q6DiFre9_71aezF6Pm9Jl7w9qGR3W13-VtQBDABhhik&m=6BrkId4vXnRpYhZ02lkJKvcys3Or-fEP-mAsNu1xjY5ZfH1jbbMMf3p6gxbxAnXq&s=gKG-jw74fUYuuhAsr4DLWK3p2DRp9-2jJye7tXOfOUg&e=)
+[NVIDIA automotive VP says AI and more just getting started](https://urldefense.proofpoint.com/v2/url?u=https-3A__www.techstination.com_report.jsp-3FreportId-3D6853&d=DwMGaQ&c=euGZstcaTDllvimEN8b7jXrwqOf-v5A_CdpgnVfiiMM&r=q6DiFre9_71aezF6Pm9Jl7w9qGR3W13-VtQBDABhhik&m=6BrkId4vXnRpYhZ02lkJKvcys3Or-fEP-mAsNu1xjY5ZfH1jbbMMf3p6gxbxAnXq&s=gKG-jw74fUYuuhAsr4DLWK3p2DRp9-2jJye7tXOfOUg&e=)
 
 F. Fishkin, April 4,
                                   "With robots, self driving vehicles,
@@ -485,8 +473,7 @@ F. Fishkin, April 4,
 
 And Shapiro says
                                   NVIDIA is just getting started."…"
-                                [Read
-                                          More](https://urldefense.proofpoint.com/v2/url?u=https-3A__www.techstination.com_report.jsp-3FreportId-3D6853&d=DwMGaQ&c=euGZstcaTDllvimEN8b7jXrwqOf-v5A_CdpgnVfiiMM&r=q6DiFre9_71aezF6Pm9Jl7w9qGR3W13-VtQBDABhhik&m=6BrkId4vXnRpYhZ02lkJKvcys3Or-fEP-mAsNu1xjY5ZfH1jbbMMf3p6gxbxAnXq&s=gKG-jw74fUYuuhAsr4DLWK3p2DRp9-2jJye7tXOfOUg&e=)  Hmmmm…
+                                [Read More](https://urldefense.proofpoint.com/v2/url?u=https-3A__www.techstination.com_report.jsp-3FreportId-3D6853&d=DwMGaQ&c=euGZstcaTDllvimEN8b7jXrwqOf-v5A_CdpgnVfiiMM&r=q6DiFre9_71aezF6Pm9Jl7w9qGR3W13-VtQBDABhhik&m=6BrkId4vXnRpYhZ02lkJKvcys3Or-fEP-mAsNu1xjY5ZfH1jbbMMf3p6gxbxAnXq&s=gKG-jw74fUYuuhAsr4DLWK3p2DRp9-2jJye7tXOfOUg&e=)  Hmmmm…
 Yup.
                                     And Danny will be speaking to my
                                     students on Wednesday and,
@@ -494,12 +481,9 @@ Yup.
                                     in my 6th Summit at the
                                     end of May.  Alain
 
-    [Musk
-                                      outlines plans to increase
-                                      Starship launch rate and
-                                      performance](https://urldefense.proofpoint.com/v2/url?u=https-3A__spacenews.com_musk-2Doutlines-2Dplans-2Dto-2Dincrease-2Dstarship-2Dlaunch-2Drate-2Dand-2Dperformance_&d=DwMGaQ&c=euGZstcaTDllvimEN8b7jXrwqOf-v5A_CdpgnVfiiMM&r=q6DiFre9_71aezF6Pm9Jl7w9qGR3W13-VtQBDABhhik&m=6BrkId4vXnRpYhZ02lkJKvcys3Or-fEP-mAsNu1xjY5ZfH1jbbMMf3p6gxbxAnXq&s=443yZqT6QdlNb7vFhwrU64N9Z-hYxOIb5uysT38Z4iU&e=)
+    [Musk outlines plans to increase Starship launch rate and performance](https://urldefense.proofpoint.com/v2/url?u=https-3A__spacenews.com_musk-2Doutlines-2Dplans-2Dto-2Dincrease-2Dstarship-2Dlaunch-2Drate-2Dand-2Dperformance_&d=DwMGaQ&c=euGZstcaTDllvimEN8b7jXrwqOf-v5A_CdpgnVfiiMM&r=q6DiFre9_71aezF6Pm9Jl7w9qGR3W13-VtQBDABhhik&m=6BrkId4vXnRpYhZ02lkJKvcys3Or-fEP-mAsNu1xjY5ZfH1jbbMMf3p6gxbxAnXq&s=443yZqT6QdlNb7vFhwrU64N9Z-hYxOIb5uysT38Z4iU&e=)
 
-[](https://urldefense.proofpoint.com/v2/url?u=https-3A__spacenews.com_musk-2Doutlines-2Dplans-2Dto-2Dincrease-2Dstarship-2Dlaunch-2Drate-2Dand-2Dperformance_&d=DwMGaQ&c=euGZstcaTDllvimEN8b7jXrwqOf-v5A_CdpgnVfiiMM&r=q6DiFre9_71aezF6Pm9Jl7w9qGR3W13-VtQBDABhhik&m=6BrkId4vXnRpYhZ02lkJKvcys3Or-fEP-mAsNu1xjY5ZfH1jbbMMf3p6gxbxAnXq&s=443yZqT6QdlNb7vFhwrU64N9Z-hYxOIb5uysT38Z4iU&e=)J. Foust, April 6,
+J. Foust, April 6,
                                   "SpaceX could attempt
                                   to land a Starship booster as soon as
                                   the vehicle's fifth flight as Elon
@@ -530,8 +514,7 @@ Musk said SpaceX also
                                   and land on the tower," he said. "That
                                   is very much a success-oriented
                                   schedule, but it is in the realm of
-                                  possibility."…"   [Read
-                                          More](https://urldefense.proofpoint.com/v2/url?u=https-3A__spacenews.com_musk-2Doutlines-2Dplans-2Dto-2Dincrease-2Dstarship-2Dlaunch-2Drate-2Dand-2Dperformance_&d=DwMGaQ&c=euGZstcaTDllvimEN8b7jXrwqOf-v5A_CdpgnVfiiMM&r=q6DiFre9_71aezF6Pm9Jl7w9qGR3W13-VtQBDABhhik&m=6BrkId4vXnRpYhZ02lkJKvcys3Or-fEP-mAsNu1xjY5ZfH1jbbMMf3p6gxbxAnXq&s=443yZqT6QdlNb7vFhwrU64N9Z-hYxOIb5uysT38Z4iU&e=)  Hmmmm…
+                                  possibility."…"   [Read More](https://urldefense.proofpoint.com/v2/url?u=https-3A__spacenews.com_musk-2Doutlines-2Dplans-2Dto-2Dincrease-2Dstarship-2Dlaunch-2Drate-2Dand-2Dperformance_&d=DwMGaQ&c=euGZstcaTDllvimEN8b7jXrwqOf-v5A_CdpgnVfiiMM&r=q6DiFre9_71aezF6Pm9Jl7w9qGR3W13-VtQBDABhhik&m=6BrkId4vXnRpYhZ02lkJKvcys3Or-fEP-mAsNu1xjY5ZfH1jbbMMf3p6gxbxAnXq&s=443yZqT6QdlNb7vFhwrU64N9Z-hYxOIb5uysT38Z4iU&e=)  Hmmmm…
                                        I'm
                                     going to the fourth, and, if the
                                     booster is successful, I'm
@@ -541,8 +524,7 @@ Musk said SpaceX also
                                     that is a heck of a bucket list
                                     item.  Alain
 
-                                  [Super
-                                      impressed by the latest Tesla FSD](https://urldefense.proofpoint.com/v2/url?u=https-3A__www.linkedin.com_posts_olivercameron-5Fsuper-2Dimpressed-2Dby-2Dthe-2Dlatest-2Dtesla-2Dfsd-2Dactivity-2D7180619205149433856-2DRM3w_-3Futm-5Fsource-3Dshare-26utm-5Fmedium-3Dmember-5Fandroid&d=DwMGaQ&c=euGZstcaTDllvimEN8b7jXrwqOf-v5A_CdpgnVfiiMM&r=q6DiFre9_71aezF6Pm9Jl7w9qGR3W13-VtQBDABhhik&m=6BrkId4vXnRpYhZ02lkJKvcys3Or-fEP-mAsNu1xjY5ZfH1jbbMMf3p6gxbxAnXq&s=QY6GemktPdPh9aslCpu9JEyvOo9ZdhIaMgkVz131DWk&e=)
+                                  [Super impressed by the latest Tesla FSD](https://urldefense.proofpoint.com/v2/url?u=https-3A__www.linkedin.com_posts_olivercameron-5Fsuper-2Dimpressed-2Dby-2Dthe-2Dlatest-2Dtesla-2Dfsd-2Dactivity-2D7180619205149433856-2DRM3w_-3Futm-5Fsource-3Dshare-26utm-5Fmedium-3Dmember-5Fandroid&d=DwMGaQ&c=euGZstcaTDllvimEN8b7jXrwqOf-v5A_CdpgnVfiiMM&r=q6DiFre9_71aezF6Pm9Jl7w9qGR3W13-VtQBDABhhik&m=6BrkId4vXnRpYhZ02lkJKvcys3Or-fEP-mAsNu1xjY5ZfH1jbbMMf3p6gxbxAnXq&s=QY6GemktPdPh9aslCpu9JEyvOo9ZdhIaMgkVz131DWk&e=)
 
 O. Cameron, April
                                   2, "Super impressed by
@@ -556,18 +538,13 @@ O. Cameron, April
                                   perfect and I'm a tiny sample, this is
                                   exciting!
 
-                                  And no, not an April Fools....." [Read
-                                          More](https://urldefense.proofpoint.com/v2/url?u=https-3A__www.linkedin.com_posts_olivercameron-5Fsuper-2Dimpressed-2Dby-2Dthe-2Dlatest-2Dtesla-2Dfsd-2Dactivity-2D7180619205149433856-2DRM3w_-3Futm-5Fsource-3Dshare-26utm-5Fmedium-3Dmember-5Fandroid&d=DwMGaQ&c=euGZstcaTDllvimEN8b7jXrwqOf-v5A_CdpgnVfiiMM&r=q6DiFre9_71aezF6Pm9Jl7w9qGR3W13-VtQBDABhhik&m=6BrkId4vXnRpYhZ02lkJKvcys3Or-fEP-mAsNu1xjY5ZfH1jbbMMf3p6gxbxAnXq&s=QY6GemktPdPh9aslCpu9JEyvOo9ZdhIaMgkVz131DWk&e=)  Hmmmm…
+                                  And no, not an April Fools....." [Read More](https://urldefense.proofpoint.com/v2/url?u=https-3A__www.linkedin.com_posts_olivercameron-5Fsuper-2Dimpressed-2Dby-2Dthe-2Dlatest-2Dtesla-2Dfsd-2Dactivity-2D7180619205149433856-2DRM3w_-3Futm-5Fsource-3Dshare-26utm-5Fmedium-3Dmember-5Fandroid&d=DwMGaQ&c=euGZstcaTDllvimEN8b7jXrwqOf-v5A_CdpgnVfiiMM&r=q6DiFre9_71aezF6Pm9Jl7w9qGR3W13-VtQBDABhhik&m=6BrkId4vXnRpYhZ02lkJKvcys3Or-fEP-mAsNu1xjY5ZfH1jbbMMf3p6gxbxAnXq&s=QY6GemktPdPh9aslCpu9JEyvOo9ZdhIaMgkVz131DWk&e=)  Hmmmm…
                                        Pretty
                                     impressive comment from someone who
                                     knows what it takes to do
                                     what.  Alain
 
-  [Tesla
-                                      Transitions FSD from Beta to
-                                      Supervised with Release of
-                                      v12.3.3: Semantics or Legitimate
-                                      Upgrade?](https://urldefense.proofpoint.com/v2/url?u=https-3A__www.notateslaapp.com_news_1976_tesla-2Dtransitions-2Dfsd-2Dfrom-2Dbeta-2Dto-2Dsupervised-2Dwith-2Drelease-2Dof-2Dv12-2D3-2D3-2Dsemantics-2Dor-2Dlegitimate-2Dupgrade&d=DwMGaQ&c=euGZstcaTDllvimEN8b7jXrwqOf-v5A_CdpgnVfiiMM&r=q6DiFre9_71aezF6Pm9Jl7w9qGR3W13-VtQBDABhhik&m=6BrkId4vXnRpYhZ02lkJKvcys3Or-fEP-mAsNu1xjY5ZfH1jbbMMf3p6gxbxAnXq&s=5bUvshrC03LyYWZBrQXnWXWbNNqtJw3P4RsudneICL4&e=)
+  [Tesla Transitions FSD from Beta to Supervised with Release of v12.3.3: Semantics or Legitimate Upgrade?](https://urldefense.proofpoint.com/v2/url?u=https-3A__www.notateslaapp.com_news_1976_tesla-2Dtransitions-2Dfsd-2Dfrom-2Dbeta-2Dto-2Dsupervised-2Dwith-2Drelease-2Dof-2Dv12-2D3-2D3-2Dsemantics-2Dor-2Dlegitimate-2Dupgrade&d=DwMGaQ&c=euGZstcaTDllvimEN8b7jXrwqOf-v5A_CdpgnVfiiMM&r=q6DiFre9_71aezF6Pm9Jl7w9qGR3W13-VtQBDABhhik&m=6BrkId4vXnRpYhZ02lkJKvcys3Or-fEP-mAsNu1xjY5ZfH1jbbMMf3p6gxbxAnXq&s=5bUvshrC03LyYWZBrQXnWXWbNNqtJw3P4RsudneICL4&e=)
 
 M. Euxarraga,
                                    April 1, "Tesla has finally
@@ -595,8 +572,7 @@ The latest update
                                   groundbreaking as the Cybertruck in
                                   the auto sector.
 
-The transition to[FSD
-                                    (Supervised)](https://urldefense.proofpoint.com/v2/url?u=https-3A__www.notateslaapp.com_software-2Dupdates_version_2024.3.10_release-2Dnotes&d=DwMGaQ&c=euGZstcaTDllvimEN8b7jXrwqOf-v5A_CdpgnVfiiMM&r=q6DiFre9_71aezF6Pm9Jl7w9qGR3W13-VtQBDABhhik&m=6BrkId4vXnRpYhZ02lkJKvcys3Or-fEP-mAsNu1xjY5ZfH1jbbMMf3p6gxbxAnXq&s=Gt3l-JQZ1XkiGxhMvPzSz73aOCn2Yp6KiSEOeu0tyo8&e=)acknowledges the
+The transition to[FSD (Supervised)](https://urldefense.proofpoint.com/v2/url?u=https-3A__www.notateslaapp.com_software-2Dupdates_version_2024.3.10_release-2Dnotes&d=DwMGaQ&c=euGZstcaTDllvimEN8b7jXrwqOf-v5A_CdpgnVfiiMM&r=q6DiFre9_71aezF6Pm9Jl7w9qGR3W13-VtQBDABhhik&m=6BrkId4vXnRpYhZ02lkJKvcys3Or-fEP-mAsNu1xjY5ZfH1jbbMMf3p6gxbxAnXq&s=Gt3l-JQZ1XkiGxhMvPzSz73aOCn2Yp6KiSEOeu0tyo8&e=)acknowledges the
                                   current state of Tesla's autonomous
                                   technology—it's incredibly advanced
                                   and offers significant safety
@@ -607,8 +583,7 @@ The transition to[FSD
                                   approach to autonomy, ensuring drivers
                                   remain engaged and responsible while
                                   utilizing the system." …"
-                                [Read
-                                          More](https://urldefense.proofpoint.com/v2/url?u=https-3A__www.notateslaapp.com_news_1976_tesla-2Dtransitions-2Dfsd-2Dfrom-2Dbeta-2Dto-2Dsupervised-2Dwith-2Drelease-2Dof-2Dv12-2D3-2D3-2Dsemantics-2Dor-2Dlegitimate-2Dupgrade-23-3A-7E-3Atext-3DConclusion-2C-252C-2520safety-252C-2520and-2520regulatory-2520compliance.&d=DwMGaQ&c=euGZstcaTDllvimEN8b7jXrwqOf-v5A_CdpgnVfiiMM&r=q6DiFre9_71aezF6Pm9Jl7w9qGR3W13-VtQBDABhhik&m=6BrkId4vXnRpYhZ02lkJKvcys3Or-fEP-mAsNu1xjY5ZfH1jbbMMf3p6gxbxAnXq&s=zWxX6PxZHjHVxTm79NUJZiZwm4U0DDPwc11XmB6p6kU&e=)  Hmmmm…
+                                [Read More](https://urldefense.proofpoint.com/v2/url?u=https-3A__www.notateslaapp.com_news_1976_tesla-2Dtransitions-2Dfsd-2Dfrom-2Dbeta-2Dto-2Dsupervised-2Dwith-2Drelease-2Dof-2Dv12-2D3-2D3-2Dsemantics-2Dor-2Dlegitimate-2Dupgrade-23-3A-7E-3Atext-3DConclusion-2C-252C-2520safety-252C-2520and-2520regulatory-2520compliance.&d=DwMGaQ&c=euGZstcaTDllvimEN8b7jXrwqOf-v5A_CdpgnVfiiMM&r=q6DiFre9_71aezF6Pm9Jl7w9qGR3W13-VtQBDABhhik&m=6BrkId4vXnRpYhZ02lkJKvcys3Or-fEP-mAsNu1xjY5ZfH1jbbMMf3p6gxbxAnXq&s=zWxX6PxZHjHVxTm79NUJZiZwm4U0DDPwc11XmB6p6kU&e=)  Hmmmm…
                                      Hopefully this is both a legitimate
                                     upgrade and also a desperately
                                     needed and long overdue beginning of
@@ -618,13 +593,10 @@ The transition to[FSD
                                     only be achieved asymptotically at
                                     some distant future.  Alain
 
-                                [Tesla is
-                                      dragging Apple into its upcoming
-                                      fatal Autopilot crash](https://urldefense.proofpoint.com/v2/url?u=https-3A__www.theverge.com_2024_4_4_24121014_tesla-2Dapple-2Dhuang-2Dautopilot-2Dwrongful-2Ddeath-2Dtrial&d=DwMGaQ&c=euGZstcaTDllvimEN8b7jXrwqOf-v5A_CdpgnVfiiMM&r=q6DiFre9_71aezF6Pm9Jl7w9qGR3W13-VtQBDABhhik&m=6BrkId4vXnRpYhZ02lkJKvcys3Or-fEP-mAsNu1xjY5ZfH1jbbMMf3p6gxbxAnXq&s=g0EexGmauJuhtv2yXDRB6WEmzPUxiBVN32LTc4Yv_nk&e=),
+                                [Tesla is dragging Apple into its upcoming fatal Autopilot crash](https://urldefense.proofpoint.com/v2/url?u=https-3A__www.theverge.com_2024_4_4_24121014_tesla-2Dapple-2Dhuang-2Dautopilot-2Dwrongful-2Ddeath-2Dtrial&d=DwMGaQ&c=euGZstcaTDllvimEN8b7jXrwqOf-v5A_CdpgnVfiiMM&r=q6DiFre9_71aezF6Pm9Jl7w9qGR3W13-VtQBDABhhik&m=6BrkId4vXnRpYhZ02lkJKvcys3Or-fEP-mAsNu1xjY5ZfH1jbbMMf3p6gxbxAnXq&s=g0EexGmauJuhtv2yXDRB6WEmzPUxiBVN32LTc4Yv_nk&e=),
 
 Andrew Hawkins,
-                                  April 31, "Tesla is [going to
-                                    court next week](https://urldefense.proofpoint.com/v2/url?u=https-3A__www.theverge.com_2024_3_11_24097480_tesla-2Dwalter-2Dhuang-2Dcrash-2Dlawsuit-2Dcourt-2Dautopilot&d=DwMGaQ&c=euGZstcaTDllvimEN8b7jXrwqOf-v5A_CdpgnVfiiMM&r=q6DiFre9_71aezF6Pm9Jl7w9qGR3W13-VtQBDABhhik&m=6BrkId4vXnRpYhZ02lkJKvcys3Or-fEP-mAsNu1xjY5ZfH1jbbMMf3p6gxbxAnXq&s=SCEGyvOevsK6O6YDb_9mI6C6xwW1fH5d8uNEfXXg5nY&e=) over the role
+                                  April 31, "Tesla is [going to court next week](https://urldefense.proofpoint.com/v2/url?u=https-3A__www.theverge.com_2024_3_11_24097480_tesla-2Dwalter-2Dhuang-2Dcrash-2Dlawsuit-2Dcourt-2Dautopilot&d=DwMGaQ&c=euGZstcaTDllvimEN8b7jXrwqOf-v5A_CdpgnVfiiMM&r=q6DiFre9_71aezF6Pm9Jl7w9qGR3W13-VtQBDABhhik&m=6BrkId4vXnRpYhZ02lkJKvcys3Or-fEP-mAsNu1xjY5ZfH1jbbMMf3p6gxbxAnXq&s=SCEGyvOevsK6O6YDb_9mI6C6xwW1fH5d8uNEfXXg5nY&e=) over the role
                                   its Autopilot system played in a fatal
                                   crash in 2018 — and it wants Apple to
                                   testify in its defense.
@@ -636,8 +608,7 @@ Tesla wants to prove
                                   Autopilot-enabled Model X smashed into
                                   a safety barrier along US Highway 101
                                   in Mountain View, California, in 2018.
-                                  And now, Huang's family, which is [suing Tesla
-                                    for wrongful death](https://urldefense.proofpoint.com/v2/url?u=https-3A__www.theverge.com_2019_5_1_18525330_tesla-2Dautopilot-2Dlawsuit-2Dmodel-2Dx-2Dcrash-2Dwalter-2Dhuang&d=DwMGaQ&c=euGZstcaTDllvimEN8b7jXrwqOf-v5A_CdpgnVfiiMM&r=q6DiFre9_71aezF6Pm9Jl7w9qGR3W13-VtQBDABhhik&m=6BrkId4vXnRpYhZ02lkJKvcys3Or-fEP-mAsNu1xjY5ZfH1jbbMMf3p6gxbxAnXq&s=mQpJt1duuMIrBYakObuBT0KskQoVUJX9y-eub8J-FE0&e=), is claiming
+                                  And now, Huang's family, which is [suing Tesla for wrongful death](https://urldefense.proofpoint.com/v2/url?u=https-3A__www.theverge.com_2019_5_1_18525330_tesla-2Dautopilot-2Dlawsuit-2Dmodel-2Dx-2Dcrash-2Dwalter-2Dhuang&d=DwMGaQ&c=euGZstcaTDllvimEN8b7jXrwqOf-v5A_CdpgnVfiiMM&r=q6DiFre9_71aezF6Pm9Jl7w9qGR3W13-VtQBDABhhik&m=6BrkId4vXnRpYhZ02lkJKvcys3Or-fEP-mAsNu1xjY5ZfH1jbbMMf3p6gxbxAnXq&s=mQpJt1duuMIrBYakObuBT0KskQoVUJX9y-eub8J-FE0&e=), is claiming
                                   that Tesla is secretly working with
                                   Apple to aid in its defense.
 
@@ -649,8 +620,7 @@ In a pretrial motion
                                   defense of the pending case."
 
 ...…."
-[Read
-                                          More](https://urldefense.proofpoint.com/v2/url?u=https-3A__www.theverge.com_2024_4_4_24121014_tesla-2Dapple-2Dhuang-2Dautopilot-2Dwrongful-2Ddeath-2Dtrial&d=DwMGaQ&c=euGZstcaTDllvimEN8b7jXrwqOf-v5A_CdpgnVfiiMM&r=q6DiFre9_71aezF6Pm9Jl7w9qGR3W13-VtQBDABhhik&m=6BrkId4vXnRpYhZ02lkJKvcys3Or-fEP-mAsNu1xjY5ZfH1jbbMMf3p6gxbxAnXq&s=g0EexGmauJuhtv2yXDRB6WEmzPUxiBVN32LTc4Yv_nk&e=)  Hmmmm…
+[Read More](https://urldefense.proofpoint.com/v2/url?u=https-3A__www.theverge.com_2024_4_4_24121014_tesla-2Dapple-2Dhuang-2Dautopilot-2Dwrongful-2Ddeath-2Dtrial&d=DwMGaQ&c=euGZstcaTDllvimEN8b7jXrwqOf-v5A_CdpgnVfiiMM&r=q6DiFre9_71aezF6Pm9Jl7w9qGR3W13-VtQBDABhhik&m=6BrkId4vXnRpYhZ02lkJKvcys3Or-fEP-mAsNu1xjY5ZfH1jbbMMf3p6gxbxAnXq&s=g0EexGmauJuhtv2yXDRB6WEmzPUxiBVN32LTc4Yv_nk&e=)  Hmmmm…
                                        I
                                     don't have enough information to
                                     comment on this specific tragedy and
@@ -665,9 +635,7 @@ In a pretrial motion
                                     the " I'm not driving"
                                     button?  Alain & Elizabeth
 
-                                  [Tesla
-                                      (TSLA) releases Q1 2024
-                                      deliveries: disastrous results](https://urldefense.proofpoint.com/v2/url?u=https-3A__electrek.co_2024_04_02_tesla-2Dreleases-2Dq1-2D2024-2Ddeliveries-2Ddisastrous-2Dresults_&d=DwMGaQ&c=euGZstcaTDllvimEN8b7jXrwqOf-v5A_CdpgnVfiiMM&r=q6DiFre9_71aezF6Pm9Jl7w9qGR3W13-VtQBDABhhik&m=6BrkId4vXnRpYhZ02lkJKvcys3Or-fEP-mAsNu1xjY5ZfH1jbbMMf3p6gxbxAnXq&s=AG0ICLOb0q2RbZUbWoOV9mpS8jzASpTgVmwXYpI5_Sw&e=)
+                                  [Tesla (TSLA) releases Q1 2024 deliveries: disastrous results](https://urldefense.proofpoint.com/v2/url?u=https-3A__electrek.co_2024_04_02_tesla-2Dreleases-2Dq1-2D2024-2Ddeliveries-2Ddisastrous-2Dresults_&d=DwMGaQ&c=euGZstcaTDllvimEN8b7jXrwqOf-v5A_CdpgnVfiiMM&r=q6DiFre9_71aezF6Pm9Jl7w9qGR3W13-VtQBDABhhik&m=6BrkId4vXnRpYhZ02lkJKvcys3Or-fEP-mAsNu1xjY5ZfH1jbbMMf3p6gxbxAnXq&s=AG0ICLOb0q2RbZUbWoOV9mpS8jzASpTgVmwXYpI5_Sw&e=)
 
 F. Lambert,  April
                                   2, "Tesla has released
@@ -682,9 +650,7 @@ Tesla Q1 2024
                                     Expectations
 
 As we have been
-                                  reporting in the last few weeks,[the
-                                    expectations for Tesla's Q1 2024
-                                    deliveries are all over the place](https://urldefense.proofpoint.com/v2/url?u=https-3A__electrek.co_2024_03_28_tesla-2Dtsla-2Ddelivery-2Destimates-2Dall-2Dover-2Dthe-2Dplace_&d=DwMGaQ&c=euGZstcaTDllvimEN8b7jXrwqOf-v5A_CdpgnVfiiMM&r=q6DiFre9_71aezF6Pm9Jl7w9qGR3W13-VtQBDABhhik&m=6BrkId4vXnRpYhZ02lkJKvcys3Or-fEP-mAsNu1xjY5ZfH1jbbMMf3p6gxbxAnXq&s=vPkQuX5pBVj3lcha3yptjJ06f8vJUiZO91kiAQgoSFs&e=).
+                                  reporting in the last few weeks,[the expectations for Tesla's Q1 2024 deliveries are all over the place](https://urldefense.proofpoint.com/v2/url?u=https-3A__electrek.co_2024_03_28_tesla-2Dtsla-2Ddelivery-2Destimates-2Dall-2Dover-2Dthe-2Dplace_&d=DwMGaQ&c=euGZstcaTDllvimEN8b7jXrwqOf-v5A_CdpgnVfiiMM&r=q6DiFre9_71aezF6Pm9Jl7w9qGR3W13-VtQBDABhhik&m=6BrkId4vXnRpYhZ02lkJKvcys3Or-fEP-mAsNu1xjY5ZfH1jbbMMf3p6gxbxAnXq&s=vPkQuX5pBVj3lcha3yptjJ06f8vJUiZO91kiAQgoSFs&e=).
 
 Last month, the Wall
                                   Street consensus was around 470,000
@@ -716,8 +682,7 @@ Today, Tesla released
                                   production results – confirming
                                   386,810 deliveries for the first
                                   quarter of the year..."
-                                [Read
-                                          More](https://urldefense.proofpoint.com/v2/url?u=https-3A__electrek.co_2024_04_02_tesla-2Dreleases-2Dq1-2D2024-2Ddeliveries-2Ddisastrous-2Dresults_&d=DwMGaQ&c=euGZstcaTDllvimEN8b7jXrwqOf-v5A_CdpgnVfiiMM&r=q6DiFre9_71aezF6Pm9Jl7w9qGR3W13-VtQBDABhhik&m=6BrkId4vXnRpYhZ02lkJKvcys3Or-fEP-mAsNu1xjY5ZfH1jbbMMf3p6gxbxAnXq&s=AG0ICLOb0q2RbZUbWoOV9mpS8jzASpTgVmwXYpI5_Sw&e=)  Hmmmm…
+                                [Read More](https://urldefense.proofpoint.com/v2/url?u=https-3A__electrek.co_2024_04_02_tesla-2Dreleases-2Dq1-2D2024-2Ddeliveries-2Ddisastrous-2Dresults_&d=DwMGaQ&c=euGZstcaTDllvimEN8b7jXrwqOf-v5A_CdpgnVfiiMM&r=q6DiFre9_71aezF6Pm9Jl7w9qGR3W13-VtQBDABhhik&m=6BrkId4vXnRpYhZ02lkJKvcys3Or-fEP-mAsNu1xjY5ZfH1jbbMMf3p6gxbxAnXq&s=AG0ICLOb0q2RbZUbWoOV9mpS8jzASpTgVmwXYpI5_Sw&e=)  Hmmmm…
                                      Not pretty, but no one is doing
                                     well these days in the EV world.
                                     There is an enormous knee jerk to
@@ -752,9 +717,7 @@ EVs
                                     desirable, in an airport rental car
                                     situation? Bad idea jeans.  Alain
 
-                                  [Driverless
-                                      car software company shuts down in
-                                      Mountain View](https://urldefense.proofpoint.com/v2/url?u=https-3A__www.yahoo.com_tech_driverless-2Dcar-2Dsoftware-2Dcompany-2Dshuts-2D225506328.html&d=DwMGaQ&c=euGZstcaTDllvimEN8b7jXrwqOf-v5A_CdpgnVfiiMM&r=q6DiFre9_71aezF6Pm9Jl7w9qGR3W13-VtQBDABhhik&m=6BrkId4vXnRpYhZ02lkJKvcys3Or-fEP-mAsNu1xjY5ZfH1jbbMMf3p6gxbxAnXq&s=gLvLVMHO0RQ5kGzicPlO1ZzGgpuKPSf4GNY8Yg15Wd0&e=)
+                                  [Driverless car software company shuts down in Mountain View](https://urldefense.proofpoint.com/v2/url?u=https-3A__www.yahoo.com_tech_driverless-2Dcar-2Dsoftware-2Dcompany-2Dshuts-2D225506328.html&d=DwMGaQ&c=euGZstcaTDllvimEN8b7jXrwqOf-v5A_CdpgnVfiiMM&r=q6DiFre9_71aezF6Pm9Jl7w9qGR3W13-VtQBDABhhik&m=6BrkId4vXnRpYhZ02lkJKvcys3Or-fEP-mAsNu1xjY5ZfH1jbbMMf3p6gxbxAnXq&s=gLvLVMHO0RQ5kGzicPlO1ZzGgpuKPSf4GNY8Yg15Wd0&e=)
 
 Amy Larson,  April
                                   5, "A Mountain View tech
@@ -787,21 +750,15 @@ The company announced
                                   potential long-term destinations for
                                   our team's innovations."
 
-..." [Read
-                                          More](https://urldefense.proofpoint.com/v2/url?u=https-3A__www.yahoo.com_tech_driverless-2Dcar-2Dsoftware-2Dcompany-2Dshuts-2D225506328.html&d=DwMGaQ&c=euGZstcaTDllvimEN8b7jXrwqOf-v5A_CdpgnVfiiMM&r=q6DiFre9_71aezF6Pm9Jl7w9qGR3W13-VtQBDABhhik&m=6BrkId4vXnRpYhZ02lkJKvcys3Or-fEP-mAsNu1xjY5ZfH1jbbMMf3p6gxbxAnXq&s=gLvLVMHO0RQ5kGzicPlO1ZzGgpuKPSf4GNY8Yg15Wd0&e=)  Hmmmm…
+..." [Read More](https://urldefense.proofpoint.com/v2/url?u=https-3A__www.yahoo.com_tech_driverless-2Dcar-2Dsoftware-2Dcompany-2Dshuts-2D225506328.html&d=DwMGaQ&c=euGZstcaTDllvimEN8b7jXrwqOf-v5A_CdpgnVfiiMM&r=q6DiFre9_71aezF6Pm9Jl7w9qGR3W13-VtQBDABhhik&m=6BrkId4vXnRpYhZ02lkJKvcys3Or-fEP-mAsNu1xjY5ZfH1jbbMMf3p6gxbxAnXq&s=gLvLVMHO0RQ5kGzicPlO1ZzGgpuKPSf4GNY8Yg15Wd0&e=)  Hmmmm…
                                      Ouch! Has the AI venture gravy
                                     train left the station?  Alain
 
-[NHTSA
-                                      Launches Put the Phone Away or Pay
-                                      Campaign; Releases 2023 Fatality
-                                      Early Estimates](https://urldefense.proofpoint.com/v2/url?u=https-3A__www.nhtsa.gov_press-2Dreleases_2022-2Dtraffic-2Ddeaths-2D2023-2Dearly-2Destimates&d=DwMGaQ&c=euGZstcaTDllvimEN8b7jXrwqOf-v5A_CdpgnVfiiMM&r=q6DiFre9_71aezF6Pm9Jl7w9qGR3W13-VtQBDABhhik&m=6BrkId4vXnRpYhZ02lkJKvcys3Or-fEP-mAsNu1xjY5ZfH1jbbMMf3p6gxbxAnXq&s=n45XNl_gDh8VL81tw4dUm9wIw025g4-YslpM1JFIIGc&e=)
+[NHTSA Launches Put the Phone Away or Pay Campaign; Releases 2023 Fatality Early Estimates](https://urldefense.proofpoint.com/v2/url?u=https-3A__www.nhtsa.gov_press-2Dreleases_2022-2Dtraffic-2Ddeaths-2D2023-2Dearly-2Destimates&d=DwMGaQ&c=euGZstcaTDllvimEN8b7jXrwqOf-v5A_CdpgnVfiiMM&r=q6DiFre9_71aezF6Pm9Jl7w9qGR3W13-VtQBDABhhik&m=6BrkId4vXnRpYhZ02lkJKvcys3Or-fEP-mAsNu1xjY5ZfH1jbbMMf3p6gxbxAnXq&s=n45XNl_gDh8VL81tw4dUm9wIw025g4-YslpM1JFIIGc&e=)
 
 Press release,
                                   April 1, "The campaign launches
-                                  as NHTSA released [new 2022
-                                    distraction data](https://urldefense.proofpoint.com/v2/url?u=https-3A__crashstats.nhtsa.dot.gov_Api_Public_ViewPublication_813559&d=DwMGaQ&c=euGZstcaTDllvimEN8b7jXrwqOf-v5A_CdpgnVfiiMM&r=q6DiFre9_71aezF6Pm9Jl7w9qGR3W13-VtQBDABhhik&m=6BrkId4vXnRpYhZ02lkJKvcys3Or-fEP-mAsNu1xjY5ZfH1jbbMMf3p6gxbxAnXq&s=_Rxb9UeztNONo5TRIW2m3k8HKj7SXjBkg7UsTpzexts&e=) and [preliminary
-                                    traffic fatality data for 2023](https://urldefense.proofpoint.com/v2/url?u=https-3A__crashstats.nhtsa.dot.gov_Api_Public_ViewPublication_813561&d=DwMGaQ&c=euGZstcaTDllvimEN8b7jXrwqOf-v5A_CdpgnVfiiMM&r=q6DiFre9_71aezF6Pm9Jl7w9qGR3W13-VtQBDABhhik&m=6BrkId4vXnRpYhZ02lkJKvcys3Or-fEP-mAsNu1xjY5ZfH1jbbMMf3p6gxbxAnXq&s=AgcYBu9O0DClprnZK0BjzytI3TqdbIHaCcuO4TEZ-Jc&e=).
+                                  as NHTSA released [new 2022 distraction data](https://urldefense.proofpoint.com/v2/url?u=https-3A__crashstats.nhtsa.dot.gov_Api_Public_ViewPublication_813559&d=DwMGaQ&c=euGZstcaTDllvimEN8b7jXrwqOf-v5A_CdpgnVfiiMM&r=q6DiFre9_71aezF6Pm9Jl7w9qGR3W13-VtQBDABhhik&m=6BrkId4vXnRpYhZ02lkJKvcys3Or-fEP-mAsNu1xjY5ZfH1jbbMMf3p6gxbxAnXq&s=_Rxb9UeztNONo5TRIW2m3k8HKj7SXjBkg7UsTpzexts&e=) and [preliminary traffic fatality data for 2023](https://urldefense.proofpoint.com/v2/url?u=https-3A__crashstats.nhtsa.dot.gov_Api_Public_ViewPublication_813561&d=DwMGaQ&c=euGZstcaTDllvimEN8b7jXrwqOf-v5A_CdpgnVfiiMM&r=q6DiFre9_71aezF6Pm9Jl7w9qGR3W13-VtQBDABhhik&m=6BrkId4vXnRpYhZ02lkJKvcys3Or-fEP-mAsNu1xjY5ZfH1jbbMMf3p6gxbxAnXq&s=AgcYBu9O0DClprnZK0BjzytI3TqdbIHaCcuO4TEZ-Jc&e=).
                                   These latest numbers underscore the
                                   toll of being distracted behind the
                                   wheel. In 2022, 3,308 people were
@@ -831,9 +788,7 @@ People who are
                                   road user fatality rates are
                                   increasing, and distracted driving is
                                   a contributing factor to the increase
-                                  in fatalities. NHTSA's [final 2022
-                                    Fatality Analysis Reporting System
-                                    traffic crash data](https://urldefense.proofpoint.com/v2/url?u=https-3A__crashstats.nhtsa.dot.gov_Api_Public_ViewPublication_813560&d=DwMGaQ&c=euGZstcaTDllvimEN8b7jXrwqOf-v5A_CdpgnVfiiMM&r=q6DiFre9_71aezF6Pm9Jl7w9qGR3W13-VtQBDABhhik&m=6BrkId4vXnRpYhZ02lkJKvcys3Or-fEP-mAsNu1xjY5ZfH1jbbMMf3p6gxbxAnXq&s=YrSubPTO7qHDSywlKQM1eFcQ5mkgEKS-l-3tumuhSbY&e=) and analysis
+                                  in fatalities. NHTSA's [final 2022 Fatality Analysis Reporting System traffic crash data](https://urldefense.proofpoint.com/v2/url?u=https-3A__crashstats.nhtsa.dot.gov_Api_Public_ViewPublication_813560&d=DwMGaQ&c=euGZstcaTDllvimEN8b7jXrwqOf-v5A_CdpgnVfiiMM&r=q6DiFre9_71aezF6Pm9Jl7w9qGR3W13-VtQBDABhhik&m=6BrkId4vXnRpYhZ02lkJKvcys3Or-fEP-mAsNu1xjY5ZfH1jbbMMf3p6gxbxAnXq&s=YrSubPTO7qHDSywlKQM1eFcQ5mkgEKS-l-3tumuhSbY&e=) and analysis
                                   are available online.
 
 NHTSA's
@@ -851,9 +806,7 @@ NHTSA's
                                   ads run from April 1-8.
 
 NHTSA also released
-                                  its[latest
-                                    projections for traffic fatalities
-                                    in 2023](https://urldefense.proofpoint.com/v2/url?u=https-3A__crashstats.nhtsa.dot.gov_Api_Public_ViewPublication_813561&d=DwMGaQ&c=euGZstcaTDllvimEN8b7jXrwqOf-v5A_CdpgnVfiiMM&r=q6DiFre9_71aezF6Pm9Jl7w9qGR3W13-VtQBDABhhik&m=6BrkId4vXnRpYhZ02lkJKvcys3Or-fEP-mAsNu1xjY5ZfH1jbbMMf3p6gxbxAnXq&s=AgcYBu9O0DClprnZK0BjzytI3TqdbIHaCcuO4TEZ-Jc&e=), estimating more miles
+                                  its[latest projections for traffic fatalities in 2023](https://urldefense.proofpoint.com/v2/url?u=https-3A__crashstats.nhtsa.dot.gov_Api_Public_ViewPublication_813561&d=DwMGaQ&c=euGZstcaTDllvimEN8b7jXrwqOf-v5A_CdpgnVfiiMM&r=q6DiFre9_71aezF6Pm9Jl7w9qGR3W13-VtQBDABhhik&m=6BrkId4vXnRpYhZ02lkJKvcys3Or-fEP-mAsNu1xjY5ZfH1jbbMMf3p6gxbxAnXq&s=AgcYBu9O0DClprnZK0BjzytI3TqdbIHaCcuO4TEZ-Jc&e=), estimating more miles
                                   driven and lower fatality rates
                                   compared to 2022. The agency estimates
                                   that 40,990 people died in motor
@@ -873,8 +826,7 @@ NHTSA also released
                                   2023 increased by about 67.5 billion
                                   miles, a 2.1% increase over
                                   2022."..…."
-                                [Read
-                                          More](https://urldefense.proofpoint.com/v2/url?u=https-3A__www.nhtsa.gov_press-2Dreleases_2022-2Dtraffic-2Ddeaths-2D2023-2Dearly-2Destimates&d=DwMGaQ&c=euGZstcaTDllvimEN8b7jXrwqOf-v5A_CdpgnVfiiMM&r=q6DiFre9_71aezF6Pm9Jl7w9qGR3W13-VtQBDABhhik&m=6BrkId4vXnRpYhZ02lkJKvcys3Or-fEP-mAsNu1xjY5ZfH1jbbMMf3p6gxbxAnXq&s=n45XNl_gDh8VL81tw4dUm9wIw025g4-YslpM1JFIIGc&e=)  Hmmmm…
+                                [Read More](https://urldefense.proofpoint.com/v2/url?u=https-3A__www.nhtsa.gov_press-2Dreleases_2022-2Dtraffic-2Ddeaths-2D2023-2Dearly-2Destimates&d=DwMGaQ&c=euGZstcaTDllvimEN8b7jXrwqOf-v5A_CdpgnVfiiMM&r=q6DiFre9_71aezF6Pm9Jl7w9qGR3W13-VtQBDABhhik&m=6BrkId4vXnRpYhZ02lkJKvcys3Or-fEP-mAsNu1xjY5ZfH1jbbMMf3p6gxbxAnXq&s=n45XNl_gDh8VL81tw4dUm9wIw025g4-YslpM1JFIIGc&e=)  Hmmmm…
                                        Well,
                                     there is some good news here, but
                                     shouldn't NHTSA be doing more with
@@ -886,8 +838,7 @@ NHTSA also released
                                     misbehavior? How effective is a $5M
                                     media campaign expected to be? Alain
 
- [6th
-                                      SmartDrivingCars Summit](https://urldefense.proofpoint.com/v2/url?u=https-3A__summit.princeton.edu_&d=DwMGaQ&c=euGZstcaTDllvimEN8b7jXrwqOf-v5A_CdpgnVfiiMM&r=q6DiFre9_71aezF6Pm9Jl7w9qGR3W13-VtQBDABhhik&m=6BrkId4vXnRpYhZ02lkJKvcys3Or-fEP-mAsNu1xjY5ZfH1jbbMMf3p6gxbxAnXq&s=5v_rztS6bJIi2ZVlWDnH4MpauNCmI4_WQ5ZLHmEdtK0&e=)
+ [6th SmartDrivingCars Summit](https://urldefense.proofpoint.com/v2/url?u=https-3A__summit.princeton.edu_&d=DwMGaQ&c=euGZstcaTDllvimEN8b7jXrwqOf-v5A_CdpgnVfiiMM&r=q6DiFre9_71aezF6Pm9Jl7w9qGR3W13-VtQBDABhhik&m=6BrkId4vXnRpYhZ02lkJKvcys3Or-fEP-mAsNu1xjY5ZfH1jbbMMf3p6gxbxAnXq&s=5v_rztS6bJIi2ZVlWDnH4MpauNCmI4_WQ5ZLHmEdtK0&e=)
                                     Evening May 29 -> May 31, 2024
 
 Alain
@@ -952,8 +903,7 @@ Workshop
                                       & Business Case
 
 …."
-                                [Read
-                                          More](https://urldefense.proofpoint.com/v2/url?u=https-3A__summit.princeton.edu_&d=DwMGaQ&c=euGZstcaTDllvimEN8b7jXrwqOf-v5A_CdpgnVfiiMM&r=q6DiFre9_71aezF6Pm9Jl7w9qGR3W13-VtQBDABhhik&m=6BrkId4vXnRpYhZ02lkJKvcys3Or-fEP-mAsNu1xjY5ZfH1jbbMMf3p6gxbxAnXq&s=5v_rztS6bJIi2ZVlWDnH4MpauNCmI4_WQ5ZLHmEdtK0&e=)  Hmmmm…
+                                [Read More](https://urldefense.proofpoint.com/v2/url?u=https-3A__summit.princeton.edu_&d=DwMGaQ&c=euGZstcaTDllvimEN8b7jXrwqOf-v5A_CdpgnVfiiMM&r=q6DiFre9_71aezF6Pm9Jl7w9qGR3W13-VtQBDABhhik&m=6BrkId4vXnRpYhZ02lkJKvcys3Or-fEP-mAsNu1xjY5ZfH1jbbMMf3p6gxbxAnXq&s=5v_rztS6bJIi2ZVlWDnH4MpauNCmI4_WQ5ZLHmEdtK0&e=)  Hmmmm…
                                     Please pencil in the dates. We are
                                     to make publish the sponsorship and
                                     registration pages.  Given the
@@ -971,8 +921,7 @@ Workshop
 
 ***************************************************************************************************************
 
-            This list is maintained by [Alain
-              Kornhauser](mailto:alaink@princeton.edu) and hosted by the
+            This list is maintained by [Alain Kornhauser](mailto:alaink@princeton.edu) and hosted by the
             [Princeton University LISTSERV](https://urldefense.proofpoint.com/v2/url?u=http-3A__lists.princeton.edu&d=DwMGaQ&c=euGZstcaTDllvimEN8b7jXrwqOf-v5A_CdpgnVfiiMM&r=q6DiFre9_71aezF6Pm9Jl7w9qGR3W13-VtQBDABhhik&m=6BrkId4vXnRpYhZ02lkJKvcys3Or-fEP-mAsNu1xjY5ZfH1jbbMMf3p6gxbxAnXq&s=Vx3MQxrfkJejuzgODGh0uBY_NjpVr8muStGQUAVAY4s&e=).
 
 [Unsubscribe](https://urldefense.proofpoint.com/v2/url?u=http-3A__-26-2ATICKET-5FURL-28SMARTDRIVINGCARS-2CSIGNOFF-29-3B&d=DwMGaQ&c=euGZstcaTDllvimEN8b7jXrwqOf-v5A_CdpgnVfiiMM&r=q6DiFre9_71aezF6Pm9Jl7w9qGR3W13-VtQBDABhhik&m=6BrkId4vXnRpYhZ02lkJKvcys3Or-fEP-mAsNu1xjY5ZfH1jbbMMf3p6gxbxAnXq&s=RicFJTPWUQJjv6NhdZbobXMGm3QIkqGnmMJGs1_uXbI&e=) | [Re-subscribe](https://urldefense.proofpoint.com/v2/url?u=http-3A__-26-2ATICKET-5FURL-28SMARTDRIVINGCARS-2CSIGNUP-29-3B&d=DwMGaQ&c=euGZstcaTDllvimEN8b7jXrwqOf-v5A_CdpgnVfiiMM&r=q6DiFre9_71aezF6Pm9Jl7w9qGR3W13-VtQBDABhhik&m=6BrkId4vXnRpYhZ02lkJKvcys3Or-fEP-mAsNu1xjY5ZfH1jbbMMf3p6gxbxAnXq&s=GbZePQAozjLdZLwYw7ojAS8OLiNlgcqHF2XJxC2iO5g&e=)
@@ -1002,7 +951,7 @@ Alain L. Kornhauser, PhD
 [alaink@princeton.edu](mailto:alaink@princeton.edu)
 
                   609-980-1427 (c)
- [](http://www.princeton.edu/)
+ 
 
 ***************************************************************************************************************
 

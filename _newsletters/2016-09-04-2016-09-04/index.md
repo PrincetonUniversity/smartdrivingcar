@@ -8,11 +8,7 @@ permalink: /2016-09-04-2016-09-04/
 September 4,
                                                           2016
 
-### [How
-                                                          Do You Buy a
-                                                          Million Cars
-                                                          When You Can't
-                                                          Make a Dime?](http://www.driverlesstransportation.com/technology-buy-million-cars-cant-make-dime-13874)
+### [How Do You Buy a Million Cars When You Can't Make a Dime?](http://www.driverlesstransportation.com/technology-buy-million-cars-cant-make-dime-13874)
 
 B. Simpson, Aug 25, "Isn't this
                                                           supposed to be
@@ -101,8 +97,7 @@ B. Simpson, Aug 25, "Isn't this
                                                           foundation for
                                                           the growth of
                                                           autonomous
-                                                          vehicles. [Read
-                                                          more](http://www.driverlesstransportation.com/technology-buy-million-cars-cant-make-dime-13874)Hmmm...Do read more!  It may well be that those that
+                                                          vehicles. [Read more](http://www.driverlesstransportation.com/technology-buy-million-cars-cant-make-dime-13874)Hmmm...Do read more!  It may well be that those that
                                                           can't make a
                                                           dime wont even
                                                           have the
@@ -151,13 +146,7 @@ B. Simpson, Aug 25, "Isn't this
                                                           making any
                                                           money). Alain
 
-### [Tesla
-                                                          drivers who
-                                                          abuse
-                                                          Autopilot
-                                                          could lose
-                                                          Autosteer
-                                                          function](http://vehicle.pro/autonews/tesla_drivers_who_abuse_autopilot_could_lose_autosteer-20160904/)
+### [Tesla drivers who abuse Autopilot could lose Autosteer function](http://vehicle.pro/autonews/tesla_drivers_who_abuse_autopilot_could_lose_autosteer-20160904/)
 
 R. Milton,
                                                           Sept. 4. "On
@@ -219,18 +208,13 @@ R. Milton,
                                                           cruise control
                                                           more
                                                           responsive..."
-                                                          [Read
-                                                          more](http://vehicle.pro/autonews/tesla_drivers_who_abuse_autopilot_could_lose_autosteer-20160904/)Hmmm...Absolutely...  Use it appropriately or loose
+                                                          [Read more](http://vehicle.pro/autonews/tesla_drivers_who_abuse_autopilot_could_lose_autosteer-20160904/)Hmmm...Absolutely...  Use it appropriately or loose
                                                           it.  Your
                                                           choice!  I
                                                           love it.
                                                           Alain
 
-### [Alphabet
-                                                          Executive
-                                                          David Drummond
-                                                          Leaves Uber
-                                                          Board](http://www.wsj.com/articles/alphabet-executive-david-drummond-leaves-uber-board-1472510812?mod=WSJ_TechWSJD_NeedToKnow&ref=/news/technology)
+### [Alphabet Executive David Drummond Leaves Uber Board](http://www.wsj.com/articles/alphabet-executive-david-drummond-leaves-uber-board-1472510812?mod=WSJ_TechWSJD_NeedToKnow&ref=/news/technology)
 
                                                           G. Bensinger,
                                                           Aug 30, "Uber
@@ -249,19 +233,13 @@ R. Milton,
                                                           transportation
                                                           and
                                                           logistics...."
-                                                          [Read
-                                                          more](http://www.wsj.com/articles/alphabet-executive-david-drummond-leaves-uber-board-1472510812?mod=WSJ_TechWSJD_NeedToKnow&ref=/news/technology) Hmmm....Not surprising. Automated elevator
+                                                          [Read more](http://www.wsj.com/articles/alphabet-executive-david-drummond-leaves-uber-board-1472510812?mod=WSJ_TechWSJD_NeedToKnow&ref=/news/technology) Hmmm....Not surprising. Automated elevator
                                                           trumps
                                                           elevator with
                                                           operator.
                                                           Alain
 
-### [Alphabet
-                                                          Expands
-                                                          Car-Pooling
-                                                          Project,
-                                                          Casting Shadow
-                                                          on Uber](http://www.nytimes.com/2016/08/31/technology/google-broadens-car-pooling-project-casting-shadow-on-uber.html?ref=business)
+### [Alphabet Expands Car-Pooling Project, Casting Shadow on Uber](http://www.nytimes.com/2016/08/31/technology/google-broadens-car-pooling-project-casting-shadow-on-uber.html?ref=business)
 
 D.
                                                           Wakabayashi,
@@ -313,8 +291,7 @@ D.
                                                           about it.
                                                           Waze promotes
                                                           the service as
-                                                          [Waze
-                                                          Carpool](https://www.waze.com/carpool) on
+                                                          [Waze Carpool](https://www.waze.com/carpool) on
                                                           its website,
                                                           recruiting
                                                           drivers and
@@ -322,14 +299,9 @@ D.
                                                           commute
                                                           together in
                                                           the Bay
-                                                          Area...."[Read
-                                                          more](http://www.nytimes.com/2016/08/31/technology/google-broadens-car-pooling-project-casting-shadow-on-uber.html?ref=business)Hmmm...Another shoe is dropping!   Alain
+                                                          Area...."[Read more](http://www.nytimes.com/2016/08/31/technology/google-broadens-car-pooling-project-casting-shadow-on-uber.html?ref=business)Hmmm...Another shoe is dropping!   Alain
 
-### [Car
-                                                          Makers
-                                                          Scrutinized on
-                                                          Self-Driving
-                                                          Claims](http://www.wsj.com/articles/car-makers-retreat-on-self-driving-claims-1472999259)
+### [Car Makers Scrutinized on Self-Driving Claims](http://www.wsj.com/articles/car-makers-retreat-on-self-driving-claims-1472999259)
 
                                                           M. Spector,
                                                           Sept 4, "A
@@ -343,8 +315,7 @@ D.
                                                           very
                                                           self-driven
                                                           company." ..."
-                                                          [Read
-                                                          more](http://www.wsj.com/articles/car-makers-retreat-on-self-driving-claims-1472999259)Hmmm... All old news.  Of course there should be
+                                                          [Read more](http://www.wsj.com/articles/car-makers-retreat-on-self-driving-claims-1472999259)Hmmm... All old news.  Of course there should be
                                                           truth in
                                                           advertising
                                                           and
@@ -397,10 +368,7 @@ D.
                                                           incapacitated.)
                                                           Alain
 
-### [The Future of
-                                                          Farming: Meet
-                                                          The Driverless
-                                                          Tractor](http://futurism.com/the-future-of-farming-meet-the-driverless-tractor/)
+### [The Future of Farming: Meet The Driverless Tractor](http://futurism.com/the-future-of-farming-meet-the-driverless-tractor/)
 
                                                           J. Creighton,
                                                           Sept 3, "...At
@@ -441,19 +409,12 @@ D.
                                                           Vehicle. Check
                                                           it out in the
                                                           [video](https://youtu.be/MwC_Hzm5Z9s)
-                                                          .." [Read
-                                                          more](http://futurism.com/the-future-of-farming-meet-the-driverless-tractor/)Hmmm... [Video](https://youtu.be/MwC_Hzm5Z9s)
+                                                          .." [Read more](http://futurism.com/the-future-of-farming-meet-the-driverless-tractor/)Hmmm... [Video](https://youtu.be/MwC_Hzm5Z9s)
                                                           is very
                                                           interesting.
                                                           Alain
 
-### [Latest
-                                                          findings from
-                                                          human factors
-                                                          research on
-                                                          automation in
-                                                          vehicles to be
-                                                          presented](http://www.sciencecodex.com/latest_findings_from_human_factors_research_on_automation_in_vehicles_to_be_presented-189531)
+### [Latest findings from human factors research on automation in vehicles to be presented](http://www.sciencecodex.com/latest_findings_from_human_factors_research_on_automation_in_vehicles_to_be_presented-189531)
 
                                                           Sept 2, "Many
                                                           human factors
@@ -493,26 +454,14 @@ D.
                                                           the topic of a
                                                           number of
                                                           presentations
-                                                          at the [Human
-                                                          Factors and
-                                                          Ergonomics
-                                                          Society 2016
-                                                          Annual Meeting](https://www.hfes.org/Web/HFESMeetings/2016annualmeeting.html),
+                                                          at the [Human Factors and Ergonomics Society 2016 Annual Meeting](https://www.hfes.org/Web/HFESMeetings/2016annualmeeting.html),
                                                           to be held
                                                           September
                                                           19-23 at the
                                                           Washington
-                                                          Hilton.... " [Read
-                                                          more](http://www.sciencecodex.com/latest_findings_from_human_factors_research_on_automation_in_vehicles_to_be_presented-189531)Hmmm...Should be very interesting! Alain
+                                                          Hilton.... " [Read more](http://www.sciencecodex.com/latest_findings_from_human_factors_research_on_automation_in_vehicles_to_be_presented-189531)Hmmm...Should be very interesting! Alain
 
-### [World's
-                                                          first
-                                                          driverless bus
-                                                          service begins
-                                                          carrying
-                                                          passengers in
-                                                          French city of
-                                                          Lyon](http://www.telegraph.co.uk/news/2016/09/03/worlds-first-driverless-bus-service-begins-carrying-passengers-i/)
+### [World's first driverless bus service begins carrying passengers in French city of Lyon](http://www.telegraph.co.uk/news/2016/09/03/worlds-first-driverless-bus-service-begins-carrying-passengers-i/)
 
                                                           D. Chazan,
                                                           Sept. 3, "The
@@ -562,8 +511,7 @@ D.
                                                           transport
                                                           group that
                                                           operates the
-                                                          service.... [Read
-                                                          more](http://www.telegraph.co.uk/news/2016/09/03/worlds-first-driverless-bus-service-begins-carrying-passengers-i/)Hmmm... Again, another CityMobil2-type preliminary
+                                                          service.... [Read more](http://www.telegraph.co.uk/news/2016/09/03/worlds-first-driverless-bus-service-begins-carrying-passengers-i/)Hmmm... Again, another CityMobil2-type preliminary
                                                           step.
                                                           Congratulations!
                                                           (but we are
@@ -573,10 +521,7 @@ D.
                                                           driverless-step.)
                                                           Alain
 
-### [Dubai
-                                                          debuts
-                                                          driverless
-                                                          minibus](http://saudigazette.com.sa/world/mena/dubai-debuts-driverless-minibus/)
+### [Dubai debuts driverless minibus](http://saudigazette.com.sa/world/mena/dubai-debuts-driverless-minibus/)
 
 Sept. 3,
                                                           "DUBAI has
@@ -611,14 +556,9 @@ Sept. 3,
                                                           Khalifa, the
                                                           world's
                                                           tallest
-                                                          tower...." [Read
-                                                          more](http://saudigazette.com.sa/world/mena/dubai-debuts-driverless-minibus/) Hmmm... Ditto. Alain
+                                                          tower...." [Read more](http://saudigazette.com.sa/world/mena/dubai-debuts-driverless-minibus/) Hmmm... Ditto. Alain
 
-### [How
-                                                          Driverless
-                                                          Cars May
-                                                          Interact With
-                                                          People](http://www.nytimes.com/2016/08/31/technology/how-driverless-cars-may-interact-with-people.html)
+### [How Driverless Cars May Interact With People](http://www.nytimes.com/2016/08/31/technology/how-driverless-cars-may-interact-with-people.html)
 
 J.
                                                           Markoff, Aug
@@ -642,23 +582,12 @@ J.
                                                           sounds,
                                                           company
                                                           officials
-                                                          said...."[Read
-                                                          more](http://www.nytimes.com/2016/08/31/technology/how-driverless-cars-may-interact-with-people.html)Hmmm...That's what [Daimler](https://www.daimler.com/innovation/autonomous-driving/)
-                                                          showed [@
-                                                          2015CES](http://www.reuters.com/article/us-autos-ces-daimler-idUSKBN0KF0B620150106) in
-                                                          their [F
-                                                          015](http://fortune.com/2015/03/31/mercedes-self-driving-f-015-exclusive-interview/)!
+                                                          said...."[Read more](http://www.nytimes.com/2016/08/31/technology/how-driverless-cars-may-interact-with-people.html)Hmmm...That's what [Daimler](https://www.daimler.com/innovation/autonomous-driving/)
+                                                          showed [@ 2015CES](http://www.reuters.com/article/us-autos-ces-daimler-idUSKBN0KF0B620150106) in
+                                                          their [F 015](http://fortune.com/2015/03/31/mercedes-self-driving-f-015-exclusive-interview/)!
                                                           Alain
 
-### [Uber's
-                                                          test track
-                                                          almost ready
-                                                          still no
-                                                          official word
-                                                          on when
-                                                          self-driving
-                                                          cars will roll
-                                                          out](http://www.post-gazette.com/business/development/2016/09/03/Uber-s-test-track-almost-ready-still-no-official-word-on-when-self-driving-cars-will-roll-out/stories/201609020144?utm_source=newsletter&utm_medium=email&utm_content=most-viewed-business&utm_campaign=Headlines-Newsletter)
+### [Uber's test track almost ready still no official word on when self-driving cars will roll out](http://www.post-gazette.com/business/development/2016/09/03/Uber-s-test-track-almost-ready-still-no-official-word-on-when-self-driving-cars-will-roll-out/stories/201609020144?utm_source=newsletter&utm_medium=email&utm_content=most-viewed-business&utm_campaign=Headlines-Newsletter)
 
 M. Belko,
                                                           Sept 3, "The
@@ -687,8 +616,7 @@ M. Belko,
                                                           sprawling
                                                           fenced-in site
                                                           is anybody's
-                                                          guess. [Read
-                                                          more](http://www.post-gazette.com/business/development/2016/09/03/Uber-s-test-track-almost-ready-still-no-official-word-on-when-self-driving-cars-will-roll-out/stories/201609020144?utm_source=newsletter&utm_medium=email&utm_content=most-viewed-business&utm_campaign=Headlines-Newsletter)Hmmm... The track is a good first step, but
+                                                          guess. [Read more](http://www.post-gazette.com/business/development/2016/09/03/Uber-s-test-track-almost-ready-still-no-official-word-on-when-self-driving-cars-will-roll-out/stories/201609020144?utm_source=newsletter&utm_medium=email&utm_content=most-viewed-business&utm_campaign=Headlines-Newsletter)Hmmm... The track is a good first step, but
                                                           self-driving
                                                           is ultimately
                                                           more about
@@ -698,11 +626,7 @@ M. Belko,
                                                           configurations.
                                                           Alain
 
-### [Self-Driving
-                                                          Car Crash
-                                                          Raises
-                                                          Questions
-                                                          About Safety](http://dfw.cbslocal.com/2016/09/02/self-driving-car-crash-raises-questions-about-safety/)
+### [Self-Driving Car Crash Raises Questions About Safety](http://dfw.cbslocal.com/2016/09/02/self-driving-car-crash-raises-questions-about-safety/)
 
 G. Allen,
                                                           Sept 2, "A
@@ -713,17 +637,9 @@ G. Allen,
                                                           a guardrail at
 80-miles-an-hour. The wreck is raising questions about the safety of
                                                           self-driving
-                                                          cars...." [Read
-                                                          more](http://dfw.cbslocal.com/2016/09/02/self-driving-car-crash-raises-questions-about-safety/)Hmmm... See the embedded video report.  Alain
+                                                          cars...." [Read more](http://dfw.cbslocal.com/2016/09/02/self-driving-car-crash-raises-questions-about-safety/)Hmmm... See the embedded video report.  Alain
 
-### [Tesla
-                                                          enters car
-                                                          insurance
-                                                          business as
-                                                          self-driving
-                                                          cars prepare
-                                                          to disrupt the
-                                                          industry](https://electrek.co/2016/08/30/tesla-enters-car-insurance-business-self-driving-cars-prepare-disrupt-industry/?utm_source=Triggermail&utm_medium=email&utm_campaign=Post%20Blast%20%28bii-iot%29:%20Baidu%20bolstering%20AI%2C%20IoT%20development%20%E2%80%94%20Tesla%20and%20insurers%20develop%20custom%20policies%20%E2%80%94%20C3%20IoT%20raises%20%2470%20million%20in%20funding%20for%20industrial%20solutions&utm_term=BII%20List%20IoT%20ALL)
+### [Tesla enters car insurance business as self-driving cars prepare to disrupt the industry](https://electrek.co/2016/08/30/tesla-enters-car-insurance-business-self-driving-cars-prepare-disrupt-industry/?utm_source=Triggermail&utm_medium=email&utm_campaign=Post%20Blast%20%28bii-iot%29:%20Baidu%20bolstering%20AI%2C%20IoT%20development%20%E2%80%94%20Tesla%20and%20insurers%20develop%20custom%20policies%20%E2%80%94%20C3%20IoT%20raises%20%2470%20million%20in%20funding%20for%20industrial%20solutions&utm_term=BII%20List%20IoT%20ALL)
 
                                                           Aug 30,
                                                           "Electrek has
@@ -769,15 +685,10 @@ G. Allen,
                                                           partnership. Beginning
                                                           the disruption
                                                           anticipated
-                                                          in  [KPMG's
-                                                          report of 2015](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/PDFs/KPMG-automobile-insurance-in-the-era-of-autonomous-vehicles-survey-results-june-2015-6.pdf).
+                                                          in  [KPMG's report of 2015](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/PDFs/KPMG-automobile-insurance-in-the-era-of-autonomous-vehicles-survey-results-june-2015-6.pdf).
                                                           Alain
 
-### [Driverless
-                                                          cars will kill
-                                                          the most jobs
-                                                          in select US
-                                                          states](http://www.cnbc.com/2016/09/02/driverless-cars-will-kill-the-most-jobs-in-select-us-states.html)
+### [Driverless cars will kill the most jobs in select US states](http://www.cnbc.com/2016/09/02/driverless-cars-will-kill-the-most-jobs-in-select-us-states.html)
 
 M. Farley,
                                                           Sept 2, "If
@@ -863,11 +774,7 @@ M. Farley,
 
 ###
 
-### [Passenger
-                                                          Jet Service
-                                                          From U.S. to
-                                                          Cuba Starts
-                                                          Wednesday](http://www.nytimes.com/2016/09/01/world/americas/cuba-us-first-flight-jetblue.html?ref=business)
+### [Passenger Jet Service From U.S. to Cuba Starts Wednesday](http://www.nytimes.com/2016/09/01/world/americas/cuba-us-first-flight-jetblue.html?ref=business)
 
 F.
                                                           Robles, Aug
@@ -911,14 +818,9 @@ F.
                                                           George, the
                                                           executive vice
                                                           president of
-                                                          JetBlue..."[Read
-                                                          more](http://www.nytimes.com/2016/08/28/nyregion/la-guardia-airport-reconstruction-drop-your-bags.html?_r=0)Hmmm...Congratulations Marty!   Alain
+                                                          JetBlue..."[Read more](http://www.nytimes.com/2016/08/28/nyregion/la-guardia-airport-reconstruction-drop-your-bags.html?_r=0)Hmmm...Congratulations Marty!   Alain
 
-### [Dramatic
-                                                          Video Shows
-                                                          Huge Scale of
-                                                          SpaceX Rocket
-                                                          Explosion](http://www.space.com/33938-spacex-rocket-explosion-dramatic-video.html)
+### [Dramatic Video Shows Huge Scale of SpaceX Rocket Explosion](http://www.space.com/33938-spacex-rocket-explosion-dramatic-video.html)
 
 M.
                                                           Wall Sept 1,
@@ -945,17 +847,13 @@ M.
                                                           Florida's Cape
                                                           Canaveral Air
                                                           Force
-                                                          Station...." [Read
-                                                          more](http://www.space.com/33938-spacex-rocket-explosion-dramatic-video.html)Hmmm...After almost 60 years since [Sputnik](https://en.wikipedia.org/wiki/Sputnik_1),
-                                                          [Vanguard
-                                                          TV3](https://www.youtube.com/watch?v=iaoGiti9vS8) , [others](https://www.youtube.com/watch?v=RY1cEOzaf78) and [now
-                                                          this](https://youtu.be/_BgJEXQkjNQ) have
+                                                          Station...." [Read more](http://www.space.com/33938-spacex-rocket-explosion-dramatic-video.html)Hmmm...After almost 60 years since [Sputnik](https://en.wikipedia.org/wiki/Sputnik_1),
+                                                          [Vanguard TV3](https://www.youtube.com/watch?v=iaoGiti9vS8) , [others](https://www.youtube.com/watch?v=RY1cEOzaf78) and [now this](https://youtu.be/_BgJEXQkjNQ) have
                                                           shown that it
                                                           isn't easy.
                                                           Alain
 
-### [Intelligent
-                                                          Technology](http://www.imf.org/external/pubs/ft/fandd/2016/09/varian.htm)
+### [Intelligent Technology](http://www.imf.org/external/pubs/ft/fandd/2016/09/varian.htm)
 
 H.
                                                           Varian, Sept
@@ -1026,67 +924,34 @@ H.
                                                           a small part
                                                           of photography
                                                           these
-                                                          days...." [Read
-                                                          more](http://www.imf.org/external/pubs/ft/fandd/2016/09/varian.htm)Hmmm...Interesting. Alain
+                                                          days...." [Read more](http://www.imf.org/external/pubs/ft/fandd/2016/09/varian.htm)Hmmm...Interesting. Alain
 
 ## [On the More Technical Side](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Papers/)
 
 [http://orfe.princeton.edu/~alaink/SmartDrivingCars/Papers/](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Papers/)
 
-### [Learning
-                                                          to Recognize
-                                                          Distance to
-                                                          Stop Signs
-                                                          Using the
-                                                          Virtual World
-                                                          of Grand Theft
-                                                          Auto 5](http://orfe.princeton.edu/%7Ealaink/TRB%2717/Using_GTAV_to_Learn_Distances_TRB_Final.pdf)
+### [Learning to Recognize Distance to Stop Signs Using the Virtual World of Grand Theft Auto 5](http://orfe.princeton.edu/%7Ealaink/TRB%2717/Using_GTAV_to_Learn_Distances_TRB_Final.pdf)
 
 A.
                                                           Filiowicz, J.
                                                           Liu, A
                                                           Kornhauser,
-                                                          Aug 1 [Read
-                                                          more](http://orfe.princeton.edu/%7Ealaink/TRB%2717/Using_GTAV_to_Learn_Distances_TRB_Final.pdf)
+                                                          Aug 1 [Read more](http://orfe.princeton.edu/%7Ealaink/TRB%2717/Using_GTAV_to_Learn_Distances_TRB_Final.pdf)
 
-### [The
-                                                          Interplay
-                                                          between
-                                                          Fleet-size,
-                                                          Level-of-Service,
-                                                          and Empty
-                                                          Repositioning
-                                                          Strategies in
-                                                          Large-scale,
-                                                          Shared-ride
-                                                          autonomousTaxis
+### [The Interplay between Fleet-size, Level-of-Service, and Empty Repositioning Strategies in Large-scale, Shared-ride autonomousTaxis
 Mobility-on-Demand Scenarios](http://orfe.princeton.edu/%7Ealaink/TRB%2717/Interplay_Between_Fleet-size,_LoS%20and_EmptyRepositioning.pdf)
 
 S.
                                                           Zhu, A.
                                                           Kornhauser,
-                                                          Aug 1 [Read
-                                                          more](http://orfe.princeton.edu/%7Ealaink/TRB%2717/Interplay_Between_Fleet-size,_LoS%20and_EmptyRepositioning.pdf)
+                                                          Aug 1 [Read more](http://orfe.princeton.edu/%7Ealaink/TRB%2717/Interplay_Between_Fleet-size,_LoS%20and_EmptyRepositioning.pdf)
 
-### [Synthetic
-                                                          Generation of
-                                                          Individual
-                                                          Vehicle-borne
-                                                          Person Trips
-                                                          That
-                                                          Characterize
-                                                          Individual
-                                                          Mobility
-                                                          Across the
-                                                          United States
-                                                          on a Typical
-                                                          Day](http://orfe.princeton.edu/%7Ealaink/TRB%2717/Synthetic_Generation_of_Invidual_Trips_Across_US.pdf)
+### [Synthetic Generation of Individual Vehicle-borne Person Trips That Characterize Individual Mobility Across the United States on a Typical Day](http://orfe.princeton.edu/%7Ealaink/TRB%2717/Synthetic_Generation_of_Invidual_Trips_Across_US.pdf)
 
 K.
                                                           Marocchini, A.
                                                           Kornhauser,
-                                                          Aug 1 [Read
-                                                          more](http://orfe.princeton.edu/%7Ealaink/TRB%2717/Synthetic_Generation_of_Invidual_Trips_Across_US.pdf)
+                                                          Aug 1 [Read more](http://orfe.princeton.edu/%7Ealaink/TRB%2717/Synthetic_Generation_of_Invidual_Trips_Across_US.pdf)
 
 ## Half-baked
                                                           stuff that
@@ -1095,10 +960,7 @@ K.
                                                           deserve your
                                                           time:
 
-### [Here
-                                                          Comes Russia's
-                                                          Driverless
-                                                          Minibus](http://fortune.com/2016/08/25/russia-yandex-google-bus/)
+### [Here Comes Russia's Driverless Minibus](http://fortune.com/2016/08/25/russia-yandex-google-bus/)
 
 D.
                                                           Meyer, Aug 25,
@@ -1138,8 +1000,7 @@ D.
                                                           intelligence,
                                                           and speech
                                                           recognition..."
-                                                          [Read
-                                                          more](http://fortune.com/2016/08/25/russia-yandex-google-bus/)  Hmmm...I'm very skeptical for obvious historical
+                                                          [Read more](http://fortune.com/2016/08/25/russia-yandex-google-bus/)  Hmmm...I'm very skeptical for obvious historical
                                                           reasons and
                                                           the provenance.
                                                           Alain
@@ -1148,42 +1009,24 @@ D.
                                                           stuff that I
                                                           had missed:
 
-[](https://www.youtube.com/watch?v=E8BKkCQE5NQ)
-[](https://www.youtube.com/watch?v=E8BKkCQE5NQ)
 
 ## [C'mon Man!](https://www.youtube.com/watch?v=A7SwSd59E4I) (These folks didn't get/read
                                                           the memo)
 
 ## Calendar of Upcoming Events:
 
-[Sept 15
-                                                          & 16, 2016
+[Sept 15 & 16, 2016 Arlington, VA](http://www.railwayage.com/index.php/conference_details/nextgen_agenda.html)
 
-Arlington,
-                                                          VA](http://www.railwayage.com/index.php/conference_details/nextgen_agenda.html)
+                                                          [Sept 19-21, 2016 Antwerp, Belgium](http://podcarcity.org/antwerp/)
 
-                                                          [Sept 19-21,
-                                                          2016
+ [Sept 19-23, 2016 Washington, DC](https://www.hfes.org/Web/HFESMeetings/2016annualmeeting.html)
 
-Antwerp,
-                                                          Belgium](http://podcarcity.org/antwerp/)
-
- [Sept 19-23,
-                                                          2016
-
-Washington,
-                                                          DC](https://www.hfes.org/Web/HFESMeetings/2016annualmeeting.html)
-
-[](http://f1tenth.org/about.html)
 
 [F1/10 Autonomous Racing Competition](http://f1tenth.org/about.html)
 
-[Oct
-                                                          1-2](http://f1tenth.org/competition.html)
+[Oct 1-2](http://f1tenth.org/competition.html)
 
-[Wean
-                                                          Hall, Carnegie
-                                                          Mellon U.](http://f1tenth.org/competition.html)
+[Wean Hall, Carnegie Mellon U.](http://f1tenth.org/competition.html)
 
 ### Recent
                                                           Highlights of:
@@ -1195,12 +1038,7 @@ Washington,
                                                           August 28,
                                                           2016
 
-### [Prepare
-                                                          to be
-                                                          Underwhelmed
-                                                          by 2021's
-                                                          Autonomous
-                                                          Cars](https://www.technologyreview.com/s/602210/prepare-to-be-underwhelmed-by-2021s-autonomous-cars/)
+### [Prepare to be Underwhelmed by 2021's Autonomous Cars](https://www.technologyreview.com/s/602210/prepare-to-be-underwhelmed-by-2021s-autonomous-cars/)
 
                                                           T. Simonite,
                                                           Aug 23, "BMW,
@@ -1316,17 +1154,11 @@ Washington,
                                                           companies
                                                           working on
                                                           autonomous
-                                                          driving. [Read
-                                                          more](https://www.technologyreview.com/s/602210/prepare-to-be-underwhelmed-by-2021s-autonomous-cars/)  Hmmm...Achievable reality.  Alain
+                                                          driving. [Read more](https://www.technologyreview.com/s/602210/prepare-to-be-underwhelmed-by-2021s-autonomous-cars/)  Hmmm...Achievable reality.  Alain
                                                           August 19,
                                                           2016
 
-### [Ford
-                                                          Promises
-                                                          Fleets of
-                                                          Driverless
-                                                          Cars Within
-                                                          Five Years](http://www.nytimes.com/2016/08/17/business/ford-promises-fleets-of-driverless-cars-within-five-years.html?_r=0)
+### [Ford Promises Fleets of Driverless Cars Within Five Years](http://www.nytimes.com/2016/08/17/business/ford-promises-fleets-of-driverless-cars-within-five-years.html?_r=0)
 
                                                           N. Boudette,
                                                           Aug 16, "In
@@ -1441,8 +1273,7 @@ Washington,
                                                           technologies
                                                           for driverless
                                                           vehicles....."
-                                                          [Read
-                                                          mor](http://www.nytimes.com/2016/08/17/business/ford-promises-fleets-of-driverless-cars-within-five-years.html?_r=0http://www.nytimes.com/2016/08/17/business/ford-promises-fleets-of-driverless-cars-within-five-years.html?_r=0)e
+                                                          [Read mor](http://www.nytimes.com/2016/08/17/business/ford-promises-fleets-of-driverless-cars-within-five-years.html?_r=0http://www.nytimes.com/2016/08/17/business/ford-promises-fleets-of-driverless-cars-within-five-years.html?_r=0)e
                                                           Hmmm...This
                                                           is significant
                                                           because it
@@ -1479,12 +1310,7 @@ Washington,
                                                           it!  Alain
                                                           August 8, 2016
 
-### [Latest
-                                                          to Quit
-                                                          Google's
-                                                          Self-Driving
-                                                          Car Unit: Top
-                                                          Roboticist](http://www.nytimes.com/2016/08/06/technology/alphabet-google-autonomous-car-chris-urmson.html)
+### [Latest to Quit Google's Self-Driving Car Unit: Top Roboticist](http://www.nytimes.com/2016/08/06/technology/alphabet-google-autonomous-car-chris-urmson.html)
 
                                                           J. Markoff,
                                                           Aug 5, " A
@@ -1553,16 +1379,12 @@ Washington,
                                                           consider
                                                           myself twice
                                                           lucky," he
-                                                          wrote. [Read
-                                                          more](http://www.nytimes.com/2016/08/06/technology/alphabet-google-autonomous-car-chris-urmson.html)Hmmm...Very unfortunate.  What a great job he has
+                                                          wrote. [Read more](http://www.nytimes.com/2016/08/06/technology/alphabet-google-autonomous-car-chris-urmson.html)Hmmm...Very unfortunate.  What a great job he has
                                                           done. All the
                                                           best. Alain
                                                           August 1, 2016
 
-### [Mobileye
-                                                          Ends
-                                                          Partnership
-                                                          With Tesla](http://www.wsj.com/articles/mobileye-ends-partnership-with-tesla-1469544028)
+### [Mobileye Ends Partnership With Tesla](http://www.wsj.com/articles/mobileye-ends-partnership-with-tesla-1469544028)
 
                                                           M. Ramsey,
                                                           July 26, " A
@@ -1574,10 +1396,7 @@ Washington,
                                                           agreement with
                                                           Tesla Motors
                                                           Inc. following
-                                                          [a
-                                                          high-profile
-                                                          traffic
-                                                          fatality](http://www.wsj.com/articles/tesla-draws-scrutiny-from-regulators-after-autopilot-feature-is-linked-to-a-death-1467319355)
+                                                          [a high-profile traffic fatality](http://www.wsj.com/articles/tesla-draws-scrutiny-from-regulators-after-autopilot-feature-is-linked-to-a-death-1467319355)
                                                           in May
                                                           involving one
                                                           of the Silicon
@@ -1610,12 +1429,9 @@ Washington,
                                                           drive
                                                           themselves in
                                                           limited
-                                                          conditions....[Read
-                                                          more](http://www.wsj.com/articles/mobileye-ends-partnership-with-tesla-1469544028)Hmmm....Very interesting!! Alain
+                                                          conditions....[Read more](http://www.wsj.com/articles/mobileye-ends-partnership-with-tesla-1469544028)Hmmm....Very interesting!! Alain
 
-                                                          And in [Mobileye's
-                                                          Short Trip
-                                                          with Tesla](http://blogs.wsj.com/moneybeat/2016/07/26/mobileyes-short-trip-with-tesla/)
+                                                          And in [Mobileye's Short Trip with Tesla](http://blogs.wsj.com/moneybeat/2016/07/26/mobileyes-short-trip-with-tesla/)
                                                           : D.
                                                           Gallagher,
                                                           July 26, "In
@@ -1637,8 +1453,7 @@ Washington,
                                                           Below is what
                                                           the company
                                                           said on the
-                                                          call:... [Read
-                                                          more](http://blogs.wsj.com/moneybeat/2016/07/26/mobileyes-short-trip-with-tesla/)Hmmm....And why in all of this isn't there a
+                                                          call:... [Read more](http://blogs.wsj.com/moneybeat/2016/07/26/mobileyes-short-trip-with-tesla/)Hmmm....And why in all of this isn't there a
                                                           discussion of
                                                           Automated
                                                           Emergency
@@ -1647,13 +1462,9 @@ technology/suppliers??  There must be no consumer/regulatory appeal to
                                                           AEB?  Alain
                                                           July 21, 2016
 
-### [Master
-                                                          Plan, Part
-                                                          Deux](https://www.tesla.com/en_HK/blog/master-plan-part-deux?redirect=no)
+### [Master Plan, Part Deux](https://www.tesla.com/en_HK/blog/master-plan-part-deux?redirect=no)
 
-### [Lessons
-                                                          From the Tesla
-                                                          Crash](http://www.nytimes.com/2016/07/11/opinion/lessons-from-the-tesla-crash.html?ribbon-ad-idx=2&rref=opinion&module=Ribbon&version=context&region=Header&action=click&contentCollection=Opinion&pgtype=article)
+### [Lessons From the Tesla Crash](http://www.nytimes.com/2016/07/11/opinion/lessons-from-the-tesla-crash.html?ribbon-ad-idx=2&rref=opinion&module=Ribbon&version=context&region=Header&action=click&contentCollection=Opinion&pgtype=article)
 
                                                         Editorial Board,
                                                         July 11, "A
@@ -1689,18 +1500,13 @@ Hmmm...What we know now (and don't know):
                                                           Tractor-Trailer.
                                                           The accident
                                                           is depicted in
-                                                          the [Diagram
-                                                          from the
-                                                          Police Report](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/TeslaCrash050716/PoliceReportDiagramTeslaCrash050716FrmNYT.JPG):
+                                                          the [Diagram from the Police Report](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/TeslaCrash050716/PoliceReportDiagramTeslaCrash050716FrmNYT.JPG):
                                                           HSMV Crash
                                                           Report #
                                                           85234095. [(1)](http://www.nytimes.com/2016/07/01/business/self-driving-tesla-fatal-crash-investigation.html?rref=collection%2Ftimestopic%2FNational%20Highway%20Traffic%20Safety%20Administration&action=click&contentCollection=timestopics&region=stream&module=stream_unit&version=latest&contentPlacement=1&pgtype=collection&_r=0)
-                                                          [Google
-                                                          Earth images
-                                                          from the site](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/TeslaCrash050716/CrashSceneGoogleEarth.pdf).
+                                                          [Google Earth images from the site](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/TeslaCrash050716/CrashSceneGoogleEarth.pdf).
 
- 2. The driver of the Tesla was [Joshua
-                                                          Brown](http://www.legacy.com/obituaries/ohio/obituary.aspx?pid=179994314).  "No
+ 2. The driver of the Tesla was [Joshua Brown](http://www.legacy.com/obituaries/ohio/obituary.aspx?pid=179994314).  "No
                                                           citations have
                                                           been issued,
                                                           but the
@@ -1728,12 +1534,7 @@ Hmmm...What we know now (and don't know):
                                                           living since
                                                           the crash?
 
-### [Extracting
-                                                          Cognition out
-                                                          of Images for
-                                                          the Purpose of
-                                                          Autonomous
-                                                          Driving](http://orfe.princeton.edu/%7Ealaink/Theses/chenyiPhDfinal_ExtractingCognitionOutOfImagesForThePurposeOfAutonomousDriving.pdf)
+### [Extracting Cognition out of Images for the Purpose of Autonomous Driving](http://orfe.princeton.edu/%7Ealaink/Theses/chenyiPhDfinal_ExtractingCognitionOutOfImagesForThePurposeOfAutonomousDriving.pdf)
 
                                                           Chenyi Chen
                                                           PhD
@@ -1762,10 +1563,7 @@ Hmmm...What we know now (and don't know):
                                                           a road/traffic
                                                           state for
                                                           driving....." [Read more](http://orfe.princeton.edu/%7Ealaink/Theses/chenyiPhDfinal_ExtractingCognitionOutOfImagesForThePurposeOfAutonomousDriving.pdf)
-                                                          Hmmm..[FPO
-                                                          10:00am, May
-                                                          16 , 120
-                                                          Sherrerd Hall](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Presentations/ChenyiFPO.pdf),
+                                                          Hmmm..[FPO 10:00am, May 16 , 120 Sherrerd Hall](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Presentations/ChenyiFPO.pdf),
                                                           Establishing a
                                                           foundation for
                                                           image-based
@@ -1780,55 +1578,21 @@ Hmmm...What we know now (and don't know):
                                                           Very
                                                           promising. Alain
 
-### [Hearing
-                                                          focus of SF
-                                                          2569
-                                                          Autonomous
-                                                          vehicles task
-                                                          force
-                                                          establishment
-                                                          and
-                                                          demonstration
-                                                          project for
-                                                          people with
-                                                          disabilities](http://mnsenate.granicus.com/MediaPlayer.php?view_id=1&clip_id=235)
+### [Hearing focus of SF 2569 Autonomous vehicles task force establishment and demonstration project for people with disabilities](http://mnsenate.granicus.com/MediaPlayer.php?view_id=1&clip_id=235)
 
-                                                          March 23 Hmmm... [Watch
-                                                          the video of
-                                                          the Committee
-                                                          Meeting](http://mnsenate.granicus.com/MediaPlayer.php?view_id=1&clip_id=235).
+                                                          March 23 Hmmm... [Watch the video of the Committee Meeting](http://mnsenate.granicus.com/MediaPlayer.php?view_id=1&clip_id=235).
                                                           The testimony
                                                           is Excellent
                                                           and very
                                                           compelling!
-                                                          Also see [Self-Driving
-                                                          Minnesota](http://www.selfdrivingmn.org/)
+                                                          Also see [Self-Driving Minnesota](http://www.selfdrivingmn.org/)
                                                           Alain
 
-### [U.S.
-                                                          DOT and IIHS
-                                                          announce
-                                                          historic
-                                                          commitment of
-                                                          20 automakers
-                                                          to make
-                                                          automatic
-                                                          emergency
-                                                          braking
-                                                          standard on
-                                                          new vehicles](http://www.nhtsa.gov/About+NHTSA/Press+Releases/nhtsa-iihs-commitment-on-aeb-03172016)
+### [U.S. DOT and IIHS announce historic commitment of 20 automakers to make automatic emergency braking standard on new vehicles](http://www.nhtsa.gov/About+NHTSA/Press+Releases/nhtsa-iihs-commitment-on-aeb-03172016)
 
-### [Motor
-                                                          Vehicle Deaths
-                                                          Increase by
-                                                          Largest
-                                                          Percent in 50
-                                                          Years](http://www.nsc.org/NewsDocuments/2016/mv-fatality-report-1215.pdf)
+### [Motor Vehicle Deaths Increase by Largest Percent in 50 Years](http://www.nsc.org/NewsDocuments/2016/mv-fatality-report-1215.pdf)
 
-### [Adam
-                                                          Jonas' View on
-                                                          Autonomous
-                                                          Cars](http://linkback.morganstanley.com/web/sendlink/webapp/BMServlet?file=kpmb1mve-3p5j-g000-97a7-d8d3855a5201&store=0&d=1&user=dagn42i4pkquh-0&__gda__=1549992813_42e5b148a43b27b943d8d34f1e5c3295#0011&dagn42i4pkquh-1&1549992813_f2523f33158f4db2b6d628c5c9008f28&0021&dagn42i4pkquh-2&1549992813_f9a15a1b06e61ec454fad4cc7759010a)
+### [Adam Jonas' View on Autonomous Cars](http://linkback.morganstanley.com/web/sendlink/webapp/BMServlet?file=kpmb1mve-3p5j-g000-97a7-d8d3855a5201&store=0&d=1&user=dagn42i4pkquh-0&__gda__=1549992813_42e5b148a43b27b943d8d34f1e5c3295#0011&dagn42i4pkquh-1&1549992813_f2523f33158f4db2b6d628c5c9008f28&0021&dagn42i4pkquh-2&1549992813_f9a15a1b06e61ec454fad4cc7759010a)
 
                                                           Video similar
                                                           to part of
@@ -1856,7 +1620,7 @@ Hmmm...What we know now (and don't know):
 
 [Unsubscribe](https://lists.princeton.edu/cgi-bin/wa?TICKET=NzM1MjMzIGJpbm9AUFJJTkNFVE9OLkVEVSBTTUFSVERSSVZJTkdDQVJTIGluYtYkJuu3&c=SIGNOFF) |[Re-subscribe](https://lists.princeton.edu/cgi-bin/wa?SUBED1=SmartDrivingCars&A=1)
 
-                                                          [](Mailto:alaink@princeton.edu)[Mailto:alaink@princeton.edu](Mailto:alaink@princeton.edu) [](Mailto:alaink@princeton.edu)
+                                                          [Mailto:alaink@princeton.edu](Mailto:alaink@princeton.edu) 
 
                                                           This list is
                                                           maintained by

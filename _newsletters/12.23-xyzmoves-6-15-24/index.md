@@ -12,17 +12,14 @@ Click or tap if you trust this link.">Saturday,
   23rd
 edition of the 12th year of SmartDrivingCars eLetter
 
-# [Elon
- Musk's PREDICTIONS Just Left Audience SPEECHLESS!!](https://www.youtube.com/watch?v=X4kRzlffBBI)
+# [Elon Musk's PREDICTIONS Just Left Audience SPEECHLESS!!](https://www.youtube.com/watch?v=X4kRzlffBBI)
 
 # Farzad, June 13, "…".
 [Watch Video](https://www.youtube.com/watch?v=X4kRzlffBBI) Hmmmm… Very interesting, especially now with a
  modified "AirB&B" extension. 😊 Alain
 
-[Just
- Published](https://www.amazon.com/Real-Case-Driverless-Mobility-Vehicles/dp/0443236852/ref=sr_1_1?crid=1XSXZ611C2JCN&keywords=Kornhauser+sena&qid=1707095108&sprefix=kornhauser+sena%2Caps%2C76&sr=8-1&ufe=app_do%3Aamzn1.fos.18ed3cb5-28d5-4975-8bc7-93deae8f9840)!!!
-[Go
- to Amazon.com](https://www.amazon.com/Real-Case-Driverless-Mobility-Vehicles/dp/0443236852/ref=sr_1_1?crid=1XSXZ611C2JCN&keywords=Kornhauser+sena&qid=1707095108&sprefix=kornhauser+sena%2Caps%2C76&sr=8-1&ufe=app_do%3Aamzn1.fos.18ed3cb5-28d5-4975-8bc7-93deae8f9840)… You can still be first on your block to have one
+[Just Published](https://www.amazon.com/Real-Case-Driverless-Mobility-Vehicles/dp/0443236852/ref=sr_1_1?crid=1XSXZ611C2JCN&keywords=Kornhauser+sena&qid=1707095108&sprefix=kornhauser+sena%2Caps%2C76&sr=8-1&ufe=app_do%3Aamzn1.fos.18ed3cb5-28d5-4975-8bc7-93deae8f9840)!!!
+[Go to Amazon.com](https://www.amazon.com/Real-Case-Driverless-Mobility-Vehicles/dp/0443236852/ref=sr_1_1?crid=1XSXZ611C2JCN&keywords=Kornhauser+sena&qid=1707095108&sprefix=kornhauser+sena%2Caps%2C76&sr=8-1&ufe=app_do%3Aamzn1.fos.18ed3cb5-28d5-4975-8bc7-93deae8f9840)… You can still be first on your block to have one
 J.
 
 SmartDrivingCars
@@ -47,8 +44,7 @@ F. Fishkin, June 15, " With Elon Musk divulging more about how Telsa robotaxis m
 
 #
 
- [Automated
- Driving Industry Trends: Automated Trucks](https://www.richardbishopconsulting.com/store/p/report-v2-i1-fw53k-zp6ne)
+ [Automated Driving Industry Trends: Automated Trucks](https://www.richardbishopconsulting.com/store/p/report-v2-i1-fw53k-zp6ne)
 
 # R. Bishop, May 2024, "Scope and Purpose
 
@@ -81,8 +77,7 @@ F. Fishkin, June 15, " With Elon Musk divulging more about how Telsa robotaxis m
 [Read more](https://www.richardbishopconsulting.com/store/p/report-v2-i1-fw53k-zp6ne)
  Hmmmm…   This is a really good reference.  Alain
 
- ['Robotaxi'
- hitting the streets of Houston for second time. Why were the brakes pumped?](https://www.click2houston.com/news/local/2024/06/12/cruise-revs-up-houston-operations-after-7-month-hiatus-as-self-driving-vehicles-return-for-road-testing/)
+ ['Robotaxi' hitting the streets of Houston for second time. Why were the brakes pumped?](https://www.click2houston.com/news/local/2024/06/12/cruise-revs-up-houston-operations-after-7-month-hiatus-as-self-driving-vehicles-return-for-road-testing/)
 
 H. Posey, June 12, "The autonomous taxis are making their way around
  town after being put on hold back in October 2023.
@@ -92,8 +87,7 @@ H. Posey, June 12, "The autonomous taxis are making their way around
 
 # This time around, the cars will have drivers manually operating the vehicle. However, in a few weeks the company plans to move to supervised
  self-driving, which is when a driver is in the car but only intervening if necessary.…"
-[Read
- more](https://www.click2houston.com/news/local/2024/06/12/cruise-revs-up-houston-operations-after-7-month-hiatus-as-self-driving-vehicles-return-for-road-testing/) Hmmmm…   Very nice.  Welcome back. Alain
+[Read more](https://www.click2houston.com/news/local/2024/06/12/cruise-revs-up-houston-operations-after-7-month-hiatus-as-self-driving-vehicles-return-for-road-testing/) Hmmmm…   Very nice.  Welcome back. Alain
 
 [Waymo issues software and mapping recall after robotaxi crashes into a telephone pole](https://www.theverge.com/2024/6/12/24175489/waymo-recall-telephone-poll-crash-phoenix-software-map)
 
@@ -102,8 +96,7 @@ H. Posey, June 12, "The autonomous taxis are making their way around
 
 #
 
-# The incident that prompted the latest recall took place on May 21st in Phoenix. [According
- to local reports](https://www.12news.com/article/news/local/valley/waymo-car-crashes-into-pole-phoenix-arizona/75-0f278aab-7c40-4970-ae21-ac3d57f0ccba), an unoccupied Waymo vehicle was driving to a passenger pickup location through an alley that was lined on both sides by wooden telephone poles. The poles were not up on a curb but level with the road and surrounded with longitudinal yellow
+# The incident that prompted the latest recall took place on May 21st in Phoenix. [According to local reports](https://www.12news.com/article/news/local/valley/waymo-car-crashes-into-pole-phoenix-arizona/75-0f278aab-7c40-4970-ae21-ac3d57f0ccba), an unoccupied Waymo vehicle was driving to a passenger pickup location through an alley that was lined on both sides by wooden telephone poles. The poles were not up on a curb but level with the road and surrounded with longitudinal yellow
  striping to define the viable path for vehicles. As it was pulling over, the Waymo vehicle struck one of the poles at a speed of 8mph, sustaining some damage, the company said….
 
 # "We have already deployed mapping and software updates across our entire fleet,.." …

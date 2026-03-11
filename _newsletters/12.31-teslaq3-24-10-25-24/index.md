@@ -11,8 +11,7 @@ Click or tap if you trust this link.">Friday,
   31st
 edition of the 12th year of SmartDrivingCars eLetter
 
-[Tesla
- Q3 Earnings Report Coverage & Analysis (Q3-24)](https://www.youtube.com/watch?v=Xg1ut4hwH0g)
+[Tesla Q3 Earnings Report Coverage & Analysis (Q3-24)](https://www.youtube.com/watch?v=Xg1ut4hwH0g)
 
 Rob Maurer, Oct. 23, "live coverage of the release of Tesla's Q3 2024 earnings report and shareholder letter
 
@@ -40,21 +39,17 @@ Rob Maurer, Oct. 23, "live coverage of the release of Tesla's Q3 2024 earnings r
 [Read more](https://www.youtube.com/watch?v=Xg1ut4hwH0g)
  Hmmmm…   Interesting and informative to watch Rob report it live.  Alain
 
-[Live:
- Tesla Q3 Earnings Call 2024 (TSLA)](https://youtube.com/live/iCYSM1q7m1c)
+[Live: Tesla Q3 Earnings Call 2024 (TSLA)](https://youtube.com/live/iCYSM1q7m1c)
 
 Listen to Elon Musk and Tesla management discuss Tesla's Q3 2024 financial results and answer questions from investors and analysts. Join Rob Maurer for
  a live blog highlighting key information, followed by reaction to the call and earnings report.
 
-[The
- Real Case for Driverless Mobility](https://www.audible.com/pd/The-Real-Case-for-Driverless-Mobility-Audiobook/B0D9PJY6MW?eac_link=ZoLH4Nc4tFbA&ref=web_search_eac_asin_1&eac_selected_type=asin&eac_selected=B0D9PJY6MW&qid=Jjuo8XtoL1&eac_id=142-9434497-3046660_Jjuo8XtoL1&sr=1-1)
+[The Real Case for Driverless Mobility](https://www.audible.com/pd/The-Real-Case-for-Driverless-Mobility-Audiobook/B0D9PJY6MW?eac_link=ZoLH4Nc4tFbA&ref=web_search_eac_asin_1&eac_selected_type=asin&eac_selected=B0D9PJY6MW&qid=Jjuo8XtoL1&eac_id=142-9434497-3046660_Jjuo8XtoL1&sr=1-1)
 
 Narrated by Fred Fishkin, Available now
 
-[Just
- Published](https://www.amazon.com/Real-Case-Driverless-Mobility-Vehicles/dp/0443236852/ref=sr_1_1?crid=1XSXZ611C2JCN&keywords=Kornhauser+sena&qid=1707095108&sprefix=kornhauser+sena%2Caps%2C76&sr=8-1&ufe=app_do%3Aamzn1.fos.18ed3cb5-28d5-4975-8bc7-93deae8f9840)!!!
-[Go
- to Amazon.com](https://www.amazon.com/Real-Case-Driverless-Mobility-Vehicles/dp/0443236852/ref=sr_1_1?crid=1XSXZ611C2JCN&keywords=Kornhauser+sena&qid=1707095108&sprefix=kornhauser+sena%2Caps%2C76&sr=8-1&ufe=app_do%3Aamzn1.fos.18ed3cb5-28d5-4975-8bc7-93deae8f9840)…
+[Just Published](https://www.amazon.com/Real-Case-Driverless-Mobility-Vehicles/dp/0443236852/ref=sr_1_1?crid=1XSXZ611C2JCN&keywords=Kornhauser+sena&qid=1707095108&sprefix=kornhauser+sena%2Caps%2C76&sr=8-1&ufe=app_do%3Aamzn1.fos.18ed3cb5-28d5-4975-8bc7-93deae8f9840)!!!
+[Go to Amazon.com](https://www.amazon.com/Real-Case-Driverless-Mobility-Vehicles/dp/0443236852/ref=sr_1_1?crid=1XSXZ611C2JCN&keywords=Kornhauser+sena&qid=1707095108&sprefix=kornhauser+sena%2Caps%2C76&sr=8-1&ufe=app_do%3Aamzn1.fos.18ed3cb5-28d5-4975-8bc7-93deae8f9840)…
 
 SmartDrivingCars
 [ZoomCast 383](https://www.youtube.com/watch?v=v1yjwJyIUfE)
@@ -64,11 +59,9 @@ SmartDrivingCars
 Tesla's quarterly earnings surprised many as the company now focuses on driverless mobility. Plus..NHTSA is looking at FSD crashes, GM Cruise quarterly loss, Chinese autonomous
  testing in U.S. and more. Join Princeton's Alain Kornhauser and co-host Fred Fishkin for episode 383 of Smart Driving Cars.
 
-[](https://www.youtube.com/playlist?list=PLFwuZ9jMeu5uwfTZP00zHjP7eSpG34Hsm)[SmartDrivingCars
- ZoomCasts](https://www.youtube.com/playlist?list=PLFwuZ9jMeu5uwfTZP00zHjP7eSpG34Hsm)
+[SmartDrivingCars ZoomCasts](https://www.youtube.com/playlist?list=PLFwuZ9jMeu5uwfTZP00zHjP7eSpG34Hsm)
 
-[Computer
- Scientists Establish the Best Way to Traverse a Graph](https://www.quantamagazine.org/computer-scientists-establish-the-best-way-to-traverse-a-graph-20241025/?mc_cid=9a924f365f)
+[Computer Scientists Establish the Best Way to Traverse a Graph](https://www.quantamagazine.org/computer-scientists-establish-the-best-way-to-traverse-a-graph-20241025/?mc_cid=9a924f365f)
 
 B. Brubaker, Oct 25, "Dijkstra's algorithm was long thought to be the most efficient way to find a graph's best routes. Researchers have now proved that
  it's "universally optimal."…." [Read more](https://www.quantamagazine.org/computer-scientists-establish-the-best-way-to-traverse-a-graph-20241025/?mc_cid=9a924f365f)
@@ -90,8 +83,7 @@ Hmmmm…    Whew!!!  Where does that money go? They lost many of their good p
  year will need to give 200M rides or roughly 1M per weekday.  (or have a pricing structure that has them losing only $10/ride; or giving 100K rides/weekday losing $100/ride; or … ).  That's anticipating losing an enormous amount of money per ride-given, in
  the coming year.  Where is the light at the end of this tunnel?  Money must be really cheap @ GM???  Alain
 
-  [Here's
- why China has been testing its autonomous car technology in the U.S. for years](https://www.cnbc.com/2024/10/23/why-chinas-testing-its-autonomous-car-technology-in-the-us.html)
+  [Here's why China has been testing its autonomous car technology in the U.S. for years](https://www.cnbc.com/2024/10/23/why-chinas-testing-its-autonomous-car-technology-in-the-us.html)
 
 M.  Petrova, Oct 23, "Chinese companies are aggressively developing autonomous vehicles. In August, China announced that it had issued 16,000 test licenses
  for driverless cars and opened up about 20,000 miles of roads nationwide for autonomous vehicle testing…"

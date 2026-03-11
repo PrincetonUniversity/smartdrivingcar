@@ -5,16 +5,14 @@ date: 2013-07-25
 permalink: /2013-07-25-2013-07-25/
 ---
 
-[Wednesday,
-            July 24, 2013](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/SDC072413.pdf)
+[Wednesday, July 24, 2013](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/SDC072413.pdf)
 
 Summary of:
 
- [](http://www.vehicleautomation.org/)
+ 
 
 July 16-19, '13
-          Stanford University, Palo Alto| [Agenda](http://www.vehicleautomation.org/program/agenda) | [Breakout
-            Sessions](http://www.vehicleautomation.org/program/breakouts) | [Demonstrations](http://www.vehicleautomation.org/program/demonstrations)
+          Stanford University, Palo Alto| [Agenda](http://www.vehicleautomation.org/program/agenda) | [Breakout Sessions](http://www.vehicleautomation.org/program/breakouts) | [Demonstrations](http://www.vehicleautomation.org/program/demonstrations)
 
 As anticipated, the workshop was excellent.  It attracted over 300
       attendees most of whom not only stayed engaged for the whole 3
@@ -24,7 +22,7 @@ As anticipated, the workshop was excellent.  It attracted over 300
       attendees paid the registration fee which was lowered
       substantially by support from the following Benefactors:
 
- [](http://www.autonomoustuff.com/)  [](http://www.kvh.com/)      [](https://www.travelers.com/) [](http://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0CCwQFjAA&url=http://www.uolds.leeds.ac.uk/&ei=DNzuUaH5GfSo4AO2_4G4AQ&usg=AFQjCNFqBncEWaNDCdU-bxg_g9531f5H2A&bvm=bv.49641647,d.dmg&cad=rja)
+          
 
 Among the benefactors were small research-oriented
       entities as well as one major insurance company and one well-known
@@ -44,9 +42,7 @@ Among the benefactors were small research-oriented
       rental car, confirming the after-market viability of these
       technologies and demonstrating, among other capabilities, the
       ability to readily identify [Bobby
-and
-
-        me](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Stanford_TRB_Conf_July2013/AutonomousStuff_RecognizingAlain&BobbyCompressed.jpg).
+and me](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Stanford_TRB_Conf_July2013/AutonomousStuff_RecognizingAlain&BobbyCompressed.jpg).
 
 Of the plenary presentations, the most compelling was an
       "off-the-record" presentation made by [R.David Edelman](mailto:REdelman@ostp.eop.gov), Senior
@@ -134,9 +130,7 @@ As mentioned above I participated in the Transit &
                 b.
       "low speed driverless" vehicles that operate on roadways that also
       serve pedestrians, bicyclists and traditional roadway vehicles, as
-      was demonstrated at [La
-
-        Rochelle](http://www.citymobil-project.eu/site/en/SP1%20La%20Rochelle.php) and will be placed in service by [CityMobile2](http://www.citymobil-project.eu/)
+      was demonstrated at [La Rochelle](http://www.citymobil-project.eu/site/en/SP1%20La%20Rochelle.php) and will be placed in service by [CityMobile2](http://www.citymobil-project.eu/)
 
 Between these two extremes lies the "Level 4" transit
       opportunity for high speed driverless vehicles sharing existing
@@ -157,8 +151,7 @@ Between these two extremes lies the "Level 4" transit
       consisting of various sized driverless vehicles.  At the Friday morning session
       on Emerging trends in Public Transportation and Vehicle Automation
       I presented my results on the conceptual implementation of aTaxi
-      service throughout New Jersey, ["Smart Driving Cars: Transit Opportunity of
-              NHTSA Level 4 Driverless Vehicles"](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Stanford_TRB_Conf_July2013/TRB_AutomationWorkshop_Stanford_071513a.pdf).  I focused on the shared-ride
+      service throughout New Jersey, ["Smart Driving Cars: Transit Opportunity of NHTSA Level 4 Driverless Vehicles"](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Stanford_TRB_Conf_July2013/TRB_AutomationWorkshop_Stanford_071513a.pdf).  I focused on the shared-ride
       opportunities that such a system could capture as it served the
       32+ million trips that are taken in NJ on a typical weekday. 2+
       million of the trips are short and are readily served by walking

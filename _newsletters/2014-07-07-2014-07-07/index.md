@@ -7,11 +7,7 @@ permalink: /2014-07-07-2014-07-07/
 
 July 08, 2014
 
-## ['Driverless'
-
-                                        trucks become reality: Daimler
-                                        unveils prototype, dubbed
-                                        Highway Pilot](http://www.ccjdigital.com/driverless-trucks-become-reality-daimler-unveils-prototype-dubbed-highway-pilot/)
+## ['Driverless' trucks become reality: Daimler unveils prototype, dubbed Highway Pilot](http://www.ccjdigital.com/driverless-trucks-become-reality-daimler-unveils-prototype-dubbed-highway-pilot/)
 
 Jack Roberts
                                     July 3 "...Speculation about
@@ -37,18 +33,12 @@ Jack Roberts
                                     the road edge by marker lines, but
                                     even identify the course of the road
                                     surface by detecting guardrails or
-                                    vegetation."[Read more](http://www.ccjdigital.com/driverless-trucks-become-reality-daimler-unveils-prototype-dubbed-highway-pilot/) [Watch
-
-                                      Video](https://www.youtube.com/watch?v=HHpXny86TcY)  Hmmm... Be sure
+                                    vegetation."[Read more](http://www.ccjdigital.com/driverless-trucks-become-reality-daimler-unveils-prototype-dubbed-highway-pilot/) [Watch Video](https://www.youtube.com/watch?v=HHpXny86TcY)  Hmmm... Be sure
                                       to see video!!! Here we go! This
                                       unveiling of a serious driverless
                                       truck by Daimler is perfect timing
-                                      for the [Commercial
-
-                                        Vehicle breakout session](http://www.auvsi.org/avs2014/program/breakoutsessions/breakoutsession4/)
-                                      next week at the [Automated
-
-                                        Vehicle Conference](http://www.auvsi.org/avs2014/registerhttp://www.auvsi.org/avs2014/register) in San
+                                      for the [Commercial Vehicle breakout session](http://www.auvsi.org/avs2014/program/breakoutsessions/breakoutsession4/)
+                                      next week at the [Automated Vehicle Conference](http://www.auvsi.org/avs2014/registerhttp://www.auvsi.org/avs2014/register) in San
                                       Francisco.  The focus of that
                                       breakout session is to discuss the
                                       implications of what Daimler has
@@ -56,24 +46,16 @@ Jack Roberts
                                       fantastic break-out session. There
                                       are at least two other breakout
                                       sessions for which this unveiling
-                                      has strong implications: The [Transit
-
-                                        breakout](http://www.auvsi.org/avs2014/program/breakoutsessions/breakoutsession1/) since there really
+                                      has strong implications: The [Transit breakout](http://www.auvsi.org/avs2014/program/breakoutsessions/breakoutsession1/) since there really
                                       isn't much difference between the
                                       Daimler truck and a transit bus
-                                      and the [Commercialization
-
-                                        breakout](http://www.auvsi.org/avs2014/program/breakoutsessions/breakoutsession8/) because without
+                                      and the [Commercialization breakout](http://www.auvsi.org/avs2014/program/breakoutsessions/breakoutsession8/) because without
                                       market adoption of the Daimler
                                       vision none of the benefits of the
                                       vision are captured by society.
                                       Alain
 
-## [2015
-
-                                        Hyundai Genesis Sedans Go
-                                        Driverless to Demo Tech in New
-                                        Ad](http://wot.motortrend.com/1407_2015_hyundai_genesis_sedans_go_driverless_to_demo_tech_in_new_ad.html)
+## [2015 Hyundai Genesis Sedans Go Driverless to Demo Tech in New Ad](http://wot.motortrend.com/1407_2015_hyundai_genesis_sedans_go_driverless_to_demo_tech_in_new_ad.html)
 
  Erick Ayapana |
                                     July 02 "A few stunt drivers
@@ -88,11 +70,7 @@ Jack Roberts
                                     room to pull off a stunt
                                     demonstrating the sedan's Advanced
                                     Smart Cruise Control (ASCC) and Lane
-                                    Keeping Assist (LKA) systems..." [Read
-
-                                      more](http://wot.motortrend.com/1407_2015_hyundai_genesis_sedans_go_driverless_to_demo_tech_in_new_ad.html)  [Watch
-
-                                        video](https://www.youtube.com/watch?v=EPTIXldrq3Q) Hmm...
+                                    Keeping Assist (LKA) systems..." [Read more](http://wot.motortrend.com/1407_2015_hyundai_genesis_sedans_go_driverless_to_demo_tech_in_new_ad.html)  [Watch video](https://www.youtube.com/watch?v=EPTIXldrq3Q) Hmm...
                                         Little goofy, but another
                                             small step forward.  Hyundai
 
@@ -119,10 +97,7 @@ Jack Roberts
                                       them (or the Regulator that's
                                       makes them do that!!!) Alain
 
-[Nissan's
-
-                                    Autonomous LEAF Helps Open Brand-New
-                                    Japanese Tunnel](http://transportevolved.com/2014/07/02/nissans-autonomous-leaf-helps-open-brand-new-japanese-tunnel/)
+[Nissan's Autonomous LEAF Helps Open Brand-New Japanese Tunnel](http://transportevolved.com/2014/07/02/nissans-autonomous-leaf-helps-open-brand-new-japanese-tunnel/)
 
 Nikki
                                     Gordon-Bloomfiel July 2 "...While
@@ -138,17 +113,9 @@ Nikki
                                     behind the wheel with his hands and
                                     feet poised to intervene and take
                                     control of the car should things go
-                                    wrong.."  [Read
+                                    wrong.."  [Read more](http://transportevolved.com/2014/07/02/nissans-autonomous-leaf-helps-open-brand-new-japanese-tunnel/)  [Watch video](https://www.youtube.com/watch?feature=player_embedded&v=ZVnNBR3Z-WM)
 
-                                      more](http://transportevolved.com/2014/07/02/nissans-autonomous-leaf-helps-open-brand-new-japanese-tunnel/)  [Watch
-
-                                        video](https://www.youtube.com/watch?feature=player_embedded&v=ZVnNBR3Z-WM)
-
-## [Inside
-
-                                        Volvo's self-driving car:
-                                        Improving driver safety without
-                                        the driver](http://www.cnet.com/news/a-ride-in-volvos-autonomous-car-how-the-next-step-in-driver-safety-requires-replacing-the-driver/).
+## [Inside Volvo's self-driving car: Improving driver safety without the driver](http://www.cnet.com/news/a-ride-in-volvos-autonomous-car-how-the-next-step-in-driver-safety-requires-replacing-the-driver/).
 
 Tim Steven, May 16 "Autonomous cars are
                                     coming soon, and Volvo wants to be
@@ -156,11 +123,7 @@ Tim Steven, May 16 "Autonomous cars are
                                     to have self-driving autos on sale
                                     by 2017, and by 2020 wants to build
                                     a nearly uncrashable car. Join us in
-                                    Sweden for an early test ride." [Read
-
-                                      mor](http://www.cnet.com/news/a-ride-in-volvos-autonomous-car-how-the-next-step-in-driver-safety-requires-replacing-the-driver/)e  [See
-
-                                      Video](https://www.youtube.com/watch?v=hCrmFuDjV9k)
+                                    Sweden for an early test ride." [Read mor](http://www.cnet.com/news/a-ride-in-volvos-autonomous-car-how-the-next-step-in-driver-safety-requires-replacing-the-driver/)e  [See Video](https://www.youtube.com/watch?v=hCrmFuDjV9k)
 
 ##
 
@@ -169,13 +132,10 @@ Tim Steven, May 16 "Autonomous cars are
                                     stuff that probably doesn't deserve
                                     your time:
 
-### [Mercedes-Benz
-                                        'talking' robotic cars](http://www.motoring.com.au/news/mercedes-benz/mercedes-benz-talking-robotic-cars-44571)
+### [Mercedes-Benz 'talking' robotic cars](http://www.motoring.com.au/news/mercedes-benz/mercedes-benz-talking-robotic-cars-44571)
 
 "Gestures",
-                                        [C-Mon
-
-                                          Man](http://www.youtube.com/watch?v=Ff8ucnnr1Xg) !!!  Daimler
+                                        [C-Mon Man](http://www.youtube.com/watch?v=Ff8ucnnr1Xg) !!!  Daimler
                                         please stick to substance!
                                         Alain
 
@@ -189,11 +149,10 @@ Tim Steven, May 16 "Autonomous cars are
 
                                                     of Upcoming Events:
 
-## [](http://www.auvsi.org/avs2014/register)
+## 
 
  [http://www.auvsi.org/avs2014/register](http://www.auvsi.org/avs2014/register)
 
-[](http://www.auvsi.org/avs2014/register)
 
 Invitation
 
@@ -215,16 +174,11 @@ Save
 
                                                     July 1, 2014
 
-### [Will
-
-                                                    Driverless Cars Fuel
-                                                    Cheap Insurance?](http://www.foxbusiness.com/personal-finance/2014/06/11/will-driverless-cars-fuel-cheap-insurance/)
+### [Will Driverless Cars Fuel Cheap Insurance?](http://www.foxbusiness.com/personal-finance/2014/06/11/will-driverless-cars-fuel-cheap-insurance/)
 
 Mark
                                                   Chalon Smith, June 26,
-                                                  "...[A
-                                                    CarInsurance.com
-                                                    survey](http://www.carinsurance.com/Articles/autonomous-cars-ready.aspx) of 2,000
+                                                  "...[A CarInsurance.com survey](http://www.carinsurance.com/Articles/autonomous-cars-ready.aspx) of 2,000
                                                   licensed motorists
                                                   found that only about
                                                   20% would happily
@@ -252,9 +206,7 @@ Mark
                                                   driverless car, and
                                                   90% said they would at
                                                   least consider the
-                                                  possibility...." [Read
-
-                                                    more](http://www.foxbusiness.com/personal-finance/2014/06/11/will-driverless-cars-fuel-cheap-insurance/)   Be
+                                                  possibility...." [Read more](http://www.foxbusiness.com/personal-finance/2014/06/11/will-driverless-cars-fuel-cheap-insurance/)   Be
 
                                                       sure to look at
                                                       the[survey summary.](http://www.carinsurance.com/Articles/autonomous-cars-ready.aspx)
@@ -266,15 +218,9 @@ Mark
 
 ###
 
-### [In
+### [In wake of Tracy Morgan crash, rising truck fatalities lead to new scrutiny](http://www.nj.com/news/index.ssf/2014/06/rising_truck_fatalities_nationwide_leading_to_new_scrutiny_in_wake_of_tracy_morgan_crash.html)
 
-                                                      wake of Tracy
-                                                      Morgan crash,
-                                                      rising truck
-                                                      fatalities lead to
-                                                      new scrutiny](http://www.nj.com/news/index.ssf/2014/06/rising_truck_fatalities_nationwide_leading_to_new_scrutiny_in_wake_of_tracy_morgan_crash.html)
-
- [](http://connect.nj.com/staff/thsherma/posts.html)Ted
+ Ted
 
                                                       Sherman/The
                                                       Star-Ledger  June
@@ -313,9 +259,7 @@ Mark
                                                   sensors, and
                                                   electronic controls
                                                   limiting its top speed
-                                                  to 65 miles per hour...."  [Read
-
-                                                    more](http://www.nj.com/news/index.ssf/2014/06/rising_truck_fatalities_nationwide_leading_to_new_scrutiny_in_wake_of_tracy_morgan_crash.html)
+                                                  to 65 miles per hour...."  [Read more](http://www.nj.com/news/index.ssf/2014/06/rising_truck_fatalities_nationwide_leading_to_new_scrutiny_in_wake_of_tracy_morgan_crash.html)
 
 Hmm...
 
@@ -437,10 +381,7 @@ US
 
                                                     June 10, 2014
 
-### [If
-
-                                                  Robots Drove, How Much
-                                                  Safer Would Roads Be?](http://www.nytimes.com/2014/06/10/upshot/if-robots-drove-how-much-safer-would-roads-be.html?emc=eta1)
+### [If Robots Drove, How Much Safer Would Roads Be?](http://www.nytimes.com/2014/06/10/upshot/if-robots-drove-how-much-safer-would-roads-be.html?emc=eta1)
 
  Claire
                                                   Cain Miller, June 10 "
@@ -474,11 +415,8 @@ US
                                                   aspects of driving
                                                   could have as big an
                                                   effect as seatbelts
-                                                  have had...[Read
+                                                  have had...[Read more](http://www.nytimes.com/2014/06/10/upshot/if-robots-drove-how-much-safer-would-roads-be.html?emc=eta1)
 
-                                                  more](http://www.nytimes.com/2014/06/10/upshot/if-robots-drove-how-much-safer-would-roads-be.html?emc=eta1)
-
-[](http://www.nytimes.com/2014/06/10/upshot/if-robots-drove-how-much-safer-would-roads-be.html?emc=eta1)
 
 Hmm...
 
@@ -487,13 +425,7 @@ Hmm...
 Thomas I.
                                                     Gorman, Kristofer D.
                                                     Kusano, and Hampton
-                                                    C. Gabler "[Model
-
-                                                        of Fleet-wide
-                                                        Safety Benefits
-                                                        of Lane
-                                                        Departure
-                                                        Warning Systems](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6728260)"
+                                                    C. Gabler "[Model of Fleet-wide Safety Benefits of Lane Departure Warning Systems](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6728260)"
                                                     . "...The expected
                                                     reduction in road
                                                     departurecrashes due
@@ -504,18 +436,11 @@ Thomas I.
                                                     caused by LDW
                                                     applicable crashes
                                                     is estimated to be
-                                                    25.8%..."  [Read
-
-                                                      more](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6728260)
+                                                    25.8%..."  [Read more](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6728260)
 
 Kusano, K.,
                                                     Gabler, H., and
-                                                    Gorman, T., "[Fleetwide Safety Benefits of
-                                                        Production
-                                                        Forward
-                                                        Collision and
-                                                        Lane Departure
-                                                        Warning Systems](http://papers.sae.org/2014-01-0166/),"
+                                                    Gorman, T., "[Fleetwide Safety Benefits of Production Forward Collision and Lane Departure Warning Systems](http://papers.sae.org/2014-01-0166/),"
                                                     SAE Int. J. Passeng.
                                                     Cars - Mech. Syst.
                                                     7(2):2014,
@@ -568,11 +493,7 @@ Kusano, K.,
                                                     to distance to lane
                                                     cross...." [Read more](http://papers.sae.org/2014-01-0166/)
 
-### [Driver Charged in
-                                                  Crash Involving Tracy
-                                                  Morgan Had Not Slept
-                                                  in 24 Hours,
-                                                  Prosecutors Say](http://www.nytimes.com/2014/06/10/nyregion/driver-charged-in-tracy-morgan-crash-had-not-slept-in-24-hours-prosecutors-say.html)
+### [Driver Charged in Crash Involving Tracy Morgan Had Not Slept in 24 Hours, Prosecutors Say](http://www.nytimes.com/2014/06/10/nyregion/driver-charged-in-tracy-morgan-crash-had-not-slept-in-24-hours-prosecutors-say.html)
 
  J.
                                                 DAVID GOODMANJUNE 9,
@@ -606,9 +527,7 @@ Kusano, K.,
                                                 which limit work shifts
                                                 to 14 hours, with only
                                                 11 of those behind the
-                                                wheel. [Read
-
-                                                  more](http://www.nytimes.com/2014/06/10/nyregion/driver-charged-in-tracy-morgan-crash-had-not-slept-in-24-hours-prosecutors-say.html)
+                                                wheel. [Read more](http://www.nytimes.com/2014/06/10/nyregion/driver-charged-in-tracy-morgan-crash-had-not-slept-in-24-hours-prosecutors-say.html)
 
 Hmmm...
 
@@ -720,10 +639,7 @@ Hmmm...
 
 ###
 
-### [Just
-
-                                                  press go: designing a
-                                                  self-driving vehicle](http://googleblog.blogspot.com/2014/05/just-press-go-designing-self-driving.html)
+### [Just press go: designing a self-driving vehicle](http://googleblog.blogspot.com/2014/05/just-press-go-designing-self-driving.html)
 
 Posted:
                                                 Tuesday, May 27 "Ever
@@ -775,9 +691,7 @@ Posted:
                                                 mobility for millions of
                                                 people. .."  Must watch
                                                 [video](https://www.youtube.com/watch?feature=player_embedded&v=CqSDWoAhvLU)
-                                                [Read
-
-                                                  more](http://googleblog.blogspot.com/2014/05/just-press-go-designing-self-driving.html)
+                                                [Read more](http://googleblog.blogspot.com/2014/05/just-press-go-designing-self-driving.html)
 
                                                     May 22, 2014
 
@@ -817,12 +731,7 @@ Since
 
 ###
 
-### [Autonomous
-
-                                                  Vehicles: Handing Over
-                                                  Control: Opportunities
-                                                  and Risks for
-                                                  Insurance](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/PDFs/LLoyds-Autonomous%20Vehicles.pdf)
+### [Autonomous Vehicles: Handing Over Control: Opportunities and Risks for Insurance](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/PDFs/LLoyds-Autonomous%20Vehicles.pdf)
 
  Gillian
                                                 Yeomans, Lloyd'sExposure
@@ -854,18 +763,14 @@ Since
                                                 business opportunities,
                                                 with corresponding
                                                 opportunities for
-                                                insurers....["Read
-
-                                                  more](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/PDFs/LLoyds-Autonomous%20Vehicles.pdf)  Nice
+                                                insurers....["Read more](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/PDFs/LLoyds-Autonomous%20Vehicles.pdf)  Nice
 
                                                     to see Lloyd's weigh
                                                     in here. Alain
 
                                                     May 2, 2014
 
-### [Who Is at Fault When a
-                                                  Driverless Car Gets in
-                                                  an Accident?](http://www.theatlantic.com/business/archive/2014/04/who-is-at-fault-when-a-driverless-car-gets-in-an-accident/361250/)
+### [Who Is at Fault When a Driverless Car Gets in an Accident?](http://www.theatlantic.com/business/archive/2014/04/who-is-at-fault-when-a-driverless-car-gets-in-an-accident/361250/)
 
  John
                                                 Villasenor Apr 25 2014
@@ -873,19 +778,11 @@ Since
                                                 already have the laws we
                                                 need for dealing with
                                                 this inevitable
-                                                situation." [Read
-
-                                                  more](http://www.theatlantic.com/business/archive/2014/04/who-is-at-fault-when-a-driverless-car-gets-in-an-accident/361250/)especially
+                                                situation." [Read more](http://www.theatlantic.com/business/archive/2014/04/who-is-at-fault-when-a-driverless-car-gets-in-an-accident/361250/)especially
 
                                                     the source report:
 
-### [Products
-
-                                                  Liability and
-                                                  Driverless Cars:
-                                                  Issues and Guiding
-                                                  Principles for
-                                                  Legislation](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/PDFs/Brookings_Products_Liability_and_Driverless_Cars.pdf)
+### [Products Liability and Driverless Cars: Issues and Guiding Principles for Legislation](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/PDFs/Brookings_Products_Liability_and_Driverless_Cars.pdf)
 
                                                     April 18, 2014
 
@@ -896,12 +793,7 @@ Since
 
 Wyrough,
                                                 Alexander Penn Hill Jr.:
-                                                [A
-                                                  National Disaggregate
-                                                  Transportation Demand
-                                                  Model for the Analysis
-                                                  of autonomousTaxi
-                                                  Systems](http://orfe.princeton.edu/%7Ealaink/Theses/SeniorTheses%2714/Draft-Wyrough_NoationalDisaggregateTripSynthesizer.pdf)
+                                                [A National Disaggregate Transportation Demand Model for the Analysis of autonomousTaxi Systems](http://orfe.princeton.edu/%7Ealaink/Theses/SeniorTheses%2714/Draft-Wyrough_NoationalDisaggregateTripSynthesizer.pdf)
 
 Included
 
@@ -969,41 +861,17 @@ Included
                                                     Alain
 
 Lee,
-                                                Eileen: [Uncovering
-
-                                                  Systemic Corruption in
-                                                  the ER:An Empirical
-                                                  Analysis of Motor
-                                                  Vehicle-Related
-                                                  Hospital Bill and
-                                                  their Impact on
-                                                  Insurance Companies](http://orfe.princeton.edu/%7Ealaink/Theses/SeniorTheses%2714/Draft-Lee_UncoveringSystematicCorruptionInTheER.pdf)
+                                                Eileen: [Uncovering Systemic Corruption in the ER:An Empirical Analysis of Motor Vehicle-Related Hospital Bill and their Impact on Insurance Companies](http://orfe.princeton.edu/%7Ealaink/Theses/SeniorTheses%2714/Draft-Lee_UncoveringSystematicCorruptionInTheER.pdf)
 
 Sun,
-                                                Zhuyi (Judy): [Causal
-
-                                                  Price Discrimination:
-                                                  An Analysis of the
-                                                  Healthcare Costs
-                                                  Associated with Motor
-                                                  Vehicle and
-                                                  Transportation
-                                                  Collisions](http://orfe.princeton.edu/%7Ealaink/Theses/SeniorTheses%2714/Draft-Sun_CausalPriceDiscrimination.pdf)
+                                                Zhuyi (Judy): [Causal Price Discrimination: An Analysis of the Healthcare Costs Associated with Motor Vehicle and Transportation Collisions](http://orfe.princeton.edu/%7Ealaink/Theses/SeniorTheses%2714/Draft-Sun_CausalPriceDiscrimination.pdf)
 
 Rhodes,
-                                                Brandon Xavier: [An
-
-                                                  Analysis  of
-                                                  Economically
-                                                  Efficient  Insurance
-                                                  Schemes  for
-                                                  Automated  Vehicle](http://orfe.princeton.edu/%7Ealaink/Theses/SeniorTheses%2714/Draft-Rhodes_InsuranceSchemesForAutomatedVehicles.pdf)
+                                                Brandon Xavier: [An Analysis  of Economically Efficient  Insurance Schemes  for Automated  Vehicle](http://orfe.princeton.edu/%7Ealaink/Theses/SeniorTheses%2714/Draft-Rhodes_InsuranceSchemesForAutomatedVehicles.pdf)
 
                                                     April 11, 2014
 
-### [Hands-On: 2015 Hyundai
-                                                  Genesis Flirts with
-                                                  Autonomous Driving](http://www.chipchick.com/2014/04/2015-hyundai-genesis.html)
+### [Hands-On: 2015 Hyundai Genesis Flirts with Autonomous Driving](http://www.chipchick.com/2014/04/2015-hyundai-genesis.html)
 
  By
                                                 Scott Schaen on April 7,
@@ -1021,31 +889,25 @@ Rhodes,
                                                 complete stop. They're
                                                 SAFETY features; they're
                                                 not intended to
-                                                auto-drive (yet)..." [Read
-                                                  more](http://www.chipchick.com/2014/04/2015-hyundai-genesis.html)
+                                                auto-drive (yet)..." [Read more](http://www.chipchick.com/2014/04/2015-hyundai-genesis.html)
 
                                                     April 4, 2014
 
-### [Webinar on the 3DV
-                                                  product](http://www.autonomoustuff.com/vislab-webinar-recording.html)
+### [Webinar on the 3DV product](http://www.autonomoustuff.com/vislab-webinar-recording.html)
 
                                                 Thursday, March 27,
-                                                2014  [Video
-                                                      of Webinar](http://www.autonomoustuff.com/vislab-webinar-recording.html).
+                                                2014  [Video of Webinar](http://www.autonomoustuff.com/vislab-webinar-recording.html).
                                                     Excellent
                                                     presentation by Prof.
 
                                                     Alberto Broggi
                                                     Alain
 
-                                                    [](Mailto:alaink@princeton.edu)[Mailto:alaink@princeton.edu](Mailto:alaink@princeton.edu)[](Mailto:alaink@princeton.edu)
+                                                    [Mailto:alaink@princeton.edu](Mailto:alaink@princeton.edu)
 
                                               This list is maintained by
-                                              [Alain
-                                                Kornhauser](mailto:alaink@princeton.edu) and
-                                              hosted by the [Princeton
-
-                                                University LISTSERV](http://lists.princeton.edu).
+                                              [Alain Kornhauser](mailto:alaink@princeton.edu) and
+                                              hosted by the [Princeton University LISTSERV](http://lists.princeton.edu).
 
 [Unsubscribe](https://lists.princeton.edu/cgi-bin/wa?TICKET=NzM1MjMzIGJpbm9AUFJJTkNFVE9OLkVEVSBTTUFSVERSSVZJTkdDQVJTIGluYtYkJuu3&c=SIGNOFF)
                                               | [Re-subscribe](https://lists.princeton.edu/cgi-bin/wa?TICKET=NzM1MjMzIGJpbm9AUFJJTkNFVE9OLkVEVSBTTUFSVERSSVZJTkdDQVJTIGluYtYkJuu3&c=SIGNUP)

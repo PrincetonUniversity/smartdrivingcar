@@ -9,7 +9,7 @@ May 28, 2022
 
 SmartDrivingCars eLetter
 
-### [](https://youtu.be/q5Ov_dPuRV4)
+### 
 
 [https://www.cartsmobility.com/summit](https://www.cartsmobility.com/summit)
 
@@ -21,7 +21,7 @@ There is no Musings in this month's issue. Instead, I have put my musings energi
 
 Enjoy your June issue of The Dispatcher. All comments are welcome, whether you want to take exception to something I have written or you just want to let me know that you got something out of reading it. ..." [Read more](http://www.michaellsena.com/wp-content/uploads/2022/05/The-Dispatcher_June_2022.pdf) Hmmmm... Every month, great reading. Enjoy! Alain
 
-### SmartDrivingCars[](https://www.youtube.com/watch?v=oj7QjsR6dL0)[ZoomCast Episode 2](https://www.youtube.com/watch?v=HBz1AFc6rY0)[6](https://www.youtube.com/watch?v=HBz1AFc6rY0)[9](https://www.youtube.com/watch?v=HBz1AFc6rY0)/ [PodCast 2](https://anchor.fm/smartdrivingcars/episodes/Smart-Driving-Cars-Episode-268-Why-wireless-EV-charging-is-key-to-autonomous-mobility-e1iimbi)[6](https://anchor.fm/smartdrivingcars/episodes/Smart-Driving-Cars-episode-269-Did-government-car-ratings-take-a-wrong-turn-e1j3v4k)[9](https://anchor.fm/smartdrivingcars/episodes/Smart-Driving-Cars-episode-269-Did-government-car-ratings-take-a-wrong-turn-e1j3v4k) [Michael Sena](http://www.michaellsena.com/), Publisher of The Dispatcher
+### SmartDrivingCars[ZoomCast Episode 2](https://www.youtube.com/watch?v=HBz1AFc6rY0)[6](https://www.youtube.com/watch?v=HBz1AFc6rY0)[9](https://www.youtube.com/watch?v=HBz1AFc6rY0)/ [PodCast 2](https://anchor.fm/smartdrivingcars/episodes/Smart-Driving-Cars-Episode-268-Why-wireless-EV-charging-is-key-to-autonomous-mobility-e1iimbi)[6](https://anchor.fm/smartdrivingcars/episodes/Smart-Driving-Cars-episode-269-Did-government-car-ratings-take-a-wrong-turn-e1j3v4k)[9](https://anchor.fm/smartdrivingcars/episodes/Smart-Driving-Cars-episode-269-Did-government-car-ratings-take-a-wrong-turn-e1j3v4k) [Michael Sena](http://www.michaellsena.com/), Publisher of The Dispatcher
 
 F. Fishkin, May 26, "Smart Driving Cars (episode 269) Did government car ratings take a wrong turn? The star rating system for new cars doesn't offer the protections it should. That's the view of consultant and "The Dispatcher" publisher Michael Sena. He joins Alain Kornhauser and Fred Fishkin for episode 269 of Smart Driving Cars. Plus... another self driving promise from Elon Musk, the Smart Driving Cars Summit and more.."
 
@@ -93,7 +93,7 @@ F. Fishkin, April 15, "Smart Driving Cars episode 264: Massive Robotaxi Move by 
 
 SmartDrivingCars / w/ F. Fishkin, April 7, "Mobility takes on a different meaning for Ukrainian refugees. Henry Posner II and his Railroad Development Corporation has been helping to transport many into Germany. He joins Alain Kornhauser and Fred Fishkin for episode 263 of Smart Driving Cars. That plus GM Cruise, Aurora, VW, Qualcomm & more."
 
-SmartDrivingCars [](https://www.youtube.com/watch?v=-2Dc-MdV2QY)/ w/ Michael Sena
+SmartDrivingCars / w/ Michael Sena
 
 F. Fishkin, March 30, The latest from the Symposium on the Future Networked Car, the UK investigates laws for driverless cars, cars....politics and Russia, Tesla and some big news from Waymo. The Dispatcher publisher Michael Sena joins Princeton's Alain Kornhauser & co-host Fred Fishkin for Smart Driving Cars episode 262."
 
@@ -101,11 +101,11 @@ SmartDrivingCars / w/ &
 
 F. Fishkin, March 25, "Where autonomous mobility vehicles operate matters. But why does too. And Mercedes takes a leap. That and more as Sven Beiker of Silicon Valley Mobility and Dick Mudge of Compass Transportation join Princeton's Alain Kornhauser and co-host Fred Fishkin for episode 261 of Smart Driving Cars."
 
-SmartDrivingCars [](https://www.youtube.com/watch?v=M4A6NCpu2Rs)/
+SmartDrivingCars /
 
 F. Fishkin, March 21, "Apple reportedly has dissolved its car team and why is Alain now eating at McDonald's? Episode 260 of Smart Driving Cars with Princeton's Alain Kornhauser and co-host Fred Fishkin has that plus GM, Cruise, Tesla, Aurora, Polestar and more."
 
-SmartDrivingCars [](https://www.youtube.com/watch?v=M4A6NCpu2Rs)/ w/, EVP of Engineering, Cruise
+SmartDrivingCars / w/, EVP of Engineering, Cruise
 
 F. Fishkin, March 9, "Cruise, with GM and Honda as operating partners, has gone truly driverless in San Francisco and is seeking permission to eliminate steering wheels in the Cruise Origin. EVP of Engineering Mo ElShenawy joins Alain Kornhauser and Fred Fishkin for a special edition of Smart Driving Cars.
 
@@ -113,7 +113,7 @@ SmartDrivingCars / w/ Michael Sena, Publisher, The Dispatcher
 
 F. Fishkin, March 3, "How will electric vehicle charging stations make money? The Dispatcher publisher Michael Sena poses that question and many more on episode 258 of Smart Driving Cars with Princeton's Alain Kornhauser and co-host Fred Fishkin. Plus Ford creates a distinct EV car business, an update on NJ progress and more. Tune in and subscribe...."
 
-SmartDrivingCars [](https://www.youtube.com/watch)/ w/, Brookings Institute & , Reason Foundation
+SmartDrivingCars / w/, Brookings Institute & , Reason Foundation
 
 F. Fishkin, Feb. 25, "So what about these reports and opinion pieces casting doubt on the future of autonomous mobility? The Brookings Institution's Cliff Winston and Reason Foundation's Marc Scribner join Princeton's Alain Kornhauser & co-host Fred Fishkin to slice and dice. Plus GM Cruise, VW and more.."
 
@@ -121,7 +121,7 @@ SmartDrivingCars / w/
 
 F. Fishkin, Feb. 18, "With Jaguar Land Rover signing on to partner with NVIDIA for advanced driver assistance and autonomous capabilities in all of their vehicles starting in 2025, what will the collaboration mean? NVIDIA's VP for Automotive Danny Shapiro joins Princeton's Alain Kornhauser & co-host Fred Fishkin for that plus the latest on Waymo, VW, Trenton and more."
 
-SmartDrivingCars [](https://www.youtube.com/watch?v=xFegxpeq0Gk) / w/
+SmartDrivingCars  / w/
 
 F. Fishkin, Feb. 11, "The engaging debate over disengagements. In episode 255 of Smart Driving Cars, Forbes.com Sr. Transportation Contributor Brad Templeton engages with Princeton's Alain Kornhauser over the path to the future of autonomous mobility. The latest data on disengagements from companies testing self driving vehicles in California, Tesla, Cruise, Waymo and New Jersey begins funding Trenton MOVES...are part of the spirited discussion with co-host Fred Fishkin."
 

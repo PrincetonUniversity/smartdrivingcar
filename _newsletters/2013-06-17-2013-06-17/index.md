@@ -5,11 +5,9 @@ date: 2013-06-17
 permalink: /2013-06-17-2013-06-17/
 ---
 
-[Sunday,
-          June 16,
-          2013](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/SDC061613.pdf)
+[Sunday, June 16, 2013](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/SDC061613.pdf)
 
-[](http://www.auvsi.org/AUVSIsDriverlessCarSummit/Home/) I was able to attend only the first day the
+ I was able to attend only the first day the
           highlight of which was
           the live video speech and Q&A session with the Honorable Rick Snyder, Governor of
             Michigan.  He
@@ -20,18 +18,14 @@ permalink: /2013-06-17-2013-06-17/
             technology. Also a
             highlight was Erik
             Coelingh from Volvo
-            Car Corp. who repeated Volvo's stated mission of having [zero
-            people
-            killed in Volvo cars by 2020](http://www.caradvice.com.au/131522/volvo-s60-safety-review/).
+            Car Corp. who repeated Volvo's stated mission of having [zero people killed in Volvo cars by 2020](http://www.caradvice.com.au/131522/volvo-s60-safety-review/).
           Kudos to Volvo's commitment to such a laudable goal.  He also noted that
           Volvo's "City Safe" low
           speed (under 30km/h (20mph)) collision avoidance system, which
           has been
           standard equipment on Volvo's S60, S80, XC60 and XC70 models
           have experienced
-          nearly a [30%
-            less
-            at-fault claims](http://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=5&cad=rja&ved=0CFMQFjAE&url=http%3A%2F%2Fwww.autoblog.com%2F2011%2F07%2F20%2Fvolvo-city-safety-system-gets-thumbs-up-from-nhtsa-iihs-w-vide%2F&ei=sWe-UZuuH7Gw4AOWn4CoDw&usg=AFQjCNF-SjCcUDpFfAb04mfm2BZ7gYZ_cg&bvm=bv.47883778,d.dmg).  (My
+          nearly a [30% less at-fault claims](http://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=5&cad=rja&ved=0CFMQFjAE&url=http%3A%2F%2Fwww.autoblog.com%2F2011%2F07%2F20%2Fvolvo-city-safety-system-gets-thumbs-up-from-nhtsa-iihs-w-vide%2F&ei=sWe-UZuuH7Gw4AOWn4CoDw&usg=AFQjCNF-SjCcUDpFfAb04mfm2BZ7gYZ_cg&bvm=bv.47883778,d.dmg).  (My
           comment: From
           this basis, the additional features in the 2014 MB E &
           S-class should
@@ -51,9 +45,7 @@ permalink: /2013-06-17-2013-06-17/
           does state that the system "will be available" on the 2014
           CTS.  Scott Nelson from
           MILE Auto Insurance stated
-          that auto insurance companies tend to operate on a [5%
-            profit
-            margin](http://finance.yahoo.com/q/is?s=pgr+Income+Statement&annual).  He
+          that auto insurance companies tend to operate on a [5% profit margin](http://finance.yahoo.com/q/is?s=pgr+Income+Statement&annual).  He
           suggested that
           the safety implications of driverless cars might result in a
           substantial
@@ -83,7 +75,7 @@ permalink: /2013-06-17-2013-06-17/
             substantial improvement in price and performance over the
             existing technology…".
 
-[](http://www.connectedvehicleworkshop.com/) Sneak peek at what Dr. Jerome
+ Sneak peek at what Dr. Jerome
       Lutin, former
       Senior Director at NJ Transit will say at the symposium entitled:
       Application
@@ -92,8 +84,7 @@ of
           capabilities for
           Safety and Capacity: Star Ledger headline
         on June 14, 2013: "[Hell
-ride:
-          Lost NJ Transit bus arrives nearly 2 hours late to NYC](http://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&ved=0CDEQqQIwAA&url=http%3A%2F%2Fwww.nj.com%2Fnews%2Findex.ssf%2F2013%2F06%2Fhell_ride_lost_nj_transit_bus_arrives_nearly_2_hours_late.html&ei=YJ--UeruHfHA4AOtooDoBQ&usg=AFQjCNE4dPxCYB1dcx5rpphFiPwFyo1Jhw&bvm=bv.47883778,d.dmg)." Need we say
+ride: Lost NJ Transit bus arrives nearly 2 hours late to NYC](http://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&ved=0CDEQqQIwAA&url=http%3A%2F%2Fwww.nj.com%2Fnews%2Findex.ssf%2F2013%2F06%2Fhell_ride_lost_nj_transit_bus_arrives_nearly_2_hours_late.html&ei=YJ--UeruHfHA4AOtooDoBQ&usg=AFQjCNE4dPxCYB1dcx5rpphFiPwFyo1Jhw&bvm=bv.47883778,d.dmg)." Need we say
         more?
 
 Safety:
@@ -124,8 +115,7 @@ Safety:
 
 ·
           Requiring a
-        Mercedes "[Intelligent
-          Drive](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Videos/2014MB_%20S-Class_AssistanceSystemsSmall.mp4)" "NHTSA Level
+        Mercedes "[Intelligent Drive](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Videos/2014MB_%20S-Class_AssistanceSystemsSmall.mp4)" "NHTSA Level
         2" (collision avoidance
         + pedestrian + recognition + steering assist + lane keeping +
         vehicle
@@ -150,9 +140,7 @@ Safety:
         free.  A complete
         no-brainer!
 
-[](http://money.cnn.com/2013/06/12/autos/aaa-voice-to-text/index.html) [AAA:
-          Voice-to-text devices
-          worse driver distraction than cell phones](http://money.cnn.com/2013/06/12/autos/aaa-voice-to-text/index.html) An in-depth scientific study from AAA finds that
+ [AAA: Voice-to-text devices worse driver distraction than cell phones](http://money.cnn.com/2013/06/12/autos/aaa-voice-to-text/index.html) An in-depth scientific study from AAA finds that
         using
         voice-to-text electronic devices is a far greater distraction
         for drivers than
@@ -163,7 +151,7 @@ Safety:
         roads, in order the measure the comparable levels of
         distraction. [Full story](http://money.cnn.com/2013/06/12/autos/aaa-voice-to-text/index.html) by CNN
 
-[](http://newsroom.aaa.com/2013/06/think-you-know-all-about-distracted-driving-think-again-says-aaa/) [Measuring Cognitive Distraction in the Automobile](http://newsroom.aaa.com/2013/06/think-you-know-all-about-distracted-driving-think-again-says-aaa/) WASHINGTON, D.C., (June 12, 2013)–Hands-free
+ [Measuring Cognitive Distraction in the Automobile](http://newsroom.aaa.com/2013/06/think-you-know-all-about-distracted-driving-think-again-says-aaa/) WASHINGTON, D.C., (June 12, 2013)–Hands-free
       technologies might
       make it easier for motorists to text, talk on the phone, or even
       use Facebook
@@ -171,12 +159,10 @@ Safety:
       Traffic Safety
       show dangerous mental distractions exist even when drivers keep
       their hands on
-      the wheel and their eyes on the road. [Full
-        story](http://newsroom.aaa.com/2013/06/think-you-know-all-about-distracted-driving-think-again-says-aaa/) by AAA Public relations
+      the wheel and their eyes on the road. [Full story](http://newsroom.aaa.com/2013/06/think-you-know-all-about-distracted-driving-think-again-says-aaa/) by AAA Public relations
 
-# [](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/PDFs/MeasuringCognitiveDistractions_AAA_Foundation.pdf)[Measuring
-Cognitive
-          Distraction in the Automobile](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/PDFs/MeasuringCognitiveDistractions_AAA_Foundation.pdf) AAA
+# [Measuring
+Cognitive Distraction in the Automobile](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/PDFs/MeasuringCognitiveDistractions_AAA_Foundation.pdf) AAA
         Foundation
         Report
 
@@ -199,10 +185,9 @@ My comment:  The
         technologies are not adopted, then Draconian measures aimed at
         disabling
         wireless devices in vehicles can be expected "Regulators".  For more comments see [my
-talk
-          @ the 20th annual meeting of ITS-NY](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/KornhauserITS-NY4Dotty/KornhauserITS-NY_AnnualMtg4Dotty.pdf).
+talk @ the 20th annual meeting of ITS-NY](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/KornhauserITS-NY4Dotty/KornhauserITS-NY_AnnualMtg4Dotty.pdf).
 
-[](http://www.youtube.com/watch?v=kW5AnrtVor8) [CMU Cadillac SUV Driving Itself](http://www.capitolhilldaily.com/2013/06/driverless-car/) Researchers
+ [CMU Cadillac SUV Driving Itself](http://www.capitolhilldaily.com/2013/06/driverless-car/) Researchers
         at Carnegie
         Mellon University have joined  the quest to develop a driverless
         car. And
@@ -211,16 +196,13 @@ talk
         Professor Raj Rajkumar and his
         Carnegie Mellon team, the Cadillac prototype is the most
         advanced example of
-        driverless technology yet produced. [Full
-        story](http://www.capitolhilldaily.com/2013/06/driverless-car/)
+        driverless technology yet produced. [Full story](http://www.capitolhilldaily.com/2013/06/driverless-car/)
       by Capitol Hill Daily
 
 Calendar
           of Upcoming Events:
 
-[](http://www.vehicleautomation.org/)[The
-          Premier
-          Road Vehicle Automation Event in North America.](http://www.vehicleautomation.org/)  July
+[The Premier Road Vehicle Automation Event in North America.](http://www.vehicleautomation.org/)  July
           16-19, '13 Stanford
           University, Palo Alto, CA
 Transportation
@@ -235,17 +217,14 @@ Transportation
         sponsoring one of the
         meals, please contact me at [alaink@princeton.edu](mailto:alaink@princeton.edu).
 
-[](http://www.iav2013.org/) [June 26-28, Gold Coast,
-            Australia](http://www.iav2013.org/)
+ [June 26-28, Gold Coast, Australia](http://www.iav2013.org/)
 
 [Smart Driving Cars](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/SDC060613.pdf)
 
 [Thursday,
-June
-            6, 2013](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/SDC060613.pdf)
+June 6, 2013](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/SDC060613.pdf)
 
- [NHTSA Preliminary Statement of Policy Re:
-            Automated Vehicles](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Automated_Vehicles_Policy.pdf)
+ [NHTSA Preliminary Statement of Policy Re: Automated Vehicles](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Automated_Vehicles_Policy.pdf)
 [http://orfe.princeton.edu/~alaink/SmartDrivingCars/Automated_Vehicles_Policy.pdf](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Automated_Vehicles_Policy.pdf)
 contains
 the
@@ -253,9 +232,7 @@ the
           I highly recommend that you read it.
           My interpretation: [http://orfe.princeton.edu/~alaink/SmartDrivingCars/CommentOnNHTSA_PrelimStatement.pdf](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/CommentOnNHTSA_PrelimStatement.pdf)
 
-[Early Estimate of
-            Motor Vehicle Traffic
-            Fa talities in 2012](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/PDFs/EarlySafetyFacts2012NHTSA.pdf) Not a pretty
+[Early Estimate of Motor Vehicle Traffic Fa talities in 2012](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/PDFs/EarlySafetyFacts2012NHTSA.pdf) Not a pretty
           picture.  Early estimates
           show a 5.3% increase in fatalities over '11 to 34,080 due to a
           very large YoY
@@ -264,32 +241,24 @@ the
           the Northeast region.  While
           some of this
           may be attributable to increased VMT, Fatalities per VMT also
-          increased.  [http://orfe.princeton.edu/~alaink/SmartDrivingCars/PDFs/EarlySafetyFacts2012NHTSA.pdf](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/PDFs/EarlySafetyFacts2012NHTSA.pdf)[](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/SDC052913.pdf)
+          increased.  [http://orfe.princeton.edu/~alaink/SmartDrivingCars/PDFs/EarlySafetyFacts2012NHTSA.pdf](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/PDFs/EarlySafetyFacts2012NHTSA.pdf)
 
 [Smart
-Driving
-            Cars](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/SDC052913.pdf)
+Driving Cars](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/SDC052913.pdf)
 
 [Wednesday,
-May
-            29, 2013](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/SDC052913.pdf)
+May 29, 2013](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/SDC052913.pdf)
 
-[](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Videos/2014MB_%20S-Class_AssistanceSystemsSmall.mp4)
 
-["Intelligent Drive:
-            networked with all senses](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Videos/2014MB_%20S-Class_AssistanceSystemsSmall.mp4)
+["Intelligent Drive: networked with all senses](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Videos/2014MB_%20S-Class_AssistanceSystemsSmall.mp4)
 
-# [The Road
-          Ahead: Advanced
-          Vehicle Technology and its Implications](http://www.commerce.senate.gov/public/index.cfm?p=Hearings&ContentRecord_id=f228343f-36b3-4517-b01f-9f15624eb05d&ContentType_id=14f995b9-dfa5-407a-9d35-56cc7152a7ed&Group_id=b06c39af-e033-4cba-9221-de668ca1978a&MonthDisplay=5&YearDisplay=2013)
+# [The Road Ahead: Advanced Vehicle Technology and its Implications](http://www.commerce.senate.gov/public/index.cfm?p=Hearings&ContentRecord_id=f228343f-36b3-4517-b01f-9f15624eb05d&ContentType_id=14f995b9-dfa5-407a-9d35-56cc7152a7ed&Group_id=b06c39af-e033-4cba-9221-de668ca1978a&MonthDisplay=5&YearDisplay=2013)
 
 May 15
 2013 2:30 PM
       Russell Senate Office Building - 253
 
-# [Archived
-          webcast Starts @ 26:20](http://www.commerce.senate.gov/public/index.cfm?p=Hearings&ContentRecord_id=f228343f-36b3-4517-b01f-9f15624eb05d)   [AlainK
-          Analysis](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/SDC052913.pdf)
+# [Archived webcast Starts @ 26:20](http://www.commerce.senate.gov/public/index.cfm?p=Hearings&ContentRecord_id=f228343f-36b3-4517-b01f-9f15624eb05d)   [AlainK Analysis](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/SDC052913.pdf)
 
 *****************************************************************************
 

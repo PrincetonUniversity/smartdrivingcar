@@ -7,9 +7,7 @@ permalink: /2013-12-15-2013-12-15/
 
 December 13, 2013
 
-## [Millennials
-
-          Pushing Development of Driverless Vehicles](http://www.thedetroitbureau.com/2013/12/millennials-pushing-development-of-driverless-vehicles/)
+## [Millennials Pushing Development of Driverless Vehicles](http://www.thedetroitbureau.com/2013/12/millennials-pushing-development-of-driverless-vehicles/)
 
 "Survey shows Gen Y wants features like
         self-driving car technologies." by Michael Strong on Dec. 09,
@@ -44,23 +42,15 @@ While there is ongoing debate about the future and
 
         Gen Yers, also known as millennials, are about a third of all
         U.S. drivers and currently the top target for automakers looking
-        to add new customers... " [Read
-
-          more](http://www.thedetroitbureau.com/2013/12/millennials-pushing-development-of-driverless-vehicles/) If these questions were
-            asked of old people today, like the ones in the [NYT
-
-              article below](http://www.nytimes.com/2013/12/14/your-money/for-the-aging-an-alternative-to-giving-up-the-car-keys.html?emc=eta1) that were asked questions "ten years
+        to add new customers... " [Read more](http://www.thedetroitbureau.com/2013/12/millennials-pushing-development-of-driverless-vehicles/) If these questions were
+            asked of old people today, like the ones in the [NYT article below](http://www.nytimes.com/2013/12/14/your-money/for-the-aging-an-alternative-to-giving-up-the-car-keys.html?emc=eta1) that were asked questions "ten years
             ago", would their responses be similar to millennials?  I
             think so. Alain
 
 Also be certain to read the
-            actual [Accenture
+            actual [Accenture Survey](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/PDFs/Accenture-Connected-Vehicle-Survey-Global.pdf) results.  Alain
 
-              Survey](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/PDFs/Accenture-Connected-Vehicle-Survey-Global.pdf) results.  Alain
-
-## [](http://www.nytimes.com/2013/12/14/technology/google-adds-to-its-menagerie-of-robots.html?ref=business&_r=0)[Google
-
-          Adds to Its Menagerie of Robots](http://www.nytimes.com/2013/12/14/technology/google-adds-to-its-menagerie-of-robots.html?ref=business&_r=0)
+## [Google Adds to Its Menagerie of Robots](http://www.nytimes.com/2013/12/14/technology/google-adds-to-its-menagerie-of-robots.html?ref=business&_r=0)
 
 JOHN MARKOFF   "....Google confirmed on Friday
         that it had completed the acquisition of Boston Dynamics, an
@@ -71,24 +61,18 @@ JOHN MARKOFF   "....Google confirmed on Friday
         than the fastest humans.
 
         It is the eighth robotics company that Google has acquired in
-        the last half-year..." [Read
-
-          more](http://www.nytimes.com/2013/12/14/technology/google-adds-to-its-menagerie-of-robots.html?ref=business&_r=0) ...Wow!  Why not!  When you
+        the last half-year..." [Read more](http://www.nytimes.com/2013/12/14/technology/google-adds-to-its-menagerie-of-robots.html?ref=business&_r=0) ...Wow!  Why not!  When you
             have the money, Just Do It!  Another piece to help 'em make
             it happen.  Alain
 
-## [An
-
-          Alternative to Giving Up the Car Keys](http://www.nytimes.com/2013/12/14/your-money/for-the-aging-an-alternative-to-giving-up-the-car-keys.html?emc=eta1)
+## [An Alternative to Giving Up the Car Keys](http://www.nytimes.com/2013/12/14/your-money/for-the-aging-an-alternative-to-giving-up-the-car-keys.html?emc=eta1)
 
 By ALINA TUGEND, Dec. 13, 2013  "Robert Cullon,
         80, has a neurological condition that makes his feet numb and
         forces him to rely on a walker. He thought he was driving just
         fine, but his six children were worried....The most helpful
         technology for older drivers, according to experts assembled by
-        [The
-
-          Hartford and the MIT AgeLab](http://hig.client.shareholder.com/releaseDetail.cfm?ReleaseID=707451), include "smart" headlights
+        [The Hartford and the MIT AgeLab](http://hig.client.shareholder.com/releaseDetail.cfm?ReleaseID=707451), include "smart" headlights
         that adjust the range and intensity of light to improve night
         vision and systems that warn the driver if the vehicle is
         straying from its lane.
@@ -98,17 +82,13 @@ By ALINA TUGEND, Dec. 13, 2013  "Robert Cullon,
         Technology that is already available in some cars alerts the
         driver with a beep or light to obstacles crossing behind or
         stopped in front of the car. In some models, the car will slow
-        if it appears that the driver isn't braking...." [Read
-
-          more](http://www.nytimes.com/2013/12/14/your-money/for-the-aging-an-alternative-to-giving-up-the-car-keys.html?emc=eta1) (or maybe you should not.
+        if it appears that the driver isn't braking...." [Read more](http://www.nytimes.com/2013/12/14/your-money/for-the-aging-an-alternative-to-giving-up-the-car-keys.html?emc=eta1) (or maybe you should not.
             Was this written 10 years ago?!)
 
           Hmm...  Why do these articles continue promote technologies
             that continue to rely on the driver, especially when it
             comes to the old (and the young).  C'mon Man! It is wrong
-            for [The
-
-              Hartford and the MIT AgeLab](http://hig.client.shareholder.com/releaseDetail.cfm?ReleaseID=707451) to be rating "Smart
+            for [The Hartford and the MIT AgeLab](http://hig.client.shareholder.com/releaseDetail.cfm?ReleaseID=707451) to be rating "Smart
             headlights" as the #1 "new technology" for older drivers.
             Please!! This may well be what 10 years of research at MIT
             suggests; however, it may be time to throw out that
@@ -127,8 +107,7 @@ By ALINA TUGEND, Dec. 13, 2013  "Robert Cullon,
             technologies.  It may well be that even if you paid for them
             you'd make more money. Check it out!  Alain
 
-## [](http://www.lesechos.fr/entreprises-secteurs/auto-transport/actu/0203178019654-la-ruee-des-constructeurs-automobile-vers-la-voiture-sans-chauffeur-635786.php)[La ruée des constructeurs automobile vers la voiture sans
-            chauffeur](http://www.lesechos.fr/entreprises-secteurs/auto-transport/actu/0203178019654-la-ruee-des-constructeurs-automobile-vers-la-voiture-sans-chauffeur-635786.php)
+## [La ruée des constructeurs automobile vers la voiture sans chauffeur](http://www.lesechos.fr/entreprises-secteurs/auto-transport/actu/0203178019654-la-ruee-des-constructeurs-automobile-vers-la-voiture-sans-chauffeur-635786.php)
 
         Par Benoit Georges  Dec 9, 2013  "...Cette frénésie tranche avec
         le discours très frileux qui a longtemps été de mise dans
@@ -138,15 +117,10 @@ By ALINA TUGEND, Dec. 13, 2013  "Robert Cullon,
         volant, se souvient Michel Parent, conseiller scientifique de
         l'Inria spécialisé dans la conduite automatique. Aujourd'hui,
         nous assistons à un revirement total, qui va d'ailleurs trop
-        loin aussi... [Read
+        loin aussi... [Read more](http://www.lesechos.fr/entreprises-secteurs/auto-transport/actu/0203178019654-la-ruee-des-constructeurs-automobile-vers-la-voiture-sans-chauffeur-635786.php) ...Be sure to look at the
+            Valeo video on valet parking: [Valet Park4U](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Videos/Valeo_Valet%20Park4U.mp4) Alain
 
-          more](http://www.lesechos.fr/entreprises-secteurs/auto-transport/actu/0203178019654-la-ruee-des-constructeurs-automobile-vers-la-voiture-sans-chauffeur-635786.php) ...Be sure to look at the
-            Valeo video on valet parking: [Valet
-
-              Park4U](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Videos/Valeo_Valet%20Park4U.mp4) Alain
-
-## [](http://www.motorauthority.com/news/1089080_ford-testing-autonomous-driving-with-fusion-hybrid-research-vehicle)[Ford Testing Autonomous Driving With Fusion Hybrid
-                Research Vehicle](http://www.motorauthority.com/news/1089080_ford-testing-autonomous-driving-with-fusion-hybrid-research-vehicle)
+## [Ford Testing Autonomous Driving With Fusion Hybrid Research Vehicle](http://www.motorauthority.com/news/1089080_ford-testing-autonomous-driving-with-fusion-hybrid-research-vehicle)
 
         By Nelson Ireson 12/12/2013 "... Ford figures its Fusion Hybrid
         automated research vehicle, revealed today, won't bear fruit for
@@ -161,20 +135,15 @@ By ALINA TUGEND, Dec. 13, 2013  "Robert Cullon,
 ## More MB Collision Avoidance
           Commercials
 
-[](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Videos/MB_Commercial_Grim_Reaper.mp4)   [Grim
+   [Grim Reaper](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Videos/MB_Commercial_Grim_Reaper.mp4)  [Ice Princess](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Videos/MB_Commercial_Ice_Princess.mp4) [Magic_Body_Control](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Videos/MB_%20Commercial%20MagicBodyControl.mp4)[Collision_Prevention_Assist](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Videos/MB_Collision_Prevention_Assist.mp4)
 
-            Reaper](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Videos/MB_Commercial_Grim_Reaper.mp4)  [Ice Princess](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Videos/MB_Commercial_Ice_Princess.mp4)[](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Videos/MB_%20Commercial%20MagicBodyControl.mp4) [Magic_Body_Control](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Videos/MB_%20Commercial%20MagicBodyControl.mp4)[Collision_Prevention_Assist](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Videos/MB_Collision_Prevention_Assist.mp4)
-
-## [Transforming
-
-            Personal Mobility](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Papers/Burnes_Transforming_Personal_Mobility.pdf)
+## [Transforming Personal Mobility](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Papers/Burnes_Transforming_Personal_Mobility.pdf)
 
         Burnes, L.D., Jordan, W.C., and Scarborough,B.A. "...This new
         mobility system combines recent developments in driverless
         vehicle technologies with the emerging "Mobility Internet" that
         can coordinate the movements of these vehicles through space and
-        time...["
-          Read more](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Papers/Burnes_Transforming_Personal_Mobility.pdf).
+        time...[" Read more](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Papers/Burnes_Transforming_Personal_Mobility.pdf).
 
             This paper investigates the opportunity of driverless
             vehicles to provide shared-vehicles to serve the mobility
@@ -225,9 +194,7 @@ This suggests that Labor is 81.7% of the cost of the
             reading for its supply-side concepts and its approach.
             Alain
 
-## [Where
-
-            Are the Autopilot Lanes for Driverless Cars? (Op-Ed)](http://news.yahoo.com/where-autopilot-lanes-driverless-cars-op-ed-185146803.html)
+## [Where Are the Autopilot Lanes for Driverless Cars? (Op-Ed)](http://news.yahoo.com/where-autopilot-lanes-driverless-cars-op-ed-185146803.html)
 
 By Melba Kurman and Hod Lipson Dec. 12, 2013 It starts out well:
           "...Unlike the demonstration models of the 1950s, today's
@@ -254,9 +221,7 @@ By Melba Kurman and Hod Lipson Dec. 12, 2013 It starts out well:
           much cheaper and simpler than building high-speed rail, and
           would be a catalyst to the burgeoning industry of driverless
           cars, as well as an invaluable source of on-road test
-          data..."  [Read
-
-            more](http://news.yahoo.com/where-autopilot-lanes-driverless-cars-op-ed-185146803.html)    They fail to appreciate
+          data..."  [Read more](http://news.yahoo.com/where-autopilot-lanes-driverless-cars-op-ed-185146803.html)    They fail to appreciate
               the real beauty of their initial observation and revert to
               the fruitless AHS effort in the '90s and the current
               fledgling v2v initiative that were/are predicated on some
@@ -301,55 +266,38 @@ By Melba Kurman and Hod Lipson Dec. 12, 2013 It starts out well:
               this may actually be the viable way out of the desert.
               Alain
 
-## [Who's
+## [Who's Driving that Car](http://www.cnn.com/video/?/video/us/2013/12/05/tsr-pkg-moos-driverless-car-mystery-solved.cnn&hpt=hp_c4&from_homepage=yes&video_referrer=http%3A%2F%2Fwww.cnn.com%2F#/video/us/2013/12/05/tsr-pkg-moos-driverless-car-mystery-solved.cnn)
 
-            Driving that Car](http://www.cnn.com/video/?/video/us/2013/12/05/tsr-pkg-moos-driverless-car-mystery-solved.cnn&hpt=hp_c4&from_homepage=yes&video_referrer=http%3A%2F%2Fwww.cnn.com%2F#/video/us/2013/12/05/tsr-pkg-moos-driverless-car-mystery-solved.cnn)
+[Now You See It: Driverless car mystery solved](http://www.kltv.com/story/24154364/now-you-see-it-driverless-car-mystery-solved)[Video](http://www.cnn.com/video/?/video/us/2013/12/05/tsr-pkg-moos-driverless-car-mystery-solved.cnn&hpt=hp_c4&from_homepage=yes&video_referrer=http%3A%2F%2Fwww.cnn.com%2F#/video/us/2013/12/05/tsr-pkg-moos-driverless-car-mystery-solved.cnn) just for fun. Alain
 
-[Now
-
-          You See It: Driverless car mystery solved](http://www.kltv.com/story/24154364/now-you-see-it-driverless-car-mystery-solved)[Video](http://www.cnn.com/video/?/video/us/2013/12/05/tsr-pkg-moos-driverless-car-mystery-solved.cnn&hpt=hp_c4&from_homepage=yes&video_referrer=http%3A%2F%2Fwww.cnn.com%2F#/video/us/2013/12/05/tsr-pkg-moos-driverless-car-mystery-solved.cnn) just for fun. Alain
-
-['Steeri'
-
-            is Apple's attempt at Google's driverless car](http://venturebeat.com/2013/12/06/steeri-is-apples-attempt-at-googles-driverless-car-parody-video/)  For
-            more fun be sure to play the [parody
-
-              video](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Videos/Steeri-World%27s1stDriverlessCarApp.mp4). Alain
+['Steeri' is Apple's attempt at Google's driverless car](http://venturebeat.com/2013/12/06/steeri-is-apples-attempt-at-googles-driverless-car-parody-video/)  For
+            more fun be sure to play the [parody video](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Videos/Steeri-World%27s1stDriverlessCarApp.mp4). Alain
 
 # Calendar of Upcoming
           Events:
 
-## [2013
-
-              ITS New Jersey Annual Meeting](http://transportation.njit.edu/itsnj/ITS_Information_Packet.pdf)
+## [2013 ITS New Jersey Annual Meeting](http://transportation.njit.edu/itsnj/ITS_Information_Packet.pdf)
 
 MetLife Stadium
 
 December 16, 2013,   East
               Rutherford, NJ 07073
 
-[Bernie
-            Wagenblast interview of Dennis Motiani](http://www.buzzsprout.com/18472/133642)
+[Bernie Wagenblast interview of Dennis Motiani](http://www.buzzsprout.com/18472/133642)
 
 # Recent Versions of:
 
           December 6, 2013
 
-## [Metro-North
+## [Metro-North Train Sped at 82 M.P.H. Ahead of Curve in Fatal Crash](http://www.nytimes.com/2013/12/03/nyregion/metro-north-train-accident-bronx.html)
 
-        Train Sped at 82 M.P.H. Ahead of Curve in Fatal Crash](http://www.nytimes.com/2013/12/03/nyregion/metro-north-train-accident-bronx.html)
-
-    MATT FLEGENHEIMER Dec. 2, 2013 [1102
-
-      Comments](http://www.nytimes.com/2013/12/03/nyregion/metro-north-train-accident-bronx.html#commentsContainer)  The Metro-North Railroad train that hurtled off the
+    MATT FLEGENHEIMER Dec. 2, 2013 [1102 Comments](http://www.nytimes.com/2013/12/03/nyregion/metro-north-train-accident-bronx.html#commentsContainer)  The Metro-North Railroad train that hurtled off the
     rails on a sleepy holiday weekend morning was traveling 82 miles per
     hour as it approached one of the sharpest curves in the region's
     rail system, federal investigators said on Monday — nearly three
     times the speed permitted through the turn...six seconds before the
     rear locomotive came to a stop, "the throttle was reduced to idle."
-    The brakes were fully applied one second later. .[Read more](http://www.nytimes.com/2013/12/03/nyregion/metro-north-train-accident-bronx.html)  In a [subsequent
-
-      article](http://www.nytimes.com/2013/12/04/nyregion/metro-north-investigation-turns-to-engineers-inattention.html?_r=0) ..."The engineer ... told the authorities on Tuesday
+    The brakes were fully applied one second later. .[Read more](http://www.nytimes.com/2013/12/03/nyregion/metro-north-train-accident-bronx.html)  In a [subsequent article](http://www.nytimes.com/2013/12/04/nyregion/metro-north-investigation-turns-to-engineers-inattention.html?_r=0) ..."The engineer ... told the authorities on Tuesday
     that he had become dazed before the accident, suffering what his
     lawyer referred to as "highway hypnosis."...Rail safety experts have
     suggested that a system known as "positive train control" might have
@@ -357,9 +305,7 @@ December 16, 2013,   East
 
           December 1, 2013
 
-## [Amazon's
-
-        Jeff Bezos'86 looks to the future](http://www.cbsnews.com/news/amazons-jeff-bezos-looks-to-the-future/)
+## [Amazon's Jeff Bezos'86 looks to the future](http://www.cbsnews.com/news/amazons-jeff-bezos-looks-to-the-future/)
 
     Sunday, December 1, 2013  CBS New, 60 Minutes "... But
     during our visit to Amazon's campus in Seattle, Bezos kept telling
@@ -389,23 +335,19 @@ December 16, 2013,   East
 
     Charlie Rose: Wow!
 
-    ... [Read
-
-      more](http://www.cbsnews.com/news/amazons-jeff-bezos-looks-to-the-future/)  See video starting
+    ... [Read more](http://www.cbsnews.com/news/amazons-jeff-bezos-looks-to-the-future/)  See video starting
 
         @ 11:00.  Beyond SmartDriving Cars?  Very interesting! Alain
 
           November 22, 2013
 
-## [Auto Correct: Has the self-driving car
-        at last arrived?](http://www.newyorker.com/reporting/2013/11/25/131125fa_fact_bilger)
+## [Auto Correct: Has the self-driving car at last arrived?](http://www.newyorker.com/reporting/2013/11/25/131125fa_fact_bilger)
 
     by Burkhard Bilger November 25, 2013:  An
         absolutely great article featuring Anthony Levandowski, Product
-        Manager, Google Self-Driving Car and more.  [A
-          MUST read](http://www.newyorker.com/reporting/2013/11/25/131125fa_fact_bilger).  Alain
+        Manager, Google Self-Driving Car and more.  [A MUST read](http://www.newyorker.com/reporting/2013/11/25/131125fa_fact_bilger).  Alain
 
-## [](http://www.fleng.org/seminars.cfm?event_id=598)[Florida Automated Vehicles Summit](http://www.fleng.org/images/files/1025%2013Draft%20Agenda_Florida%20Automated%20Vehicle%20Summit.pdf)
+## [Florida Automated Vehicles Summit](http://www.fleng.org/images/files/1025%2013Draft%20Agenda_Florida%20Automated%20Vehicle%20Summit.pdf)
 
      November 14 – 15, 2013, Marriott Waterside Hotel, Tampa, FL .  This was an excellent conference.  I
         highly recommend that each State do something similar in terms
@@ -421,38 +363,25 @@ December 16, 2013,   East
 
           November 08, 2013
 
-## [Clifford
-
-        I. Nass](http://comm.stanford.edu/faculty-nass/)'81,*86  [expert
-
-        on human/computer interactions, dead at 55](http://news.stanford.edu/news/2013/november/cliff-nass-obit-110413.html)
+## [Clifford I. Nass](http://comm.stanford.edu/faculty-nass/)'81,*86  [expert on human/computer interactions, dead at 55](http://news.stanford.edu/news/2013/november/cliff-nass-obit-110413.html)
 
 Tragic!! What a terrible
-          loss.  We have all taken an enormous step backwards.  [His
-
-            simulator.](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Videos/Nass_Driving_Simulator_Stanford.mp4) Alain
+          loss.  We have all taken an enormous step backwards.  [His simulator.](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Videos/Nass_Driving_Simulator_Stanford.mp4) Alain
 
           November 05, 2013
 
-## [](http://www.euroncap.com/about.aspx) [On
+##  [On the Road with Autonomous Emergency Braking (AEB) Systems](http://euroncap.synapticdigital.com/Latest-Release/on-the-road-with-autonomous-emergency-braking-systems/s/0d5f0a78-2afc-4c63-ad36-a1acdb2c0b19)
 
-        the Road with Autonomous Emergency Braking (AEB) Systems](http://euroncap.synapticdigital.com/Latest-Release/on-the-road-with-autonomous-emergency-braking-systems/s/0d5f0a78-2afc-4c63-ad36-a1acdb2c0b19)
-
-[Press
-
-        Releas](http://preview.thenewsmarket.com/Previews/NCAP/DocumentAssets/305458_v2.pdf)e: Brussels 29 October – "Euro NCAP releases
+[Press Releas](http://preview.thenewsmarket.com/Previews/NCAP/DocumentAssets/305458_v2.pdf)e: Brussels 29 October – "Euro NCAP releases
       the first results of rear-end crash avoidance systems
       tested against the upcoming 2014 rating protocol. Eight vehicles
       have been compared with respect to their performance on the test
       track.
 
 A good summary of the tests appears in[FleetDirectory](http://www.fleetdirectory.co.uk/)
-[First
-
-              self-braking cars rated by Euro NCAP](http://www.fleetdirectory.co.uk/news/first-autonomous-braking-systems-rated-by-euro-ncap/) by John
+[First self-braking cars rated by Euro NCAP](http://www.fleetdirectory.co.uk/news/first-autonomous-braking-systems-rated-by-euro-ncap/) by John
           Simpson 30 October 2013. Eight (8)  car models equipped AEB
-          systems were tested and are reported on [Euro NCAP's
-            website](http://euroncap.synapticdigital.com/).  Both "City" tests and "Inter-Urban" tests were
+          systems were tested and are reported on [Euro NCAP's website](http://euroncap.synapticdigital.com/).  Both "City" tests and "Inter-Urban" tests were
           conducted of the Autonomous Emergency Braking (AEB) systems.
           While the test results indicate that at least some of these
           systems work some of the time, only one perfect score was
@@ -472,7 +401,7 @@ A good summary of the tests appears in[FleetDirectory](http://www.fleetdirectory
           to the fact that the vehicles tested were from 2011-2013 and
           not the new 2014.  Alain
 
-  [](Mailto:alaink@princeton.edu)[Mailto:alaink@princeton.edu](Mailto:alaink@princeton.edu)[](Mailto:alaink@princeton.edu)
+  [Mailto:alaink@princeton.edu](Mailto:alaink@princeton.edu)
 
 --
 
@@ -484,9 +413,7 @@ SmartDrivingCars_120613v0
 
     ***************************************************************************************************************
 
-    This list is maintained by [Alain
-
-      Kornhauser](mailto:alaink@princeton.edu) and hosted by the [Princeton University LISTSERV](http://lists.princeton.edu).
+    This list is maintained by [Alain Kornhauser](mailto:alaink@princeton.edu) and hosted by the [Princeton University LISTSERV](http://lists.princeton.edu).
 
 [Unsubscribe](https://lists.princeton.edu/cgi-bin/wa?TICKET=NzM1MjMzIGJpbm9AUFJJTkNFVE9OLkVEVSBTTUFSVERSSVZJTkdDQVJTIGluYtYkJuu3&c=SIGNOFF)
     | [Re-subscribe](https://lists.princeton.edu/cgi-bin/wa?TICKET=NzM1MjMzIGJpbm9AUFJJTkNFVE9OLkVEVSBTTUFSVERSSVZJTkdDQVJTIGluYtYkJuu3&c=SIGNUP)

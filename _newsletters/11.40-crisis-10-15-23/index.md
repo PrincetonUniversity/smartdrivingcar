@@ -11,8 +11,7 @@ display_name: "11.40 - Crisis"
 [SPIA Reacts: Crisis in the Middle East](https://www.youtube.com/watch?v=24Gmn8A9aLI)
 
 Staff,  Oct. 7, "…"
-[Read
-  more](https://www.youtube.com/watch?v=24Gmn8A9aLI)  Hmmmm…. Another most
+[Read more](https://www.youtube.com/watch?v=24Gmn8A9aLI)  Hmmmm…. Another most
  informative panel.  If you haven't, also watch:
 [The Outbreak of War In Israel- A Geopolitical Update](https://mediacentral.princeton.edu/media/The+Outbreak+of+War+In+Israel-+A+Geopolitical+Update+/1_5cbs1m40),  was given earlier this week by former U.S. Ambassador to Egypt & Israel, Daniel C. Kurtzer.
 

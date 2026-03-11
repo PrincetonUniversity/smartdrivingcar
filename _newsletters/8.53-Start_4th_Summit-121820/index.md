@@ -12,12 +12,10 @@ SmartDrivingCars eLetter
 [SmartDrivingCars Summit](https://orfe.princeton.edu/conferences/sdc/)
 
 A. Kornhauser, &
-            F. Fishkin, Dec. 17, [Video
-                  Summary of 1st Session  Setting the Stage](https://www.youtube.com/watch?v=pCc9N8o1dys&feature=youtu.be)
+            F. Fishkin, Dec. 17, [Video Summary of 1st Session  Setting the Stage](https://www.youtube.com/watch?v=pCc9N8o1dys&feature=youtu.be)
 
 ### SmartDrivingCars
-        [Pod-Cast Episode 191](https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-191)  [Zoom-Cast Episode
-                191](https://youtu.be/vGmU-NgR6Sw)  w/ Louis Aaron'23 and Joel
+        [Pod-Cast Episode 191](https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-191)  [Zoom-Cast Episode 191](https://youtu.be/vGmU-NgR6Sw)  w/ Louis Aaron'23 and Joel
         Johnson
 
 F. Fishkin, Dec. 20, "College student Joel
@@ -50,16 +48,11 @@ F. Fishkin, Dec. 20, "College student Joel
           Autonomous Vehicle Engineering (PAVE) research laboratory as
           part of its research dissemination initiatives.
 
-### [Comprehensive
-            regulatory framework for self-driving vehicles proposed to
-            Government](https://www.lawcom.gov.uk/comprehensive-regulatory-framework-for-self-driving-vehicles-proposed-to-government/)
+### [Comprehensive regulatory framework for self-driving vehicles proposed to Government](https://www.lawcom.gov.uk/comprehensive-regulatory-framework-for-self-driving-vehicles-proposed-to-government/)
 
 Staff, Dec. 18, "The Law Commission of England and Wales and
           the Scottish Law Commission (the Law Commissions) have today
-          [18 December 2020] announced [landmark
-            proposals that will seek to ensure the safety of
-            self-driving vehicles via a comprehensive new legal
-            framework](https://www.lawcom.gov.uk/project/automated-vehicles/).
+          [18 December 2020] announced [landmark proposals that will seek to ensure the safety of self-driving vehicles via a comprehensive new legal framework](https://www.lawcom.gov.uk/project/automated-vehicles/).
 
           Hailed as "leading the way on the regulation of this
           technology" by Transport Minister Rachel Maclean, the
@@ -87,8 +80,7 @@ Staff, Dec. 18, "The Law Commission of England and Wales and
             is engaged.  ..." [Read more](https://www.lawcom.gov.uk/comprehensive-regulatory-framework-for-self-driving-vehicles-proposed-to-government/) Hmmmm....See
                   following The Guardian article and comment... Alain
 
-### [Don't
-            blame me if my driverless car crashes into you](https://www.theguardian.com/commentisfree/2020/dec/20/notebook-dont-blame-me-if-my-driverless-car-crashes-into-you)
+### [Don't blame me if my driverless car crashes into you](https://www.theguardian.com/commentisfree/2020/dec/20/notebook-dont-blame-me-if-my-driverless-car-crashes-into-you)
 
 T. Adams, Dec 20, "Five years ago, I was invited to test one
           of Google's prototype driverless cars on the streets near the
@@ -138,9 +130,7 @@ Since a
                 should simply buy the cars as a commodity and operate
                 the fleet, .  Alain
 
-### [Aurora
-            sends offers to majority of Uber ATG employees, but not the
-            R&D lab](https://techcrunch.com/2020/12/17/aurora-sends-offers-to-majority-uber-atg-employees-but-not-the-rd-lab/)
+### [Aurora sends offers to majority of Uber ATG employees, but not the R&D lab](https://techcrunch.com/2020/12/17/aurora-sends-offers-to-majority-uber-atg-employees-but-not-the-rd-lab/)
 
 K. Korosec, Dec 17, "Autonomous vehicle company Aurora
           Innovation  sent offers Thursday to more than 75% of employees
@@ -166,8 +156,7 @@ K. Korosec, Dec 17, "Autonomous vehicle company Aurora
                 Aurora's ability to safely deliver and scale mobility
                 valued by customers.  Alain
 
-### [Autonomous
-            Vehicles and the Future of Auto Insurance](https://www.dropbox.com/s/5280uh1i22zmo1m/RAND_SAVandInsuranceDecember2020.pdf?dl=0)
+### [Autonomous Vehicles and the Future of Auto Insurance](https://www.dropbox.com/s/5280uh1i22zmo1m/RAND_SAVandInsuranceDecember2020.pdf?dl=0)
 
 K. Stanley, Dec. 2020, "To investigate the impact that
           autonomous vehicles (AVs) could have on U.S. automobile
@@ -187,8 +176,7 @@ K. Stanley, Dec. 2020, "To investigate the impact that
           insurance claims process for accidents involving AVs and
           conventional cars would not change significantly in the
           future, and experts agreed that consumer acceptance was very
-          important to successful AV deployment...."  [Read
-            more](https://www.dropbox.com/s/5280uh1i22zmo1m/RAND_SAVandInsuranceDecember2020.pdf?dl=0), Hmmmm....
+          important to successful AV deployment...."  [Read more](https://www.dropbox.com/s/5280uh1i22zmo1m/RAND_SAVandInsuranceDecember2020.pdf?dl=0), Hmmmm....
                 Haven't had a chance to fully consume, but ...
 
 1.  Amazing
@@ -231,8 +219,7 @@ The focus is
                 important in driving.  So important that we should be
                 using "Operational Design Domain" as the descriptor as
                 Rand uses throughout its recent report
-                      "[Safe
-                      Enough](https://www.dropbox.com/s/tekb4y7c52kdfbx/RAND_SafeEnoughNov2020.pdf?dl=0)".  The ODD for
+                      "[Safe Enough](https://www.dropbox.com/s/tekb4y7c52kdfbx/RAND_SafeEnoughNov2020.pdf?dl=0)".  The ODD for
                 conventional cars requires us to not mis-behave when we
                 drive.  Again, most crashes are occur when conventional
                 cars are operated outside their ODD; when we
@@ -285,8 +272,7 @@ The focus is
                     never been in that business and I can't imagine
                     they'll ever want to go there.  Alain
 
-### [What The EV And AV Community Wants
-            From A Biden Administration](https://www.forbes.com/sites/selikajosiahtalbott/2020/12/17/what-the-ev-and-av-community-wants-from-a-biden-administration/?sh=6f63d10a319c)
+### [What The EV And AV Community Wants From A Biden Administration](https://www.forbes.com/sites/selikajosiahtalbott/2020/12/17/what-the-ev-and-av-community-wants-from-a-biden-administration/?sh=6f63d10a319c)
 
 S. Talbott, Dec. 17, "Dear President-Elect Biden,
 
@@ -315,15 +301,12 @@ Transportation equity should be a cornerstone of the work
 
         President-elect Biden the political economy of Autonomous and
         Electric vehicles calls for a White House Czar and that's all we
-        want for Christmas (along with the pandemic to go away)."  [Read
-          more](https://www.forbes.com/sites/selikajosiahtalbott/2020/12/17/what-the-ev-and-av-community-wants-from-a-biden-administration/?sh=6f63d10a319c) Hmmmm....Well
+        want for Christmas (along with the pandemic to go away)."  [Read more](https://www.forbes.com/sites/selikajosiahtalbott/2020/12/17/what-the-ev-and-av-community-wants-from-a-biden-administration/?sh=6f63d10a319c) Hmmmm....Well
               said, Selika.  Alain
 
-  [Battery
-            prices have fallen 88 percent over the last decade](https://arstechnica.com/science/2020/12/battery-prices-have-fallen-88-percent-over-the-last-decade/)
+  [Battery prices have fallen 88 percent over the last decade](https://arstechnica.com/science/2020/12/battery-prices-have-fallen-88-percent-over-the-last-decade/)
 T. Lee, Dec. 18, "The average cost of a lithium-ion battery
-          pack fell to $137 per kWh in 2020, according to a [new
-            industry survey from BloombergNEF](https://about.bnef.com/blog/battery-pack-prices-cited-below-100-kwh-for-the-first-time-in-2020-while-market-average-sits-at-137-kwh/#:~:text=By%202023%2C%20average%20prices%20will,%24100%2FkWh%20have%20been%20reported.). That's an
+          pack fell to $137 per kWh in 2020, according to a [new industry survey from BloombergNEF](https://about.bnef.com/blog/battery-pack-prices-cited-below-100-kwh-for-the-first-time-in-2020-while-market-average-sits-at-137-kwh/#:~:text=By%202023%2C%20average%20prices%20will,%24100%2FkWh%20have%20been%20reported.). That's an
           inflation-adjusted decline of 13 percent since 2019. The
           latest figures continue the astonishing progress in battery
           technology over the last decade, with pack prices declining 88
@@ -344,8 +327,7 @@ T. Lee, Dec. 18, "The average cost of a lithium-ion battery
           subsidies. Given that electric vehicles are cheap to charge
           and will likely require less maintenance than a conventional
           car, they will be an increasingly compelling option over the
-          next decade...."   [Read
-            more](https://arstechnica.com/science/2020/12/battery-prices-have-fallen-88-percent-over-the-last-decade/) Hmmmm....
+          next decade...."   [Read more](https://arstechnica.com/science/2020/12/battery-prices-have-fallen-88-percent-over-the-last-decade/) Hmmmm....
                 This is non-trivial! Electric motors are much more
                 simple (fewer parts)  than ICEs, and don't require a
                 transmission.  If batteries become as cheap as a gas
@@ -356,8 +338,7 @@ T. Lee, Dec. 18, "The average cost of a lithium-ion battery
                 that we would not have had to burn), then EVs may
                 actually make real sense.    Alain
 
-### [Inside
-            Zoox's six-year ride from prototype to product](https://techcrunch.com/2020/12/15/inside-zooxs-six-year-ride-from-prototype-to-product/)
+### [Inside Zoox's six-year ride from prototype to product](https://techcrunch.com/2020/12/15/inside-zooxs-six-year-ride-from-prototype-to-product/)
 
 K. Korosec, Dec 15, "Zoox, the autonomous vehicle company
           that was acquired this year by Amazon, revealed this week the
@@ -380,12 +361,10 @@ It's been an expensive pursuit that almost led to its demise
 
           TechCrunch interviewed Zoox co-founder and CTO Jesse Levinson
           about the company's milestone, the vehicle design, its exit to
-          Amazon and what lies ahead...."  [Read
-            more](https://techcrunch.com/2020/12/15/inside-zooxs-six-year-ride-from-prototype-to-product/) Hmmmm....
+          Amazon and what lies ahead...."  [Read more](https://techcrunch.com/2020/12/15/inside-zooxs-six-year-ride-from-prototype-to-product/) Hmmmm....
                 Very interesting.  Alain
 
-### [Sustainable
-            and Attainable: Zoox Unveils Autonomous Robotaxi](https://blogs.nvidia.com/blog/2020/12/17/zoox-autonomous-robotaxi-powered-by-nvidia/)
+### [Sustainable and Attainable: Zoox Unveils Autonomous Robotaxi](https://blogs.nvidia.com/blog/2020/12/17/zoox-autonomous-robotaxi-powered-by-nvidia/)
 
 Press release, Dec 17, "...Unlike current passenger vehicles
           that focus on the driver, Zoox is designed for riders. The
@@ -411,8 +390,7 @@ Press release, Dec 17, "...Unlike current passenger vehicles
           delivers the same experience — there's no bad seat in the
           house. Carriage seating also makes room for a wider aisle,
           allowing passengers to easily pass by each other without
-          getting up or contorting into awkward positions..."  [Read
-            more](https://blogs.nvidia.com/blog/2020/12/17/zoox-autonomous-robotaxi-powered-by-nvidia/) Hmmmm....
+          getting up or contorting into awkward positions..."  [Read more](https://blogs.nvidia.com/blog/2020/12/17/zoox-autonomous-robotaxi-powered-by-nvidia/) Hmmmm....
                 I guess, but... the vehicle itself seems to be just a
                 1st cut and pretty much a continuation of ZooX rather
                 than some new insight from Amazon.  Why is entry from
@@ -423,9 +401,7 @@ Press release, Dec 17, "...Unlike current passenger vehicles
                 replacement of the ICE & transmission with electric
                 motors.  Alain
 
-### [The
-            Station: Uber's 2020 evolution and QuantumScape's big
-            breakthrough](https://techcrunch.com/2020/12/14/the-station-ubers-2020-evolution-and-quantumscapes-big-breakthrough/)
+### [The Station: Uber's 2020 evolution and QuantumScape's big breakthrough](https://techcrunch.com/2020/12/14/the-station-ubers-2020-evolution-and-quantumscapes-big-breakthrough/)
 
 K. Korosec, Dec 14, The Station is a weekly newsletter
           dedicated to all things transportation. Sign up here — just
@@ -434,8 +410,7 @@ K. Korosec, Dec 14, The Station is a weekly newsletter
 
           Hi friends and new readers, welcome back to The Station, a
           newsletter dedicated to all the present and future ways people
-          and packages move from Point A to Point B...."  [Read
-            more](https://techcrunch.com/2020/12/14/the-station-ubers-2020-evolution-and-quantumscapes-big-breakthrough/) Hmmmm....
+          and packages move from Point A to Point B...."  [Read more](https://techcrunch.com/2020/12/14/the-station-ubers-2020-evolution-and-quantumscapes-big-breakthrough/) Hmmmm....
                 In case I've missed some things, Kirsten probably has it
                 here.  Alain
 
@@ -445,14 +420,12 @@ K. Korosec, Dec 14, The Station is a weekly newsletter
 
 ## Half-Baked
 
-### [](https://newatlas.com/automotive/walmart-safety-driver-autonomous-truck-tests/)  [Walmart
-              removes the safety driver from autonomous trucking tests](https://newatlas.com/automotive/walmart-safety-driver-autonomous-truck-tests/)
+###   [Walmart removes the safety driver from autonomous trucking tests](https://newatlas.com/automotive/walmart-safety-driver-autonomous-truck-tests/)
 
 N. Lavars, Dec 15, ".... The next phase of the
             trials will see these trips carried out without anybody
             onboard, beginning next year. ..." (Alain's
-              emphasis) [Read
-              more](https://newatlas.com/automotive/walmart-safety-driver-autonomous-truck-tests/) Hmmmm....
+              emphasis) [Read more](https://newatlas.com/automotive/walmart-safety-driver-autonomous-truck-tests/) Hmmmm....
                   Let's wait until the "next phase" actually starts
                   before we get too excited here.  The headline should
                   at best read:  "... In the Next
@@ -464,20 +437,15 @@ N. Lavars, Dec 15, ".... The next phase of the
 
                 font-family: Georgia, serif;">[4th](https://orfe.princeton.edu/conferences/sdc/)[Annual PrincetonSmartDrivingCar Summit](https://orfe.princeton.edu/conferences/sdc/)
 
-[Description of Weekly
-                  Series on Zoom](https://www.youtube.com/watch?v=pCc9N8o1dys&feature=youtu.be)
+[Description of Weekly Series on Zoom](https://www.youtube.com/watch?v=pCc9N8o1dys&feature=youtu.be)
 Next
                   Episode: noon ET
 
-[A Look into the Future
-
-                Expert Perspectives on Automated Driver Assistance and
-                Affordable Mobility](https://orfe.princeton.edu/conferences/sdc/session/20210107)
+[A Look into the Future Expert Perspectives on Automated Driver Assistance and Affordable Mobility](https://orfe.princeton.edu/conferences/sdc/session/20210107)
 Princeton University
 Princeton, NJ
 
-### [On the More Technical
-                Side](https://orfe.princeton.edu/~alaink/SmartDrivingCars/Papers/indexNew.html)
+### [On the More Technical Side](https://orfe.princeton.edu/~alaink/SmartDrivingCars/Papers/indexNew.html)
 
 [http://orfe.princeton.edu/~alaink/SmartDrivingCars/Papers/](https://orfe.princeton.edu/~alaink/SmartDrivingCars/Papers/indexNew.html)
 
@@ -487,9 +455,7 @@ These editions are sponsored by the
               SmartETFs Smart Transportation and Technology ETF, symbol
               MOTO. For more information head to [www.motoetf.com](https://gate.sc/?url=http%3A%2F%2Fwww.motoetf.com&token=314192-1-1579871872239)
 
-SmartDrivingCars [Pod-Cast
-            Episode 189](https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-189)  [Zoom-Cast Episode
-                  189](https://www.youtube.com/watch?v=r9ZtgZkjaLo&feature=youtu.be)
+SmartDrivingCars [Pod-Cast Episode 189](https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-189)  [Zoom-Cast Episode 189](https://www.youtube.com/watch?v=r9ZtgZkjaLo&feature=youtu.be)
 
 F. Fishkin, Dec. 11, "With the 4th Annual
           Princeton Smart Driving Cars Summit about to get underway...a
@@ -498,9 +464,7 @@ F. Fishkin, Dec. 11, "With the 4th Annual
           the wheel, is Apple planning a self-driving surprise and more.
           Join Princeton's Alain Kornhauser & co-host Fred Fishkin
           ...and subscribe!"
-SmartDrivingCars [Pod-Cast
-            Episode 188](https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-188)  [Zoom-Cast Episode
-                  188](https://www.youtube.com/watch?v=WVWz6F5CHH4&feature=youtu.be)
+SmartDrivingCars [Pod-Cast Episode 188](https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-188)  [Zoom-Cast Episode 188](https://www.youtube.com/watch?v=WVWz6F5CHH4&feature=youtu.be)
 
 F. Fishkin, Dec. 6, "The Nikola saga
           continues, AutoX goes fully driverless with robotaxis in
@@ -508,8 +472,7 @@ F. Fishkin, Dec. 6, "The Nikola saga
           University's Alain Kornhauser and co-host Fred Fishkin for
           Episode 188 of Smart Driving Cars."
 
-SmartDrivingCars [Pod-Cast
-            Episode 187](https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-187)  [Zoom-Cast Episode 187](https://youtu.be/eyGCKObQ4e0)
+SmartDrivingCars [Pod-Cast Episode 187](https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-187)  [Zoom-Cast Episode 187](https://youtu.be/eyGCKObQ4e0)
           w/Michael Sena,
 F. Fishkin, Nov 25, "What you should know about electric
           cars, climate change and more.  The Dispatcher publisher
@@ -517,8 +480,7 @@ F. Fishkin, Nov 25, "What you should know about electric
           Fred Fishkin in an eye opening edition of Smart Driving
           Cars.."
 
-SmartDrivingCars [Pod-Cast
-            Episode 186](https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-186)  [Zoom-Cast Episode 186](https://youtu.be/fTCCqRPWeDo) w/Kelly
+SmartDrivingCars [Pod-Cast Episode 186](https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-186)  [Zoom-Cast Episode 186](https://youtu.be/fTCCqRPWeDo) w/Kelly
           Funkhouser,
 F. Fishkin, Nov 24, "When it comes to active driver
           assistance systems, what works and what needs improvement?
@@ -527,9 +489,7 @@ F. Fishkin, Nov 24, "When it comes to active driver
           Consumer Reports.  She joins Princeton's Alain Kornhauser and
           co-host Fred Fishkin for episode 186 of Smart Driving Cars."
 
-SmartDrivingCars [Pod-Cast
-            Episode 185](https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-185)  [Zoom-Cast Episode
-                  185](https://youtu.be/OWRRQb7VWLs) w/Dan Smith,
+SmartDrivingCars [Pod-Cast Episode 185](https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-185)  [Zoom-Cast Episode 185](https://youtu.be/OWRRQb7VWLs) w/Dan Smith,
 F. Fishkin, Nov 20, "Only Waymo has been
           transporting customers in driverless vehicles without a safety
           monitor on board.   What goes into that kind of decision?
@@ -538,9 +498,7 @@ F. Fishkin, Nov 20, "Only Waymo has been
           edition of Smart Driving Cars."  Alexa,
                   play the Smart Driving Cars podcast!".  Ditto with Siri, and GooglePlay
                     ...  Alain
-SmartDrivingCars [Pod-Cast
-            Episode 184](https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-184)  [Zoom-Cast Episode
-                  184](https://youtu.be/fTCCqRPWeDo)  w/Marjory Blumenthal,  Rand
+SmartDrivingCars [Pod-Cast Episode 184](https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-184)  [Zoom-Cast Episode 184](https://youtu.be/fTCCqRPWeDo)  w/Marjory Blumenthal,  Rand
 
 F. Fishkin, Nov 20, "So when are driverless
           vehicles safe enough to be deployed? Senior Rand Corporation
@@ -550,9 +508,7 @@ F. Fishkin, Nov 20, "So when are driverless
                   play the Smart Driving Cars podcast!".  Ditto with Siri, and GooglePlay
                     ...  Alain
 
-SmartDrivingCars [Pod-Cast
-              Episode 183](https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-183) [Zoom-Cast
-                    Episode 183](https://youtu.be/rr5lRSqJ0gY)   w/Kirsten
+SmartDrivingCars [Pod-Cast Episode 183](https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-183) [Zoom-Cast Episode 183](https://youtu.be/rr5lRSqJ0gY)   w/Kirsten
             Korosec
 F. Fishkin, Nov 13, "Rivian's hands free
             driver assistance will be standard equipment...while Ford
@@ -564,9 +520,7 @@ F. Fishkin, Nov 13, "Rivian's hands free
                     play the Smart Driving Cars podcast!".  Ditto with Siri, and GooglePlay
                       ...  Alain
 
-SmartDrivingCars [Pod-Cast
-            Episode 181](https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-181) [Zoom-Cast
-            Episode 181](https://youtu.be/qEuzTVpApX4)  w/Sheldon Sandler & Glenn Mercer
+SmartDrivingCars [Pod-Cast Episode 181](https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-181) [Zoom-Cast Episode 181](https://youtu.be/qEuzTVpApX4)  w/Sheldon Sandler & Glenn Mercer
         F. Fishkin, Oct. 30, "Waymo releases self driving data...while
         traditional car dealers enjoy surprisingly strong profits during
         the pandemic.   Why?  What about the coming autonomous
@@ -575,9 +529,7 @@ SmartDrivingCars [Pod-Cast
         Smart Driving Cars with Princeton's Alain Kornhauser and co-host
         Fred Fishkin.  "
 
-SmartDrivingCars  [Pod-Cast
-            Episode 180](https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-180)  [Zoom-Cast Episode
-                  180](https://youtu.be/9NvdetmCQik) w/John Rich, Ford/Argo, part
+SmartDrivingCars  [Pod-Cast Episode 180](https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-180)  [Zoom-Cast Episode 180](https://youtu.be/9NvdetmCQik) w/John Rich, Ford/Argo, part
           2
 
         F. Fishkin, Oct. 15, "Ford and Argo AI have unveiled their next
@@ -587,219 +539,126 @@ SmartDrivingCars  [Pod-Cast
         to unveil the technology and the company's self driving business
         plans."
 
-SmartDrivingCars [Pod-Cast
-            Episode 179](https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-179) [Zoom-Cast Episode
-                  179](https://youtu.be/ngpKFmQNsxs)  w/John Rich, Ford/Argo
-SmartDrivingCars  [Pod-Cast
-            Episode 178](https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-178)  [Zoom-Cast Episode
-                  178](https://youtu.be/y41F1q0xiKI) w/Andrew Hawkins, Verge
-SmartDrivingCars [Pod-Cast
-            Episode 177](https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-177)    [Zoom-Cast Episode
-                  177](https://youtu.be/SB4Xg4qsTiQ)
+SmartDrivingCars [Pod-Cast Episode 179](https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-179) [Zoom-Cast Episode 179](https://youtu.be/ngpKFmQNsxs)  w/John Rich, Ford/Argo
+SmartDrivingCars  [Pod-Cast Episode 178](https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-178)  [Zoom-Cast Episode 178](https://youtu.be/y41F1q0xiKI) w/Andrew Hawkins, Verge
+SmartDrivingCars [Pod-Cast Episode 177](https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-177)    [Zoom-Cast Episode 177](https://youtu.be/SB4Xg4qsTiQ)
 
 SmartDrivingCars [Pod-Cast Episode 176](https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-176)  [Zoom-Cast Episode 176](https://youtu.be/lHjSTXH-GGchttps://www.youtube.com/watch?v=aHvG6Aqt6fk&feature=youtu.be)
           w/Marc Scribner
 
-SmartDrivingCars [Pod-Cast Episode 175](https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-175)   [Zoom-Cast
-                    Episode 175](https://youtu.be/lHjSTXH-GGc)  w/Michael Sena
+SmartDrivingCars [Pod-Cast Episode 175](https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-175)   [Zoom-Cast Episode 175](https://youtu.be/lHjSTXH-GGc)  w/Michael Sena
 
-SmartDrivingCars [Pod-Cast
-            Episode 174](https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-174) [Zoom-Cast
-            Episode 174](https://youtu.be/AfRb9B-9boc) w/Kelly Funkhouser, Consumer Reports
+SmartDrivingCars [Pod-Cast Episode 174](https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-174) [Zoom-Cast Episode 174](https://youtu.be/AfRb9B-9boc) w/Kelly Funkhouser, Consumer Reports
 
-SmartDrivingCars [Pod-Cast
-            Episode 173](https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-173) [Zoom-Cast
-            Episode 173](https://youtu.be/pvFnTmw-yz0)  w/Nathanial Beuse
-SmartDrivingCars [Pod-Cast
-            Episode 172](https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-172)[Zoom-Cast
-            Episode 172](https://youtu.be/rAZyquSmvhQ)  Special Edition w/Danny Shapiro
+SmartDrivingCars [Pod-Cast Episode 173](https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-173) [Zoom-Cast Episode 173](https://youtu.be/pvFnTmw-yz0)  w/Nathanial Beuse
+SmartDrivingCars [Pod-Cast Episode 172](https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-172)[Zoom-Cast Episode 172](https://youtu.be/rAZyquSmvhQ)  Special Edition w/Danny Shapiro
 
-SmartDrivingCars  [Pod-Cast
-            Episode 171](https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-171)[Zoom-Cast
-            Episode 171](https://youtu.be/kR8V_eWfZa8) w/Henry Greenidge
+SmartDrivingCars  [Pod-Cast Episode 171](https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-171)[Zoom-Cast Episode 171](https://youtu.be/kR8V_eWfZa8) w/Henry Greenidge
 
-SmartDrivingCars  [PodCast
-            Episode 170](https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-170)  [ZoomCast
-            Episode170](https://youtu.be/1BhwAGoSKzw)  w/Michael Sena
-SmartDrivingCars  [PodCast
-            Episode 169](https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-169) [ZoomCast
-            Episode 169](https://youtu.be/MoDWQ5cPsjE)  w/Anthony Townsend
-SmartDrivingCars  [PodCast
-            Episode 168](https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-168) [ZoomCast
-            Episode 168](https://youtu.be/4Z3oCc1MBCU)  w/Olaf Sakkers
-SmartDrivingCars  [PodCast
-            Episode167](https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-167)  [ZoomCast
-            Episode167](https://youtu.be/tXIqGC9meH8)  w/Robin Chase, Carlos Pardo & Daniel
+SmartDrivingCars  [PodCast Episode 170](https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-170)  [ZoomCast Episode170](https://youtu.be/1BhwAGoSKzw)  w/Michael Sena
+SmartDrivingCars  [PodCast Episode 169](https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-169) [ZoomCast Episode 169](https://youtu.be/MoDWQ5cPsjE)  w/Anthony Townsend
+SmartDrivingCars  [PodCast Episode 168](https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-168) [ZoomCast Episode 168](https://youtu.be/4Z3oCc1MBCU)  w/Olaf Sakkers
+SmartDrivingCars  [PodCast Episode167](https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-167)  [ZoomCast Episode167](https://youtu.be/tXIqGC9meH8)  w/Robin Chase, Carlos Pardo & Daniel
           Sperling
-SmartDrivingCars [PodCast
-            Episode 166](https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-166)[ZoomCast
-            Episode 166](https://youtu.be/22ciz5Yr6Pg) w/Jay Rodgers'95, CEO Local Motors
+SmartDrivingCars [PodCast Episode 166](https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-166)[ZoomCast Episode 166](https://youtu.be/22ciz5Yr6Pg) w/Jay Rodgers'95, CEO Local Motors
 
           Episode 005   [AmaZooks](https://viodi.com/2020/07/21/first-packages-then-people-potential-implications-of-the-amazon-zoox-deal/)
 
-* [Zoom-inar
-              Video (Video replay) AmaZooks](https://www.youtube.com/watch?v=hAxIbmmnJ08&feature=emb_err_woyt)
+* [Zoom-inar Video (Video replay) AmaZooks](https://www.youtube.com/watch?v=hAxIbmmnJ08&feature=emb_err_woyt)
 
-* [PodCast
-              (Audio Only)   AmaZooks](https://soundcloud.com/smartdrivingcar/driving-the-debate-amazon-zoox-and-beyond)
+* [PodCast (Audio Only)   AmaZooks](https://soundcloud.com/smartdrivingcar/driving-the-debate-amazon-zoox-and-beyond)
 
-SmartDrivingCars [PodCast
-            Episode 165](https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-165),[ZoomCast
-            Episode165](https://youtu.be/5wwxVHKkFPk) w/Michael Sena
+SmartDrivingCars [PodCast Episode 165](https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-165),[ZoomCast Episode165](https://youtu.be/5wwxVHKkFPk) w/Michael Sena
 
-SmartDrivingCars [Pod-Cast
-            164 Episode 164](https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-164),   [Zoom-Cast
-            Episode 163](https://www.youtube.com/watch?v=VxFEz8tqHJo&feature=youtu.be) w/Robbie Diamond
+SmartDrivingCars [Pod-Cast 164 Episode 164](https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-164),   [Zoom-Cast Episode 163](https://www.youtube.com/watch?v=VxFEz8tqHJo&feature=youtu.be) w/Robbie Diamond
 
-SmartDrivingCars  [Pod-Cast
-            Episode 163](https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-163), [Zoom-Cast
-            Episode 16](https://youtu.be/O5c8y-w4EdE)[3](https://youtu.be/O5c8y-w4EdE)
+SmartDrivingCars  [Pod-Cast Episode 163](https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-163), [Zoom-Cast Episode 16](https://youtu.be/O5c8y-w4EdE)[3](https://youtu.be/O5c8y-w4EdE)
           w/Henry Greenidge
-SmartDrivingCars  [Pod-Cast
-            Episode 162,](https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-161)  [Zoom-Cast
-            Episode 162](https://youtu.be/PHw_Jz9pP-0)  w/Cliff Winston
+SmartDrivingCars  [Pod-Cast Episode 162,](https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-161)  [Zoom-Cast Episode 162](https://youtu.be/PHw_Jz9pP-0)  w/Cliff Winston
 
-          Episode 004  [Insurance:
-            For or Against SmartDrivingCars?](https://www.youtube.com/watch?v=UHlPaNmjeag&feature=youtu.be)
+          Episode 004  [Insurance: For or Against SmartDrivingCars?](https://www.youtube.com/watch?v=UHlPaNmjeag&feature=youtu.be)
 
-* [Zoom-inar
-              (Video replay)  Insurance: For or Against
-                SmartDrivingCars?](https://www.youtube.com/watch?v=UHlPaNmjeag&feature=youtu.be)
+* [Zoom-inar (Video replay)  Insurance: For or Against SmartDrivingCars?](https://www.youtube.com/watch?v=UHlPaNmjeag&feature=youtu.be)
 
-* [PodCast
-              (Audio Only) Insurance: For or Against
-                SmartDrivingCars?](https://soundcloud.com/smartdrivingcar/smart-driving-cars-zoom-tank-insurancefor-or-against-smart-driving-cars)
+* [PodCast (Audio Only) Insurance: For or Against SmartDrivingCars?](https://soundcloud.com/smartdrivingcar/smart-driving-cars-zoom-tank-insurancefor-or-against-smart-driving-cars)
 
-SmartDrivingCars [Pod-Cast
-            Episode 161](https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-161),[Zoom-Cast
-            Episode 161](https://youtu.be/Cf75lnDthLI)   w/Alberto Stochino
+SmartDrivingCars [Pod-Cast Episode 161](https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-161),[Zoom-Cast Episode 161](https://youtu.be/Cf75lnDthLI)   w/Alberto Stochino
 
-SmartDrivingCars [Pod-Cast
-              Episode 160](https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-160), [Zoom-Cast
-              Episode 160](https://youtu.be/98QX3nmhWMc)  w/Jessica Cicchino
+SmartDrivingCars [Pod-Cast Episode 160](https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-160), [Zoom-Cast Episode 160](https://youtu.be/98QX3nmhWMc)  w/Jessica Cicchino
 
-SmartDrivingCars  [Pod-Cast
-            Episode 159](https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-159),  [Zoom-Cast
-            Episode 159](https://youtu.be/bVjCME87XeU)  w/Kara Kockelman
+SmartDrivingCars  [Pod-Cast Episode 159](https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-159),  [Zoom-Cast Episode 159](https://youtu.be/bVjCME87XeU)  w/Kara Kockelman
   DrivingTheDebate Episode
-          003  [Everyone's for
-            Connectivity; but...](https://youtu.be/DMNLH_fkcI4)
+          003  [Everyone's for Connectivity; but...](https://youtu.be/DMNLH_fkcI4)
 
-* [Zoom-inar (Video
-              replay)  Everyone's for Connectivity; but...](https://youtu.be/DMNLH_fkcI4)
+* [Zoom-inar (Video replay)  Everyone's for Connectivity; but...](https://youtu.be/DMNLH_fkcI4)
 
-* [PodCast
-              (Audio Only) Everyone's for Connectivity; but...](https://soundcloud.com/smartdrivingcar/zoom-tank-06-02-20-everyone-is-for-connectivitybut)
+* [PodCast (Audio Only) Everyone's for Connectivity; but...](https://soundcloud.com/smartdrivingcar/zoom-tank-06-02-20-everyone-is-for-connectivitybut)
 
-SmartDrivingCars [Pod-Cast
-            Episode 158](https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-158),  [Zoom-Cast
-            Episode 158](https://www.youtube.com/watch?v=T9HPSTVIrVY)  w/Chunka Mui
+SmartDrivingCars [Pod-Cast Episode 158](https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-158),  [Zoom-Cast Episode 158](https://www.youtube.com/watch?v=T9HPSTVIrVY)  w/Chunka Mui
 
-SmartDrivingCars [Pod-Cast
-            Episode 157](https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-157),  [Zoom-Cast
-            Episode 157](https://youtu.be/AQbuiJ70c7U) w/Grayson Brulte
+SmartDrivingCars [Pod-Cast Episode 157](https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-157),  [Zoom-Cast Episode 157](https://youtu.be/AQbuiJ70c7U) w/Grayson Brulte
 
   DrivingTheDebate
-            Episode 002  [The
-                Future of Public Roadway Transit](https://www.youtube.com/watch?v=3sqBZZzezUg)
+            Episode 002  [The Future of Public Roadway Transit](https://www.youtube.com/watch?v=3sqBZZzezUg)
 
-* [Zoom-inar
-              Video (Video replay)](https://www.youtube.com/watch?v=3sqBZZzezUg)[Smart
-                Driving Cars: The Future of Public Roadway Transit](https://www.youtube.com/watch?v=3sqBZZzezUg)
+* [Zoom-inar Video (Video replay)](https://www.youtube.com/watch?v=3sqBZZzezUg)[Smart Driving Cars: The Future of Public Roadway Transit](https://www.youtube.com/watch?v=3sqBZZzezUg)
 
-* [PodCast
-              (Audio Only) Smart Driving Cars: The Future of Public
-                Roadway Transit](https://soundcloud.com/smartdrivingcar/zoom-tank-debate-2-the-future-of-public-roadway-transit)SmartDrivingCars
+* [PodCast (Audio Only) Smart Driving Cars: The Future of Public Roadway Transit](https://soundcloud.com/smartdrivingcar/zoom-tank-debate-2-the-future-of-public-roadway-transit)SmartDrivingCars
 
-* [Pod-Cast
-              Episode 156](https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-156),  [Cars
-              Zoom-Cast Episode 156](https://www.youtube.com/watch?v=a87wUmrIRII)  w/Danny Shapiro2
+* [Pod-Cast Episode 156](https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-156),  [Cars Zoom-Cast Episode 156](https://www.youtube.com/watch?v=a87wUmrIRII)  w/Danny Shapiro2
 
-SmartDrivingCars [Pod-Cast
-            Episode 155](https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-155),[Zoom-Cast
-            Episode 155](https://www.youtube.com/watch?v=1hJBUul2ogY&feature=youtu.be)  w/Alex Roy2
-SmartDrivingCars [Pod-Cast
-            Episode 154](https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-154), [Zoom-Cast
-            Episode 154](https://youtu.be/LmvKan80GOE)   w/Dan Sperling
+SmartDrivingCars [Pod-Cast Episode 155](https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-155),[Zoom-Cast Episode 155](https://www.youtube.com/watch?v=1hJBUul2ogY&feature=youtu.be)  w/Alex Roy2
+SmartDrivingCars [Pod-Cast Episode 154](https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-154), [Zoom-Cast Episode 154](https://youtu.be/LmvKan80GOE)   w/Dan Sperling
 
    DrivingTheDebate
-            Episode 001 [The Driverless
-              "New Normal" Debate](http://zoom-tank.com/)
+            Episode 001 [The Driverless "New Normal" Debate](http://zoom-tank.com/)
 
-* [Zoom
-                Video](https://www.youtube.com/watch?v=d19a8ueaXN0&feature=youtu.be)
+* [Zoom Video](https://www.youtube.com/watch?v=d19a8ueaXN0&feature=youtu.be)
 
-* [SmartDrivingCar
-                PodCast (Audio Only) Smart Driving Cars: The
-                  Driverless New Normal Debate](https://soundcloud.com/smartdrivingcar/smart-driving-cars-the-driverless-new-normal-debate)
+* [SmartDrivingCar PodCast (Audio Only) Smart Driving Cars: The Driverless New Normal Debate](https://soundcloud.com/smartdrivingcar/smart-driving-cars-the-driverless-new-normal-debate)
 
-* [Zoom
-                Audience Questions](https://www.dropbox.com/s/mtkll891rfxlb09/Q%26AZoom-inar001NoNames.xlsx?dl=0) (Only a few were addressed in
+* [Zoom Audience Questions](https://www.dropbox.com/s/mtkll891rfxlb09/Q%26AZoom-inar001NoNames.xlsx?dl=0) (Only a few were addressed in
               Zoom-inar)
 
-* [Zoom
-                Audience Comments](https://www.dropbox.com/s/6c9ba6qrztce4og/Zoom-inar001_CommentsNoNames.xlsx?dl=0)
+* [Zoom Audience Comments](https://www.dropbox.com/s/6c9ba6qrztce4og/Zoom-inar001_CommentsNoNames.xlsx?dl=0)
 
-* [YouTube
-                Video](https://www.youtube.com/watch?v=d19a8ueaXN0)
+* [YouTube Video](https://www.youtube.com/watch?v=d19a8ueaXN0)
 
-SmartDrivingCars  [Pod-Cast
-            Episode 153](https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-153), [Zoom-Cast
-            Episode 15](https://www.youtube.com/watch?v=8nW3AcoFeA8&feature=youtu.be)[3](https://www.youtube.com/watch?v=8nW3AcoFeA8&feature=youtu.be)
+SmartDrivingCars  [Pod-Cast Episode 153](https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-153), [Zoom-Cast Episode 15](https://www.youtube.com/watch?v=8nW3AcoFeA8&feature=youtu.be)[3](https://www.youtube.com/watch?v=8nW3AcoFeA8&feature=youtu.be)
           w/Dick Mudge2
 
-SmartDrivingCars [Pod-Cast
-              Episode 152,](https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-152)[Zoom-Cast
-              Episode 15](https://youtu.be/xuIbtSJjDck)[2](https://youtu.be/xuIbtSJjDck)
+SmartDrivingCars [Pod-Cast Episode 152,](https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-152)[Zoom-Cast Episode 15](https://youtu.be/xuIbtSJjDck)[2](https://youtu.be/xuIbtSJjDck)
             w/Brad Templeton
 
-[](https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-148)
-SmartDrivingCars [Podcast
-              Episode 148](https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-148)  [Zoom-Cast
-              Episode 148](https://youtu.be/VkzPm5GwEz4) w/Richard Bishop
 
-SmartDrivingCars [Podcast
-              Episode 147 - Michael Sena](https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-147)
-SmartDrivingCars [Podcast
-              Episode 142 - J. Hughes](https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-142)
-SmartDrivingCars [Podcast
-              Episode 141- A. Roy](https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-141)
-SmartDrivingCars [Podcast
-              Episode 139- Randal O'Toole](https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-139)
-SmartDrivingCars [Podcast
-              Episode 135 - with Jim Atkinson](https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-135)
-SmartDrivingCars [Podcast
-                Episode 130 with Dick Mudge & Michael Sena](https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-130)
+SmartDrivingCars [Podcast Episode 148](https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-148)  [Zoom-Cast Episode 148](https://youtu.be/VkzPm5GwEz4) w/Richard Bishop
+
+SmartDrivingCars [Podcast Episode 147 - Michael Sena](https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-147)
+SmartDrivingCars [Podcast Episode 142 - J. Hughes](https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-142)
+SmartDrivingCars [Podcast Episode 141- A. Roy](https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-141)
+SmartDrivingCars [Podcast Episode 139- Randal O'Toole](https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-139)
+SmartDrivingCars [Podcast Episode 135 - with Jim Atkinson](https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-135)
+SmartDrivingCars [Podcast Episode 130 with Dick Mudge & Michael Sena](https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-130)
 
 SmartDrivingCars [Podcast Episode 112 - J. Hardiman NJM](https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-112)
 SmartDrivingCars [Podcast Episode 110 - Lance Elliot](https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-110)
 SmartDrivingCars [Podcast Episode 108 3rd Summit Wrapup](https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-108)
-SmartDrivingCars [Podcast Episode 107 3rd Summit Leilei
-                Shinohara & Staff Sergeant Terence McDonnell](https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-107)
-SmartDrivingCars [Podcast Episode 106 3rd Summit David
-                Kidd & Cecillia Feeley](https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-106)
-SmartDrivingCars [Podcast Episode 104 3rd Summit Anil
-                Lewis & Katherine Freund](https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-104)
+SmartDrivingCars [Podcast Episode 107 3rd Summit Leilei Shinohara & Staff Sergeant Terence McDonnell](https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-107)
+SmartDrivingCars [Podcast Episode 106 3rd Summit David Kidd & Cecillia Feeley](https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-106)
+SmartDrivingCars [Podcast Episode 104 3rd Summit Anil Lewis & Katherine Freund](https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-104)
 SmartDrivingCars  [Podcast Episode 97 - Michael Sena'69](https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-97)
-SmartDrivingCars [Episode
-                71-Ralf Nader'55](https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-71)
-SmartDrivingCars [Podcast
-                Episode 69 - Chunka Mui](https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-69)
-SmartDrivingCars [Podcast
-                Episode 65 - Bernard Soriano, CA DMV](https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-65)
-SmartDrivingCars [Podcast
-                Episode 58-Keith Code,](https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-58)[Motorcycles](https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-58)
-SmartDrivingCars [Podcast
-                Episode 55-Larry Burns, Autonomy](https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-55)
+SmartDrivingCars [Episode 71-Ralf Nader'55](https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-71)
+SmartDrivingCars [Podcast Episode 69 - Chunka Mui](https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-69)
+SmartDrivingCars [Podcast Episode 65 - Bernard Soriano, CA DMV](https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-65)
+SmartDrivingCars [Podcast Episode 58-Keith Code,](https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-58)[Motorcycles](https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-58)
+SmartDrivingCars [Podcast Episode 55-Larry Burns, Autonomy](https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-55)
 
 Recent Highlights
               of:
 
                   December 11, 2020
 
-  [Uber,
-              After Years of Trying, Is Handing Off Its Self-Driving Car
-              Project](https://www.nytimes.com/2020/12/07/technology/uber-self-driving-car-project.html)
+  [Uber, After Years of Trying, Is Handing Off Its Self-Driving Car Project](https://www.nytimes.com/2020/12/07/technology/uber-self-driving-car-project.html)
 C. Metz & K. Conger, Dec 7, "Uber, which spent hundreds
             of millions of dollars on a self-driving car project that
             executives once believed was a key to becoming profitable,
@@ -819,13 +678,11 @@ C. Metz & K. Conger, Dec 7, "Uber, which spent hundreds
             projects, which have received billions in investments from
             Silicon Valley and automakers but have not produced the
             fleets of robotic vehicles some thought would be on the
-            streets by now...." [Read
-              more](https://www.nytimes.com/2020/12/07/technology/uber-self-driving-car-project.html) Hmmmm...
+            streets by now...." [Read more](https://www.nytimes.com/2020/12/07/technology/uber-self-driving-car-project.html) Hmmmm...
                   Actually a good article.  Alain
 
               December 04, 2020
-  [Nikola
-            Teaches GM a Lesson](https://www.wsj.com/articles/nikola-teaches-gm-a-lesson-11606760549)
+  [Nikola Teaches GM a Lesson](https://www.wsj.com/articles/nikola-teaches-gm-a-lesson-11606760549)
 S. Wilmot, Nov 30, "Nikola Corp. NKLA 0.76% isn't turning out
           to be the next Tesla that investors—and General Motors GM
           -0.67% —were hoping for.
@@ -849,14 +706,10 @@ Detroit's biggest auto maker had planned to take an equity
           "Tre." It hopes to start full-scale production in the fourth
           quarter of next year in Germany and in early 2022 in Coolidge,
           Ariz. Hydrogen trucks won't come before 2023, and in Europe
-          Nikola is using Bosch as its fuel-cell supplier.    ..."  [Read
-            more](https://www.wsj.com/articles/nikola-teaches-gm-a-lesson-11606760549)
-                Hmmmm... Lessons for many in this endeavor.  See also[Andrew
-                  Hawkin's take](https://www.theverge.com/2020/11/30/21726594/gm-nikola-deal-equity-badger-truck-hydrogen) as well as [David
-                  Morris'](https://fortune.com/2020/11/30/nikola-gm-deal-collapses-devastating-news/).  Alain
+          Nikola is using Bosch as its fuel-cell supplier.    ..."  [Read more](https://www.wsj.com/articles/nikola-teaches-gm-a-lesson-11606760549)
+                Hmmmm... Lessons for many in this endeavor.  See also[Andrew Hawkin's take](https://www.theverge.com/2020/11/30/21726594/gm-nikola-deal-equity-badger-truck-hydrogen) as well as [David Morris'](https://fortune.com/2020/11/30/nikola-gm-deal-collapses-devastating-news/).  Alain
 
-  [Nikola
-          stock plunge continues as insider lockup period ends](https://arstechnica.com/tech-policy/2020/12/nikola-stock-plunge-continues-as-insider-lockup-period-ends/)
+  [Nikola stock plunge continues as insider lockup period ends](https://arstechnica.com/tech-policy/2020/12/nikola-stock-plunge-continues-as-insider-lockup-period-ends/)
       T. Lee, Dec 1, "In June, aspiring hydrogen truckmaker Nikola
       became a publicly traded company thanks to a merger with a
       special-purpose acquisition company. That transaction included a
@@ -867,14 +720,12 @@ Detroit's biggest auto maker had planned to take an equity
  Today is the first day those insiders can sell their shares,
         and Nikola's stock price is down 15 percent. That's on top of
         yesterday's 26 percent decline after Nikola announced it was
-        canceling its Badger pickup truck...." [Read
-          more](https://arstechnica.com/tech-policy/2020/12/nikola-stock-plunge-continues-as-insider-lockup-period-ends/) Hmmmm...
+        canceling its Badger pickup truck...." [Read more](https://arstechnica.com/tech-policy/2020/12/nikola-stock-plunge-continues-as-insider-lockup-period-ends/) Hmmmm...
               More lessons.  Alain
 
                     November 26, 2020
 
- [The
-                Vehicle Fuel Debate Has Been Hijacked](https://www.dropbox.com/s/lw27g9qlolrjkpb/The%20Dispatcher_December%202020.pdf?dl=0)
+ [The Vehicle Fuel Debate Has Been Hijacked](https://www.dropbox.com/s/lw27g9qlolrjkpb/The%20Dispatcher_December%202020.pdf?dl=0)
 
 M. Sena, Nov. 19, "The lead article this
             month was inspired by a diagram I received showing how much
@@ -902,18 +753,14 @@ M. Sena, Nov. 19, "The lead article this
             spin in the other direction. In Musings of a Dispatcher I
             have mused about who is going to be sitting in all of those
             driverless vehicles. Will they be from Mars or from
-            Venus?..."  [Read
-              more](https://www.dropbox.com/s/lw27g9qlolrjkpb/The%20Dispatcher_December%202020.pdf?dl=0)Hmmmm... What can I say??
+            Venus?..."  [Read more](https://www.dropbox.com/s/lw27g9qlolrjkpb/The%20Dispatcher_December%202020.pdf?dl=0)Hmmmm... What can I say??
                   Another great edition of the Dispatcher. Be sure to
-                  read all the way through including  "[Musings of a
-                  Dispatcher: Cars are from Mars](https://www.dropbox.com/s/lw27g9qlolrjkpb/The%20Dispatcher_December%202020.pdf?dl=0)".  Enjoy and
+                  read all the way through including  "[Musings of a Dispatcher: Cars are from Mars](https://www.dropbox.com/s/lw27g9qlolrjkpb/The%20Dispatcher_December%202020.pdf?dl=0)".  Enjoy and
                   listen/watch the following [Pod](https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-187)/[Zoom](https://youtu.be/eyGCKObQ4e0)-casts.
                   Alain
                 November 20, 2020
 
-  [Active
-          Driving Assistance Systems: Test Results and Design
-          Recommendations](https://www.dropbox.com/s/8wpnt54t1t8xpfg/consumer-reports-active-driving-assistance-systems-november-16-2020.pdf?dl=0)
+  [Active Driving Assistance Systems: Test Results and Design Recommendations](https://www.dropbox.com/s/8wpnt54t1t8xpfg/consumer-reports-active-driving-assistance-systems-november-16-2020.pdf?dl=0)
 
 Staff, Nov. 2020, "In line with Consumer
         Reports"  mission to create a fair, safe, and consumer-driven
@@ -943,10 +790,8 @@ Staff, Nov. 2020, "In line with Consumer
         driver to use Adaptive Cruise Control (ACC) and Lane Keeping
         Assistance (LKA) to simultaneously control both the speed and
         steering of the vehicle. An industry webinar was also
-        held...."  [Read
-          more](https://www.dropbox.com/s/8wpnt54t1t8xpfg/consumer-reports-active-driving-assistance-systems-november-16-2020.pdf?dl=0) Hmmmm....
-              A MUST read along with "[Cadillac's
-              Super Cruise Outperforms Other Driving Assistance Systems](https://www.consumerreports.org/car-safety/cadillac-super-cruise-outperforms-other-active-driving-assistance-systems/)".  Most
+        held...."  [Read more](https://www.dropbox.com/s/8wpnt54t1t8xpfg/consumer-reports-active-driving-assistance-systems-november-16-2020.pdf?dl=0) Hmmmm....
+              A MUST read along with "[Cadillac's Super Cruise Outperforms Other Driving Assistance Systems](https://www.consumerreports.org/car-safety/cadillac-super-cruise-outperforms-other-active-driving-assistance-systems/)".  Most
               unfortunately, CR has not picked up on my main complaint
               about ACC:  Tapping of the brakes by the driver turns off
               the ACC!  This is BAD!!!  Even the hardest, let alone the

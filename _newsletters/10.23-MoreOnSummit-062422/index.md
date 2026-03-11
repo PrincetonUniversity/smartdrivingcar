@@ -111,13 +111,13 @@ SmartDrivingCars [ZoomCast Episode 2](https://www.youtube.com/watch?v=xFegxpeq0G
 
 F. Fishkin, Feb. 11, "The engaging debate over disengagements. In episode 255 of Smart Driving Cars, Forbes.com Sr. Transportation Contributor Brad Templeton engages with Princeton's Alain Kornhauser over the path to the future of autonomous mobility. The latest data on disengagements from companies testing self driving vehicles in California, Tesla, Cruise, Waymo and New Jersey begins funding Trenton MOVES...are part of the spirited discussion with co-host Fred Fishkin."
 
-SmartDrivingCars [Pod-Cast Episode 254](https://open.spotify.com/episode/1XaAXc0JHiEDMyn4VQOpl3), [](https://www.youtube.com/watch?v=LGezxqtbyBY) [Zoom-Cast Episode 2](https://www.youtube.com/watch?v=LGezxqtbyBY) [5](https://www.youtube.com/watch?v=LGezxqtbyBY) [4](https://www.youtube.com/watch?v=LGezxqtbyBY) w/Alex Roy
+SmartDrivingCars [Pod-Cast Episode 254](https://open.spotify.com/episode/1XaAXc0JHiEDMyn4VQOpl3),  [Zoom-Cast Episode 2](https://www.youtube.com/watch?v=LGezxqtbyBY) [5](https://www.youtube.com/watch?v=LGezxqtbyBY) [4](https://www.youtube.com/watch?v=LGezxqtbyBY) w/Alex Roy
 
 ###
 
 F. Fishkin, Feb. 4, "Why Self Driving Isn't a Race, It's a Game. That's what Alex Roy, Director of Special Projects at Argo AI writes at [www.groundtruthautonomy.com.Alex](http://www.groundtruthautonomy.com.alex/) joins Princeton's Alain Kornhauser and co-host Fred Fishkin for the latest Smart Driving Cars for a wide ranging discussion on that plus the latest on Trenton Moves, FreightWaves, Tesla, Waymo, Cruise, Toyota and more."
 
-SmartDrivingCars [Pod-Cast Episode 253](https://anchor.fm/smartdrivingcars/episodes/Smart-Driving-Cars-Episode-253-e1dhsgu), [](https://www.youtube.com/watch?v=64fptNGcUFI) [Zoom-Cast Episode 2](https://www.youtube.com/watch?v=Uv9XHHpRAss) [5](https://www.youtube.com/watch?v=Uv9XHHpRAss) [3](https://www.youtube.com/watch?v=Uv9XHHpRAss) w/Michael Sena, Editor of The Dispatcher
+SmartDrivingCars [Pod-Cast Episode 253](https://anchor.fm/smartdrivingcars/episodes/Smart-Driving-Cars-Episode-253-e1dhsgu),  [Zoom-Cast Episode 2](https://www.youtube.com/watch?v=Uv9XHHpRAss) [5](https://www.youtube.com/watch?v=Uv9XHHpRAss) [3](https://www.youtube.com/watch?v=Uv9XHHpRAss) w/Michael Sena, Editor of The Dispatcher
 
 ###
 

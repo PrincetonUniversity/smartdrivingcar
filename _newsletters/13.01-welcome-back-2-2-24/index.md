@@ -39,8 +39,7 @@ And,
             Spring.   Now, finally, on to the 13th year of
             the SmartDrivingCars eLetter.   Alain
 
-[The Real Case for Driverless
-                Mobility](https://www.audible.com/pd/The-Real-Case-for-Driverless-Mobility-Audiobook/B0D9PJY6MW?eac_link=ZoLH4Nc4tFbA&ref=web_search_eac_asin_1&eac_selected_type=asin&eac_selected=B0D9PJY6MW&qid=Jjuo8XtoL1&eac_id=142-9434497-3046660_Jjuo8XtoL1&sr=1-1)
+[The Real Case for Driverless Mobility](https://www.audible.com/pd/The-Real-Case-for-Driverless-Mobility-Audiobook/B0D9PJY6MW?eac_link=ZoLH4Nc4tFbA&ref=web_search_eac_asin_1&eac_selected_type=asin&eac_selected=B0D9PJY6MW&qid=Jjuo8XtoL1&eac_id=142-9434497-3046660_Jjuo8XtoL1&sr=1-1)
 
 Narrated
               by Fred Fishkin, Available now
@@ -48,12 +47,11 @@ Narrated
 [Published](https://www.amazon.com/Real-Case-Driverless-Mobility-Vehicles/dp/0443236852/ref=sr_1_1?crid=1XSXZ611C2JCN&keywords=Kornhauser+sena&qid=1707095108&sprefix=kornhauser+sena%2Caps%2C76&sr=8-1&ufe=app_do%3Aamzn1.fos.18ed3cb5-28d5-4975-8bc7-93deae8f9840) in
               2024 (but
             still relevant)!!!
-             [Go to
-                  Amazon.com](https://www.amazon.com/Real-Case-Driverless-Mobility-Vehicles/dp/0443236852/ref=sr_1_1?crid=1XSXZ611C2JCN&keywords=Kornhauser+sena&qid=1707095108&sprefix=kornhauser+sena%2Caps%2C76&sr=8-1&ufe=app_do%3Aamzn1.fos.18ed3cb5-28d5-4975-8bc7-93deae8f9840)…
+             [Go to Amazon.com](https://www.amazon.com/Real-Case-Driverless-Mobility-Vehicles/dp/0443236852/ref=sr_1_1?crid=1XSXZ611C2JCN&keywords=Kornhauser+sena&qid=1707095108&sprefix=kornhauser+sena%2Caps%2C76&sr=8-1&ufe=app_do%3Aamzn1.fos.18ed3cb5-28d5-4975-8bc7-93deae8f9840)…
 
 SmartDrivingCars
           [ZoomCast 386](https://www.youtube.com/watch?v=ltclihAQh5c)/
-          [PodCast 386](https://open.spotify.com/episode/2WQRVr7ExMhnGOlA73R0xY?si=dODg_qhtScuuLUiig-yorg)[](https://open.spotify.com/episode/2WQRVr7ExMhnGOlA73R0xY?si=dODg_qhtScuuLUiig-yorg)– DeepSeek, HandyRides, Waymo,
+          [PodCast 386](https://open.spotify.com/episode/2WQRVr7ExMhnGOlA73R0xY?si=dODg_qhtScuuLUiig-yorg)– DeepSeek, HandyRides, Waymo,
             Tesla & more
 
 * [0:00](https://www.youtube.com/watch?v=ltclihAQh5c) F.
@@ -212,8 +210,7 @@ SmartDrivingCars
                             review and questions"Read moreHmmmm…Again, interesting and informative
                               to watch Rob report it live.  Alain
 
-[Why Are These Motorcycle Taxi
-                Drivers Wearing Pink?](https://www.nytimes.com/2025/01/31/world/africa/kenya-women-motorcycle-boda-boda-taxi-drivers.html#:~:text=Kenya's%20%E2%80%9CBoda%20Girls%E2%80%9D%20are%20turning,needing%20rides%20to%20the%20hospital.&text=Tara%20Todras-Whitehill%20reported%20from,and%20Sarah%20Hurtes%20from%20Nairobi.)
+[Why Are These Motorcycle Taxi Drivers Wearing Pink?](https://www.nytimes.com/2025/01/31/world/africa/kenya-women-motorcycle-boda-boda-taxi-drivers.html#:~:text=Kenya's%20%E2%80%9CBoda%20Girls%E2%80%9D%20are%20turning,needing%20rides%20to%20the%20hospital.&text=Tara%20Todras-Whitehill%20reported%20from,and%20Sarah%20Hurtes%20from%20Nairobi.)
 
 T.
           Todras-Whitehill, Jan 31, "When her three children didn't have
@@ -235,8 +232,7 @@ Last
           She's now one of only about 1,000 women among the estimated
           2.5 million motorcycle taxi drivers in the east African nation
           of Kenya, according to the Boda Boda Safety Association, an
-          advocacy group…." [Read
-                    more](https://www.nytimes.com/2025/01/31/world/africa/kenya-women-motorcycle-boda-boda-taxi-drivers.html#:~:text=Kenya's%20%E2%80%9CBoda%20Girls%E2%80%9D%20are%20turning,needing%20rides%20to%20the%20hospital.&text=Tara%20Todras-Whitehill%20reported%20from,and%20Sarah%20Hurtes%20from%20Nairobi.)
+          advocacy group…." [Read more](https://www.nytimes.com/2025/01/31/world/africa/kenya-women-motorcycle-boda-boda-taxi-drivers.html#:~:text=Kenya's%20%E2%80%9CBoda%20Girls%E2%80%9D%20are%20turning,needing%20rides%20to%20the%20hospital.&text=Tara%20Todras-Whitehill%20reported%20from,and%20Sarah%20Hurtes%20from%20Nairobi.)
           Hmmmm…
               Fantastic in every dimension: innovation, vehicle
             technology, creativity, societal value, business case, … !
@@ -263,13 +259,11 @@ M. L.
           hundreds of millions of dollars of his own money to his
           preferred candidate, and he will be managing the running of a
           special department aimed at finding trillions of dollars in
-          savings for the government…."  [Read
-                    more](https://www.dropbox.com/scl/fi/d91h8bo30vtfhd6g81zkb/The-Dispatcher_February_2025.pdf?rlkey=rziquskx8t458kjcsypomrn5q&dl=0)
+          savings for the government…."  [Read more](https://www.dropbox.com/scl/fi/d91h8bo30vtfhd6g81zkb/The-Dispatcher_February_2025.pdf?rlkey=rziquskx8t458kjcsypomrn5q&dl=0)
           Hmmmm…
               As always, a lot to digest here.  Enjoy! Alain
 
-[DeepSeek-R1: Incentivizing
-                Reasoning Capability in LLMs via Reinforcement Learning](https://arxiv.org/pdf/2501.12948)"
+[DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning](https://arxiv.org/pdf/2501.12948)"
 
 DeepSeek,
           Jan 2025, "Abstract
@@ -296,12 +290,10 @@ We
              Read the paper! For background read:
 
 Timothy
-            Lee "[How computers got shockingly good
-              at recognizing images](https://arstechnica.com/science/2018/12/how-computers-got-shockingly-good-at-recognizing-images/) "
+            Lee "[How computers got shockingly good at recognizing images](https://arstechnica.com/science/2018/12/how-computers-got-shockingly-good-at-recognizing-images/) "
 
 Timothy
-            Lee "[Large language models, explained
-              with a minimum of math and jargon](https://www.understandingai.org/p/large-language-models-explained-with)"
+            Lee "[Large language models, explained with a minimum of math and jargon](https://www.understandingai.org/p/large-language-models-explained-with)"
 
 Ethan
             Mollick "[One Useful Thing](https://www.oneusefulthing.org/archive)" A current
@@ -310,8 +302,7 @@ Ethan
 
 Alain
 
-[I don't believe DeepSeek crashed
-              Nvidia's stock](https://www.understandingai.org/p/i-dont-believe-deepseek-crashed-nvidias?utm_source=post-email-title&publication_id=1501429&post_id=155950992&utm_campaign=email-post-title&isFreemail=false&r=3y2r5&triedRedirect=true&utm_medium=email)
+[I don't believe DeepSeek crashed Nvidia's stock](https://www.understandingai.org/p/i-dont-believe-deepseek-crashed-nvidias?utm_source=post-email-title&publication_id=1501429&post_id=155950992&utm_campaign=email-post-title&isFreemail=false&r=3y2r5&triedRedirect=true&utm_medium=email)
 
 T.
           Lee, Jan. 28, "Shares of Nvidia fell by nearly 17 percent on
@@ -338,13 +329,11 @@ A
           I can't prove this theory, but I think it fits the facts
           better than the DeepSeek theory. Interestingly, we didn't see
           a second selloff in Nvidia or TSMC shares after Trump's
-          announcement, suggesting that markets had [already "priced in" the news](https://x.com/timeghost456/status/1884254811559977073)…." [Read
-                    more](https://www.understandingai.org/p/i-dont-believe-deepseek-crashed-nvidias?utm_source=post-email-title&publication_id=1501429&post_id=155950992&utm_campaign=email-post-title&isFreemail=false&r=3y2r5&triedRedirect=true&utm_medium=email)
+          announcement, suggesting that markets had [already "priced in" the news](https://x.com/timeghost456/status/1884254811559977073)…." [Read more](https://www.understandingai.org/p/i-dont-believe-deepseek-crashed-nvidias?utm_source=post-email-title&publication_id=1501429&post_id=155950992&utm_campaign=email-post-title&isFreemail=false&r=3y2r5&triedRedirect=true&utm_medium=email)
           Hmmmm…
               Ouch! Alain
 
-[Caution Ahead! Vietnam's Drivers
-                Are Suddenly Following the Rules.](https://www.nytimes.com/2025/01/28/world/asia/vietnam-traffic-fines.html)
+[Caution Ahead! Vietnam's Drivers Are Suddenly Following the Rules.](https://www.nytimes.com/2025/01/28/world/asia/vietnam-traffic-fines.html)
 
 D.
             Cave, Jan 28, "Vietnam's motorbike drivers have always
@@ -374,8 +363,7 @@ Under
             safer, it's better," said Pham Van Lam, 57, as he pruned
             trees outside a Buddhist pagoda by a busy road on the
             outskirts of Ho Chi Minh City this week. "But it's cruel for
-            poor people."… . " [Read
-                    more](https://www.nytimes.com/2025/01/28/world/asia/vietnam-traffic-fines.html)
+            poor people."… . " [Read more](https://www.nytimes.com/2025/01/28/world/asia/vietnam-traffic-fines.html)
           Hmmmm…
               Really impressive.  Really efficient.  However, as
             with here one can't be drinking and one can't be distracted
@@ -401,8 +389,7 @@ Jan.
           Hmmmm…
               Take a look.  Not bad! Alain
 
-[Waymo to Expand Self-Driving
-              Testing Across More U.S. Cities](https://www.morningstar.com/news/dow-jones/2025012912213/waymo-to-expand-self-driving-testing-across-more-us-cities)
+[Waymo to Expand Self-Driving Testing Across More U.S. Cities](https://www.morningstar.com/news/dow-jones/2025012912213/waymo-to-expand-self-driving-testing-across-more-us-cities)
 
 S.
           Ojea, Jan 29, "Waymo is preparing to test its self-driving
@@ -439,8 +426,7 @@ During
             the low-hanging fruit business of giving high-quality
             affordable rides to the folks who really need them.  Alain
 
-          Draft… [Orf467F24:
-                  Investigation of MOVES-Style Mobility Deployments](https://www.dropbox.com/scl/fi/zxmw5iip1v3p9mv8416d0/Orf467F24-Compilation-of-Final-MOVES-style-Mobility-Reports.docx?rlkey=7yr746atariyj24ytagqbjwvu&dl=0)…
+          Draft… [Orf467F24: Investigation of MOVES-Style Mobility Deployments](https://www.dropbox.com/scl/fi/zxmw5iip1v3p9mv8416d0/Orf467F24-Compilation-of-Final-MOVES-style-Mobility-Reports.docx?rlkey=7yr746atariyj24ytagqbjwvu&dl=0)…
           Draft
 
 Alain

@@ -143,8 +143,7 @@ Wednesday,
 
 5.      10:40am
             Community Safety
-              & Vision Zero, a view from NYC: [Keith
-              T. Kerman](mailto:kkerman@dcas.nyc.gov) (NYC)
+              & Vision Zero, a view from NYC: [Keith T. Kerman](mailto:kkerman@dcas.nyc.gov) (NYC)
 
 6.      11:00am  What's Available in
               Driverless Today & View from Europe: Adriano
@@ -301,27 +300,20 @@ Houston
             University District AV Transit Circulator System  [Sam Lott](mailto:Jsam.lott@tsu.edu),
             Prof, Texas So. Univ.
 
-Greenville SC F[red
-              Payne](mailto:FPayne@greenvillecounty.org) Greenville County Council,
+Greenville SC F[red Payne](mailto:FPayne@greenvillecounty.org) Greenville County Council,
 
-Beverly Hills, CA [Grayson
-              Brulte](mailto:gb@brulteco.com) Co-Founder / President Brulte & Company
+Beverly Hills, CA [Grayson Brulte](mailto:gb@brulteco.com) Co-Founder / President Brulte & Company
 
-Columbus, OH [Adam
-              Sheets](mailto:asheets@hntb.com) AVP, HNTB
+Columbus, OH [Adam Sheets](mailto:asheets@hntb.com) AVP, HNTB
             Corp
 
-Babcock Ranch, [Brian
-              O'Looney](mailto:beolooney@tortigallas.com) Torti Gallas and Partners
+Babcock Ranch, [Brian O'Looney](mailto:beolooney@tortigallas.com) Torti Gallas and Partners
 
-Princeton NJ [Alain
-              Kornhauser](mailto:alaink@princeton.edu) Prof, Princeton University
+Princeton NJ [Alain Kornhauser](mailto:alaink@princeton.edu) Prof, Princeton University
 
-San Jose CA [Gary
-              Hsueh](mailto:Gary.Hsueh@arup.com)  Senior Transportation Planner, ARUP
+San Jose CA [Gary Hsueh](mailto:Gary.Hsueh@arup.com)  Senior Transportation Planner, ARUP
 
-Mobility Needs of NY Communities [Joah
-              Sapphire](mailto:joah@axialfunds.com) Managing Partner Axial Capital Partners
+Mobility Needs of NY Communities [Joah Sapphire](mailto:joah@axialfunds.com) Managing Partner Axial Capital Partners
 
 Implications on Energy [Stan Young](mailto:Stanley.Young@nrel.gov) Team Leader, Mobility Systems, NREL
 
@@ -339,41 +331,32 @@ Issues:
 
 Above speakers plus the following Discussants:
 
-[Leemor
-              Chandally](mailto:leemor.chandally@bestmile.com)  Director
+[Leemor Chandally](mailto:leemor.chandally@bestmile.com)  Director
             of Strategic Partnerships, BestMile
 
-[Ingmar
-              Andreasson](mailto:ingmar@logistikcentrum.se) Retired Prof., Chalmers University
+[Ingmar Andreasson](mailto:ingmar@logistikcentrum.se) Retired Prof., Chalmers University
 
-[Adriano
-              Alessandrini](mailto:adriano.alessandrini@unifi.it) Prof. Univ. of Rome & Director CityMobil2
+[Adriano Alessandrini](mailto:adriano.alessandrini@unifi.it) Prof. Univ. of Rome & Director CityMobil2
 
 [Larry Fabian](mailto:lfabian21@gmail.com) Editor, TP Plus
 
-[Grayson
-              Brulte](mailto:gb@brulteco.com) Co-Founder / President Brulte & Company
+[Grayson Brulte](mailto:gb@brulteco.com) Co-Founder / President Brulte & Company
 
-[Ben
-              Grush](mailto:bgrush@endofdriving.org) Principal, Grush Niles Strategic
+[Ben Grush](mailto:bgrush@endofdriving.org) Principal, Grush Niles Strategic
 
-[Matt
-              Lesh](mailto:mlesh@coastautonomous.com) Chief Commercial Officer, Coast Autonomous,
+[Matt Lesh](mailto:mlesh@coastautonomous.com) Chief Commercial Officer, Coast Autonomous,
             Inc.
 
 [Scott LeVines](mailto:levines@newpaltz.edu) Assist. Professor (Urban Planning), SUNY @
             New Paltz
 
-[Michel
-              Parent](mailto:michel.parent@autokab.com) President AutoKAB
+[Michel Parent](mailto:michel.parent@autokab.com) President AutoKAB
 
 [Paul Brubaker](mailto:pbrubaker@ATI21.org%20%3cpbrubaker@ATI21.org%3e), CEO, ATI21
 
-[Bernard
-              Soriano](mailto:Bernard.Soriano@dmv.ca.gov), Assoc. Administrator, CA DMV
+[Bernard Soriano](mailto:Bernard.Soriano@dmv.ca.gov), Assoc. Administrator, CA DMV
 
-[Aaron
-              Shkuda](mailto:ashkuda@princeton.edu), Prof. Princeton University
+[Aaron Shkuda](mailto:ashkuda@princeton.edu), Prof. Princeton University
 
 [Peter Muller](mailto:PMuller@PRTConsulting.com),
             President, PRT Consulting
@@ -404,12 +387,10 @@ The
 9:00am Setting the Table
               Presentations: (10-15 minute presentations)
 
-Issues in Virginia [David
-              Harmer](mailto:dharmer@vtlpms.org) Administrator Virginia Transit Reliability
+Issues in Virginia [David Harmer](mailto:dharmer@vtlpms.org) Administrator Virginia Transit Reliability
             Pool
 
-City Fleets [Mahanth
-              Joishy](mailto:mjoishy@dcas.nyc.gov) Deputy Commissioner, Chief Fleet Officer NYC
+City Fleets [Mahanth Joishy](mailto:mjoishy@dcas.nyc.gov) Deputy Commissioner, Chief Fleet Officer NYC
             Admin. Services
 
 Accounting for Insurance Pools [Chris Korgut](mailto:chris.kogut@milliman.com),
@@ -441,36 +422,28 @@ Issues:
 Above
             speakers plus the following Discussants:
 
-                [Rick
-              Gorvett](mailto:rgorvett@casact.org) Senior Actuary Casualty Actuarial Society
+                [Rick Gorvett](mailto:rgorvett@casact.org) Senior Actuary Casualty Actuarial Society
 
-                [Jacques
-              Amselem](mailto:jacques.amselem@allianz.com) Allianz Managed Operations & Services SE,
+                [Jacques Amselem](mailto:jacques.amselem@allianz.com) Allianz Managed Operations & Services SE,
             Head of IoT
 
-[Ann
-              Gergen](mailto:agergen@agrip.org) Executive Director, AGRIP, National
+[Ann Gergen](mailto:agergen@agrip.org) Executive Director, AGRIP, National
             Association of Insurance Pool
 
-[Christine
-              O'Brien](mailto:cobrien@icnj.org) President, Insurance Council of NJ
+[Christine O'Brien](mailto:cobrien@icnj.org) President, Insurance Council of NJ
 
-[Jerome
-              Lutin](mailto:jerome.lutin@verizon.net)      Principle,
+[Jerome Lutin](mailto:jerome.lutin@verizon.net)      Principle,
             JM Lutin Consultants
 
 [Visar Ramku](mailto:visar.ramku@nyct.com) NY City
             Transit
 
-[Jerry
-              Spears](mailto:jerryhelena406@gmail.com) Principal, Automated
+[Jerry Spears](mailto:jerryhelena406@gmail.com) Principal, Automated
           Public Transit Risk Consulting
 
-[Sheldon
-              Sandler](mailto:ssandler@belairpartners.com) CEO Bel Air Partners
+[Sheldon Sandler](mailto:ssandler@belairpartners.com) CEO Bel Air Partners
 
-[Lauren
-              K. Cochran](mailto:Lauren.Cochran@ridemetro.org) Director of Innovation Met. Transit Authority
+[Lauren K. Cochran](mailto:Lauren.Cochran@ridemetro.org) Director of Innovation Met. Transit Authority
             of Harris County
 
 [Edward Cameron](mailto:edward.cameron@maryland.gov),
@@ -510,16 +483,13 @@ DeepDriving Chenyi Chen*16, Princeton University & nVIDIA
 E2E Learning for Autonomous Driving Urs
             Muller, nVIDIA
 
-The Virtues of Virtual Reality [Artur Filipowicz](mailto:arturf@princeton.edu)'17 & [Nayan
-              Bhat](mailto:nayanb@princeton.edu)'17, Princeton University
+The Virtues of Virtual Reality [Artur Filipowicz](mailto:arturf@princeton.edu)'17 & [Nayan Bhat](mailto:nayanb@princeton.edu)'17, Princeton University
 
-Virtual Environments [Reuben
-              Steiger](mailto:r@pattern5.com) Founder, Ringleader
+Virtual Environments [Reuben Steiger](mailto:r@pattern5.com) Founder, Ringleader
 
 Simulation Efforts at NYU [Kaan Ozbay](mailto:kaan.ozbay@nyu.edu), Prof. NYU
 
-Affordable mapping [Ro
-              Gupta'00](mailto:ro@carmera.co) CEO, Co-founder Carmera
+Affordable mapping [Ro Gupta'00](mailto:ro@carmera.co) CEO, Co-founder Carmera
 
 10:30am Near-term
               Technological Opportunities
@@ -530,11 +500,9 @@ Issues: How far
 
 Above speakers plus the following Discussants:
 
-[John
-              Eggert](mailto:jeggert@velodyne.com) Director of Automotive Velodyne LiDAR Inc.
+[John Eggert](mailto:jeggert@velodyne.com) Director of Automotive Velodyne LiDAR Inc.
 
-[Denis
-              Gigras](mailto:Denis.Gingras@USherbrooke.ca),      Prof.,
+[Denis Gigras](mailto:Denis.Gingras@USherbrooke.ca),      Prof.,
             Electrical and Computer Engineering Université de Sherbrooke
 
 [Tom Funkhouser](mailto:funk@CS.Princeton.EDU),
@@ -543,11 +511,9 @@ Above speakers plus the following Discussants:
 [Warren Powell](mailto:powell@princeton.edu),
             Professor, Princeton University
 
-[Alain
-            Kornhauser](mailto:alaink@princeton.edu), Professor, Princeton University
+[Alain Kornhauser](mailto:alaink@princeton.edu), Professor, Princeton University
 
-[Larry
-              Reich](mailto:lreich@digitalagecom.com), Founder, DigitalAge1
+[Larry Reich](mailto:lreich@digitalagecom.com), Founder, DigitalAge1
 
 11:15am Open Discussion of
               Challenges
@@ -629,7 +595,7 @@ Alain L. Kornhauser, PhD
                 609-258-4657 (o)
 
                 609-980-1427 (c)
- [](http://www.princeton.edu)
+ 
 
 ***************************************************************************************************************
 

@@ -6,7 +6,7 @@ permalink: /8.17-Brad2-041720/
 display_name: "8.17 - Brad2 041720"
 ---
 
-[](http://zoom-tank.com/)[](http://zoom-tank.com/)
+
 
 ### A Pre-symposium Warm-up to July's
 
@@ -23,8 +23,7 @@ Popular
 (Join starting at 1:45pm, entry will close
                         promptly at 2:00 pm)
 
-## [Click for Free
-                          Pre-registration](http://zoom-tank.com/)
+## [Click for Free Pre-registration](http://zoom-tank.com/)
 
 ***************************************************************************************************************
 

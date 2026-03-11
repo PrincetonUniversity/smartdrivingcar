@@ -7,23 +7,15 @@ permalink: /2013-11-08-2013-11-08/
 
 November 08, 2013
 
-## [](http://comm.stanford.edu/faculty-nass/)
+## 
 
-## [Clifford
-
-        I. Nass '81,*86](http://comm.stanford.edu/faculty-nass/)  [expert
-
-        on human/computer interactions, dead at 55](http://news.stanford.edu/news/2013/november/cliff-nass-obit-110413.html)
+## [Clifford I. Nass '81,*86](http://comm.stanford.edu/faculty-nass/)  [expert on human/computer interactions, dead at 55](http://news.stanford.edu/news/2013/november/cliff-nass-obit-110413.html)
 
  Tragic!! What a
           terrible loss.  We have all taken an enormous step backwards.
-          [His
+          [His simulator.](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Videos/Nass_Driving_Simulator_Stanford.mp4) Alain
 
-            simulator.](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Videos/Nass_Driving_Simulator_Stanford.mp4) Alain
-
-## [USDOT
-
-        ITS Joint Program Manager for Connected Vehicles and Automation](https://www.usajobs.gov/GetJob/ViewDetails/354504900)
+## [USDOT ITS Joint Program Manager for Connected Vehicles and Automation](https://www.usajobs.gov/GetJob/ViewDetails/354504900)
 
 Hmmm...  this is a good job listing at
           at a more than reasonable pay ($123,758.00 to $155,500.00 /
@@ -32,10 +24,7 @@ Hmmm...  this is a good job listing at
             to Program Manager for "Automation and Connected
             Vehicles"!  Alain
 
-## [90%
-
-        of drivers would consider self-driving cars to save on
-        insurance, survey says](http://www.carinsurance.com/Articles/autonomous-cars-ready.aspx)
+## [90% of drivers would consider self-driving cars to save on insurance, survey says](http://www.carinsurance.com/Articles/autonomous-cars-ready.aspx)
 
 By Mark Vallet Updated Fri Nov 1, 2013 " One in five drivers
       would hand over the keys tomorrow if a safe, computer-operated
@@ -87,9 +76,7 @@ By Mark Vallet Updated Fri Nov 1, 2013 " One in five drivers
           75 percent would not trust a driverless car to take their
       children to school..."
 
-       [Read
-
-        more](http://www.carinsurance.com/Articles/autonomous-cars-ready.aspx)
+       [Read more](http://www.carinsurance.com/Articles/autonomous-cars-ready.aspx)
 
 Hmmm... It is nice to learn that people
           may respond to money; however, an 80% discount on auto
@@ -114,24 +101,16 @@ you, only some of the time  while traveling in
             allow you to text, talk and surf at essentially anytime
             during your trip?
 
-* [Read
-
-              more](http://www.autonews.com/article/20131105/OEM06/131109888/90%-of-drivers-would-consider-self-driving-cars-to-save-on-insurance#ixzz2ju8ChjTK) As well as [Automotive
-
-              News](http://www.autonews.com/article/20131105/OEM06/131109888/90%-of-drivers-would-consider-self-driving-cars-to-save-on-insurance#ixzz2ju8ChjTK). [](http://autos.aol.com/article/hackers-def-con-cyber-security-ford-toyota/)Some
+* [Read more](http://www.autonews.com/article/20131105/OEM06/131109888/90%-of-drivers-would-consider-self-driving-cars-to-save-on-insurance#ixzz2ju8ChjTK) As well as [Automotive News](http://www.autonews.com/article/20131105/OEM06/131109888/90%-of-drivers-would-consider-self-driving-cars-to-save-on-insurance#ixzz2ju8ChjTK). Some
             repetition but the comments are well worth reading. Alain
 
 # Reports on Recent Events:
 
-## [](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/ITFVHA13/ITFVHA%202013%20Agenda.pdf) [INTERNATIONAL
-
-        TASK FORCE ON VEHICLE-HIGHWAY AUTOMATION](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/ITFVHA13/ITFVHA%202013%20Agenda.pdf)
+##  [INTERNATIONAL TASK FORCE ON VEHICLE-HIGHWAY AUTOMATION](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/ITFVHA13/ITFVHA%202013%20Agenda.pdf)
 
     17th Annual Meeting, Otaku, Tokyo, Japan, Oct 13. 2013.
 
-[Informal
-
-          Poll of participants](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/ITFVHA13/ITFVHA13_Discussion_Notes_Bishop.pdf) at the end of day-long discussions by
+[Informal Poll of participants](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/ITFVHA13/ITFVHA13_Discussion_Notes_Bishop.pdf) at the end of day-long discussions by
         invited participants:
 
 Most significant development of past year:
@@ -183,77 +162,40 @@ What is not being addressed:
 
           are very interesting and containing substantive update.  Alain
 
-Myra Blanco "[Human
+Myra Blanco "[Human Factors Evaluation of Level 2 and Level 3 Automated Driving Concepts](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/ITFVHA13/ITFVHA13_US_NHTSA_Automation_HF_Blanco.pdf)"
 
-          Factors Evaluation of Level 2 and Level 3 Automated Driving
-          Concepts](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/ITFVHA13/ITFVHA13_US_NHTSA_Automation_HF_Blanco.pdf)"
+Pierpaolo Tona "[CityMobil2 Automated Road Transport Systems in European Cities"](https://drive.google.com/folderview?id=0BzVsv7r9vCuRbFJ3YUd0dGZJcHM)
 
-Pierpaolo Tona "[CityMobil2
+      Maxime Flament "[CityMobil2](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/ITFVHA13/ITFVHA13_EU_CityMobil_Certification_Directive_for_Fully_Automated_Vehicles_WP26_Flament.pptx)[WP26: Certification directive for Fully Automated Vehicles](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/ITFVHA13/ITFVHA13_EU_CityMobil_Certification_Directive_for_Fully_Automated_Vehicles_WP26_Flament.pptx)"
 
-        Automated Road Transport Systems in European Cities"](https://drive.google.com/folderview?id=0BzVsv7r9vCuRbFJ3YUd0dGZJcHM)
+Maxime Flament "[VRA: Support action for Vehicle and Road Automation network](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/ITFVHA13/ITFVHA13_EU_Flament_Vehicle_and_Road_Automation_v10.pptx)"
 
-      Maxime Flament "[CityMobil2](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/ITFVHA13/ITFVHA13_EU_CityMobil_Certification_Directive_for_Fully_Automated_Vehicles_WP26_Flament.pptx)[WP26:
-
-        Certification directive for Fully Automated Vehicles](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/ITFVHA13/ITFVHA13_EU_CityMobil_Certification_Directive_for_Fully_Automated_Vehicles_WP26_Flament.pptx)"
-
-Maxime Flament "[VRA:
-
-          Support action for Vehicle and Road Automation network](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/ITFVHA13/ITFVHA13_EU_Flament_Vehicle_and_Road_Automation_v10.pptx)"
-
-      Lars Bjelkeflo "[AdaptIVe:
-
-        Automated Driving Applications & Technologies for
-        Intelligent Vehicles](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/ITFVHA13/ITFVHA13_EU_AdaptIVe_Project%20Overview-short.pdf)"
+      Lars Bjelkeflo "[AdaptIVe: Automated Driving Applications & Technologies for Intelligent Vehicles](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/ITFVHA13/ITFVHA13_EU_AdaptIVe_Project%20Overview-short.pdf)"
 
 Ryota Shirato,
-        Nissan  "[Automated
-
-          Driving Perspective](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/ITFVHA13/ITFVHA13_Nissan_Shirato.pptx)"
+        Nissan  "[Automated Driving Perspective](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/ITFVHA13/ITFVHA13_Nissan_Shirato.pptx)"
 
 Nissan
-        Leaf [Recent
+        Leaf [Recent "2007 Urban Challenge"-like video](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/ITFVHA13/ITFVHA13_Nissan_Shirato_%20N360_video.MP4)
 
-          "2007 Urban Challenge"-like video](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/ITFVHA13/ITFVHA13_Nissan_Shirato_%20N360_video.MP4)
-
-        Lars Bjelkeflo "[Volvo
-
-          outlook on vehicle automation](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/ITFVHA13/ITFVHA13_Volvo_outlook%20on_automation_Bjelkeflo.pdf) "
+        Lars Bjelkeflo "[Volvo outlook on vehicle automation](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/ITFVHA13/ITFVHA13_Volvo_outlook%20on_automation_Bjelkeflo.pdf) "
 
 Steven
-        E. Shladover "[Development
+        E. Shladover "[Development of California Regulations for the Testing and Operation of Automated Vehicles on Public Roads](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/ITFVHA13/ITFVHA13_US_California_DMV_Regulations_Shladover.pdf)"
 
-          of California Regulations for the Testing and Operation of
-          Automated Vehicles on Public Roads](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/ITFVHA13/ITFVHA13_US_California_DMV_Regulations_Shladover.pdf)"
+Jane Lappin "[TRB Workshop on Road Vehicle Automation](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/ITFVHA13/ITFVHA13_US_TRB_Workshop_Shladover.pdf)"
 
-Jane Lappin "[TRB
+          Daniel Bartz "[U.S. Army AMAS: A Modular Approach to Truck Automation](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/ITFVHA13/ITFVHA13_US_DOD_AMAS_Bartz.pdf)"
 
-            Workshop on Road Vehicle Automation](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/ITFVHA13/ITFVHA13_US_TRB_Workshop_Shladover.pdf)"
+Sadayuki Tsugawa "[Final Report on an Automated Truck Platoon within Energy ITS Project](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/ITFVHA13/ITFVHA13_JP_Energy_ITS_Tsugawa.pdf)"
 
-          Daniel Bartz "[U.S.
+      Arnaud de La Fortelle "[AutoNet 2030 Automated driving in France](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/ITFVHA13/ITFVHA13_MinesParisTech-France_deLaFortelle.pdf)"
 
-            Army AMAS: A Modular Approach to Truck Automation](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/ITFVHA13/ITFVHA13_US_DOD_AMAS_Bartz.pdf)"
+Paul S. Rau "[Safety Through Automation Program National Highway Traffic Safety Administration](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/ITFVHA13/ITFVHA13_US_NHTSA_Research.pdf)"
 
-Sadayuki Tsugawa "[Final
+        Raymond G. Hoogendoorn "[The Dutch Automated Vehicle Initiative: Challenges for automated driving](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/ITFVHA13/ITFVHA13_EU_Netherlands_DAVI_Hoogendoorn.pptx)"
 
-        Report on an Automated Truck Platoon within Energy ITS Project](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/ITFVHA13/ITFVHA13_JP_Energy_ITS_Tsugawa.pdf)"
-
-      Arnaud de La Fortelle "[AutoNet
-
-        2030 Automated driving in France](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/ITFVHA13/ITFVHA13_MinesParisTech-France_deLaFortelle.pdf)"
-
-Paul S. Rau "[Safety
-
-          Through Automation Program National Highway Traffic Safety
-          Administration](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/ITFVHA13/ITFVHA13_US_NHTSA_Research.pdf)"
-
-        Raymond G. Hoogendoorn "[The
-
-          Dutch Automated Vehicle Initiative: Challenges for automated
-          driving](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/ITFVHA13/ITFVHA13_EU_Netherlands_DAVI_Hoogendoorn.pptx)"
-
-## [](http://www.itsworldcongress.jp/index.html) [](http://www.michaellsena.com/wp-content/uploads/2013/08/RESUME_Full.doc) [20th
-
-        ITS World Congress Tokyo 2013-10-20](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Presentations/Summary_20thITS_WorldCongress_Tokyo2013.pdf)
+## [20th ITS World Congress Tokyo 2013-10-20](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Presentations/Summary_20thITS_WorldCongress_Tokyo2013.pdf)
 
     Michael L. Sena  Oct. 19, 2013  "...The Intelligent Transport
     Systems World Congress has been held every autumn since 1994.  Its
@@ -331,16 +273,13 @@ Paul S. Rau "[Safety
 
     Michael L. Sena
 
-[](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Presentations/Summary_20thITS_WorldCongress_Tokyo2013.pdf)
 
 # Calendar of Upcoming
           Events:
 
-## [](http://transportation.house.gov/hearing/how-autonomous-vehicles-will-shape-future-surface-transportation)
+## 
 
-## [House
-
-          to hold hearing on driverless cars](http://transportation.house.gov/hearing/how-autonomous-vehicles-will-shape-future-surface-transportation)
+## [House to hold hearing on driverless cars](http://transportation.house.gov/hearing/how-autonomous-vehicles-will-shape-future-surface-transportation)
 
 ### New date is November
               19, 2013, 10:00am
@@ -348,15 +287,10 @@ Paul S. Rau "[Safety
 Senate hearing on  "How Autonomous
               Vehicles Will Shape the Future of Surface Transportation"
             to be held in 2167 Rayburn Office Building, Washington DC
-            20515 By clicking the following you'll be able t to: [Watch
+            20515 By clicking the following you'll be able t to: [Watch the live webcast of this hearing on November 19th](http://mfile.akamai.com/65785/live/reflector:40333.asx?bkup=40341&prop=n)Alain
 
-              the live webcast of this hearing on November 19th](http://mfile.akamai.com/65785/live/reflector:40333.asx?bkup=40341&prop=n)Alain
 
-[](http://www.fleng.org/seminars.cfm?event_id=598)
-
-## [Florida
-
-              Automated Vehicles Summit](http://www.fleng.org/seminars.cfm?event_id=598)
+## [Florida Automated Vehicles Summit](http://www.fleng.org/seminars.cfm?event_id=598)
 
 November 14 – 15, 2013
 
@@ -366,11 +300,8 @@ Marriott Tampa Waterside Hotel
 
 Tampa, FL 33602
 
-[](http://transportation.njit.edu/itsnj/ITS_Information_Packet.pdf)
 
-## [2013
-
-              ITS New Jersey Annual Meeting](http://transportation.njit.edu/itsnj/ITS_Information_Packet.pdf)
+## [2013 ITS New Jersey Annual Meeting](http://transportation.njit.edu/itsnj/ITS_Information_Packet.pdf)
 
 December 16, 2013
 
@@ -380,10 +311,8 @@ East Rutherford, NJ 07073
 
 [http://www.cs.cmu.edu/%7ECVAD2013/](http://www.cs.cmu.edu/%7ECVAD2013/)
 
-[](http://www.cs.cmu.edu/%7ECVAD2013/)
 
-## [First International Workshop on Computer
-          Vision for Autonomous Driving](http://www.cs.cmu.edu/%7ECVAD2013/)
+## [First International Workshop on Computer Vision for Autonomous Driving](http://www.cs.cmu.edu/%7ECVAD2013/)
 
 ### [Sydney, Australia     December 2, 2013](http://www.cs.cmu.edu/%7ECVAD2013/)
 
@@ -393,13 +322,9 @@ East Rutherford, NJ 07073
 
           November 05, 2013
 
-## [](http://www.euroncap.com/about.aspx) [On
+##  [On the Road with Autonomous Emergency Braking (AEB) Systems](http://euroncap.synapticdigital.com/Latest-Release/on-the-road-with-autonomous-emergency-braking-systems/s/0d5f0a78-2afc-4c63-ad36-a1acdb2c0b19)
 
-        the Road with Autonomous Emergency Braking (AEB) Systems](http://euroncap.synapticdigital.com/Latest-Release/on-the-road-with-autonomous-emergency-braking-systems/s/0d5f0a78-2afc-4c63-ad36-a1acdb2c0b19)
-
-[Press
-
-        Releas](http://preview.thenewsmarket.com/Previews/NCAP/DocumentAssets/305458_v2.pdf)e: Brussels 29 October – "Euro NCAP releases
+[Press Releas](http://preview.thenewsmarket.com/Previews/NCAP/DocumentAssets/305458_v2.pdf)e: Brussels 29 October – "Euro NCAP releases
       the first results of rear-end crash avoidance systems
       tested against the upcoming 2014 rating protocol. Eight vehicles
       have been compared with respect to their performance on the test
@@ -410,17 +335,12 @@ East Rutherford, NJ 07073
       and lead to a significant reduction of injuries. As from January
       2014, Euro NCAP will in its rating scheme give credit to vehicle
       manufacturers that equip their models with robust forward
-      collision warning and/or automatic braking technology..."  [Read
-
-        more](http://euroncap.synapticdigital.com/Latest-Release/on-the-road-with-autonomous-emergency-braking-systems/s/0d5f0a78-2afc-4c63-ad36-a1acdb2c0b19)
+      collision warning and/or automatic braking technology..."  [Read more](http://euroncap.synapticdigital.com/Latest-Release/on-the-road-with-autonomous-emergency-braking-systems/s/0d5f0a78-2afc-4c63-ad36-a1acdb2c0b19)
 
 A good summary of the tests appears in[FleetDirectory](http://www.fleetdirectory.co.uk/)
-[First
-
-              self-braking cars rated by Euro NCAP](http://www.fleetdirectory.co.uk/news/first-autonomous-braking-systems-rated-by-euro-ncap/) by John
+[First self-braking cars rated by Euro NCAP](http://www.fleetdirectory.co.uk/news/first-autonomous-braking-systems-rated-by-euro-ncap/) by John
           Simpson 30 October 2013. Eight (8)  car models equipped AEB
-          systems were tested and are reported on [Euro NCAP's
-            website](http://euroncap.synapticdigital.com/).  Both "City" tests and "Inter-Urban" tests were
+          systems were tested and are reported on [Euro NCAP's website](http://euroncap.synapticdigital.com/).  Both "City" tests and "Inter-Urban" tests were
           conducted of the Autonomous Emergency Braking (AEB) systems.
           While the test results indicate that at least some of these
           systems work some of the time, only one perfect score was
@@ -444,18 +364,14 @@ A good summary of the tests appears in[FleetDirectory](http://www.fleetdirectory
 
         11, 2013
 
-## [The
-
-        Ethics of Autonomous Cars](http://www.theatlantic.com/technology/archive/2013/10/the-ethics-of-autonomous-cars/280360/)
+## [The Ethics of Autonomous Cars](http://www.theatlantic.com/technology/archive/2013/10/the-ethics-of-autonomous-cars/280360/)
 
 [Patrick Lin](http://www.theatlantic.com/patrick-lin/)
     Oct 8 2013, "If a small tree branch pokes out onto a highway and
     there's no incoming traffic, we'd simply drift a little into the
     opposite lane and drive around it. But an automated car might come
     to a full stop, as it dutifully observes traffic laws that prohibit
-    crossing a double-yellow line...." [Read
-
-      more](http://www.theatlantic.com/technology/archive/2013/10/the-ethics-of-autonomous-cars/280360/)  Good article as are some of
+    crossing a double-yellow line...." [Read more](http://www.theatlantic.com/technology/archive/2013/10/the-ethics-of-autonomous-cars/280360/)  Good article as are some of
         the comments that follow. I'll add mine:  Yes, ethics are really
         important here, but we also need to not be sophomoric.   Laws,
         even traffic laws, are created and interpreted with human
@@ -487,9 +403,7 @@ A good summary of the tests appears in[FleetDirectory](http://www.fleetdirectory
 
               September 28, 2013
 
-## [IIHS
-
-            issues first crash avoidance ratings](http://www.iihs.org/iihs/news/desktopnews/iihs-issues-first-crash-avoidance-ratings-under-new-test-program-7-midsize-vehicles-earn-top-marks-for-front-crash-prevention)
+## [IIHS issues first crash avoidance ratings](http://www.iihs.org/iihs/news/desktopnews/iihs-issues-first-crash-avoidance-ratings-under-new-test-program-7-midsize-vehicles-earn-top-marks-for-front-crash-prevention)
 
 IIHS News | Sept. 27, 2013  ARLINGTON, Va. —
           "A new test program by the Insurance Institute for Highway
@@ -524,11 +438,7 @@ IIHS News | Sept. 27, 2013  ARLINGTON, Va. —
           damaging the test vehicles," Zuby says. "As such, we expect
           crash mitigation benefits at higher speeds as well."
 
-[Read
-
-            more](http://www.iihs.org/iihs/news/desktopnews/iihs-issues-first-crash-avoidance-ratings-under-new-test-program-7-midsize-vehicles-earn-top-marks-for-front-crash-prevention)  [See
-
-            Video](http://www.youtube.com/watch?feature=player_embedded&v=omHES8mqtW4) [http://www.youtube.com/watch?feature=player_embedded&v=omHES8mqtW4](http://www.youtube.com/watch?feature=player_embedded&v=omHES8mqtW4)
+[Read more](http://www.iihs.org/iihs/news/desktopnews/iihs-issues-first-crash-avoidance-ratings-under-new-test-program-7-midsize-vehicles-earn-top-marks-for-front-crash-prevention)  [See Video](http://www.youtube.com/watch?feature=player_embedded&v=omHES8mqtW4) [http://www.youtube.com/watch?feature=player_embedded&v=omHES8mqtW4](http://www.youtube.com/watch?feature=player_embedded&v=omHES8mqtW4)
 
 Hats
 
@@ -536,9 +446,7 @@ Hats
                   of tests!
 
 Be sure to look at the
-              scoring table at the bottom of the [IIHS
-
-                news release](http://www.iihs.org/iihs/news/desktopnews/iihs-issues-first-crash-avoidance-ratings-under-new-test-program-7-midsize-vehicles-earn-top-marks-for-front-crash-prevention). It is disheartening to learn that for
+              scoring table at the bottom of the [IIHS news release](http://www.iihs.org/iihs/news/desktopnews/iihs-issues-first-crash-avoidance-ratings-under-new-test-program-7-midsize-vehicles-earn-top-marks-for-front-crash-prevention). It is disheartening to learn that for
               the most part, these systems didn't work!  Only Subaru,
               Cadillac and Volvo didn't crash in the 12 mph test and
               only Subaru in the 25 mph test.  The purpose of these
@@ -556,13 +464,11 @@ Why would manufacturers
 
               September 27, 2013
 
-## [](http://transportation.house.gov/hearing/how-autonomous-vehicles-will-shape-future-surface-transportation)[House to hold hearing on driverless cars](http://transportation.house.gov/hearing/how-autonomous-vehicles-will-shape-future-surface-transportation)
+## [House to hold hearing on driverless cars](http://transportation.house.gov/hearing/how-autonomous-vehicles-will-shape-future-surface-transportation)
 
               September 20, 2013
 
-## [At
-
-            Frankfurt Auto Show, the Driver Began to Take a Back Seat](http://www.nytimes.com/2013/09/16/automobiles/the-driver-begins-to-take-a-back-seat.html?ref=technology)
+## [At Frankfurt Auto Show, the Driver Began to Take a Back Seat](http://www.nytimes.com/2013/09/16/automobiles/the-driver-begins-to-take-a-back-seat.html?ref=technology)
 
  By JACK EWING Sept. 15, 2013  FRANKFURT —" A
           wide grin beneath his bushy mustache, Dieter Zetsche, the
@@ -570,23 +476,18 @@ Why would manufacturers
           auto shows, cruising onto the stage in the company's newest
           model. But at the Frankfurt motor show last week, Mr. Zetsche
           added a surprise: he sprang from the back of a Mercedes
-          S-Class that had no one in the driver's seat..."  [Read
-
-            more](http://www.nytimes.com/2013/09/16/automobiles/the-driver-begins-to-take-a-back-seat.html?ref=technology)  This is how Daimler
+          S-Class that had no one in the driver's seat..."  [Read more](http://www.nytimes.com/2013/09/16/automobiles/the-driver-begins-to-take-a-back-seat.html?ref=technology)  This is how Daimler
               chose to spend a substantial amount of money to introduce
               its automotive products at the 2013 Frankfurt Auto Show on
               Sept. 9, 2013. They must believe that consumers are ready
               to spend money on Smart Driving Cars.  Alain
-[](http://www.detroitnews.com/)
 
-## [](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Videos/MB_%20AutonomousLong-distanceDrive.mp4)[Video:
 
-            MB Self-Driving Manheim 2 Pforzheim 2:08 long](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Videos/MB_%20AutonomousLong-distanceDrive.mp4)
+## [Video: MB Self-Driving Manheim 2 Pforzheim 2:08 long](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Videos/MB_%20AutonomousLong-distanceDrive.mp4)
 
-## [S
-            500 MB Intelligent Drive (Self-Driving) TV footage:](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Videos/MB_Autonomous_TV_Footage_Long-distanceDrive.mp4)
+## [S 500 MB Intelligent Drive (Self-Driving) TV footage:](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Videos/MB_Autonomous_TV_Footage_Long-distanceDrive.mp4)
 
-  [](Mailto:alaink@princeton.edu)[Mailto:alaink@princeton.edu](Mailto:alaink@princeton.edu)
+  [Mailto:alaink@princeton.edu](Mailto:alaink@princeton.edu)
 
 --
 

@@ -7,11 +7,7 @@ permalink: /2015-09-27-2015-09-27/
 
 2015
 
-## [Apple
-
-                                                          Speeds Up
-                                                          Electric-Car
-                                                          Work](http://www.wsj.com/articles/apple-speeds-up-electric-car-work-1442857105)
+## [Apple Speeds Up Electric-Car Work](http://www.wsj.com/articles/apple-speeds-up-electric-car-work-1442857105)
 
 D.
 
@@ -116,9 +112,7 @@ D.
                                                           and Germany
                                                           are a little
                                                           worried. ..."
-                                                          [Read
-
-                                                          more](http://www.wsj.com/articles/apple-speeds-up-electric-car-work-1442857105)
+                                                          [Read more](http://www.wsj.com/articles/apple-speeds-up-electric-car-work-1442857105)
                                                           Hmmm...What
 
                                                           about
@@ -135,12 +129,7 @@ D.
                                                           drive us!
                                                           Alain
 
-## [autonomousTaxis
-
-                                                          Could Greatly
-                                                          Reduce
-                                                          Greenhouse-gas
-                                                          Emissions](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/PDFs/aTaxi_GHG_Emissions_Greenblatt.pdf)
+## [autonomousTaxis Could Greatly Reduce Greenhouse-gas Emissions](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/PDFs/aTaxi_GHG_Emissions_Greenblatt.pdf)
 
                                                           J. Greenblat,
                                                           July 6"...AVs
@@ -239,13 +228,8 @@ D.
                                                           would also be
                                                           reduced by
                                                           nearly
-                                                          100%...." [Read
-
-                                                          more](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/PDFs/aTaxi_GHG_Emissions_Greenblatt.pdf)  See
-                                                          also [the
-
-                                                          supporting
-                                                          paper](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/PDFs/aTaxi_GHG_Greenblat_Paper.pdf)
+                                                          100%...." [Read more](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/PDFs/aTaxi_GHG_Emissions_Greenblatt.pdf)  See
+                                                          also [the supporting paper](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/PDFs/aTaxi_GHG_Greenblat_Paper.pdf)
 
                                                           Hmmm...Not
                                                           enough is said
@@ -304,12 +288,7 @@ D.
                                                           sustainability!
                                                           Alain
 
-## [Complex
-
-                                                          Car Software
-                                                          Becomes the
-                                                          Weak Spot
-                                                          Under the Hood](http://www.nytimes.com/2015/09/27/business/complex-car-software-becomes-the-weak-spot-under-the-hood.html)
+## [Complex Car Software Becomes the Weak Spot Under the Hood](http://www.nytimes.com/2015/09/27/business/complex-car-software-becomes-the-weak-spot-under-the-hood.html)
 
 D.
 
@@ -331,13 +310,8 @@ D.
                                                           of code in all
                                                           of Facebook or
                                                           50 million in
-                                                          the [Large
-
-                                                          Hadron
-                                                          Collider](http://topics.nytimes.com/top/news/science/topics/large_hadron_collider/index.html?inline=nyt-classifier).
-                                                          ..." [Read
-
-                                                          more](http://www.nytimes.com/2015/09/27/business/complex-car-software-becomes-the-weak-spot-under-the-hood.html)
+                                                          the [Large Hadron Collider](http://topics.nytimes.com/top/news/science/topics/large_hadron_collider/index.html?inline=nyt-classifier).
+                                                          ..." [Read more](http://www.nytimes.com/2015/09/27/business/complex-car-software-becomes-the-weak-spot-under-the-hood.html)
                                                           Hmmm...See
                                                           VW coverage
                                                           below.  The
@@ -357,13 +331,7 @@ D.
                                                           Same on you
                                                           VW!!!  Alain
 
-## [Yutong
-
-                                                          completes
-                                                          world's first
-                                                          trial
-                                                          operation of
-                                                          unmanned bus](http://en.yutong.com/pressmedia/yutongnews/2015/2015IBKCFbteUf.html?utm_campaign=cmp_456450&utm_medium=email&utm_source=getanewsletter)
+## [Yutong completes world's first trial operation of unmanned bus](http://en.yutong.com/pressmedia/yutongnews/2015/2015IBKCFbteUf.html?utm_campaign=cmp_456450&utm_medium=email&utm_source=getanewsletter)
 
 Sept
 
@@ -434,15 +402,7 @@ Sept
                                                           Photoshop!
                                                           Alain
 
-## [Mercedes
-
-                                                          eyes
-                                                          driverless
-                                                          on-demand
-                                                          limousine
-                                                          service as
-                                                          potential
-                                                          market](http://www.reuters.com/article/2015/09/14/us-autoshow-frankfurt-limousines-idUSKCN0RE2E020150914?feedType=RSS&feedName=technologyNews)
+## [Mercedes eyes driverless on-demand limousine service as potential market](http://www.reuters.com/article/2015/09/14/us-autoshow-frankfurt-limousines-idUSKCN0RE2E020150914?feedType=RSS&feedName=technologyNews)
 
 Sept
 
@@ -496,9 +456,7 @@ Sept
                                                           event on the
                                                           eve of the
                                                           Frankfurt auto
-                                                          show.  ..." [Read
-
-                                                          more](http://www.reuters.com/article/2015/09/14/us-autoshow-frankfurt-limousines-idUSKCN0RE2E020150914?feedType=RSS&feedName=technologyNews)
+                                                          show.  ..." [Read more](http://www.reuters.com/article/2015/09/14/us-autoshow-frankfurt-limousines-idUSKCN0RE2E020150914?feedType=RSS&feedName=technologyNews)
                                                           Hmmm...
 
                                                           Uber,
@@ -517,14 +475,7 @@ Sept
 
 ## Some other thoughts that deserve your
 
-### [Volkswagen
-
-                                                          Says 11
-                                                          Million Cars
-                                                          Worldwide Are
-                                                          Affected in
-                                                          Diesel
-                                                          Deception](http://www.nytimes.com/2015/09/23/business/international/volkswagen-diesel-car-scandal.html?emc=edit_na_20150922&nlid=62144678&ref=cta&_r=0)
+### [Volkswagen Says 11 Million Cars Worldwide Are Affected in Diesel Deception](http://www.nytimes.com/2015/09/23/business/international/volkswagen-diesel-car-scandal.html?emc=edit_na_20150922&nlid=62144678&ref=cta&_r=0)
 
 J
                                                           Ewing, Sept.
@@ -560,14 +511,11 @@ J
                                                           other efforts
                                                           to win back
                                                           the trust
-                                                          ..." [Read
-
-                                                          more](http://www.nytimes.com/2015/09/23/business/international/volkswagen-diesel-car-scandal.html?emc=edit_na_20150922&nlid=62144678&ref=cta&_r=0)
+                                                          ..." [Read more](http://www.nytimes.com/2015/09/23/business/international/volkswagen-diesel-car-scandal.html?emc=edit_na_20150922&nlid=62144678&ref=cta&_r=0)
 
 Hmmm...This is NOT pretty and well beyond GM's
                                                           ignition
-                                                          cover-up or "[unsafe at any
-                                                          speed](https://en.wikipedia.org/wiki/Unsafe_at_Any_Speed)"!
+                                                          cover-up or "[unsafe at any speed](https://en.wikipedia.org/wiki/Unsafe_at_Any_Speed)"!
                                                           This is
                                                           outright total
                                                           disregard of
@@ -584,9 +532,7 @@ Hmmm...This is NOT pretty and well beyond GM's
                                                           us?  Shame on
                                                           you VW!  Alain
 
-### [Volkswagen C.E.O. Martin Winterkorn Resigns Amid
-                                                          Emissions
-                                                          Scandal](http://www.nytimes.com/2015/09/24/business/international/volkswagen-chief-martin-winterkorn-resigns-amid-emissions-scandal.html)[](http://www.nytimes.com/aponline/2015/04/25/world/europe/ap-eu-volkswagen.html)
+### [Volkswagen C.E.O. Martin Winterkorn Resigns Amid Emissions Scandal](http://www.nytimes.com/2015/09/24/business/international/volkswagen-chief-martin-winterkorn-resigns-amid-emissions-scandal.html)
 
 "...Ferdinand
 
@@ -615,9 +561,7 @@ Hmmm...This is NOT pretty and well beyond GM's
                                                           resigning with
                                                           immediate
                                                           effect.  ..."
-                                                          [Read
-
-                                                          more](http://www.nytimes.com/2015/09/24/business/international/volkswagen-chief-martin-winterkorn-resigns-amid-emissions-scandal.html)
+                                                          [Read more](http://www.nytimes.com/2015/09/24/business/international/volkswagen-chief-martin-winterkorn-resigns-amid-emissions-scandal.html)
                                                           Hmmm...
 
                                                           Just the
@@ -625,14 +569,7 @@ Hmmm...This is NOT pretty and well beyond GM's
                                                           the fall-out.
                                                           Alain
 
-### [](http://www.nytimes.com/2015/09/23/business/international/volkswagen-diesel-car-scandal.html?emc=edit_na_20150922&nlid=62144678&ref=cta&_r=0)[As
-
-                                                          Volkswagen
-                                                          Pushed to Be
-                                                          No. 1,
-                                                          Ambitions
-                                                          Fueled a
-                                                          Scandal](http://www.nytimes.com/2015/09/27/business/as-vw-pushed-to-be-no-1-ambitions-fueled-a-scandal.html?hp&action=click&pgtype=Homepage&module=first-column-region&region=top-news&WT.nav=top-news&_r=0)
+### [As Volkswagen Pushed to Be No. 1, Ambitions Fueled a Scandal](http://www.nytimes.com/2015/09/27/business/as-vw-pushed-to-be-no-1-ambitions-fueled-a-scandal.html?hp&action=click&pgtype=Homepage&module=first-column-region&region=top-news&WT.nav=top-news&_r=0)
 
 D.
 
@@ -681,14 +618,7 @@ D.
                                                           action the
                                                           E.P.A. rebuked
                                                           in 1998, when
-                                                          [it
-
-                                                          reached a $1
-                                                          billion
-                                                          settlement
-                                                          with
-                                                          truck-engine
-                                                          manufacturers](http://www.nytimes.com/1998/10/22/us/record-penalty-likely-against-diesel-makers.html)
+                                                          [it reached a $1 billion settlement with truck-engine manufacturers](http://www.nytimes.com/1998/10/22/us/record-penalty-likely-against-diesel-makers.html)
                                                           for doing the
                                                           same
                                                           thing.....
@@ -721,8 +651,7 @@ D.
                                                           of the largest
                                                           advertising
                                                           arenas in the
-                                                          world, the [Super Bowl, to run
-                                                          a commercial](https://www.youtube.com/watch?v=ljI2S7rwZ1Y%20)showing
+                                                          world, the [Super Bowl, to run a commercial](https://www.youtube.com/watch?v=ljI2S7rwZ1Y%20)showing
 
                                                           its engineers
                                                           sprouting
@@ -761,20 +690,12 @@ D.
                                                           admitted what
                                                           the regulators
                                                           had suspected:
-                                                          .... " [Read
-
-                                                          more](http://www.nytimes.com/2015/09/27/business/as-vw-pushed-to-be-no-1-ambitions-fueled-a-scandal.html?hp&action=click&pgtype=Homepage&module=first-column-region&region=top-news&WT.nav=top-news&_r=0)
+                                                          .... " [Read more](http://www.nytimes.com/2015/09/27/business/as-vw-pushed-to-be-no-1-ambitions-fueled-a-scandal.html?hp&action=click&pgtype=Homepage&module=first-column-region&region=top-news&WT.nav=top-news&_r=0)
                                                           Hmmm...So
 
                                                           UGLY!!! Alain
 
-### [How
-
-                                                          Improved
-                                                          Vehicle Tech
-                                                          Is Changing
-                                                          the Casualty
-                                                          market](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/PDFs/OurNationsNeglectedInfrastructure.pdf)
+### [How Improved Vehicle Tech Is Changing the Casualty market](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/PDFs/OurNationsNeglectedInfrastructure.pdf)
 
 Starting
 
@@ -905,26 +826,16 @@ Starting
                                                           from companies
                                                           that will be
                                                           left
-                                                          behind...." [Read
-
-                                                          more](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/PDFs/OurNationsNeglectedInfrastructure.pdf)
+                                                          behind...." [Read more](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/PDFs/OurNationsNeglectedInfrastructure.pdf)
                                                           Hmmm...Yup!
 
                                                           Alain
 
-### [F.A.A.
-
-                                                          Opens Inquiry
-                                                          After Baby
-                                                          Hurt in Drone
-                                                          Crash](http://www.nytimes.com/2015/09/23/business/drone-crash-injures-baby-highlighting-faa-concerns.html?_r=0)
+### [F.A.A. Opens Inquiry After Baby Hurt in Drone Crash](http://www.nytimes.com/2015/09/23/business/drone-crash-injures-baby-highlighting-faa-concerns.html?_r=0)
 
                                                           D. Victor,
                                                           Sept
-                                                          23,"...The [Federal
-
-                                                          Aviation
-                                                          Administration](http://topics.nytimes.com/top/reference/timestopics/organizations/f/federal_aviation_administration/index.html?inline=nyt-org)said it is
+                                                          23,"...The [Federal Aviation Administration](http://topics.nytimes.com/top/reference/timestopics/organizations/f/federal_aviation_administration/index.html?inline=nyt-org)said it is
                                                           stepping up
                                                           its
                                                           enforcement of
@@ -940,9 +851,7 @@ Starting
                                                           this month
                                                           that injured
                                                           an infant.
-                                                          ..." [Read
-
-                                                          more](http://www.nytimes.com/2015/09/23/business/drone-crash-injures-baby-highlighting-faa-concerns.html?_r=0)
+                                                          ..." [Read more](http://www.nytimes.com/2015/09/23/business/drone-crash-injures-baby-highlighting-faa-concerns.html?_r=0)
                                                           Hmmm...Drones
 
                                                           today,
@@ -968,13 +877,7 @@ Starting
                                                           well at night.
                                                           Alain
 
-### [Five
-
-                                                          emerging
-                                                          battery
-                                                          technologies
-                                                          for electric
-                                                          vehicles](http://www.brookings.edu/blogs/techtank/posts/2015/09/15-five-emerging-battery-technologies)
+### [Five emerging battery technologies for electric vehicles](http://www.brookings.edu/blogs/techtank/posts/2015/09/15-five-emerging-battery-technologies)
 
 J. Karsten,
                                                           Sept 15, "As
@@ -1044,9 +947,7 @@ J. Karsten,
                                                           lightweight,
                                                           compact, and
                                                           affordable...."
-                                                          [Read
-
-                                                          more](http://www.brookings.edu/blogs/techtank/posts/2015/09/15-five-emerging-battery-technologies)
+                                                          [Read more](http://www.brookings.edu/blogs/techtank/posts/2015/09/15-five-emerging-battery-technologies)
                                                           Hmmm...Maybe
 
                                                           they are
@@ -1057,9 +958,7 @@ J. Karsten,
                                                           not simple.
                                                           They go as far
                                                           back as 1835,
-                                                          with [Thomas
-
-                                                          Davenport](https://en.wikipedia.org/wiki/Thomas_Davenport_%28inventor%29)
+                                                          with [Thomas Davenport](https://en.wikipedia.org/wiki/Thomas_Davenport_%28inventor%29)
                                                           all the best
                                                           minds have
                                                           tried to
@@ -1069,16 +968,10 @@ J. Karsten,
                                                           really tough!
                                                           Alain
 
-[](v)
 
 ## Recompiled Old News :
 
-### [It's
-
-                                                          a Beautiful
-                                                          (Pool) Day in
-                                                          the
-                                                          Neighborhood](https://newsroom.uber.com/la/2015/04/its-a-beautiful-pool-day-in-the-neighborhood/)
+### [It's a Beautiful (Pool) Day in the Neighborhood](https://newsroom.uber.com/la/2015/04/its-a-beautiful-pool-day-in-the-neighborhood/)
 
  C.
                                                           Myhrvold, Apri
@@ -1121,9 +1014,7 @@ J. Karsten,
                                                           that impact on
                                                           congestion can
                                                           be powerful.
-                                                          ..." [Read
-
-                                                          more](https://newsroom.uber.com/la/2015/04/its-a-beautiful-pool-day-in-the-neighborhood/)
+                                                          ..." [Read more](https://newsroom.uber.com/la/2015/04/its-a-beautiful-pool-day-in-the-neighborhood/)
                                                           Hmmm...Interesting.
 
                                                           Alain
@@ -1136,13 +1027,7 @@ J. Karsten,
                                                           deserve your
                                                           time:
 
-### [IBM
-
-                                                          boosts
-                                                          connected car
-                                                          data analysis
-                                                          with service
-                                                          launch](http://www.zdnet.com/article/ibm-boosts-connected-car-data-analysis-with-service-launch/)
+### [IBM boosts connected car data analysis with service launch](http://www.zdnet.com/article/ibm-boosts-connected-car-data-analysis-with-service-launch/)
 
 C.
 
@@ -1163,9 +1048,7 @@ C.
                                                           drivers to the
                                                           most efficient
                                                           traffic
-                                                          routes. ..." [Read
-
-                                                          more](http://www.zdnet.com/article/ibm-boosts-connected-car-data-analysis-with-service-launch/)      Hmmm...Poor Big Blue. Off on another wrong direction.
+                                                          routes. ..." [Read more](http://www.zdnet.com/article/ibm-boosts-connected-car-data-analysis-with-service-launch/)      Hmmm...Poor Big Blue. Off on another wrong direction.
                                                           What ever
                                                           happened to
                                                           its stock
@@ -1196,13 +1079,13 @@ C.
 
 ## Calendar of Upcoming Events:
 
-### [](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/PDFs/PCC9-Presenter%20Info.pdf)
+### 
 
-### [](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/PDFs/PCC9-Presenter%20Info.pdf)
+### 
 
-[November 4-6, 2015](http://www.podcarcity.org/siliconvalley)[](http://www.podcarcity.org/siliconvalley)[http://www.podcarcity.org/siliconvalley](http://www.podcarcity.org/siliconvalley)
+[November 4-6, 2015](http://www.podcarcity.org/siliconvalley)[http://www.podcarcity.org/siliconvalley](http://www.podcarcity.org/siliconvalley)
 
-### [](http://www.automatedfl.com/our-efforts/florida-automated-vehicles-summit/)
+### 
 
 [http://www.automatedfl.com/our-efforts/florida-automated-vehicles-summit/](http://www.automatedfl.com/our-efforts/florida-automated-vehicles-summit/)
 
@@ -1222,14 +1105,7 @@ C.
 
 ###
 
-### [Automakers
-
-                                                          Will Make
-                                                          Automatic
-                                                          Braking
-                                                          Systems
-                                                          Standard in
-                                                          New Cars](http://mobile.nytimes.com/2015/09/12/business/automakers-will-make-automatic-braking-systems-standard-in-new-cars.html)
+### [Automakers Will Make Automatic Braking Systems Standard in New Cars](http://mobile.nytimes.com/2015/09/12/business/automakers-will-make-automatic-braking-systems-standard-in-new-cars.html)
 
 B.
 
@@ -1261,11 +1137,7 @@ B.
                                                           of the
                                                           systems,
                                                           ...Anthony
-                                                          Foxx, [the
-
-                                                          transportation
-                                                          secretary,
-                                                          said](http://www.transportation.gov/briefing-room/us-dot-and-iihs-announce-historic-commitment-10-automakers-include-automatic-emergency) in a
+                                                          Foxx, [the transportation secretary, said](http://www.transportation.gov/briefing-room/us-dot-and-iihs-announce-historic-commitment-10-automakers-include-automatic-emergency) in a
                                                           prepared
                                                           statement that
                                                           emergency
@@ -1307,14 +1179,11 @@ B.
                                                           Highway
                                                           Traffic Safety
                                                           Administration
-                                                          said in [a
-                                                          statement](http://www.nhtsa.gov/About+NHTSA/Press+Releases/nhtsa-iihs-commitment-on-aeb-09112015)
+                                                          said in [a statement](http://www.nhtsa.gov/About+NHTSA/Press+Releases/nhtsa-iihs-commitment-on-aeb-09112015)
 (Same
 
                                                           as the DoT
-                                                          Statement.)  [Read
-
-                                                          more](http://mobile.nytimes.com/2015/09/12/business/automakers-will-make-automatic-braking-systems-standard-in-new-cars.html)  Hmmm... This is
+                                                          Statement.)  [Read more](http://mobile.nytimes.com/2015/09/12/business/automakers-will-make-automatic-braking-systems-standard-in-new-cars.html)  Hmmm... This is
                                                           major because
                                                           the automakers
                                                           "had
@@ -1385,12 +1254,7 @@ B.
 
 ###
 
-### [Google's
-
-                                                          Driverless
-                                                          Cars Run Into
-                                                          Problem: Cars
-                                                          With Drivers](http://www.nytimes.com/2015/09/02/technology/personaltech/google-says-its-not-the-driverless-cars-fault-its-other-drivers.html?_r=0)
+### [Google's Driverless Cars Run Into Problem: Cars With Drivers](http://www.nytimes.com/2015/09/02/technology/personaltech/google-says-its-not-the-driverless-cars-fault-its-other-drivers.html?_r=0)
 
                                                           M. Richtel
                                                           & C
@@ -1475,9 +1339,7 @@ B.
                                                           the right
                                                           amount depends
                                                           on the
-                                                          culture."... [Read
-
-                                                          more](http://www.nytimes.com/2015/09/02/technology/personaltech/google-says-its-not-the-driverless-cars-fault-its-other-drivers.html?_r=0)
+                                                          culture."... [Read more](http://www.nytimes.com/2015/09/02/technology/personaltech/google-says-its-not-the-driverless-cars-fault-its-other-drivers.html?_r=0)
                                                           Hmmm...
 
                                                           Much of this
@@ -1645,11 +1507,7 @@ Speed
 
                                                           Alain
 
-### [Truck
-
-                                                          Safety Out of
-                                                          the Box from
-                                                          Autonobox](http://www.driverlesstransportation.com/truck-safety-out-of-the-box-from-autonobox-9450)
+### [Truck Safety Out of the Box from Autonobox](http://www.driverlesstransportation.com/truck-safety-out-of-the-box-from-autonobox-9450)
 
                                                           B Simpson,
                                                           July 19, 2015
@@ -1691,22 +1549,12 @@ Speed
                                                           panic-stop or
                                                           sustained use
                                                           while going
-                                                          downhill.... [Read
-
-                                                          more](http://www.driverlesstransportation.com/truck-safety-out-of-the-box-from-autonobox-9450)  Hmmm...A viable after-market retro-fit opportunity.
+                                                          downhill.... [Read more](http://www.driverlesstransportation.com/truck-safety-out-of-the-box-from-autonobox-9450)  Hmmm...A viable after-market retro-fit opportunity.
                                                           Alain
 
 ###
 
-### [Self-Driving
-
-                                                          Cars Could
-                                                          Destroy
-                                                          Fine-Based
-                                                          City
-                                                          Government.
-                                                          What's the
-                                                          Downside?](https://reason.com/blog/2015/07/15/self-driving-cars-could-destroy-fine-bas)
+### [Self-Driving Cars Could Destroy Fine-Based City Government. What's the Downside?](https://reason.com/blog/2015/07/15/self-driving-cars-could-destroy-fine-bas)
 
                                                           S. Shackford,
                                                           July 15 "One
@@ -1764,9 +1612,7 @@ Speed
                                                           revenue from
                                                           registration
                                                           fees will drop
-                                                          as well.... [Read
-
-                                                          more](https://reason.com/blog/2015/07/15/self-driving-cars-could-destroy-fine-bas)    Hmmm...  No downside here!  These have to be one
+                                                          as well.... [Read more](https://reason.com/blog/2015/07/15/self-driving-cars-could-destroy-fine-bas)    Hmmm...  No downside here!  These have to be one
                                                           of the most
                                                           regressive tax
                                                           systems, just
@@ -1794,19 +1640,8 @@ Speed
 
 ###
 
-### [Lipinski
-
-                                                          Continues
-                                                          Efforts to
-                                                          Keep Cars and
-                                                          Other
-                                                          Transportation
-                                                          Safe from
-                                                          Cyber Attacks](http://www.lipinski.house.gov/press-releases/lipinski-continues-efforts-to-keep-cars-and-other-transportation-safe-from-cyber-attacks-in-wake-of-fiat-chrysler-recall/)in Wake of
-                                                          [Fiat
-
-                                                          Chrysler
-                                                          Recall](http://www.wsj.com/articles/fiat-chrysler-recalls-1-4-million-vehicles-amid-hacking-concerns-1437751526)
+### [Lipinski Continues Efforts to Keep Cars and Other Transportation Safe from Cyber Attacks](http://www.lipinski.house.gov/press-releases/lipinski-continues-efforts-to-keep-cars-and-other-transportation-safe-from-cyber-attacks-in-wake-of-fiat-chrysler-recall/)in Wake of
+                                                          [Fiat Chrysler Recall](http://www.wsj.com/articles/fiat-chrysler-recalls-1-4-million-vehicles-amid-hacking-concerns-1437751526)
 
 July
 
@@ -1856,9 +1691,7 @@ July
                                                           cybersecurity
                                                           research and
                                                           development
-                                                          efforts.  " [Read
-
-                                                          mor](http://www.lipinski.house.gov/press-releases/lipinski-continues-efforts-to-keep-cars-and-other-transportation-safe-from-cyber-attacks-in-wake-of-fiat-chrysler-recall/)e Hmmm...  Besides protecting we must also prosecute.
+                                                          efforts.  " [Read mor](http://www.lipinski.house.gov/press-releases/lipinski-continues-efforts-to-keep-cars-and-other-transportation-safe-from-cyber-attacks-in-wake-of-fiat-chrysler-recall/)e Hmmm...  Besides protecting we must also prosecute.
                                                           There has to
                                                           be bad
                                                           consequences
@@ -1874,14 +1707,7 @@ July
 
 ###
 
-### [Center
-
-                                                          for Automated
-                                                          Road
-                                                          Transportation
-                                                          Safety @ Fort
-                                                          Monmouth is
-                                                          Launched](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/FtMonmouth/NJCARTS/PressRelease_CARTS@FM.pdf)
+### [Center for Automated Road Transportation Safety @ Fort Monmouth is Launched](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/FtMonmouth/NJCARTS/PressRelease_CARTS@FM.pdf)
 
                                                           Monday, July
                                                           20, 2015 –
@@ -1947,9 +1773,7 @@ July
                                                           road system:
                                                           trucks, buses
                                                           and cars. .."
-                                                          [Read
-
-                                                          more](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/FtMonmouth/NJCARTS/PressRelease_CARTS@FM.pdf)
+                                                          [Read more](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/FtMonmouth/NJCARTS/PressRelease_CARTS@FM.pdf)
 
 ###
 
@@ -1957,15 +1781,7 @@ July
 
 ###
 
-### [Automatic
-
-                                                          Cars Or
-                                                          Distracted
-                                                          Drivers: We
-                                                          Need
-                                                          Automation
-                                                          Sooner, Not
-                                                          Later](https://www.linkedin.com/pulse/automatic-cars-distracted-drivers-we-need-automation-sooner-norman)
+### [Automatic Cars Or Distracted Drivers: We Need Automation Sooner, Not Later](https://www.linkedin.com/pulse/automatic-cars-distracted-drivers-we-need-automation-sooner-norman)
 
 D.
 
@@ -2035,9 +1851,7 @@ D.
                                                           disease which
                                                           corrupts
                                                           products...."
-                                                          [Read
-
-                                                          more](https://www.linkedin.com/pulse/automatic-cars-distracted-drivers-we-need-automation-sooner-norman)
+                                                          [Read more](https://www.linkedin.com/pulse/automatic-cars-distracted-drivers-we-need-automation-sooner-norman)
 
 Hmmm.... Yup!!  Plus more comments from Don... "You might also want to add your traditional sarcasm
                                                           saying "He saw
@@ -2108,9 +1922,7 @@ Hmmm.... Yup!!  Plus more comments from Don... "You might also want to add your
 
                                                           would not be
                                                           bad to re-read
-                                                          the [1983
-
-                                                          paper](https://www.ise.ncsu.edu/nsf_itr/794B/papers/Bainbridge_1983_Automatica.pdf).).
+                                                          the [1983 paper](https://www.ise.ncsu.edu/nsf_itr/794B/papers/Bainbridge_1983_Automatica.pdf).).
 
                                                           So we have to
                                                           skip this
@@ -2215,28 +2027,13 @@ Hmmm.... Yup!!  Plus more comments from Don... "You might also want to add your
 
 ###
 
-### [Rep.
-
-                                                          Lipinski
-                                                          Introduces
-                                                          Future
-                                                          Transportation
-                                                          Research and
-                                                          Innovation Act](http://www.chicagotribune.com/suburbs/la-grange/community/chi-ugc-article-rep-lipinski-introduces-future-transportatio-2015-06-29-story.html#page=1)
+### [Rep. Lipinski Introduces Future Transportation Research and Innovation Act](http://www.chicagotribune.com/suburbs/la-grange/community/chi-ugc-article-rep-lipinski-introduces-future-transportatio-2015-06-29-story.html#page=1)
 
                                                           I. Sancken
                                                           03/29/15,
                                                           "Congressman
                                                           Dan Lipinski
-                                                          (IL-3) has [introduced
-
-                                                          H.R. 2886, the
-                                                          Future
-                                                          Transportation
-                                                          Research and
-                                                          Innovation for
-                                                          Prosperity
-                                                          (TRIP) Act](https://www.congress.gov/bill/114th-congress/house-bill/2886/text),
+                                                          (IL-3) has [introduced H.R. 2886, the Future Transportation Research and Innovation for Prosperity (TRIP) Act](https://www.congress.gov/bill/114th-congress/house-bill/2886/text),
                                                           to support
                                                           innovative
                                                           technologies
@@ -2289,17 +2086,9 @@ Hmmm.... Yup!!  Plus more comments from Don... "You might also want to add your
                                                           personal
                                                           mobility, and
                                                           cut energy
-                                                          use..."  [Read
+                                                          use..."  [Read more](http://www.chicagotribune.com/suburbs/la-grange/community/chi-ugc-article-rep-lipinski-introduces-future-transportatio-2015-06-29-story.html#page=1)  Hmmm... Excellent!  Alain
 
-                                                          more](http://www.chicagotribune.com/suburbs/la-grange/community/chi-ugc-article-rep-lipinski-introduces-future-transportatio-2015-06-29-story.html#page=1)  Hmmm... Excellent!  Alain
-
-### [MOSI
-
-                                                          debuts
-                                                          nation's first
-                                                          driverless
-                                                          vehicle open
-                                                          to public](http://www.baynews9.com/content/news/baynews9/on-the-town/article.html/content/news/articles/bn9/2015/6/12/mosi_debuts_nation_s.html)
+### [MOSI debuts nation's first driverless vehicle open to public](http://www.baynews9.com/content/news/baynews9/on-the-town/article.html/content/news/articles/bn9/2015/6/12/mosi_debuts_nation_s.html)
 
 D.
 
@@ -2327,26 +2116,12 @@ D.
                                                           to ride around
                                                           the first
                                                           floor of the
-                                                          museum.  [Read
-
-                                                          more](http://www.baynews9.com/content/news/baynews9/on-the-town/article.html/content/news/articles/bn9/2015/6/12/mosi_debuts_nation_s.html)  Hmmm... It is all about starting.  Congratulations!
+                                                          museum.  [Read more](http://www.baynews9.com/content/news/baynews9/on-the-town/article.html/content/news/articles/bn9/2015/6/12/mosi_debuts_nation_s.html)  Hmmm... It is all about starting.  Congratulations!
                                                           Alain
 
 ###
 
-### [NTSB
-
-                                                          Calls for
-                                                          Immediate
-                                                          Action on
-                                                          Collision
-                                                          Avoidance
-                                                          Systems for
-                                                          Vehicles;
-                                                          Cites Slow
-                                                          Progress as
-                                                          Major Safety
-                                                          Issue](http://www.ntsb.gov/news/press-releases/Pages/PR20150608b.aspx)
+### [NTSB Calls for Immediate Action on Collision Avoidance Systems for Vehicles; Cites Slow Progress as Major Safety Issue](http://www.ntsb.gov/news/press-releases/Pages/PR20150608b.aspx)
 
                                                           6/8/15 "
                                                           WASHINGTON –
@@ -2387,9 +2162,7 @@ D.
                                                           prevent a
                                                           collision
                                                           altogether."...
-                                                          [Read
-
-                                                          more](http://www.ntsb.gov/news/press-releases/Pages/PR20150608b.aspx)  Hmmm   Yea!!!  Finally some semblance of
+                                                          [Read more](http://www.ntsb.gov/news/press-releases/Pages/PR20150608b.aspx)  Hmmm   Yea!!!  Finally some semblance of
                                                           sanity in
                                                           Washington.
                                                           Alain
@@ -2398,14 +2171,7 @@ D.
 
 ###
 
-### [John
-
-                                                          F. Nash Jr.,
-                                                          Math Genius
-                                                          Defined by a
-                                                          'Beautiful
-                                                          Mind,' Dies at
-                                                          86](http://www.nytimes.com/2015/05/25/science/john-nash-a-beautiful-mind-subject-and-nobel-winner-dies-at-86.html)
+### [John F. Nash Jr., Math Genius Defined by a 'Beautiful Mind,' Dies at 86](http://www.nytimes.com/2015/05/25/science/john-nash-a-beautiful-mind-subject-and-nobel-winner-dies-at-86.html)
 
                                                           E. Goodmay,
                                                           May 24 "...Dr.
@@ -2445,25 +2211,12 @@ D.
                                                           they had not
                                                           been wearing
                                                           seatbelts....
-                                                          [Read
-
-                                                          more](http://www.nytimes.com/2015/05/25/science/john-nash-a-beautiful-mind-subject-and-nobel-winner-dies-at-86.html)
+                                                          [Read more](http://www.nytimes.com/2015/05/25/science/john-nash-a-beautiful-mind-subject-and-nobel-winner-dies-at-86.html)
 
                                                           See also:
-[John,
+[John, Alicia Nash Remembered After Fatal Crash](http://www.towntopics.com/wordpress/2015/05/27/john-alicia-nash-remembered-after-fatal-crash/)
 
-                                                          Alicia Nash
-                                                          Remembered
-                                                          After Fatal
-                                                          Crash](http://www.towntopics.com/wordpress/2015/05/27/john-alicia-nash-remembered-after-fatal-crash/)
-
-[A
-                                                          Beautiful Mind
-                                                          Mathematician
-                                                          John Nash and
-                                                          His Wife
-                                                          Killed in N.J.
-                                                          Car Crash](http://nymag.com/daily/intelligencer/2015/05/mathematician-john-nash-and-wife-killed-in-crash.html)
+[A Beautiful Mind Mathematician John Nash and His Wife Killed in N.J. Car Crash](http://nymag.com/daily/intelligencer/2015/05/mathematician-john-nash-and-wife-killed-in-crash.html)
                                                           ;
 
 Hmmm...
@@ -2485,15 +2238,7 @@ Unfortunately,
                                                           fundamental
                                                           point by
                                                           following up
-                                                          with ["Deaths
-
-                                                          of Math Genius
-                                                          John F. Nash
-                                                          Jr. and Wife
-                                                          Show Need to
-                                                          Use Seatbelts
-                                                          in Back,
-                                                          Experts Say](http://www.nytimes.com/2015/05/26/nyregion/deaths-of-math-genius-john-f-nash-jr-and-his-wife-show-need-to-use-seatbelts-in-back-experts-say.html)
+                                                          with ["Deaths of Math Genius John F. Nash Jr. and Wife Show Need to Use Seatbelts in Back, Experts Say](http://www.nytimes.com/2015/05/26/nyregion/deaths-of-math-genius-john-f-nash-jr-and-his-wife-show-need-to-use-seatbelts-in-back-experts-say.html)
                                                           ".  Why do we
                                                           so easily put
                                                           up with
@@ -2621,13 +2366,7 @@ Moreover, there is a failed Taxi regulatory structure
 
 ###
 
-### [The
-
-                                                          View from the
-                                                          Front Seat of
-                                                          the Google
-                                                          Self-Driving
-                                                          Car](https://medium.com/backchannel/the-view-from-the-front-seat-of-the-google-self-driving-car-46fc9f3e6088)
+### [The View from the Front Seat of the Google Self-Driving Car](https://medium.com/backchannel/the-view-from-the-front-seat-of-the-google-self-driving-car-46fc9f3e6088)
 
                                                           Chris Urmson
                                                           May 11, 2015
@@ -2774,9 +2513,7 @@ Moreover, there is a failed Taxi regulatory structure
                                                           car that can
                                                           shoulder this
                                                           burden for
-                                                          us." [Read
-
-                                                          more](https://medium.com/backchannel/the-view-from-the-front-seat-of-the-google-self-driving-car-46fc9f3e6088)
+                                                          us." [Read more](https://medium.com/backchannel/the-view-from-the-front-seat-of-the-google-self-driving-car-46fc9f3e6088)
 
                                                           Hmmm.... MUST
 
@@ -2801,7 +2538,7 @@ Moreover, there is a failed Taxi regulatory structure
                                                           of us can... "...work hard on
                                                           developing..." SmartDrivingCars "....that can shoulder this burden for us." Alain
 
-                                                          [](Mailto:alaink@princeton.edu)[Mailto:alaink@princeton.edu](Mailto:alaink@princeton.edu) [](Mailto:alaink@princeton.edu)
+                                                          [Mailto:alaink@princeton.edu](Mailto:alaink@princeton.edu) 
 
                                                           This list is
                                                           maintained by

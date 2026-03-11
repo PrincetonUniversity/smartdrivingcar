@@ -5,23 +5,12 @@ date: 2016-03-25
 permalink: /2016-03-25-2016-03-25/
 ---
 
-### [Hearing
+### [Hearing focus of SF 2569 Autonomous vehicles task force establishment and demonstration project for people with disabilities](http://mnsenate.granicus.com/MediaPlayer.php?view_id=1&clip_id=235)
 
-                        focus of SF 2569 Autonomous vehicles task force
-                        establishment and demonstration project for
-                        people with disabilities](http://mnsenate.granicus.com/MediaPlayer.php?view_id=1&clip_id=235)
+                    March 23 Hmmm... [Watch the video of the Committee Meeting](http://mnsenate.granicus.com/MediaPlayer.php?view_id=1&clip_id=235).  The testimony is Excellent
+                        and very compelling! Also see [Self-Driving Minnesota](http://www.selfdrivingmn.org/) Alain
 
-                    March 23 Hmmm... [Watch
-
-                          the video of the Committee
-
-                            Meeting](http://mnsenate.granicus.com/MediaPlayer.php?view_id=1&clip_id=235).  The testimony is Excellent
-                        and very compelling! Also see [Self-Driving
-
-                          Minnesota](http://www.selfdrivingmn.org/) Alain
-
-### [Self-Driving Vehicle Pilot Project
-                        Moves Forward in MN Senate](http://www.ktoe.com/2016/03/24/self-driving-vehicle-pilot-project-moves-forward-in-mn-senate/)
+### [Self-Driving Vehicle Pilot Project Moves Forward in MN Senate](http://www.ktoe.com/2016/03/24/self-driving-vehicle-pilot-project-moves-forward-in-mn-senate/)
 
 Mar 24, "A demonstration project to see if
                       self-driving vehicles could be used on Minnesota
@@ -33,33 +22,21 @@ Mar 24, "A demonstration project to see if
                       Disability told lawmakers self-driving cars have
                       great potential to advance social inclusion for
                       Minnesotans with disabilities, including those
-                      with visual impairment... [Read
-
-                        more](http://www.ktoe.com/2016/03/24/self-driving-vehicle-pilot-project-moves-forward-in-mn-senate/)  Hmmm... [Watch
-
-                            the hearing linked above](http://mnsenate.granicus.com/MediaPlayer.php?view_id=1&clip_id=235).  Excellent
+                      with visual impairment... [Read more](http://www.ktoe.com/2016/03/24/self-driving-vehicle-pilot-project-moves-forward-in-mn-senate/)  Hmmm... [Watch the hearing linked above](http://mnsenate.granicus.com/MediaPlayer.php?view_id=1&clip_id=235).  Excellent
                           testimony. Alain
 
-### [Daimler
+### [Daimler videos promote platooning](http://smarthighways.net/daimler-videos-promote-platooning/)
 
-                        videos promote platooning](http://smarthighways.net/daimler-videos-promote-platooning/)
-
-[](http://www.wired.com/2016/03/self-driving-cars-wont-work-change-roads-attitudes/) Mar 22,"Daimler Trucks has posted a series of
+ Mar 22,"Daimler Trucks has posted a series of
                     new videos promoting its Highway Pilot Connect
                     system, with three freight trucks platooning and
-                    running on the autobahn near Dusseldorf...."[Read more](http://www.wired.com/2016/03/self-driving-cars-wont-work-change-roads-attitudes/)[See
-
-                          Video](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Videos/DaimlerTruckPlatoon033416.mp4) Hmmm... Progress
+                    running on the autobahn near Dusseldorf...."[Read more](http://www.wired.com/2016/03/self-driving-cars-wont-work-change-roads-attitudes/)[See Video](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Videos/DaimlerTruckPlatoon033416.mp4) Hmmm... Progress
 
                             in Europe where truck Automated Emergency
                             Braking is Mandatory. See
-                        also [Peloton's
+                        also [Peloton's Platooning video](http://www.peloton-tech.com/).  Alain
 
-                          Platooning video](http://www.peloton-tech.com/).  Alain
-
-### [Driverless
-
-                        Bus System Showcases Future of Public Transit](http://www.curbed.com/2016/3/17/11253500/driverless-car-autonomous-vehicle-wepod-bus)
+### [Driverless Bus System Showcases Future of Public Transit](http://www.curbed.com/2016/3/17/11253500/driverless-car-autonomous-vehicle-wepod-bus)
 
                     P. Sisson, Mar 17, "...After two months of test runs
                     down a 200-meter stretch of public road, the system
@@ -73,18 +50,13 @@ Mar 24, "A demonstration project to see if
                     open-source project, meaning it will be available
                     for other companies and municipalities to adapt and
                     utilize (Rotterdam, Amsterdam, and Brussels have
-                    already expressed interest).... [Read
-
-                      mor](http://www.curbed.com/2016/3/17/11253500/driverless-car-autonomous-vehicle-wepod-bus)e  Hmmm...
+                    already expressed interest).... [Read mor](http://www.curbed.com/2016/3/17/11253500/driverless-car-autonomous-vehicle-wepod-bus)e  Hmmm...
                       Many localities should be
                             looking at this near-term opportunity.
 
                         Alain
 
-### [Domino's
-
-                        Is Launching A Self-Driving Pizza Delivery
-                        Robot. No Really](http://www.lifehacker.com.au/2016/03/dominos-is-launching-an-autonomous-pizza-delivery-robot/)
+### [Domino's Is Launching A Self-Driving Pizza Delivery Robot. No Really](http://www.lifehacker.com.au/2016/03/dominos-is-launching-an-autonomous-pizza-delivery-robot/)
 
                      C. Jager, Mar 18, "The future is pizza. Last night,
                     Domino's Australia unveiled DRU — the world's first
@@ -94,9 +66,7 @@ Mar 24, "A demonstration project to see if
                     to customers. We were given a sneak peak of the
                     first prototype in Brisbane, which will be the
                     testing ground for this cutting-edge delivery
-                    system. Here's everything you need to know!... [Read
-
-                      more](http://www.lifehacker.com.au/2016/03/dominos-is-launching-an-autonomous-pizza-delivery-robot/) Hmmm... I
+                    system. Here's everything you need to know!... [Read more](http://www.lifehacker.com.au/2016/03/dominos-is-launching-an-autonomous-pizza-delivery-robot/) Hmmm... I
                             didn't put this in Half-Baked because, while
                             it might it might not be real, it could be
                             real, especially in a gated community
@@ -106,16 +76,9 @@ Mar 24, "A demonstration project to see if
                             prior, or certainly in conjunction with,
                             Level 4 moving people. See
 
-                        also: [The
+                        also: [The end of the courier? Self-driving 'ground drones' are heading to London to make deliveries across the capital](http://www.dailymail.co.uk/sciencetech/article-3459854/The-end-courier-Self-driving-ground-drone-takes-streets-London-make-drops-capital.html). Alain
 
-                        end of the courier? Self-driving 'ground drones'
-                        are heading to London to make deliveries across
-                        the capital](http://www.dailymail.co.uk/sciencetech/article-3459854/The-end-courier-Self-driving-ground-drone-takes-streets-London-make-drops-capital.html). Alain
-
-### [Review
-
-                        of Federal Motor Vehicle Safety Standards(FMVSS)
-                        for Automated Vehicles](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/PDFs/Volpe_Review_FMVSS_AV_March2016.pdf)
+### [Review of Federal Motor Vehicle Safety Standards(FMVSS) for Automated Vehicles](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/PDFs/Volpe_Review_FMVSS_AV_March2016.pdf)
 
                     A. Kim, March '16, "The purpose of this work is to
                     identify instances where the existing Federal Motor
@@ -140,9 +103,7 @@ Mar 24, "A demonstration project to see if
                     alternative cabin layouts, omission of manual
                     controls) would be constrained by the current FMVSS
                     or may not fully meet the objectives of the
-                    FMVSS..." [Read
-
-                      more](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/PDFs/Volpe_Review_FMVSS_AV_March2016.pdf)  Hmmm... Well
+                    FMVSS..." [Read more](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/PDFs/Volpe_Review_FMVSS_AV_March2016.pdf)  Hmmm... Well
                         worth reading and quite appropriate when dealing
                         with NHTSA Levels 1 through 3; however, Maybe we
                         should start thinking of Level 4 to be an
@@ -160,8 +121,7 @@ Mar 24, "A demonstration project to see if
                         doesn't allow it to be human controlled in
                         repair/maintenance situations. Alain
 
-### [U.S. DOT to host public meetings
-                        on safe operation of automated vehicles](http://www.nhtsa.gov/About+NHTSA/Press+Releases/nhtsa-meetings-automated-vehicles-03112016)
+### [U.S. DOT to host public meetings on safe operation of automated vehicles](http://www.nhtsa.gov/About+NHTSA/Press+Releases/nhtsa-meetings-automated-vehicles-03112016)
 
 G. Trowbridge, Mar 11, "The U.S. Department of
                       Transportation's National Highway Traffic Safety
@@ -178,13 +138,10 @@ G. Trowbridge, Mar 11, "The U.S. Department of
                       Washington, D.C. Details on date and location of
                       the second meeting in California, as well as how
                       members of the public can participate, will be
-                      published soon. [Read
-
-                        more](http://www.nhtsa.gov/About+NHTSA/Press+Releases/nhtsa-meetings-automated-vehicles-03112016)  Hmmm... Save
+                      published soon. [Read more](http://www.nhtsa.gov/About+NHTSA/Press+Releases/nhtsa-meetings-automated-vehicles-03112016)  Hmmm... Save
                           the Date: April 8. Alain
 
-### [Willow Run driverless car test
-                        site names CEO, board](http://www.detroitnews.com/story/business/autos/2016/03/18/willow-run-driverless-cars/81967990/)
+### [Willow Run driverless car test site names CEO, board](http://www.detroitnews.com/story/business/autos/2016/03/18/willow-run-driverless-cars/81967990/)
 
                     M. Martinez , Mar 18, "The site where Rosie the
                     Riveters once assembled B-24 Liberators for the
@@ -198,18 +155,13 @@ G. Trowbridge, Mar 11, "The U.S. Department of
                     plant in Ypsilanti. John Maddox, who serves as
                     assistant director of a group that runs the state's
                     other driverless car test site, MCity, was named
-                    CEO..."[Read
-
-                      more](http://www.detroitnews.com/story/business/autos/2016/03/18/willow-run-driverless-cars/81967990/)  Hmmm...
+                    CEO..."[Read more](http://www.detroitnews.com/story/business/autos/2016/03/18/willow-run-driverless-cars/81967990/)  Hmmm...
                         Congratulations John!! Alain
 
 ## Some other
                         thoughts that deserve your attention
 
-### [FBI
-
-                        warns automakers, owners about vehicle hacking
-                        risks](http://www.reuters.com/article/us-fbi-autos-cyber-idUSKCN0WK0BB)
+### [FBI warns automakers, owners about vehicle hacking risks](http://www.reuters.com/article/us-fbi-autos-cyber-idUSKCN0WK0BB)
 
 Reuters, Mar 17,"The FBI and U.S. National
                       Highway Traffic Safety Administration (NHTSA)
@@ -226,16 +178,11 @@ Reuters, Mar 17,"The FBI and U.S. National
                       NV recalled 1.4 million U.S. vehicles to install
                       software after a magazine report raised concerns
                       about hacking, the first action of its kind for
-                      the auto industry...." [Read
-
-                        mor](http://www.reuters.com/article/us-fbi-autos-cyber-idUSKCN0WK0BB)e Hmmm...
+                      the auto industry...." [Read mor](http://www.reuters.com/article/us-fbi-autos-cyber-idUSKCN0WK0BB)e Hmmm...
 
                           This is a problem. Alain
 
-### [After
-
-                        a year, Carnegie Mellon and Uber research
-                        initiative is stalled](http://www.reuters.com/article/us-uber-tech-research-idUSKCN0WN0WR)
+### [After a year, Carnegie Mellon and Uber research initiative is stalled](http://www.reuters.com/article/us-uber-tech-research-idUSKCN0WN0WR)
 
                     Reuters, Mar 21,"More than a year after Uber
                     announced a research pact with Carnegie Mellon
@@ -244,9 +191,7 @@ Reuters, Mar 17,"The FBI and U.S. National
                     technicians - the ride-hailing company and
                     university have not collaborated on a single
                     project, according to CMU faculty and
-                    administrators....." [Read
-
-                      mor](http://www.reuters.com/article/us-uber-tech-research-idUSKCN0WN0WR)e Hmmm...
+                    administrators....." [Read mor](http://www.reuters.com/article/us-uber-tech-research-idUSKCN0WN0WR)e Hmmm...
                         Hmmm???. Alain
 
 ## [On the More Technical Side](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Papers/)
@@ -269,38 +214,27 @@ Reuters, Mar 17,"The FBI and U.S. National
 
                                 of Upcoming Events:
 
-### [](http://www.wired.com/2016/03/self-driving-cars-wont-work-change-roads-attitudes/)
+### 
 
-### [Public
-
-                              Meeting on Safe Operation of Automated
-                              Vehicles](http://www.nhtsa.gov/About+NHTSA/Press+Releases/nhtsa-meetings-automated-vehicles-03112016)
+### [Public Meeting on Safe Operation of Automated Vehicles](http://www.nhtsa.gov/About+NHTSA/Press+Releases/nhtsa-meetings-automated-vehicles-03112016)
 
 April 8
 
                             Washington DC
 
-[](http://www.autonomoustrucksevent.com/agenda-mc)
 
 ### [http://www.autonomoustrucksevent.com/agenda-mc](http://www.autonomoustrucksevent.com/agenda-mc)
 
-### [Workshop
+### [Workshop on Automated Ve](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/PDFs/AutomatedVehiclePolicyAndRegulationV8DRAFT-1.pdf)[hicle Policy and Regulation:](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/PDFs/AutomatedVehiclePolicyAndRegulationV8DRAFT-1.pdf)
 
-                                        on Automated Ve](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/PDFs/AutomatedVehiclePolicyAndRegulationV8DRAFT-1.pdf)[hicle
-
-                                        Policy and Regulation:](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/PDFs/AutomatedVehiclePolicyAndRegulationV8DRAFT-1.pdf)
-
-[A
-                                      State Perspective](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/PDFs/AutomatedVehiclePolicyAndRegulationV8DRAFT-1.pdf)
+[A State Perspective](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/PDFs/AutomatedVehiclePolicyAndRegulationV8DRAFT-1.pdf)
 
 The National Transportation
                                   Center, University of Maryland
 
                           May 18, 2016
 
-[Preliminary
-
-                            Program](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/PDFs/AutomatedVehiclePolicyAndRegulationV8DRAFT-1.pdf)
+[Preliminary Program](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/PDFs/AutomatedVehiclePolicyAndRegulationV8DRAFT-1.pdf)
 
 ### Recent
 
@@ -310,10 +244,7 @@ The National Transportation
 
 ###
 
-### [Uber
-                                                        seeking to buy
-                                                        self-driving
-                                                        cars: source](http://www.reuters.com/article/us-daimler-uber-idUSKCN0WK1C8)
+### [Uber seeking to buy self-driving cars: source](http://www.reuters.com/article/us-daimler-uber-idUSKCN0WK1C8)
 
                                                       Reuters, Mar 19,
                                                       "Ride-hailing
@@ -363,9 +294,7 @@ The National Transportation
                                                       not yet have fully
                                                       autonomous driving
                                                       functionality.."
-                                                      [Read
-
-                                                        more](http://www.reuters.com/article/us-daimler-uber-idUSKCN0WK1C8)  Hmmmm...Uber
+                                                      [Read more](http://www.reuters.com/article/us-daimler-uber-idUSKCN0WK1C8)  Hmmmm...Uber
 
                                                           has the
                                                           current
@@ -440,17 +369,7 @@ The National Transportation
                                                           business??
                                                           :-)  Alain
 
-### [U.S.
-
-                                                        DOT and IIHS
-                                                        announce
-                                                        historic
-                                                        commitment of 20
-                                                        automakers to
-                                                        make automatic
-                                                        emergency
-                                                        braking standard
-                                                        on new vehicles](http://www.nhtsa.gov/About+NHTSA/Press+Releases/nhtsa-iihs-commitment-on-aeb-03172016)
+### [U.S. DOT and IIHS announce historic commitment of 20 automakers to make automatic emergency braking standard on new vehicles](http://www.nhtsa.gov/About+NHTSA/Press+Releases/nhtsa-iihs-commitment-on-aeb-03172016)
 
                                                       Press Release, Mar
                                                       17, NHTSA &
@@ -531,13 +450,7 @@ The National Transportation
                                                       vehicles with this
                                                       level of
                                                       capability are
-                                                      avoiding crashes..[Watch NHTSA video on
-                                                        AEB](https://www.youtube.com/watch?v=Src2jhS4wcA)  [Download
-
-                                                        AEB video from
-                                                        IIHS](https://www.hightail.com/download/ZWJVbGtNR3NrWTg4RmNUQw)[Read
-
-                                                        more](http://www.nhtsa.gov/About+NHTSA/Press+Releases/nhtsa-iihs-commitment-on-aeb-03172016)  Hmmmm...Fantastic!
+                                                      avoiding crashes..[Watch NHTSA video on AEB](https://www.youtube.com/watch?v=Src2jhS4wcA)  [Download AEB video from IIHS](https://www.hightail.com/download/ZWJVbGtNR3NrWTg4RmNUQw)[Read more](http://www.nhtsa.gov/About+NHTSA/Press+Releases/nhtsa-iihs-commitment-on-aeb-03172016)  Hmmmm...Fantastic!
 
                                                           Automakers
                                                           leading with
@@ -547,13 +460,7 @@ The National Transportation
                                                           the way.
                                                           Alain
 
-### [GM
-
-                                                        Buying
-                                                        Self-Driving
-                                                        Tech Startup for
-                                                        More Than $1
-                                                        Billion](http://fortune.com/2016/03/11/gm-buying-self-driving-tech-startup-for-more-than-1-billion/)
+### [GM Buying Self-Driving Tech Startup for More Than $1 Billion](http://fortune.com/2016/03/11/gm-buying-self-driving-tech-startup-for-more-than-1-billion/)
 
 D.
                                                       Patrick Mar
@@ -597,39 +504,20 @@ D.
                                                       the entire
                                                       agreement getting
                                                       hashed out in less
-                                                      than six weeks. [Read
-
-                                                        more](http://fortune.com/2016/03/11/gm-buying-self-driving-tech-startup-for-more-than-1-billion/)Hmmmm...That
+                                                      than six weeks. [Read more](http://fortune.com/2016/03/11/gm-buying-self-driving-tech-startup-for-more-than-1-billion/)Hmmmm...That
 
                                                           sets the bar.
                                                           Reminiscent of
-                                                          [AOL
+                                                          [AOL paying $1.1B for MapQuest](http://www.ecommercetimes.com/story/2068.html)
+                                                          resulting in [NavTeq getting $8.1B from Nokia](http://mashable.com/2007/10/01/nokia-navteq/#CnEKJL0cUOqM)
+                                                          followed by [Here getting $3B from MB et al](http://mashable.com/2007/10/01/nokia-navteq/#CnEKJL0cUOqM).
 
-                                                          paying $1.1B
-                                                          for MapQuest](http://www.ecommercetimes.com/story/2068.html)
-                                                          resulting in [NavTeq
-                                                          getting $8.1B
-                                                          from Nokia](http://mashable.com/2007/10/01/nokia-navteq/#CnEKJL0cUOqM)
-                                                          followed by [Here
-                                                          getting $3B
-                                                          from MB et al](http://mashable.com/2007/10/01/nokia-navteq/#CnEKJL0cUOqM).
-
-                                                          [Deja
-
-                                                          vu all over
-                                                          again!](http://yogiberramuseum.org/just-for-fun/yogisms/)
+                                                          [Deja vu all over again!](http://yogiberramuseum.org/just-for-fun/yogisms/)
                                                           Very
                                                           interesting
                                                           :-)  Alain
 
-### [THE
-
-                                                        ROAD NOT TAKEN:
-                                                        How we found
-                                                        (and lost) the
-                                                        dream of
-                                                        Personal Rapid
-                                                        Transit](THE%20ROAD%20NOT%20TAKEN:%20How%20we%20found%20%28and%20lost%29%20the%20dream%20of%20Personal%20Rapid%20Transit)
+### [THE ROAD NOT TAKEN: How we found (and lost) the dream of Personal Rapid Transit](THE%20ROAD%20NOT%20TAKEN:%20How%20we%20found%20%28and%20lost%29%20the%20dream%20of%20Personal%20Rapid%20Transit)
 
                                                       A. Robertson, Feb
                                                       10 , Feb. "...Half
@@ -898,12 +786,7 @@ D.
                                                           cities and
                                                           suburbs. Alain
 
-[Vancouver
-
-                                                        councillor wants
-                                                        city to prepare
-                                                        for driverless
-                                                        cars](http://www.vancouversun.com/news/vancouver+city+councillor+wants+study+impact+driverless+cars/11726263/story.html)  T.
+[Vancouver councillor wants city to prepare for driverless cars](http://www.vancouversun.com/news/vancouver+city+councillor+wants+study+impact+driverless+cars/11726263/story.html)  T.
                                                       Fletcher, Feb 18
                                                       "Driverless cars
                                                       might seem like a
@@ -961,9 +844,7 @@ D.
                                                       just did, to
                                                         be obsolete
                                                         before it even
-                                                        starts."..."  [Read
-
-                                                        more](http://www.nsc.org/NewsDocuments/2016/mv-fatality-report-1215.pdf)Hmmmm...Yup!
+                                                        starts."..."  [Read more](http://www.nsc.org/NewsDocuments/2016/mv-fatality-report-1215.pdf)Hmmmm...Yup!
 
                                                           Obviously,
                                                           "obsolescence
@@ -974,12 +855,7 @@ D.
                                                           try to avoid.
                                                           Alain
 
-### [Motor
-
-                                                        Vehicle Deaths
-                                                        Increase by
-                                                        Largest Percent
-                                                        in 50 Years](http://www.nsc.org/NewsDocuments/2016/mv-fatality-report-1215.pdf)
+### [Motor Vehicle Deaths Increase by Largest Percent in 50 Years](http://www.nsc.org/NewsDocuments/2016/mv-fatality-report-1215.pdf)
 
                                                       Press Release Feb
                                                       16 "With continued
@@ -1029,9 +905,7 @@ D.
                                                       traveled, an
                                                       increase of 5%
                                                       from the 2014
-                                                      rate. [Read
-
-                                                        more](http://www.nsc.org/NewsDocuments/2016/mv-fatality-report-1215.pdf)Hmmmm...This
+                                                      rate. [Read more](http://www.nsc.org/NewsDocuments/2016/mv-fatality-report-1215.pdf)Hmmmm...This
 
                                                           is REALLY BAD
                                                           news.  Come on
@@ -1064,11 +938,7 @@ D.
                                                           help society.
                                                           Alain
 
-### [Budget
-
-                                                        of the U.S.
-                                                        Government, FY
-                                                        2017](https://www.whitehouse.gov/sites/default/files/omb/budget/fy2017/assets/budget.pdf)
+### [Budget of the U.S. Government, FY 2017](https://www.whitehouse.gov/sites/default/files/omb/budget/fy2017/assets/budget.pdf)
 
 Feb.
                                                       9, "...(3)
@@ -1140,9 +1010,7 @@ Feb.
                                                           "... and connected...".
                                                               Alain
 
-### [London's first
-                                                        driverless cars
-                                                        revealed](http://www.bbc.com/news/technology-35432687)
+### [London's first driverless cars revealed](http://www.bbc.com/news/technology-35432687)
 
                                                       The consortium
                                                       behind the trial
@@ -1199,13 +1067,7 @@ Alain
 
 ###
 
-### [Obama's
-
-                                                        $4 Billion Plan
-                                                        for Self-Driving
-                                                        Cars Will Make
-                                                        Google Very
-                                                        Happy](http://recode.net/2016/01/14/obamas-4-billion-plan-for-self-driving-cars-will-make-google-very-happy/)
+### [Obama's $4 Billion Plan for Self-Driving Cars Will Make Google Very Happy](http://recode.net/2016/01/14/obamas-4-billion-plan-for-self-driving-cars-will-make-google-very-happy/)
 
                                                       M. Bergen, Jan 14
                                                       "The Obama
@@ -1261,11 +1123,7 @@ Alain
                                                         will allow fully
                                                         driverless cars..."
 
-                                                      [Read
-
-                                                        More](http://recode.net/2016/01/14/obamas-4-billion-plan-for-self-driving-cars-will-make-google-very-happy/)  Hmmm... A [few
-
-                                                          months ago](http://www.its.dot.gov/press/2015/ngv_tech_announcement.htm)
+                                                      [Read More](http://recode.net/2016/01/14/obamas-4-billion-plan-for-self-driving-cars-will-make-google-very-happy/)  Hmmm... A [few months ago](http://www.its.dot.gov/press/2015/ngv_tech_announcement.htm)
                                                           it was $42M
                                                           for Connected
                                                           Vehicles.
@@ -1275,25 +1133,14 @@ Alain
                                                           vehicles!
                                                           Finally
                                                           Secretary
-                                                          Foxx.."[YES!
-
-                                                          YES! JESUS H.
-                                                          TAP-DANCING
-                                                          CHRIST... I
-                                                          HAVE SEEN THE
-                                                          LIGHT](https://www.youtube.com/watch?v=lX5tfRdkoY0)"
+                                                          Foxx.."[YES! YES! JESUS H. TAP-DANCING CHRIST... I HAVE SEEN THE LIGHT](https://www.youtube.com/watch?v=lX5tfRdkoY0)"
                                                           (Blue
                                                           Brothers)
                                                           Yea!!!!!   :-)
 
                                                           Alain
 
-### [Google
-
-                                                        Pairs With Ford
-                                                        To Build
-                                                        Self-Driving
-                                                        Cars](https://www.yahoo.com/autos/google-pairs-with-ford-to-1326344237400118.html)
+### [Google Pairs With Ford To Build Self-Driving Cars](https://www.yahoo.com/autos/google-pairs-with-ford-to-1326344237400118.html)
 
                                                       J. Hyde & S.
                                                       Carty, Dec. 21
@@ -1372,17 +1219,12 @@ Alain
                                                       mobility company,"
                                                       and what that
                                                       would mean for its
-                                                      business" [Read
-
-                                                        more](https://www.yahoo.com/autos/google-pairs-with-ford-to-1326344237400118.html)  Hmmm...Not surprising
+                                                      business" [Read more](https://www.yahoo.com/autos/google-pairs-with-ford-to-1326344237400118.html)  Hmmm...Not surprising
                                                           and not
                                                           exclusive.
                                                           :-) Alain
 
-### [Adam
-
-                                                        Jonas' View on
-                                                        Autonomous Cars](http://linkback.morganstanley.com/web/sendlink/webapp/BMServlet?file=kpmb1mve-3p5j-g000-97a7-d8d3855a5201&store=0&d=1&user=dagn42i4pkquh-0&__gda__=1549992813_42e5b148a43b27b943d8d34f1e5c3295#0011&dagn42i4pkquh-1&1549992813_f2523f33158f4db2b6d628c5c9008f28&0021&dagn42i4pkquh-2&1549992813_f9a15a1b06e61ec454fad4cc7759010a)
+### [Adam Jonas' View on Autonomous Cars](http://linkback.morganstanley.com/web/sendlink/webapp/BMServlet?file=kpmb1mve-3p5j-g000-97a7-d8d3855a5201&store=0&d=1&user=dagn42i4pkquh-0&__gda__=1549992813_42e5b148a43b27b943d8d34f1e5c3295#0011&dagn42i4pkquh-1&1549992813_f2523f33158f4db2b6d628c5c9008f28&0021&dagn42i4pkquh-2&1549992813_f9a15a1b06e61ec454fad4cc7759010a)
 
                                                       Video similar to
                                                       part of Adam's
@@ -1404,7 +1246,7 @@ Alain
 
                                                           Alain
 
-                                                          [](Mailto:alaink@princeton.edu)[Mailto:alaink@princeton.edu](Mailto:alaink@princeton.edu) [](Mailto:alaink@princeton.edu)
+                                                          [Mailto:alaink@princeton.edu](Mailto:alaink@princeton.edu) 
 
                                                           This list is
                                                           maintained by

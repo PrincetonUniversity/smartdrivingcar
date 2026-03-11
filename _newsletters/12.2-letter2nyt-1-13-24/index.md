@@ -13,8 +13,7 @@ Letter to the Editor NY Times: (Sent,
 
 Jan. 12,  Since November 8, 2016, my wife and I have ceased to watch news on TV, for obvious reasons,
  but have continued to rely mostly on the home delivery and the digital version of the New York Times.  We try to ignore its absolutely unrelenting coverage of a certain former president and other more minor shortcomings.  However, it would be nice if the NYT
- were more accurate in the portrayal of topics for which we actually know something about.  The latest occurred on January 10 in Brian Chen's "[The Tech
- That Needs Fixing in 2024, and What Got Fixed Last Year](https://www.nytimes.com/2024/01/10/technology/personaltech/tech-smartphones-self-driving-cars.html)".
+ were more accurate in the portrayal of topics for which we actually know something about.  The latest occurred on January 10 in Brian Chen's "[The Tech That Needs Fixing in 2024, and What Got Fixed Last Year](https://www.nytimes.com/2024/01/10/technology/personaltech/tech-smartphones-self-driving-cars.html)".
 
 Yes, 2023 was an up and down year for driverless cars. They finally happened for real without smoke
  & mirrors (a high point), but to characterize the low point as "… a Cruise vehicle struck a San Francisco pedestrian and dragged the victim for 20 feet" completely misses the real substance of the incident, if this incident is to contribute substantively to
@@ -35,8 +34,7 @@ Another fix that this incident could catalyze is a serious focus on ending misbe
  drivers.  This incident was sparked by a human driver who first hit the pedestrian.  That driver took off.  Had that driver not doubled-down on their potentially lethal misbehavior by running from the scene, they might have noticed that the victim was under
  the Cruise car, and could have prevented the driverless car from pulling over, or even helped the victim out of the way.
 
-I also notice that in the Sunday January 7, Letters section "[Danger
- Ahead: Pedestrians and Cars at Night](https://www.nytimes.com/2024/01/06/opinion/pedestrian-deaths-cars-night.html)" NY Times readers, eight of them, highlighted the misbehavior of human drivers that result in pedestrian deaths.  It is not hyperbole to claim that 90% of traffic deaths involve
+I also notice that in the Sunday January 7, Letters section "[Danger Ahead: Pedestrians and Cars at Night](https://www.nytimes.com/2024/01/06/opinion/pedestrian-deaths-cars-night.html)" NY Times readers, eight of them, highlighted the misbehavior of human drivers that result in pedestrian deaths.  It is not hyperbole to claim that 90% of traffic deaths involve
 human driver misbehavior in the forms described by these readers.  It also should be noted that driverless cars don't misbehave in these ways.
 
 Last comment on Mr. Chen's assessment of self-driving cars. He ends by sharing his own experience
@@ -49,7 +47,7 @@ In characterizing Waymo's foibles as "annoying" and not commenting on the deadly
 
 Alain
 
-[](https://shop.elsevier.com/books/the-real-case-for-driverless-mobility/kornhauser/978-0-443-23685-3)SmartDrivingCars
+SmartDrivingCars
 [ZoomCast 353](https://www.youtube.com/watch?v=JHBPNGcaK98&t=0s) / [PodCast 353](https://podcasters.spotify.com/pod/show/smartdrivingcars/episodes/Smart-Driving-Cars-episode-353-NVIDIA-VP-Danny-Shapiro-CES-and-more-e2edbor) Danny Shapiro, VP Automotive, nVIDIA, CES 2024 and more
 
 F. Fishkin,  Jan. 13,
@@ -102,8 +100,7 @@ The South Korean automaker unveiled the PBV, or Platform Beyond Vehicle, which u
 [Read More](https://www.theverge.com/2024/1/8/24028828/kia-platform-beyond-vehicle-pbv-modular-ev-ces)  Hmmmm….
  Interesting for autonomousTaxis.  If Tesla offered something similar with FSD, life ahead would be really interesting.   Alain
 
-[The Grandma of
- Robotaxis Is Winning](https://www.bloomberg.com/opinion/articles/2024-01-09/waymo-the-grandma-of-robotaxis-is-winning-against-tesla-autopilot-cruise)
+[The Grandma of Robotaxis Is Winning](https://www.bloomberg.com/opinion/articles/2024-01-09/waymo-the-grandma-of-robotaxis-is-winning-against-tesla-autopilot-cruise)
 
 J. Karl, Jan. 9, "…The Alphabet-owned robotaxi company recently announced that it plans to unleash its cars onto the Phoenix freeway soon. The
  news is a game changer for Waymo employees, some of whom use the cars to get to work. Until now, riders could only take surface streets to get to their destination.…
@@ -113,8 +110,7 @@ In a few years, who knows what other cities will allow Waymo to compete with the
 
 "the newly uncovered video showed the Cruise car dragged the woman 20 feet at 7 miles an hour before coming to a stop — on top of her." In contrast,
  Waymo's robocars have traveled 7.1 million miles and have caused less than a handful of minor injuries."
-[Read
- More](https://www.bloomberg.com/opinion/articles/2024-01-09/waymo-the-grandma-of-robotaxis-is-winning-against-tesla-autopilot-cruise)  Hmmmm…. What a simply horrendous piece. Touting Waymo for spending who knows how many billions to create a
+[Read More](https://www.bloomberg.com/opinion/articles/2024-01-09/waymo-the-grandma-of-robotaxis-is-winning-against-tesla-autopilot-cruise)  Hmmmm…. What a simply horrendous piece. Touting Waymo for spending who knows how many billions to create a
  competitor to an existing mobility service (Uber/Lyft/taxis) for which its most salient feature is "comfortable silence"?  Really?! Every Lyft/Uber driver I've interacted with has been politely taciturn or interestingly engaging. Slamming thousands of working
  people as awkward chit-chatters seems unfair, at best. More importantly, if that's the best advantage Waymo has to offer, no chit-chat, it has zero chance of being successful in the marketplace. I also wonder why the writer (I won't say reporter) takes the
  lazy route in failing to mention that the woman who was struck was flung in front of the Cruise vehicle by a hit-and-run
@@ -123,8 +119,7 @@ human driver, and that it is only by the grace of god that it wasn't a Waymo veh
 Hot take? This "opinion piece" is purposely misrepresenting what happened in the incident by only reporting about
  the dragging.  Is everything else in Bloomberg so misrepresenting of its real context?  Shame on you, Bloomberg!   Alain
 
-[Elizabeth also wants me to protest the author's perpetuation of the sexist and ageist description of cautious
- driving as "Grandma." Are you for real? Our grandmothers were bold, brave, and incredible role models. Dissing careful driving as "grandmotherly" is a low blow on so many levels.]
+[Elizabeth also wants me to protest the author's perpetuation of the sexist and ageist description of cautious driving as "Grandma." Are you for real? Our grandmothers were bold, brave, and incredible role models. Dissing careful driving as "grandmotherly" is a low blow on so many levels.]
 
   [Hertz is selling 20,000 EVs so it can buy more gas guzzlers](https://www.theverge.com/2024/1/11/24034462/hertz-ev-sell-one-third-fleet-ice-tesla-polestar-used)
 
@@ -140,8 +135,7 @@ All of which is to say: if you're in the market for a used EV, now would be a re
  there soon….
 
 Hertz's problem is a bit unique. Of the 100,000 Teslas acquired by Hertz, half were to be allocated to Uber drivers as part of a deal with the
- ridehail company. And while drivers said they loved the Teslas, they also tend to drive their vehicles into the ground. This higher rate of utilization can lead to a lot of damage — certainly more than Hertz was anticipating."  [Read
- More](https://www.theverge.com/2024/1/11/24034462/hertz-ev-sell-one-third-fleet-ice-tesla-polestar-used)  Hmmmm…. Lol!  They assumed EVs would not wear out, and insurance upsells weren't as ridiculously profitable
+ ridehail company. And while drivers said they loved the Teslas, they also tend to drive their vehicles into the ground. This higher rate of utilization can lead to a lot of damage — certainly more than Hertz was anticipating."  [Read More](https://www.theverge.com/2024/1/11/24034462/hertz-ev-sell-one-third-fleet-ice-tesla-polestar-used)  Hmmmm…. Lol!  They assumed EVs would not wear out, and insurance upsells weren't as ridiculously profitable
  as they are for ICEs.  I see what is going on here. J
   Alain
 
@@ -157,14 +151,12 @@ Each ski has one wheel at the front and one at the back, along with a carbon com
  lithium-ion battery and a snowboard-style binding. Each wheel in turn contains a 600-watt hub motor, giving both skis a combined power of 2,400 watts.
 
 The wheels are clad in pneumatic all-terrain tires, allowing the skis to be used both on- and off-road. What's more, the front wheels pivot
- relative to the deck, reportedly mimicking the carving sensation of downhill skiing. Riders accelerate, brake and monitor battery life via the remote…."  [Read
- More](https://newatlas.com/urban-transport/skwheel-one-electric-skis/)  Hmmmm….
+ relative to the deck, reportedly mimicking the carving sensation of downhill skiing. Riders accelerate, brake and monitor battery life via the remote…."  [Read More](https://newatlas.com/urban-transport/skwheel-one-electric-skis/)  Hmmmm….
 [See video](https://youtu.be/f2XflGTc-MI).  Maybe.  Certainly for certain warehouse personnel and possibly for some mail carriers and security personnel.   Maybe.  Alain
 
   [Rabbit sells out two batches of 10,000 R1 pocket AI companions over two days](https://www.theverge.com/2024/1/10/24033498/rabbit-r1-sold-out-ces-ai) SpaceX Starship Update 2024
 
-E. Roth, Jan 11, "The R1,[the pocket-sized
- AI gadget from Rabbit](https://www.theverge.com/2024/1/9/24030667/rabbit-r1-ai-action-model-price-release-date) that's supposed to use your apps for you, has already sold out of its first batch — and its second batch, too….
+E. Roth, Jan 11, "The R1,[the pocket-sized AI gadget from Rabbit](https://www.theverge.com/2024/1/9/24030667/rabbit-r1-ai-action-model-price-release-date) that's supposed to use your apps for you, has already sold out of its first batch — and its second batch, too….
 
 Rabbit introduced the R1 during CES on Tuesday, which comes with a small 2.88-inch touchscreen that runs on the company's own Rabbit OS. It
  uses a "Large Action Model" that works as a "sort of universal controller for apps," [according to my colleague David Pierce](https://www.theverge.com/2024/1/9/24030667/rabbit-r1-ai-action-model-price-release-date), who got to try out the device
@@ -172,8 +164,7 @@ Rabbit introduced the R1 during CES on Tuesday, which comes with a small 2.88-in
 [Read More](https://www.theverge.com/2024/1/10/24033498/rabbit-r1-sold-out-ces-ai)  Hmmmm….
  Interesting, I certainly need something to manage my stuff, but is that another piece of hardware or a master app on my phone?  And is this "AI"? Alain
 
-[SpaceX
- Starship Update 2024](https://www.youtube.com/watch?v=TUQzeUaGxBI)
+[SpaceX Starship Update 2024](https://www.youtube.com/watch?v=TUQzeUaGxBI)
 
 E.  Roth, Jan 13, "Elon Musk held a private SpaceX company all hands meeting at Starbase, TX where he gave and update on Dragon, Falcon 9, Falcon
  Heavy and Starship! [Read More](https://www.youtube.com/watch?v=TUQzeUaGxBI)  Hmmmm….
@@ -227,8 +218,7 @@ The company has announced the OLED Signature T (you can guess what the T stands 
                 Click or tap if you trust this link.">Monday,
  Dec. 18, 2023
 
-# [Tesla
- Autopilot Recall Threatens Its Defense in Lawsuits Over Crashes](https://www.bloomberg.com/news/articles/2023-12-15/tesla-recall-threatens-its-defense-in-autopilot-crash-lawsuits)
+# [Tesla Autopilot Recall Threatens Its Defense in Lawsuits Over Crashes](https://www.bloomberg.com/news/articles/2023-12-15/tesla-recall-threatens-its-defense-in-autopilot-crash-lawsuits)
 
  is repeated below… " The objective of the 6th SmartDrivingCars Summit will be to put the eventual manufacturers
  of driverless passenger vehicles together with the eventual operators of transportation services to decide if there is a business to be made from delivering affordable mobility to a large segment our societies who are underserved by the current options: private
@@ -244,7 +234,6 @@ Director, Transportation Program
 
 Faculty Chair, Princeton Autonomous Vehicle Engineering
 
-[](https://www.princeton.edu/)
 
 ***************************************************************************************************************
 

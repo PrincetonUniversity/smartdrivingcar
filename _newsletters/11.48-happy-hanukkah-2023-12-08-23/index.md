@@ -8,8 +8,7 @@ display_name: "11.48 - Happy Hanukkah 2023"
 
 48th edition of the 11th year of SmartDrivingCars eLetter
 
-[](https://www.michaellsena.com/wp-content/uploads/2023/12/The-Dispatcher_January_2024_Lead.pdf)[Who
- Will Operate Driverless Vehicle Services](https://www.michaellsena.com/wp-content/uploads/2023/12/The-Dispatcher_January_2024_Lead.pdf)
+[Who Will Operate Driverless Vehicle Services](https://www.michaellsena.com/wp-content/uploads/2023/12/The-Dispatcher_January_2024_Lead.pdf)
 
 M. Sena, Dec. 6, "  I cannot say for sure whether the timing of the behave-and-clean up your mess "Mom Reminder" and the UBER announcement were related, but I suspect they were. Together they set in motion a great deal of speculation
  in the ether about what it all meant for WAYMO, UBER, and EVERYTHING.

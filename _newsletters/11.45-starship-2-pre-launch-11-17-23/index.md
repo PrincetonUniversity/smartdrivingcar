@@ -9,8 +9,7 @@ display_name: "11.45 - Starship 2 Pre Launch"
 45th edition
             of the 11th year of SmartDrivingCars eLetter
 
-[](https://www.spacex.com/launches/mission/?missionId=starship-flight-2)[UPCOMING LAUNCH:
-                STARSHIP'S SECOND FLIGHT TEST](https://www.spacex.com/launches/mission/?missionId=starship-flight-2)
+[UPCOMING LAUNCH: STARSHIP'S SECOND FLIGHT TEST](https://www.spacex.com/launches/mission/?missionId=starship-flight-2)
 
 Staff, Nov. 17, "The second flight
           test of a fully integrated [Starship](https://www.spacex.com/vehicles/starship/)
@@ -18,13 +17,11 @@ Staff, Nov. 17, "The second flight
           window opens at 7:00 a.m. CT.
 
           A live webcast of the flight test will begin about 35 minutes
-          before liftoff, which you can watch here and on [X
-            @SpaceX](https://twitter.com/SpaceX). As is the case with all developmental testing,
+          before liftoff, which you can watch here and on [X @SpaceX](https://twitter.com/SpaceX). As is the case with all developmental testing,
           the schedule is dynamic and likely to change, so be sure to
           stay tuned to our X account for updates. …" [Read More](https://www.forbes.com/sites/cyrusfarivar/2023/11/06/under-fire-over-robotaxi-safety-gm-halts-production-of-cruise-driverless-van/?sh=7a9077af79a4) Hmmmm….
             Can't wait.  Here with Elizabeth and 9 of my students.   :-)
-            See [Pre-Launch
-              ZoomCast](https://www.youtube.com/watch?v=3zGvbGH_Lsg) below . Alain
+            See [Pre-Launch ZoomCast](https://www.youtube.com/watch?v=3zGvbGH_Lsg) below . Alain
 
 *****
 
@@ -44,13 +41,11 @@ Summit
 
 Phoenix
 
-[Under Fire Over Robotaxi Safety, GM Halts Production
-                  Of Cruise Driverless Van](https://www.forbes.com/sites/cyrusfarivar/2023/11/06/under-fire-over-robotaxi-safety-gm-halts-production-of-cruise-driverless-van/?sh=7a9077af79a4)
+[Under Fire Over Robotaxi Safety, GM Halts Production Of Cruise Driverless Van](https://www.forbes.com/sites/cyrusfarivar/2023/11/06/under-fire-over-robotaxi-safety-gm-halts-production-of-cruise-driverless-van/?sh=7a9077af79a4)
 
 C. Farivar, Nov. 6,
             "Reeling from a month in which the California DMV [yanked](https://www.forbes.com/sites/cyrusfarivar/2023/10/24/california-dmv-halts-cruises-self-driving-robotaxis-statewide/?sh=8d118dc70d36) Cruise's permits
-            for its self-driving robotaxis and [the company paused all
-              operations](https://www.forbes.com/sites/cyrusfarivar/2023/10/26/cruise-immediately-halts-all-robotaxis-nationwide-seeks-to-rebuild-trust/?sh=47069cd2556b), Cruise CEO Kyle Vogt held an all hands
+            for its self-driving robotaxis and [the company paused all operations](https://www.forbes.com/sites/cyrusfarivar/2023/10/26/cruise-immediately-halts-all-robotaxis-nationwide-seeks-to-rebuild-trust/?sh=47069cd2556b), Cruise CEO Kyle Vogt held an all hands
             meeting Monday to explain how the company was planning to
             address concerns that its autonomous vehicles are not yet
             safe enough to operate. One of the very first announcements:
@@ -63,8 +58,7 @@ According to audio
             the company's recent decision to halt driverless operations
             across its entire autonomous vehicle fleet, telling staff
             that "because a lot of this is in flux, we did make the
-            decision with GM to pause production of the Origin."? …" [Read
-                  More](https://www.forbes.com/sites/cyrusfarivar/2023/11/06/under-fire-over-robotaxi-safety-gm-halts-production-of-cruise-driverless-van/?sh=7a9077af79a4) Hmmmm….
+            decision with GM to pause production of the Origin."? …" [Read More](https://www.forbes.com/sites/cyrusfarivar/2023/11/06/under-fire-over-robotaxi-safety-gm-halts-production-of-cruise-driverless-van/?sh=7a9077af79a4) Hmmmm….
               Pausing is fine and likely a good decision; although,
               pauses necessarily incur additional cost; else, we would
               all pause all of the time.  What is fundamentally
@@ -81,8 +75,7 @@ According to audio
    San
               Francisco is turning into THE "Training Set" of both what
               to do and what not to do for those building AI models for
-              "[The Real Case for
-                Driverless Mobility](https://shop.elsevier.com/books/the-real-case-for-driverless-mobility/kornhauser/978-0-443-23685-3)" and for those struggling to do
+              "[The Real Case for Driverless Mobility](https://shop.elsevier.com/books/the-real-case-for-driverless-mobility/kornhauser/978-0-443-23685-3)" and for those struggling to do
               good for society.
 
    The
@@ -103,8 +96,7 @@ According to audio
 Monday, June 26 2023
 
 State
-            regulators track [robotaxi
-                collisions](https://www.dmv.ca.gov/portal/vehicle-industry-services/autonomous-vehicles/autonomous-vehicle-collision-reports/), but they don't track
+            regulators track [robotaxi collisions](https://www.dmv.ca.gov/portal/vehicle-industry-services/autonomous-vehicles/autonomous-vehicle-collision-reports/), but they don't track
             data on traffic flow issues, such as street blockages or
             interference with firetrucks.
 
@@ -128,13 +120,11 @@ Friday,
 44th edition of the 11th year
               of SmartDrivingCars eLetter
 
-[Under Fire Over Robotaxi Safety, GM Halts Production
-                  Of Cruise Driverless Van](https://www.forbes.com/sites/cyrusfarivar/2023/11/06/under-fire-over-robotaxi-safety-gm-halts-production-of-cruise-driverless-van/?sh=7a9077af79a4)
+[Under Fire Over Robotaxi Safety, GM Halts Production Of Cruise Driverless Van](https://www.forbes.com/sites/cyrusfarivar/2023/11/06/under-fire-over-robotaxi-safety-gm-halts-production-of-cruise-driverless-van/?sh=7a9077af79a4)
 
 C. Farivar, Nov. 6,
             "Reeling from a month in which the California DMV [yanked](https://www.forbes.com/sites/cyrusfarivar/2023/10/24/california-dmv-halts-cruises-self-driving-robotaxis-statewide/?sh=8d118dc70d36) Cruise's permits
-            for its self-driving robotaxis and [the company paused all
-              operations](https://www.forbes.com/sites/cyrusfarivar/2023/10/26/cruise-immediately-halts-all-robotaxis-nationwide-seeks-to-rebuild-trust/?sh=47069cd2556b), Cruise CEO Kyle Vogt held an all hands
+            for its self-driving robotaxis and [the company paused all operations](https://www.forbes.com/sites/cyrusfarivar/2023/10/26/cruise-immediately-halts-all-robotaxis-nationwide-seeks-to-rebuild-trust/?sh=47069cd2556b), Cruise CEO Kyle Vogt held an all hands
             meeting Monday to explain how the company was planning to
             address concerns that its autonomous vehicles are not yet
             safe enough to operate. One of the very first announcements:
@@ -147,8 +137,7 @@ According to audio
             the company's recent decision to halt driverless operations
             across its entire autonomous vehicle fleet, telling staff
             that "because a lot of this is in flux, we did make the
-            decision with GM to pause production of the Origin."? …" [Read
-                  More](https://www.forbes.com/sites/cyrusfarivar/2023/11/06/under-fire-over-robotaxi-safety-gm-halts-production-of-cruise-driverless-van/?sh=7a9077af79a4) Hmmmm….
+            decision with GM to pause production of the Origin."? …" [Read More](https://www.forbes.com/sites/cyrusfarivar/2023/11/06/under-fire-over-robotaxi-safety-gm-halts-production-of-cruise-driverless-van/?sh=7a9077af79a4) Hmmmm….
               Pausing is fine and likely a good decision; although,
               pauses necessarily incur additional cost; else, we would
               all pause all of the time.  What is fundamentally
@@ -165,8 +154,7 @@ According to audio
    San
               Francisco is turning into THE "Training Set" of both what
               to do and what not to do for those building AI models for
-              "[The Real Case for
-                Driverless Mobility](https://shop.elsevier.com/books/the-real-case-for-driverless-mobility/kornhauser/978-0-443-23685-3)" and for those struggling to do
+              "[The Real Case for Driverless Mobility](https://shop.elsevier.com/books/the-real-case-for-driverless-mobility/kornhauser/978-0-443-23685-3)" and for those struggling to do
               good for society.
 
    The
@@ -186,8 +174,7 @@ According to audio
 
  ************
 
-[](https://shop.elsevier.com/books/the-real-case-for-driverless-mobility/kornhauser/978-0-443-23685-3)SmartDrivingCars  [ZoomCast 343](https://www.youtube.com/watch?v=2f0l56wZcMo) / [PodCast
-                343](https://podcasters.spotify.com/pod/show/smartdrivingcars/episodes/Smart-Driving-Cars-The-road-ahead-for-robotaxis-episode-343-e2bntdo)  w/ Cyrus
+SmartDrivingCars  [ZoomCast 343](https://www.youtube.com/watch?v=2f0l56wZcMo) / [PodCast 343](https://podcasters.spotify.com/pod/show/smartdrivingcars/episodes/Smart-Driving-Cars-The-road-ahead-for-robotaxis-episode-343-e2bntdo)  w/ Cyrus
               Farivar Forbes senior staff writer
 
 F. Fishkin,  Nov.
@@ -201,15 +188,13 @@ F. Fishkin,  Nov.
 What shouldn't be forgotten from the
           past….
 
-  [Tesla
-                  – the Dark Horse MaaS Provider? #SmartDrivingCarSummit](https://viodi.com/2019/06/07/tesla-the-dark-horse-maas-provider-smartdrivingcarsummit/)
+  [Tesla – the Dark Horse MaaS Provider? #SmartDrivingCarSummit](https://viodi.com/2019/06/07/tesla-the-dark-horse-maas-provider-smartdrivingcarsummit/)
 
 K. Pyle, June 7, 3019, "Could the
           robotaxi model that Tesla's Elon Musk has been touting be a
           successful approach for a Mobility as a Service (MaaS) model?
           After some recent first-hand experience with the Tesla driving
-          experience, MaaS champion, Princeton's [Dr. Alain
-            Kornhauser](https://kornhauser.princeton.edu/) states why he believes Musk be on the right
+          experience, MaaS champion, Princeton's [Dr. Alain Kornhauser](https://kornhauser.princeton.edu/) states why he believes Musk be on the right
           path. In the above video, Kornhauser provides an overview of
           some of the innovative human-machine research initiated at
             font: inherit; margin: 0px; padding: 0px; vertical-align:
@@ -224,9 +209,7 @@ K. Pyle, June 7, 3019, "Could the
 
 ************
 
-[SFO
-                  rebuffs Waymo — SF 'guerilla warfare' vs. robotaxis
-                  heats up](https://missionlocal.org/2023/11/waymo-rebuffed-by-sfo-sf-guerilla-warfare-vs-robotaxis-is-on/)
+[SFO rebuffs Waymo — SF 'guerilla warfare' vs. robotaxis heats up](https://missionlocal.org/2023/11/waymo-rebuffed-by-sfo-sf-guerilla-warfare-vs-robotaxis-is-on/)
 
 J. Eskenazi, Nov 6, "… Most people won't
           either, which explains why private transit to and from SFO is
@@ -269,9 +252,7 @@ The end of this article
               creating that AI model for deployment of driverless
               mobility.    Alain
 
-   [Cruise
-                  confirms robotaxis rely on human assistance every four
-                  to five miles](https://www.cnbc.com/2023/11/06/cruise-confirms-robotaxis-rely-on-human-assistance-every-4-to-5-miles.html#:~:text=CNBC%20asked%20Cruise%20to%20confirm,miles%2C%20in%20Cruise's%20driverless%20fleet.)
+   [Cruise confirms robotaxis rely on human assistance every four to five miles](https://www.cnbc.com/2023/11/06/cruise-confirms-robotaxis-rely-on-human-assistance-every-4-to-5-miles.html#:~:text=CNBC%20asked%20Cruise%20to%20confirm,miles%2C%20in%20Cruise's%20driverless%20fleet.)
 
 A.      L.
           Kolodny, Nov 6, "Cruise CEO and founder Kyle Vogt posted
@@ -312,9 +293,7 @@ C.       The
               operation (although testing of driverless operation should
               never be done without an attendant on-board). Alain
 
-   [Road
-                  trip! How our cross-country testing helps advance the
-                  Waymo Driver](https://waymo.com/blog/2023/11/howcrosscountrytestingadvancesthewaymo%20driver.html)
+   [Road trip! How our cross-country testing helps advance the Waymo Driver](https://waymo.com/blog/2023/11/howcrosscountrytestingadvancesthewaymo%20driver.html)
 
 D.      The
           Waymo Team, Nov 6, "Experience is the best teacher, no matter
@@ -342,9 +321,7 @@ D.      The
 
 E.
 
- [China's
-                  Zeekr reveals wider loss in US IPO paperwork, Geely
-                  shares fall](https://www.reuters.com/markets/deals/zeekr-makes-us-ipo-filing-public-2023-11-09/#:~:text=The%20filing%20confirms%20a%20report,the%20news%20of%20the%20listing.)
+ [China's Zeekr reveals wider loss in US IPO paperwork, Geely shares fall](https://www.reuters.com/markets/deals/zeekr-makes-us-ipo-filing-public-2023-11-09/#:~:text=The%20filing%20confirms%20a%20report,the%20news%20of%20the%20listing.)
 
 F.       N.
           Nishant, Nov 9, " China's Zeekr Intelligent revealed wider
@@ -365,14 +342,11 @@ H.      The
           fell by more than 2.5% in morning trading on the news of the
           listing… ".  [Read  more](https://www.reuters.com/markets/deals/zeekr-makes-us-ipo-filing-public-2023-11-09/#:~:text=The%20filing%20confirms%20a%20report,the%20news%20of%20the%20listing.)
                  Hmmmm….
-              Whoa!  Buyers Beware.  [Partners
-                Beware](https://techcrunch.com/2023/10/08/geely-waymo-robotaxi-to-test-in-us/).  Alain
+              Whoa!  Buyers Beware.  [Partners Beware](https://techcrunch.com/2023/10/08/geely-waymo-robotaxi-to-test-in-us/).  Alain
 
 I.
 
-  [Waymo
-                  executive: 'Safety case alone is sufficient' for
-                  self-driving cars](https://finance.yahoo.com/news/waymo-executive-safety-case-alone-is-sufficient-for-self-driving-cars-224506698.html)
+  [Waymo executive: 'Safety case alone is sufficient' for self-driving cars](https://finance.yahoo.com/news/waymo-executive-safety-case-alone-is-sufficient-for-self-driving-cars-224506698.html)
 
 J.        Fujita,
           Nov 9, "A top executive for Alphabet-owned ([GOOG](https://finance.yahoo.com/quote/GOOG?p=GOOG&.tsrc=fin-srch),[GOOGL](https://finance.yahoo.com/quote/GOOGL?p=GOOGL&.tsrc=fin-srch)) Waymo doubled down
@@ -424,8 +398,7 @@ I
 
  Alain
 
-[Red
-                  Cross, Waymo to conduct blood drive in Bay Area](https://news.yahoo.com/red-cross-waymo-conduct-blood-203202087.html)
+[Red Cross, Waymo to conduct blood drive in Bay Area](https://news.yahoo.com/red-cross-waymo-conduct-blood-203202087.html)
 
 Alex Baker, Nov 6, " he American Red
           Cross will be partnering with Waymo to conduct a blood drive
@@ -441,8 +414,7 @@ Waymo will be offering free rides to and
               Very nice.  Hopefully Waymo is making a big effort to get
               an equitable cross section of registered users.  Alain
 
-  [When
-                  NYC Put a Celebrity in Every Taxi — ft. Al Franken](https://ironicsans.substack.com/p/a-celebrity-in-every-taxi?utm_source=Windels+Marx+-+Transportation+Practice+Group&utm_campaign=395f262765-EMAIL_CAMPAIGN_6_6_2019_10_17_COPY_01&utm_medium=email&utm_term=0_81d271bd4e-395f262765-35948995)
+  [When NYC Put a Celebrity in Every Taxi — ft. Al Franken](https://ironicsans.substack.com/p/a-celebrity-in-every-taxi?utm_source=Windels+Marx+-+Transportation+Practice+Group&utm_campaign=395f262765-EMAIL_CAMPAIGN_6_6_2019_10_17_COPY_01&utm_medium=email&utm_term=0_81d271bd4e-395f262765-35948995)
 
 D. Friedman, Nov 7, "If you got in a
           taxi in New York City between 1997 and 2003, you were greeted
@@ -461,9 +433,7 @@ I wanted to hear these again recently,
               Enjoy the read!  Also [enjoy the video](https://www.youtube.com/watch?v=wJnOR3F3Iwk).  J
               Alain
 
-   [Britain
-                  says makers, not car owners liable for self-driving
-                  crashes](https://www.reuters.com/business/autos-transportation/britain-says-self-driving-car-makers-liable-incidents-new-framework-2023-11-07/)
+   [Britain says makers, not car owners liable for self-driving crashes](https://www.reuters.com/business/autos-transportation/britain-says-self-driving-car-makers-liable-incidents-new-framework-2023-11-07/)
 
 Ali Smout,  Nov. 7, "-
           Britain will make the makers rather than the owners of
@@ -492,9 +462,7 @@ King Charles said the
               of a no-brainer as first thought.  But yes… I'm all for
               it!  J     Alain
 
- [Unions
-                  urge US regulators to probe Waymo, Zoox after GM's
-                  Cruise driverless crashes](https://www.reuters.com/business/autos-transportation/unions-urge-us-regulators-probe-waymo-zoox-after-cruise-crashes-2023-11-09/)
+ [Unions urge US regulators to probe Waymo, Zoox after GM's Cruise driverless crashes](https://www.reuters.com/business/autos-transportation/unions-urge-us-regulators-probe-waymo-zoox-after-cruise-crashes-2023-11-09/)
 
           D. Shepardson, Nov 9, "  More
           than two dozen unions urged U.S. auto safety regulators on
@@ -530,8 +498,7 @@ King Charles said the
               lesson learned must be part of any training set of the
               next AI "proof-of-market" deployment model.   Alain
 
-  [UPCOMING
-                  LAUNCH:  STARSHIP'S SECOND FLIGHT TEST](https://www.spacex.com/launches/mission/?missionId=starship-flight-2)
+  [UPCOMING LAUNCH:  STARSHIP'S SECOND FLIGHT TEST](https://www.spacex.com/launches/mission/?missionId=starship-flight-2)
 
 Website post:, Nov 7, "The second flight
           test of a fully integrated [Starship](https://www.spacex.com/vehicles/starship/) could
@@ -546,9 +513,7 @@ A live webcast of the flight test will
               Waiting for FAA approval with bated breath.  J
               Alain
 
-   [Virgin
-                  Galactic to ground its VSS Unity space plane next
-                  year: report](https://www.space.com/virgin-galactic-ground-vss-unity-space-plane-2024)
+   [Virgin Galactic to ground its VSS Unity space plane next year: report](https://www.space.com/virgin-galactic-ground-vss-unity-space-plane-2024)
 
  M. Wall, Nov 7. " The impressive flight
           cadence of Virgin Galactic's VSS Unity space plane won't last
@@ -575,11 +540,9 @@ As a result, every Delta space plane
               Everyone now needs to start making "financial sense" out
               of their technological aspirations.  J  Alain
 
-  [Tesla Rated
-                  Sell by New Analyst, Presidential UAW Support,
-                  Highland Production](https://www.youtube.com/watch?v=Vq-RNZiRE6o)
+  [Tesla Rated Sell by New Analyst, Presidential UAW Support, Highland Production](https://www.youtube.com/watch?v=Vq-RNZiRE6o)
 
-[](https://www.youtube.com/watch?v=Vq-RNZiRE6o)R.
+R.
             Mauer, Nov. 9, " ➤ TSLA
             stock falls after analyst initiates coverage ➤ President
             Biden supports efforts to unionize Tesla ➤ Highland
@@ -590,8 +553,7 @@ As a result, every Delta space plane
             reportedly plans Chicago service center ➤ Polestar
             updates 2025 guidance ➤ VW
             pauses EV production again ➤ SpaceX
-              appears to begin equipping Starship FTS;  [Read
-                     more](https://www.youtube.com/watch?v=Vq-RNZiRE6o)  Hmmmm….
+              appears to begin equipping Starship FTS;  [Read more](https://www.youtube.com/watch?v=Vq-RNZiRE6o)  Hmmmm….
               Launch might be soon.  Essentially the last thing to be
               done prior to starting the countdown is the installation
               of the Flight Termination System.  Alain
@@ -602,11 +564,9 @@ istserv
 
 [Conference](https://preview.mailerlite.io/emails/webview/509699/95058203348305108)
 
-[San
-                  Jose, CA](https://preview.mailerlite.io/emails/webview/509699/95058203348305108)
+[San Jose, CA](https://preview.mailerlite.io/emails/webview/509699/95058203348305108)
 
-[Nov.
-                  30 -> Dec. 1, 2023](https://preview.mailerlite.io/emails/webview/509699/95058203348305108)
+[Nov. 30 -> Dec. 1, 2023](https://preview.mailerlite.io/emails/webview/509699/95058203348305108)
 
 *****
 
@@ -626,9 +586,7 @@ Princeton,
 Previous
               SmartDrivingCars ZoomCast/PodCasts
 
-SmartDrivingCars  [ZoomCast 342](https://www.youtube.com/watch?v=yjKuVAvJBKk) / [PodCast
-                342](https://podcasters.spotify.com/pod/show/smartdrivingcars/episodes/Smart-Driving-Cars-Tesla-or-Toyota---Geely--Waymo-and-more--episode-342-e2benq0)  w/[Michael
-                  Sena, Editor of The Dispatcher](https://www.michaellsena.com/the-dispatcher-newsletter-2/)
+SmartDrivingCars  [ZoomCast 342](https://www.youtube.com/watch?v=yjKuVAvJBKk) / [PodCast 342](https://podcasters.spotify.com/pod/show/smartdrivingcars/episodes/Smart-Driving-Cars-Tesla-or-Toyota---Geely--Waymo-and-more--episode-342-e2benq0)  w/[Michael Sena, Editor of The Dispatcher](https://www.michaellsena.com/the-dispatcher-newsletter-2/)
 
 F. Fishkin,  Nov.
             3, "With "The Dispatcher"
@@ -638,8 +596,7 @@ F. Fishkin,  Nov.
               offers in depth insights. Michael joins Alain and Fred for
               that plus Geely, Waymo, Uber and more.
 
-SmartDrivingCars [ZoomCast](https://youtu.be/MVWE0zIYRRE?si=CmPxbPUWX4yfGgqS)[341](https://youtu.be/MVWE0zIYRRE?si=CmPxbPUWX4yfGgqS) / [PodCast
-                  341](https://podcasters.spotify.com/pod/show/smartdrivingcars/episodes/Smart-Driving-Cars-episode-341-Cruise-suspends-robotaxi-services-e2b93qt) w/[Russ Mitchell](https://www.latimes.com/people/russ-mitchell),
+SmartDrivingCars [ZoomCast](https://youtu.be/MVWE0zIYRRE?si=CmPxbPUWX4yfGgqS)[341](https://youtu.be/MVWE0zIYRRE?si=CmPxbPUWX4yfGgqS) / [PodCast 341](https://podcasters.spotify.com/pod/show/smartdrivingcars/episodes/Smart-Driving-Cars-episode-341-Cruise-suspends-robotaxi-services-e2b93qt) w/[Russ Mitchell](https://www.latimes.com/people/russ-mitchell),
               Correspondent LA Times
 
 Phoenix
@@ -691,8 +648,7 @@ F. Fishkin,  Oct.
             shares his IATR presentation- Modernizing the Giving of
             Rides.
 
-SmartDrivingCars [ZoomCast](https://www.youtube.com/watch?v=mIDZpLlO1JU)[336](https://www.youtube.com/watch?v=mIDZpLlO1JU) / [PodCast 336](https://podcasters.spotify.com/pod/show/smartdrivingcars/episodes/Smart-Driving-Cars-Dont-Fall-Prey-to-the-Panic-Over-AVs-episode-336-e29qo8l) w [Prof. Dan
-                  Sperling](https://en.wikipedia.org/wiki/Daniel_Sperling), UC Davis
+SmartDrivingCars [ZoomCast](https://www.youtube.com/watch?v=mIDZpLlO1JU)[336](https://www.youtube.com/watch?v=mIDZpLlO1JU) / [PodCast 336](https://podcasters.spotify.com/pod/show/smartdrivingcars/episodes/Smart-Driving-Cars-Dont-Fall-Prey-to-the-Panic-Over-AVs-episode-336-e29qo8l) w [Prof. Dan Sperling](https://en.wikipedia.org/wiki/Daniel_Sperling), UC Davis
 
 F. Fishkin,  Sept.
             26, "With the swirling controversies surrounding robotaxis
@@ -808,14 +764,11 @@ F. Fishkin,  July 24, "Some disability advocates are
             Driving Cars with Princeton's Alain Kornhauser and co-host
             Fred Fishkin.
 
-[](https://www.dropbox.com/scl/fi/rkmb52a5wn3uyapfmpnm3/Link-o-previous-301-325-SDC-ZoomCasts-PodCasts.pdf?rlkey=yaotlhhbbqaeab5knsoppolpp&dl=0)[Link to  previous 301 -> 325  SDC
-                    PodCasts & ZoomCasts](https://www.dropbox.com/scl/fi/rkmb52a5wn3uyapfmpnm3/Link-o-previous-301-325-SDC-ZoomCasts-PodCasts.pdf?rlkey=yaotlhhbbqaeab5knsoppolpp&dl=0)
+[Link to  previous 301 -> 325  SDC PodCasts & ZoomCasts](https://www.dropbox.com/scl/fi/rkmb52a5wn3uyapfmpnm3/Link-o-previous-301-325-SDC-ZoomCasts-PodCasts.pdf?rlkey=yaotlhhbbqaeab5knsoppolpp&dl=0)
 
-[Link to  previous 276 -> 300  SDC
-                    PodCasts & ZoomCasts](https://www.dropbox.com/s/khfsviefix2vm7c/SmartDrivingCarsPodCasts276-300.pdf?dl=0)
+[Link to  previous 276 -> 300  SDC PodCasts & ZoomCasts](https://www.dropbox.com/s/khfsviefix2vm7c/SmartDrivingCarsPodCasts276-300.pdf?dl=0)
 
-[Link to 275 previous SDC PodCasts &
-                    ZoomCasts](https://www.dropbox.com/s/igs6ymicy8l10bi/Links2PodCast_55-275.pdf?dl=0)
+[Link to 275 previous SDC PodCasts & ZoomCasts](https://www.dropbox.com/s/igs6ymicy8l10bi/Links2PodCast_55-275.pdf?dl=0)
 
 Recent
               Highlights of:
@@ -856,16 +809,14 @@ M. Sena, Oct 28, ",
             even to myself. I am happy to have spent the money for this
             trip in a way that gives people work, and to have had the
             experience of seeing in person my dearest friends. What else
-            is life for? …" [Read  more](https://www.michaellsena.com/wp-content/uploads/2023/10/The-Dispatcher_November_2023.pdf)[](https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevenaquino/2023/10/25/cruises-san-francisco-suspension-exposes-peoples-ableism-and-underscores-abled-privilege-enjoyed-by-most/amp/) Hmmmm….
+            is life for? …" [Read  more](https://www.michaellsena.com/wp-content/uploads/2023/10/The-Dispatcher_November_2023.pdf) Hmmmm….
               Another wonderful issue, especially the lead article "The
               Business if Transport Systems.  Enjoy reading and tune
               into my discussion with Michael in ZoomCast 342  Alain
 
 Sunday, Oct. 30, 2023
 
-  [Cruise's San Francisco Suspension Expose
-                  People'sAbleism And Underscores Abled Privilege
-                  Enjoyed By Most](https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevenaquino/2023/10/25/cruises-san-francisco-suspension-exposes-peoples-ableism-and-underscores-abled-privilege-enjoyed-by-most/amp/)
+  [Cruise's San Francisco Suspension Expose People'sAbleism And Underscores Abled Privilege Enjoyed By Most](https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevenaquino/2023/10/25/cruises-san-francisco-suspension-exposes-peoples-ableism-and-underscores-abled-privilege-enjoyed-by-most/amp/)
 
 S. Aquino, Oct. 25,
             " …  As someone who has covered both Cruise and Waymo for
@@ -882,9 +833,7 @@ S. Aquino, Oct. 25,
 That consideration,
             as ever, is accessibility.
 
-   [While
-                members of the disability community have raised safety
-                concerns](https://www.sfchronicle.com/opinion/article/ae-wheelchair-users-thrown-autonomous-bus-18287592.php), the strident opposition by many
+   [While members of the disability community have raised safety concerns](https://www.sfchronicle.com/opinion/article/ae-wheelchair-users-thrown-autonomous-bus-18287592.php), the strident opposition by many
             in City Hall (and, again, residents) to autonomous vehicles
             overlooks the very real, and very valid, accessibility
             benefits of using so-called "robotaxis." The reality is, to
@@ -898,17 +847,15 @@ That consideration,
             Their lifestyle, and more pointedly, their privilege, is
             such they believe there are other, friendlier, more feasible
             modes of transportation that ostensibly "everyone" can
-            access in equal favor…" [Read  more](https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevenaquino/2023/10/25/cruises-san-francisco-suspension-exposes-peoples-ableism-and-underscores-abled-privilege-enjoyed-by-most/amp/)[](https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevenaquino/2023/10/25/cruises-san-francisco-suspension-exposes-peoples-ableism-and-underscores-abled-privilege-enjoyed-by-most/amp/) Hmmmm….
+            access in equal favor…" [Read  more](https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevenaquino/2023/10/25/cruises-san-francisco-suspension-exposes-peoples-ableism-and-underscores-abled-privilege-enjoyed-by-most/amp/) Hmmmm….
               Thank you Forbes for publishing this perspective.  Recall
               it was a human driver who hit the pedestrian and then
               drove away. Human drivers kill an average of more than 100
-              people every day in the USA. [see below for another recent
-              tragedy]  Alain
+              people every day in the USA. [see below for another recent tragedy]  Alain
 
 Friday, Oct. 20, 2023
 
-[For Bill Ford, 'Every Negotiation Is a
-                  Roller Coaster'](https://www.nytimes.com/2023/10/18/business/bill-ford-corner-office.html)
+[For Bill Ford, 'Every Negotiation Is a Roller Coaster'](https://www.nytimes.com/2023/10/18/business/bill-ford-corner-office.html)
 
 N.
             Boudette,  Oct. 18, "As a 25-year-old junior executive at
@@ -1004,24 +951,20 @@ I hope
 
 Sunday, Oct. 15, 2023
 
-[SPIA Reacts:
-                  Crisis in the Middle East](https://www.youtube.com/watch?v=24Gmn8A9aLI)
+[SPIA Reacts: Crisis in the Middle East](https://www.youtube.com/watch?v=24Gmn8A9aLI)
 
 Staff,
-             Oct. 7, "…" [Read
-                     more](https://www.youtube.com/watch?v=24Gmn8A9aLI)  Hmmmm….
+             Oct. 7, "…" [Read more](https://www.youtube.com/watch?v=24Gmn8A9aLI)  Hmmmm….
               Another most informative panel.  If you haven't, also
-              watch: [The Outbreak of War In
-                Israel- A Geopolitical Update](https://mediacentral.princeton.edu/media/The+Outbreak+of+War+In+Israel-+A+Geopolitical+Update+/1_5cbs1m40),  was
+              watch: [The Outbreak of War In Israel- A Geopolitical Update](https://mediacentral.princeton.edu/media/The+Outbreak+of+War+In+Israel-+A+Geopolitical+Update+/1_5cbs1m40),  was
               given earlier this week by former U.S. Ambassador to Egypt
               & Israel, Daniel C. Kurtzer.
 
 Tuesday, Oct. 10, 2023
 
-[Meet Waymo One: The ideal third wheel for
-                  your first date.](https://twitter.com/Waymo/status/1710746925786423525?t=JvspcRsianYQGgQPufBhvg&s=19)
+[Meet Waymo One: The ideal third wheel for your first date.](https://twitter.com/Waymo/status/1710746925786423525?t=JvspcRsianYQGgQPufBhvg&s=19)
 
-Staff, Oct 7, "…" [Read  more](https://twitter.com/Waymo/status/1710746925786423525?t=JvspcRsianYQGgQPufBhvg&s=19)[](https://twitter.com/Waymo/status/1710746925786423525?t=JvspcRsianYQGgQPufBhvg&s=19)Hmmmm…
+Staff, Oct 7, "…" [Read  more](https://twitter.com/Waymo/status/1710746925786423525?t=JvspcRsianYQGgQPufBhvg&s=19)Hmmmm…
               Is this [The Onion](https://www.theonion.com/)?
               No, it's not funny! … Talk about taking the low road
               against your competition and being clueless about the real
@@ -1039,8 +982,7 @@ Monday, Oct. 2, 2023
 [Why Driverless Cars Are a Tough Sell](https://www.theatlantic.com/newsletters/archive/2023/09/why-driverless-cars-are-a-tough-sell/675468/)
 
 C.
-            Friedersdif, Sept. 27, "Last week, [I
-                asked](https://www.theatlantic.com/newsletters/archive/2023/09/are-driverless-cars-the-future/675413/) for your thoughts on
+            Friedersdif, Sept. 27, "Last week, [I asked](https://www.theatlantic.com/newsletters/archive/2023/09/are-driverless-cars-the-future/675413/) for your thoughts on
             self-driving cars.
 
 Replies
@@ -1049,8 +991,7 @@ Replies
 "Our
             century-long love affair with all things automotive dooms
             the driverless concept to a niche market," one reader
-            argues…."  [Read
-                 more](https://www.theatlantic.com/newsletters/archive/2023/09/why-driverless-cars-are-a-tough-sell/675468/)  Hmmmm…
+            argues…."  [Read more](https://www.theatlantic.com/newsletters/archive/2023/09/why-driverless-cars-are-a-tough-sell/675468/)  Hmmmm…
               Maybe for those who are able to "Home Depot" (or do it
               themselves) their mobility…For the many, many others who
               need a ride and can't "Do it Themselves" for whatever
@@ -1074,15 +1015,13 @@ Replies
 
 Tuesday, Sept. 26, 2023
 
- [Don't fall prey to the current panic over
-                  automated vehicles](https://thehill.com/opinion/technology/4204557-dont-fall-prey-to-the-panic-over-automated-vehicles/)
+ [Don't fall prey to the current panic over automated vehicles](https://thehill.com/opinion/technology/4204557-dont-fall-prey-to-the-panic-over-automated-vehicles/)
 
 D.
             Sperling, Sept. 17, "Skepticism, frustration, and even
             hostility met the California Public Utilities Commission's
             decision last month to grant Waymo and Cruise permission to
-            operate automated vehicles [in
-                San Francisco](https://www.nytimes.com/2023/08/10/technology/driverless-cars-san-francisco.html). The panic over AVs
+            operate automated vehicles [in San Francisco](https://www.nytimes.com/2023/08/10/technology/driverless-cars-san-francisco.html). The panic over AVs
             threatens to drown out the voices of those celebrating this
             technological advancement.
 
@@ -1100,13 +1039,12 @@ As
             enable scaling of this technology in a way that is in the
             public interest — that will improve safety for occupants and
             pedestrians, enable sharing, and provide greater
-            accessibility to all riders. "  [](https://www.youtube.com/watch?v=fza6dhm9nX0)[Read  more](https://thehill.com/opinion/technology/4204557-dont-fall-prey-to-the-panic-over-automated-vehicles/)  Hmmmm…
+            accessibility to all riders. "  [Read  more](https://thehill.com/opinion/technology/4204557-dont-fall-prey-to-the-panic-over-automated-vehicles/)  Hmmmm…
                Extremely well said..  Alain
 
 Wednesday, Sept. 20, 2023
 
-   [NHTSA says
-                  nearly half of all car seats incorrectly installed](https://www.youtube.com/watch?v=xkSuhSLuPKc)
+   [NHTSA says nearly half of all car seats incorrectly installed](https://www.youtube.com/watch?v=xkSuhSLuPKc)
 
 F.
             Fishkin, Sept. 17, "….NHTSA says nearly half of all car
@@ -1117,14 +1055,11 @@ F.
 
 Tuesday, Sept. 12, 2023
 
-   [Waymo's autonomous vehicles are
-                  significantly safer than human-driven ones, says new
-                  research led by Swiss Re](https://waymo.com/blog/2023/09/waymos-autonomous-vehicles-are.html)
+   [Waymo's autonomous vehicles are significantly safer than human-driven ones, says new research led by Swiss Re](https://waymo.com/blog/2023/09/waymos-autonomous-vehicles-are.html)
 
 Company
             News, Sept 6, "Waymo and Swiss Re, one of the world's
-            leading reinsurers, [partnered
-                in 2022](https://waymo.com/blog/2022/09/waymo-and-swiss-res-new-research.html) to advance risk
+            leading reinsurers, [partnered in 2022](https://waymo.com/blog/2022/09/waymo-and-swiss-res-new-research.html) to advance risk
             assessment methodologies and approaches to evaluating safety
             of autonomous vehicles.
 
@@ -1158,7 +1093,7 @@ Company
             3.26 to 0.78 claims per million miles) when compared to
             human drivers. Furthermore, it completely eliminated bodily
             injury claims, a drastic contrast to the Swiss Re human
-            driver baseline of 1.11 claims per million miles…."  [](https://www.youtube.com/watch?v=fza6dhm9nX0)[Read  more](https://waymo.com/blog/2023/09/waymos-autonomous-vehicles-are.html)  Hmmmm…  Compelling
+            driver baseline of 1.11 claims per million miles…."  [Read  more](https://waymo.com/blog/2023/09/waymos-autonomous-vehicles-are.html)  Hmmmm…  Compelling
               findings from folks whose livelihood is focused on
               assessing safety.  As the San Francisco deployment has
               demonstrated, Waymo passes the proof-of-concept "Turing
@@ -1167,9 +1102,7 @@ Company
 
 Wednesday, August 31, 2023
 
-  [Tesla FSD v12:
-                  Breakthrough](https://www.youtube.com/watch?v=FHhrN-GXrF8)[We've](https://www.youtube.com/watch?v=FHhrN-GXrF8)[Been Waiting
-                  For?](https://www.youtube.com/watch?v=FHhrN-GXrF8)
+  [Tesla FSD v12: Breakthrough](https://www.youtube.com/watch?v=FHhrN-GXrF8)[We've](https://www.youtube.com/watch?v=FHhrN-GXrF8)[Been Waiting For?](https://www.youtube.com/watch?v=FHhrN-GXrF8)
 
 Rob
             Mauer, Aug. 28, "➤ Elon Musk
@@ -1179,20 +1112,17 @@ Rob
             Cybertruck updates ➤ Tesla lithium
             refinery progress ➤ Megapack
             price reduction ➤ Piper Sandler
-            issues note on TSLA ➤ Calendar." [](https://www.youtube.com/watch?v=fza6dhm9nX0)[Read
-                     more](https://www.youtube.com/watch?v=FHhrN-GXrF8)  Hmmmm…  Very
+            issues note on TSLA ➤ Calendar." [Read more](https://www.youtube.com/watch?v=FHhrN-GXrF8)  Hmmmm…  Very
               perceptive perspective on FSDv12.  Is FSDv12 close to
               passing Kornhauser's "Turing Proof-of-concept" for
               driverless mobility?   Alain
 
-[Elon
-                    Musk Livestream of his FSD v12 drive](https://www.youtube.com/watch?v=-bZwoAqQ8Cw)
+[Elon Musk Livestream of his FSD v12 drive](https://www.youtube.com/watch?v=-bZwoAqQ8Cw)
 
 Brighter
             w/Herbert, Aug. 25, ""Elon Musk just livestreamed his Full
             Self Driving of V12 around Palo Alto Ashok Elluswamy
-            Director of AI was with him".   [](https://www.youtube.com/watch?v=fza6dhm9nX0)[Read
-                     more](https://www.youtube.com/watch?v=-bZwoAqQ8Cw)  Hmmmm…  Interesting
+            Director of AI was with him".   [Read more](https://www.youtube.com/watch?v=-bZwoAqQ8Cw)  Hmmmm…  Interesting
               commentary on Elon's LiveStream of FSDv12.. Alain
 
 GM-backed
@@ -1220,8 +1150,7 @@ GM-backed
 
 Friday, August 25, 2023
 
-['This Experience May Feel Futuristic':
-                    Three Rides in Waymo Robot Taxis](https://www.nytimes.com/2023/08/21/technology/waymo-driverless-cars-san-francisco.html)
+['This Experience May Feel Futuristic': Three Rides in Waymo Robot Taxis](https://www.nytimes.com/2023/08/21/technology/waymo-driverless-cars-san-francisco.html)
 
 T.
             Mickie, Aug 21, " "Hello, Tripp," a disembodied woman's
@@ -1238,10 +1167,7 @@ T.
 For
             several years, San Francisco's hilly and congested streets
             have doubled as a test track for hundreds of driverless cars
-            operated by [Waymo,
-                an autonomous vehicle company owned by the Google parent
-                company Alphabet](https://www.nytimes.com/2021/04/02/business/waymo-john-krafcik.html), and [General
-                Motors-owned Cruise](https://www.nytimes.com/2022/09/28/technology/driverless-cars-san-francisco.html)…. "  [](https://www.youtube.com/watch?v=fza6dhm9nX0)[Read  more](https://www.nytimes.com/2023/08/21/technology/waymo-driverless-cars-san-francisco.html)  Hmmmm…  Although
+            operated by [Waymo, an autonomous vehicle company owned by the Google parent company Alphabet](https://www.nytimes.com/2021/04/02/business/waymo-john-krafcik.html), and [General Motors-owned Cruise](https://www.nytimes.com/2022/09/28/technology/driverless-cars-san-francisco.html)…. "  [Read  more](https://www.nytimes.com/2023/08/21/technology/waymo-driverless-cars-san-francisco.html)  Hmmmm…  Although
               I included this article in the body of SDC 11.32, I am
               repeating it here so that I can include a letter-to-the
               editor that I sent the NY Times, which is unlikely that
@@ -1295,9 +1221,7 @@ By
               ridesharing, Waymo/Cruise could achieve a 100
               personTrips/vehicleDay productivity and break-even average
               cost, without subsidy,  of less than $2.50 /personTrip
-              (~$2.43/personTrip, [Public Comment to the California Public
-                  Utility Commission, August 10, 2023 by Dr. Alain L.
-                  Kornhauser, Princeton University](https://www.dropbox.com/scl/fi/9jkoqujvj4b2c7pl1obzp/CPUC-Testimony_v4.docx?rlkey=h69y49qhhrtly5xm75ypkuv5l&dl=0),
+              (~$2.43/personTrip, [Public Comment to the California Public Utility Commission, August 10, 2023 by Dr. Alain L. Kornhauser, Princeton University](https://www.dropbox.com/scl/fi/9jkoqujvj4b2c7pl1obzp/CPUC-Testimony_v4.docx?rlkey=h69y49qhhrtly5xm75ypkuv5l&dl=0),
               also attached).
 
 Now
@@ -1312,9 +1236,7 @@ Alain
 
 Monday, August 21, 2023
 
-  [GM Cruise and Lidar Robotaxi's Business
-                  Model Is Go Through $100 Billion in Losses to Try to
-                  Reach Profitable Scale](https://www.nextbigfuture.com/2023/08/the-scary-gm-cruise-robotaxi-business-model-to-lose-many-billions-until-2030.html)
+  [GM Cruise and Lidar Robotaxi's Business Model Is Go Through $100 Billion in Losses to Try to Reach Profitable Scale](https://www.nextbigfuture.com/2023/08/the-scary-gm-cruise-robotaxi-business-model-to-lose-many-billions-until-2030.html)
 
 B. Wang,  Aug. 15,
             "GM's Cruise robotaxi service has expanded from 70 to 300
@@ -1335,8 +1257,7 @@ Waymo financials is
             in Google Other Bets and were a lot of the Other Bet losses
             of $4.8 billion in 2020 and $5.2 billion in 2021 and $6B in
             2022. Morgan Stanley analysts valued Waymo at $175 billion
-            in 2018, $105 billion in Sept 2019 and the Waymo [valuation
-                estimate in 2023 is $30 billion](https://seekingalpha.com/article/4544631-googles-other-bet-a-deep-dive-into-waymo)…."  [Read  more](https://www.nextbigfuture.com/2023/08/the-scary-gm-cruise-robotaxi-business-model-to-lose-many-billions-until-2030.html)[](https://sfstandard.com/2023/08/10/future-of-self-driving-cars-in-san-francisco-could-be-decided-today/?utm_source=The+San+Francisco+Standard&utm_campaign=1701c8955e-EMAIL_CAMPAIGN_2022_06_21_02_54_COPY_01&utm_medium=email&utm_term=0_f81e82e2a3-1701c8955e-561233865)  Hmmmm… All
+            in 2018, $105 billion in Sept 2019 and the Waymo [valuation estimate in 2023 is $30 billion](https://seekingalpha.com/article/4544631-googles-other-bet-a-deep-dive-into-waymo)…."  [Read  more](https://www.nextbigfuture.com/2023/08/the-scary-gm-cruise-robotaxi-business-model-to-lose-many-billions-until-2030.html)  Hmmmm… All
               the more reason that focusing on serving the folks whom
               Uber/Lyft serve amounts to chasing the wrong customers.
               Those customers are simply too diffuse spatially and too
@@ -1408,13 +1329,11 @@ In
 
 If
               you want to learn more about the wrong business model for
-              driverless, see Brian being interviewed in [Tesla Expert:
-                  Why Cruise and Waymo Will Go Bankrup](https://www.youtube.com/watch?v=8dh6eWMoNw0)[t](https://www.youtube.com/watch?v=8dh6eWMoNw0)   Alain
+              driverless, see Brian being interviewed in [Tesla Expert: Why Cruise and Waymo Will Go Bankrup](https://www.youtube.com/watch?v=8dh6eWMoNw0)[t](https://www.youtube.com/watch?v=8dh6eWMoNw0)   Alain
 
 Saturday, August 12, 2023
 
-[Robotaxis: California Regulators OK 24/7
-                  Self-Driving Car Expansion in San Francisco](https://sfstandard.com/2023/08/10/future-of-self-driving-cars-in-san-francisco-could-be-decided-today/?utm_source=The+San+Francisco+Standard&utm_campaign=1701c8955e-EMAIL_CAMPAIGN_2022_06_21_02_54_COPY_01&utm_medium=email&utm_term=0_f81e82e2a3-1701c8955e-561233865)
+[Robotaxis: California Regulators OK 24/7 Self-Driving Car Expansion in San Francisco](https://sfstandard.com/2023/08/10/future-of-self-driving-cars-in-san-francisco-could-be-decided-today/?utm_source=The+San+Francisco+Standard&utm_campaign=1701c8955e-EMAIL_CAMPAIGN_2022_06_21_02_54_COPY_01&utm_medium=email&utm_term=0_f81e82e2a3-1701c8955e-561233865)
 
 M. Kupfer & I.
             Mojadad,  Aug. 10, "San Francisco will enter a new era of
@@ -1460,7 +1379,7 @@ A Long Meeting With
             Avenue to enter the commission building ahead of the
             meeting.
 
-.…."  [Read  more](https://sfstandard.com/2023/08/10/future-of-self-driving-cars-in-san-francisco-could-be-decided-today/?utm_source=The+San+Francisco+Standard&utm_campaign=1701c8955e-EMAIL_CAMPAIGN_2022_06_21_02_54_COPY_01&utm_medium=email&utm_term=0_f81e82e2a3-1701c8955e-561233865)[](https://sfstandard.com/2023/08/10/future-of-self-driving-cars-in-san-francisco-could-be-decided-today/?utm_source=The+San+Francisco+Standard&utm_campaign=1701c8955e-EMAIL_CAMPAIGN_2022_06_21_02_54_COPY_01&utm_medium=email&utm_term=0_f81e82e2a3-1701c8955e-561233865)  Hmmmm…
+.…."  [Read  more](https://sfstandard.com/2023/08/10/future-of-self-driving-cars-in-san-francisco-could-be-decided-today/?utm_source=The+San+Francisco+Standard&utm_campaign=1701c8955e-EMAIL_CAMPAIGN_2022_06_21_02_54_COPY_01&utm_medium=email&utm_term=0_f81e82e2a3-1701c8955e-561233865)  Hmmmm…
               Listening to almost 4 hours of one-minute public comments
               from those in-house @ the CPUC meeting, I was deeply moved
               by the challenges and acute mobility needs facing many San
@@ -1674,9 +1593,7 @@ Thank
 
 Monday, August 07, 2023
 
-[Tampa adds
-                  fleet of Tesla SUVs for new mobility option around
-                  city](https://thatssotampa.com/dash-tampa-tesla-suvs/)
+[Tampa adds fleet of Tesla SUVs for new mobility option around city](https://thatssotampa.com/dash-tampa-tesla-suvs/)
 
 Andrew Harlan,
              July 31, "The Tampa Downtown Partnership announced the
@@ -1703,8 +1620,7 @@ DASH is described
 
 Monday, July 31, 2023
 
-[We Took a San Francisco Cabbie for a
-                  Driverless Car Ride. He Had Opinions](https://sfstandard.com/2023/07/27/taxi-driver-tries-driverless-car/)
+[We Took a San Francisco Cabbie for a Driverless Car Ride. He Had Opinions](https://sfstandard.com/2023/07/27/taxi-driver-tries-driverless-car/)
 
 H. Li, July 27,
             "Barry Taranto doesn't feel any immediate threat to his
@@ -1713,8 +1629,7 @@ H. Li, July 27,
             exist.
 
 As a board member
-            of the San Francisco Taxi Workers Alliance, Taranto has been [an
-                outspoken critic of Uber and Lyft](https://www.sfgate.com/travel/article/Uber-Flywheel-taxi-partner-in-SF-17064430.php). But now, he
+            of the San Francisco Taxi Workers Alliance, Taranto has been [an outspoken critic of Uber and Lyft](https://www.sfgate.com/travel/article/Uber-Flywheel-taxi-partner-in-SF-17064430.php). But now, he
             finds himself again besieged by brand-new technology on the
             road.
 
@@ -1723,14 +1638,12 @@ As a board member
             going to cause more congestion."
 
 As part of The
-            Standard's series on the [rising
-                trend of driverless cars in San Francisco](https://sfstandard.com/2023/07/24/waymo-cruise-robotaxi-autonomous-vehicle-san-francisco/), we took
+            Standard's series on the [rising trend of driverless cars in San Francisco](https://sfstandard.com/2023/07/24/waymo-cruise-robotaxi-autonomous-vehicle-san-francisco/), we took
             Taranto on a ride—his first—to see what he thought about the
             experience.
 
 As part of The
-            Standard's series on the [rising
-                trend of driverless cars in San Francisco](https://sfstandard.com/2023/07/24/waymo-cruise-robotaxi-autonomous-vehicle-san-francisco/), we took
+            Standard's series on the [rising trend of driverless cars in San Francisco](https://sfstandard.com/2023/07/24/waymo-cruise-robotaxi-autonomous-vehicle-san-francisco/), we took
             Taranto on a ride—his first—to see what he thought about the
             experience.  …  here we go again, Han
               is trying to sabotage Waymo & Cruise again.  So
@@ -1780,8 +1693,7 @@ However, Taranto
 
 Monday, July 24, 2023
 
- [Exclusive: Disability advocates push for
-                  robotaxi expansion](https://www.axios.com/local/san-francisco/2023/07/21/disability-advocates-support-waymo-self-driving-cars)
+ [Exclusive: Disability advocates push for robotaxi expansion](https://www.axios.com/local/san-francisco/2023/07/21/disability-advocates-support-waymo-self-driving-cars)
 
 M.
             Dickey, July 21,  "San Francisco's LightHouse for the Blind
@@ -1823,8 +1735,7 @@ M.
               the giving rides  market for the betterment of society
               [see below].  The fact that "more than a dozen" advocacy
               groups are joining to lobby for Waymo's permitting is
-              proof that they (and Cruise) meet the [Caudill Corollary: "Proof-of-Community
-                  Value & Sustainability"](https://www.dropbox.com/scl/fi/6e9o5fywbldcbkxg3mjf0/Caudill-Corollary-Proof-of-Community-Value-and-Sustainability.docx?rlkey=mv7buyyfj7ohw861trniultz6&dl=0).
+              proof that they (and Cruise) meet the [Caudill Corollary: "Proof-of-Community Value & Sustainability"](https://www.dropbox.com/scl/fi/6e9o5fywbldcbkxg3mjf0/Caudill-Corollary-Proof-of-Community-Value-and-Sustainability.docx?rlkey=mv7buyyfj7ohw861trniultz6&dl=0).
               Alain
 
 Friday, July 14, 2023
@@ -1848,8 +1759,7 @@ A.
               commemorate aTaxi's passage of the "Turing (Kornhauser)
               proof-of-technology" test, as written in [Wikipedia](https://en.wikipedia.org/wiki/Turing_test)… "The Turing
               test, originally called the [imitation game](https://en.wikipedia.org/wiki/The_Imitation_Game) by [Alan Turing](https://en.wikipedia.org/wiki/Alan_Turing) in 1950,[[2]](https://en.wikipedia.org/wiki/Turing_test#cite_note-Turing-1950-2) is a test of
-            a machine's ability to [exhibit
-                intelligent behavior](https://en.wikipedia.org/wiki/Artificial_intelligence) equivalent to, or
+            a machine's ability to [exhibit intelligent behavior](https://en.wikipedia.org/wiki/Artificial_intelligence) equivalent to, or
             indistinguishable from, that of a human. Turing proposed
             that a human evaluator would judge natural language
             conversations between a human and a machine designed to
@@ -1897,8 +1807,7 @@ That
 
 Monday, June 26 2023
 
-[Should your car prevent accidents,
-                    period?](https://www.techstination.com/report.jsp?reportId=6651)
+[Should your car prevent accidents, period?](https://www.techstination.com/report.jsp?reportId=6651)
 
 F. Fishkin, July 4, "Would you
               want to own a car that would simply stop most accidents
@@ -1948,9 +1857,7 @@ F. Fishkin, July 4, "Would you
 
 Monday, June 26 2023
 
-[San Francisco's fire chief is fed up with
-                  robotaxis that mess with her firetrucks. And L.A. is
-                  next](https://www.latimes.com/business/story/2023-06-22/san-francisco-robotaxis-interfere-with-firetrucks-los-angeles-is-next)
+[San Francisco's fire chief is fed up with robotaxis that mess with her firetrucks. And L.A. is next](https://www.latimes.com/business/story/2023-06-22/san-francisco-robotaxis-interfere-with-firetrucks-los-angeles-is-next)
 
 R.
             Mitchell, June 26, "Robotaxis keep tangling with
@@ -1961,8 +1868,7 @@ R.
             not ready for prime time," Chief Jeanine Nicholson said….
 
 State
-            regulators track [robotaxi
-                collisions](https://www.dmv.ca.gov/portal/vehicle-industry-services/autonomous-vehicles/autonomous-vehicle-collision-reports/), but they don't track
+            regulators track [robotaxi collisions](https://www.dmv.ca.gov/portal/vehicle-industry-services/autonomous-vehicles/autonomous-vehicle-collision-reports/), but they don't track
             data on traffic flow issues, such as street blockages or
             interference with firetrucks.
 
@@ -1971,8 +1877,7 @@ But the
             logged at least 39 robotaxi incident reports…
 
 State
-            regulators track [robotaxi
-                collisions](https://www.dmv.ca.gov/portal/vehicle-industry-services/autonomous-vehicles/autonomous-vehicle-collision-reports/), but they don't track
+            regulators track [robotaxi collisions](https://www.dmv.ca.gov/portal/vehicle-industry-services/autonomous-vehicles/autonomous-vehicle-collision-reports/), but they don't track
             data on traffic flow issues, such as street blockages or
             interference with firetrucks.
 
@@ -1983,8 +1888,7 @@ Safety
               data censored
 
 In 2021,
-            the DMV joined with Waymo on a [court-approved
-                deal](https://www.latimes.com/business/story/2023-06-01/driverless-trucks-california-dmv-mistrust-safety-regulations)to allow
+            the DMV joined with Waymo on a [court-approved deal](https://www.latimes.com/business/story/2023-06-01/driverless-trucks-california-dmv-mistrust-safety-regulations)to allow
             driverless car companies to censor not only trade secrets
             but basic information on safety performance, including most
             details of collision reports as well as information on how
@@ -2001,8 +1905,7 @@ Waymo
             how quickly. Neither Waymo nor Motional will say how many
             robotaxis they're testing in Santa Monica and L.A…."  [Read  more](https://www.latimes.com/business/story/2023-06-22/san-francisco-robotaxis-interfere-with-firetrucks-los-angeles-is-next) Hmmmm…
               Devastating in so many ways.  The SF "proof-of-market" is
-              a train wreck!  Time for a major pivot! [Watch PodCast 323 with
-                  Russ](https://youtu.be/5FcZPFkWDCY).  Alain
+              a train wreck!  Time for a major pivot! [Watch PodCast 323 with Russ](https://youtu.be/5FcZPFkWDCY).  Alain
 
 Wednesday, June 21 2023
 
@@ -2016,17 +1919,14 @@ K. Pyle, June 14,
             explained that Uber and Lyft no longer serve the hometown of
             the Bill Clinton Presidential Library.
 
-[Fact check, [according
-                to its website, Lyft and Uber](https://www.clintonairport.com/parking-transportation/ground-transportation/), as well as
+[Fact check, [according to its website, Lyft and Uber](https://www.clintonairport.com/parking-transportation/ground-transportation/), as well as
             other local providers serve the Clinton National Airport.]
 
 She said their apps
             indicated that their respective services were not available.
             She believes this happened as a result of the pandemic.
 
-[Fact check;
-            Perhaps there still is [a
-                dearth of drivers as reported in 2021.]](https://www.thv11.com/article/money/uber-lyft-drivers-little-rock-isnt-profitable-place-drive/91-b242a74c-19c8-4e70-82b4-0f3466be7a5f)
+[Fact check; Perhaps there still is [a dearth of drivers as reported in 2021.]](https://www.thv11.com/article/money/uber-lyft-drivers-little-rock-isnt-profitable-place-drive/91-b242a74c-19c8-4e70-82b4-0f3466be7a5f)
 
 She described the
             taxi service in the Little Rock area as "awful". It takes an
@@ -2042,8 +1942,7 @@ If her perception
             have (Kornhauser comments about this in the latest [SmartDrivingCars](https://www.youtube.com/watch?v=XP7ti2tO4S4&t=1238s) podcast).
 
 As background, the
-            three of us serendipitously converged at [CES2023
-                and talked about mobility challenges](https://viodi.com/2023/03/24/designing-mobility-for-the-next-billion-passengers/). In a
+            three of us serendipitously converged at [CES2023 and talked about mobility challenges](https://viodi.com/2023/03/24/designing-mobility-for-the-next-billion-passengers/). In a
             soundbite from that interview, Lee explains the challenges
             and opportunities for improving mobility and questions
             whether she could make the journey to Alain's house. There
@@ -2055,8 +1954,7 @@ As background, the
 
 Wednesday, June 14, 2023
 
-  [Watch: A conversation on the U.S.
-                  autonomous vehicle industry](https://www.axios.com/2023/05/22/axios-event-autonomous-vehicles)
+  [Watch: A conversation on the U.S. autonomous vehicle industry](https://www.axios.com/2023/05/22/axios-event-autonomous-vehicles)
 
 Axios
             events, June,7, "On Wednesday, June 7 in Washington, D.C.,
@@ -2124,14 +2022,12 @@ Origin,
 
 Friday, June 2, 2023
 
-[NHTSA Proposes Automatic Emergency Braking
-                  Requirements for New Vehicles](https://www.nhtsa.gov/press-releases/automatic-emergency-braking-proposed-rule)
+[NHTSA Proposes Automatic Emergency Braking Requirements for New Vehicles](https://www.nhtsa.gov/press-releases/automatic-emergency-braking-proposed-rule)
 
 Press
             release, May 31, "The U.S. Department of Transportation's
             National Highway Traffic Safety Administration today
-            announced a [Notice of Proposed
-                Rulemaking](https://www.nhtsa.gov/node/138036) that would require
+            announced a [Notice of Proposed Rulemaking](https://www.nhtsa.gov/node/138036) that would require
             automatic emergency braking and pedestrian AEB systems on
             passenger cars and light trucks. The proposed rule is
             expected to dramatically reduce crashes associated with
@@ -2153,8 +2049,7 @@ NHTSA
             air bags have helped improve safety, requiring automatic
             emergency braking on cars and trucks would keep all of us
             safer on our roads." …"    [Read  more](https://www.nhtsa.gov/press-releases/automatic-emergency-braking-proposed-rule)  Hmmmm… This
-              is substantial and you must read [Notice of Proposed
-                Rulemaking](https://www.nhtsa.gov/node/138036) which contains the
+              is substantial and you must read [Notice of Proposed Rulemaking](https://www.nhtsa.gov/node/138036) which contains the
               details, especially page 14 (interesting that it states:"…
             all speeds above 10 km/h (6.2 mph), even if these speeds are
             above the speeds tested by NHTSA…".  Does this mean that
@@ -2194,8 +2089,7 @@ Here
 
 Friday, May 19, 2023
 
-  [Don't Fall for the Hype or Hysteria About
-                  ChatGPT. Don't be Complacent, Either.](https://chunkamui.us6.list-manage.com/track/click?u=80f9826bd4397552c0f99c953&id=af6f7dc346&e=20f4fd6914)
+  [Don't Fall for the Hype or Hysteria About ChatGPT. Don't be Complacent, Either.](https://chunkamui.us6.list-manage.com/track/click?u=80f9826bd4397552c0f99c953&id=af6f7dc346&e=20f4fd6914)
 
 Chunka
             Mui, April 28, "If you're trying to decide how to invest in
@@ -2247,15 +2141,11 @@ Hence
               be complacent. Instead: think big, start small and learn
               fast, guided by a robust future history.
 
-1.      [Don't Fall for the Hype or
-                    Hysteria About ChatGPT. Don't be Complacent, Either.](https://chunkamui.us6.list-manage.com/track/click?u=80f9826bd4397552c0f99c953&id=af6f7dc346&e=20f4fd6914)
+1.      [Don't Fall for the Hype or Hysteria About ChatGPT. Don't be Complacent, Either.](https://chunkamui.us6.list-manage.com/track/click?u=80f9826bd4397552c0f99c953&id=af6f7dc346&e=20f4fd6914)
 
-2.      [How AI Could Reshape the
-                    Future History of Health Care (for the Better and
-                    Worse)](https://chunkamui.us6.list-manage.com/track/click?u=80f9826bd4397552c0f99c953&id=bfa9630994&e=20f4fd6914)
+2.      [How AI Could Reshape the Future History of Health Care (for the Better and Worse)](https://chunkamui.us6.list-manage.com/track/click?u=80f9826bd4397552c0f99c953&id=bfa9630994&e=20f4fd6914)
 
-3.      [6 Words to Focus Your AI
-                    Innovation Strategy](https://chunkamui.us6.list-manage.com/track/click?u=80f9826bd4397552c0f99c953&id=1d38b9c0dc&e=20f4fd6914)
+3.      [6 Words to Focus Your AI Innovation Strategy](https://chunkamui.us6.list-manage.com/track/click?u=80f9826bd4397552c0f99c953&id=1d38b9c0dc&e=20f4fd6914)
 
 Hope
               you enjoy them. Please like, share and comment if you can.
@@ -2268,8 +2158,7 @@ Hope
 
 Friday, May 12, 2023
 
-[Waymo doubles robotaxi service area in
-                  Phoenix in bid to grow driverless trips tenfold](https://techcrunch.com/2023/05/04/waymo-doubles-robotaxi-service-area-in-phoenix-in-bid-to-grow-driverless-trips-tenfold/?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAAEGyhsUGYYj6Jn5zzxxyUlulfCqT5gWTlpp_bm-tqxUbKALSykfrbDDEOYainXVY3UuLcqtjSAOZ8nzQPiFt2n6uXAAPofOSOO_oZ-zaA-MTIdKNPABM96pF6SKM_JNUqMcBBjnxFteVK0PZrDT4yYU1-KzE9HTJjHPAfwAePdls#:~:text=Transportation-,Waymo%20doubles%20robotaxi%20service%20area%20in%20Phoenix,to%20grow%20driverless%20trips%20tenfold&text=Waymo%20is%20doubling%20its%20commercial,and%20car-dependent%20desert%20city.)
+[Waymo doubles robotaxi service area in Phoenix in bid to grow driverless trips tenfold](https://techcrunch.com/2023/05/04/waymo-doubles-robotaxi-service-area-in-phoenix-in-bid-to-grow-driverless-trips-tenfold/?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAAEGyhsUGYYj6Jn5zzxxyUlulfCqT5gWTlpp_bm-tqxUbKALSykfrbDDEOYainXVY3UuLcqtjSAOZ8nzQPiFt2n6uXAAPofOSOO_oZ-zaA-MTIdKNPABM96pF6SKM_JNUqMcBBjnxFteVK0PZrDT4yYU1-KzE9HTJjHPAfwAePdls#:~:text=Transportation-,Waymo%20doubles%20robotaxi%20service%20area%20in%20Phoenix,to%20grow%20driverless%20trips%20tenfold&text=Waymo%20is%20doubling%20its%20commercial,and%20car-dependent%20desert%20city.)
 
 K. Korosec, May 4,  "Waymo
             is doubling its commercial robotaxi service area in the
@@ -2366,9 +2255,7 @@ My
 
 Thursday, May 4, 2023
 
-  [S&P Dow Jones Indices to Calculate The
-                  Road to Autonomy Index Tracking Autonomous Vehicles
-                  and Logistics](https://www.prnewswire.com/news-releases/sp-dow-jones-indices-to-calculate-the-road-to-autonomy-index-tracking-autonomous-vehicles-and-logistics-301806479.html?TrucksFoT)
+  [S&P Dow Jones Indices to Calculate The Road to Autonomy Index Tracking Autonomous Vehicles and Logistics](https://www.prnewswire.com/news-releases/sp-dow-jones-indices-to-calculate-the-road-to-autonomy-index-tracking-autonomous-vehicles-and-logistics-301806479.html?TrucksFoT)
 
 [The Road to Autonomy](https://www.roadtoautonomy.com/), April 25. "The
             Road to Autonomy®, a leading source of data, insight and
@@ -2409,16 +2296,14 @@ April 20, 2023, "...
 
 Thursday, April 6, 2023
 
-  [While On-Road Driverless Slows, Ag-Tech
-                  Autonomy Players Are Plowing Ahead](https://www.forbes.com/sites/richardbishop1/2023/03/30/while-on-road-driverless-slows-ag-tech-autonomy-players-are-plowing-ahead/?sh=1c73a0ab820c)
+  [While On-Road Driverless Slows, Ag-Tech Autonomy Players Are Plowing Ahead](https://www.forbes.com/sites/richardbishop1/2023/03/30/while-on-road-driverless-slows-ag-tech-autonomy-players-are-plowing-ahead/?sh=1c73a0ab820c)
 
 R. Bishop, March 30, "The [John Deere Company](https://ces2023.deere.com/) wowed the crowds at the 2023
             Consumer Electronics Show in January with their high-tech
             agricultural equipment. At their exhibit, heads craned
             upward in awe to take in the 120 ft boom of their precision
             spraying technology, straddled atop a massive tractor. At
-            the CES 2022, Deere & Company introduced a [fully
-                autonomous tractor](https://www.deere.com/en/news/all-news/autonomous-tractor-reveal/).
+            the CES 2022, Deere & Company introduced a [fully autonomous tractor](https://www.deere.com/en/news/all-news/autonomous-tractor-reveal/).
 
 In the months since CES, we've seen
             multi-faceted challenges for companies seeking to transform
@@ -2465,10 +2350,7 @@ It's already
 Friday, March
                   24, 2023
 
-[ITU 2023 Future Networked
-                  Car Symposium](https://fnc.itu.int/programme/): [Automated
-                  Driving Systems (ADS) for Consumers and Other Vehicles
-                  (Trucks, Delivery, Shuttles, Robotaxis, Etc.)](https://fnc.itu.int/2023-session-3/)
+[ITU 2023 Future Networked Car Symposium](https://fnc.itu.int/programme/): [Automated Driving Systems (ADS) for Consumers and Other Vehicles (Trucks, Delivery, Shuttles, Robotaxis, Etc.)](https://fnc.itu.int/2023-session-3/)
 
 R. Lanctot, March 12, " Full
             automation of the driving task appears tantalizingly close.
@@ -2489,8 +2371,7 @@ Isn't it
               about time that this teenager start delivering some
               tangible return to its "parents" and society.  For what is
               supposed to be such a disruptive technology it has yet to
-              identify the market where it has [decisive cost or quality advantage over
-                  the existing firms](https://www.azquotes.com/author/13166-Joseph_A_Schumpeter?p=1).
+              identify the market where it has [decisive cost or quality advantage over the existing firms](https://www.azquotes.com/author/13166-Joseph_A_Schumpeter?p=1).
               (over the existing solutions it is trying to replace.)
 
 It might be
@@ -2568,8 +2449,7 @@ The
               business case.
 
 Let's
-              continue this panel discussion at the [6](https://www.cartsmobility.com/summit-sponsorship)[th](https://www.cartsmobility.com/summit-sponsorship)[Princeton SmartDrivingCars
-                    Summit in May 22->24](https://www.cartsmobility.com/summit-sponsorship). A major part
+              continue this panel discussion at the [6](https://www.cartsmobility.com/summit-sponsorship)[th](https://www.cartsmobility.com/summit-sponsorship)[Princeton SmartDrivingCars Summit in May 22->24](https://www.cartsmobility.com/summit-sponsorship). A major part
               of the  Summit is devoted to this one topic: Delivering
               Mobility to the Non-mobile. We're going to talk about the
               business case, something that is sorely missing in public
@@ -2577,10 +2457,7 @@ Let's
 
 Sunday, March 19, 2023
 
- [ITU 2023 Future Networked
-                  Car Symposium](https://fnc.itu.int/programme/): [Session 2: Using Automotive Artificial
-                  Intelligence to Improve Vehicle Safety, Services and
-                  Transport Management](https://itu.zoom.us/rec/play/NgaCH7JsZGBGX_7B8BjEIEzGBy8z2oBku8Gf4BG9hBsf7ZAWO60w3bs6UsOppPLOL4Pi08axKVW-i_NH.IT8oGRhbo-hmmRXb?startTime=1678795220000&_x_zm_rtaid=mlHh4V6LQ5ub0ZRshVDzxA.1679232483409.af3f97b86623647348e618946071a599&_x_zm_rhtaid=8)
+ [ITU 2023 Future Networked Car Symposium](https://fnc.itu.int/programme/): [Session 2: Using Automotive Artificial Intelligence to Improve Vehicle Safety, Services and Transport Management](https://itu.zoom.us/rec/play/NgaCH7JsZGBGX_7B8BjEIEzGBy8z2oBku8Gf4BG9hBsf7ZAWO60w3bs6UsOppPLOL4Pi08axKVW-i_NH.IT8oGRhbo-hmmRXb?startTime=1678795220000&_x_zm_rtaid=mlHh4V6LQ5ub0ZRshVDzxA.1679232483409.af3f97b86623647348e618946071a599&_x_zm_rhtaid=8)
 
 M. Sena, March 11., " …During the
             next 3 h our panel of experts will discuss the topic of
@@ -2599,8 +2476,7 @@ The generally accepted definition
 
 Monday, March 13, 2023
 
-[SpaceX Continues Rapid Development of
-                  Starship Infrastructure - Starbase Weekly Update #53](https://www.youtube.com/watch?v=H7lOXpKyszo&t=1s)
+[SpaceX Continues Rapid Development of Starship Infrastructure - Starbase Weekly Update #53](https://www.youtube.com/watch?v=H7lOXpKyszo&t=1s)
 
 LabPadre, March 12, "This week at
             Starbase Raptor installation begins on Booster 9,
@@ -2612,9 +2488,7 @@ LabPadre, March 12, "This week at
             batch of flyover photos courtesy of Greg Scott…."  [Read  more](https://www.youtube.com/watch?v=H7lOXpKyszo&t=1s)  Hmmmm…..  [Watch video](https://youtu.be/H7lOXpKyszo).
               Excellent weekly update. Alain
 
-[Starbase Live:
-                  24/7 Starship & Super Heavy Development From
-                  SpaceX's Boca Chica Facility](https://www.youtube.com/watch?v=mhJRzQsLZGg)
+[Starbase Live: 24/7 Starship & Super Heavy Development From SpaceX's Boca Chica Facility](https://www.youtube.com/watch?v=mhJRzQsLZGg)
 
 MasaSpaceflight,
             Live, "Starship is SpaceX's fully reusable launch system
@@ -2625,9 +2499,7 @@ MasaSpaceflight,
 
 Wednesday, March 8, 2023
 
-[GM Announces Ultra Cruise, Enabling True
-                  Hands-Free Driving Across 95 Percent of Driving
-                  Scenarios](https://news.gm.com/newsroom.detail.html/Pages/news/us/en/2021/oct/1006-ultracruise.html)
+[GM Announces Ultra Cruise, Enabling True Hands-Free Driving Across 95 Percent of Driving Scenarios](https://news.gm.com/newsroom.detail.html/Pages/news/us/en/2021/oct/1006-ultracruise.html)
 
 Press release, March 6, "Today,
             General Motors unveiled Ultra Cruise, an all-new, advanced
@@ -2659,15 +2531,13 @@ Always pay
                 attention while driving and when using Ultra Cruise and
                 Super Cruise. Do not use a hand-held device. …. " [Read  more](https://news.gm.com/newsroom.detail.html/Pages/news/us/en/2021/oct/1006-ultracruise.html)   Hmmmm…..
               Very interesting.  High-end and includes LiDAR  See [ZoomCast 307](https://youtu.be/F9FRAq75Dc8) / [PodCast 307](https://spotifyanchor-web.app.link/e/O6bKEhAbZxb) and
-              Andrew Hawkins' "[GM's Ultra Cruise will use radar, camera,
-                  and lidar to enable hands-free driving](https://www.theverge.com/2023/3/7/23627656/gm-ultra-cruise-sensor-radar-lidar-hands-free?utm_source=Windels+Marx+-+Transportation+Practice+Group&utm_campaign=497a275991-EMAIL_CAMPAIGN_6_6_2019_10_17_COPY_01&utm_medium=email&utm_term=0_81d271bd4e-497a275991-35948995)",
+              Andrew Hawkins' "[GM's Ultra Cruise will use radar, camera, and lidar to enable hands-free driving](https://www.theverge.com/2023/3/7/23627656/gm-ultra-cruise-sensor-radar-lidar-hands-free?utm_source=Windels+Marx+-+Transportation+Practice+Group&utm_campaign=497a275991-EMAIL_CAMPAIGN_6_6_2019_10_17_COPY_01&utm_medium=email&utm_term=0_81d271bd4e-497a275991-35948995)",
               below.  Alain
 
 Friday, March
                   03, 2023
 
-  [First Million Rider-Only Miles: How the
-                  Waymo Driver is Improving Road Safety](https://blog.waymo.com/2023/02/first-million-rider-only-miles-how.html)
+  [First Million Rider-Only Miles: How the Waymo Driver is Improving Road Safety](https://blog.waymo.com/2023/02/first-million-rider-only-miles-how.html)
 
 The Waymo team, Feb 28, "Waymo has
             achieved many global industry firsts. Each time we delight
@@ -2677,8 +2547,7 @@ The Waymo team, Feb 28, "Waymo has
 
 To provide a more in-depth look
             into the performance of the Waymo Driver and where it stands
-            compared to human driving, we've published a [research
-                paper](https://storage.googleapis.com/waymo-uploads/files/documents/safety/Safety%20Performance%20of%20Waymo%20RO%20at%201M%20miles.pdf) that summarizes the contact events
+            compared to human driving, we've published a [research paper](https://storage.googleapis.com/waymo-uploads/files/documents/safety/Safety%20Performance%20of%20Waymo%20RO%20at%201M%20miles.pdf) that summarizes the contact events
             that we experienced during the first one million miles of
             our rider-only operations….
 
@@ -2748,8 +2617,7 @@ Waymo's
 Friday,
                   February 17, 2023
 
-  [Carmakers Are Pushing Autonomous Tech.
-                    This Engineer Wants Limits.](https://www.nytimes.com/2023/02/15/business/missy-cummings-tesla-autopilot.html)
+  [Carmakers Are Pushing Autonomous Tech. This Engineer Wants Limits.](https://www.nytimes.com/2023/02/15/business/missy-cummings-tesla-autopilot.html)
 
 C. Metz, Feb. 15,  Last fall, Missy
             Cummings sent a document to her colleagues at the National
@@ -2773,19 +2641,16 @@ People "are over-trusting the
             technology," she said. "They are letting the cars speed. And
             they are getting into accidents that are seriously injuring
             them or killing them."…"  [Read  more](https://www.nytimes.com/2023/02/15/business/missy-cummings-tesla-autopilot.html)  Hmmmm….
-               Yup!!  Discussion is in  SmartDrivingCars [ZoomCast
-                    304](https://www.youtube.com/watch?v=greLZNvnyHo) / [PodCast 304](https://anchor.fm/smartdrivingcars/episodes/Smart-Driving-Cars-Autonomous-Chaos-in-SF--episode-302-e1udppb?%24web_only=true&_branch_match_id=907792449640522550&utm_source=web&utm_campaign=web-share&utm_medium=sharing&_branch_referrer=H4sIAAAAAAAAA8soKSkottLXLy7IL8lMq0zMS87IL9ItT03SSywo0MvJzMvWT9U3Nk3JKfJJ8jUvTwIAReO56TAAAAA%3D) W/Missy
+               Yup!!  Discussion is in  SmartDrivingCars [ZoomCast 304](https://www.youtube.com/watch?v=greLZNvnyHo) / [PodCast 304](https://anchor.fm/smartdrivingcars/episodes/Smart-Driving-Cars-Autonomous-Chaos-in-SF--episode-302-e1udppb?%24web_only=true&_branch_match_id=907792449640522550&utm_source=web&utm_campaign=web-share&utm_medium=sharing&_branch_referrer=H4sIAAAAAAAAA8soKSkottLXLy7IL8lMq0zMS87IL9ItT03SSywo0MvJzMvWT9U3Nk3JKfJJ8jUvTwIAReO56TAAAAA%3D) W/Missy
               Cummings
 
 Friday,
                   February 3, 2023
 
- [SF Officials Describe Chaos From Cruise,
-                  Waymo Cars as They Try To Slow Their Rollout](https://sfstandard.com/transportation/sf-officials-describe-chaos-from-cruise-waymo-cars-as-they-try-to-slow-their-rollout/)
+ [SF Officials Describe Chaos From Cruise, Waymo Cars as They Try To Slow Their Rollout](https://sfstandard.com/transportation/sf-officials-describe-chaos-from-cruise-waymo-cars-as-they-try-to-slow-their-rollout/)
 
 K. Truong, Jan 30, "Firefighters
-            were battling a [major
-                house fire](https://sfstandard.com/community/san-francisco-apartment-fire-nopa-people-dogs-displaced/) near the intersection of Hayes and
+            were battling a [major house fire](https://sfstandard.com/community/san-francisco-apartment-fire-nopa-people-dogs-displaced/) near the intersection of Hayes and
             Divisadero streets early in the morning of Jan. 22 when a
             Cruise vehicle with no safety driver started to creep its
             way into the emergency scene.
@@ -2802,8 +2667,7 @@ Two firefighters stood in front of
 That was just one of 92 unique
             incidents between May 29 and Dec. 31—mainly from
             Cruise—cited by San Francisco transit officials, who are
-            strongly urging for tighter oversight as "robotaxi" services [look
-                to massively expand](https://sfstandard.com/business/cruises-robotaxi-revolution-is-hitting-the-gas-in-san-francisco/) their operations…
+            strongly urging for tighter oversight as "robotaxi" services [look to massively expand](https://sfstandard.com/business/cruises-robotaxi-revolution-is-hitting-the-gas-in-san-francisco/) their operations…
 
 Alain Kornhauser, …  pinned the
             companies' missteps on an effort to grab market share from
@@ -2830,8 +2694,7 @@ Alain Kornhauser, …  pinned the
 
 Tuesday, January 24, 2023
 
-[Riding
-                  Nairobi's Craziest Matatu, Kenya](https://www.youtube.com/watch?v=pPkKX41M674)
+[Riding Nairobi's Craziest Matatu, Kenya](https://www.youtube.com/watch?v=pPkKX41M674)
 
 J. Billam, Feb. 11 '22, "I show my
             wild experience riding Nairobi's Craziest [Matatu](https://en.wikipedia.org/wiki/Matatu) (local bus) bound
@@ -2843,8 +2706,7 @@ J. Billam, Feb. 11 '22, "I show my
               every day in Nairobi, Kenya.  Amazing. J
               Alain
 
-[All Nairobi Matatu Routes at your
-                  fingertips!](https://blog.myride.co.ke/all-nairobi-matatu-routes-at-your-fingertips/)
+[All Nairobi Matatu Routes at your fingertips!](https://blog.myride.co.ke/all-nairobi-matatu-routes-at-your-fingertips/)
 
 " Have you ever found yoursel in
             town with no idea how to get to a certain destination using
@@ -2862,9 +2724,7 @@ So us cool peeps at MyRide Africa
 
 Friday, January 13, 2023
 
-[RFP NO.
-                  22DBM0071  BUFFALO INTELLIGENT TRANSPORTATION SYSTEM
-                  FOR THE UNDER SERVED (ITS4US):  SELF-DRIVING SHUTTLES](https://www.nyscr.ny.gov/adsOpen.cfm)
+[RFP NO. 22DBM0071  BUFFALO INTELLIGENT TRANSPORTATION SYSTEM FOR THE UNDER SERVED (ITS4US):  SELF-DRIVING SHUTTLES](https://www.nyscr.ny.gov/adsOpen.cfm)
 
  S. Still, Jan. 10, Project
               Overview: University at Buffalo is issuing this
@@ -2884,15 +2744,13 @@ February 1, 2023 2:30pm EST. Proposals received after
 The Request for Proposals (RFP)
             documents are available now by registering through this
             link:  [https://www.nyscr.ny.gov/adsOpen.cfm](https://www.nyscr.ny.gov/adsOpen.cfm)   Questions can be
-            addressed to David Markey, Senior Buyer, at [dbmarkey@buffalo.edu](mailto:dbmarkey@buffalo.edu). …."  [Read
-                    more](https://www.nyscr.ny.gov/adsOpen.cfm)  Hmmmm... I
+            addressed to David Markey, Senior Buyer, at [dbmarkey@buffalo.edu](mailto:dbmarkey@buffalo.edu). …."  [Read more](https://www.nyscr.ny.gov/adsOpen.cfm)  Hmmmm... I
               love what Dr. Steve Still is trying to do in Buffalo.  All
               the best.  Alain
 
 Friday, December 30, 2022
 
-[Automotive AI Is Making Both Cars and
-                  Drivers Better](http://www.michaellsena.com/wp-content/uploads/2022/12/The-Dispatcher_January_2023.pdf)
+[Automotive AI Is Making Both Cars and Drivers Better](http://www.michaellsena.com/wp-content/uploads/2022/12/The-Dispatcher_January_2023.pdf)
 
 M. Sena,
             Dec. 28, " AUTOMOTIVE ARTIFICIAL INTELLIGENCE (AAI) is a
@@ -2929,8 +2787,7 @@ AI that
 
 Sunday, December 25, 2022
 
-[Autonomous Vehicles Reality Check Part 2:
-                  Moving People](https://www.forbes.com/sites/richardbishop1/2022/12/22/autonomous-vehicles-reality-check-part-2-moving-people/?sh=3fa925e93d16)
+[Autonomous Vehicles Reality Check Part 2: Moving People](https://www.forbes.com/sites/richardbishop1/2022/12/22/autonomous-vehicles-reality-check-part-2-moving-people/?sh=3fa925e93d16)
 
 R.
             Bishop, Dec. 22, " Recent reporting/blogging about AV's can
@@ -3003,8 +2860,7 @@ Deployment
 Saturday,
                   December 17, 2022
 
-[Once You See the Truth About Cars, You
-                  Can't Unsee It](https://www.nytimes.com/2022/12/15/opinion/car-ownership-inequality.html?campaign_id=0&emc=edit_cr_20221215&instance_id=0&nl=comments-notifications&regi_id=139605010&segment_id=0&user_id=45874dd248641213e045c9ba82c52440)
+[Once You See the Truth About Cars, You Can't Unsee It](https://www.nytimes.com/2022/12/15/opinion/car-ownership-inequality.html?campaign_id=0&emc=edit_cr_20221215&instance_id=0&nl=comments-notifications&regi_id=139605010&segment_id=0&user_id=45874dd248641213e045c9ba82c52440)
 
 Guest
             Opinion: A. Ross & J. Livingston,Dec. 15, " In American
@@ -3028,33 +2884,28 @@ But for
             drive apart haves and have-nots.  …."  [Read  more](https://www.nytimes.com/2022/12/15/opinion/car-ownership-inequality.html?campaign_id=0&emc=edit_cr_20221215&instance_id=0&nl=comments-notifications&regi_id=139605010&segment_id=0&user_id=45874dd248641213e045c9ba82c52440)Hmmmm….. The
               fundamentals of our MOVES approach to the deployment is
               focused directly on providing a high-quality affordable
-              alternative to this community.  Moreover, [the comment that the NYT posted with the
-                  article](https://www.nytimes.com/2022/12/15/opinion/car-ownership-inequality.html?campaign_id=0&emc=edit_cr_20221215&instance_id=0&nl=comments-notifications&regi_id=139605010&segment_id=0&user_id=45874dd248641213e045c9ba82c52440#commentsContainer&permid=122022082:122022082).   Alain
+              alternative to this community.  Moreover, [the comment that the NYT posted with the article](https://www.nytimes.com/2022/12/15/opinion/car-ownership-inequality.html?campaign_id=0&emc=edit_cr_20221215&instance_id=0&nl=comments-notifications&regi_id=139605010&segment_id=0&user_id=45874dd248641213e045c9ba82c52440#commentsContainer&permid=122022082:122022082).   Alain
 
 Sunday, December 11, 2022
 
-[I'm going to
-                  the moon!!!... Literally!](https://www.youtube.com/watch?v=QFIuzormhYU)
+[I'm going to the moon!!!... Literally!](https://www.youtube.com/watch?v=QFIuzormhYU)
 
 T. Dodd, Dec. 8, "t's true! I have
             been chosen as one of the members of the incredible dearMoon
             mission around the moon on SpaceX's Starship rocket. To
             learn more about the mission and to meet the rest of the
             crew, visit - [http://dearmoon.earth](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqazhCU2dFN24zdmp4VU5ITl9mbVhVTW9EVXRNZ3xBQ3Jtc0tsOGhkeG96SDVjOXRoM0k1cFZnbXpnbE5YbTBTNW8yTnpOWUNDbEVBMmtoWXd2OFVUTEJ1dkUzSXpZaUNZZFJQUVV4M3BKc0FGcDdIeUdqbVZtNzJpRy1La01tZVZ5V1NuTGM2SXZUaFNnNmJQX1dzRQ&q=http%3A%2F%2Fdearmoon.earth%2F&v=QFIuzormhYU) & [https://dearmoon.earth/share_crew/tim...](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbFpnamJsdzBVbEVpMjlLRy0xTmE2MmZtWUFTQXxBQ3Jtc0trRlppRXZmTEZmRG1lUnM3S2sxVi1DMmM1UFg0Zzd4ejZJUWJQXzB6WDl5ZXJsS09HUUNHUnRLTERiRnk0dVIzU2tOeXc0bENJTnUxNTRmZkdSYUQ2MW5sSzE1YXFVcV9IUzNseXBkSWliQWVoRld4RQ&q=https%3A%2F%2Fdearmoon.earth%2Fshare_crew%2Ftimdodd_en.html&v=QFIuzormhYU) And hear more
-            about the announcement from Yusaku Maezawa!!! - [https://youtu.be/DKNSlL3Inn8](https://www.youtube.com/watch?v=DKNSlL3Inn8&t=0s)... " [Watch
-                    more](https://www.youtube.com/watch?v=QFIuzormhYU)  Hmmmm... So
+            about the announcement from Yusaku Maezawa!!! - [https://youtu.be/DKNSlL3Inn8](https://www.youtube.com/watch?v=DKNSlL3Inn8&t=0s)... " [Watch more](https://www.youtube.com/watch?v=QFIuzormhYU)  Hmmmm... So
               deserving!  Tim has done so much to make rigorous "rocket
               science" understandable by non-rocket scientists while
               maintaining the rigor.  For that substance he has been
               most justifiable awarded this special honor.  Life is
               good!  Tim, you most justifiably earned this incredible
-              privilege.  Full disclosure… I'm a long time subscriber to [Everyday
-                  Astronaut](https://www.youtube.com/@EverydayAstronaut). Alain
+              privilege.  Full disclosure… I'm a long time subscriber to [Everyday Astronaut](https://www.youtube.com/@EverydayAstronaut). Alain
 
 Saturday, November 19, 2022
 
- [What Riding in a Self-Driving Tesla Tells
-                  Us About the Future of Autonomy](https://www.nytimes.com/interactive/2022/11/14/technology/tesla-self-driving-flaws.html)
+ [What Riding in a Self-Driving Tesla Tells Us About the Future of Autonomy](https://www.nytimes.com/interactive/2022/11/14/technology/tesla-self-driving-flaws.html)
 
 C. Metz, Nov. 14, "Cade and Ian spent six hours riding
             in a self-driving car in Jacksonville, Fla., to report this
@@ -3150,8 +3001,7 @@ Affordability is
               readily be transformative.  Trenton NJ turns out to be one
               of these communities where 70% of households have access
               to one or fewer cars.  Perth Amboy, NJ,. Cherry Hill, MD,
-              Patterson, NJ, Scranton, PA are similar.   My [Mobility Disadvantage Index for places in
-                  New Jersey](https://www.dropbox.com/s/izyqmtplg4muuaa/Mobility%20Disadvantaged%20Index.pptx?dl=0) can be found [here](https://www.dropbox.com/s/izyqmtplg4muuaa/Mobility%20Disadvantaged%20Index.pptx?dl=0) and
+              Patterson, NJ, Scranton, PA are similar.   My [Mobility Disadvantage Index for places in New Jersey](https://www.dropbox.com/s/izyqmtplg4muuaa/Mobility%20Disadvantaged%20Index.pptx?dl=0) can be found [here](https://www.dropbox.com/s/izyqmtplg4muuaa/Mobility%20Disadvantaged%20Index.pptx?dl=0) and
               for the rest of the US, [here](https://www.cartsmobility.com/vehicleimmobilitymap).
 
 I am
@@ -3166,8 +3016,7 @@ I am
 
 Sunday, November 6, 2022
 
-[A Deployment Framework for  MOVES-style
-                  Driverless Transit Networks](https://www.cartsmobility.com/blog/a-new-deployment-framework-of-autonomous-vehicles)
+[A Deployment Framework for  MOVES-style Driverless Transit Networks](https://www.cartsmobility.com/blog/a-new-deployment-framework-of-autonomous-vehicles)
 
 A. Kornhauser, Nov.
             1, "So much has been happening lately on the AV scene. With
@@ -3183,8 +3032,7 @@ A. Kornhauser, Nov.
             on the investment in the technology and to unleash the
             societal benefits of the improved quality-of-life."   [Read more](https://www.cartsmobility.com/blog/a-new-deployment-framework-of-autonomous-vehicles) Hmmmm... [View slides](https://www.cartsmobility.com/blog/a-new-deployment-framework-of-autonomous-vehicles), [listen](https://soundcloud.com/smartdrivingcar/smart-driving-cars-a-new-deployment-framework-for-autonomous-vehicles-ep290?si=3821b5e4e35a4915b9df93a1e5dfdb25&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing) to
               PodCast and/or [watch](https://youtu.be/B0PTV4PUPlI) a
-              repeat of the presentation that I made at the [2022 UBC International Road
-                    Safety Symposium](https://civil.ubc.ca/events/event/international-road-safety-symposium/). Alain
+              repeat of the presentation that I made at the [2022 UBC International Road Safety Symposium](https://civil.ubc.ca/events/event/international-road-safety-symposium/). Alain
 
 Sunday, October 30, 2022
 
@@ -3246,21 +3094,17 @@ Idf someone
                 new technology…- competition which commands a decisive
                 cost or quality advantage and which strikes not at the
                 margins of the profits and the outputs of the existing
-                firms but at their foundations and their very lives." [Joseph A
-                  Shumpeter  (1883-1950)](https://www.jstor.org/stable/1907263)",
+                firms but at their foundations and their very lives." [Joseph A Shumpeter  (1883-1950)](https://www.jstor.org/stable/1907263)",
               it is going to simply make it available to allow Ford to
               continue to serve its customers or will use it to crush
               Ford?   Alain
 
- [Argo AI shuts down as Ford, VW pull
-                  backing from autonomous-vehicle startup that raised
-                  more than $3 billion](https://www.marketwatch.com/story/argo-ai-shuts-down-as-ford-vw-pull-backing-from-autonomous-vehicle-startup-that-raised-more-than-3-billion-11666819396)
+ [Argo AI shuts down as Ford, VW pull backing from autonomous-vehicle startup that raised more than $3 billion](https://www.marketwatch.com/story/argo-ai-shuts-down-as-ford-vw-pull-backing-from-autonomous-vehicle-startup-that-raised-more-than-3-billion-11666819396)
 
 L. Sumagaysay, Oct. 27, "...", [Read more](https://www.marketwatch.com/story/argo-ai-shuts-down-as-ford-vw-pull-backing-from-autonomous-vehicle-startup-that-raised-more-than-3-billion-11666819396) Hmmmm...
               Another view.  Alain
 
-[Ford thinks driver assist is a safer bet
-                  than driverless cars, but it's fooling itself](https://www.theverge.com/2022/10/27/23426449/ford-argo-ai-driver-assist-level-2-level-3-danger-risk)
+[Ford thinks driver assist is a safer bet than driverless cars, but it's fooling itself](https://www.theverge.com/2022/10/27/23426449/ford-argo-ai-driver-assist-level-2-level-3-danger-risk)
 
 1.      Hawkins, Oct. 27,
             "When Ford announced yesterday that it was pulling its
@@ -3294,8 +3138,7 @@ But Waymo offered scant information
                 new technology…- competition which commands a decisive
                 cost or quality advantage and which strikes not at the
                 margins of the profits and the outputs of the existing
-                firms but at their foundations and their very lives." [Joseph A
-                  Shumpeter  (1883-1950)](https://www.jstor.org/stable/1907263)".
+                firms but at their foundations and their very lives." [Joseph A Shumpeter  (1883-1950)](https://www.jstor.org/stable/1907263)".
               Alain
 
 Friday, October 14, 2022
@@ -3304,8 +3147,7 @@ Friday, October 14, 2022
 
 K. Pyle, Oct. 13, "Autonomous
             vehicles (AV) provide the opportunity to correct government
-            transportation failures is how the [Brookings
-                Institution's Clifford Winston](https://www.brookings.edu/experts/clifford-winston/) characterized the
+            transportation failures is how the [Brookings Institution's Clifford Winston](https://www.brookings.edu/experts/clifford-winston/) characterized the
             potential opportunity provided by autonomous vehicles.
             Winston spoke to the possible economic impact of autonomous
             vehicles in an online media briefing ([YouTube video](https://youtu.be/ZGK2zIXInyE)) that also
@@ -3317,12 +3159,10 @@ K. Pyle, Oct. 13, "Autonomous
 
 Saturday, October 08, 2022
 
-[Tesla AI Day
-                  2022](https://www.youtube.com/watch?v=ODSJsviD_SU)
+[Tesla AI Day 2022](https://www.youtube.com/watch?v=ODSJsviD_SU)
 
 Tesla Staff, Sept. 30, "Streamed
-            live..."  [Read
-                    more](https://www.youtube.com/watch?v=ODSJsviD_SU) Hmmmm... I'm not much
+            live..."  [Read more](https://www.youtube.com/watch?v=ODSJsviD_SU) Hmmmm... I'm not much
               of a fan of humanoids so you may skip the first hour;
               however, starting @ 0:58:00 - FSD Intro, the next hour and
               a half is substantive and a must watch.  My takeaway
@@ -3344,8 +3184,7 @@ That said, I
 Monday, August
                   22, 2022
 
- [Can Tesla Data Help Us Understand Car
-                  Crashes?](https://www.nytimes.com/interactive/2022/08/18/business/tesla-crash-data.html)
+ [Can Tesla Data Help Us Understand Car Crashes?](https://www.nytimes.com/interactive/2022/08/18/business/tesla-crash-data.html)
 
 C. Metz, Aug. 18, "Shortly before 2
             p.m. on a clear July day in 2020, as Tracy Forth was driving
@@ -3380,16 +3219,13 @@ C. Metz, Aug. 18, "Shortly before 2
               been calling for an independent analysis of the Tesla data
               for some time.  Privacy is easy to protect.  There is no
               need to know who owns or was operating each Tesla.  Also
-              see [ZoomCast
-                    280](https://youtu.be/VYDu99pKNCc) Alain
+              see [ZoomCast 280](https://youtu.be/VYDu99pKNCc) Alain
 
 Saturday, August 6, 2022
 
- [Tesla's 2022
-                  Shareholder Meeting with Elon Musk](https://www.youtube.com/watch?v=s_2BU8vqbos)
+ [Tesla's 2022 Shareholder Meeting with Elon Musk](https://www.youtube.com/watch?v=s_2BU8vqbos)
 
-E. Musk, Aug. 4, ." [Read
-                    more](https://youtu.be/s_2BU8vqbos?t=3500) Hmmmm... Watch the Q
+E. Musk, Aug. 4, ." [Read more](https://youtu.be/s_2BU8vqbos?t=3500) Hmmmm... Watch the Q
               & A portion starting about an hour in from the start.
               Watch especially the comments about his vision of the
               Tesla RoboTaxi (aka driverless cars, what I prefer to call
@@ -3427,8 +3263,7 @@ At the end of
             these things, I think, probably, Tesla will be the most
             valuable company in the world."
 
-[@
-                    t=7057](https://youtu.be/s_2BU8vqbos?t=7057) Elon is asked
+[@ t=7057](https://youtu.be/s_2BU8vqbos?t=7057) Elon is asked
               "when will Tesla launch the first pilot city for the
               RoboTaxi business?
 
@@ -3468,8 +3303,7 @@ As you might
               first Teslas spread from California to New Jersey and
               beyond.
 
-[@
-                    t=7417](https://youtu.be/s_2BU8vqbos?t=7417) Elon is asked
+[@ t=7417](https://youtu.be/s_2BU8vqbos?t=7417) Elon is asked
               about the Boring Company.
 
 True, if one
@@ -3489,8 +3323,7 @@ True, if one
               underground.  There is much good that could be done.  The
               challenge is the above if.
 
-[@
-                    t=6665](https://youtu.be/s_2BU8vqbos?t=6665)  "when disengaging
+[@ t=6665](https://youtu.be/s_2BU8vqbos?t=6665)  "when disengaging
             autoPilot with the wheel, the accelerator stays on. Please
             fix it!"
 
@@ -3548,23 +3381,20 @@ The 5th Summit: [https://www.cartsmobility.com/summit](https://www.cartsmobilit
 
 [Summit Preview Tour](https://images.squarespace-cdn.com/content/v1/614ac4ef54d1aa1941cc4a60/f3abf253-396d-46cf-bb8b-14b664c073ee/SmartDrivingCars-Summit-Preview-FinalFinal.jpg?format=1000w)
 
-  [Dr. Steve
-                  Still's Tribute to Heywood Patterson](https://vimeo.com/716226813/1927a6fb4b)
+  [Dr. Steve Still's Tribute to Heywood Patterson](https://vimeo.com/716226813/1927a6fb4b)
 
 S. Still, June 3, "... Heywood
             Patterson, 67, He often drove members of his church to Tops,
             helping them load their groceries into his car and then
             taking them home. "That's what eh did all the time," Deborah
-            Patterson said. "That's what the loved to do".  ..." [Watch
-                    Video](https://vimeo.com/716226813/1927a6fb4b)Hmmmm...
+            Patterson said. "That's what the loved to do".  ..." [Watch Video](https://vimeo.com/716226813/1927a6fb4b)Hmmmm...
               A principal reason for "Trenton MOVES"-like deployments is
               to do what Heywood Patterson "loved to do" for the many.
               Alain
 
 Saturday May 28, 2022
 
-[The Evolving Business of Powering Our
-                  Vehicles](http://www.michaellsena.com/wp-content/uploads/2022/05/The-Dispatcher_June_2022.pdf)
+[The Evolving Business of Powering Our Vehicles](http://www.michaellsena.com/wp-content/uploads/2022/05/The-Dispatcher_June_2022.pdf)
 
 M. Sena, May 24, "New Car
             Assessment Programs (NCAPs) all around the world have
@@ -3591,8 +3421,7 @@ M. Sena, May 24, "New Car
 
 Friday, April 30, 2022
 
-  [NJDOT Commissioner Gutierrez-Scaccetti and
-                  the Trenton NJ MOVES Program](https://allenovery.podbean.com/e/propel-njdot-commissioner-gutierrez-scaccetti-and-the-trenton-nj-moves-program/)
+  [NJDOT Commissioner Gutierrez-Scaccetti and the Trenton NJ MOVES Program](https://allenovery.podbean.com/e/propel-njdot-commissioner-gutierrez-scaccetti-and-the-trenton-nj-moves-program/)
 
 P. Keller, April 29, "New Jersey
             recently announced a $5 million grant for the Trenton
@@ -3614,8 +3443,7 @@ Hmmmm...   Yup!  [See ZoomCast265](https://youtu.be/BrJCfkNtCxM?t=2786) Al
 
 Thursday, April 15, 2022
 
-  [Musk promises 'dedicated robotaxi' with
-                  futuristic look from Tesla](https://www.reuters.com/business/autos-transportation/tesla-open-texas-factory-critical-growth-ambitions-2022-04-07/)
+  [Musk promises 'dedicated robotaxi' with futuristic look from Tesla](https://www.reuters.com/business/autos-transportation/tesla-open-texas-factory-critical-growth-ambitions-2022-04-07/)
 
 H. Jin,
             April 6, "Electric carmaker Tesla (TSLA.O) will make a
@@ -3715,8 +3543,7 @@ That's the
 
 Thursday, March 31, 2022
 
-  [Taking our next step in the City by the
-                  Bay](https://blog.waymo.com/2022/03/taking-our-next-step-in-city-by-bay.html?m=1)
+  [Taking our next step in the City by the Bay](https://blog.waymo.com/2022/03/taking-our-next-step-in-city-by-bay.html?m=1)
 
 The Waymo Team, March 30, "This
             morning in San Francisco, a fully autonomous all-electric
@@ -3861,8 +3688,7 @@ K. Pyle, Feb. 9, "Dr. Alain
             announcement..."  [Read more](https://viodi.com/2022/02/09/moving-forward-with-trenton-moves/)  Hmmmm...
               Ken, thank you for the kind words.  Alain
 
-[Smart Driving
-                  Cars Extra: Trenton MOVES gets moving](https://www.youtube.com/watch?v=GXnluyz2GSE)
+[Smart Driving Cars Extra: Trenton MOVES gets moving](https://www.youtube.com/watch?v=GXnluyz2GSE)
 
 Feb. 11, "The New Jersey DOT is
             providing 5 million dollars to get Trenton MOVES moving.
@@ -3888,9 +3714,7 @@ W.
             project is called the Trenton Mobility & Opportunity:
             Vehicular Equity System (MOVES) initiative.
 
-Originally[announced
-                by Governor Murphy and Commissioner Gutierrez-Scaccetti
-                in December](https://www.nj.gov/governor/news/news/562021/approved/20211206b.shtml#:~:text=Trenton%20MOVES%20will%20act%20to,serve%2090%2C000%20residents%20of%20Trenton.), TrentonMOVES seeks to provide a
+Originally[announced by Governor Murphy and Commissioner Gutierrez-Scaccetti in December](https://www.nj.gov/governor/news/news/562021/approved/20211206b.shtml#:~:text=Trenton%20MOVES%20will%20act%20to,serve%2090%2C000%20residents%20of%20Trenton.), TrentonMOVES seeks to provide a
             safe, equitable, and affordable high-quality on-demand
             mobility service to Trenton residents. The effort is a
             collaboration between the Governor's Office, NJDOT, the City
@@ -3914,8 +3738,7 @@ The event
 
 The
               Trenton MOVES RfEI closed February 25, with 20
-              submittals.  Next comes the[](https://www.cartsmobility.com/summit)[5thPrinceton
-                    SmartDrivingCar Summit](https://www.cartsmobility.com/summit) June
+              submittals.  Next comes the[5thPrinceton SmartDrivingCar Summit](https://www.cartsmobility.com/summit) June
               2 -> 4, 2022 in Princeton & Trenton, NJ.  The
               Summit will be  focused on enabling Trentonians to get a
               first glimpse at technology and mobility systems that can
@@ -3963,10 +3786,8 @@ Faculty Chair, Princeton Autonomous
 ***************************************************************************************************************
 
 This list is
-        maintained by [Alain
-        Kornhauser](mailto:alaink@princeton.edu) and
-        hosted by the [Princeton
-        University LISTSERV](http://lists.princeton.edu/).
+        maintained by [Alain Kornhauser](mailto:alaink@princeton.edu) and
+        hosted by the [Princeton University LISTSERV](http://lists.princeton.edu/).
 Friday, Nov. 3, 2023
 
 Tuesday, Sept. 12, 2023

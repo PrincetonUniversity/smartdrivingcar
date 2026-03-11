@@ -5,13 +5,7 @@ date: 2015-04-12
 permalink: /2015-04-12-2015-04-12/
 ---
 
-## [Nissan
-
-                                                          to launch
-                                                          self-driving
-                                                          car in Japan
-                                                          in 2016, Ghosn
-                                                          says](http://www.japantimes.co.jp/news/2015/04/03/business/corporate-business/nissan-launch-self-driving-car-japan-2016-ghosn-says/?utm_campaign=cmp_409003&utm_medium=email&utm_source=getanewsletter#.VSqFYT-Wx8F)
+## [Nissan to launch self-driving car in Japan in 2016, Ghosn says](http://www.japantimes.co.jp/news/2015/04/03/business/corporate-business/nissan-launch-self-driving-car-japan-2016-ghosn-says/?utm_campaign=cmp_409003&utm_medium=email&utm_source=getanewsletter#.VSqFYT-Wx8F)
 
                                                           Nissan Motor
                                                           Co. will
@@ -52,16 +46,9 @@ permalink: /2015-04-12-2015-04-12/
                                                           market to
                                                           enjoy it as
                                                           soon as
-                                                          possible."  [Read
+                                                          possible."  [Read more](http://www.japantimes.co.jp/news/2015/04/03/business/corporate-business/nissan-launch-self-driving-car-japan-2016-ghosn-says/?utm_campaign=cmp_409003&utm_medium=email&utm_source=getanewsletter#.VSqFYT-Wx8F)
 
-                                                          more](http://www.japantimes.co.jp/news/2015/04/03/business/corporate-business/nissan-launch-self-driving-car-japan-2016-ghosn-says/?utm_campaign=cmp_409003&utm_medium=email&utm_source=getanewsletter#.VSqFYT-Wx8F)
-
-## [Semiautonomous
-
-                                                          Driving
-                                                          Arrives,
-                                                          Feature by
-                                                          Feature](http://www.nytimes.com/2015/04/03/automobiles/semiautonomous-driving-arrives-feature-by-feature.html?smid=tw-share&_r=2)
+## [Semiautonomous Driving Arrives, Feature by Feature](http://www.nytimes.com/2015/04/03/automobiles/semiautonomous-driving-arrives-feature-by-feature.html?smid=tw-share&_r=2)
 
 Aaron
 
@@ -92,27 +79,15 @@ Aaron
                                                           semiautonomous
                                                           capabilities
                                                           in the coming
-                                                          months." [Read
-
-                                                          mor](http://www.nytimes.com/2015/04/03/automobiles/semiautonomous-driving-arrives-feature-by-feature.html?smid=tw-share&_r=2)e
+                                                          months." [Read mor](http://www.nytimes.com/2015/04/03/automobiles/semiautonomous-driving-arrives-feature-by-feature.html?smid=tw-share&_r=2)e
                                                           Hmmm...
 
                                                           The genie is
                                                           out of the
-                                                          bottle. [Mercedes ad
-                                                          during current
-                                                          Masters Golf
-                                                          Tournament.](http://www.ispot.tv/ad/7mLX/mercedes-benz-self-driving)
+                                                          bottle. [Mercedes ad during current Masters Golf Tournament.](http://www.ispot.tv/ad/7mLX/mercedes-benz-self-driving)
                                                           Alain
 
-## [Audi
-
-                                                          mastermind for
-                                                          piloted
-                                                          driving: the
-                                                          central driver
-                                                          assistance
-                                                          controller](https://www.audi-mediaservices.com/publish/ms/content/en/public/pressemitteilungen/2015/03/31/zfas_.html?utm_campaign=cmp_409003&utm_medium=email&utm_source=getanewsletter)
+## [Audi mastermind for piloted driving: the central driver assistance controller](https://www.audi-mediaservices.com/publish/ms/content/en/public/pressemitteilungen/2015/03/31/zfas_.html?utm_campaign=cmp_409003&utm_medium=email&utm_source=getanewsletter)
 
 Audi
 
@@ -162,15 +137,9 @@ Audi
                                                           the contract
                                                           for series
                                                           productions.
-                                                          .."  [Read
+                                                          .."  [Read more](https://www.audi-mediaservices.com/publish/ms/content/en/public/pressemitteilungen/2015/03/31/zfas_.html?utm_campaign=cmp_409003&utm_medium=email&utm_source=getanewsletter)
 
-                                                          more](https://www.audi-mediaservices.com/publish/ms/content/en/public/pressemitteilungen/2015/03/31/zfas_.html?utm_campaign=cmp_409003&utm_medium=email&utm_source=getanewsletter)
-
-## [Semiautonomous
-                                                          Hyundai car
-                                                          will hit the
-                                                          streets this
-                                                          year](http://www.pcworld.com/article/2906012/hyundai-motor-to-release-semiautonomous-car-this-year.html)
+## [Semiautonomous Hyundai car will hit the streets this year](http://www.pcworld.com/article/2906012/hyundai-motor-to-release-semiautonomous-car-this-year.html)
 
                                                           Yewon Kang
                                                           4/3/15 "Owners
@@ -230,21 +199,11 @@ Audi
                                                           $61,500 to
                                                           $68,750,
                                                           officials
-                                                          said. [Read
-
-                                                          more](http://www.pcworld.com/article/2906012/hyundai-motor-to-release-semiautonomous-car-this-year.html)
+                                                          said. [Read more](http://www.pcworld.com/article/2906012/hyundai-motor-to-release-semiautonomous-car-this-year.html)
 
 ## Some other thoughts that deserve your time:
 
-### [U.S.
-
-                                                          Transportation
-                                                          Secretary Foxx
-                                                          Announces $500
-                                                          Million in
-                                                          Seventh Round
-                                                          of TIGER
-                                                          Funding](http://www.dot.gov/briefing-room/us-transportation-secretary-foxx-announces-500-million-seventh-round-tiger-funding)
+### [U.S. Transportation Secretary Foxx Announces $500 Million in Seventh Round of TIGER Funding](http://www.dot.gov/briefing-room/us-transportation-secretary-foxx-announces-500-million-seventh-round-tiger-funding)
 
                                                           4/7/15
                                                           Washington DC
@@ -271,9 +230,7 @@ Audi
                                                           excited to
                                                           kick off this
                                                           year's
-                                                          competition.".."[Read more of
-                                                          the press
-                                                          release](http://www.dot.gov/briefing-room/us-transportation-secretary-foxx-announces-500-million-seventh-round-tiger-funding).
+                                                          competition.".."[Read more of the press release](http://www.dot.gov/briefing-room/us-transportation-secretary-foxx-announces-500-million-seventh-round-tiger-funding).
                                                           Unfortunately
 
                                                           none of it has
@@ -283,12 +240,7 @@ Audi
                                                           SmartDrivingCars.
                                                           :-(  Alain
 
-### [Early
-
-                                                          Uber Architect
-                                                          Launches
-                                                          Carpooling App
-                                                          'Ride'](http://blogs.wsj.com/digits/2015/04/07/ubers-third-employee-launches-carpooling-app-ride/)
+### [Early Uber Architect Launches Carpooling App 'Ride'](http://blogs.wsj.com/digits/2015/04/07/ubers-third-employee-launches-carpooling-app-ride/)
 
 Douglas
 
@@ -316,14 +268,10 @@ Douglas
                                                           Tuesday and
                                                           launched a new
                                                           app for Apple
-                                                          devices. [Read
+                                                          devices. [Read more](http://blogs.wsj.com/digits/2015/04/07/ubers-third-employee-launches-carpooling-app-ride/)
 
-                                                          more](http://blogs.wsj.com/digits/2015/04/07/ubers-third-employee-launches-carpooling-app-ride/)
-
-### [](http://www.nytimes.com/2015/04/03/automobiles/semiautonomous-driving-arrives-feature-by-feature.html?smid=tw-share&_r=2)
-[Planes
-
-                                                          Without Pilots](http://www.nytimes.com/2015/04/07/science/planes-without-pilots.html?ref=technology)
+### 
+[Planes Without Pilots](http://www.nytimes.com/2015/04/07/science/planes-without-pilots.html?ref=technology)
 
 By
 
@@ -339,9 +287,7 @@ By
                                                           passengers
                                                           trust a robot
                                                           instead?..."
-                                                          [Read
-
-                                                          more](http://www.nytimes.com/2015/04/07/science/planes-without-pilots.html?ref=technology)
+                                                          [Read more](http://www.nytimes.com/2015/04/07/science/planes-without-pilots.html?ref=technology)
 
                                                           Hmmm...But
                                                           this is goofy:
@@ -432,13 +378,8 @@ Sensors->
 
 I don't get it???  Alain
 
-### [](http://www.nytimes.com/2015/04/03/automobiles/semiautonomous-driving-arrives-feature-by-feature.html?smid=tw-share&_r=2)
-[If
-
-                                                          Algorithms
-                                                          Know All, How
-                                                          Much Should
-                                                          Humans Help?](http://www.nytimes.com/2015/04/07/upshot/if-algorithms-know-all-how-much-should-humans-help.html?ref=technology&_r=0&abt=0002&abg=0)
+### 
+[If Algorithms Know All, How Much Should Humans Help?](http://www.nytimes.com/2015/04/07/upshot/if-algorithms-know-all-how-much-should-humans-help.html?ref=technology&_r=0&abt=0002&abg=0)
 
 Steve
 
@@ -500,21 +441,11 @@ Steve
                                                           this decision
                                                           is the machine
                                                           and how much
-                                                          is human?"  [Read
-
-                                                          more](http://www.nytimes.com/2015/04/07/upshot/if-algorithms-know-all-how-much-should-humans-help.html?ref=technology&_r=0&abt=0002&abg=0)  Yes! Prof. K.
+                                                          is human?"  [Read more](http://www.nytimes.com/2015/04/07/upshot/if-algorithms-know-all-how-much-should-humans-help.html?ref=technology&_r=0&abt=0002&abg=0)  Yes! Prof. K.
 
 ## Recompiled Old News :
 
-### T[hey
-
-                                                          Drove
-                                                          Cross-Country
-                                                          In An
-                                                          Autonomous
-                                                          Minivan
-                                                          Without GPS.
-                                                          In 1995.](http://jalopnik.com/they-drove-cross-country-in-an-autonomous-minivan-witho-1696330141)
+### T[hey Drove Cross-Country In An Autonomous Minivan Without GPS. In 1995.](http://jalopnik.com/they-drove-cross-country-in-an-autonomous-minivan-witho-1696330141)
 
 Todd
 
@@ -554,13 +485,7 @@ Todd
                                                           Impresive!!
                                                           Alain
 
-### [Major auto
-                                                          industry
-                                                          disruption
-                                                          will lead to
-                                                          robotic taxis,
-                                                          Morgan Stanley
-                                                          says](http://www.latimes.com/business/autos/la-fi-hy-end-of-human-driving-20150407-story.html)
+### [Major auto industry disruption will lead to robotic taxis, Morgan Stanley says](http://www.latimes.com/business/autos/la-fi-hy-end-of-human-driving-20150407-story.html)
 
 Jerry
 
@@ -591,25 +516,14 @@ Jerry
                                                           world of
                                                           competing
                                                           robotic taxi
-                                                          services..." [Read
-
-                                                          more](http://www.latimes.com/business/autos/la-fi-hy-end-of-human-driving-20150407-story.html)   Hmmm..[Morgan Stanley
-                                                          Report
-                                                          form 11/6/13](v)
+                                                          services..." [Read more](http://www.latimes.com/business/autos/la-fi-hy-end-of-human-driving-20150407-story.html)   Hmmm..[Morgan Stanley Report form 11/6/13](v)
 Alain
 
-[](v)
-
-[](v)
 
 ## Half-baked stuff that probably doesn't deserve your
                                                           time:
 
-### [The
-
-                                                          Evolving
-                                                          Automotive
-                                                          Ecosystem](http://blogs.wsj.com/cio/2015/04/06/the-evolving-automotive-ecosystem/)
+### [The Evolving Automotive Ecosystem](http://blogs.wsj.com/cio/2015/04/06/the-evolving-automotive-ecosystem/)
 
 I.
 
@@ -632,10 +546,7 @@ I.
                                                           the industry,"
                                                           notes an
                                                           excellent (I disagree, Alain) recent [KPMG](http://www.kpmg.com/global/en/issuesandinsights/articlespublications/global-)
-                                                          report, – [Me,
-
-                                                          my car, my
-                                                          life](http://www.kpmg.com/US/en/industry/diversified-industrials/Pages/default.aspx)… in
+                                                          report, – [Me, my car, my life](http://www.kpmg.com/US/en/industry/diversified-industrials/Pages/default.aspx)… in
                                                           the
                                                           ultraconnected
                                                           age.
@@ -655,9 +566,7 @@ I.
                                                           industry and
                                                           the way we
                                                           live our
-                                                          lives."  [Read
-
-                                                          more](http://blogs.wsj.com/cio/2015/04/06/the-evolving-automotive-ecosystem/)  Hmmm... The ultraconnected age MUST await automated
+                                                          lives."  [Read more](http://blogs.wsj.com/cio/2015/04/06/the-evolving-automotive-ecosystem/)  Hmmm... The ultraconnected age MUST await automated
                                                           collision
                                                           avoidance and
                                                           automated
@@ -672,11 +581,7 @@ I.
                                                           the road ahead
                                                           PERIOD! Alain
 
-### [Mercedes-AMG
-
-                                                          Models to Get
-                                                          Autonomous
-                                                          Technology](http://www.gtspirit.com/2015/04/06/mercedes-amg-models-to-get-autonomous-technology/)
+### [Mercedes-AMG Models to Get Autonomous Technology](http://www.gtspirit.com/2015/04/06/mercedes-amg-models-to-get-autonomous-technology/)
 
 Mercedes-AMG
 
@@ -773,13 +678,7 @@ Hmmm...  Now there true Macho Wannabee!!! At 10 pm at
                                                           be driving???
                                                           Alain
 
-### [Quora
-
-                                                          Question: How
-                                                          Will the
-                                                          Transition to
-                                                          Self-Driving
-                                                          Cars Work?](http://www.newsweek.com/quora-question-how-will-transition-self-driving-cars-work-320442)
+### [Quora Question: How Will the Transition to Self-Driving Cars Work?](http://www.newsweek.com/quora-question-how-will-transition-self-driving-cars-work-320442)
 
 Quora
 
@@ -803,9 +702,7 @@ Quora
                                                           sensors and
                                                           (perhaps)
                                                           high-resolution
-                                                          mapping..." [Read
-
-                                                          more](http://www.newsweek.com/quora-question-how-will-transition-self-driving-cars-work-320442)
+                                                          mapping..." [Read more](http://www.newsweek.com/quora-question-how-will-transition-self-driving-cars-work-320442)
 
 Hmmm...
 
@@ -841,11 +738,7 @@ Hmmm...
 ## [C'mon Man!](https://www.youtube.com/watch?v=A7SwSd59E4I) (These folks didn't get/read
                                                           the memo)
 
-### [Self-driving
-
-                                                          cars more
-                                                          likely to make
-                                                          you car sick](http://www.usatoday.com/story/money/cars/2015/04/08/self-driving-cars-more-likely-to-make-you-car-sick/25467133/)
+### [Self-driving cars more likely to make you car sick](http://www.usatoday.com/story/money/cars/2015/04/08/self-driving-cars-more-likely-to-make-you-car-sick/25467133/)
 
 Nathan
 
@@ -894,9 +787,7 @@ Nathan
                                                           Michael Sivak
                                                           and Brandon
                                                           Schoettle
-                                                          wrote."  [Read
-
-                                                          more](http://www.usatoday.com/story/money/cars/2015/04/08/self-driving-cars-more-likely-to-make-you-car-sick/25467133/)
+                                                          wrote."  [Read more](http://www.usatoday.com/story/money/cars/2015/04/08/self-driving-cars-more-likely-to-make-you-car-sick/25467133/)
 
                                                           Hmmm...Unless
                                                           reading makes
@@ -911,10 +802,7 @@ Nathan
                                                           in control of
                                                           the car??
                                                           Whatever!!
-                                                          Here is the [link
-
-                                                          to the
-                                                          abstract](http://www.umich.edu/%7Eumtriswt/PDF/UMTRI-2015-12_Abstract_English.pdf).
+                                                          Here is the [link to the abstract](http://www.umich.edu/%7Eumtriswt/PDF/UMTRI-2015-12_Abstract_English.pdf).
 
                                                           Hard to
                                                           imagine that
@@ -939,16 +827,13 @@ Nathan
                                                           development of
                                                           SmartDrivingCars
 
-                                                          [C'Mon
-
-                                                          Man!](https://www.youtube.com/watch?v=A7SwSd59E4I)
+                                                          [C'Mon Man!](https://www.youtube.com/watch?v=A7SwSd59E4I)
 
 ## Calendar
 
                                                           of Upcoming
                                                           Events:
 
-[](http://soterea.com/)
 
                                                           Thursday,
                                                           April 16, 2015
@@ -959,11 +844,7 @@ Nathan
                                                           Systems and
                                                           Soterea, Inc.
                                                           will be
-                                                          hosting a [private
-
-                                                          Presentation
-                                                          and
-                                                          Demonstration](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Videos/AutonoBox-EMDSR_Demo041615.pdf)
+                                                          hosting a [private Presentation and Demonstration](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Videos/AutonoBox-EMDSR_Demo041615.pdf)
                                                           of the
                                                           AutonoBox™ and
                                                           Electromagnetic
@@ -979,12 +860,7 @@ Nathan
                                                           April 22,
                                                           15:00 GMT
 
-[What
-                                                          to plan for
-                                                          when planning
-                                                          for Automated
-                                                          Transit
-                                                          Networks](URL:%20https://webmeeting.umd.edu/atraigwebinar/)
+[What to plan for when planning for Automated Transit Networks](URL:%20https://webmeeting.umd.edu/atraigwebinar/)
 
                                                           discussed will
                                                           be the key
@@ -1014,19 +890,15 @@ Nathan
                                                           and PRT
                                                           Consulting.
 
-[](http://www.autonomousvehiclesymposium.com/)
 
 ## [Call for Papers](http://www.autonomousvehiclesymposium.com/)
 
-## [](http://www.driverlesstransportation.com/event/automated-vehicles-symposium-2015)
+## 
 
 [http://www.driverlesstransportation.com/event/automated-vehicles-symposium-2015](http://www.driverlesstransportation.com/event/automated-vehicles-symposium-2015)
 
-[](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/PDFs/PCC9-Presenter%20Info.pdf)
 
-### [November
-
-                                                          4-9, 2015](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/PDFs/PCC9-Presenter%20Info.pdf)
+### [November 4-9, 2015](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/PDFs/PCC9-Presenter%20Info.pdf)
 
 ### [Call for Papers](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/PDFs/PCC9-Themes.pdf)
 
@@ -1035,14 +907,7 @@ Nathan
 
 #
 
-### [Delphi
-
-                                                          Successfully
-                                                          Completes
-                                                          First
-                                                          Coast-to-Coast
-                                                          Automated
-                                                          Drive](http://news.investors.com/newsfeed-business-wire/040215-141716136-delphi-successfully-completes-first-coast-to-coast-automated-drive.aspx)
+### [Delphi Successfully Completes First Coast-to-Coast Automated Drive](http://news.investors.com/newsfeed-business-wire/040215-141716136-delphi-successfully-completes-first-coast-to-coast-automated-drive.aspx)
 
                                                           04/04/15 "
                                                           Delphi
@@ -1069,9 +934,7 @@ Nathan
                                                           the drive in
                                                           fully
                                                           automated
-                                                          mode.  [Read
-
-                                                          more](http://news.investors.com/newsfeed-business-wire/040215-141716136-delphi-successfully-completes-first-coast-to-coast-automated-drive.aspx)  See also[CBSNews](http://www.cbsnews.com/news/delphi-self-driving-suv-completes-cross-country-trip/)Hmmm
+                                                          mode.  [Read more](http://news.investors.com/newsfeed-business-wire/040215-141716136-delphi-successfully-completes-first-coast-to-coast-automated-drive.aspx)  See also[CBSNews](http://www.cbsnews.com/news/delphi-self-driving-suv-completes-cross-country-trip/)Hmmm
 
                                                           ... I'd like
                                                           to hear/read
@@ -1080,12 +943,7 @@ Nathan
 
 ###
 
-### [Car
-                                                          Crash Videos
-                                                          Highlight Risk
-                                                          of
-                                                          Multitasking
-                                                          With Phones](http://bits.blogs.nytimes.com/2015/03/25/car-crash-videos-highlight-risk-of-multitasking-with-phones/)
+### [Car Crash Videos Highlight Risk of Multitasking With Phones](http://bits.blogs.nytimes.com/2015/03/25/car-crash-videos-highlight-risk-of-multitasking-with-phones/)
 
 By
 
@@ -1169,19 +1027,7 @@ The study entailed putting video
                                                           estimates..."
                                                           [Read more](http://bits.blogs.nytimes.com/2015/03/25/car-crash-videos-highlight-risk-of-multitasking-with-phones/)and watch video!!
 
-                                                          See also:[Using
-
-                                                          Naturalistic
-                                                          Driving Data
-                                                          to Assess the
-                                                          Prevalence of
-                                                          Environmental
-                                                          Factors and
-                                                          Driver
-                                                          Behaviors in
-                                                          Teen Driver
-                                                          Crashes March
-                                                          2015](https://www.aaafoundation.org/sites/default/files/2015TeenCrashCausationReport.pdf)
+                                                          See also:[Using Naturalistic Driving Data to Assess the Prevalence of Environmental Factors and Driver Behaviors in Teen Driver Crashes March 2015](https://www.aaafoundation.org/sites/default/files/2015TeenCrashCausationReport.pdf)
 
 This is why AT&T, Verizon, T-Mobile, Comcast,
                                                           Samsung and
@@ -1208,13 +1054,7 @@ This is why AT&T, Verizon, T-Mobile, Comcast,
                                                           segment!
                                                           Alain
 
-### [Elon
-
-                                                          Musk Says
-                                                          Self-Driving
-                                                          Tesla Cars
-                                                          Will Be in the
-                                                          U.S. by Summer](http://www.nytimes.com/2015/03/20/business/elon-musk-says-self-driving-tesla-cars-will-be-in-the-us-by-summer.html?ref=technology)
+### [Elon Musk Says Self-Driving Tesla Cars Will Be in the U.S. by Summer](http://www.nytimes.com/2015/03/20/business/elon-musk-says-self-driving-tesla-cars-will-be-in-the-us-by-summer.html?ref=technology)
 
                                                           Aaron Kessle,
                                                           March 19, 2015
@@ -1281,9 +1121,7 @@ Mr. Musk
                                                           to as
                                                           autopilot..."
 
-                                                          [Read
-
-                                                          more](http://www.nytimes.com/2015/03/20/business/elon-musk-says-self-driving-tesla-cars-will-be-in-the-us-by-summer.html?ref=technology)
+                                                          [Read more](http://www.nytimes.com/2015/03/20/business/elon-musk-says-self-driving-tesla-cars-will-be-in-the-us-by-summer.html?ref=technology)
 
                                                           Hmmm.... I may
                                                           have to eat my
@@ -1312,12 +1150,7 @@ Mr. Musk
 
 ###
 
-### [Video shows
-                                                          SMART bus slam
-                                                          into multiple
-                                                          vehicles in
-                                                          West
-                                                          Bloomfield](http://www.clickondetroit.com/news/bus-slams-into-multiple-vehicles-west-bloomfield-video/31596122)
+### [Video shows SMART bus slam into multiple vehicles in West Bloomfield](http://www.clickondetroit.com/news/bus-slams-into-multiple-vehicles-west-bloomfield-video/31596122)
 
 Mar
 
@@ -1339,9 +1172,7 @@ Mar
                                                           Middlebelt and
                                                           Inkster roads
                                                           in West
-                                                          Bloomfield. [Read
-
-                                                          more](http://www.clickondetroit.com/news/bus-slams-into-multiple-vehicles-west-bloomfield-video/31596122)
+                                                          Bloomfield. [Read more](http://www.clickondetroit.com/news/bus-slams-into-multiple-vehicles-west-bloomfield-video/31596122)
 
 Hmmm... Should have never happened.  Bus should not
                                                           have crashed11
@@ -1368,16 +1199,7 @@ Hmmm... Should have never happened.  Bus should not
 
 ###
 
-### [Safety
-
-                                                          Advocates Call
-                                                          on U.S. DOT to
-                                                          Issue Rule
-                                                          Requiring
-                                                          Crash
-                                                          Avoidance
-                                                          Technology for
-                                                          Large Trucks](http://trucksafety.org/safety-advocates-call-on-u-s-dot-to-issue-rule-requiring-crash-avoidance-technology-for-large-trucks/)
+### [Safety Advocates Call on U.S. DOT to Issue Rule Requiring Crash Avoidance Technology for Large Trucks](http://trucksafety.org/safety-advocates-call-on-u-s-dot-to-issue-rule-requiring-crash-avoidance-technology-for-large-trucks/)
 
                                                           Feb 19, 2015
                                                           "Advocates for
@@ -1428,45 +1250,19 @@ Hmmm... Should have never happened.  Bus should not
                                                           the brakes
                                                           when a crash
                                                           is
-                                                          imminent....[Petition
+                                                          imminent....[Petition for Rule Making (PDF](http://trucksafety.org/wp-content/uploads/2015/02/F-CAM-Petition-for-Rulemaking-2-19-15-FINAL.pdf));
 
-                                                          for Rule
-                                                          Making (PDF](http://trucksafety.org/wp-content/uploads/2015/02/F-CAM-Petition-for-Rulemaking-2-19-15-FINAL.pdf));
-
-                                                          [Petition
-
-                                                          Crash List
-                                                          (PDF)](http://trucksafety.org/wp-content/uploads/2015/02/CMV-F-CAM-Petition-Crash-List.pdf); [Press
-
-                                                          Release (PDF)](http://trucksafety.org/wp-content/uploads/2015/02/F-CAM-Petition-Press-Release-FINAL.pdf)"
-                                                          [Read
-
-                                                          more](http://trucksafety.org/safety-advocates-call-on-u-s-dot-to-issue-rule-requiring-crash-avoidance-technology-for-large-trucks/)
+                                                          [Petition Crash List (PDF)](http://trucksafety.org/wp-content/uploads/2015/02/CMV-F-CAM-Petition-Crash-List.pdf); [Press Release (PDF)](http://trucksafety.org/wp-content/uploads/2015/02/F-CAM-Petition-Press-Release-FINAL.pdf)"
+                                                          [Read more](http://trucksafety.org/safety-advocates-call-on-u-s-dot-to-issue-rule-requiring-crash-avoidance-technology-for-large-trucks/)
 
                                                           to lead
                                                           development of
                                                           driverless car
                                                           technology
 
-### [The
+### [The pathway to driverless cars: summary report and action plan](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/401562/pathway-driverless-cars-summary.pdf)
 
-                                                          pathway to
-                                                          driverless
-                                                          cars: summary
-                                                          report and
-                                                          action plan](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/401562/pathway-driverless-cars-summary.pdf)
-
-### [The
-
-                                                          pathway to
-                                                          driverless
-                                                          cars: a
-                                                          detailed
-                                                          review of
-                                                          regulations
-                                                          for automated
-                                                          vehicle
-                                                          technologies](The%20pathway%20to%20driverless%20cars:%20a%20detailed%20review%20of%20regulations%20for%20automated%20vehicle%20technologies)
+### [The pathway to driverless cars: a detailed review of regulations for automated vehicle technologies](The%20pathway%20to%20driverless%20cars:%20a%20detailed%20review%20of%20regulations%20for%20automated%20vehicle%20technologies)
 
                                                           The above
                                                           review
@@ -1501,9 +1297,7 @@ Hmmm... Should have never happened.  Bus should not
                                                           of potential
                                                           use of fully
                                                           autonomous
-                                                          vehicles. [Read
-
-                                                          more](https://www.gov.uk/government/news/uk-to-lead-development-of-driverless-car-technology?utm_campaign=cmp_389469&utm_medium=email&utm_source=getanewsletter)  Plus
+                                                          vehicles. [Read more](https://www.gov.uk/government/news/uk-to-lead-development-of-driverless-car-technology?utm_campaign=cmp_389469&utm_medium=email&utm_source=getanewsletter)  Plus
                                                           read [speech](https://www.gov.uk/government/speeches/launch-of-the-pathway-to-driverless-cars-report)
                                                           Hmmm...
 
@@ -1520,13 +1314,7 @@ Hmmm... Should have never happened.  Bus should not
 
 ###
 
-### [Germany's
-
-                                                          A9 autobahn to
-                                                          become test
-                                                          track for
-                                                          self-driving
-                                                          cars](http://www.gizmag.com/germany-self-driving-car-public-test/35806/)
+### [Germany's A9 autobahn to become test track for self-driving cars](http://www.gizmag.com/germany-self-driving-car-public-test/35806/)
 
                                                           Tony Borroz,
                                                           Jan. 27, 2015
@@ -1568,22 +1356,13 @@ Hmmm... Should have never happened.  Bus should not
                                                           expected to
                                                           get underway
                                                           later this
-                                                          year...." [Read
-
-                                                          more](http://www.gizmag.com/germany-self-driving-car-public-test/35806/) This is interesting.  Alain
+                                                          year...." [Read more](http://www.gizmag.com/germany-self-driving-car-public-test/35806/) This is interesting.  Alain
 January
 
                                                           29,
                                                           2015
 
-### [NHTSA
-
-                                                          adding
-                                                          automatic
-                                                          braking to
-                                                          recommended
-                                                          safety tech
-                                                          list](http://www.autoblog.com/2015/01/25/nhtsa-automatic-braking-recommended-safety-list/)
+### [NHTSA adding automatic braking to recommended safety tech list](http://www.autoblog.com/2015/01/25/nhtsa-automatic-braking-recommended-safety-list/)
 
  Jan
 
@@ -1614,24 +1393,9 @@ January
                                                           becoming the
                                                           norm in safety
                                                           evaluations.
-                                                          The [Insurance Institute for Highway
-                                                          Safety](http://www.autoblog.com/tag/iihs/)now [requires
+                                                          The [Insurance Institute for Highway Safety](http://www.autoblog.com/tag/iihs/)now [requires it for a model to earn a Top Safety Pick + rating](http://www.autoblog.com/2014/12/23/vehicles-awarded-iihs-top-safety-pick-skyrockets-for-2015/), and the tech is a must to [score five stars in the Euro NCAP crash test](http://www.autoblog.com/2012/06/15/euro-ncap-will-soon-require-auto-braking-for-five-star-safety-ra/).
 
-                                                          it for a model
-                                                          to earn a Top
-                                                          Safety Pick +
-                                                          rating](http://www.autoblog.com/2014/12/23/vehicles-awarded-iihs-top-safety-pick-skyrockets-for-2015/), and the tech is a must to [score
-
-                                                          five stars in
-                                                          the Euro NCAP
-                                                          crash test](http://www.autoblog.com/2012/06/15/euro-ncap-will-soon-require-auto-braking-for-five-star-safety-ra/).
-
-                                                          [Be
-
-                                                          sure to read
-                                                          the included
-                                                          Foxx's Press
-                                                          Release](http://www.autoblog.com/2015/01/25/nhtsa-automatic-braking-recommended-safety-list/):
+                                                          [Be sure to read the included Foxx's Press Release](http://www.autoblog.com/2015/01/25/nhtsa-automatic-braking-recommended-safety-list/):
 
 "PRESS
 
@@ -1675,9 +1439,7 @@ January
                                                           according to
                                                           new research
                                                           NHTSA released
-                                                          today...." [Read
-
-                                                          more](http://www.autoblog.com/2015/01/25/nhtsa-automatic-braking-recommended-safety-list/)  Hmmm... this is really good.  Especially if the
+                                                          today...." [Read more](http://www.autoblog.com/2015/01/25/nhtsa-automatic-braking-recommended-safety-list/)  Hmmm... this is really good.  Especially if the
                                                           "plan" is
                                                           actually
                                                           implemented
@@ -1692,9 +1454,7 @@ January
 
 ###
 
-### [State-wide
-
-                                                          aTaxi Service](http://www.princeton.edu/%7Ealaink/Orf467F14/Orf467F14FinalProjectPresentationSchedule.pdf)
+### [State-wide aTaxi Service](http://www.princeton.edu/%7Ealaink/Orf467F14/Orf467F14FinalProjectPresentationSchedule.pdf)
 
 Serving New Jersey's Personal Mobility Needs with
 
@@ -1861,14 +1621,7 @@ January
 
                                                           4, 2015
 
-### [New
-
-                                                          York Bus
-                                                          Driver
-                                                          Arrested After
-                                                          Fatally
-                                                          Striking
-                                                          Pedestrian](http://www.nytimes.com/2014/12/25/nyregion/new-york-bus-driver-arrested-after-fatally-striking-pedestrian.html?emc=eta1)
+### [New York Bus Driver Arrested After Fatally Striking Pedestrian](http://www.nytimes.com/2014/12/25/nyregion/new-york-bus-driver-arrested-after-fatally-striking-pedestrian.html?emc=eta1)
 
 MARC SANTORA DEC. 24, 2014 "A Metropolitan
                                                           Transportation
@@ -1918,9 +1671,7 @@ Mr.
                                                           was struck by
                                                           the bus, the
                                                           police
-                                                          said..."  [Read
-
-                                                          more](http://www.nytimes.com/2014/12/25/nyregion/new-york-bus-driver-arrested-after-fatally-striking-pedestrian.html?emc=eta1)
+                                                          said..."  [Read more](http://www.nytimes.com/2014/12/25/nyregion/new-york-bus-driver-arrested-after-fatally-striking-pedestrian.html?emc=eta1)
 
 Hmmm... Tragic for everyone.  Such accidents would be
                                                           largely
@@ -1958,7 +1709,7 @@ Hmmm... Tragic for everyone.  Such accidents would be
                                                           technology.
 Alain
 
-                                                          [](Mailto:alaink@princeton.edu)[Mailto:alaink@princeton.edu](Mailto:alaink@princeton.edu)[](Mailto:alaink@princeton.edu)
+                                                          [Mailto:alaink@princeton.edu](Mailto:alaink@princeton.edu)
 
                                                           This list is
                                                           maintained by

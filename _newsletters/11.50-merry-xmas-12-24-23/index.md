@@ -10,8 +10,7 @@ display_name: "11.50 - Merry Xmas"
 
 Even though we've had a very challenging year, we much to be very thankful for.  The glass is half-full.  Merry Xmas!  Enjoy!J
 
-  [Waymo
- significantly outperforms comparable human benchmarks over 7+ million miles of rider-only driving](https://waymo.com/blog/2023/12/waymo-significantly-outperforms.html)
+  [Waymo significantly outperforms comparable human benchmarks over 7+ million miles of rider-only driving](https://waymo.com/blog/2023/12/waymo-significantly-outperforms.html)
 
 Waymo Team, Dec. 20, " Safety leads everything we do at Waymo. This year alone, Waymo has
  served over 700,000 ride-hailing trips with public riders and no human driver.
@@ -81,8 +80,7 @@ However, focusing the high-quality LOS on customers that will find the affordabi
  are likely to be disruptive.  At prices they are willing to pay, high quality service is unavailable.  Consequently high-quality LoS will be disruptive to those where affordability matters most.  Plus affordability builds on itself.  Affordability builds scale
  which leads to even higher affordability where [Moore's Law](https://en.wikipedia.org/wiki/Moore%27s_law) technology is doing the safe driving.
 
-For a more straight-forward reporting on Waymo's papers, see Andrew Hawkings: "[Waymo
- has 7.1 million driverless miles — how does its driving compare to humans?](https://www.theverge.com/2023/12/20/24006712/waymo-driverless-million-mile-safety-compare-human)".  Alain
+For a more straight-forward reporting on Waymo's papers, see Andrew Hawkings: "[Waymo has 7.1 million driverless miles — how does its driving compare to humans?](https://www.theverge.com/2023/12/20/24006712/waymo-driverless-million-mile-safety-compare-human)".  Alain
 
  is repeated below…
 

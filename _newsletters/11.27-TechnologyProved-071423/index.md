@@ -19,9 +19,7 @@ July 14,"Happy [Bastille Day](https://www.france24.com/en/europe/20230713-bastil
 Bastille Day: A brief history of France's July 14 national holiday… "[Bastille Day](https://www.france24.com/en/tag/bastille-day/)" is known in [France](https://www.france24.com/en/tag/france/) simply
  as "le Quatorze Juillet", a reference to the date on which it is held. July 14 became an official national holiday in 1880 to commemorate key turning points in French history.   …
 Today, July 14, 2023, commemorates for me the turning point in autonomousTaxi (aka aTaxi, roboTaxi) history to commemorate aTaxi's passage of the "Turing (Kornhauser) proof-of-technology" test, as written in
-[Wikipedia](https://en.wikipedia.org/wiki/Turing_test)… "The Turing test, originally called the [imitation game](https://en.wikipedia.org/wiki/The_Imitation_Game) by [Alan
- Turing](https://en.wikipedia.org/wiki/Alan_Turing) in 1950,[[2]](https://en.wikipedia.org/wiki/Turing_test#cite_note-Turing-1950-2) is a test of a machine's ability to [exhibit intelligent
- behavior](https://en.wikipedia.org/wiki/Artificial_intelligence) equivalent to, or indistinguishable from, that of a human. Turing proposed that a human evaluator would judge natural language conversations between a human and a machine designed to generate human-like responses. …"
+[Wikipedia](https://en.wikipedia.org/wiki/Turing_test)… "The Turing test, originally called the [imitation game](https://en.wikipedia.org/wiki/The_Imitation_Game) by [Alan Turing](https://en.wikipedia.org/wiki/Alan_Turing) in 1950,[[2]](https://en.wikipedia.org/wiki/Turing_test#cite_note-Turing-1950-2) is a test of a machine's ability to [exhibit intelligent behavior](https://en.wikipedia.org/wiki/Artificial_intelligence) equivalent to, or indistinguishable from, that of a human. Turing proposed that a human evaluator would judge natural language conversations between a human and a machine designed to generate human-like responses. …"
   …
 
 Kornhauser's "Proof-of-Technology" version of the Turing Test, as it might appear in Wikipedia, would be "… a machine's ability

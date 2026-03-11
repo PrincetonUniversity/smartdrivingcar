@@ -10,8 +10,7 @@ display_name: "11.51 - Goodbye 2023"
 
 Whew!  We finished the year!J
 
-   [Cruise
- Imploded in 2023. Can the Robotaxi Industry Recover in the New Year?](https://sfstandard.com/2023/12/29/cruise-waymo-robotaxis-2024-predictions/)
+   [Cruise Imploded in 2023. Can the Robotaxi Industry Recover in the New Year?](https://sfstandard.com/2023/12/29/cruise-waymo-robotaxis-2024-predictions/)
 
 J. Bote, Dec. 29, "…With this tumultuous year in the rearview and a pall hanging over the
  industry, what will happen to robotaxis next year? The Standard interviewed four autonomous vehicle experts for their predictions about how the industry will fare in 2024 as it tries to move past Cruise's screw-ups….

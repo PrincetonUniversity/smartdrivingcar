@@ -17,8 +17,7 @@ permalink: /2017-03-27-2017-03-27/
 
           Alain
 
-### [Uber
-            self-driving test car involved in crash in Arizona](https://techcrunch.com/2017/03/25/uber-self-driving-test-car-involved-in-crash-in-arizona/)
+### [Uber self-driving test car involved in crash in Arizona](https://techcrunch.com/2017/03/25/uber-self-driving-test-car-involved-in-crash-in-arizona/)
 
         N. Lomas, mar 25, "More bad news for Uber: one of the
         ride-hailing giant's self-driving Volvo SUVs has been involved
@@ -31,10 +30,8 @@ permalink: /2017-03-27-2017-03-27/
         posted to Twitter by a user of @FrescoNews, a service
         for selling content to news outlets. According to the company's
         tweets, the collision happened in Tempe, Arizona, and no
-        injuries have yet been reported....Local [newspaper
-          reports](http://www.abc15.com/news/region-southeast-valley/tempe/tempe-police-self-driving-uber-vehicle-involved-in-car-accident-no-injuries) suggest another car failed to yield to Uber's
-        SUV..." [Read
-          more](https://techcrunch.com/2017/03/25/uber-self-driving-test-car-involved-in-crash-in-arizona/)[](https://techcrunch.com/2017/03/25/uber-self-driving-test-car-involved-in-crash-in-arizona/)Hmmm... Important: Looks as if this is the same
+        injuries have yet been reported....Local [newspaper reports](http://www.abc15.com/news/region-southeast-valley/tempe/tempe-police-self-driving-uber-vehicle-involved-in-car-accident-no-injuries) suggest another car failed to yield to Uber's
+        SUV..." [Read more](https://techcrunch.com/2017/03/25/uber-self-driving-test-car-involved-in-crash-in-arizona/)Hmmm... Important: Looks as if this is the same
             situation as with the Florida Tesla Crash.  The Uber car was
             cutoff and it's the other guy's fault.  Hopefully Uber will
             release (or the police has impounded and will release though
@@ -46,8 +43,7 @@ permalink: /2017-03-27-2017-03-27/
             One assumes that the Self-driving systems, offensively, are
             sufficiently good that they won't fail-to-yield or
             inappropriately change lanes or run into things in the lane
-            ahead, or...(Note: Uber's [running
-              of a red light](http://sanfrancisco.cbslocal.com/2016/12/14/self-driving-uber-apparently-runs-red-light-in-san-francisco/) in SF is a very serious flaw!  Had a
+            ahead, or...(Note: Uber's [running of a red light](http://sanfrancisco.cbslocal.com/2016/12/14/self-driving-uber-apparently-runs-red-light-in-san-francisco/) in SF is a very serious flaw!  Had a
             crash occurred, then the software/Uber would have been at
             fault.  That event must be essentially never occur; and it
             occurred within the first few days. Not good!).   But one
@@ -72,8 +68,7 @@ permalink: /2017-03-27-2017-03-27/
             Google/Waymo cars have made everyone else around them safer
             human drivers.      Alain
 
-### [Uber
-            suspends self-driving car program after Arizona crash](http://www.reuters.com/article/us-uber-tech-crash-idUSKBN16W0UZ?il=0)
+### [Uber suspends self-driving car program after Arizona crash](http://www.reuters.com/article/us-uber-tech-crash-idUSKBN16W0UZ?il=0)
 
 G. Cherelus, Mar 25, "Uber Technologies Inc [UBER.UL]
           suspended its pilot program for driverless cars on Saturday
@@ -87,28 +82,24 @@ G. Cherelus, Mar 25, "Uber Technologies Inc [UBER.UL]
           Even so, the company said it was grounding driverless cars
           involved in a pilot program in Arizona, Pittsburgh and San
           Francisco pending the outcome of investigation into the crash
-          on Friday evening in Tempe..." [Read
-            more](http://www.reuters.com/article/us-uber-tech-crash-idUSKBN16W0UZ?il=0) Hmmmm... Prudent
+          on Friday evening in Tempe..." [Read more](http://www.reuters.com/article/us-uber-tech-crash-idUSKBN16W0UZ?il=0) Hmmmm... Prudent
               move, but if the ACA performed as well as can be expected,
               then they need to get back out there ASAP.  On the other
               hand, if a really good ACA could have avoided this crash,
               then Uber should wait until they've improved the ACA
               before they get back out there.  Alain
 
-### [Here's
-            what happens when a self-driving Uber fails](http://www.businessinsider.com/uber-driverless-cars-need-human-help-2017-3/#prior-to-the-pittsburgh-pilot-launch-in-september-2016-uber-said-that-its-self-driving-cars-did-disengage-from-time-to-time-in-particular-the-cars-struggle-to-handle-bridges-because-there-arent-enough-environmental-cues-for-the-car-to-figure-out-where-it-is-1)
+### [Here's what happens when a self-driving Uber fails](http://www.businessinsider.com/uber-driverless-cars-need-human-help-2017-3/#prior-to-the-pittsburgh-pilot-launch-in-september-2016-uber-said-that-its-self-driving-cars-did-disengage-from-time-to-time-in-particular-the-cars-struggle-to-handle-bridges-because-there-arent-enough-environmental-cues-for-the-car-to-figure-out-where-it-is-1)
 
         D. Muoio, Mar 20, "...We got a ride in Uber's self-driving Ford
         Fusion back in September and experienced firsthand how regularly
         the car disengaged. Here's what happens when the car fails and
-        what it says about Uber's place in the autonomous space:..." [Read
-          more](http://www.businessinsider.com/uber-driverless-cars-need-human-help-2017-3/#prior-to-the-pittsburgh-pilot-launch-in-september-2016-uber-said-that-its-self-driving-cars-did-disengage-from-time-to-time-in-particular-the-cars-struggle-to-handle-bridges-because-there-arent-enough-environmental-cues-for-the-car-to-figure-out-where-it-is-1) Hmmmm... Progress,
+        what it says about Uber's place in the autonomous space:..." [Read more](http://www.businessinsider.com/uber-driverless-cars-need-human-help-2017-3/#prior-to-the-pittsburgh-pilot-launch-in-september-2016-uber-said-that-its-self-driving-cars-did-disengage-from-time-to-time-in-particular-the-cars-struggle-to-handle-bridges-because-there-arent-enough-environmental-cues-for-the-car-to-figure-out-where-it-is-1) Hmmmm... Progress,
             but still a long way to go and there is nothing in the
             article about how the system performs when 'the other car
             failed to yield'.  Alain
 
-### [The
-            Challenges of Partially Automated Driving](http://cacm.acm.org/magazines/2016/5/201592-the-challenges-of-partially-automated-driving/fulltext)
+### [The Challenges of Partially Automated Driving](http://cacm.acm.org/magazines/2016/5/201592-the-challenges-of-partially-automated-driving/fulltext)
 
         S. Casner, E. Hutchinson, D. Norman, May 2016, "What does
         increasing automation require of drivers? The role of the driver
@@ -141,16 +132,14 @@ G. Cherelus, Mar 25, "Uber Technologies Inc [UBER.UL]
         paradoxical, with few of them lending themselves to simple
         solutions. In the end we invite the reader to consider the
         evidence we present and decide whether drivers are ready to "go
-        on autopilot" behind the wheel of the next generation of cars...[Read
-          more](http://cacm.acm.org/magazines/2016/5/201592-the-challenges-of-partially-automated-driving/fulltext) Hmmmm... This is
+        on autopilot" behind the wheel of the next generation of cars...[Read more](http://cacm.acm.org/magazines/2016/5/201592-the-challenges-of-partially-automated-driving/fulltext) Hmmmm... This is
             really good (although I take issue with their critique of
             Nav systems).  Doomed to fail:  Asking a human to be the
             Safety monitor on an automated system which requires
             anything but the most simple action (for example: 'hit the
             emergency brake button').   Alain
 
-### [Nvidia
-            is Making Moves to Dominate Self-driving Cars](http://finance.yahoo.com/news/nvidia-making-moves-dominate-self-180020446.html)
+### [Nvidia is Making Moves to Dominate Self-driving Cars](http://finance.yahoo.com/news/nvidia-making-moves-dominate-self-180020446.html)
 
 MrTopSStep.com, Mar 20, "It's been a busy week in the world
           of self-driving cars, from the Intel Corporation (INTC)
@@ -159,13 +148,10 @@ MrTopSStep.com, Mar 20, "It's been a busy week in the world
           was actual real news — the undisputed leader, Nvidia
           Corporation (NVDA), is making waves to further its lead in
           self-driving cars and turn the segment into a multi-billion
-          dollar business...." [Read
-            more](http://finance.yahoo.com/news/nvidia-making-moves-dominate-self-180020446.html) Hmmmm... Interesting.
+          dollar business...." [Read more](http://finance.yahoo.com/news/nvidia-making-moves-dominate-self-180020446.html) Hmmmm... Interesting.
               Alain
 
-### [Driverless
-            transit vehicles could replace Jacksonville's current Skyway
-            system](http://jacksonville.com/business/2017-03-25/driverless-transit-vehicles-could-replace-jacksonville-s-current-skyway-system)
+### [Driverless transit vehicles could replace Jacksonville's current Skyway system](http://jacksonville.com/business/2017-03-25/driverless-transit-vehicles-could-replace-jacksonville-s-current-skyway-system)
 
         D. Dixon, Mar 26, "... The current Skyway route runs from San
         Marco along the south bank across the St. Johns River and then
@@ -177,39 +163,32 @@ MrTopSStep.com, Mar 20, "It's been a busy week in the world
         in Springfield to UF Health and well into San Marco along
         Hendricks Avenue.  "It's about connecting those places," said
         Brad Thoburn, JTA vice president of planning, development and
-        innovation...." [Read
-          more](http://jacksonville.com/business/2017-03-25/driverless-transit-vehicles-could-replace-jacksonville-s-current-skyway-system) Hmmmm... A viable
+        innovation...." [Read more](http://jacksonville.com/business/2017-03-25/driverless-transit-vehicles-could-replace-jacksonville-s-current-skyway-system) Hmmmm... A viable
             opportunity for Slow Speed Driverless vehicles.   Alain
 
-### [The
-            10 U.S. Cities Where Self-Driving Cars Make the Most Sense](http://fortune.com/2017/03/21/best-cities-self-driving-cars/)
+### [The 10 U.S. Cities Where Self-Driving Cars Make the Most Sense](http://fortune.com/2017/03/21/best-cities-self-driving-cars/)
 
         K. Korosec, Mar 21, "...The top U.S. cities primed for
         self-driving cars is led by New Orleans, Albuquerque, Tucson,
         Ariz., Portland, and Omaha, according to a new index created by
         Inrix, a company that aggregates and analyzes traffic data
-        collected from vehicles and highway infrastructure..." [Read
-          more](http://fortune.com/2017/03/21/best-cities-self-driving-cars/) Hmmmm... I'm not
+        collected from vehicles and highway infrastructure..." [Read more](http://fortune.com/2017/03/21/best-cities-self-driving-cars/) Hmmmm... I'm not
             sure that the INRIX metric is anywhere near the right one;
             therefor,  the resulting list needs to be taken with a grain
             of salt.  My metric would identify the cities that have the
             greatest potential for casual ridesharing that isn't already
             served by existing transit systems.  Alain
 
-### [Tesla
-            Model 3: Autopilot is most popular option among reservation
-            holders and 58% want a battery upgrade](https://electrek.co/2017/03/21/tesla-model-3-options-autopilot-battery-upgrade/)
+### [Tesla Model 3: Autopilot is most popular option among reservation holders and 58% want a battery upgrade](https://electrek.co/2017/03/21/tesla-model-3-options-autopilot-battery-upgrade/)
 
         F. Lambert, Mar 21, "Unsurprisingly, the Autopilot is most
         popular option among reservation holders and maybe a little more
         surprising, a majority of Tesla Model 3 reservations holders in
         the US want a battery upgrade over the base "more than 215
-        miles" option..." [Read
-          more](https://electrek.co/2017/03/21/tesla-model-3-options-autopilot-battery-upgrade/) Hmmmm... Comfort
+        miles" option..." [Read more](https://electrek.co/2017/03/21/tesla-model-3-options-autopilot-battery-upgrade/) Hmmmm... Comfort
             & Convenience and Range Anxiety. Alain
 
-### [Self-Driving
-            Cars' Spinning-Laser Problem](https://www.technologyreview.com/s/603885/autonomous-cars-lidar-sensors/)
+### [Self-Driving Cars' Spinning-Laser Problem](https://www.technologyreview.com/s/603885/autonomous-cars-lidar-sensors/)
 
          T. Simonite, Mar 20, "Many components go into making a vehicle
         capable of driving itself, but one is proving to be more crucial
@@ -224,13 +203,10 @@ MrTopSStep.com, Mar 20, "It's been a busy week in the world
         into the world, as the devices on the road today do. Versions
         that steer their lasers electronically, described as solid
         state, should be much cheaper, smaller, and more robust, because
-        they don't have moving parts..." [Read
-          more](https://www.technologyreview.com/s/603885/autonomous-cars-lidar-sensors/)   Hmmmm... Interesting.
+        they don't have moving parts..." [Read more](https://www.technologyreview.com/s/603885/autonomous-cars-lidar-sensors/)   Hmmmm... Interesting.
             Alain
 
-### [Driverless
-            Future? If they ever get the bugs out, autonomous cars will
-            put a lot of human drivers out of work](http://prospect.org/article/driverless-future)
+### [Driverless Future? If they ever get the bugs out, autonomous cars will put a lot of human drivers out of work](http://prospect.org/article/driverless-future)
 
         S.  Greenhouse, Mar 21, "Self-driving (sic) vehicles will
         threaten the jobs of as many as five million people—workers who
@@ -238,13 +214,10 @@ MrTopSStep.com, Mar 20, "It's been a busy week in the world
         drivers, local delivery drivers, limo chauffeurs, and even many
         bus drivers. ... [Read more](http://prospect.org/article/driverless-future) Hmmmm... 'Self-driving' won't put
             anyone out of a job. These systems still need drivers for
-            parts of each trip.  'Driverless' may eventually put all [210
-              million licensed drivers](https://www.fhwa.dot.gov/policyinformation/pubs/hf/pl11028/chapter4.cfm) out of work, 96% of whom
+            parts of each trip.  'Driverless' may eventually put all [210 million licensed drivers](https://www.fhwa.dot.gov/policyinformation/pubs/hf/pl11028/chapter4.cfm) out of work, 96% of whom
             don't get paid to drive.   Alain
 
-### [Silicon
-            Valley likes to "move fast and break things." What happens
-            when it makes cars?](http://www.vox.com/technology/2017/3/20/14842252/uber-silicon-valley-regulation)
+### [Silicon Valley likes to "move fast and break things." What happens when it makes cars?](http://www.vox.com/technology/2017/3/20/14842252/uber-silicon-valley-regulation)
 
         T. Lee, Mar 20, "Mark Zuckerberg popularized the slogan "move
         fast and break things" to describe the breakneck pace of
@@ -260,15 +233,13 @@ MrTopSStep.com, Mar 20, "It's been a busy week in the world
         malfunctioning self-driving vehicles. But overregulation could
         delay the introduction of cars that drive themselves much better
         than a human driver, costing many more lives in the long run..."
-        [Read
-          more](http://www.vox.com/technology/2017/3/20/14842252/uber-silicon-valley-regulation) Hmmmm... This is the
+        [Read more](http://www.vox.com/technology/2017/3/20/14842252/uber-silicon-valley-regulation) Hmmmm... This is the
             basic quandary.  Alain
 
 ## Some other thoughts
             that deserve your attention
 
-### [Unexpected
-            Consequences of Self Driving Cars](http://rodneybrooks.com/unexpected-consequences-of-self-driving-cars/)
+### [Unexpected Consequences of Self Driving Cars](http://rodneybrooks.com/unexpected-consequences-of-self-driving-cars/)
 
         R. Brooks, Jan 12, "...In this post I will explore two possible
         consequences of having self driving cars, two consequences that
@@ -276,8 +247,7 @@ MrTopSStep.com, Mar 20, "It's been a busy week in the world
         non-traditional players, and startups debate what level of
         autonomy we might expect in our cars and when. These potential
         consequences are self-driving cars as social outcasts and
-        anti-social behavior of owners. ..." [Read
-          more](http://rodneybrooks.com/unexpected-consequences-of-self-driving-cars/) Hmmmm... Interesting.
+        anti-social behavior of owners. ..." [Read more](http://rodneybrooks.com/unexpected-consequences-of-self-driving-cars/) Hmmmm... Interesting.
             The social interaction will be different.  How do we
             socially interact with elevators today or even our own
             computers/smartPhones??? Alain
@@ -291,8 +261,7 @@ MrTopSStep.com, Mar 20, "It's been a busy week in the world
 ## Half-baked stuff that
             probably doesn't deserve your time
 
-### [Self-Driving
-            Cars Could Be Boon for Aged, After Initial Hurdles](https://www.nytimes.com/2017/03/23/automobiles/wheels/self-driving-cars-elderly.html?hpw&rref=automobiles&action=click&pgtype=Homepage&module=well-region&region=bottom-well&WT.nav=bottom-well&_r=0)
+### [Self-Driving Cars Could Be Boon for Aged, After Initial Hurdles](https://www.nytimes.com/2017/03/23/automobiles/wheels/self-driving-cars-elderly.html?hpw&rref=automobiles&action=click&pgtype=Homepage&module=well-region&region=bottom-well&WT.nav=bottom-well&_r=0)
 
         M. Chapman, Mar 23, "Single, childless and 68, Steven Gold has
         begun to think about future mobility and independence. Although
@@ -303,8 +272,7 @@ MrTopSStep.com, Mar 20, "It's been a busy week in the world
         supermarket if his driving becomes impaired.
 
         For Mr. Gold and other older adults, self-driving cars might be
-        a solution...." [Read
-          more](https://www.nytimes.com/2017/03/23/automobiles/wheels/self-driving-cars-elderly.html?hpw&rref=automobiles&action=click&pgtype=Homepage&module=well-region&region=bottom-well&WT.nav=bottom-well&_r=0) Hmmmm... This is an
+        a solution...." [Read more](https://www.nytimes.com/2017/03/23/automobiles/wheels/self-driving-cars-elderly.html?hpw&rref=automobiles&action=click&pgtype=Homepage&module=well-region&region=bottom-well&WT.nav=bottom-well&_r=0) Hmmmm... This is an
             irresponsible suggestion.  'Self-driving' cars only relieve
             the driver from the task of driving some of the time in some
             places.  The rest of the time in the rest of the places a 'confident'
@@ -316,7 +284,7 @@ MrTopSStep.com, Mar 20, "It's been a busy week in the world
             on the inebriated!   Mobility for these folks requires Driverless,
             period.  Alain
 
-### [](https://www.audi-mediacenter.com/en/press-releases/automatic-intelligent-parking-audi-at-nips-in-barcelona-7139)
+### 
 
 ## [C'mon Man!](https://www.youtube.com/watch?v=XSYiSVRWIHU)(These folks
             didn't get/read the memo)
@@ -344,9 +312,7 @@ May 17 & 18, 2017
 
             March 20, 2017
 
-### [Uber's
-            autonomous cars drove 20,354 miles and had to be taken over
-            at every mile, according to documents](http://www.recode.net/2017/3/16/14938116/uber-travis-kalanick-self-driving-internal-metrics-slow-progress)
+### [Uber's autonomous cars drove 20,354 miles and had to be taken over at every mile, according to documents](http://www.recode.net/2017/3/16/14938116/uber-travis-kalanick-self-driving-internal-metrics-slow-progress)
 
         J. Bhuiyan, Mar 16, "Some of Uber's self-driving cars aren't
         driving as smoothly as the company hoped they would. Documents
@@ -368,8 +334,7 @@ May 17 & 18, 2017
         The good news is the number of miles between these "critical"
         interventions has recently improved. Last week, the company's
         cars drove an average of approximately 200 miles between those
-        types of incidents that required a driver to take over..." [Read
-          more](http://www.recode.net/2017/3/16/14938116/uber-travis-kalanick-self-driving-internal-metrics-slow-progress) Hmmm... Waymo is so
+        types of incidents that required a driver to take over..." [Read more](http://www.recode.net/2017/3/16/14938116/uber-travis-kalanick-self-driving-internal-metrics-slow-progress) Hmmm... Waymo is so
             incredibly far ahead.  Even with these statistics, it
             depends on when and where the miles were drive.  It is
             relatively unchallenging in some places at some times,
@@ -380,9 +345,7 @@ May 17 & 18, 2017
             Driverless.  Alain
             March 10, 2017
 
-### [Intel
-            to Buy Mobileye, Maker of Sensors for Self-Driving Cars, for
-            $15.3 Billion](https://www.nytimes.com/2017/03/13/business/dealbook/intel-mobileye-autonomous-cars-israel.html?_r=0)
+### [Intel to Buy Mobileye, Maker of Sensors for Self-Driving Cars, for $15.3 Billion](https://www.nytimes.com/2017/03/13/business/dealbook/intel-mobileye-autonomous-cars-israel.html?_r=0)
 
  M. Scott, Mar 13, "Intel agreed on Monday to
           buy Mobileye, an Israeli technology company that specializes
@@ -399,14 +362,11 @@ Intel's deal for Mobileye seems to be a
           power needed for autonomous cars... Intel said it would
           continue investing in the autonomous-driving industry, a
           sector that it said would be worth about $70 billion by
-          2030..."  [Read
-            more](https://www.nytimes.com/2017/03/13/business/dealbook/intel-mobileye-autonomous-cars-israel.html?_r=0)Hmmm... The hits keep
-              coming!  Friday..the [California
-                Regs welcoming Driverless](https://www.dmv.ca.gov/portal/dmv/detail/vr/autonomous/auto); Monday...
+          2030..."  [Read more](https://www.nytimes.com/2017/03/13/business/dealbook/intel-mobileye-autonomous-cars-israel.html?_r=0)Hmmm... The hits keep
+              coming!  Friday..the [California Regs welcoming Driverless](https://www.dmv.ca.gov/portal/dmv/detail/vr/autonomous/auto); Monday...
               this.  Tomorrow... nVIDIA????   Alain
 
-### [Robot cars — with no human driver — could hit California
-            roads next year](http://www.latimes.com/business/autos/la-fi-hy-dmv-autonomous-regulations-20170310-story.html)
+### [Robot cars — with no human driver — could hit California roads next year](http://www.latimes.com/business/autos/la-fi-hy-dmv-autonomous-regulations-20170310-story.html)
 
  R. Mitchell, Mar 10, "California is back on
           the map as a state that's serious about welcoming driverless
@@ -414,11 +374,9 @@ Intel's deal for Mobileye seems to be a
           wheel, and perhaps no steering wheel at all — are headed
           toward California streets and highways starting in 2018...
 
-[The
-            regulations](https://www.dmv.ca.gov/portal/dmv/detail/vr/autonomous/auto) lay out "a clear path for future deployment
+[The regulations](https://www.dmv.ca.gov/portal/dmv/detail/vr/autonomous/auto) lay out "a clear path for future deployment
           of autonomous vehicles" in California, said Bernard Soriano,
-          deputy director at the Department of Motor Vehicles...." [Read
-            more](http://www.latimes.com/business/autos/la-fi-hy-dmv-autonomous-regulations-20170310-story.html)Hmmm... Congratulations
+          deputy director at the Department of Motor Vehicles...." [Read more](http://www.latimes.com/business/autos/la-fi-hy-dmv-autonomous-regulations-20170310-story.html)Hmmm... Congratulations
               Bernard!  This is fantastic news on the road to providing
               high-quality mobility for all.  It squarely addresses the
               fundamental need to efficiently re-position vehicles so
@@ -428,9 +386,7 @@ Intel's deal for Mobileye seems to be a
               environmentally friendly mobility for everyone.  Alain
             March 3, 2017
 
-### [Buffett
-            has an interesting theory about why self-driving cars will
-            hurt the insurance industry](http://www.cnbc.com/2017/02/27/buffett-self-driving-cars-will-hurt-the-insurance-industry.html)
+### [Buffett has an interesting theory about why self-driving cars will hurt the insurance industry](http://www.cnbc.com/2017/02/27/buffett-self-driving-cars-will-hurt-the-insurance-industry.html)
 
 E. Gurdus, Feb 27, "The self-driving car
           business could become a major threat to insurance companies
@@ -445,8 +401,7 @@ E. Gurdus, Feb 27, "The self-driving car
 "If I had to take the over and under [bet] ten
           years from now on whether 10 percent of the cars on the road
           would be self-driving, I would take the under, but I could
-          very easily be wrong," he said...." [Read
-            more](http://www.cnbc.com/2017/02/27/buffett-self-driving-cars-will-hurt-the-insurance-industry.html)Hmmm...Really shouldn't
+          very easily be wrong," he said...." [Read more](http://www.cnbc.com/2017/02/27/buffett-self-driving-cars-will-hurt-the-insurance-industry.html)Hmmm...Really shouldn't
               go against Buffet; however, he's going to be smiling all
               the way to the bank.  I just don't see how the premise
               implies Geico takes a serious hit.  I tell everyone that I
@@ -472,8 +427,7 @@ I suspect that by cars
 
               February 24, 2017
 
-### [Alphabet's Waymo Alleges
-              Uber Stole Self-Driving Secrets](https://www.bloomberg.com/news/articles/2017-02-23/alphabet-s-waymo-sues-uber-for-stealing-self-driving-patents)
+### [Alphabet's Waymo Alleges Uber Stole Self-Driving Secrets](https://www.bloomberg.com/news/articles/2017-02-23/alphabet-s-waymo-sues-uber-for-stealing-self-driving-patents)
 
  M. Bergen, Feb 23, "It took Alphabet Inc.'s
           Waymo seven years to design and build a laser-scanning system
@@ -488,13 +442,11 @@ I suspect that by cars
           circuit board designs, according to the complaint. He also
           allegedly created a domain name for his new company and
           confided in some of his Waymo colleagues of plans to
-          "replicate" its technology for a competitor...." [Read
-            more](https://www.bloomberg.com/news/articles/2017-02-23/alphabet-s-waymo-sues-uber-for-stealing-self-driving-patents)   Hmmm...This is very
+          "replicate" its technology for a competitor...." [Read more](https://www.bloomberg.com/news/articles/2017-02-23/alphabet-s-waymo-sues-uber-for-stealing-self-driving-patents)   Hmmm...This is very
               serious.  So unfortunate.  :-(   Alain
               February 17, 2017
 
-### [Motor Vehicle Deaths in 2016
-            Estimated to be Highest in Nine Years](http://www.nsc.org/Connect/NSCNewsReleases/Lists/Posts/Post.aspx?ID=180)
+### [Motor Vehicle Deaths in 2016 Estimated to be Highest in Nine Years](http://www.nsc.org/Connect/NSCNewsReleases/Lists/Posts/Post.aspx?ID=180)
 
  Press release, Feb. 15, "NSC offers insight
           into what drivers are doing and calls for immediate
@@ -502,17 +454,14 @@ I suspect that by cars
 
           With the upward trend showing no sign of subsiding, NSC is
           calling for immediate implementation of life-saving measures
-          that would set the nation on a [road
-            to zero](http://www.nsc.org/learn/NSC-Initiatives/Pages/The-Road-to-Zero.aspx) deaths:..." [Read
-            more](http://www.nsc.org/Connect/NSCNewsReleases/Lists/Posts/Post.aspx?ID=180)Hmmm..."Automated
+          that would set the nation on a [road to zero](http://www.nsc.org/learn/NSC-Initiatives/Pages/The-Road-to-Zero.aspx) deaths:..." [Read more](http://www.nsc.org/Connect/NSCNewsReleases/Lists/Posts/Post.aspx?ID=180)Hmmm..."Automated
               Collision Avoidance" or anything having to do with 'Safe-driving
                 Cars' is not mentioned anywhere in the Press
               Release.  One of us is missing something very fundamental
               here!!  So depressing!!  :-(   Alain
               February 10, 2017
 
-### [Regulatory
-            Chill May Pivot Connected Vehicle Tech's Course](https://www.bna.com/regulatory-chill-may-n57982083525/)
+### [Regulatory Chill May Pivot Connected Vehicle Tech's Course](https://www.bna.com/regulatory-chill-may-n57982083525/)
 
  M. Ross, Feb 8, "Technology and
           telecommunications groups opposed to a federal mandate that
@@ -550,10 +499,8 @@ I suspect that by cars
           other, Paul Brubaker, president and CEO of the Alliance for
           Transportation Innovation,..."
 
-[Read
-            more](https://www.bna.com/regulatory-chill-may-n57982083525/)Hmmm... Not 'Regulatory
-              Chill' but simply Common Sense. [C'mon
-                Man!](https://www.youtube.com/watch?v=vtWZCq8A4T4) I'm on the
+[Read more](https://www.bna.com/regulatory-chill-may-n57982083525/)Hmmm... Not 'Regulatory
+              Chill' but simply Common Sense. [C'mon Man!](https://www.youtube.com/watch?v=vtWZCq8A4T4) I'm on the
               AV side of this one. V2V is fine on top of AV, but staying
               on the DSRC bandwagon is silly when it will be completely
               obsolesced by [5G](https://www.ericsson.com/news/170207-ericsson-st-ericsson-bmw-group-korea_244010065_c)
@@ -570,8 +517,7 @@ I suspect that by cars
               10) chance that DSRC is even relevant in averting a
               crash.  It simply takes a long time to replace the cars
               that are on the road today with new ones.  However, many
-              of us replace our phones with the latest and greatest [much
-                more quickly](https://www.statista.com/statistics/263437/global-smartphone-sales-to-end-users-since-2007/), so that by 2025 it is not unreasonable
+              of us replace our phones with the latest and greatest [much more quickly](https://www.statista.com/statistics/263437/global-smartphone-sales-to-end-users-since-2007/), so that by 2025 it is not unreasonable
               that as many as 70% of drivers will have 5G phones.  The
               chance that these phones will have the opportunity to be a
               relevant V2V device in averting a crash is  0.7 x 0.7 =
@@ -584,25 +530,17 @@ I suspect that by cars
                   it for other reasons.  Alain
               January 27, 2017
 
-### [Serving
-            the Nation's Personal Mobility Needs with the Casual Sharing
-            of autonomousTaxis & Today's Urban Rail, Amtrak and Air
-            Transport Systems](http://www.princeton.edu/%7Ealaink/Orf467F16/FinalProject/Orf467F16FinalReport.pdf)
+### [Serving the Nation's Personal Mobility Needs with the Casual Sharing of autonomousTaxis & Today's Urban Rail, Amtrak and Air Transport Systems](http://www.princeton.edu/%7Ealaink/Orf467F16/FinalProject/Orf467F16FinalReport.pdf)
 
 A. Kornhauser, Jan 14, "Orf467F16 Final Project
           Symposium quantifying implications of such a Nation-wide
-          mobility system on [Average
-            Vehicle Occupancy (AVO)](http://www.princeton.edu/%7Ealaink/Orf467F16/FinalProject/SympPpts/FinalProjectSymposiumPpt_Ch8_NationwideAVO_VanCleveZiglerKiles.pdf), [energy,
-            environment and congestion](http://www.princeton.edu/%7Ealaink/Orf467F16/FinalProject/SympPpts/FinalProjectSymposiumPpt_Ch11_OptimizedMixedFleetSize-MorenoUhl.pdf), including estimates of [fleet
-            size](http://www.princeton.edu/%7Ealaink/Orf467F16/FinalProject/SympPpts/FinalProjectSymposiumPpt_Ch11_OptimizedMixedFleetSize-MorenoUhl.pdf), [needed
-            empty vehicle repositioning](http://www.princeton.edu/%7Ealaink/Orf467F16/FinalProject/SympPpts/FinalProjectSymposiumPpt_Ch9-FleetManagement5PaxVehicle.pdf), and ridership implications
+          mobility system on [Average Vehicle Occupancy (AVO)](http://www.princeton.edu/%7Ealaink/Orf467F16/FinalProject/SympPpts/FinalProjectSymposiumPpt_Ch8_NationwideAVO_VanCleveZiglerKiles.pdf), [energy, environment and congestion](http://www.princeton.edu/%7Ealaink/Orf467F16/FinalProject/SympPpts/FinalProjectSymposiumPpt_Ch11_OptimizedMixedFleetSize-MorenoUhl.pdf), including estimates of [fleet size](http://www.princeton.edu/%7Ealaink/Orf467F16/FinalProject/SympPpts/FinalProjectSymposiumPpt_Ch11_OptimizedMixedFleetSize-MorenoUhl.pdf), [needed empty vehicle repositioning](http://www.princeton.edu/%7Ealaink/Orf467F16/FinalProject/SympPpts/FinalProjectSymposiumPpt_Ch9-FleetManagement5PaxVehicle.pdf), and ridership implications
           on existing rail transit systems ([west](http://www.princeton.edu/%7Ealaink/Orf467F16/FinalProject/SympPpts/FinalProjectSymposiumPpt_Ch3_WestOfChicago-HaileWood.pdf),
           [east](http://www.princeton.edu/%7Ealaink/Orf467F16/FinalProject/SympPpts/FinalProjectSymposiumPpt_Ch4_TransitChicago&East-CuffeLowellYablonski.pdf),
           [NYC](http://www.princeton.edu/%7Ealaink/Orf467F16/FinalProject/SympPpts/FinalProjectSymposiumPpt_Ch5_TransitNYC_NJ_CT-DengNi.pdf))
           and [Amtrak](http://www.princeton.edu/%7Ealaink/Orf467F16/FinalProject/SympPpts/FinalProjectSymposiumPpt_Ch6_AmtrakPotential-ChanceDagostino.pdf)
           of a system that would efficiently and effectively perform
-          their '1st mile'/'last-mile' mobility needs. [Read
-            more](http://www.princeton.edu/%7Ealaink/Orf467F16/FinalProject/Orf467F16FinalProjectAnnouncement.pdf)  Hmmm... Now linked are
+          their '1st mile'/'last-mile' mobility needs. [Read more](http://www.princeton.edu/%7Ealaink/Orf467F16/FinalProject/Orf467F16FinalProjectAnnouncement.pdf)  Hmmm... Now linked are
               1st Drafts of the chapters and the powerPoint summaries of
               these elements.  Final Report should be available by early
               February.  The major finding is, nationwide there exists
@@ -626,8 +564,7 @@ A. Kornhauser, Jan 14, "Orf467F16 Final Project
 
               January 20, 2017
 
-### [Fiscal
-            Year 2016 SRD Program Grant Selections](https://www.transit.dot.gov/research-innovation/fiscal-year-2016-srd-program-grant-selections)
+### [Fiscal Year 2016 SRD Program Grant Selections](https://www.transit.dot.gov/research-innovation/fiscal-year-2016-srd-program-grant-selections)
 
  Public Announcement, Jan 22: "Pierce Transit
           will receive $1,664,894 to deploy buses equipped with
@@ -640,8 +577,7 @@ A. Kornhauser, Jan 14, "Orf467F16 Final Project
           insurance coverage, manage claims and litigation, and receive
           risk management and training. Pierce Transit will work with
           WSTIP to accurately determine the business case for investing
-          in these technologies." [Read
-            more](https://www.transit.dot.gov/research-innovation/fiscal-year-2016-srd-program-grant-selections)Hmmm... Finally!! More than
+          in these technologies." [Read more](https://www.transit.dot.gov/research-innovation/fiscal-year-2016-srd-program-grant-selections)Hmmm... Finally!! More than
               3 years since Lou Sanders of APTA, Jerome Lutin and I
               first proposed to FTA to do such a thing for the benefit
               of the entire bus transit industry (which FTA deemed as
@@ -656,9 +592,7 @@ A. Kornhauser, Jan 14, "Orf467F16 Final Project
               SafeDrivingCars/Buses/Trucks.  Congratulations Jerome
               & Jerry!  Alain
 
-### [ODI
-              (Office of Defects Investigation) Findings on Tesla AEB
-              & AutoPilot](http://www.princeton.edu/%7Ealaink/Orf467F16/NHTSA_ODI_FindingsOnTeslaFloridaCrash.PDF)
+### [ODI (Office of Defects Investigation) Findings on Tesla AEB & AutoPilot](http://www.princeton.edu/%7Ealaink/Orf467F16/NHTSA_ODI_FindingsOnTeslaFloridaCrash.PDF)
 
 ###
 
@@ -705,8 +639,7 @@ A. Kornhauser, Jan 14, "Orf467F16 Final Project
                     identified at this time and further examination of
                     this issue does not appear to be warranted.
                     Accordingly, this investigation
-                    is closed. "   [Read
-              more](http://www.princeton.edu/%7Ealaink/Orf467F16/NHTSA_ODI_FindingsOnTeslaFloridaCrash.PDF) Hmmm... WOW!!! . Every
+                    is closed. "   [Read more](http://www.princeton.edu/%7Ealaink/Orf467F16/NHTSA_ODI_FindingsOnTeslaFloridaCrash.PDF) Hmmm... WOW!!! . Every
                 word of this Finding is worth reading.  It basically
                 exonerates Tesla, states that AEBs (Automated Emergency
                 Braking) systems don't really work and aren't designed
@@ -721,8 +654,7 @@ A. Kornhauser, Jan 14, "Orf467F16 Final Project
 
               January 13, 2017
 
-### [Transportation Secretary Anthony Foxx Announces New Federal
-            Committee on Automation](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/PDFs/01102017%20automation%20FACA%20release.pdf)
+### [Transportation Secretary Anthony Foxx Announces New Federal Committee on Automation](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/PDFs/01102017%20automation%20FACA%20release.pdf)
 
 News, Jan 10, "...U.S. Transportation Secretary
           Anthony Foxx. "I'm proud to announce this new automation
@@ -735,8 +667,7 @@ News, Jan 10, "...U.S. Transportation Secretary
 
               October 27, 2016
 
-### [Ontario
-            Must Prepare for Vehicle Automation](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/PDFs/RCCAO_Vehicle-Automation_OCT2016_WEB.pdf)
+### [Ontario Must Prepare for Vehicle Automation](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/PDFs/RCCAO_Vehicle-Automation_OCT2016_WEB.pdf)
 
 B. Grush, Oct. 2016, "Two contradictory stories
           about our transportation infrastructure are currently in
@@ -767,8 +698,7 @@ This is wishful thinking. Vehicle automation
           look at why and how government agencies and public interest
           groups can and should influence the preferred types and
           deployment of automated vehicles and the implication of
-          related factors for planning..." [Read
-            more](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/PDFs/RCCAO_Vehicle-Automation_OCT2016_WEB.pdf)Hmmm...Bravo!  The Key
+          related factors for planning..." [Read more](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/PDFs/RCCAO_Vehicle-Automation_OCT2016_WEB.pdf)Hmmm...Bravo!  The Key
               Findings & Recommendations are excellent.  This is an
               excellent report (but it largely misses goods
               movement.)  Especially 5.1 (read 'semi-autonomous' as
@@ -782,9 +712,7 @@ This is wishful thinking. Vehicle automation
 
               September 23, 2016
 
-### [Federal
-            Automated Vehicles Policy: Accelerating the Next Revolution
-            In Roadway Safety](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/PDFs/AV%20policy%20guidance%20PDF.pdf)
+### [Federal Automated Vehicles Policy: Accelerating the Next Revolution In Roadway Safety](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/PDFs/AV%20policy%20guidance%20PDF.pdf)
 
 September 2016, "Executive Summary...For DOT,
           the excitement around highly automated vehicles (HAVs) starts
@@ -876,13 +804,9 @@ September 2016, "Executive Summary...For DOT,
               whose on-all-the-time performance must be perfected.
               These are the Safety Foundation of HAV (Highly Automated
               vehicles).  I understand that the guidelines may assume
-              that these systems are already perfect and that "[20
-                manufacturer have committed"](http://www.nhtsa.gov/About+NHTSA/Press+Releases/nhtsa-iihs-commitment-on-aeb-03172016) to have AEB on all new
+              that these systems are already perfect and that "[20 manufacturer have committed"](http://www.nhtsa.gov/About+NHTSA/Press+Releases/nhtsa-iihs-commitment-on-aeb-03172016) to have AEB on all new
               cars, but to date these systems really don't work.  In 12
-              mph [IIHS
-                test,](http://www.iihs.org/iihs/ratings/ratings-info/front-crash-prevention-tests) [few
-                stop](http://www.iihs.org/iihs/news/desktopnews/iihs-issues-first-crash-avoidance-ratings-under-new-test-program-7-midsize-vehicles-earn-top-marks-for-front-crash-prevention) before [hitting
-                the target](http://www.iihs.org/iihs/ratings/ratings-info/front-crash-prevention-tests), and, as we may have seen
+              mph [IIHS test,](http://www.iihs.org/iihs/ratings/ratings-info/front-crash-prevention-tests) [few stop](http://www.iihs.org/iihs/news/desktopnews/iihs-issues-first-crash-avoidance-ratings-under-new-test-program-7-midsize-vehicles-earn-top-marks-for-front-crash-prevention) before [hitting the target](http://www.iihs.org/iihs/ratings/ratings-info/front-crash-prevention-tests), and, as we may have seen
                   with the Florida [Tesla](https://www.tesla.com/blog/upgrading-autopilot-seeing-world-radar)
                   crash, the Level 2/3 AutoPilot may not have failed,
                   but, instead, it was the "Phantom Level 1" AEB that is
@@ -901,8 +825,7 @@ September 2016, "Executive Summary...For DOT,
 
           are subject to NHTSA's defects, recall and enforcement
           authority. (footnote 8)   . and the
-              "[15
-                Cross-cutting Areas of Guidance](http://www.nytimes.com/2016/09/21/technology/the-15-point-federal-checklist-for-self-driving-cars.html?_r=0)" p17)
+              "[15 Cross-cutting Areas of Guidance](http://www.nytimes.com/2016/09/21/technology/the-15-point-federal-checklist-for-self-driving-cars.html?_r=0)" p17)
 
 In sum this is a very
               good document and displays just how far DoT policy has
@@ -922,46 +845,33 @@ What are not addressed
               is preparing similar guidelines.  [FTA](https://www.transit.dot.gov/) (Federal
               Transit Administration) seems nowhere in sight.  Alain
 
-### [Lessons
-            From the Tesla Crash](http://www.nytimes.com/2016/07/11/opinion/lessons-from-the-tesla-crash.html?ribbon-ad-idx=2&rref=opinion&module=Ribbon&version=context&region=Header&action=click&contentCollection=Opinion&pgtype=article)
+### [Lessons From the Tesla Crash](http://www.nytimes.com/2016/07/11/opinion/lessons-from-the-tesla-crash.html?ribbon-ad-idx=2&rref=opinion&module=Ribbon&version=context&region=Header&action=click&contentCollection=Opinion&pgtype=article)
 
             Crash
 
 Hmmm...What we know now
               (and don't know):
 
-### [Extracting
-            Cognition out of Images for the Purpose of Autonomous
-            Driving](http://orfe.princeton.edu/%7Ealaink/Theses/chenyiPhDfinal_ExtractingCognitionOutOfImagesForThePurposeOfAutonomousDriving.pdf)
+### [Extracting Cognition out of Images for the Purpose of Autonomous Driving](http://orfe.princeton.edu/%7Ealaink/Theses/chenyiPhDfinal_ExtractingCognitionOutOfImagesForThePurposeOfAutonomousDriving.pdf)
 
  Chenyi Chen PhD Dissertation , "...the key
           part of the thesis, a direct perception approach is proposed
           to drive a car in a highway environment. In this approach, an
           input image is mapped to a small number of key perception
           indicators that directly relate to the affordance of a
-          road/traffic state for driving....." [Read more](http://orfe.princeton.edu/%7Ealaink/Theses/chenyiPhDfinal_ExtractingCognitionOutOfImagesForThePurposeOfAutonomousDriving.pdf)  Hmmm..[FPO
-                10:00am, May 16 , 120 Sherrerd Hall](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Presentations/ChenyiFPO.pdf), Establishing a
+          road/traffic state for driving....." [Read more](http://orfe.princeton.edu/%7Ealaink/Theses/chenyiPhDfinal_ExtractingCognitionOutOfImagesForThePurposeOfAutonomousDriving.pdf)  Hmmm..[FPO 10:00am, May 16 , 120 Sherrerd Hall](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Presentations/ChenyiFPO.pdf), Establishing a
               foundation for image-based autonomous driving using
               DeepLearning Neural Networks trained in virtual
               environments. Very promising. Alain
 
-### [Hearing
-            focus of SF 2569 Autonomous vehicles task force
-            establishment and demonstration project for people with
-            disabilities](http://mnsenate.granicus.com/MediaPlayer.php?view_id=1&clip_id=235)
+### [Hearing focus of SF 2569 Autonomous vehicles task force establishment and demonstration project for people with disabilities](http://mnsenate.granicus.com/MediaPlayer.php?view_id=1&clip_id=235)
 
- March 23 Hmmm... [Watch
-                the video of the Committee
-                  Meeting](http://mnsenate.granicus.com/MediaPlayer.php?view_id=1&clip_id=235).  The testimony is Excellent
-              and very compelling! Also see [Self-Driving
-                Minnesota](http://www.selfdrivingmn.org/) Alain
+ March 23 Hmmm... [Watch the video of the Committee Meeting](http://mnsenate.granicus.com/MediaPlayer.php?view_id=1&clip_id=235).  The testimony is Excellent
+              and very compelling! Also see [Self-Driving Minnesota](http://www.selfdrivingmn.org/) Alain
 
-### [U.S.
-            DOT and IIHS announce historic commitment of 20 automakers
-            to make automatic emergency braking standard on new vehicles](http://www.nhtsa.gov/About+NHTSA/Press+Releases/nhtsa-iihs-commitment-on-aeb-03172016)
+### [U.S. DOT and IIHS announce historic commitment of 20 automakers to make automatic emergency braking standard on new vehicles](http://www.nhtsa.gov/About+NHTSA/Press+Releases/nhtsa-iihs-commitment-on-aeb-03172016)
 
-### [Adam
-            Jonas' View on Autonomous Cars](http://linkback.morganstanley.com/web/sendlink/webapp/BMServlet?file=kpmb1mve-3p5j-g000-97a7-d8d3855a5201&store=0&d=1&user=dagn42i4pkquh-0&__gda__=1549992813_42e5b148a43b27b943d8d34f1e5c3295#0011&dagn42i4pkquh-1&1549992813_f2523f33158f4db2b6d628c5c9008f28&0021&dagn42i4pkquh-2&1549992813_f9a15a1b06e61ec454fad4cc7759010a)
+### [Adam Jonas' View on Autonomous Cars](http://linkback.morganstanley.com/web/sendlink/webapp/BMServlet?file=kpmb1mve-3p5j-g000-97a7-d8d3855a5201&store=0&d=1&user=dagn42i4pkquh-0&__gda__=1549992813_42e5b148a43b27b943d8d34f1e5c3295#0011&dagn42i4pkquh-1&1549992813_f2523f33158f4db2b6d628c5c9008f28&0021&dagn42i4pkquh-2&1549992813_f9a15a1b06e61ec454fad4cc7759010a)
 
         Video similar to part of Adam's Luncheon talk @ 2015 Florida
         Automated Vehicle Symposium on Dec 1.  [Hmmm ... Watch Video](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Videos/AdamJonas10T_MorganStanley.mp4)  especially at the 13:12 mark.  Compelling;
@@ -970,19 +880,16 @@ Hmmm...What we know now
             Alain
 
  This list
-                                    is maintained by [Alain
-                                      Kornhauser](mailto:alaink@princeton.edu) and hosted by the [Princeton
-                                      University LISTSERV](http://lists.princeton.edu).
+                                    is maintained by [Alain Kornhauser](mailto:alaink@princeton.edu) and hosted by the [Princeton University LISTSERV](http://lists.princeton.edu).
 
 [Unsubscribe](https://lists.princeton.edu/cgi-bin/wa?TICKET=NzM1MjMzIGJpbm9AUFJJTkNFVE9OLkVEVSBTTUFSVERSSVZJTkdDQVJTIGluYtYkJuu3&c=SIGNOFF)
                                     |[Re-subscribe](https://lists.princeton.edu/cgi-bin/wa?SUBED1=SmartDrivingCars&A=1)
 
-  [](Mailto:alaink@princeton.edu)[Mailto:alaink@princeton.edu](Mailto:alaink@princeton.edu) [](Mailto:alaink@princeton.edu)
+  [Mailto:alaink@princeton.edu](Mailto:alaink@princeton.edu) 
 
  This list is
                               maintained by [Alain Kornhauser](mailto:alaink@princeton.edu)
-                              and hosted by the [Princeton
-                                University LISTSERV](http://lists.princeton.edu).
+                              and hosted by the [Princeton University LISTSERV](http://lists.princeton.edu).
 
 ***************************************************************************************************************
 

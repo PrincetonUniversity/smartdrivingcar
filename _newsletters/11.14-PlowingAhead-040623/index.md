@@ -36,8 +36,7 @@ and is repeated below…
 It's already happening with military and work vehicles"...
 !  Alain
 
-SmartDrivingCars [ZoomCast
- 312](https://youtu.be/dz__lgmgUeI) / [PodCast 312](https://podcasters.spotify.com/pod/show/smartdrivingcars/episodes/Smart-Driving-Cars--Chinas-Baidu-Apollo-Autonomous-Driving-reports-progress-episode-312-e21m8m1?%24web_only=true&_branch_match_id=1166177748527172987&utm_source=web&utm_campaign=web-share&utm_medium=sharing&_branch_referrer=H4sIAAAAAAAAA8soKSkottLXLy7IL8lMq0zMS87IL9ItT03SSywo0MvJzMvWT9X3zi%2BK9DL2MPeoTAIADwG8PjAAAAA%3D) w/Helen Pen, GM of Baidu Apollo Autonomous Driving USA
+SmartDrivingCars [ZoomCast 312](https://youtu.be/dz__lgmgUeI) / [PodCast 312](https://podcasters.spotify.com/pod/show/smartdrivingcars/episodes/Smart-Driving-Cars--Chinas-Baidu-Apollo-Autonomous-Driving-reports-progress-episode-312-e21m8m1?%24web_only=true&_branch_match_id=1166177748527172987&utm_source=web&utm_campaign=web-share&utm_medium=sharing&_branch_referrer=H4sIAAAAAAAAA8soKSkottLXLy7IL8lMq0zMS87IL9ItT03SSywo0MvJzMvWT9X3zi%2BK9DL2MPeoTAIADwG8PjAAAAA%3D) w/Helen Pen, GM of Baidu Apollo Autonomous Driving USA
 
   F. Fishkin,  April 3, "[#Baidu](https://www.youtube.com/hashtag/baidu)
 [#Apollo](https://www.youtube.com/hashtag/apollo) is now operating in three cities in China including Beijing, providing fully driverless rides to passengers. Helen Pan, GM of Baidu Apollo Autonomous Driving USA joins Alain and and Fred and Jerry
@@ -169,8 +168,7 @@ SmartDrivingCars [ZoomCast
 
 [May 22-24, 2023 | Princeton University, Princeton, NJ](https://www.cartsmobility.com/summit-sponsorship)
 
-[Understanding
- the Business for Driverless Work Vehicles & Finding the Entry Point for a Radical Innovation…   Providing Affordable High-quality Mobility to Those Without a Personal Car.](https://www.cartsmobility.com/)
+[Understanding the Business for Driverless Work Vehicles & Finding the Entry Point for a Radical Innovation…   Providing Affordable High-quality Mobility to Those Without a Personal Car.](https://www.cartsmobility.com/)
 
 The objective of the 6th SmartDrivingCars Summit will be to put the eventual manufacturers of driverless passenger vehicles together with the eventual operators of transportation services to decide
  if there is a business to be made from delivering affordable mobility to a large segment our societies who are underserved by the current options: private cars and public transport.
@@ -222,8 +220,7 @@ To help out, I bid to buy today, the first 2 that you " retire".  As well as of
 Please Don't crush'em all!
 Alain
 
-[Remote Control Excavation,
- Autonomous Hauling & More – #CES2023](https://viodi.com/2023/04/03/remote-control-excavation-autonomous-hauling-more-ces2023/https:/viodi.com/2023/04/03/remote-control-excavation-autonomous-hauling-more-ces2023/)
+[Remote Control Excavation, Autonomous Hauling & More – #CES2023](https://viodi.com/2023/04/03/remote-control-excavation-autonomous-hauling-more-ces2023/https:/viodi.com/2023/04/03/remote-control-excavation-autonomous-hauling-more-ces2023/)
 
 K.. Pyle, April 3, "Opening up the workforce to those who physically wouldn't be able to do the jobs is one of the benefits of Caterpillar's latest generation of products. At CES2023,
  Alan Pumklin, Market Professional, Autonomy and Automation for Caterpillar, gave Viodi a tour of some of their
@@ -249,8 +246,7 @@ It goes beyond the quantitative, however, as autonomous vehicles provide potenti
 [Excellent video](https://youtu.be/Nb-ooV_NVY4).  Also enormously relevant to upcoming  to
 [6th Princeton SmartDrivingCar Summit](https://www.cartsmobility.com/summit-sponsorship).  Alain
 
-  [Here's
- how John Deere's electric robots can plant 6,600 seeds in 3 seconds](https://electrek.co/2023/04/04/john-deere-electric-robots-exactshot/)
+  [Here's how John Deere's electric robots can plant 6,600 seeds in 3 seconds](https://electrek.co/2023/04/04/john-deere-electric-robots-exactshot/)
 
 M. Lewis, April 4, "Agricultural giant John Deere's new tech, ExactShot, enables farmers to use electric robots to plant and fertilize seeds at an incredibly fast and precise pace.
 
@@ -264,8 +260,7 @@ So, citing labor shortages and tight growing time windows, the 186-year-old comp
 [Read  more](https://electrek.co/2023/04/04/john-deere-electric-robots-exactshot/)  Hmmmm…..
  Also enormously relevant to upcoming  to [6th Princeton SmartDrivingCar Summit](6th%20Princeton%20SmartDrivingCar%20Summit).  Alain
 
-   [Baidu
- (BIDU) robotaxis offering fully-driverless rides continue to take over China](https://electrek.co/2023/03/17/baidu-bidu-robotaxi-fully-driverless-rides-china-ev/)
+   [Baidu (BIDU) robotaxis offering fully-driverless rides continue to take over China](https://electrek.co/2023/03/17/baidu-bidu-robotaxi-fully-driverless-rides-china-ev/)
 
 S. Doll, March 17, , "Apollo Go, tech company
 [Baidu's](https://electrek.co/guides/baidu/) robotaxi service, has received a permit to offer fully-driverless rides in Beijing, expanding its autonomous ride-hailing service to three major cities in China. Following the awarded permit, Baidu is
@@ -277,8 +272,7 @@ Baidu has previously been primarily known as a search engine giant in China, but
  Looks like we may need to look to China to lead us into our driverless future  We'll need to pay attention at the upcoming  to
 [6th Princeton SmartDrivingCar Summit](6th%20Princeton%20SmartDrivingCar%20Summit).  Alain
 
- [Richard
- Branson's Virgin Orbit Collapses](https://www.thestreet.com/technology/sir-richard-bransons-virgin-orbit-collapses)
+ [Richard Branson's Virgin Orbit Collapses](https://www.thestreet.com/technology/sir-richard-bransons-virgin-orbit-collapses)
 
 M. Lewis, April 4, "It is a blow that will resonate throughout the British aerospace industry for a long time.
 
@@ -305,8 +299,7 @@ Over the weekend, NASA put two placeholders for WB-57 on April 10 and April 11 f
  Starship's orbital launch.… " [Read  more](https://observer.com/2023/04/spacex-starship-orbital-launch-date/)  Hmmmm…..
  Time for me to get ready to revisit Boca Chica.  Yea!!.  Alain
 
- [Master
- Plan Part 3: Sustainable Energy for All of Earth](https://electrek.co/wp-content/uploads/sites/3/2023/04/Tesla-Master-Plan-Part-3.pdf)
+ [Master Plan Part 3: Sustainable Energy for All of Earth](https://electrek.co/wp-content/uploads/sites/3/2023/04/Tesla-Master-Plan-Part-3.pdf)
 
 F. Maire, April 5, "This paper finds a sustainable energy economy is technically feasible and requires less investment and less material extraction than continuing today's unsustainable
  energy economy. While many prior studies have come to a similar conclusion, this study seeks to push the thinking forward related to material intensity, manufacturing capacity, and manufacturing investment required for a transition across all energy sectors
@@ -315,8 +308,7 @@ F. Maire, April 5, "This paper finds a sustainable energy economy is technically
 
 o absorb here right from the beginning… the enormous amount of waste heat (64%) that our economy produces today. Our cleanest source of energy is reducing waste heat. (Figure 3, p4)Seems so simple?  Alain
 
-[Massive
- Tesla Production Plan Rumors + Ford Mach E Sales Drop](https://www.youtube.com/watch?v=eaWv_W6RbmI)
+[Massive Tesla Production Plan Rumors + Ford Mach E Sales Drop](https://www.youtube.com/watch?v=eaWv_W6RbmI)
 
 R. Maurer, April 4, "
 ➤ Tesla production plan rumors for next-gen vehicle ➤ Tesla to expand FSD Beta in China? ➤ FSD Beta mileage accelerating ➤ China March sales ➤ Tesla opens in Turkey ➤
@@ -347,8 +339,7 @@ Monday Evening, May 22 -> Wednesday 5pm, May 24, 2023
 
 [TRB Automated Transportation Symposium](https://web.cvent.com/event/f9fa585e-9809-4883-b816-4409768c0e0e/websitePage:18647cf2-f444-46d9-8b37-39c723ad529e)
 
-[San Francisco, CA, July
- 9-13](https://web.cvent.com/event/f9fa585e-9809-4883-b816-4409768c0e0e/websitePage:18647cf2-f444-46d9-8b37-39c723ad529e)
+[San Francisco, CA, July 9-13](https://web.cvent.com/event/f9fa585e-9809-4883-b816-4409768c0e0e/websitePage:18647cf2-f444-46d9-8b37-39c723ad529e)
 
 ***
 
@@ -376,8 +367,7 @@ On-line Conference
  January 8, 2023
 
 * SafeDrivingCars:
-Those in which the automated function are explicitly designed to not only substantially reduce driver misbehavior by constraining the performance characteristic such as incorporating  [speed
- governors](https://www.google.com/search?q=speed+governor&rlz=1C1GCEB_enUS791US791&oq=speed+governor&aqs=chrome..69i57j0i512l9.4112j0j7&sourceid=chrome&ie=UTF-8) that only permit excessive speeds in geofenced locations such as
+Those in which the automated function are explicitly designed to not only substantially reduce driver misbehavior by constraining the performance characteristic such as incorporating  [speed governors](https://www.google.com/search?q=speed+governor&rlz=1C1GCEB_enUS791US791&oq=speed+governor&aqs=chrome..69i57j0i512l9.4112j0j7&sourceid=chrome&ie=UTF-8) that only permit excessive speeds in geofenced locations such as
 [Watkins Glen International](https://www.theglen.com/) and stretches of the
 [German Autobahn](https://en.wikipedia.org/wiki/Autobahn), but also
 automatically intervene to prevent crashes; thus, extending what  is done today with
@@ -424,8 +414,7 @@ Those which serve only passengers and/or good from trip start, through finish. 
  October 30, 2022
 
 * Hawkins, Oct. 27, "When Ford announced yesterday that it was pulling its support for Argo AI, the autonomous driving startup it had financed since 2017, it cited as one of its reasons a belief that driver-assist technology will
- have more near-term payoffs....." [Read
- more](https://www.theverge.com/2022/10/27/23426449/ford-argo-ai-driver-assist-level-2-level-3-danger-risk) Hmmmm... I agree with Andrew, as I stated above.  Alain
+ have more near-term payoffs....." [Read more](https://www.theverge.com/2022/10/27/23426449/ford-argo-ai-driver-assist-level-2-level-3-danger-risk) Hmmmm... I agree with Andrew, as I stated above.  Alain
 
               Click ">Sunday,
  October 23, 2022
@@ -448,19 +437,12 @@ Those which serve only passengers and/or good from trip start, through finish. 
               or tap ">Sunday,
  August 28, 2022
 
-* [Tesla FSD Beta
- V 10.69 Dominates Downtown Driving](https://www.youtube.com/watch?v=td24aq5tcKY)
-* [FSD
- Beta 10.69 (2022.16.3.10) Release Notes](https://www.notateslaapp.com/software-updates/version/2022.16.3.10/release-notes)
-* [FSDBeta v10.69
- - HEAVY TRAFFIC - Unprotected Left Turns](https://www.youtube.com/watch?v=xpzJPe1DrzQ)... Amazing that such turns are legal let alone FSD's routing algorithm deicing that this is on the best way to go.  Safety must not be part of its objective function [C'mon
- Elon](https://www.youtube.com/watch?v=GPGY1NG6sNU).
-* [FSD Beta V
- 10.69 Initial Impressions](https://www.youtube.com/watch?v=sP7SEyIakJ8).  My impression is that 10.69 drove better than this tester who seemed intent on driving aggressively and not wanting to yield to pedestrians in crosswalks.  Hopefully no one at Tesla pays attention to this guy.
-* [Bullish News
- From Giga Berlin Tours, Production Rumors, Terrible Toyota](https://www.youtube.com/watch?v=7SoN5N0lTj8)
-* [The Tesla
- Semi Is Officially Here](https://www.youtube.com/watch?v=c6sgX-cnOyI)!
+* [Tesla FSD Beta V 10.69 Dominates Downtown Driving](https://www.youtube.com/watch?v=td24aq5tcKY)
+* [FSD Beta 10.69 (2022.16.3.10) Release Notes](https://www.notateslaapp.com/software-updates/version/2022.16.3.10/release-notes)
+* [FSDBeta v10.69 - HEAVY TRAFFIC - Unprotected Left Turns](https://www.youtube.com/watch?v=xpzJPe1DrzQ)... Amazing that such turns are legal let alone FSD's routing algorithm deicing that this is on the best way to go.  Safety must not be part of its objective function [C'mon Elon](https://www.youtube.com/watch?v=GPGY1NG6sNU).
+* [FSD Beta V 10.69 Initial Impressions](https://www.youtube.com/watch?v=sP7SEyIakJ8).  My impression is that 10.69 drove better than this tester who seemed intent on driving aggressively and not wanting to yield to pedestrians in crosswalks.  Hopefully no one at Tesla pays attention to this guy.
+* [Bullish News From Giga Berlin Tours, Production Rumors, Terrible Toyota](https://www.youtube.com/watch?v=7SoN5N0lTj8)
+* [The Tesla Semi Is Officially Here](https://www.youtube.com/watch?v=c6sgX-cnOyI)!
 
               tap ">Monday,
  August 22, 2022
@@ -498,8 +480,7 @@ Those which serve only passengers and/or good from trip start, through finish. 
 
 * enormous under counting
 
-* likely, only Tesla has the opportunity to either "know all" or sample effectively because of their [OtA
- monitoring](https://www.wired.com/insights/2014/02/teslas-air-fix-best-example-yet-internet-things/) of its vehicles.  Everyone else has conveniently kept their heads in the sand. Mercedes didn't report any; however, during that period I think my Intelligent Cruise Control and Lane Centering were engaged when I hit a deer.  Mercedes
+* likely, only Tesla has the opportunity to either "know all" or sample effectively because of their [OtA monitoring](https://www.wired.com/insights/2014/02/teslas-air-fix-best-example-yet-internet-things/) of its vehicles.  Everyone else has conveniently kept their heads in the sand. Mercedes didn't report any; however, during that period I think my Intelligent Cruise Control and Lane Centering were engaged when I hit a deer.  Mercedes
  must not have been watching me, I didn't report it and I didn't get the memo that informed me to do anything.
 
               or tap">Saturday

@@ -7,8 +7,7 @@ permalink: /2014-04-13-2014-04-13/
 
 April 11, 2014
 
-## [Hands-On: 2015 Hyundai Genesis Flirts with
-                        Autonomous Driving](http://www.chipchick.com/2014/04/2015-hyundai-genesis.html)
+## [Hands-On: 2015 Hyundai Genesis Flirts with Autonomous Driving](http://www.chipchick.com/2014/04/2015-hyundai-genesis.html)
 
                     By Scott Schaen on April 7, "...Lane keep assist
                     worked very well if you're slow to make a slight
@@ -17,14 +16,10 @@ April 11, 2014
                     emergency breaking system would slow you down a lot,
                     but it won't bring you to a complete stop. They're
                     SAFETY features; they're not intended to auto-drive
-                    (yet)..." [Read
-
-                      more](http://www.chipchick.com/2014/04/2015-hyundai-genesis.html)
+                    (yet)..." [Read more](http://www.chipchick.com/2014/04/2015-hyundai-genesis.html)
 
 Hmmm... We should be happy
-                        that they've released something, but [C'mon
-
-                          Man](http://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=4&cad=rja&uact=8&ved=0CDwQtwIwAw&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DN1NwW3GCn7k&ei=XIlJU7uqF4-zsATE34CICg&usg=AFQjCNGtxPW_B_qM_vXj5vCQN-C7B2JxPg&bvm=bv.64542518,d.cWc)... Lane Keeping assist simply is too
+                        that they've released something, but [C'mon Man](http://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=4&cad=rja&uact=8&ved=0CDwQtwIwAw&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DN1NwW3GCn7k&ei=XIlJU7uqF4-zsATE34CICg&usg=AFQjCNGtxPW_B_qM_vXj5vCQN-C7B2JxPg&bvm=bv.64542518,d.cWc)... Lane Keeping assist simply is too
                         little too late.  If they are tracking the lanes
                         sufficiently well to be useful in lane departure
                         nudging then why not add the feedback control
@@ -55,14 +50,9 @@ Hmmm... We should be happy
                         brakes, or stops applying them at some speed, or
                         applies them too lightly so as only do crash
                         mitigation and not go all the way to crash
-                        avoidance.  [C'mon
+                        avoidance.  [C'mon Man](http://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0CC0QtwIwAA&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D6fmMZqfMvuY&ei=XIlJU7uqF4-zsATE34CICg&usg=AFQjCNGptcbj6ifNeJ4V_wvG1O_cRf1Ogw&bvm=bv.64542518,d.cWc)!  This can't be true!  Alain
 
-                          Man](http://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0CC0QtwIwAA&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D6fmMZqfMvuY&ei=XIlJU7uqF4-zsATE34CICg&usg=AFQjCNGptcbj6ifNeJ4V_wvG1O_cRf1Ogw&bvm=bv.64542518,d.cWc)!  This can't be true!  Alain
-
-## [QNX
-
-                        Technology Powers Mission-Critical Systems in
-                        VisLab Autonomous Car Project](http://www.itbusinessnet.com/article/QNX-Technology-Powers-Mission-Critical-Systems-in-VisLab-Autonomous-Car-Project-3172694)
+## [QNX Technology Powers Mission-Critical Systems in VisLab Autonomous Car Project](http://www.itbusinessnet.com/article/QNX-Technology-Powers-Mission-Critical-Systems-in-VisLab-Autonomous-Car-Project-3172694)
 
                     April 8, " 04/08/14 -- QNX Software Systems Limited,
                     a global leader in software platforms for in-car
@@ -74,22 +64,13 @@ Hmmm... We should be happy
                     Parma. These include the systems that perform path
                     and trajectory planning, that provide realtime
                     fusion of laser data and visual data, and that
-                    implement the human machine interface (HMI). "... [Read
+                    implement the human machine interface (HMI). "... [Read more](http://www.itbusinessnet.com/article/QNX-Technology-Powers-Mission-Critical-Systems-in-VisLab-Autonomous-Car-Project-3172694)
 
-                      more](http://www.itbusinessnet.com/article/QNX-Technology-Powers-Mission-Critical-Systems-in-VisLab-Autonomous-Car-Project-3172694)
+## [The 21st Century: Now What?](https://www.ohioinsurance.org/events/15/)
 
-## [The 21st
-                        Century: Now What?](https://www.ohioinsurance.org/events/15/)
+### [Safe Driving Vehicles: a Public Service & Profit Opportunity for the Insurance Industry](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Presentations/OhioInsuranceInst_Seminar_Kornhauser-April2014_URLsV3.pdf)
 
-### [Safe
-
-                        Driving Vehicles: a Public Service & Profit
-                        Opportunity for the Insurance Industry](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Presentations/OhioInsuranceInst_Seminar_Kornhauser-April2014_URLsV3.pdf)
-
-### [Crash
-
-                          Avoidance Systems & Other Advancements in
-                          Vehicle Safety](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Presentations/OhioInsuranceInst_Seminar_Hazelbaker-April2014.pdf)
+### [Crash Avoidance Systems & Other Advancements in Vehicle Safety](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Presentations/OhioInsuranceInst_Seminar_Hazelbaker-April2014.pdf)
 
 ##
 
@@ -98,37 +79,27 @@ Hmmm... We should be happy
 
 ###
 
-### [Driverless Parking for
-                          Tomorrow's Vehicles](http://www.scienceworldreport.com/articles/13823/20140402/driverless-parking-for-tomorrow-s-vehicles.htm)
+### [Driverless Parking for Tomorrow's Vehicles](http://www.scienceworldreport.com/articles/13823/20140402/driverless-parking-for-tomorrow-s-vehicles.htm)
 
-### [Driverless Cars Can Never Be
-                          Crashproof, Physics Says](http://motherboard.vice.com/read/driverless-cars-can-never-be-crashproof-physics-says)
+### [Driverless Cars Can Never Be Crashproof, Physics Says](http://motherboard.vice.com/read/driverless-cars-can-never-be-crashproof-physics-says)
 
-### [Audi
+### [Audi Urban Future explores connected self-driving cars](http://www.slashgear.com/audi-urban-future-explores-connected-self-driving-cars-11324821/)
 
-                          Urban Future explores connected self-driving
-                          cars](http://www.slashgear.com/audi-urban-future-explores-connected-self-driving-cars-11324821/)
-
-### [12
-
-                        autonomous car articles worth reading](http://qnxauto.blogspot.com/2014/04/12-autonomous-car-articles-worth-reading.html)
+### [12 autonomous car articles worth reading](http://qnxauto.blogspot.com/2014/04/12-autonomous-car-articles-worth-reading.html)
 
 ## Calendar of
                 Upcoming Events:
 
-### [2014 IEEE
-              Intelligent Vehicles Symposium](http://www.ieeeiv.net/)
+### [2014 IEEE Intelligent Vehicles Symposium](http://www.ieeeiv.net/)
 
 ### June 8 - 11, 2014, Dearborn, Michigan, USA
 
             Sponsored by the IEEE Intelligent Transportation Systems
             Society
 
-[](http://www.auvsi.org/avs2014/register)
 
 [http://www.auvsi.org/avs2014/register](http://www.auvsi.org/avs2014/register)
 
-[](http://www.auvsi.org/avs2014/register)
 
 # Recent Versions of:
 
@@ -138,33 +109,25 @@ Hmmm... We should be happy
 
 ### [Webinar on the 3DV product](http://www.autonomoustuff.com/vislab-webinar-recording.html)
 
-          Thursday, March 27, 2014  [Video
-
-                of Webinar](http://www.autonomoustuff.com/vislab-webinar-recording.html). Excellent presentation by Prof.
+          Thursday, March 27, 2014  [Video of Webinar](http://www.autonomoustuff.com/vislab-webinar-recording.html). Excellent presentation by Prof.
               Alberto Broggi Alain
 
                 March 28, 2014
 
-### [Millennials&
-
-              Mobility: Understanding the Millennial Mindset](http://www.apta.com/resources/reportsandpublications/Documents/APTA-Millennials-and-Mobility.pdf)
+### [Millennials& Mobility: Understanding the Millennial Mindset](http://www.apta.com/resources/reportsandpublications/Documents/APTA-Millennials-and-Mobility.pdf)
 
           "...millennials, with their relative propensity for urban
           lifestyle components (whether they live in cities or in
           suburbs), dexterity with technology, while starting careers
           during economically constrained times can leave a lasting
-          impact on society...."  [Read
-
-            more](http://www.apta.com/resources/reportsandpublications/Documents/APTA-Millennials-and-Mobility.pdf)
+          impact on society...."  [Read more](http://www.apta.com/resources/reportsandpublications/Documents/APTA-Millennials-and-Mobility.pdf)
                 March 21, 2014
 
 ###
 
 ###
 
-### [Toyota
-
-                Is Fined $1.2 Billion for Concealing Safety Defects](http://www.nytimes.com/2014/03/20/business/toyota-reaches-1-2-billion-settlement-in-criminal-inquiry.html?ref=business)
+### [Toyota Is Fined $1.2 Billion for Concealing Safety Defects](http://www.nytimes.com/2014/03/20/business/toyota-reaches-1-2-billion-settlement-in-criminal-inquiry.html?ref=business)
 
 By BILL
               VLASIC and MATT APUZZOMARCH 19, 2014 "Eric H. Holder Jr.,
@@ -173,9 +136,7 @@ By BILL
               safety defects from the public, calling it "shameful" and
               a "blatant disregard" for the law.  A $1.2 billion
               criminal penalty, the largest ever for a carmaker in the
-              United States, was imposed. [Read
-
-                more](http://www.nytimes.com/2014/03/20/business/toyota-reaches-1-2-billion-settlement-in-criminal-inquiry.html?ref=business)
+              United States, was imposed. [Read more](http://www.nytimes.com/2014/03/20/business/toyota-reaches-1-2-billion-settlement-in-criminal-inquiry.html?ref=business)
 
 Hmmm...
                   As I wrote last week with respect to GM, the industry
@@ -196,9 +157,7 @@ Hmmm...
 
                 March 14, 2014
 
-### [303
-
-              Deaths Seen in G.M. Cars With Failed Air Bags](http://www.nytimes.com/2014/03/14/business/gm-air-bag-failures-linked-to-303-deaths.html?hp&_r=0)
+### [303 Deaths Seen in G.M. Cars With Failed Air Bags](http://www.nytimes.com/2014/03/14/business/gm-air-bag-failures-linked-to-303-deaths.html?hp&_r=0)
 
 By DANIELLE IVORY and HILARY STOUTMARCH 13, 2014  "As
             lawmakers press General Motors and regulators over their
@@ -225,10 +184,7 @@ Hmmm.  Just what
                   from driving.  Maybe this should be called "Apple
                     CarCrash".  Alain
 
-### [New
-
-                    Jersey Rail Ridership Opportunities If aTaxis Are
-                    Available...](http://orfe.princeton.edu/%7Ealaink/NJ_aTaxiOrf467F13/Orf467F13_FinalReports/NJTransit_Report_Almost.pdf)
+### [New Jersey Rail Ridership Opportunities If aTaxis Are Available...](http://orfe.princeton.edu/%7Ealaink/NJ_aTaxiOrf467F13/Orf467F13_FinalReports/NJTransit_Report_Almost.pdf)
 
             A.L. Kornhauser, et al March, 2014 ".... Examined are the
             rail ridership opportunities that NJ Transit (NJT) might
@@ -237,16 +193,11 @@ Hmmm.  Just what
             collection and distribution services would not only shower
             NJT with new customers but they would enable NJT to
             redevelop its parking facilities to more profitable "Transit
-            Village" uses. [Read
-
-              more](http://orfe.princeton.edu/%7Ealaink/NJ_aTaxiOrf467F13/Orf467F13_FinalReports/NJTransit_Report_Almost.pdf)
+            Village" uses. [Read more](http://orfe.princeton.edu/%7Ealaink/NJ_aTaxiOrf467F13/Orf467F13_FinalReports/NJTransit_Report_Almost.pdf)
 
                 February 28, 2014
 
-### [Automated
-
-              cars are coming, but has anyone grasped their
-              implications?](http://www.transportxtra.com/magazines/local_transport_today/opinion/?id=37182)
+### [Automated cars are coming, but has anyone grasped their implications?](http://www.transportxtra.com/magazines/local_transport_today/opinion/?id=37182)
 
 Issue 641 Feb 2014 Scott Le Vine, Centre for Transport
             Studies: "...Autonomous cars, driverless cars, automated
@@ -256,47 +207,34 @@ Issue 641 Feb 2014 Scott Le Vine, Centre for Transport
             development, mock towns are being built to test automation
             concepts, fact-finding hearings are taking place, laws are
             being passed – even international treaties are being
-            re-opened..."  [Read
-
-              more](http://www.transportxtra.com/magazines/local_transport_today/opinion/?id=37182)   This is a
+            re-opened..."  [Read more](http://www.transportxtra.com/magazines/local_transport_today/opinion/?id=37182)   This is a
                 lead/summary of the next item.  Alain
 
                   February 21, 2014
 
-### [Google's
-
-              Project Tango is a smartphone with sensors to map the
-              world around you](http://www.engadget.com/2014/02/20/google-project-tango-smartphone-sensors/)
+### [Google's Project Tango is a smartphone with sensors to map the world around you](http://www.engadget.com/2014/02/20/google-project-tango-smartphone-sensors/)
 
 BY Sarah Silbert @sarahsilbert February 20th, 2014 at
             2:25PM ET "Google's just announced Project Tango, a 5-inch
             Android smartphone prototype equipped with Kinect-like 3D
             sensors and other components to track motion and map your
-            surroundings. ..."  [Read
-
-              more](http://www.engadget.com/2014/02/20/google-project-tango-smartphone-sensors/)
+            surroundings. ..."  [Read more](http://www.engadget.com/2014/02/20/google-project-tango-smartphone-sensors/)
 
                 February 14, 2014v2
 
-### [Imagine:
-
-              A World Where Nobody Owns Their Own Car](http://www.theatlanticcities.com/commute/2014/02/imagine-world-where-nobody-owns-their-own-car/8387/)
+### [Imagine: A World Where Nobody Owns Their Own Car](http://www.theatlanticcities.com/commute/2014/02/imagine-world-where-nobody-owns-their-own-car/8387/)
 
 Eric Jaffe Jan 13, 2014 "...The problem with buying the
             drink today, says Kornhauser, is that the labor cost of
             on-demand taxi service is enormous. As a result, we buy the
             bottle just in case we want a drink. Driverless cars change
-            the whole equation.  [Read
-
-              more](http://www.theatlanticcities.com/commute/2014/02/imagine-world-where-nobody-owns-their-own-car/8387/)
+            the whole equation.  [Read more](http://www.theatlanticcities.com/commute/2014/02/imagine-world-where-nobody-owns-their-own-car/8387/)
 
                 February 9, 2014
 
 ### [Volvo-worldfirst-public-pilot-for-driverless-cars](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Videos/Volvo_TextingMachine.mp4)
 
-I prefer to call this: [Volvo's
-
-                  "Texting Machine" concept video](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Videos/Volvo_TextingMachine.mp4).  It
+I prefer to call this: [Volvo's "Texting Machine" concept video](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Videos/Volvo_TextingMachine.mp4).  It
                 demonstrates very clearly that it is the "NHTSA Level
                 3"   feature that will be needed to make the car as good
                 as transit; otherwise everyone is simply going to take
@@ -305,54 +243,35 @@ I prefer to call this: [Volvo's
                 in my own world doing what I want to do during that
                 whole process.  Without Level 3 I have to be off the
                 grid focused on keeping the hulk between two white lines
-                and not running into things.  Transit wins.  [Play
-
-                  vide](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Videos/Volvo_TextingMachine.mp4)o  Alain
+                and not running into things.  Transit wins.  [Play vide](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Videos/Volvo_TextingMachine.mp4)o  Alain
 
 #
 
                 February 4, 2014
 
-### [U.S.
+### [U.S. Department of Transportation Announces Decision to Move Forward with Vehicle-to-Vehicle Communication Technology for Light Vehicles](http://www.nhtsa.gov/About+NHTSA/Press+Releases/2014/USDOT+to+Move+Forward+with+Vehicle-to-Vehicle+Communication+Technology+for+Light+Vehicles)
 
-              Department of Transportation Announces Decision to Move
-              Forward with Vehicle-to-Vehicle Communication Technology
-              for Light Vehicles](http://www.nhtsa.gov/About+NHTSA/Press+Releases/2014/USDOT+to+Move+Forward+with+Vehicle-to-Vehicle+Communication+Technology+for+Light+Vehicles)
-
-[](http://www.citymobil2.eu/en/About-CityMobil2/Overview/) [European
-
-            Commission agreed upon the demonstration schedule](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Reports&Speaches_External/Demo_timetable-1.pdf)
+ [European Commission agreed upon the demonstration schedule](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Reports&Speaches_External/Demo_timetable-1.pdf)
           Adrianon Alessandrini [adriano.alessandrini@uniroma1.it](mailto:adriano.alessandrini@uniroma1.it)
 [s](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Reports&Speaches_External/Demo_timetable-1.pdf)
 
-## [](https://www.hyundaiusa.com/)
-                    By far the BEST Super Bowl Commercial   [Play
-
-                      video](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Videos/HyundaiSuperBowlCommercial2014.mp4) Alain
+## 
+                    By far the BEST Super Bowl Commercial   [Play video](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Videos/HyundaiSuperBowlCommercial2014.mp4) Alain
 
                 January 26, 2014
 
-### [What
-
-              Will Happen to Public Transit in a World Full of
-              Autonomous Cars?](http://www.theatlanticcities.com/commute/2014/01/what-will-happen-public-transit-world-full-autonomous-cars/8131/)
+### [What Will Happen to Public Transit in a World Full of Autonomous Cars?](http://www.theatlanticcities.com/commute/2014/01/what-will-happen-public-transit-world-full-autonomous-cars/8131/)
 
 by Emily Badger, Jan 17, 2014   "...The great promise
             of autonomous cars is not that we could each own one in our
             own driveway – the 21st century's version of owning your own
             Model T, or your own color TV, or your own bulky Macintosh –
-            but that no one would need to own one at all..." [Read
-
-              more](http://www.theatlanticcities.com/commute/2014/01/what-will-happen-public-transit-world-full-autonomous-cars/8131/) In fact read the whole
-                thing as well as the [266
-
-                      Comments](http://www.theatlanticcities.com/commute/2014/01/what-will-happen-public-transit-world-full-autonomous-cars/8131/#disqus_thread).
+            but that no one would need to own one at all..." [Read more](http://www.theatlanticcities.com/commute/2014/01/what-will-happen-public-transit-world-full-autonomous-cars/8131/) In fact read the whole
+                thing as well as the [266 Comments](http://www.theatlanticcities.com/commute/2014/01/what-will-happen-public-transit-world-full-autonomous-cars/8131/#disqus_thread).
 
                 January 17, 2014
 
-### [Autonomous
-
-              Vehicle Technology:  A Guide for Policymakers](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/PDFs/Rand_Anderson_AutonomousVehicleTechnology.pdf)
+### [Autonomous Vehicle Technology:  A Guide for Policymakers](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/PDFs/Rand_Anderson_AutonomousVehicleTechnology.pdf)
 
 by James M. Anderson, Nidhi Kalra, Karlyn D.
               Stanley, Paul Sorensen, Constantine Samaras, Oluwatobi
@@ -362,9 +281,7 @@ by James M. Anderson, Nidhi Kalra, Karlyn D.
 
                 January 6, 2014
 
-### [Self-Driving
-
-              Cars Moving into the Industry's Driver's Seat](http://press.ihs.com/press-release/automotive/self-driving-cars-moving-industrys-drivers-seat)
+### [Self-Driving Cars Moving into the Industry's Driver's Seat](http://press.ihs.com/press-release/automotive/self-driving-cars-moving-industrys-drivers-seat)
 
 Jan. 2, 2014  "Accident rates will plunge to near
               zero for SDCs, although other cars will crash into SDCs,
@@ -374,17 +291,14 @@ Jan. 2, 2014  "Accident rates will plunge to near
               expected to hit highways around the globe before 2025 and
               self-driving "only" cars are anticipated around 2030,
               according to an emerging technologies study on Autonomous
-              Cars from IHS Automotive, driven by Polk.  [Read
-
-                more](http://press.ihs.com/press-release/automotive/self-driving-cars-moving-industrys-drivers-seat)
+              Cars from IHS Automotive, driven by Polk.  [Read more](http://press.ihs.com/press-release/automotive/self-driving-cars-moving-industrys-drivers-seat)
 
                 December 27, 2013
 
-  [](Mailto:alaink@princeton.edu)[Mailto:alaink@princeton.edu](Mailto:alaink@princeton.edu)[](Mailto:alaink@princeton.edu)
+  [Mailto:alaink@princeton.edu](Mailto:alaink@princeton.edu)
 
  This list is maintained by [Alain Kornhauser](mailto:alaink@princeton.edu) and
-          hosted by the [Princeton
-            University LISTSERV](http://lists.princeton.edu).
+          hosted by the [Princeton University LISTSERV](http://lists.princeton.edu).
 
 [Unsubscribe](https://lists.princeton.edu/cgi-bin/wa?TICKET=NzM1MjMzIGJpbm9AUFJJTkNFVE9OLkVEVSBTTUFSVERSSVZJTkdDQVJTIGluYtYkJuu3&c=SIGNOFF)
           | [Re-subscribe](https://lists.princeton.edu/cgi-bin/wa?TICKET=NzM1MjMzIGJpbm9AUFJJTkNFVE9OLkVEVSBTTUFSVERSSVZJTkdDQVJTIGluYtYkJuu3&c=SIGNUP)

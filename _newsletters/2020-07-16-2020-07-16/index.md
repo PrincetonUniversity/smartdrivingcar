@@ -11,8 +11,7 @@ permalink: /2020-07-16-2020-07-16/
             July 16 @ 2pm New York Time
 
 SAFE
-            invites you to join us for the release of "[Fostering Economic
-              Opportunity through Autonomous Vehicle Technology](https://us02web.zoom.us/webinar/register/5915943028608/WN_bUHzsV9BSm-tJkKQ6QVNqg)",
+            invites you to join us for the release of "[Fostering Economic Opportunity through Autonomous Vehicle Technology](https://us02web.zoom.us/webinar/register/5915943028608/WN_bUHzsV9BSm-tJkKQ6QVNqg)",
             our new paper that addresses how autonomous vehicles (AVs)
             can redress imbalances for low-income communities, whose
             options are limited by inadequacies in today's
@@ -41,8 +40,7 @@ SAFE
             and how AVs and autonomous transit can be part of the
             solution.
 
-[Click here to
-                  register.](https://us02web.zoom.us/webinar/register/5915943028608/WN_bUHzsV9BSm-tJkKQ6QVNqg)
+[Click here to register.](https://us02web.zoom.us/webinar/register/5915943028608/WN_bUHzsV9BSm-tJkKQ6QVNqg)
 
 Posted in [Events](https://secureenergy.org/category/events/)
 
@@ -70,11 +68,8 @@ Monday,
 Popular
             "Shark Tank"
 
-## [Join
-            in Live Zoom-inar](https://drivingthedebate.com/#registration-form)
+## [Join in Live Zoom-inar](https://drivingthedebate.com/#registration-form)
 
-[](https://drivingthedebate.com/#registration-form)
-[](https://drivingthedebate.com/#registration-form)
 
 ### [Monday, July 20 @ 2pm New York Time](https://drivingthedebate.com/#registration-form)
 

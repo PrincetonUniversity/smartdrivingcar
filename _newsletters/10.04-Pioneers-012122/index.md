@@ -262,7 +262,7 @@ Setting the stage for this final session, Michael Sena provided highlights of th
 
 [3rd Session 1/14/21 The SmartDrivingCars We Can Buy Today](https://viodi.com/2021/01/16/where-are-we-on-the-road-to-safe-driving/)
 
-[2nd Session](https://viodi.com/2021/01/08/whats-the-vision-for-the-smart-driving-future/)[1/ 7/21 A Look into the Future](https://viodi.com/2021/01/08/whats-the-vision-for-the-smart-driving-future/)[](https://www.youtube.com/watch?v=pCc9N8o1dys&feature=youtu.be)[1st Session:](https://www.youtube.com/watch?v=pCc9N8o1dys&feature=youtu.be)[](https://www.youtube.com/watch?v=pCc9N8o1dys&feature=youtu.be)[12/17/20](https://www.youtube.com/watch?v=pCc9N8o1dys&feature=youtu.be)[Setting the Stage](https://www.youtube.com/watch?v=pCc9N8o1dys&feature=youtu.be)[](https://www.dropbox.com/s/akvl1klaz3jlgjf/041521_Making%20it%20Happen%20Part%202.pptx)
+[2nd Session](https://viodi.com/2021/01/08/whats-the-vision-for-the-smart-driving-future/)[1/ 7/21 A Look into the Future](https://viodi.com/2021/01/08/whats-the-vision-for-the-smart-driving-future/)[1st Session:](https://www.youtube.com/watch?v=pCc9N8o1dys&feature=youtu.be)[12/17/20](https://www.youtube.com/watch?v=pCc9N8o1dys&feature=youtu.be)[Setting the Stage](https://www.youtube.com/watch?v=pCc9N8o1dys&feature=youtu.be)
 
 [Kornhauser & He, April 2021](https://www.dropbox.com/s/akvl1klaz3jlgjf/041521_Making%20it%20Happen%20Part%202.pptx)"Making it Happen: A Proposal for Providing Affordable, High-quality, On-demand Mobility for All in the "Trentons" of this World"
 
@@ -624,7 +624,7 @@ Be sure to see the white paper [True Impact of ADAS Features on Insurance Claim 
 
 November 12, 2021
 
-[](http://rrdc.com/op_usa_pop_up_metro.html)  
+  
 [First across the Forth – and a royal visit](https://vivarail.co.uk/first-across-the-forth-and-a-royal-visit/)  
 H. Posner, Nov 10, "UK-based rolling stock & battery technology manufacturer Vivarail noted a number of achievements during the first week of the COP26 UN Climate Change Conference in Glasgow. The opening Saturday of the conference on Saturday October 30 saw a historic run across the Firth of Forth, as the first electric train across the iconic bridge.
 
@@ -721,7 +721,7 @@ Princeton University
 Princeton, NJ  
 [alaink@princeton.edu](mailto:alaink@princeton.edu)  
 609-980-1427 (c)  
-[](http://www.princeton.edu)  
+  
 
 ***************************************************************************************************************  
 

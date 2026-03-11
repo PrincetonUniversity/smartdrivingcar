@@ -8,8 +8,7 @@ display_name: "11.41 - Comingtogether"
 
 41st edition of the 11th year of SmartDrivingCars eLetter
 
-[For
- Bill Ford, 'Every Negotiation Is a Roller Coaster'](https://www.nytimes.com/2023/10/18/business/bill-ford-corner-office.html)
+[For Bill Ford, 'Every Negotiation Is a Roller Coaster'](https://www.nytimes.com/2023/10/18/business/bill-ford-corner-office.html)
 
 N. Boudette,  Oct. 18, "As a 25-year-old junior executive at the car company that bears his last name, William Clay Ford Jr '79. had a bracing introduction to labor negotiations when a union official demanded
  that he stand up and vouch that he was made of the same stuff as his great-grandfather Henry Ford.
@@ -45,8 +44,7 @@ You've said the real competition is not U.A.W. vs. Ford but the U.A.W. and Ford 
 
 I hope so, because if they don't, it will be catastrophic. They can have disagreements with us and bargain hard, but we are not the enemy. I will never consider our employees the enemy. I think the employees
  know who the real competition is, and they will come together with us when this is over. We made a conscious decision to add jobs here in America when our competitors were moving production to Mexico...."
-[Read
-  more](https://www.nytimes.com/2023/10/18/business/bill-ford-corner-office.html)  Hmmmm…. I hope Bill
+[Read more](https://www.nytimes.com/2023/10/18/business/bill-ford-corner-office.html)  Hmmmm…. I hope Bill
  invited Will Ford '14 to sit/stand in the room.  I'm sure he also plays hockey with U.A.W. members
 J  Hopefully, both sides can come together and keep the US mobility industry strong.  We need you. Alain
 

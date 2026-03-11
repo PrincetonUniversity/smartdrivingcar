@@ -10,12 +10,9 @@ Such_a_Shame -11/21/23
 
 46th edition of the 11th year of SmartDrivingCars eLetter
 
-[Cruise
- CEO Kyle Vogt Resigns After Weeks Of Crisis](https://www.forbes.com/sites/cyrusfarivar/2023/11/19/cruise-ceo-kyle-vogt-resigns-after-weeks-of-crisis/?sh=1fc0a5c949fb)
+[Cruise CEO Kyle Vogt Resigns After Weeks Of Crisis](https://www.forbes.com/sites/cyrusfarivar/2023/11/19/cruise-ceo-kyle-vogt-resigns-after-weeks-of-crisis/?sh=1fc0a5c949fb)
 
-C. Farivar, Nov.20, "Cruise CEO and co-founder Kyle Vogt resigned Sunday night less than a month after the struggling robotaxi company [lost
- its license](https://www.forbes.com/sites/cyrusfarivar/2023/10/24/california-dmv-halts-cruises-self-driving-robotaxis-statewide/?sh=4d5c6c0e70d3) to operate in California and [paused
- operations](https://www.forbes.com/sites/cyrusfarivar/2023/10/26/cruise-immediately-halts-all-robotaxis-nationwide-seeks-to-rebuild-trust/?sh=444c63de556b) of its autonomous fleet across the country. The subsidiary of General Motors has been widely criticized for an aggressive expansion plan that did not adequately consider safety.…"
+C. Farivar, Nov.20, "Cruise CEO and co-founder Kyle Vogt resigned Sunday night less than a month after the struggling robotaxi company [lost its license](https://www.forbes.com/sites/cyrusfarivar/2023/10/24/california-dmv-halts-cruises-self-driving-robotaxis-statewide/?sh=4d5c6c0e70d3) to operate in California and [paused operations](https://www.forbes.com/sites/cyrusfarivar/2023/10/26/cruise-immediately-halts-all-robotaxis-nationwide-seeks-to-rebuild-trust/?sh=444c63de556b) of its autonomous fleet across the country. The subsidiary of General Motors has been widely criticized for an aggressive expansion plan that did not adequately consider safety.…"
 [Read More](https://www.forbes.com/sites/cyrusfarivar/2023/11/19/cruise-ceo-kyle-vogt-resigns-after-weeks-of-crisis/?sh=1fc0a5c949fb) Hmmmm…. Such a shame! How is it that a totally misbehaving hit and run driver begins a chain reaction that so changes the lives of so many innocent by-standers  by creating such a bizarre previously unimaginable
  situation, when everyone else is trying to do the right thing? We'd better learn as much as possible so that this situation is not repeated ever again.
 
@@ -55,11 +52,9 @@ My point here is that safety is important, but being safer is NOT and should NOT
  car makers install speed governors, breathalyzers, etc.  Driverless systems can deliver so much value to those who need rides from someone else as well as even those that can and do dive themselves rides while being safe that they shouldn't be unfairly burdened
  by unattainable safety hurdles.
 
-The other enormous lesson that we all must learn, or re-learn, is that "[the
- cover up ends up being worse than the crime](https://news.virginia.edu/content/watergate-miller-center-revisits-infamous-cover-worse-crime)".  Alain
+The other enormous lesson that we all must learn, or re-learn, is that "[the cover up ends up being worse than the crime](https://news.virginia.edu/content/watergate-miller-center-revisits-infamous-cover-worse-crime)".  Alain
 
-[Cruise
- Cofounder Dan Kan Resigns Following CEO's Departure](https://www.forbes.com/sites/cyrusfarivar/2023/11/20/cruise-cofounder-dan-kan-resigns-following-ceos-departure/?sh=5a266e4961da)
+[Cruise Cofounder Dan Kan Resigns Following CEO's Departure](https://www.forbes.com/sites/cyrusfarivar/2023/11/20/cruise-cofounder-dan-kan-resigns-following-ceos-departure/?sh=5a266e4961da)
 
 C. Farivar, Nov.20, "On Monday morning, Cruise's cofounder and chief product officer Dan Kan resigned from the company, less than 24 hours after his fellow cofounder and CEO Kyle Vogt announced
  his resignation. …" [Read More](https://www.forbes.com/sites/cyrusfarivar/2023/11/20/cruise-cofounder-dan-kan-resigns-following-ceos-departure/?sh=5a266e4961da) Hmmmm…. Final thought on this: wonder what he and Kyle will do next!  Alain

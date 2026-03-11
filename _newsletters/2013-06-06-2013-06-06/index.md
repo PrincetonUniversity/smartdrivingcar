@@ -5,12 +5,9 @@ date: 2013-06-06
 permalink: /2013-06-06-2013-06-06/
 ---
 
-[Thursday,
+[Thursday, June 6, 2013](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/SDC060613.pdf)
 
-          June 6, 2013](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/SDC060613.pdf)
-
-# [Releases Policy on
-          Automated Vehicle Development](http://www.nhtsa.gov/About+NHTSA/Press+Releases/U.S.+Department+of+Transportation+Releases+Policy+on+Automated+Vehicle+Development)
+# [Releases Policy on Automated Vehicle Development](http://www.nhtsa.gov/About+NHTSA/Press+Releases/U.S.+Department+of+Transportation+Releases+Policy+on+Automated+Vehicle+Development)
 
 # It is certainly nice that US Secretary of Transportation's
         Ray LaHood stated: "Whether we're talking about automated
@@ -119,8 +116,7 @@ dedicated
 
         for anti-communication gizmos that are easily disabled.
 
- [NHTSA Preliminary Statement of Policy
-          Re: Automated Vehicles](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Automated_Vehicles_Policy.pdf) [http://orfe.princeton.edu/~alaink/SmartDrivingCars/Automated_Vehicles_Policy.pdf](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Automated_Vehicles_Policy.pdf) contains the
+ [NHTSA Preliminary Statement of Policy Re: Automated Vehicles](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Automated_Vehicles_Policy.pdf) [http://orfe.princeton.edu/~alaink/SmartDrivingCars/Automated_Vehicles_Policy.pdf](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Automated_Vehicles_Policy.pdf) contains the
         details of this preliminary policy.  I highly recommend that you
         read it.  My
         interpretation is as follows:
@@ -141,14 +137,12 @@ dedicated
 I have 6 more
         points at: [http://orfe.princeton.edu/~alaink/SmartDrivingCars/CommentOnNHTSA_PrelimStatement.pdf](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/CommentOnNHTSA_PrelimStatement.pdf)
 
-### [Self-Driving
-          Cars for Testing Are Supported by U.S.](http://www.nytimes.com/2013/05/31/technology/self-driving-cars-for-testing-are-supported-by-us.html?ref=business)
+### [Self-Driving Cars for Testing Are Supported by U.S.](http://www.nytimes.com/2013/05/31/technology/self-driving-cars-for-testing-are-supported-by-us.html?ref=business)
 The Transportation Department said
         that driverless cars should not yet be allowed, except for
         testing, but noted that some safety features could save lives. [http://www.nytimes.com/2013/05/31/technology/self-driving-cars-for-testing-are-supported-by-us.html?ref=business](http://www.nytimes.com/2013/05/31/technology/self-driving-cars-for-testing-are-supported-by-us.html?ref=business)
 
-[Early
-          Estimate of Motor Vehicle Traffic Fatalities in 2012](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/PDFs/EarlySafetyFacts2012NHTSA.pdf) Not
+[Early Estimate of Motor Vehicle Traffic Fatalities in 2012](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/PDFs/EarlySafetyFacts2012NHTSA.pdf) Not
 
       a pretty picture.  Early estimates show a 5.3%
       increase in fatalities over '11 to 34,080 due to a very large YoY
@@ -181,31 +175,25 @@ The only silver lining may be that these are "estimates" not counts. In the last
           NHTSA's models. My question is: what are the counts of
           fatalities for 2011 and 2012?
 
- Update on PRT:[Heathrow  pod Celebrates its 2nd
-          Anniversary:](http://www.ultraglobalprt.com/2ndanniversary/)
+ Update on PRT:[Heathrow  pod Celebrates its 2nd Anniversary:](http://www.ultraglobalprt.com/2ndanniversary/)
  Back on May 8th the
         Heathrow PRT system between the Business Carpark and Terminal 5
         celebrated its 2nd year of operation in which it has
         logged more than a million vehicle miles of completely safe
         autonomous passenger service (what NHTSA would term as "Level 4
-        Full Self-Driving Automation"; of course, the [Morgantown
-
-          PRT](http://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=18&ved=0CFIQFjAHOAo&url=http%3A%2F%2Fwww.docstoc.com%2Fdocs%2F132126930%2FMorgantown-Personal-Rapid-Transit-%28M-PRT%29&ei=quurUdSAHIXG4APKpoCYCA&usg=AFQjCNG8iNdkf3InV9PbMrkNQo4gccxE4A&bvm=bv.47244034,d.dmg&cad=rja)
+        Full Self-Driving Automation"; of course, the [Morgantown PRT](http://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=18&ved=0CFIQFjAHOAo&url=http%3A%2F%2Fwww.docstoc.com%2Fdocs%2F132126930%2FMorgantown-Personal-Rapid-Transit-%28M-PRT%29&ei=quurUdSAHIXG4APKpoCYCA&usg=AFQjCNG8iNdkf3InV9PbMrkNQo4gccxE4A&bvm=bv.47244034,d.dmg&cad=rja)
         system has logged more than 25 million vehicles mile since its
         introduction in 1975, all without any accidents causing serious
         injury).  Heathrow
 Airport
 
-        Limited's business plan for the next five years ([April
-          2014-2019, also known as Q6](http://orfe.princeton.edu/%7Ealaink/PRT/Q6_Heathrow_Full_Business_Plan.pdf))
+        Limited's business plan for the next five years ([April 2014-2019, also known as Q6](http://orfe.princeton.edu/%7Ealaink/PRT/Q6_Heathrow_Full_Business_Plan.pdf))
         includes an additional Personal Rapid Transit (PRT) system. The
         proposed system which will run from Terminals 2 & 3 out to
         the terminal's own particular business car parks will aid
         Heathrow Airport Limited in its vision to create a far simpler
-        Central Terminal Area for passengers.  Also, the [Amritsar India
-          PRT](http://www.ultraglobalprt.com/wheres-it-used/amritsar-india/)
-        remains on the "Project Pipeline" of the [Punjab
-          Infrastructure Development Board](http://pidb.winwinhosting.net/Content.aspx?ID=ph9YTJHIYcI=)
+        Central Terminal Area for passengers.  Also, the [Amritsar India PRT](http://www.ultraglobalprt.com/wheres-it-used/amritsar-india/)
+        remains on the "Project Pipeline" of the [Punjab Infrastructure Development Board](http://pidb.winwinhosting.net/Content.aspx?ID=ph9YTJHIYcI=)
         but has not moved to it "Projects Started" category on Board's
         website.  At least it is
         still in the "pipeline".

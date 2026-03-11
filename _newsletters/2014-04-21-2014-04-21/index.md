@@ -7,16 +7,13 @@ permalink: /2014-04-21-2014-04-21/
 
 April 18, 2014
 
-## [Should autonomous cars behave like automatons or
-                      act like human drivers?](http://gigaom.com/2014/04/18/should-autonomous-cars-behave-like-automatons-or-act-like-human-drivers/)
+## [Should autonomous cars behave like automatons or act like human drivers?](http://gigaom.com/2014/04/18/should-autonomous-cars-behave-like-automatons-or-act-like-human-drivers/)
 
                   Kevin Fitchard  Apr. 18  "Eventually autonomous cars
                   will change the rules of the road, packing themselves
                   onto streets and highways in the most efficient way
                   possible. But the first autonomous cars will need to
-                  drive as badly as humans." [Read
-
-                    more](http://gigaom.com/2014/04/18/should-autonomous-cars-behave-like-automatons-or-act-like-human-drivers/)
+                  drive as badly as humans." [Read more](http://gigaom.com/2014/04/18/should-autonomous-cars-behave-like-automatons-or-act-like-human-drivers/)
 
 Hmm... An interesting
                       beginning to a very serious discussion as to what
@@ -68,13 +65,10 @@ Hmm... An interesting
 ## Newly
                     Available Drafts of Recent Student Theses
 
-### Wyrough, Alexander Penn Hill Jr.: [A
-                      National Disaggregate Transportation Demand Model
-                      for the Analysis of autonomousTaxi Systems](http://orfe.princeton.edu/%7Ealaink/Theses/SeniorTheses%2714/Draft-Wyrough_NoationalDisaggregateTripSynthesizer.pdf)
+### Wyrough, Alexander Penn Hill Jr.: [A National Disaggregate Transportation Demand Model for the Analysis of autonomousTaxi Systems](http://orfe.princeton.edu/%7Ealaink/Theses/SeniorTheses%2714/Draft-Wyrough_NoationalDisaggregateTripSynthesizer.pdf)
 
 Abstract:  Extended to the entire United
-                    States is[Mufti's New Jersey-centric disaggregate personal
-                      trip synthesizer](http://orfe.princeton.edu/%7Ealaink/Theses/T%20Mufti%20MSE.pdf).  Using data drawn from the
+                    States is[Mufti's New Jersey-centric disaggregate personal trip synthesizer](http://orfe.princeton.edu/%7Ealaink/Theses/T%20Mufti%20MSE.pdf).  Using data drawn from the
                     U.S. 2010 Census, as well as other sources, are used
                     to synthesize 308,745,538  individuals with specific
                     personal attributes that match census block profiles
@@ -93,15 +87,9 @@ Abstract:  Extended to the entire United
                     (b) exceed the accessibility of mass transit, and
                     (c) deliver wide-ranging benefits such as alleviated
                     congestion, substantially reduced pollution and
-                    energy needs, and increased vehicle safety. [Read
+                    energy needs, and increased vehicle safety. [Read mor](http://orfe.princeton.edu/%7Ealaink/Theses/SeniorTheses%2714/Draft-Wyrough_NoationalDisaggregateTripSynthesizer.pdf)e
 
-                      mor](http://orfe.princeton.edu/%7Ealaink/Theses/SeniorTheses%2714/Draft-Wyrough_NoationalDisaggregateTripSynthesizer.pdf)e
-
-### Lee, Eileen: [Uncovering
-
-                      Systemic Corruption in the ER:An Empirical
-                      Analysis of Motor Vehicle-Related Hospital Bill
-                      and their Impact on Insurance Companies](http://orfe.princeton.edu/%7Ealaink/Theses/SeniorTheses%2714/Draft-Lee_UncoveringSystematicCorruptionInTheER.pdf)
+### Lee, Eileen: [Uncovering Systemic Corruption in the ER:An Empirical Analysis of Motor Vehicle-Related Hospital Bill and their Impact on Insurance Companies](http://orfe.princeton.edu/%7Ealaink/Theses/SeniorTheses%2714/Draft-Lee_UncoveringSystematicCorruptionInTheER.pdf)
 
 Abstract: With the advent of automated and
                   assisted vehicle technology, the prospect of
@@ -122,14 +110,9 @@ Abstract: With the advent of automated and
                   ER from a motor vehicle accident. Differences in
                   services for treating patients show hospital bias
                   toward automobile insurers who provide generous
-                  reimbursements in New Jersey  [Read
-                    more](http://orfe.princeton.edu/%7Ealaink/Theses/SeniorTheses%2714/Draft-Lee_UncoveringSystematicCorruptionInTheER.pdf)
+                  reimbursements in New Jersey  [Read more](http://orfe.princeton.edu/%7Ealaink/Theses/SeniorTheses%2714/Draft-Lee_UncoveringSystematicCorruptionInTheER.pdf)
 
-### Sun, Zhuyi (Judy): [Causal
-
-                      Price Discrimination: An Analysis of the
-                      Healthcare Costs Associated with Motor Vehicle and
-                      Transportation Collisions](http://orfe.princeton.edu/%7Ealaink/Theses/SeniorTheses%2714/Draft-Sun_CausalPriceDiscrimination.pdf)
+### Sun, Zhuyi (Judy): [Causal Price Discrimination: An Analysis of the Healthcare Costs Associated with Motor Vehicle and Transportation Collisions](http://orfe.princeton.edu/%7Ealaink/Theses/SeniorTheses%2714/Draft-Sun_CausalPriceDiscrimination.pdf)
 
 Abstract:  Because the prices paid for goods
                     and services in the United States healthcare system
@@ -141,14 +124,9 @@ c brand of
                     cause of visit. Speci
 cally, this study analyzes the
                     healthcare costs associated with motor vehicle and
-                    transportation (MVT) collisions.  [Read
+                    transportation (MVT) collisions.  [Read more](http://orfe.princeton.edu/%7Ealaink/Theses/SeniorTheses%2714/Draft-Sun_CausalPriceDiscrimination.pdf)
 
-                      more](http://orfe.princeton.edu/%7Ealaink/Theses/SeniorTheses%2714/Draft-Sun_CausalPriceDiscrimination.pdf)
-
-### Rhodes, Brandon Xavier: [An
-
-                      Analysis  of  Economically  Efficient  Insurance
-                      Schemes  for  Automated  Vehicle](http://orfe.princeton.edu/%7Ealaink/Theses/SeniorTheses%2714/Draft-Rhodes_InsuranceSchemesForAutomatedVehicles.pdf)
+### Rhodes, Brandon Xavier: [An Analysis  of  Economically  Efficient  Insurance Schemes  for  Automated  Vehicle](http://orfe.princeton.edu/%7Ealaink/Theses/SeniorTheses%2714/Draft-Rhodes_InsuranceSchemesForAutomatedVehicles.pdf)
 
 Abstract: Automated vehicles have the potential
                   to have a profound impact on the automobile insurance
@@ -175,14 +153,9 @@ Abstract: Automated vehicles have the potential
                   insurance claims are examined. The thesis concludes
                   with a theoretical analysis of the impact automation
                   systems will have on various sectors of the economy
-                  once they achieve greater market penetration. [Read
+                  once they achieve greater market penetration. [Read more](http://orfe.princeton.edu/%7Ealaink/Theses/SeniorTheses%2714/Draft-Rhodes_InsuranceSchemesForAutomatedVehicles.pdf)
 
-                    more](http://orfe.princeton.edu/%7Ealaink/Theses/SeniorTheses%2714/Draft-Rhodes_InsuranceSchemesForAutomatedVehicles.pdf)
-
-### Ding, Amy: [Autonomous
-
-                      Transit Systems in Practice: An Exploration in
-                      Door-to-Door Transit in North San Jose](http://orfe.princeton.edu/%7Ealaink/Theses/SeniorTheses%2714/Draft-Ding_AutonomousTransitSystemsInPracticeAnExplorationinDoor-to-doorTransitinNorthSanJose.pdf)
+### Ding, Amy: [Autonomous Transit Systems in Practice: An Exploration in Door-to-Door Transit in North San Jose](http://orfe.princeton.edu/%7Ealaink/Theses/SeniorTheses%2714/Draft-Ding_AutonomousTransitSystemsInPracticeAnExplorationinDoor-to-doorTransitinNorthSanJose.pdf)
 
 Abstract:  Although Personal Rapid Transit
                     (PRT) and autonomous vehicle technologies have
@@ -199,14 +172,9 @@ Abstract:  Although Personal Rapid Transit
                     interested in investing in a new autonomous transit
                     system, to serve as examples that will push forward
                     national adoption and the creation of more
-                    successful planned communities.  [Read
+                    successful planned communities.  [Read more](http://orfe.princeton.edu/%7Ealaink/Theses/SeniorTheses%2714/Draft-Ding_AutonomousTransitSystemsInPracticeAnExplorationinDoor-to-doorTransitinNorthSanJose.pdf)
 
-                      more](http://orfe.princeton.edu/%7Ealaink/Theses/SeniorTheses%2714/Draft-Ding_AutonomousTransitSystemsInPracticeAnExplorationinDoor-to-doorTransitinNorthSanJose.pdf)
-
-## [MIT
-
-                      And Stanford Researchers Show Robotaxis Could
-                      Replace Private Cars And Public Transit](http://www.forbes.com/sites/chunkamui/2014/04/17/mit-and-stanford-researchers-show-robotaxis-could-replace-private-cars-and-public-transit/)
+## [MIT And Stanford Researchers Show Robotaxis Could Replace Private Cars And Public Transit](http://www.forbes.com/sites/chunkamui/2014/04/17/mit-and-stanford-researchers-show-robotaxis-could-replace-private-cars-and-public-transit/)
 
                    Chunka Mui Apr. 17 "...Someday, when fully autonomous
                   vehicles are a reality, private car ownership and
@@ -238,13 +206,9 @@ Abstract:  Although Personal Rapid Transit
                   time with this fleet size is about 30 minutes during
                   rush hours—and significantly lower during non-peak
                   periods. Travel times would approximate current
-                  times...."[Read
+                  times...."[Read more](http://www.forbes.com/sites/chunkamui/2014/04/17/mit-and-stanford-researchers-show-robotaxis-could-replace-private-cars-and-public-transit/)
 
-                    more](http://www.forbes.com/sites/chunkamui/2014/04/17/mit-and-stanford-researchers-show-robotaxis-could-replace-private-cars-and-public-transit/)
-
-hmmm... Chunka refers to the [following
-
-                        paper](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Reports&Speaches_External/MIT_Singapore_Spieser.pdf) and most of the comments are on the
+hmmm... Chunka refers to the [following paper](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Reports&Speaches_External/MIT_Singapore_Spieser.pdf) and most of the comments are on the
                       source paper, below; however,  while aTaxis "could
                       handle" all trips, so could the existing public
                       transportation system.  It would just mean more
@@ -255,11 +219,7 @@ hmmm... Chunka refers to the [following
                       that the authors discarded walking, scooters and
                       trains for trips that are actually best served in
                       whole or in part by these existing modes of
-                      transport.  In [our
-
-                        investigation of the opportunities for aTaxis to
-                        serve all New Jersey's 32 million daily
-                        person-trips](http://orfe.princeton.edu/%7Ealaink/NJ_aTaxiOrf467F13/Orf467F13_FinalReports/NJTransit_Report_Almost.pdf) we found that about 2.2 million
+                      transport.  In [our investigation of the opportunities for aTaxis to serve all New Jersey's 32 million daily person-trips](http://orfe.princeton.edu/%7Ealaink/NJ_aTaxiOrf467F13/Orf467F13_FinalReports/NJTransit_Report_Almost.pdf) we found that about 2.2 million
                       walked or cycled and only 0.044 million used just
                       the rail system (accessing both trips ends using
                       walking to/from the train station); however, 1.4
@@ -281,11 +241,7 @@ hmmm... Chunka refers to the [following
 
 ###
 
-## [Toward
-
-                    a Systematic Approach to the Design and Evaluation
-                    of Automated Mobility-on-Demand Systems: A Case
-                    Study in Singapore](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Reports&Speaches_External/MIT_Singapore_Spieser.pdf)
+## [Toward a Systematic Approach to the Design and Evaluation of Automated Mobility-on-Demand Systems: A Case Study in Singapore](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Reports&Speaches_External/MIT_Singapore_Spieser.pdf)
 
 April, 2014  Author: Spieser, Kevin; Treleaven, Kyle;
                   Zhang, Rick; Frazzoli, Emilio; Morton, Daniel; Pavone,
@@ -307,16 +263,12 @@ April, 2014  Author: Spieser, Kevin; Treleaven, Kyle;
                   solution can meet the personal mobility needs of the
                   entire population with a fleet whose size is
                   approximately 1/3 of the total number of passenger
-                  vehicles currently in operation."  [Read
-
-                    more](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Reports&Speaches_External/MIT_Singapore_Spieser.pdf)
+                  vehicles currently in operation."  [Read more](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Reports&Speaches_External/MIT_Singapore_Spieser.pdf)
 
 First a comment from Scott Le
                     Vine, Imperial College London:
 
-                    1. The [Forbes
-
-                      article](http://www.forbes.com/sites/chunkamui/2014/04/17/mit-and-stanford-researchers-show-robotaxis-could-replace-private-cars-and-public-transit/) is grandly-titled, but neither the [academic-paper](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Reports&Speaches_External/MIT_Singapore_Spieser.pdf)
+                    1. The [Forbes article](http://www.forbes.com/sites/chunkamui/2014/04/17/mit-and-stanford-researchers-show-robotaxis-could-replace-private-cars-and-public-transit/) is grandly-titled, but neither the [academic-paper](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Reports&Speaches_External/MIT_Singapore_Spieser.pdf)
                     nor the article actually 'show' what the
                     article-title says is shown.  For me to be convinced
                     that I've been 'shown' that robotaxis can replace
@@ -414,19 +366,16 @@ Alain's comment:  I, of
 ## Calendar of
               Upcoming Events:
 
-### [2014 IEEE
-            Intelligent Vehicles Symposium](http://www.ieeeiv.net/)
+### [2014 IEEE Intelligent Vehicles Symposium](http://www.ieeeiv.net/)
 
 ### June 8 - 11, 2014, Dearborn, Michigan, USA
 
           Sponsored by the IEEE Intelligent Transportation Systems
           Society
 
-[](http://www.auvsi.org/avs2014/register)
 
 [http://www.auvsi.org/avs2014/register](http://www.auvsi.org/avs2014/register)
 
-[](http://www.auvsi.org/avs2014/register)
 
 # Recent Versions of:
 
@@ -440,41 +389,31 @@ Alain's comment:  I, of
         the bigger turns. Similarly, smart cruise control and the
         automatic emergency breaking system would slow you down a lot,
         but it won't bring you to a complete stop. They're SAFETY
-        features; they're not intended to auto-drive (yet)..." [Read
-
-          more](http://www.chipchick.com/2014/04/2015-hyundai-genesis.html)
+        features; they're not intended to auto-drive (yet)..." [Read more](http://www.chipchick.com/2014/04/2015-hyundai-genesis.html)
 
               April 4, 2014
 
 ### [Webinar on the 3DV product](http://www.autonomoustuff.com/vislab-webinar-recording.html)
 
-        Thursday, March 27, 2014  [Video
-
-              of Webinar](http://www.autonomoustuff.com/vislab-webinar-recording.html). Excellent presentation by Prof.
+        Thursday, March 27, 2014  [Video of Webinar](http://www.autonomoustuff.com/vislab-webinar-recording.html). Excellent presentation by Prof.
             Alberto Broggi Alain
 
               March 28, 2014
 
-### [Millennials&
-
-            Mobility: Understanding the Millennial Mindset](http://www.apta.com/resources/reportsandpublications/Documents/APTA-Millennials-and-Mobility.pdf)
+### [Millennials& Mobility: Understanding the Millennial Mindset](http://www.apta.com/resources/reportsandpublications/Documents/APTA-Millennials-and-Mobility.pdf)
 
         "...millennials, with their relative propensity for urban
         lifestyle components (whether they live in cities or in
         suburbs), dexterity with technology, while starting careers
         during economically constrained times can leave a lasting impact
-        on society...."  [Read
-
-          more](http://www.apta.com/resources/reportsandpublications/Documents/APTA-Millennials-and-Mobility.pdf)
+        on society...."  [Read more](http://www.apta.com/resources/reportsandpublications/Documents/APTA-Millennials-and-Mobility.pdf)
               March 21, 2014
 
 ###
 
 ###
 
-### [Toyota
-
-              Is Fined $1.2 Billion for Concealing Safety Defects](http://www.nytimes.com/2014/03/20/business/toyota-reaches-1-2-billion-settlement-in-criminal-inquiry.html?ref=business)
+### [Toyota Is Fined $1.2 Billion for Concealing Safety Defects](http://www.nytimes.com/2014/03/20/business/toyota-reaches-1-2-billion-settlement-in-criminal-inquiry.html?ref=business)
 
 By BILL VLASIC and MATT APUZZOMARCH
             19, 2014 "Eric H. Holder Jr., the United States attorney
@@ -482,9 +421,7 @@ By BILL VLASIC and MATT APUZZOMARCH
             Toyota's behavior in hiding safety defects from the public,
             calling it "shameful" and a "blatant disregard" for the
             law.  A $1.2 billion criminal penalty, the largest ever for
-            a carmaker in the United States, was imposed. [Read
-
-              more](http://www.nytimes.com/2014/03/20/business/toyota-reaches-1-2-billion-settlement-in-criminal-inquiry.html?ref=business)
+            a carmaker in the United States, was imposed. [Read more](http://www.nytimes.com/2014/03/20/business/toyota-reaches-1-2-billion-settlement-in-criminal-inquiry.html?ref=business)
 
 Hmmm...  As I wrote last week with
                 respect to GM, the industry can not respond in this
@@ -505,9 +442,7 @@ Hmmm...  As I wrote last week with
 
               March 14, 2014
 
-### [303
-
-            Deaths Seen in G.M. Cars With Failed Air Bags](http://www.nytimes.com/2014/03/14/business/gm-air-bag-failures-linked-to-303-deaths.html?hp&_r=0)
+### [303 Deaths Seen in G.M. Cars With Failed Air Bags](http://www.nytimes.com/2014/03/14/business/gm-air-bag-failures-linked-to-303-deaths.html?hp&_r=0)
 
 By DANIELLE IVORY and HILARY STOUTMARCH 13, 2014  "As
           lawmakers press General Motors and regulators over their
@@ -534,10 +469,7 @@ Hmmm.  Just what
 
               Alain
 
-### [New
-
-                  Jersey Rail Ridership Opportunities If aTaxis Are
-                  Available...](http://orfe.princeton.edu/%7Ealaink/NJ_aTaxiOrf467F13/Orf467F13_FinalReports/NJTransit_Report_Almost.pdf)
+### [New Jersey Rail Ridership Opportunities If aTaxis Are Available...](http://orfe.princeton.edu/%7Ealaink/NJ_aTaxiOrf467F13/Orf467F13_FinalReports/NJTransit_Report_Almost.pdf)
 
           A.L. Kornhauser, et al March, 2014 ".... Examined are the rail
           ridership opportunities that NJ Transit (NJT) might enjoy if
@@ -545,15 +477,12 @@ Hmmm.  Just what
           customers to or from its rail stations.  Such collection and
           distribution services would not only shower NJT with new
           customers but they would enable NJT to redevelop its parking
-          facilities to more profitable "Transit Village" uses. [Read
+          facilities to more profitable "Transit Village" uses. [Read more](http://orfe.princeton.edu/%7Ealaink/NJ_aTaxiOrf467F13/Orf467F13_FinalReports/NJTransit_Report_Almost.pdf)
 
-            more](http://orfe.princeton.edu/%7Ealaink/NJ_aTaxiOrf467F13/Orf467F13_FinalReports/NJTransit_Report_Almost.pdf)
-
-  [](Mailto:alaink@princeton.edu)[Mailto:alaink@princeton.edu](Mailto:alaink@princeton.edu)[](Mailto:alaink@princeton.edu)
+  [Mailto:alaink@princeton.edu](Mailto:alaink@princeton.edu)
 
  This list is maintained by [Alain Kornhauser](mailto:alaink@princeton.edu) and
-        hosted by the [Princeton
-          University LISTSERV](http://lists.princeton.edu).
+        hosted by the [Princeton University LISTSERV](http://lists.princeton.edu).
 
 [Unsubscribe](https://lists.princeton.edu/cgi-bin/wa?TICKET=NzM1MjMzIGJpbm9AUFJJTkNFVE9OLkVEVSBTTUFSVERSSVZJTkdDQVJTIGluYtYkJuu3&c=SIGNOFF)
         | [Re-subscribe](https://lists.princeton.edu/cgi-bin/wa?TICKET=NzM1MjMzIGJpbm9AUFJJTkNFVE9OLkVEVSBTTUFSVERSSVZJTkdDQVJTIGluYtYkJuu3&c=SIGNUP)

@@ -7,10 +7,7 @@ permalink: /2014-10-10-2014-10-10/
 
 October 10, 2014
 
-## [Inaugural
-
-                                              Automated Vehicle Summit @
-                                              Fort Monmouth](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/FtMonmouth/InauguralFtMonmouthPressRelease.pdf)
+## [Inaugural Automated Vehicle Summit @ Fort Monmouth](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/FtMonmouth/InauguralFtMonmouthPressRelease.pdf)
 
 Press
                                             release.Oct 9, 2014
@@ -47,18 +44,11 @@ Press
                                             Assemblyman Declan
                                             O'Scanlon, Jr. represented
                                             New Jersey's legislative
-                                            bodies..." [Read
-
-                                              more](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/FtMonmouth/InauguralFtMonmouthPressRelease.pdf)   Hmmm..Progress!
+                                            bodies..." [Read more](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/FtMonmouth/InauguralFtMonmouthPressRelease.pdf)   Hmmm..Progress!
 
                                                 Alain
 
-## [A
-                                              Driverless Alternative:
-                                              Fleet Size and Cost
-                                              Requirements for a
-                                              Statewide Autonomous Taxi
-                                              Network in New Jersey](http://trid.trb.org/view/1325328)
+## [A Driverless Alternative: Fleet Size and Cost Requirements for a Statewide Autonomous Taxi Network in New Jersey](http://trid.trb.org/view/1325328)
 
 Chris
                                               Brownell and Alain
@@ -95,17 +85,11 @@ Chris
                                               demand in its entirety, at
                                               a cost to consumers of
                                               $16.30 to $23.50 per
-                                              person per day."  [Read
-
-                                              more](http://www.princeton.edu/%7Ealaink/Orf467F14/Brownell_TRB_Paper_FINAL.pdf) Hmmm...
+                                              person per day."  [Read more](http://www.princeton.edu/%7Ealaink/Orf467F14/Brownell_TRB_Paper_FINAL.pdf) Hmmm...
                                                 Interesting.
                                                 Alain
 
-## [Impacts
-
-                                              of Future Vehicle
-                                              Technologies on
-                                              Infrastructure and Design](http://tac-atc.ca/sites/tac-atc.ca/files/site/conference/finalprogram-detailed-web.pdf)
+## [Impacts of Future Vehicle Technologies on Infrastructure and Design](http://tac-atc.ca/sites/tac-atc.ca/files/site/conference/finalprogram-detailed-web.pdf)
 
 Alain
                                               Kornhauser, September 29,
@@ -125,15 +109,9 @@ Alain
                                               technology has any chance
                                               of being useful.  The
                                               public sector simply isn't
-                                              that rich.   ..."  [The
+                                              that rich.   ..."  [The Slides](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Presentations/KornhauserTAC2014Montreal.pdf)
 
-                                                Slides](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Presentations/KornhauserTAC2014Montreal.pdf)
-
-## [America's
-
-                                              10 Best Cities f or
-                                              Commuting on Public
-                                              Transit](http://www.wired.com/2014/10/americas-10-best-cities-commuting-public-transit/)
+## [America's 10 Best Cities f or Commuting on Public Transit](http://www.wired.com/2014/10/americas-10-best-cities-commuting-public-transit/)
 
 Alex
                                               Davies  10.09.14 "...The
@@ -194,19 +172,12 @@ The
                                               frequency and includes the
                                               time people spend waiting
                                               for a bus or train to
-                                              arrive.  [Read
-
-                                              more](http://www.wired.com/2014/10/americas-10-best-cities-commuting-public-transit/) Hmmm,...
+                                              arrive.  [Read more](http://www.wired.com/2014/10/americas-10-best-cities-commuting-public-transit/) Hmmm,...
 
                                                 This is REALLY
-                                                interesting!!!  [Read
+                                                interesting!!!  [Read the report](http://www.access.umn.edu/research/america/transit2014/index.html).  Alain
 
-                                                  the report](http://www.access.umn.edu/research/america/transit2014/index.html).  Alain
-
-## [What
-                                                Old Transit Maps Can
-                                                Teach Us About a City's
-                                                Future](http://www.citylab.com/commute/2014/10/what-old-transit-maps-can-teach-us-about-a-citys-future/381149/)
+## [What Old Transit Maps Can Teach Us About a City's Future](http://www.citylab.com/commute/2014/10/what-old-transit-maps-can-teach-us-about-a-citys-future/381149/)
 
 Kyle
                                               Shelton 10/10/2014 "...
@@ -272,9 +243,7 @@ Kyle
                                               many of these
                                               once-rejected,
                                               later-constructed routes.
-                                              ..."  [Read
-
-                                                more](http://www.citylab.com/commute/2014/10/what-old-transit-maps-can-teach-us-about-a-citys-future/381149/)
+                                              ..."  [Read more](http://www.citylab.com/commute/2014/10/what-old-transit-maps-can-teach-us-about-a-citys-future/381149/)
 
 Hmmm
 
@@ -304,11 +273,7 @@ Hmmm
                                                 even better form of
                                                 mobility.  Alain
 
-## [Mercedes
-
-                                                Is Making a Self-Driving
-                                                Semi to Change the
-                                                Future of Shipping](http://www.wired.com/2014/10/mercedes-making-self-driving-semi-change-future-shipping/)
+## [Mercedes Is Making a Self-Driving Semi to Change the Future of Shipping](http://www.wired.com/2014/10/mercedes-making-self-driving-semi-change-future-shipping/)
 
 By Alex
                                             Davies  10.07.14 "  n the
@@ -341,9 +306,7 @@ By Alex
                                             truck sounds an alarm, and
                                             if necessary can bring
                                             itself to "a controlled
-                                            emergency stop."..."  [Read
-
-                                              more](http://www.wired.com/2014/10/mercedes-making-self-driving-semi-change-future-shipping/)  Hmmm
+                                            emergency stop."..."  [Read more](http://www.wired.com/2014/10/mercedes-making-self-driving-semi-change-future-shipping/)  Hmmm
                                                 This is somewhat a
                                                 repeat, but one that
                                                 deserves to be taken
@@ -359,8 +322,7 @@ By Alex
                                                 Motor Carrier CFO, CEO
                                                 and shareholder.  Alain
 
-## [Jaguar joins the race to
-                                                driverless cars](http://www.drive.com.au/motor-news/jaguar-joins-the-race-to-driverless-cars-20141003-10ply7.html)
+## [Jaguar joins the race to driverless cars](http://www.drive.com.au/motor-news/jaguar-joins-the-race-to-driverless-cars-20141003-10ply7.html)
 
  Jonathan
 
@@ -385,10 +347,7 @@ By Alex
                                               he said..."[Read more](http://www.drive.com.au/motor-news/jaguar-joins-the-race-to-driverless-cars-20141003-10ply7.html)  Hmmm...
                                                 Why so cautious? Alain
 
-## [Restating
-
-                                                NHTSA's NMVCCS for
-                                                Automated Vehicles](http://www.casact.org/pubs/forum/14fforum/CAS%20AVTF_Restated_NMVCCS.pdf)
+## [Restating NHTSA's NMVCCS for Automated Vehicles](http://www.casact.org/pubs/forum/14fforum/CAS%20AVTF_Restated_NMVCCS.pdf)
 
 Oct.
                                               1, 2014 "NHTSA concluded
@@ -448,9 +407,7 @@ Oct.
                                               safety concerns, as
                                               automation introduces
                                               additional risks to
-                                              consider. ..."  [Read
-
-                                                more](http://www.casact.org/pubs/forum/14fforum/CAS%20AVTF_Restated_NMVCCS.pdf)
+                                              consider. ..."  [Read more](http://www.casact.org/pubs/forum/14fforum/CAS%20AVTF_Restated_NMVCCS.pdf)
 
 Hmmm...
 
@@ -467,18 +424,12 @@ Hmmm...
                                                 magnitude reduction,
                                                 then Volvo has no chance
                                                 of coming anywhere close
-                                                to ... "[no
-
-                                                  one shall be... by
-                                                  2020](http://www.motoring.com.au/news/2014/volvo/xc90/volvo-commits-to-fatality-free-cars-46544)" .  We all
+                                                to ... "[no one shall be... by 2020](http://www.motoring.com.au/news/2014/volvo/xc90/volvo-commits-to-fatality-free-cars-46544)" .  We all
                                                 need to look very
                                                 carefully at this
                                                 report." Alain
 
-## [Is
-
-                                                'talking' to your car
-                                                DANGEROUS?](http://www.dailymail.co.uk/sciencetech/article-2783457/Is-talking-car-DANGEROUS-Study-finds-smart-tech-significantly-distracts-drivers-Apple-s-Siri-worst-offender.html)
+## [Is 'talking' to your car DANGEROUS?](http://www.dailymail.co.uk/sciencetech/article-2783457/Is-talking-car-DANGEROUS-Study-finds-smart-tech-significantly-distracts-drivers-Apple-s-Siri-worst-offender.html)
 
 Jonathan
 
@@ -507,21 +458,14 @@ Jonathan
                                               4.14 while others such as
                                               Chevrolet's MyLink also
                                               ranked highly at 3.7..."
-                                              [Read
-
-                                                more](http://www.dailymail.co.uk/sciencetech/article-2783457/Is-talking-car-DANGEROUS-Study-finds-smart-tech-significantly-distracts-drivers-Apple-s-Siri-worst-offender.html)  Hmmm...Not
+                                              [Read more](http://www.dailymail.co.uk/sciencetech/article-2783457/Is-talking-car-DANGEROUS-Study-finds-smart-tech-significantly-distracts-drivers-Apple-s-Siri-worst-offender.html)  Hmmm...Not
 
                                                 at all surprising.  Alain
 
 ## Half-baked stuff that probably doesn't deserve your
                                                           time:
 
-## [Tesla
-
-                                                          Model S P85D
-                                                          AWD and
-                                                          auto-pilot
-                                                          demo](https://www.youtube.com/watch?v=7quu551ehc0)
+## [Tesla Model S P85D AWD and auto-pilot demo](https://www.youtube.com/watch?v=7quu551ehc0)
 
 Hmmm  Easy to do with good paint (highly illuminated
                                                           lane
@@ -529,9 +473,7 @@ Hmmm  Easy to do with good paint (highly illuminated
                                                           see Hype!
                                                           Alain
 
-## [Re-Programming
-
-                                                          Mobility](http://reprogrammingmobility.org/)
+## [Re-Programming Mobility](http://reprogrammingmobility.org/)
 
 August, 2014 "After decades of anticipation, digital
                                                           technologies
@@ -611,7 +553,7 @@ August, 2014 "After decades of anticipation, digital
                                                           and planning
                                                           of
                                                           transportation
-                                                          itself?..." [Read more](http://reprogrammingmobility.org/)[](http://reprogrammingmobility.org/)
+                                                          itself?..." [Read more](http://reprogrammingmobility.org/)
 
 Hmmm... very interesting, but they fail to observe
                                                           the
@@ -653,11 +595,7 @@ Hmmm... very interesting, but they fail to observe
                                                           at that time.
                                                           Alain
 
-## [Town
-
-                                                          Built for
-                                                          Driverless
-                                                          Cars](http://www.technologyreview.com/news/531301/town-built-for-driverless-cars/)
+## [Town Built for Driverless Cars](http://www.technologyreview.com/news/531301/town-built-for-driverless-cars/)
 
 By Will Knight on October 3, 2014  "Tricky intersections
                                                           and rogue
@@ -668,9 +606,7 @@ By Will Knight on October 3, 2014  "Tricky intersections
                                                           for automated
                                                           and connected
                                                           cars."
-                                                          [Read
-
-                                                          more](http://www.technologyreview.com/news/531301/town-built-for-driverless-cars/) Hmmm...Is the objective here to build intersections
+                                                          [Read more](http://www.technologyreview.com/news/531301/town-built-for-driverless-cars/) Hmmm...Is the objective here to build intersections
                                                           that automated
                                                           cars can't
                                                           negotiate.  If
@@ -679,17 +615,13 @@ By Will Knight on October 3, 2014  "Tricky intersections
                                                           what being
                                                           built? Alain
 
-## [C'mon
-
-                                                          Man!](https://www.youtube.com/watch?v=fhCks3bvTdA)
+## [C'mon Man!](https://www.youtube.com/watch?v=fhCks3bvTdA)
                                                           (These folks
                                                           didn't
                                                           get/read the
                                                           memo):
 
-## [Tesla's
-                                                          D-Day: Hype
-                                                          vs. reality](http://www.cnbc.com/id/102076711)
+## [Tesla's D-Day: Hype vs. reality](http://www.cnbc.com/id/102076711)
 
 Phil leBeau 10/10/2014 Tesla Motors CEO Elon Musk turned
                                                           a product
@@ -710,9 +642,7 @@ Phil leBeau 10/10/2014 Tesla Motors CEO Elon Musk turned
                                                           questions
                                                           about
                                                           "Unveiling the
-                                                          D".   [Watch
-
-                                                          the video](http://www.cnbc.com/id/102076711)
+                                                          D".   [Watch the video](http://www.cnbc.com/id/102076711)
                                                           Hmmm
 
                                                           My vote is
@@ -727,11 +657,7 @@ Phil leBeau 10/10/2014 Tesla Motors CEO Elon Musk turned
                                                           October 1,
                                                           2014
 
-### [Mercedes-Benz sends autonomous
-                                                          automobiles
-                                                          onto the USA's
-                                                          most extensive
-                                                          testing ground](http://www.cnbc.com/id/102049263)
+### [Mercedes-Benz sends autonomous automobiles onto the USA's most extensive testing ground](http://www.cnbc.com/id/102049263)
 
 Sunnyvale, Calif., Oct. 1, 2014 /PRNewswire/ -- " As one
                                                           of the first
@@ -754,10 +680,7 @@ Sunnyvale, Calif., Oct. 1, 2014 /PRNewswire/ -- " As one
                                                           addition, the
                                                           company will
                                                           from now on
-                                                          also use [Concord
-
-                                                          Naval Weapons
-                                                          Station](http://www.contracostatimes.com/contra-costa-times/ci_25279983/concord-naval-weapons-station-development-plans-moving-ahead)
+                                                          also use [Concord Naval Weapons Station](http://www.contracostatimes.com/contra-costa-times/ci_25279983/concord-naval-weapons-station-development-plans-moving-ahead)
                                                           (CNWS), the
                                                           largest test
                                                           bed site in
@@ -814,9 +737,7 @@ Sunnyvale, Calif., Oct. 1, 2014 /PRNewswire/ -- " As one
                                                           environment,
                                                           he
                                                           emphasized...."
-                                                          [Read
-
-                                                          more](http://www.cnbc.com/id/102049263)
+                                                          [Read more](http://www.cnbc.com/id/102049263)
                                                           Hmmm
 
                                                           I'm learning
@@ -832,14 +753,7 @@ Sunnyvale, Calif., Oct. 1, 2014 /PRNewswire/ -- " As one
                                                           October 1,
                                                           2014
 
-### [Self-driving
-
-                                                          cars:
-                                                          California
-                                                          regulators
-                                                          probe
-                                                          insurance
-                                                          questions](http://www.bizjournals.com/sanfrancisco/blog/techflash/2014/09/self-driving-cars-california-insurance-google.html?page=all)
+### [Self-driving cars: California regulators probe insurance questions](http://www.bizjournals.com/sanfrancisco/blog/techflash/2014/09/self-driving-cars-california-insurance-google.html?page=all)
 
 Patrick Hoge Sep 15, 2014  "Self-driving cars are
                                                           bearing down
@@ -968,39 +882,21 @@ Patrick Hoge Sep 15, 2014  "Self-driving cars are
                                                           can't turn
                                                           them off. They
                                                           just do
-                                                          it."..." [Read
-
-                                                          more](http://www.bizjournals.com/sanfrancisco/blog/techflash/2014/09/self-driving-cars-california-insurance-google.html?page=all)
+                                                          it."..." [Read more](http://www.bizjournals.com/sanfrancisco/blog/techflash/2014/09/self-driving-cars-california-insurance-google.html?page=all)
 
 Hmmm...
 
                                                           It was a
                                                           really good
-                                                          session:  [Video
-
-                                                          of hearing](https://www.youtube.com/watch?feature=player_embedded&v=pI-POiHymw0#t=854);
-                                                          [hearing's
-
-                                                          agenda](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Insurance/AVHearingAgenda.pdf); [background
-
-                                                          paper](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Insurance/AVHearingBackgroundPaper.pdf); [my
-
-                                                          5-minute
-                                                          prepared
-                                                          remarks](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Insurance/KornhauserTestimony091514CaliforniaDepartmentInsurance.pdf); [extended
-
-                                                          remarks by
-                                                          Prof. Robert
-                                                          Peterson](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Insurance/PetersonCommentsAV-DOI091514%20.pdf).
+                                                          session:  [Video of hearing](https://www.youtube.com/watch?feature=player_embedded&v=pI-POiHymw0#t=854);
+                                                          [hearing's agenda](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Insurance/AVHearingAgenda.pdf); [background paper](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Insurance/AVHearingBackgroundPaper.pdf); [my 5-minute prepared remarks](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Insurance/KornhauserTestimony091514CaliforniaDepartmentInsurance.pdf); [extended remarks by Prof. Robert Peterson](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Insurance/PetersonCommentsAV-DOI091514%20.pdf).
                                                           Alain
                                                           September 8,
                                                           2014
 
 ###
 
-[The
-
-                                                          New Commute](http://www.orionmagazine.org/index.php/articles/article/8269)
+[The New Commute](http://www.orionmagazine.org/index.php/articles/article/8269)
 Mark Svenvold  "...Tomorrow's transportation
                                                           solutions will
                                                           be about
@@ -1094,8 +990,7 @@ Mark Svenvold  "...Tomorrow's transportation
                                                           silent transit
                                                           system that is
                                                           based on
-                                                          trust."...   [Read
-                                                          more](http://www.orionmagazine.org/index.php/articles/article/8269)
+                                                          trust."...   [Read more](http://www.orionmagazine.org/index.php/articles/article/8269)
 
 Hmmm...  Our studies at Princeton suggest that
                                                           autonomousTaxis
@@ -1168,22 +1063,13 @@ Hmmm...  Our studies at Princeton suggest that
                                                           August 25,
                                                           2014
 
-### [C'Mon
-
-                                                          Man!](https://www.youtube.com/watch?v=fhCks3bvTdA)
+### [C'Mon Man!](https://www.youtube.com/watch?v=fhCks3bvTdA)
                                                           (These folks
                                                           didn't
                                                           get/read the
                                                           memo):
 
-### [Federal
-
-                                                          Motor Vehicle
-                                                          Safety
-                                                          Standards:
-                                                          Vehicle-to-Vehicle
-                                                          (V2V)
-                                                          Communications](http://www.regulations.gov/#%21documentDetail;D=NHTSA-2014-0022-0002)
+### [Federal Motor Vehicle Safety Standards: Vehicle-to-Vehicle (V2V) Communications](http://www.regulations.gov/#%21documentDetail;D=NHTSA-2014-0022-0002)
 
 "This
 
@@ -1298,15 +1184,9 @@ Hmmm...  Our studies at Princeton suggest that
                                                           not be
                                                           effective if
                                                           drivers are
-                                                          impaired ([page
+                                                          impaired ([page 266](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/PDFs/Readiness-of-V2V-Technology-for-Application-812014.pdf)).
 
-                                                          266](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/PDFs/Readiness-of-V2V-Technology-for-Application-812014.pdf)).
-
-                                                          Given that [32 % of driving
-                                                          fatalities
-                                                          involve
-                                                          alcohol-impaired
-                                                          driving,](http://www-nrd.nhtsa.dot.gov/Pubs/811385.pdf)
+                                                          Given that [32 % of driving fatalities involve alcohol-impaired driving,](http://www-nrd.nhtsa.dot.gov/Pubs/811385.pdf)
                                                           none of these
                                                           will be
                                                           saved.
@@ -1412,11 +1292,7 @@ Yet, if
 
 ###
 
-### [Beijing
-
-                                                          orders first
-                                                          driverless
-                                                          metro trains](http://www.railjournal.com/index.php/asia/beijing-orders-first-driverless-metro-trains.html)
+### [Beijing orders first driverless metro trains](http://www.railjournal.com/index.php/asia/beijing-orders-first-driverless-metro-trains.html)
 
 Keith
 
@@ -1464,9 +1340,7 @@ Keith
                                                           expected to
                                                           begin in
                                                           December
-                                                          2015...[Read
-
-                                                          more](http://www.railjournal.com/index.php/asia/beijing-orders-first-driverless-metro-trains.html)
+                                                          2015...[Read more](http://www.railjournal.com/index.php/asia/beijing-orders-first-driverless-metro-trains.html)
 
 Hmmm...
 
@@ -1488,20 +1362,13 @@ Hmmm...
                                                           also see the
                                                           virtue of
                                                           leapfrogging [PTC](https://www.aar.org/safety/Pages/Positive-Train-Control.aspx#.U_H_Xz_1gRY)
-                                                          with UTO ([GoA
-
-                                                          4](http://en.wikipedia.org/wiki/Automatic_train_operation)).  Alain
+                                                          with UTO ([GoA 4](http://en.wikipedia.org/wiki/Automatic_train_operation)).  Alain
 
                                                           August 7, 2014
 
 ###
 
-### [Mobileye
-
-                                                          Record IPO
-                                                          Defeats Global
-                                                          Selloff as
-                                                          Shares Soar](http://www.bloomberg.com/news/2014-08-02/mobileye-record-ipo-defeats-global-selloff-as-shares-soar.html)
+### [Mobileye Record IPO Defeats Global Selloff as Shares Soar](http://www.bloomberg.com/news/2014-08-02/mobileye-record-ipo-defeats-global-selloff-as-shares-soar.html)
 
                                                            Gabrielle
                                                           Coppola Aug 4,
@@ -1550,22 +1417,7 @@ Hmmm...
                                                           range.
                                                           July 21, 2014
 
-### [Princeton
-
-                                                          Announces
-                                                          Creation of
-                                                          Automated
-                                                          Vehicle
-                                                          Research
-                                                          Center @ Ft.
-                                                          Monmouth
-                                                          focused on
-                                                          automated
-                                                          collision
-                                                          avoidance for
-                                                          transit buses
-                                                          (and trucks
-                                                          and cars)](http://www.princeton.edu/%7Ealaink/SmartDrivingCarsAlaink//FortMonmouthTRBAutomatedVehicleConference_071614.pdf)
+### [Princeton Announces Creation of Automated Vehicle Research Center @ Ft. Monmouth focused on automated collision avoidance for transit buses (and trucks and cars)](http://www.princeton.edu/%7Ealaink/SmartDrivingCarsAlaink//FortMonmouthTRBAutomatedVehicleConference_071614.pdf)
 
 At last week's Automated Vehicle Symposium, Professor
                                                           Alain
@@ -1586,9 +1438,7 @@ At last week's Automated Vehicle Symposium, Professor
                                                           announcement
                                                           was made as
                                                           part of a
-                                                          Wednesday [hospitality
-
-                                                          session](http://www.princeton.edu/%7Ealaink/SmartDrivingCarsAlaink//HospitalitySession.pdf)
+                                                          Wednesday [hospitality session](http://www.princeton.edu/%7Ealaink/SmartDrivingCarsAlaink//HospitalitySession.pdf)
                                                           sponsored by
                                                           PAVE. The aim
                                                           of the Session
@@ -1704,9 +1554,7 @@ The
                                                           vehicles
                                                           operating
                                                           under normal
-                                                          conditions.  [Read
-
-                                                          more](http://www.princeton.edu/%7Ealaink/SmartDrivingCarsAlaink//FortMonmouthTRBAutomatedVehicleConference_071614.pdf)
+                                                          conditions.  [Read more](http://www.princeton.edu/%7Ealaink/SmartDrivingCarsAlaink//FortMonmouthTRBAutomatedVehicleConference_071614.pdf)
 
 On
                                                           Wednesday,
@@ -1745,15 +1593,7 @@ On
                                                           Alain
                                                           July 08, 2014
 
-### ['Driverless'
-
-                                                          trucks become
-                                                          reality:
-                                                          Daimler
-                                                          unveils
-                                                          prototype,
-                                                          dubbed Highway
-                                                          Pilot](http://www.ccjdigital.com/driverless-trucks-become-reality-daimler-unveils-prototype-dubbed-highway-pilot/)
+### ['Driverless' trucks become reality: Daimler unveils prototype, dubbed Highway Pilot](http://www.ccjdigital.com/driverless-trucks-become-reality-daimler-unveils-prototype-dubbed-highway-pilot/)
 
 Jack Roberts July 3 "...Speculation about autonomous —
                                                           or
@@ -1811,9 +1651,7 @@ Jack Roberts July 3 "...Speculation about autonomous —
                                                           by detecting
                                                           guardrails or
                                                           vegetation."[Read more](http://www.ccjdigital.com/driverless-trucks-become-reality-daimler-unveils-prototype-dubbed-highway-pilot/)
-[Watch
-
-                                                          Video](https://www.youtube.com/watch?v=HHpXny86TcY)
+[Watch Video](https://www.youtube.com/watch?v=HHpXny86TcY)
                                                           Hmmm...
 
                                                           Be sure to see
@@ -1825,16 +1663,9 @@ Jack Roberts July 3 "...Speculation about autonomous —
                                                           truck by
                                                           Daimler is
                                                           perfect timing
-                                                          for the [Commercial
-
-                                                          Vehicle
-                                                          breakout
-                                                          session](http://www.auvsi.org/avs2014/program/breakoutsessions/breakoutsession4/)
+                                                          for the [Commercial Vehicle breakout session](http://www.auvsi.org/avs2014/program/breakoutsessions/breakoutsession4/)
                                                           next week at
-                                                          the [Automated
-
-                                                          Vehicle
-                                                          Conference](http://www.auvsi.org/avs2014/registerhttp://www.auvsi.org/avs2014/register)
+                                                          the [Automated Vehicle Conference](http://www.auvsi.org/avs2014/registerhttp://www.auvsi.org/avs2014/register)
                                                           in San
                                                           Francisco.
                                                           The focus of
@@ -1857,9 +1688,7 @@ Jack Roberts July 3 "...Speculation about autonomous —
                                                           unveiling has
                                                           strong
                                                           implications:
-                                                          The [Transit
-
-                                                          breakout](http://www.auvsi.org/avs2014/program/breakoutsessions/breakoutsession1/)
+                                                          The [Transit breakout](http://www.auvsi.org/avs2014/program/breakoutsessions/breakoutsession1/)
                                                           since there
                                                           really isn't
                                                           much
@@ -1867,9 +1696,7 @@ Jack Roberts July 3 "...Speculation about autonomous —
                                                           between the
                                                           Daimler truck
                                                           and a transit
-                                                          bus and the [Commercialization
-
-                                                          breakout](http://www.auvsi.org/avs2014/program/breakoutsessions/breakoutsession8/)
+                                                          bus and the [Commercialization breakout](http://www.auvsi.org/avs2014/program/breakoutsessions/breakoutsession8/)
                                                           because
                                                           without market
                                                           adoption of
@@ -1885,17 +1712,9 @@ Jack Roberts July 3 "...Speculation about autonomous —
 
                                                           1, 2014
 
-### [Will
+### [Will Driverless Cars Fuel Cheap Insurance?](http://www.foxbusiness.com/personal-finance/2014/06/11/will-driverless-cars-fuel-cheap-insurance/)
 
-                                                          Driverless
-                                                          Cars Fuel
-                                                          Cheap
-                                                          Insurance?](http://www.foxbusiness.com/personal-finance/2014/06/11/will-driverless-cars-fuel-cheap-insurance/)
-
-Mark Chalon Smith, June 26, "...[A
-                                                          CarInsurance.com
-
-                                                          survey](http://www.carinsurance.com/Articles/autonomous-cars-ready.aspx) of
+Mark Chalon Smith, June 26, "...[A CarInsurance.com survey](http://www.carinsurance.com/Articles/autonomous-cars-ready.aspx) of
                                                           2,000 licensed
                                                           motorists
                                                           found that
@@ -1942,10 +1761,7 @@ Mark Chalon Smith, June 26, "...[A
                                                           would at least
                                                           consider the
                                                           possibility...."
-                                                          [Read
-
-                                                          more](http://www.foxbusiness.com/personal-finance/2014/06/11/will-driverless-cars-fuel-cheap-insurance/)   Be sure to look at the[survey
-                                                          summary.](http://www.carinsurance.com/Articles/autonomous-cars-ready.aspx)
+                                                          [Read more](http://www.foxbusiness.com/personal-finance/2014/06/11/will-driverless-cars-fuel-cheap-insurance/)   Be sure to look at the[survey summary.](http://www.carinsurance.com/Articles/autonomous-cars-ready.aspx)
                                                           It is 6 month
                                                           old, but
                                                           probably still
@@ -1954,16 +1770,9 @@ Mark Chalon Smith, June 26, "...[A
 
 ###
 
-### [In
+### [In wake of Tracy Morgan crash, rising truck fatalities lead to new scrutiny](http://www.nj.com/news/index.ssf/2014/06/rising_truck_fatalities_nationwide_leading_to_new_scrutiny_in_wake_of_tracy_morgan_crash.html)
 
-                                                          wake of Tracy
-                                                          Morgan crash,
-                                                          rising truck
-                                                          fatalities
-                                                          lead to new
-                                                          scrutiny](http://www.nj.com/news/index.ssf/2014/06/rising_truck_fatalities_nationwide_leading_to_new_scrutiny_in_wake_of_tracy_morgan_crash.html)
-
- [](http://connect.nj.com/staff/thsherma/posts.html)Ted
+ Ted
                                                           Sherman/The
                                                           Star-Ledger
                                                           June 15
@@ -2022,9 +1831,7 @@ Mark Chalon Smith, June 26, "...[A
                                                           limiting its
                                                           top speed to
                                                           65 miles per
-                                                          hour...."  [Read
-
-                                                          more](http://www.nj.com/news/index.ssf/2014/06/rising_truck_fatalities_nationwide_leading_to_new_scrutiny_in_wake_of_tracy_morgan_crash.html)
+                                                          hour...."  [Read more](http://www.nj.com/news/index.ssf/2014/06/rising_truck_fatalities_nationwide_leading_to_new_scrutiny_in_wake_of_tracy_morgan_crash.html)
 
 Hmm... I wrote last Tuesday as to how the Tracy
                                                           Morgan
@@ -2188,15 +1995,7 @@ US DoT also needs to
 Wyrough,
 
                                                           Alexander Penn
-                                                          Hill Jr.: [A
-                                                          National
-                                                          Disaggregate
-                                                          Transportation
-                                                          Demand Model
-                                                          for the
-                                                          Analysis of
-                                                          autonomousTaxi
-                                                          Systems](http://orfe.princeton.edu/%7Ealaink/Theses/SeniorTheses%2714/Draft-Wyrough_NoationalDisaggregateTripSynthesizer.pdf)
+                                                          Hill Jr.: [A National Disaggregate Transportation Demand Model for the Analysis of autonomousTaxi Systems](http://orfe.princeton.edu/%7Ealaink/Theses/SeniorTheses%2714/Draft-Wyrough_NoationalDisaggregateTripSynthesizer.pdf)
 
 Included is one synthetic realization for each of the
                                                           308.7 Million
@@ -2293,58 +2092,23 @@ Included is one synthetic realization for each of the
 
 Lee,
 
-                                                          Eileen: [Uncovering
-
-                                                          Systemic
-                                                          Corruption in
-                                                          the ER:An
-                                                          Empirical
-                                                          Analysis of
-                                                          Motor
-                                                          Vehicle-Related
-                                                          Hospital Bill
-                                                          and their
-                                                          Impact on
-                                                          Insurance
-                                                          Companies](http://orfe.princeton.edu/%7Ealaink/Theses/SeniorTheses%2714/Draft-Lee_UncoveringSystematicCorruptionInTheER.pdf)
+                                                          Eileen: [Uncovering Systemic Corruption in the ER:An Empirical Analysis of Motor Vehicle-Related Hospital Bill and their Impact on Insurance Companies](http://orfe.princeton.edu/%7Ealaink/Theses/SeniorTheses%2714/Draft-Lee_UncoveringSystematicCorruptionInTheER.pdf)
 
 Sun,
 
                                                           Zhuyi (Judy):
-                                                          [Causal
-
-                                                          Price
-                                                          Discrimination:
-                                                          An Analysis of
-                                                          the Healthcare
-                                                          Costs
-                                                          Associated
-                                                          with Motor
-                                                          Vehicle and
-                                                          Transportation
-                                                          Collisions](http://orfe.princeton.edu/%7Ealaink/Theses/SeniorTheses%2714/Draft-Sun_CausalPriceDiscrimination.pdf)
+                                                          [Causal Price Discrimination: An Analysis of the Healthcare Costs Associated with Motor Vehicle and Transportation Collisions](http://orfe.princeton.edu/%7Ealaink/Theses/SeniorTheses%2714/Draft-Sun_CausalPriceDiscrimination.pdf)
 
 Rhodes,
 
                                                           Brandon
-                                                          Xavier: [An
+                                                          Xavier: [An Analysis  of Economically Efficient Insurance Schemes  for Automated Vehicle](http://orfe.princeton.edu/%7Ealaink/Theses/SeniorTheses%2714/Draft-Rhodes_InsuranceSchemesForAutomatedVehicles.pdf)
 
-                                                          Analysis  of
-                                                          Economically
-                                                          Efficient
-                                                          Insurance
-                                                          Schemes  for
-                                                          Automated
-                                                          Vehicle](http://orfe.princeton.edu/%7Ealaink/Theses/SeniorTheses%2714/Draft-Rhodes_InsuranceSchemesForAutomatedVehicles.pdf)
-
-                                                          [](Mailto:alaink@princeton.edu)[Mailto:alaink@princeton.edu](Mailto:alaink@princeton.edu)[](Mailto:alaink@princeton.edu)
+                                                          [Mailto:alaink@princeton.edu](Mailto:alaink@princeton.edu)
 
                                                         This list is
                                                         maintained by [Alain Kornhauser](mailto:alaink@princeton.edu) and hosted by
-                                                        the [Princeton
-
-                                                          University
-                                                          LISTSERV](http://lists.princeton.edu).
+                                                        the [Princeton University LISTSERV](http://lists.princeton.edu).
 
 [Unsubscribe](https://lists.princeton.edu/cgi-bin/wa?TICKET=NzM1MjMzIGJpbm9AUFJJTkNFVE9OLkVEVSBTTUFSVERSSVZJTkdDQVJTIGluYtYkJuu3&c=SIGNOFF)
                                                         | [Re-subscribe](https://lists.princeton.edu/cgi-bin/wa?TICKET=NzM1MjMzIGJpbm9AUFJJTkNFVE9OLkVEVSBTTUFSVERSSVZJTkdDQVJTIGluYtYkJuu3&c=SIGNUP)

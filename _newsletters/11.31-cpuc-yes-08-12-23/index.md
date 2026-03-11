@@ -10,9 +10,7 @@ Click or tap if you trust this link.">Saturday, August 12, 2023
 31st
             edition of the 11th year of SmartDrivingCars eLetter
 
-   [Robotaxis:
-              California Regulators OK 24/7 Self-Driving Car Expansion
-              in San Francisco](https://sfstandard.com/2023/08/10/future-of-self-driving-cars-in-san-francisco-could-be-decided-today/?utm_source=The+San+Francisco+Standard&utm_campaign=1701c8955e-EMAIL_CAMPAIGN_2022_06_21_02_54_COPY_01&utm_medium=email&utm_term=0_f81e82e2a3-1701c8955e-561233865)
+   [Robotaxis: California Regulators OK 24/7 Self-Driving Car Expansion in San Francisco](https://sfstandard.com/2023/08/10/future-of-self-driving-cars-in-san-francisco-could-be-decided-today/?utm_source=The+San+Francisco+Standard&utm_campaign=1701c8955e-EMAIL_CAMPAIGN_2022_06_21_02_54_COPY_01&utm_medium=email&utm_term=0_f81e82e2a3-1701c8955e-561233865)
 
 M.
           Kupfer & I. Mojadad,  Aug. 10, "San Francisco will enter a
@@ -58,8 +56,7 @@ A
           Avenue to enter the commission building ahead of the meeting.
 
 .…."
-          [Read
-                 more](https://sfstandard.com/2023/08/10/future-of-self-driving-cars-in-san-francisco-could-be-decided-today/?utm_source=The+San+Francisco+Standard&utm_campaign=1701c8955e-EMAIL_CAMPAIGN_2022_06_21_02_54_COPY_01&utm_medium=email&utm_term=0_f81e82e2a3-1701c8955e-561233865)[](https://sfstandard.com/2023/08/10/future-of-self-driving-cars-in-san-francisco-could-be-decided-today/?utm_source=The+San+Francisco+Standard&utm_campaign=1701c8955e-EMAIL_CAMPAIGN_2022_06_21_02_54_COPY_01&utm_medium=email&utm_term=0_f81e82e2a3-1701c8955e-561233865)
+          [Read more](https://sfstandard.com/2023/08/10/future-of-self-driving-cars-in-san-francisco-could-be-decided-today/?utm_source=The+San+Francisco+Standard&utm_campaign=1701c8955e-EMAIL_CAMPAIGN_2022_06_21_02_54_COPY_01&utm_medium=email&utm_term=0_f81e82e2a3-1701c8955e-561233865)
                Hmmmm…  Listening to
             almost 4 hours of one-minute public comments from those in-house @
             the CPUC meeting, I was deeply moved by the challenges and
@@ -784,8 +781,7 @@ DASH is described as
               Click or tap if you trust this link.">Friday, July 7, 2023
 
               Click or tap if you trust this link.">Monday, June 26 2023
-[Should your car prevent
-                accidents, period?](https://www.techstination.com/report.jsp?reportId=6651)
+[Should your car prevent accidents, period?](https://www.techstination.com/report.jsp?reportId=6651)
 
 *  SafeDrivingCars…
             exactly what Fred is talking about.  Their value proposition

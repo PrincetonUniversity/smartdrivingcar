@@ -7,10 +7,7 @@ permalink: /2013-08-29-thursday-aug.-29-2013/
 
 August 30, 2013
 
-## [](http://allthingsd.com/author/kara/)[](http://allthingsd.com/)[Uber
-
-                  Filing in Delaware Shows TPG Investment at $3.5
-                  Billion Valuation; Google Ventures Also In](http://allthingsd.com/20130822/uber-filing-in-delaware-shows-tpg-investment-at-3-5-billion-valuation-google-ventures-also-in/?mod=tweet)
+## [Uber Filing in Delaware Shows TPG Investment at $3.5 Billion Valuation; Google Ventures Also In](http://allthingsd.com/20130822/uber-filing-in-delaware-shows-tpg-investment-at-3-5-billion-valuation-google-ventures-also-in/?mod=tweet)
 
 August 22,
                   2013 at 2:43 pm PT " According to a Delaware filing by
@@ -22,11 +19,7 @@ August 22,
                   The ensuing months have been fruitful. Sources said
                   Uber is now on track to bring in about $125 million in
                   total revenue this year, much higher than had been
-                  projected, and that number is growing quickly." [Read
-
-                    more](http://allthingsd.com/20130822/uber-filing-in-delaware-shows-tpg-investment-at-3-5-billion-valuation-google-ventures-also-in/?mod=tweet) also [Uber's
-
-                    Restated Certificate of Incorporation](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/PDFs/UberTechnologiesCertInc.PDF) and[From Google, Uber Gets Money and Political Muscle](http://www.businessweek.com/articles/2013-08-26/from-google-uber-gets-money-and-political-muscle)
+                  projected, and that number is growing quickly." [Read more](http://allthingsd.com/20130822/uber-filing-in-delaware-shows-tpg-investment-at-3-5-billion-valuation-google-ventures-also-in/?mod=tweet) also [Uber's Restated Certificate of Incorporation](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/PDFs/UberTechnologiesCertInc.PDF) and[From Google, Uber Gets Money and Political Muscle](http://www.businessweek.com/articles/2013-08-26/from-google-uber-gets-money-and-political-muscle)
                   and [video](http://www.bloomberg.com/video/uber-could-be-valued-at-3-billion-JREeUKNcTcWtP0%7Ehy6qhBA.html)Without self-driving
                     technology Uber is simply a labor intensive
                     limousine/taxi service that bucks up against taxi
@@ -39,14 +32,9 @@ August 22,
                     vehicles and, as of now, labor, track
                     proportionately. Alain
 
-## [](http://www.slate.com/authors.matthew_yglesias.html)[Google
+## [Google and Uber Could Transform America But to get there, we need to start taking taxi regulation seriously.](http://www.slate.com/articles/business/moneybox/2013/08/google_s_uber_investment_autonomous_cars_and_smartphone_taxes_are_a_game.html)
 
-                    and Uber Could Transform America But to get there,
-                    we need to start taking taxi regulation seriously.](http://www.slate.com/articles/business/moneybox/2013/08/google_s_uber_investment_autonomous_cars_and_smartphone_taxes_are_a_game.html)
-
-By [Matthew
-
-                      Yglesias](http://www.slate.com/authors.matthew_yglesias.html)|Posted
+By [Matthew Yglesias](http://www.slate.com/authors.matthew_yglesias.html)|Posted
                       , at 4:15 PM "... The
 
                     real potential is for something quite different:
@@ -76,9 +64,7 @@ Most trips, after all, are
 
 Cities based on cheap
                       autonomous cabs would be much greener than today's
-                      cities. Without the parking, they'd also be [denser
-
-                        and more productive](http://www.nytimes.com/2011/09/04/opinion/sunday/one-path-to-better-jobs-more-density-in-cities.html?pagewanted=all), but people wouldn't
+                      cities. Without the parking, they'd also be [denser and more productive](http://www.nytimes.com/2011/09/04/opinion/sunday/one-path-to-better-jobs-more-density-in-cities.html?pagewanted=all), but people wouldn't
                       have to sacrifice their large homes. It would be a
                       true economic game-changer. But to get there we
                       don't just need the technology—we need the rules
@@ -88,9 +74,7 @@ Cities based on cheap
                       competition. We need local transportation
                       regulation to emphasize the needs of consumers,
                       not producers, and to encourage innovation, not
-                      fear it."  [Read
-
-                        more](http://www.slate.com/articles/business/moneybox/2013/08/google_s_uber_investment_autonomous_cars_and_smartphone_taxes_are_a_game.html)
+                      fear it."  [Read more](http://www.slate.com/articles/business/moneybox/2013/08/google_s_uber_investment_autonomous_cars_and_smartphone_taxes_are_a_game.html)
 
 I agree, the rules will be
                         very important.  Anyone with the capital to buy
@@ -110,11 +94,7 @@ I agree, the rules will be
                         carrying out of the transportation function.
                         Now anyone with capital to invest in a fleet can
                         be out there digging and panning. And Google
-                        wont have a monopoly either.  [Alberto
-
-                          Broggi](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Videos/PROUD_Car_Test.072013%28driverless%20car%29VisLabItaly_dualView.mp4), [Adriano
-
-                            Alessandrini](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnx2ZWhpY2xlYXV0b21hdGlvbndvcmtzaG9wfGd4OjZjYTU5MDFhZmY0YjkxNmI), [Mercedes](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/2014MBE350CabrioletConfigurator.pdf),
+                        wont have a monopoly either.  [Alberto Broggi](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Videos/PROUD_Car_Test.072013%28driverless%20car%29VisLabItaly_dualView.mp4), [Adriano Alessandrini](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnx2ZWhpY2xlYXV0b21hdGlvbndvcmtzaG9wfGd4OjZjYTU5MDFhZmY0YjkxNmI), [Mercedes](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/2014MBE350CabrioletConfigurator.pdf),
                         [Nissan](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Reports&Speaches_External/NissanPressRreleaseAutonomousCarBy2020.pdf)
                         and many others will be out there with the
                         driverless technology.  So, the gold rush will
@@ -122,18 +102,13 @@ I agree, the rules will be
                         pan and shovel ready, or better yet, producing
                         some of the pans and shovels.     Alain
 
-## [](http://editorial.autos.msn.com/blogs/blogfilter.aspx?author=xa4233a7c5813a5d6990625991baf8a2af5f8a6167cf4b957) [](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/2014MBE350CabrioletConfigurator.pdf) [Car
-
-                          Tech Spotlight: Almost autonomous 2014
-                          Mercedes-Benz E-Class](http://editorial.autos.msn.com/blogs/post--car-tech-spotlight-almost-autonomous-2014-mercedes-benz-e-class)
+##   [Car Tech Spotlight: Almost autonomous 2014 Mercedes-Benz E-Class](http://editorial.autos.msn.com/blogs/post--car-tech-spotlight-almost-autonomous-2014-mercedes-benz-e-class)
 
 ### Distronic Plus system with
                         Steering Assist maintains speed relative to
                         traffic in front and keeps the car centered in
                         its lane – as long as drivers keep their hands
-                        on the wheel.  [See
-
-                          Video](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Videos/2014MB_E350SteeringAssist.mp4)!
+                        on the wheel.  [See Video](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Videos/2014MB_E350SteeringAssist.mp4)!
 
 "...With this feature, the
                         E-Class, theoretically, can drive itself. But
@@ -144,16 +119,10 @@ I agree, the rules will be
                         cluster, and if that isn't heeded, it sounds a
                         subtle beep, at which point the Steering Assist
                         is disabled and the car is no longer steered
-                        automatically back into its lane..." [Read
+                        automatically back into its lane..." [Read more](http://editorial.autos.msn.com/blogs/post--car-tech-spotlight-almost-autonomous-2014-mercedes-benz-e-class)  Great!! At
+                            least we get a few seconds and the [Safety Option cost $2,800](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/2014MBE350CabrioletConfigurator.pdf)! Alain
 
-                          more](http://editorial.autos.msn.com/blogs/post--car-tech-spotlight-almost-autonomous-2014-mercedes-benz-e-class)  Great!! At
-                            least we get a few seconds and the [Safety
-
-                              Option cost $2,800](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/2014MBE350CabrioletConfigurator.pdf)! Alain
-
-## [GM
-
-              says almost-driverless cars coming by 2020](http://news.yahoo.com/gm-says-almost-driverless-cars-coming-2020-195341672.html)
+## [GM says almost-driverless cars coming by 2020](http://news.yahoo.com/gm-says-almost-driverless-cars-coming-2020-195341672.html)
 
 "...The automaker says the
             system, called "Super Cruise," uses radar and cameras to
@@ -167,9 +136,7 @@ I agree, the rules will be
             designed for that, said Charles Green, an engineer who
             studies driver performance with the systems.  So before it
             gets to market, GM will have a feature that makes sure
-            drivers are paying attention, he said..."  [Read
-
-              more](http://news.yahoo.com/gm-says-almost-driverless-cars-coming-2020-195341672.html)  Hmm...steering
+            drivers are paying attention, he said..."  [Read more](http://news.yahoo.com/gm-says-almost-driverless-cars-coming-2020-195341672.html)  Hmm...steering
                 isn't work.  The work is
                 the need to be constantly vigilant.  What
                 good is having a system that does the non-work
@@ -183,9 +150,7 @@ I agree, the rules will be
 
               Alain
 
-## [Has
-
-              Growth in Automobile Use Ended?](http://www.volpe.dot.gov/noteworthy/2013/has-growth-in-automobile-use-ended.html)
+## [Has Growth in Automobile Use Ended?](http://www.volpe.dot.gov/noteworthy/2013/has-growth-in-automobile-use-ended.html)
 
 "...Pickrell and Pace have
             identified some new, likely causes of reduced VMT. Gasoline
@@ -210,9 +175,7 @@ The economy's effect on
             slightly less than they did a decade ago. The sharpest
             declines in income since the early 2000s have been
             concentrated among lower-income households, whose driving
-            habits are most sensitive to income changes."  [Read
-
-              more](http://www.volpe.dot.gov/noteworthy/2013/has-growth-in-automobile-use-ended.html) Mobility is changing
+            habits are most sensitive to income changes."  [Read more](http://www.volpe.dot.gov/noteworthy/2013/has-growth-in-automobile-use-ended.html) Mobility is changing
                 even without SmartDrivingCars. What
                 is even more interesting are the[slides from their presentation Alain](http://www.volpe.dot.gov/noteworthy/docs/volpe_presentation_05_23_2013_revised.pdf)
 
@@ -222,22 +185,17 @@ The economy's effect on
 
 # Calendar of Upcoming Events:
 
-# [Google's
-
-              self-driving car to be in Blacksburg next week](http://www.roanoke.com/news/nrvbusiness/2188135-12/googles-self-driving-car-to-be-in-blacksburg-next.html)
+# [Google's self-driving car to be in Blacksburg next week](http://www.roanoke.com/news/nrvbusiness/2188135-12/googles-self-driving-car-to-be-in-blacksburg-next.html)
 
  The car will be at the
             Smart Road on Tuesday, September 3, as Virginia Tech
             announces a partnership with developer Google
 
-## [](http://www.podcarcity.org/washington/) [Washington DC
-              Oct 23-2](http://www.podcarcity.org/washington/)5
+##  [Washington DC Oct 23-2](http://www.podcarcity.org/washington/)5
 
             August 27, 2013
 
-## [NISSAN
-
-                ANNOUNCES UNPRECEDENTED AUTONOMOUS DRIVE BENCHMARKS](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Reports&Speaches_External/NissanPressRreleaseAutonomousCarBy2020.pdf)
+## [NISSAN ANNOUNCES UNPRECEDENTED AUTONOMOUS DRIVE BENCHMARKS](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Reports&Speaches_External/NissanPressRreleaseAutonomousCarBy2020.pdf)
 
 * Nissan will be ready with
                 revolutionary commercially-viable Autonomous Drive in
@@ -250,17 +208,11 @@ The economy's effect on
 * The goal is availability across
                 the model range within two vehicle generations
 
-* [Video
+* [Video of Nissan Announcement](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Videos/NisssanAutonomousDrive_by_2020.mp4)
 
-                  of Nissan Announcement](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Videos/NisssanAutonomousDrive_by_2020.mp4)
+* [Video of Interview with EVP Andy Palmer about announcement](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Videos/NissanEVP_AndyPalmerInterviewAnnouncing2020Commitment.mp4)
 
-* [Video
-
-                  of Interview with EVP Andy Palmer about announcement](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Videos/NissanEVP_AndyPalmerInterviewAnnouncing2020Commitment.mp4)
-
-[Read
-
-              more](http://nissannews.com/en-US/nissan/usa/releases/nissan-announces-unprecedented-autonomous-drive-benchmarks?r=3337J4703912A0W) This announcement certainly raises the
+[Read more](http://nissannews.com/en-US/nissan/usa/releases/nissan-announces-unprecedented-autonomous-drive-benchmarks?r=3337J4703912A0W) This announcement certainly raises the
               bar for the auto companies.  First we have
               Mercedes introducing "Intelligent Drive" with automated
               lane keeping in today's 2014 S-Class, followed by
@@ -283,24 +235,14 @@ The economy's effect on
                   Cadillac, Tesla, Ford, Subaru, Lexus, Hyundai,
                   VW... going to do to leapfrog these initiatives? Alain
 
-## [](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Videos/PROUD_Car_Test.072013%28driverless%20car%29VisLabItaly_dualView.mp4) [Prof.
-                Alberto Broggi](http://www.ce.unipr.it/people/broggi/), Univ. of Parma [will
-
-                present](http://www.ieeevtc.org/vtc2013fall/plenary.php) the PROUD2013 event  on Sept 3, 2013 in Las
-              Vegas, NV,  as the plenary opening of the [IEEE
-
-                Vehicular Technology Conference](http://www.ieeevtc.org/vtc2013fall/final-program.pdf).  See the [updated
-
-                video](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Videos/PROUD_Car_Test.072013%28driverless%20car%29VisLabItaly_dualView.mp4)!
+##  [Prof. Alberto Broggi](http://www.ce.unipr.it/people/broggi/), Univ. of Parma [will present](http://www.ieeevtc.org/vtc2013fall/plenary.php) the PROUD2013 event  on Sept 3, 2013 in Las
+              Vegas, NV,  as the plenary opening of the [IEEE Vehicular Technology Conference](http://www.ieeevtc.org/vtc2013fall/final-program.pdf).  See the [updated video](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Videos/PROUD_Car_Test.072013%28driverless%20car%29VisLabItaly_dualView.mp4)!
 
 Prof Broggi's presentation is
                 essentially the only presentation at the whole
                 conference on Smart Driving Cars.  There is a [DoT workshop](http://www.ieeevtc.org/vtc2013fall/dotworkshop.php)
 but it seems to be focused on connected vehicles
-                and one panel session on Wednesday "[Releasing
-
-                the Steering Wheel: Learning to Let the Car Drive by
-                Itself](http://www.ieeevtc.org/vtc2013fall/panels.php)"  Oh well! At least there is Alberto's
+                and one panel session on Wednesday "[Releasing the Steering Wheel: Learning to Let the Car Drive by Itself](http://www.ieeevtc.org/vtc2013fall/panels.php)"  Oh well! At least there is Alberto's
                 talk and his participation in the one panel. Alain
 
               August 20, 2013
@@ -308,11 +250,7 @@ but it seems to be focused on connected vehicles
 ## Draft
               Final Report "Uncongested Mobility for All NJ"
 
-           [Available
-
-            for Download (15M)](http://orfe.princeton.edu/%7Ealaink/NJ_aTaxiOrf467F12/ORF467F12aTaxiFinalReport.pdf)  [Slide
-
-            Presentations (123M ppt)](http://orfe.princeton.edu/%7Ealaink/NJ_aTaxiOrf467F12/FinalPresentationsOrf467F12aTaxiNJ/aTaxi%20Presentation.pptx)
+           [Available for Download (15M)](http://orfe.princeton.edu/%7Ealaink/NJ_aTaxiOrf467F12/ORF467F12aTaxiFinalReport.pdf)  [Slide Presentations (123M ppt)](http://orfe.princeton.edu/%7Ealaink/NJ_aTaxiOrf467F12/FinalPresentationsOrf467F12aTaxiNJ/aTaxi%20Presentation.pptx)
 
 My students and I have been conducting a
             quantitative assessment of the mobility implications of
@@ -325,9 +263,7 @@ My students and I have been conducting a
             only because we live here, but also because it embraces
             essentially all uses of land from extremely rural farms and
             preserved spaces, through a wide variety of suburban
-            developments to both old and new high density urban living….[Table
-
-              1](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Table%201_SDC082013.pdf) summarizes how each and every of the 32+ million
+            developments to both old and new high density urban living….[Table 1](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Table%201_SDC082013.pdf) summarizes how each and every of the 32+ million
             person trips that take place on a typical weekday can be
             served efficiently and effectively.  Short trips (a 10
             minute walk or less) are served by Walking & Cycling
@@ -336,9 +272,7 @@ My students and I have been conducting a
             combination of aTaxis and NJ Transit's existing commuter
             rail lines.  To appropriately serve all of the 30+ million
             daily non-walk/cycle trips, a fleet of about 1.8 million
-            aTaxis would be needed.  (In 2010, [3.9
-
-              million cars were registered in NJ](http://www.fhwa.dot.gov/policyinformation/statistics/2010/mv1.cfm) plus an additional
+            aTaxis would be needed.  (In 2010, [3.9 million cars were registered in NJ](http://www.fhwa.dot.gov/policyinformation/statistics/2010/mv1.cfm) plus an additional
             2.5 million trucks.)  At peek hours state-wide average
             vehicle occupancies reach the 3.0 level while during most
             off-peak times average vehicle occupancies are very close to
@@ -350,8 +284,7 @@ My students and I have been conducting a
             stations, many trips (almost 5 million) are best served by
             aTaxi <-> Rail multi-modal combinations.  In fact NJ
             Transit's rail system plays a part in serving over 6 million
-            trips each day, more than [20
-              times what it currently served today](http://www.njtransit.com/pdf/FactsAtaGlance.pdf).  This is a
+            trips each day, more than [20 times what it currently served today](http://www.njtransit.com/pdf/FactsAtaGlance.pdf).  This is a
             reflection of the large amount of activity that takes place
             within a short walk of NJT's train stations, if only there
             existed an efficient system, like aTaxis, to bring passengers
@@ -359,7 +292,7 @@ My students and I have been conducting a
 
               more:
 
-### [Mailto:alaink@princeton.edu](Mailto:alaink@princeton.edu)[](Mailto:alaink@princeton.edu)[](Mailto:alaink@princeton.edu)
+### [Mailto:alaink@princeton.edu](Mailto:alaink@princeton.edu)
 
 ***************************************************************************************************************
 

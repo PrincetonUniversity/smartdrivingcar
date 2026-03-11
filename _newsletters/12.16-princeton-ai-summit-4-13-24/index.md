@@ -13,8 +13,7 @@ Click or tap if you trust this link.">Saturday,
 
   16h edition of the 12th year of SmartDrivingCars eLetter
 
- [NJ
- AI Summit](https://ai.princeton.edu/engagement/ai-hub/nj-ai-summit)
+ [NJ AI Summit](https://ai.princeton.edu/engagement/ai-hub/nj-ai-summit)
 
 Princeton University, April 11, "NJ AI Summit, hosted by Princeton in partnership with New Jersey Gov. Phil Murphy and the NJ Economic Development Authority, takes place on April
  11, 2024, on Princeton's campus. The summit will convene leaders from the region and beyond to explore AI applications in health, finance, sustainable energy and technology, while also addressing the societal implications of AI and the opportunities to advance
@@ -27,9 +26,7 @@ Program Schedule …"
  Hmmmm…  What a fantastic event. This was the first event that I've attended in which the "dignitaries"(among them, Princeton
  President Eisgruber and Governor Murphy) not only gave substantive keynotes (right around noon), but also sat in the audience, front and center, from the start and absorbed all that was presented to the rest of the invited attendees.  I am really pumped.  Alain
 
-[](https://www.amazon.com/Real-Case-Driverless-Mobility-Vehicles/dp/0443236852/ref=sr_1_1?crid=22SK14SI799RL&dib=eyJ2IjoiMSJ9.lxEa4C-A4uRSBIChfD3wJw.xogl_NdvikO4LhL5RvNCh1iiD7Vx17Dpx_FWynWqyq4&dib_tag=se&keywords=kornhauser+sena&qid=1708172593&s=electronics&sprefix=kornhauser+sena%2Celectronics%2C90&sr=1-1)[Just
- Published](https://www.amazon.com/Real-Case-Driverless-Mobility-Vehicles/dp/0443236852/ref=sr_1_1?crid=1XSXZ611C2JCN&keywords=Kornhauser+sena&qid=1707095108&sprefix=kornhauser+sena%2Caps%2C76&sr=8-1&ufe=app_do%3Aamzn1.fos.18ed3cb5-28d5-4975-8bc7-93deae8f9840)!!!  [Go
- to Amazon.com](https://www.amazon.com/Real-Case-Driverless-Mobility-Vehicles/dp/0443236852/ref=sr_1_1?crid=1XSXZ611C2JCN&keywords=Kornhauser+sena&qid=1707095108&sprefix=kornhauser+sena%2Caps%2C76&sr=8-1&ufe=app_do%3Aamzn1.fos.18ed3cb5-28d5-4975-8bc7-93deae8f9840)… You can still be first on your block to have one
+[Just Published](https://www.amazon.com/Real-Case-Driverless-Mobility-Vehicles/dp/0443236852/ref=sr_1_1?crid=1XSXZ611C2JCN&keywords=Kornhauser+sena&qid=1707095108&sprefix=kornhauser+sena%2Caps%2C76&sr=8-1&ufe=app_do%3Aamzn1.fos.18ed3cb5-28d5-4975-8bc7-93deae8f9840)!!!  [Go to Amazon.com](https://www.amazon.com/Real-Case-Driverless-Mobility-Vehicles/dp/0443236852/ref=sr_1_1?crid=1XSXZ611C2JCN&keywords=Kornhauser+sena&qid=1707095108&sprefix=kornhauser+sena%2Caps%2C76&sr=8-1&ufe=app_do%3Aamzn1.fos.18ed3cb5-28d5-4975-8bc7-93deae8f9840)… You can still be first on your block to have one
 J.
 
 [https://www.amazon.com/Real-Case-Driverless-Mobility-Vehicles/dp/0443236852/ref=sr_1_1](https://www.amazon.com/Real-Case-Driverless-Mobility-Vehicles/dp/0443236852/ref=sr_1_1%0d)
@@ -60,8 +57,7 @@ F. Fishkin, April 14, "
 * [46:08](https://www.youtube.com/watch?v=zRO8lYETMyI&t=2768s) Upcoming 6th Smart Driving
  Car Summit
 
-[Cruise
- resumes manual driving as next step in return to driverless mission](https://www.getcruise.com/news/blog/2024/cruise-resumes-manual-driving-as-next-step-in-return-to-driverless-mission/)
+[Cruise resumes manual driving as next step in return to driverless mission](https://www.getcruise.com/news/blog/2024/cruise-resumes-manual-driving-as-next-step-in-return-to-driverless-mission/)
 
 Blog Post, April 9, "In October 2023, we paused operations of our fleet to focus on rebuilding trust with regulators
  and the communities we serve, and to redesign our approach to safety. We've made significant progress, guided by new company leadership, recommendations from third-party experts, and a focus on a close partnership with the communities in which our vehicles
@@ -72,17 +68,14 @@ Looking to the next chapter, our goal is to resume driverless operations. As we 
  human-driven vehicles without autonomous systems engaged and is a critical step for validating our self-driving systems as we work towards returning to our driverless mission. This will help inform where we ultimately will resume driverless operations.
 
 Cruise has a strong history in Phoenix and it is home to a large number of Cruise employees. It's a city that supports AV and transportation innovation, and
- Phoenix leaders strive to ensure the metro area is an incubator for advanced technology. We plan to expand this effort to other select cities as we continue to engage with officials and community leaders. . …"  [Read
- More](https://techcrunch.com/2024/04/05/elon-musk-says-hell-unveil-a-tesla-robotaxi-on-august-8/)  Hmmmm…
+ Phoenix leaders strive to ensure the metro area is an incubator for advanced technology. We plan to expand this effort to other select cities as we continue to engage with officials and community leaders. . …"  [Read More](https://techcrunch.com/2024/04/05/elon-musk-says-hell-unveil-a-tesla-robotaxi-on-august-8/)  Hmmmm…
  Welcome back!  Many in Phoenix, the rest of this country, and around the world can substantially improve their lives if only high-quality, affordable rides were readily available to them.
 😊
  Alain
 
-[Tesla
- Will Spend 10 Billion Training Full Self-Driving](https://insideevs.com/news/715366/tesla-10-billion-self-driving/)
+[Tesla Will Spend 10 Billion Training Full Self-Driving](https://insideevs.com/news/715366/tesla-10-billion-self-driving/)
 
-R. Stumpf, April 9, "Tesla is just one of many automakers and third-party tech companies looking to solve self-driving. While some automakers have chosen to [offload
- that responsibility to companies like Mobileye](https://insideevs.com/news/683533/polestar-4-get-mobileye-chauffeur-eyes-off-hands-off-adas/), others like Tesla have decided to tackle the problem head-on.
+R. Stumpf, April 9, "Tesla is just one of many automakers and third-party tech companies looking to solve self-driving. While some automakers have chosen to [offload that responsibility to companies like Mobileye](https://insideevs.com/news/683533/polestar-4-get-mobileye-chauffeur-eyes-off-hands-off-adas/), others like Tesla have decided to tackle the problem head-on.
 
 Now, after years of throwing money at its own hardware and training stacks, Tesla has amassed a gigantic multi-billion dollar investment. And in doing so, it figured out something that nobody
  should be surprised about: building a car that can drive itself is very, very expensive.
@@ -116,33 +109,28 @@ Tesla announced the price adjustment in a post on X, in which it described the L
 [23andMe](https://www.23andme.com/) reduced the price of DNA Genotyping to $99 from whatever infinite amount it used to cost.  I bought immediately.  I'm wondering if Andrew wrote that the enormous price reduction was a reflection of "continuing
  financial hardships"?  C'mon Andrew!  Alain & Elizabeth]
 
-[Tesla's
- Robotaxi unveiling event sets the tone for 2030 and beyond: Morgan Stanley](https://www.teslarati.com/tesla-tsla-robotaxi-unveiling-2030-beyond-morgan-stanley/)
+[Tesla's Robotaxi unveiling event sets the tone for 2030 and beyond: Morgan Stanley](https://www.teslarati.com/tesla-tsla-robotaxi-unveiling-2030-beyond-morgan-stanley/)
 
 J. Klender, April 9, " Tesla CEO Elon Musk confirmed the automaker would bring its Robotaxi to light during an unveiling event on
  August 8.
 
 "We first began writing about the investment considerations of a potential Tesla robotaxi business since we began modeling 'Tesla Mobility' back in 2015 when Tesla's market cap was
  barely $30bn," Adam Jonas, lead analyst for Morgan Stanley, wrote. "We had (mistakenly) expected the company to formally launch a highly automated ride-share service back in 2018. Nearly a decade later, we're still waiting. August 8th will offer some important
- clues.".."…  [Read
- More](https://www.teslarati.com/tesla-tsla-robotaxi-unveiling-2030-beyond-morgan-stanley/)  Hmmmm…
+ clues.".."…  [Read More](https://www.teslarati.com/tesla-tsla-robotaxi-unveiling-2030-beyond-morgan-stanley/)  Hmmmm…
  As usual, Adam is right on!  August 8th will offer some important clues.  In the meantime, I'm surprised that all of the images and descriptions seem to me to be a decade old, as if time has stood still. OK; Starship does look a little like the
  Falcon 9.  😊
  Alain
 
- [The
- Real Case for Driverless Mobility](https://digital.emagazines.com/its_international/20240408/index.html?t=f23f4986-5f7c-466a-88d4-1cff3ac94abe&utm_campaign=eg_its_international&utm_source=eg&utm_medium=eg#p50)
+ [The Real Case for Driverless Mobility](https://digital.emagazines.com/its_international/20240408/index.html?t=f23f4986-5f7c-466a-88d4-1cff3ac94abe&utm_campaign=eg_its_international&utm_source=eg&utm_medium=eg#p50)
 
 B. Grush, March/April 2024, "… A new book by Alain L. Kornhauser and Michael L. Sena… advocates for automated driving systems as a core component of public transportation- … This is sourced
  from Princeton University's long-standing and highly regarded SmartDrivingCar effort, which has for years advocated the intelligent application of automated vehicles to improve equitable access for mobility disadvantaged populations…"
-[Read
- More](https://digital.emagazines.com/its_international/20240408/index.html?t=f23f4986-5f7c-466a-88d4-1cff3ac94abe&utm_campaign=eg_its_international&utm_source=eg&utm_medium=eg#p50)  Hmmmm…
+[Read More](https://digital.emagazines.com/its_international/20240408/index.html?t=f23f4986-5f7c-466a-88d4-1cff3ac94abe&utm_campaign=eg_its_international&utm_source=eg&utm_medium=eg#p50)  Hmmmm…
 Thank you Bern
 J
  Alain
 
-   [Tesla settles case over fatal Autopilot crash of Apple
- engineer](https://www.reuters.com/legal/tesla-settles-case-over-fatal-2018-crash-apple-engineer-washington-post-reports-2024-04-08/)
+   [Tesla settles case over fatal Autopilot crash of Apple engineer](https://www.reuters.com/legal/tesla-settles-case-over-fatal-2018-crash-apple-engineer-washington-post-reports-2024-04-08/)
 
 A. Roy, April 8, "Tesla [(TSLA.O), opens new tab](https://www.reuters.com/markets/companies/TSLA.O) has settled
  a lawsuit over a 2018 car crash that killed an Apple engineer after his Model X, operating on Autopilot, swerved off a highway near San Francisco, court documents showed on Monday.
@@ -155,8 +143,7 @@ The settlement, the terms of which were not disclosed, came as Chief Executive E
 
 The 2018 accident killed 38-year-old Walter Huang. His family had alleged that Autopilot steered his 2017 Model X into a highway barrier. Plaintiffs' lawyers asked a Tesla witness whether the
  company knew drivers would not watch the road when using its driver-assistance system, Reuters reported last month citing deposition [transcripts](https://www.reuters.com/business/autos-transportation/next-autopilot-trial-test-teslas-blame-the-driver-defense-2024-03-11/).…"
-[Read
- More](https://www.reuters.com/legal/tesla-settles-case-over-fatal-2018-crash-apple-engineer-washington-post-reports-2024-04-08/)  Hmmmm…  It
+[Read More](https://www.reuters.com/legal/tesla-settles-case-over-fatal-2018-crash-apple-engineer-washington-post-reports-2024-04-08/)  Hmmmm…  It
  is good that a settlement was reached in this tragic situation among the family, Tesla and Apple.  What is surprising to me is that the real culprit here may have been Caltrans. Look at the video contained in the ABC news report from March 30, 2018, when
 [Dan Noyes returned to the scene of the crash](https://abc7news.com/dan-noyes-tesla-crash-iteam-barrier-battery-safety/3284757/).  The lane striping approaching this high speed off ramp is essentially unintelligible.  So much so that a few weeks earlier a human driver became disoriented and crashed into the arrestor that had existed in
  this location, as I reported in the SDC eLetter at the time.
@@ -169,8 +156,7 @@ The 2018 accident killed 38-year-old Walter Huang. His family had alleged that A
 All any of us in the driverless car business have ever asked of the public road builders are the same things that
  human drivers ask for: A smooth surface with good paint that properly delineates lanes of travel and readable signs that instruct humans about changing rules and conditions.  Alain
 
-  [2024.3.15
- (FSD Supervised v12.3.4) Release Notes](https://www.notateslaapp.com/software-updates/version/2024.3.15/release-notes)
+  [2024.3.15 (FSD Supervised v12.3.4) Release Notes](https://www.notateslaapp.com/software-updates/version/2024.3.15/release-notes)
 
 Staff,  April 10, "This update adds FSD v12 to the legacy Model S and Model X, as well as the new Model 3 for the first time. This update is also available for other vehicles which are already
  on FSD v12.
@@ -182,8 +168,7 @@ Under your supervision, Full Self-Driving (Supervised) can drive your Tesla almo
 [Read More](https://www.notateslaapp.com/software-updates/version/2024.3.15/release-notes)  Hmmmm…
    Impressive.  Alain
 
- [6th
- SmartDrivingCars Summit](https://summit.princeton.edu/) Evening May 29 -> May 31, 2024
+ [6th SmartDrivingCars Summit](https://summit.princeton.edu/) Evening May 29 -> May 31, 2024
 
 Alain Kornhauser, March 8, "We promise civil and lively discussions as to how to improve the Quality-of-Life (QoL) for many while disrupting the QoL to as few
  as possible.  Focus will be on the business aspects…

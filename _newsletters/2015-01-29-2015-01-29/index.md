@@ -10,14 +10,7 @@ January
                                                           29,
                                                           2015
 
-## [NHTSA
-
-                                                          adding
-                                                          automatic
-                                                          braking to
-                                                          recommended
-                                                          safety tech
-                                                          list](http://www.autoblog.com/2015/01/25/nhtsa-automatic-braking-recommended-safety-list/)
+## [NHTSA adding automatic braking to recommended safety tech list](http://www.autoblog.com/2015/01/25/nhtsa-automatic-braking-recommended-safety-list/)
 
  Jan 25 "...US Department Transportation Secretary
                                                           Anthony Foxx
@@ -43,24 +36,9 @@ January
                                                           becoming the
                                                           norm in safety
                                                           evaluations.
-                                                          The [Insurance Institute for Highway
-                                                          Safety](http://www.autoblog.com/tag/iihs/) now [requires
+                                                          The [Insurance Institute for Highway Safety](http://www.autoblog.com/tag/iihs/) now [requires it for a model to earn a Top Safety Pick + rating](http://www.autoblog.com/2014/12/23/vehicles-awarded-iihs-top-safety-pick-skyrockets-for-2015/), and the tech is a must to [score five stars in the Euro NCAP crash test](http://www.autoblog.com/2012/06/15/euro-ncap-will-soon-require-auto-braking-for-five-star-safety-ra/).
 
-                                                          it for a model
-                                                          to earn a Top
-                                                          Safety Pick +
-                                                          rating](http://www.autoblog.com/2014/12/23/vehicles-awarded-iihs-top-safety-pick-skyrockets-for-2015/), and the tech is a must to [score
-
-                                                          five stars in
-                                                          the Euro NCAP
-                                                          crash test](http://www.autoblog.com/2012/06/15/euro-ncap-will-soon-require-auto-braking-for-five-star-safety-ra/).
-
-                                                          [Be
-
-                                                          sure to read
-                                                          the included
-                                                          Foxx's Press
-                                                          Release](http://www.autoblog.com/2015/01/25/nhtsa-automatic-braking-recommended-safety-list/):
+                                                          [Be sure to read the included Foxx's Press Release](http://www.autoblog.com/2015/01/25/nhtsa-automatic-braking-recommended-safety-list/):
 
 "PRESS
 
@@ -104,9 +82,7 @@ January
                                                           according to
                                                           new research
                                                           NHTSA released
-                                                          today...." [Read
-
-                                                          more](http://www.autoblog.com/2015/01/25/nhtsa-automatic-braking-recommended-safety-list/)  Hmmm... this is really good.  Especially if the
+                                                          today...." [Read more](http://www.autoblog.com/2015/01/25/nhtsa-automatic-braking-recommended-safety-list/)  Hmmm... this is really good.  Especially if the
                                                           "plan" is
                                                           actually
                                                           implemented
@@ -115,12 +91,7 @@ January
                                                           buses and
                                                           trucks. Alain
 
-## [Ensuring
-
-                                                          the Insurance
-                                                          of the
-                                                          Autonomous
-                                                          Future](http://viodi.com/2015/01/26/ensuring-the-insurance-of-the-autonomous-future/)
+## [Ensuring the Insurance of the Autonomous Future](http://viodi.com/2015/01/26/ensuring-the-insurance-of-the-autonomous-future/)
 
                                                           by Ken Pyle,
                                                           Managing
@@ -152,9 +123,7 @@ January
                                                           above
                                                           interview,
                                                           Michael
-                                                          Scrudato of [Munich
-
-                                                          RE](http://www.munichamerica.com), points
+                                                          Scrudato of [Munich RE](http://www.munichamerica.com), points
                                                           out that
                                                           autonomous
                                                           vehicles offer
@@ -170,21 +139,9 @@ January
                                                           emotional
                                                           damage from
                                                           car crashes.
-                                                          "[Read more and
-                                                          be sure to
-                                                          watch the
-                                                          video.](http://viodi.com/2015/01/26/ensuring-the-insurance-of-the-autonomous-future/)
+                                                          "[Read more and be sure to watch the video.](http://viodi.com/2015/01/26/ensuring-the-insurance-of-the-autonomous-future/)
 
-## [Ford
-
-                                                          Opens Silicon
-                                                          Valley
-                                                          Research
-                                                          Center:
-                                                          Stepping the
-                                                          Pedal for
-                                                          Driverless Car
-                                                          Development?](http://www.techtimes.com/articles/28319/20150123/ford-opens-silicon-valley-research-center-stepping-the-pedal-for-driverless-car-development.htm)
+## [Ford Opens Silicon Valley Research Center: Stepping the Pedal for Driverless Car Development?](http://www.techtimes.com/articles/28319/20150123/ford-opens-silicon-valley-research-center-stepping-the-pedal-for-driverless-car-development.htm)
 
 Aaron
 
@@ -221,17 +178,9 @@ Aaron
                                                           available for
                                                           the
                                                           industry...."
-[Read
+[Read more](http://www.techtimes.com/articles/28319/20150123/ford-opens-silicon-valley-research-center-stepping-the-pedal-for-driverless-car-development.htm)
 
-                                                          more](http://www.techtimes.com/articles/28319/20150123/ford-opens-silicon-valley-research-center-stepping-the-pedal-for-driverless-car-development.htm)
-
-## [Germany's
-
-                                                          A9 autobahn to
-                                                          become test
-                                                          track for
-                                                          self-driving
-                                                          cars](http://www.gizmag.com/germany-self-driving-car-public-test/35806/)
+## [Germany's A9 autobahn to become test track for self-driving cars](http://www.gizmag.com/germany-self-driving-car-public-test/35806/)
 
 Tony
 
@@ -271,16 +220,9 @@ Tony
                                                           serious they
                                                           are about
                                                           this.
-[Read
+[Read more](http://www.gizmag.com/germany-self-driving-car-public-test/35806/)
 
-                                                          more](http://www.gizmag.com/germany-self-driving-car-public-test/35806/)
-
-## [TRW
-
-                                                          hires 650 for
-                                                          self-driving
-                                                          car tech -
-                                                          Automobilwoche](http://in.reuters.com/article/2015/01/25/zffriedrichshafan-trw-autonomous-idINKBN0KY0GZ20150125)
+## [TRW hires 650 for self-driving car tech - Automobilwoche](http://in.reuters.com/article/2015/01/25/zffriedrichshafan-trw-autonomous-idINKBN0KY0GZ20150125)
 
 Jan
 
@@ -319,14 +261,7 @@ Jan
                                                           and camera
                                                           systems..." [Read more](http://in.reuters.com/article/2015/01/25/zffriedrichshafan-trw-autonomous-idINKBN0KY0GZ20150125)
 
-## [Google
-
-                                                          warns
-                                                          California DMV
-                                                          away from
-                                                          regulating
-                                                          self-driving
-                                                          cars](http://www.bizjournals.com/sanjose/news/2015/01/27/google-warns-california-dmv-away-from-regulating.html)
+## [Google warns California DMV away from regulating self-driving cars](http://www.bizjournals.com/sanjose/news/2015/01/27/google-warns-california-dmv-away-from-regulating.html)
 
 Allen
 
@@ -388,9 +323,7 @@ Allen
                                                           company' own
                                                           safety
                                                           process...."
-[Read
-
-                                                          more](http://www.bizjournals.com/sanjose/news/2015/01/27/google-warns-california-dmv-away-from-regulating.html)  Hmmm  "... too intricate for state government
+[Read more](http://www.bizjournals.com/sanjose/news/2015/01/27/google-warns-california-dmv-away-from-regulating.html)  Hmmm  "... too intricate for state government
                                                           representatives
                                                           to fully
                                                           grasp"  Whew,
@@ -403,14 +336,7 @@ Allen
                                                           deserve your
                                                           time:
 
-### [250
-
-                                                          Million:
-                                                          Number of
-                                                          Connected
-                                                          Vehicles on
-                                                          the Road in
-                                                          2020](http://www.highwaysindustry.com/250-million-number-connected-vehicles-road-2020/)
+### [250 Million: Number of Connected Vehicles on the Road in 2020](http://www.highwaysindustry.com/250-million-number-connected-vehicles-road-2020/)
 
 "Gartner's report "Predicts 2015: The Internet of
                                                           Things"
@@ -427,9 +353,7 @@ Allen
                                                           to over 250
                                                           million
                                                           connected
-                                                          cars....[Read
-
-                                                          more](http://www.highwaysindustry.com/250-million-number-connected-vehicles-road-2020/)  Hmmm How many will have DSRC?  Also, essentially all
+                                                          cars....[Read more](http://www.highwaysindustry.com/250-million-number-connected-vehicles-road-2020/)  Hmmm How many will have DSRC?  Also, essentially all
                                                           cars today
                                                           have "wireless
                                                           internet
@@ -446,9 +370,7 @@ Allen
                                                           is the news
                                                           here? Alain
 
-## [C'mon
-
-                                                          Man!](https://www.youtube.com/watch?v=fhCks3bvTdA)
+## [C'mon Man!](https://www.youtube.com/watch?v=fhCks3bvTdA)
                                                           (These folks
                                                           didn't
                                                           get/read the
@@ -463,12 +385,7 @@ Invitation
 
                                                           ONLY
 
-[Automated
-
-                                                          Vehicle
-                                                          Founder's
-                                                          Meeting @ Fort
-                                                          Monmouth](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/FtMonmouth/Jan30_ReminderFtMonmouthMtg.pdf)
+[Automated Vehicle Founder's Meeting @ Fort Monmouth](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/FtMonmouth/Jan30_ReminderFtMonmouthMtg.pdf)
 Bringing
 
                                                           together the
@@ -488,21 +405,17 @@ Bringing
 
 Save the date (Invitation
 
-                                                          only)[](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/FtMonmouth/Jan27_Invitation.pdf)[Friday,
+                                                          only)[Friday, January 30, 2015 @ Ft. Monmouth, NJ](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/FtMonmouth/Jan30_ReminderFtMonmouthMtg.pdf)
 
-                                                          January 30, 2015 @ Ft. Monmouth, NJ](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/FtMonmouth/Jan30_ReminderFtMonmouthMtg.pdf)
-
-[](http://www.autonomousvehiclesymposium.com/)
 
 ## [Call for Papers](http://www.autonomousvehiclesymposium.com/)
 
-## [](http://www.driverlesstransportation.com/event/automated-vehicles-symposium-2015)
+## 
 
 [http://www.driverlesstransportation.com/event/automated-vehicles-symposium-2015](http://www.driverlesstransportation.com/event/automated-vehicles-symposium-2015)
 
 ## Job Postings
 
-[](https://sjobs.brassring.com/TGWebHost/searchopenings.aspx?partnerid=25104&siteid=5189)
 
 A
                                                           postdoc
@@ -551,9 +464,7 @@ January
 
 ###
 
-### [State-wide
-
-                                                          aTaxi Service](http://www.princeton.edu/%7Ealaink/Orf467F14/Orf467F14FinalProjectPresentationSchedule.pdf)
+### [State-wide aTaxi Service](http://www.princeton.edu/%7Ealaink/Orf467F14/Orf467F14FinalProjectPresentationSchedule.pdf)
 
 Serving New Jersey's Personal Mobility Needs with
 
@@ -720,14 +631,7 @@ January
 
                                                           4, 2015
 
-### [New
-
-                                                          York Bus
-                                                          Driver
-                                                          Arrested After
-                                                          Fatally
-                                                          Striking
-                                                          Pedestrian](http://www.nytimes.com/2014/12/25/nyregion/new-york-bus-driver-arrested-after-fatally-striking-pedestrian.html?emc=eta1)
+### [New York Bus Driver Arrested After Fatally Striking Pedestrian](http://www.nytimes.com/2014/12/25/nyregion/new-york-bus-driver-arrested-after-fatally-striking-pedestrian.html?emc=eta1)
 
 MARC SANTORA DEC. 24, 2014 "A Metropolitan
                                                           Transportation
@@ -777,9 +681,7 @@ Mr.
                                                           was struck by
                                                           the bus, the
                                                           police
-                                                          said..."  [Read
-
-                                                          more](http://www.nytimes.com/2014/12/25/nyregion/new-york-bus-driver-arrested-after-fatally-striking-pedestrian.html?emc=eta1)
+                                                          said..."  [Read more](http://www.nytimes.com/2014/12/25/nyregion/new-york-bus-driver-arrested-after-fatally-striking-pedestrian.html?emc=eta1)
 
 Hmmm... Tragic for everyone.  Such accidents would be
                                                           largely
@@ -823,14 +725,7 @@ December
 
 ###
 
-### [Daimler
-
-                                                          Chairman Dr.
-                                                          Dieter Zetsche
-                                                          to Deliver
-                                                          Keynote
-                                                          Address at
-                                                          2015 CES](http://www.cesweb.org/News/Press-Releases/CES-Press-Release.aspx?NodeID=c7f1e0ca-b638-4293-8fd6-281c0e22707a)
+### [Daimler Chairman Dr. Dieter Zetsche to Deliver Keynote Address at 2015 CES](http://www.cesweb.org/News/Press-Releases/CES-Press-Release.aspx?NodeID=c7f1e0ca-b638-4293-8fd6-281c0e22707a)
 
 Arlington, VA – 10/06/2014 – "The Consumer Electronics
                                                           Association
@@ -902,9 +797,7 @@ Arlington, VA – 10/06/2014 – "The Consumer Electronics
                                                           Theater within
                                                           the
                                                           Cosmopolitan."
-                                                          [Read
-
-                                                          mor](http://www.cesweb.org/News/Press-Releases/CES-Press-Release.aspx?NodeID=c7f1e0ca-b638-4293-8fd6-281c0e22707a)e
+                                                          [Read mor](http://www.cesweb.org/News/Press-Releases/CES-Press-Release.aspx?NodeID=c7f1e0ca-b638-4293-8fd6-281c0e22707a)e
                                                           Daimler
 
                                                           will have a
@@ -920,10 +813,7 @@ December
 
 ###
 
-### [2014
-                                                          Florida
-                                                          Automated
-                                                          Vehicle Summit](http://www.fleng.org/index.cfm)
+### [2014 Florida Automated Vehicle Summit](http://www.fleng.org/index.cfm)
 
 Florida DOT is blazing the trail for the integration of
                                                           automated
@@ -947,7 +837,7 @@ Florida DOT is blazing the trail for the integration of
                                                           technologies.
                                                           [Agenda](http://www.fleng.info/images/files/FAV%20Summit%202014_DRAFT%20Agenda09292014.pdf)[Register](http://www.fleng.org/seminars.cfm?event_id=626)
 
-                                                          [](Mailto:alaink@princeton.edu)[Mailto:alaink@princeton.edu](Mailto:alaink@princeton.edu)[](Mailto:alaink@princeton.edu)
+                                                          [Mailto:alaink@princeton.edu](Mailto:alaink@princeton.edu)
 
                                                           This list is
                                                           maintained by

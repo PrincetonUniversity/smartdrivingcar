@@ -12,7 +12,7 @@ Click or tap if you trust this link.">Monday,
   22nd
 edition of the 12th year of SmartDrivingCars eLetter
 
-[](https://www.michaellsena.com/the-dispatcher-newsletter-2/)[Dispatch Central:  The 6th Princeton SmartDrivingCars Summit](https://www.michaellsena.com/the-dispatcher-newsletter-2/)
+[Dispatch Central:  The 6th Princeton SmartDrivingCars Summit](https://www.michaellsena.com/the-dispatcher-newsletter-2/)
 
 Michael Sena,  June 1, AFTER THE 4TH PRINCETON SMARTDRIVINGCARS SUMMIT, which was held virtually due to COVID, Alain Kornhauser and I agreed co-author a book that would explain why
  driverless cars have an important place in the future of transportation. That was three years ago, and the book was published in January of this year. The chapters of the book provided the organizing structure for much of the 6TH SUMMIT held in the PRINCETON
@@ -54,7 +54,7 @@ On the second day of the Summit, we showed a simulation of how driverless cars c
  and drop-off points are positioned within a five-minute walk of all residences, and daily trips from each household are calculated based on census data. Simulated trips to work, school, shopping, recreation, and all other places are estimated based on the
  demographics of the residences within the census district. A significant amount of time and effort has been put into developing the simulator over the years by Alain and his students, and they are all credited with special mention at the end or out book.
 
-[](https://www.dropbox.com/scl/fi/daoinf8btujv332q021nd/Orf401S24_-About_HandyRides.docx?rlkey=gjylhc9bsim5nncf8x7eq5hlz&dl=0)It's
+It's
  time for MOVES to get moving
 
 At this time next year, there should be a real MOVES23 pilot project in a real community, not just a simulation. That is the goal. If there is a 7TH SMARTDRIVINGCARS
@@ -64,10 +64,8 @@ At this time next year, there should be a real MOVES23 pilot project in a real c
 [Read More](https://www.michaellsena.com/the-dispatcher-newsletter-2/)Hmmmm…
  Here we go. We're beginning to do it.  Alain
 
-[Just
- Published](https://www.amazon.com/Real-Case-Driverless-Mobility-Vehicles/dp/0443236852/ref=sr_1_1?crid=1XSXZ611C2JCN&keywords=Kornhauser+sena&qid=1707095108&sprefix=kornhauser+sena%2Caps%2C76&sr=8-1&ufe=app_do%3Aamzn1.fos.18ed3cb5-28d5-4975-8bc7-93deae8f9840)!!!
-[Go
- to Amazon.com](https://www.amazon.com/Real-Case-Driverless-Mobility-Vehicles/dp/0443236852/ref=sr_1_1?crid=1XSXZ611C2JCN&keywords=Kornhauser+sena&qid=1707095108&sprefix=kornhauser+sena%2Caps%2C76&sr=8-1&ufe=app_do%3Aamzn1.fos.18ed3cb5-28d5-4975-8bc7-93deae8f9840)… You can still be first on your block to have one
+[Just Published](https://www.amazon.com/Real-Case-Driverless-Mobility-Vehicles/dp/0443236852/ref=sr_1_1?crid=1XSXZ611C2JCN&keywords=Kornhauser+sena&qid=1707095108&sprefix=kornhauser+sena%2Caps%2C76&sr=8-1&ufe=app_do%3Aamzn1.fos.18ed3cb5-28d5-4975-8bc7-93deae8f9840)!!!
+[Go to Amazon.com](https://www.amazon.com/Real-Case-Driverless-Mobility-Vehicles/dp/0443236852/ref=sr_1_1?crid=1XSXZ611C2JCN&keywords=Kornhauser+sena&qid=1707095108&sprefix=kornhauser+sena%2Caps%2C76&sr=8-1&ufe=app_do%3Aamzn1.fos.18ed3cb5-28d5-4975-8bc7-93deae8f9840)… You can still be first on your block to have one
 J.
 
 SmartDrivingCars

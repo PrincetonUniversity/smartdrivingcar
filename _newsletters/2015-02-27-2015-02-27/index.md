@@ -5,16 +5,7 @@ date: 2015-02-27
 permalink: /2015-02-27-2015-02-27/
 ---
 
-## [Safety
-
-                                                          Advocates Call
-                                                          on U.S. DOT to
-                                                          Issue Rule
-                                                          Requiring
-                                                          Crash
-                                                          Avoidance
-                                                          Technology for
-                                                          Large Trucks](http://trucksafety.org/safety-advocates-call-on-u-s-dot-to-issue-rule-requiring-crash-avoidance-technology-for-large-trucks/)
+## [Safety Advocates Call on U.S. DOT to Issue Rule Requiring Crash Avoidance Technology for Large Trucks](http://trucksafety.org/safety-advocates-call-on-u-s-dot-to-issue-rule-requiring-crash-avoidance-technology-for-large-trucks/)
 
 Feb
 
@@ -67,26 +58,12 @@ Feb
                                                           the brakes
                                                           when a crash
                                                           is
-                                                          imminent....[Petition
+                                                          imminent....[Petition for Rule Making (PDF](http://trucksafety.org/wp-content/uploads/2015/02/F-CAM-Petition-for-Rulemaking-2-19-15-FINAL.pdf));
 
-                                                          for Rule
-                                                          Making (PDF](http://trucksafety.org/wp-content/uploads/2015/02/F-CAM-Petition-for-Rulemaking-2-19-15-FINAL.pdf));
+                                                          [Petition Crash List (PDF)](http://trucksafety.org/wp-content/uploads/2015/02/CMV-F-CAM-Petition-Crash-List.pdf); [Press Release (PDF)](http://trucksafety.org/wp-content/uploads/2015/02/F-CAM-Petition-Press-Release-FINAL.pdf)"
+                                                          [Read more](http://trucksafety.org/safety-advocates-call-on-u-s-dot-to-issue-rule-requiring-crash-avoidance-technology-for-large-trucks/)
 
-                                                          [Petition
-
-                                                          Crash List
-                                                          (PDF)](http://trucksafety.org/wp-content/uploads/2015/02/CMV-F-CAM-Petition-Crash-List.pdf); [Press
-
-                                                          Release (PDF)](http://trucksafety.org/wp-content/uploads/2015/02/F-CAM-Petition-Press-Release-FINAL.pdf)"
-                                                          [Read
-
-                                                          more](http://trucksafety.org/safety-advocates-call-on-u-s-dot-to-issue-rule-requiring-crash-avoidance-technology-for-large-trucks/)
-
-## [Driverless
-
-                                                          car beats
-                                                          racing driver
-                                                          for first time](http://www.telegraph.co.uk/news/science/science-news/11410261/Driverless-car-beats-racing-driver-for-first-time.html)
+## [Driverless car beats racing driver for first time](http://www.telegraph.co.uk/news/science/science-news/11410261/Driverless-car-beats-racing-driver-for-first-time.html)
 
 Sarah
 
@@ -120,30 +97,16 @@ Sarah
                                                           Raceway Park
                                                           in Northern
                                                           California.
-                                                          ..."  [Read
+                                                          ..."  [Read more](http://www.telegraph.co.uk/news/science/science-news/11410261/Driverless-car-beats-racing-driver-for-first-time.html)  Be sure to watch video. Alain
 
-                                                          more](http://www.telegraph.co.uk/news/science/science-news/11410261/Driverless-car-beats-racing-driver-for-first-time.html)  Be sure to watch video. Alain
-
-## [Volvo
-
-                                                          expands
-                                                          project
-                                                          enabling cars
-                                                          to share
-                                                          information on
-                                                          road
-                                                          conditions](http://www.gizmag.com/volvo-expands-road-condition-information-project/36092/)
+## [Volvo expands project enabling cars to share information on road conditions](http://www.gizmag.com/volvo-expands-road-condition-information-project/36092/)
 
 By
 
                                                           Tony Borroz
                                                           Feb. 16, 2015
                                                           "...Unlike a
-                                                          lot of other [car-to-car
-
-                                                          information
-                                                          sharing
-                                                          concepts](http://www.gizmag.com/daimler-c2x-field-trial/23633/)
+                                                          lot of other [car-to-car information sharing concepts](http://www.gizmag.com/daimler-c2x-field-trial/23633/)
                                                           that focus on
                                                           improving
                                                           traffic flow
@@ -173,9 +136,7 @@ By
                                                           to where you
                                                           are and aimed
                                                           only at
-                                                          you...."[Read
-
-                                                          more](http://www.gizmag.com/volvo-expands-road-condition-information-project/36092/)
+                                                          you...."[Read more](http://www.gizmag.com/volvo-expands-road-condition-information-project/36092/)
 
 ...Hmmm
 
@@ -241,15 +202,7 @@ By
 
 Alain
 
-## [The
-
-                                                          Economist
-                                                          Provides False
-                                                          Comfort to
-                                                          Established
-                                                          Carmakers on
-                                                          Driverless
-                                                          Cars](http://www.forbes.com/sites/chunkamui/2015/02/24/the-economist-provides-false-comfort-to-established-carmakers-on-driverless-cars/)
+## [The Economist Provides False Comfort to Established Carmakers on Driverless Cars](http://www.forbes.com/sites/chunkamui/2015/02/24/the-economist-provides-false-comfort-to-established-carmakers-on-driverless-cars/)
 
                                                           Chunk Mui
                                                           2/24/15 "..The
@@ -327,15 +280,9 @@ Alain
                                                           insurers) into
                                                           a false sense
                                                           of security.
-                                                          [Read
+                                                          [Read more](http://www.forbes.com/sites/chunkamui/2015/02/24/the-economist-provides-false-comfort-to-established-carmakers-on-driverless-cars/)  ...very worth reading  Alain
 
-                                                          more](http://www.forbes.com/sites/chunkamui/2015/02/24/the-economist-provides-false-comfort-to-established-carmakers-on-driverless-cars/)  ...very worth reading  Alain
-
-## [Do
-
-                                                          driverless
-                                                          cars mean we
-                                                          can scrap HS2?](http://www.conservativehome.com/the-deep-end/2015/02/do-driverless-cars-mean-we-can-scrap-hs2.html)
+## [Do driverless cars mean we can scrap HS2?](http://www.conservativehome.com/the-deep-end/2015/02/do-driverless-cars-mean-we-can-scrap-hs2.html)
 
 Peter
 
@@ -409,19 +356,9 @@ Peter
                                                           departure and
                                                           arrival times
                                                           than rail can
-                                                          offer?"..."  [Read
+                                                          offer?"..."  [Read more](http://www.conservativehome.com/the-deep-end/2015/02/do-driverless-cars-mean-we-can-scrap-hs2.html) Hmmm...Potentially big implications. Alain
 
-                                                          more](http://www.conservativehome.com/the-deep-end/2015/02/do-driverless-cars-mean-we-can-scrap-hs2.html) Hmmm...Potentially big implications. Alain
-
-## [How
-
-                                                          Much Training
-                                                          Do You Need to
-                                                          Be a Robocar
-                                                          Test Driver?
-                                                          It Depends On
-                                                          Whom You Work
-                                                          For](http://spectrum.ieee.org/cars-that-think/transportation/human-factors/how-much-training-do-you-need-to-be-a-robocar-test-driver-it-depends-on-whom-you-work-for?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A%20IeeeSpectrum%20%28IEEE%20Spectrum%29)
+## [How Much Training Do You Need to Be a Robocar Test Driver? It Depends On Whom You Work For](http://spectrum.ieee.org/cars-that-think/transportation/human-factors/how-much-training-do-you-need-to-be-a-robocar-test-driver-it-depends-on-whom-you-work-for?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A%20IeeeSpectrum%20%28IEEE%20Spectrum%29)
 
                                                           Mark Harris 24
                                                           Feb 2015
@@ -465,18 +402,11 @@ Peter
                                                           training
                                                           program in
                                                           less than 2
-                                                          hours...."  [Read
-
-                                                          more](http://spectrum.ieee.org/cars-that-think/transportation/human-factors/how-much-training-do-you-need-to-be-a-robocar-test-driver-it-depends-on-whom-you-work-for?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A%20IeeeSpectrum%20%28IEEE%20Spectrum%29)
+                                                          hours...."  [Read more](http://spectrum.ieee.org/cars-that-think/transportation/human-factors/how-much-training-do-you-need-to-be-a-robocar-test-driver-it-depends-on-whom-you-work-for?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A%20IeeeSpectrum%20%28IEEE%20Spectrum%29)
 
 ## Some other thoughts that deserve your time:
 
-### T[axis
-
-                                                          Go Communal:
-                                                          Bandwagon
-                                                          Brings Taxi
-                                                          Sharing to NYC](http://www.shareable.net/blog/taxis-go-communal-bandwagon-brings-taxi-sharing-to-nyc)
+### T[axis Go Communal: Bandwagon Brings Taxi Sharing to NYC](http://www.shareable.net/blog/taxis-go-communal-bandwagon-brings-taxi-sharing-to-nyc)
 
  Jessica
 
@@ -524,13 +454,7 @@ Peter
                                                           Washington,
                                                           DC  Alain
 
-### [The
-
-                                                          ride-share
-                                                          saga: A year
-                                                          of Lyft and
-                                                          Uber in
-                                                          Pittsburgh](http://www.post-gazette.com/business/money/2015/02/08/The-ride-share-saga-A-year-of-Lyft-and-Uber-in-Pittsburgh/stories/201502020158)
+### [The ride-share saga: A year of Lyft and Uber in Pittsburgh](http://www.post-gazette.com/business/money/2015/02/08/The-ride-share-saga-A-year-of-Lyft-and-Uber-in-Pittsburgh/stories/201502020158)
 
 Feb. 8, 2015 Kim Lyons "Last winter, ride-share
                                                           companies Lyft
@@ -577,16 +501,9 @@ Feb. 8, 2015 Kim Lyons "Last winter, ride-share
                                                           the idea that
                                                           the services
                                                           should stay."
-                                                          [Read
+                                                          [Read more](http://www.post-gazette.com/business/money/2015/02/08/The-ride-share-saga-A-year-of-Lyft-and-Uber-in-Pittsburgh/stories/201502020158)
 
-                                                          more](http://www.post-gazette.com/business/money/2015/02/08/The-ride-share-saga-A-year-of-Lyft-and-Uber-in-Pittsburgh/stories/201502020158)
-
-### T[he
-
-                                                          Stone: Outing
-                                                          A.I.: Beyond
-                                                          the Turing
-                                                          Test](http://opinionator.blogs.nytimes.com/2015/02/23/outing-a-i-beyond-the-turing-test/?_r=0)
+### T[he Stone: Outing A.I.: Beyond the Turing Test](http://opinionator.blogs.nytimes.com/2015/02/23/outing-a-i-beyond-the-turing-test/?_r=0)
 
                                                           Benjamin H.
                                                           Bratton, Feb.
@@ -607,11 +524,7 @@ Feb. 8, 2015 Kim Lyons "Last winter, ride-share
                                                           worth reading!
                                                           Prof. K.
 
-### [Google
-
-                                                          and Apple
-                                                          Fight for the
-                                                          Car Dashboard](http://www.nytimes.com/2015/02/23/technology/rivals-google-and-apple-fight-for-the-dashboard.html?ref=business)
+### [Google and Apple Fight for the Car Dashboard](http://www.nytimes.com/2015/02/23/technology/rivals-google-and-apple-fight-for-the-dashboard.html?ref=business)
 
                                                           In the coming
                                                           months,
@@ -637,9 +550,7 @@ Feb. 8, 2015 Kim Lyons "Last winter, ride-share
                                                           traveTainment.
                                                           Prof. K.
 
-### [Upsetting
-
-                                                          the Apple car](http://www.economist.com/news/business/21644149-established-carmakers-not-tech-firms-will-win-race-build-vehicles?fsrc=scn/tw/te/bl/ed/upsettingtheapplecar)
+### [Upsetting the Apple car](http://www.economist.com/news/business/21644149-established-carmakers-not-tech-firms-will-win-race-build-vehicles?fsrc=scn/tw/te/bl/ed/upsettingtheapplecar)
 
                                                           Feb 21  "The
                                                           established
@@ -649,15 +560,9 @@ Feb. 8, 2015 Kim Lyons "Last winter, ride-share
                                                           race to build
                                                           the vehicles
                                                           of the
-                                                          future..."  [Read
+                                                          future..."  [Read more](http://www.economist.com/news/business/21644149-established-carmakers-not-tech-firms-will-win-race-build-vehicles?fsrc=scn/tw/te/bl/ed/upsettingtheapplecar)
 
-                                                          more](http://www.economist.com/news/business/21644149-established-carmakers-not-tech-firms-will-win-race-build-vehicles?fsrc=scn/tw/te/bl/ed/upsettingtheapplecar)
-
-### [Ford's
-
-                                                          Working on a
-                                                          Remote Control
-                                                          for Your Car](http://www.wired.com/2015/01/fords-working-remote-control-car/?utm_campaign=cmp_394079&utm_medium=email&utm_source=getanewsletter)
+### [Ford's Working on a Remote Control for Your Car](http://www.wired.com/2015/01/fords-working-remote-control-car/?utm_campaign=cmp_394079&utm_medium=email&utm_source=getanewsletter)
 
                                                            Alex Davies
                                                           01.26.15
@@ -674,16 +579,9 @@ Feb. 8, 2015 Kim Lyons "Last winter, ride-share
                                                           standard 4G
                                                           LTE
                                                           connection...."
-                                                          [Read
+                                                          [Read more](http://www.wired.com/2015/01/fords-working-remote-control-car/?utm_campaign=cmp_394079&utm_medium=email&utm_source=getanewsletter)
 
-                                                          more](http://www.wired.com/2015/01/fords-working-remote-control-car/?utm_campaign=cmp_394079&utm_medium=email&utm_source=getanewsletter)
-
-### [Singapore
-
-                                                          Restaurant
-                                                          Uses
-                                                          Autonomous
-                                                          Drone Waiters](http://hypebeast.com/2015/2/singapore-restaurant-uses-autonomous-drone-waiters)
+### [Singapore Restaurant Uses Autonomous Drone Waiters](http://hypebeast.com/2015/2/singapore-restaurant-uses-autonomous-drone-waiters)
 
 ## Half-baked stuff that probably doesn't deserve your
                                                           time:
@@ -714,11 +612,7 @@ Feb. 8, 2015 Kim Lyons "Last winter, ride-share
                                                           details??
                                                           Alain
 
-### [Are
-
-                                                          We Ready for
-                                                          Autonomous
-                                                          Vehicles?](http://www.eetimes.com/author.asp?section_id=36&doc_id=1325820&_mc=NL_EET_EDT_EET_daily_20150226&cid=NL_EET_EDT_EET_daily_20150226&elq=cbd47f8ab29343bd8898461d4cc3a213&elqCampaignId=21827&elqaid=24508&elqat=1&elqTrackId=97f9c5a4423b48f29f8b5ba8ff8ca7ca)
+### [Are We Ready for Autonomous Vehicles?](http://www.eetimes.com/author.asp?section_id=36&doc_id=1325820&_mc=NL_EET_EDT_EET_daily_20150226&cid=NL_EET_EDT_EET_daily_20150226&elq=cbd47f8ab29343bd8898461d4cc3a213&elqCampaignId=21827&elqaid=24508&elqat=1&elqTrackId=97f9c5a4423b48f29f8b5ba8ff8ca7ca)
 
 Jim
 
@@ -732,40 +626,24 @@ Jim
                                                           security,
                                                           reliability,
                                                           and ownership
-                                                          costs...."  [Read
-
-                                                          more](http://www.eetimes.com/author.asp?section_id=36&doc_id=1325820&_mc=NL_EET_EDT_EET_daily_20150226&cid=NL_EET_EDT_EET_daily_20150226&elq=cbd47f8ab29343bd8898461d4cc3a213&elqCampaignId=21827&elqaid=24508&elqat=1&elqTrackId=97f9c5a4423b48f29f8b5ba8ff8ca7ca)  Hmmm...Mostly a rehash. Alain
+                                                          costs...."  [Read more](http://www.eetimes.com/author.asp?section_id=36&doc_id=1325820&_mc=NL_EET_EDT_EET_daily_20150226&cid=NL_EET_EDT_EET_daily_20150226&elq=cbd47f8ab29343bd8898461d4cc3a213&elqCampaignId=21827&elqaid=24508&elqat=1&elqTrackId=97f9c5a4423b48f29f8b5ba8ff8ca7ca)  Hmmm...Mostly a rehash. Alain
 
 ## Calendar
 
                                                           of Upcoming
                                                           Events:
 
-[Autonomous/Connected
+[Autonomous/Connected Vehicle Summit Concord Hilton, Concord CA March 31, 2015](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/PDFs/GoMentumMarch31Announcement.pdf)
 
-                                                          Vehicle Summit
-
-                                                          Concord
-                                                          Hilton,
-                                                          Concord CA
-
-                                                          March 31, 2015](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/PDFs/GoMentumMarch31Announcement.pdf)
-
-## [1st
-
-                                                          Workshop -
-                                                          Socio-economic
-                                                          impact of road
-                                                          transport
-                                                          automation](http://www.citymobil2.eu/en/News-Events/CM2-La-Rochelle-2015-events/1st-Workshop-Socio-economic-impact-of-road-automation/)
+## [1st Workshop - Socio-economic impact of road transport automation](http://www.citymobil2.eu/en/News-Events/CM2-La-Rochelle-2015-events/1st-Workshop-Socio-economic-impact-of-road-automation/)
 
                                                           March 30, 31,
                                                           2015
-[](http://www.autonomousvehiclesymposium.com/)
+
 
 ## [Call for Papers](http://www.autonomousvehiclesymposium.com/)
 
-## [](http://www.driverlesstransportation.com/event/automated-vehicles-symposium-2015)
+## 
 
 [http://www.driverlesstransportation.com/event/automated-vehicles-symposium-2015](http://www.driverlesstransportation.com/event/automated-vehicles-symposium-2015)
 
@@ -781,25 +659,9 @@ Jim
                                                           driverless car
                                                           technology
 
-### [The
+### [The pathway to driverless cars: summary report and action plan](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/401562/pathway-driverless-cars-summary.pdf)
 
-                                                          pathway to
-                                                          driverless
-                                                          cars: summary
-                                                          report and
-                                                          action plan](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/401562/pathway-driverless-cars-summary.pdf)
-
-### [The
-
-                                                          pathway to
-                                                          driverless
-                                                          cars: a
-                                                          detailed
-                                                          review of
-                                                          regulations
-                                                          for automated
-                                                          vehicle
-                                                          technologies](The%20pathway%20to%20driverless%20cars:%20a%20detailed%20review%20of%20regulations%20for%20automated%20vehicle%20technologies)
+### [The pathway to driverless cars: a detailed review of regulations for automated vehicle technologies](The%20pathway%20to%20driverless%20cars:%20a%20detailed%20review%20of%20regulations%20for%20automated%20vehicle%20technologies)
 
                                                           The above
                                                           review
@@ -834,9 +696,7 @@ Jim
                                                           of potential
                                                           use of fully
                                                           autonomous
-                                                          vehicles. [Read
-
-                                                          more](https://www.gov.uk/government/news/uk-to-lead-development-of-driverless-car-technology?utm_campaign=cmp_389469&utm_medium=email&utm_source=getanewsletter)  Plus
+                                                          vehicles. [Read more](https://www.gov.uk/government/news/uk-to-lead-development-of-driverless-car-technology?utm_campaign=cmp_389469&utm_medium=email&utm_source=getanewsletter)  Plus
                                                           read [speech](https://www.gov.uk/government/speeches/launch-of-the-pathway-to-driverless-cars-report)
                                                           Hmmm...
 
@@ -853,13 +713,7 @@ Jim
 
 ###
 
-### [Germany's
-
-                                                          A9 autobahn to
-                                                          become test
-                                                          track for
-                                                          self-driving
-                                                          cars](http://www.gizmag.com/germany-self-driving-car-public-test/35806/)
+### [Germany's A9 autobahn to become test track for self-driving cars](http://www.gizmag.com/germany-self-driving-car-public-test/35806/)
 
                                                           Tony Borroz,
                                                           Jan. 27, 2015
@@ -901,22 +755,13 @@ Jim
                                                           expected to
                                                           get underway
                                                           later this
-                                                          year...." [Read
-
-                                                          more](http://www.gizmag.com/germany-self-driving-car-public-test/35806/) This is interesting.  Alain
+                                                          year...." [Read more](http://www.gizmag.com/germany-self-driving-car-public-test/35806/) This is interesting.  Alain
 January
 
                                                           29,
                                                           2015
 
-### [NHTSA
-
-                                                          adding
-                                                          automatic
-                                                          braking to
-                                                          recommended
-                                                          safety tech
-                                                          list](http://www.autoblog.com/2015/01/25/nhtsa-automatic-braking-recommended-safety-list/)
+### [NHTSA adding automatic braking to recommended safety tech list](http://www.autoblog.com/2015/01/25/nhtsa-automatic-braking-recommended-safety-list/)
 
  Jan
 
@@ -947,24 +792,9 @@ January
                                                           becoming the
                                                           norm in safety
                                                           evaluations.
-                                                          The [Insurance Institute for Highway
-                                                          Safety](http://www.autoblog.com/tag/iihs/)now [requires
+                                                          The [Insurance Institute for Highway Safety](http://www.autoblog.com/tag/iihs/)now [requires it for a model to earn a Top Safety Pick + rating](http://www.autoblog.com/2014/12/23/vehicles-awarded-iihs-top-safety-pick-skyrockets-for-2015/), and the tech is a must to [score five stars in the Euro NCAP crash test](http://www.autoblog.com/2012/06/15/euro-ncap-will-soon-require-auto-braking-for-five-star-safety-ra/).
 
-                                                          it for a model
-                                                          to earn a Top
-                                                          Safety Pick +
-                                                          rating](http://www.autoblog.com/2014/12/23/vehicles-awarded-iihs-top-safety-pick-skyrockets-for-2015/), and the tech is a must to [score
-
-                                                          five stars in
-                                                          the Euro NCAP
-                                                          crash test](http://www.autoblog.com/2012/06/15/euro-ncap-will-soon-require-auto-braking-for-five-star-safety-ra/).
-
-                                                          [Be
-
-                                                          sure to read
-                                                          the included
-                                                          Foxx's Press
-                                                          Release](http://www.autoblog.com/2015/01/25/nhtsa-automatic-braking-recommended-safety-list/):
+                                                          [Be sure to read the included Foxx's Press Release](http://www.autoblog.com/2015/01/25/nhtsa-automatic-braking-recommended-safety-list/):
 
 "PRESS
 
@@ -1008,9 +838,7 @@ January
                                                           according to
                                                           new research
                                                           NHTSA released
-                                                          today...." [Read
-
-                                                          more](http://www.autoblog.com/2015/01/25/nhtsa-automatic-braking-recommended-safety-list/)  Hmmm... this is really good.  Especially if the
+                                                          today...." [Read more](http://www.autoblog.com/2015/01/25/nhtsa-automatic-braking-recommended-safety-list/)  Hmmm... this is really good.  Especially if the
                                                           "plan" is
                                                           actually
                                                           implemented
@@ -1025,9 +853,7 @@ January
 
 ###
 
-### [State-wide
-
-                                                          aTaxi Service](http://www.princeton.edu/%7Ealaink/Orf467F14/Orf467F14FinalProjectPresentationSchedule.pdf)
+### [State-wide aTaxi Service](http://www.princeton.edu/%7Ealaink/Orf467F14/Orf467F14FinalProjectPresentationSchedule.pdf)
 
 Serving New Jersey's Personal Mobility Needs with
 
@@ -1194,14 +1020,7 @@ January
 
                                                           4, 2015
 
-### [New
-
-                                                          York Bus
-                                                          Driver
-                                                          Arrested After
-                                                          Fatally
-                                                          Striking
-                                                          Pedestrian](http://www.nytimes.com/2014/12/25/nyregion/new-york-bus-driver-arrested-after-fatally-striking-pedestrian.html?emc=eta1)
+### [New York Bus Driver Arrested After Fatally Striking Pedestrian](http://www.nytimes.com/2014/12/25/nyregion/new-york-bus-driver-arrested-after-fatally-striking-pedestrian.html?emc=eta1)
 
 MARC SANTORA DEC. 24, 2014 "A Metropolitan
                                                           Transportation
@@ -1251,9 +1070,7 @@ Mr.
                                                           was struck by
                                                           the bus, the
                                                           police
-                                                          said..."  [Read
-
-                                                          more](http://www.nytimes.com/2014/12/25/nyregion/new-york-bus-driver-arrested-after-fatally-striking-pedestrian.html?emc=eta1)
+                                                          said..."  [Read more](http://www.nytimes.com/2014/12/25/nyregion/new-york-bus-driver-arrested-after-fatally-striking-pedestrian.html?emc=eta1)
 
 Hmmm... Tragic for everyone.  Such accidents would be
                                                           largely
@@ -1297,14 +1114,7 @@ December
 
 ###
 
-### [Daimler
-
-                                                          Chairman Dr.
-                                                          Dieter Zetsche
-                                                          to Deliver
-                                                          Keynote
-                                                          Address at
-                                                          2015 CES](http://www.cesweb.org/News/Press-Releases/CES-Press-Release.aspx?NodeID=c7f1e0ca-b638-4293-8fd6-281c0e22707a)
+### [Daimler Chairman Dr. Dieter Zetsche to Deliver Keynote Address at 2015 CES](http://www.cesweb.org/News/Press-Releases/CES-Press-Release.aspx?NodeID=c7f1e0ca-b638-4293-8fd6-281c0e22707a)
 
 Arlington, VA – 10/06/2014 – "The Consumer Electronics
                                                           Association
@@ -1376,9 +1186,7 @@ Arlington, VA – 10/06/2014 – "The Consumer Electronics
                                                           Theater within
                                                           the
                                                           Cosmopolitan."
-                                                          [Read
-
-                                                          mor](http://www.cesweb.org/News/Press-Releases/CES-Press-Release.aspx?NodeID=c7f1e0ca-b638-4293-8fd6-281c0e22707a)e
+                                                          [Read mor](http://www.cesweb.org/News/Press-Releases/CES-Press-Release.aspx?NodeID=c7f1e0ca-b638-4293-8fd6-281c0e22707a)e
                                                           Daimler
 
                                                           will have a
@@ -1394,10 +1202,7 @@ December
 
 ###
 
-### [2014
-                                                          Florida
-                                                          Automated
-                                                          Vehicle Summit](http://www.fleng.org/index.cfm)
+### [2014 Florida Automated Vehicle Summit](http://www.fleng.org/index.cfm)
 
 Florida DOT is blazing the trail for the integration of
                                                           automated
@@ -1421,7 +1226,7 @@ Florida DOT is blazing the trail for the integration of
                                                           technologies.
                                                           [Agenda](http://www.fleng.info/images/files/FAV%20Summit%202014_DRAFT%20Agenda09292014.pdf)[Register](http://www.fleng.org/seminars.cfm?event_id=626)
 
-                                                          [](Mailto:alaink@princeton.edu)[Mailto:alaink@princeton.edu](Mailto:alaink@princeton.edu)[](Mailto:alaink@princeton.edu)
+                                                          [Mailto:alaink@princeton.edu](Mailto:alaink@princeton.edu)
 
                                                           This list is
                                                           maintained by

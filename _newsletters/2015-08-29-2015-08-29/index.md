@@ -7,18 +7,14 @@ permalink: /2015-08-29-2015-08-29/
 
 August 28, 2015
 
-## [The
-
-                  Trucks Are Killing Us](http://www.nytimes.com/2015/08/22/opinion/the-trucks-are-killing-us.html)
+## [The Trucks Are Killing Us](http://www.nytimes.com/2015/08/22/opinion/the-trucks-are-killing-us.html)
 
               H. Abramson Aug 21 "ACCIDENTS like the one that critically
               injured the comedian Tracy Morgan, killed his friend and
               fellow comedian James McNair, known as Jimmy Mack, and
               hurt eight others on the New Jersey Turnpike last year are
               going to continue to happen unless Congress stops coddling
-              the trucking industry...."  [Read
-
-                more](http://www.nytimes.com/2015/08/22/opinion/the-trucks-are-killing-us.html)  Hmmm...
+              the trucking industry...."  [Read more](http://www.nytimes.com/2015/08/22/opinion/the-trucks-are-killing-us.html)  Hmmm...
                   Unfortunately, I strongly disagree.  We know Congress
                   can't/won't do anything. So blaming Congress is simply
                   futile.  Who we can blame are trucking executives who
@@ -31,9 +27,7 @@ August 28, 2015
                   conditions) and regulators , especially OSHA (for the
                   same reason).  Alain
 
-## [Truck
-
-                  Safety Out of the Box from Autonobox](http://www.driverlesstransportation.com/truck-safety-out-of-the-box-from-autonobox-9450)
+## [Truck Safety Out of the Box from Autonobox](http://www.driverlesstransportation.com/truck-safety-out-of-the-box-from-autonobox-9450)
 
               B Simpson, July 19, 2015 "The premise is promising.
               Develop and market a plug-and-play, forward-avoidance
@@ -45,14 +39,10 @@ August 28, 2015
               system for heavy-duty vehicles that addresses the
               long-standing problem of brakes that overheat after
               intense use like a panic-stop or sustained use while going
-              downhill.... [Read
-
-                more](http://www.driverlesstransportation.com/truck-safety-out-of-the-box-from-autonobox-9450)  Hmmm...A viable
+              downhill.... [Read more](http://www.driverlesstransportation.com/truck-safety-out-of-the-box-from-autonobox-9450)  Hmmm...A viable
                   after-market retro-fit opportunity.  Alain
 
-## [Driverless
-
-                      truck meant to improve safety in work zones](http://www.cbsnews.com/news/driverless-truck-meant-to-improve-safety-in-work-zones/?utm_campaign=cmp_450837&utm_medium=email&utm_source=getanewsletter)
+## [Driverless truck meant to improve safety in work zones](http://www.cbsnews.com/news/driverless-truck-meant-to-improve-safety-in-work-zones/?utm_campaign=cmp_450837&utm_medium=email&utm_source=getanewsletter)
 
 Aug 25
                   "BETHLEHEM, Pa. -- Roving construction crews - the
@@ -72,13 +62,10 @@ Aug 25
                   work zones around the country. Two of the autonomous
                   vehicles will make their debut at highway construction
                   sites in Florida by the end of the year under a state
-                  Department of Transportation demonstration program...["
-                    Read more](http://www.cbsnews.com/news/driverless-truck-meant-to-improve-safety-in-work-zones/?utm_campaign=cmp_450837&utm_medium=email&utm_source=getanewsletter)   Hmmmm...
+                  Department of Transportation demonstration program...[" Read more](http://www.cbsnews.com/news/driverless-truck-meant-to-improve-safety-in-work-zones/?utm_campaign=cmp_450837&utm_medium=email&utm_source=getanewsletter)   Hmmmm...
                       Interesting special purpose.  Alain
 
-### [In-Flight
-
-                  Wi-Fi Prices Jump as Demand Surges](http://www.nytimes.com/2015/08/27/technology/personaltech/in-flight-wi-fi-prices-jump-as-demand-surges.html)
+### [In-Flight Wi-Fi Prices Jump as Demand Surges](http://www.nytimes.com/2015/08/27/technology/personaltech/in-flight-wi-fi-prices-jump-as-demand-surges.html)
 
               B.Chen Aug 26, "During a Tuesday-morning flight in April
               from Los Angeles to New York, Christine Lu's smartphone
@@ -91,9 +78,7 @@ Aug 25
               Internet-connected electronics like smartphones, gaming
               devices and tablets in their carry-on luggage, the amount
               of bandwidth they consume on popular flights keeps
-              expanding." [Read
-
-                more](http://www.nytimes.com/2015/08/27/technology/personaltech/in-flight-wi-fi-prices-jump-as-demand-surges.html)  Hmmm.... Of course.
+              expanding." [Read more](http://www.nytimes.com/2015/08/27/technology/personaltech/in-flight-wi-fi-prices-jump-as-demand-surges.html)  Hmmm.... Of course.
                   What else is there to do on a flight?  Just think of
                   how the demand for cellular would increase if we had
                   Self-Driving (NHTSA-Level 3), let alone, Level 4.
@@ -104,9 +89,7 @@ Aug 25
                   of the Safety Solution rather than the source of the
                   problem.  :-)  Alain
 
-## [Documents
-
-                      confirm Apple is building self-driving car](http://www.theguardian.com/technology/2015/aug/14/apple-self-driving-car-project-titan-sooner-than-expected?utm_campaign=cmp_448369&utm_medium=email&utm_source=getanewsletter)
+## [Documents confirm Apple is building self-driving car](http://www.theguardian.com/technology/2015/aug/14/apple-self-driving-car-project-titan-sooner-than-expected?utm_campaign=cmp_448369&utm_medium=email&utm_source=getanewsletter)
 
 M Harris, Aug
                   14 "Apple is building a self-driving car
@@ -114,16 +97,12 @@ M Harris, Aug
               the San Francisco Bay area to test it, the Guardian has
               learned. Documents show the oft-rumoured [Apple](http://www.theguardian.com/technology/apple)
               car project appears to be further along than many
-              suspected...." [Read
-
-                more](http://www.theguardian.com/technology/2015/aug/14/apple-self-driving-car-project-titan-sooner-than-expected?utm_campaign=cmp_448369&utm_medium=email&utm_source=getanewsletter)  Hmmm... Maybe,
+              suspected...." [Read more](http://www.theguardian.com/technology/2015/aug/14/apple-self-driving-car-project-titan-sooner-than-expected?utm_campaign=cmp_448369&utm_medium=email&utm_source=getanewsletter)  Hmmm... Maybe,
                   although I've been a skeptic.  If they really want
                   testing space, they should come with us to Fort
                   Monmouth! :-) Alain
 
-## [Amazon
-
-                      Curtails Development of Consumer Devices](http://www.wsj.com/articles/amazon-curtails-development-of-consumer-devices-1440632203)
+## [Amazon Curtails Development of Consumer Devices](http://www.wsj.com/articles/amazon-curtails-development-of-consumer-devices-1440632203)
 
 G. Bensinger,
                   Aug 26 " Amazon.com Inc. flamed out with critics and
@@ -136,14 +115,10 @@ G. Bensinger,
                   engineers who worked on its Fire phone at Lab126, its
                   secretive hardware-development center in Silicon
                   Valley, according to people familiar with the matter.
-                  ... [Read
-
-                    more](http://www.wsj.com/articles/amazon-curtails-development-of-consumer-devices-1440632203)   Hmmm... Will this be Apple wrt
+                  ... [Read more](http://www.wsj.com/articles/amazon-curtails-development-of-consumer-devices-1440632203)   Hmmm... Will this be Apple wrt
                   self-driving cars? Alain
 
-## [Tesla
-
-                      Hands Self-Driving Technology to Select Customers](http://spectrum.ieee.org/cars-that-think/transportation/self-driving/tesla-starts-betatests-of-its-selfdriving-technology?utm_campaign=cmp_448369&utm_medium=email&utm_source=getanewsletter)
+## [Tesla Hands Self-Driving Technology to Select Customers](http://spectrum.ieee.org/cars-that-think/transportation/self-driving/tesla-starts-betatests-of-its-selfdriving-technology?utm_campaign=cmp_448369&utm_medium=email&utm_source=getanewsletter)
 
 P. Ross Aug 14
                   "Tomorrow, Tesla is to begin uploading the latest
@@ -161,9 +136,7 @@ P. Ross Aug 14
                   acceleration. But testers will still have to oversee
                   all operations and register their alertness—if only
                   for legal purposes—by hitting the turn signal
-                  indicator every so often. [Read
-
-                    more](http://spectrum.ieee.org/cars-that-think/transportation/self-driving/tesla-starts-betatests-of-its-selfdriving-technology?utm_campaign=cmp_448369&utm_medium=email&utm_source=getanewsletter)  Hmmmm... And if
+                  indicator every so often. [Read more](http://spectrum.ieee.org/cars-that-think/transportation/self-driving/tesla-starts-betatests-of-its-selfdriving-technology?utm_campaign=cmp_448369&utm_medium=email&utm_source=getanewsletter)  Hmmmm... And if
                       you don't hit the turn signal???  Do all of Autopilot 7.0's functions
                       all of a sudden turn off and the car fails to
                       continue around the turn and goes into the other
@@ -173,27 +146,21 @@ P. Ross Aug 14
                       hitting the the left turn signal every so often.
                       :-(  Alain
 
-## [Driverless
-
-                      vehicle takes historic ride at UW](http://www.therecord.com/news-story/5804239-driverless-vehicle-takes-historic-ride-at-uw/)
+## [Driverless vehicle takes historic ride at UW](http://www.therecord.com/news-story/5804239-driverless-vehicle-takes-historic-ride-at-uw/)
 
 T. Pender, Aug
                   19 " A self-driving golf cart rolled around
                   the University of Waterloo campus Tuesday and into the
                   record books as the first autonomous vehicle to drive
                   itself over a publicly accessible roadway in
-                  Canada..."  [Read
-
-                    more](http://www.therecord.com/news-story/5804239-driverless-vehicle-takes-historic-ride-at-uw/)   Hmmmm...
+                  Canada..."  [Read more](http://www.therecord.com/news-story/5804239-driverless-vehicle-takes-historic-ride-at-uw/)   Hmmmm...
                       Excellent, but overstated.  To my knowledge, we
                       still haven't gone the first foot empty on
 
                       a conventional roadway without local supervision
                       or accompanyments.  Alain
 
-## [CarPlay,
-
-                          Android Auto Bashed in JD Power Study](http://www.ceoutlook.com/2015/08/26/carplay-android-auto-bashed-in-jd-power-study/)
+## [CarPlay, Android Auto Bashed in JD Power Study](http://www.ceoutlook.com/2015/08/26/carplay-android-auto-bashed-in-jd-power-study/)
 
  Aug 26, " JD
                       Power released a study claiming that many drivers
@@ -208,20 +175,14 @@ T. Pender, Aug
                       don't want rear-seat entertainment in their next
                       vehicle.  Also on the "unwanted" list were
                       massaging seats, in-vehicle concierge and
-                      automatic parking.... [Read
-
-                        more](http://www.jdpower.com/press-releases/2015-driver-interactive-vehicle-experience-drive-report) and Also the JD Power announcement. Hmmm... But what about
+                      automatic parking.... [Read more](http://www.jdpower.com/press-releases/2015-driver-interactive-vehicle-experience-drive-report) and Also the JD Power announcement. Hmmm... But what about
                           Self-Driving? Alain
 
-[](v)
 
 ## Recompiled Old
                     News :
 
-### [Tracy
-
-                  Morgan Crash Largely Result of Truck Driver's Fatigue,
-                  Regulators Say](http://www.nytimes.com/2015/08/12/nyregion/tracy-morgan-crash-largely-result-of-truck-drivers-fatigue-regulators-say.html?_r=0)
+### [Tracy Morgan Crash Largely Result of Truck Driver's Fatigue, Regulators Say](http://www.nytimes.com/2015/08/12/nyregion/tracy-morgan-crash-largely-result-of-truck-drivers-fatigue-regulators-say.html?_r=0)
 
               B. Mueller, Aug 11, 2015, "Federal transportation
               regulators on Tuesday cited a Walmart truck driver's
@@ -229,18 +190,14 @@ T. Pender, Aug
 
               se of a crash last year that killed the comedian James
               McNair and critically injured Tracy Morgan, a star of the
-              television series "30 Rock."... " [Read
-
-                more](http://www.nytimes.com/2015/08/12/nyregion/tracy-morgan-crash-largely-result-of-truck-drivers-fatigue-regulators-say.html?_r=0)  Hmmm.... Why didn't
+              television series "30 Rock."... " [Read more](http://www.nytimes.com/2015/08/12/nyregion/tracy-morgan-crash-largely-result-of-truck-drivers-fatigue-regulators-say.html?_r=0)  Hmmm.... Why didn't
                   regulators cite the fact that the Walmart truck wasn't
                   equipped with Automated
                   Collision Avoidance when such systems are available in
                   the marketplace?????  Such a system would have stopped
                   the truck!  What a shame!  Alain
 
-### [Car
-
-                      Hacking Stunt Exaggerates the Risks](http://www.autotechcouncil.com/autotech-blog/posts/2015/7/car-hacking-stunt-exaggerates-the-risks/)
+### [Car Hacking Stunt Exaggerates the Risks](http://www.autotechcouncil.com/autotech-blog/posts/2015/7/car-hacking-stunt-exaggerates-the-risks/)
 
 July 23
                   "..This article strikes me as a sensationalized stunt
@@ -249,9 +206,7 @@ July 23
                   Henry Ford: if somebody has unfettered access to your
                   car, they can mess with it, add remote detonators, cut
                   brake lines, disable systems, etc. Anybody who has
-                  watched a spy thriller knows this..." [Read
-
-                    more](http://www.autotechcouncil.com/autotech-blog/posts/2015/7/car-hacking-stunt-exaggerates-the-risks/)Hmmmm...  Or
+                  watched a spy thriller knows this..." [Read more](http://www.autotechcouncil.com/autotech-blog/posts/2015/7/car-hacking-stunt-exaggerates-the-risks/)Hmmmm...  Or
                       plant a bomb as in The Godfather.  Plus
                       if these so-called "white hats" were only
                       interested in doing good, why didn't they use
@@ -259,30 +214,22 @@ July 23
                       have it run autonomously down the road. Why the
                       fake crash. Why not something good????  Alain
 
- [](v)
+ 
 
 ## Half-baked
                   stuff that probably doesn't deserve your time:
 
- [](http://pdfpiw.uspto.gov/.piw?PageNum=0&docid=09096150&IDKey=2875280AEAD4%0D%0A&HomeUrl=http%3A%2F%2Fpatft.uspto.gov%2Fnetacgi%2Fnph-Parser%3FSect1%3DPTO1%26Sect2%3DHITOFF%26d%3DPALL%26p%3D1%26u%3D%2Fnetahtml%2FPTO%2Fsrchnum.htm%26r%3D1%26f%3DG%26l%3D50%26s1%3D9%2C096%2C150.PN.%26OS%3DPN%2F9%2C096%2C150%26RS%3DPN%2F9%2C096%2C150)
+ 
 
-                Autonomous Vehicle with Reconfigurable Seats... "  [Read
-
-                  mor](http://pdfpiw.uspto.gov/.piw?PageNum=0&docid=09096150&IDKey=2875280AEAD4%0D%0A&HomeUrl=http%3A%2F%2Fpatft.uspto.gov%2Fnetacgi%2Fnph-Parser%3FSect1%3DPTO1%26Sect2%3DHITOFF%26d%3DPALL%26p%3D1%26u%3D%2Fnetahtml%2FPTO%2Fsrchnum.htm%26r%3D1%26f%3DG%26l%3D50%26s1%3D9%2C096%2C150.PN.%26OS%3DPN%2F9%2C096%2C150%26RS%3DPN%2F9%2C096%2C150)e  Hmmm... Really,
+                Autonomous Vehicle with Reconfigurable Seats... "  [Read mor](http://pdfpiw.uspto.gov/.piw?PageNum=0&docid=09096150&IDKey=2875280AEAD4%0D%0A&HomeUrl=http%3A%2F%2Fpatft.uspto.gov%2Fnetacgi%2Fnph-Parser%3FSect1%3DPTO1%26Sect2%3DHITOFF%26d%3DPALL%26p%3D1%26u%3D%2Fnetahtml%2FPTO%2Fsrchnum.htm%26r%3D1%26f%3DG%26l%3D50%26s1%3D9%2C096%2C150.PN.%26OS%3DPN%2F9%2C096%2C150%26RS%3DPN%2F9%2C096%2C150)e  Hmmm... Really,
                     this is patentable??  Mercedes already demonstrated
                     one. Isn't there prior art??? What do I know???
                     Alain
 
-### [Self-Driving
-
-                      Cars Compete With The IoT For The Title Of Most
-                      Hyped Technology; Big Data Out](http://www.forbes.com/sites/gilpress/2015/08/18/self-driving-cars-compete-with-the-iot-for-the-title-of-most-hyped-technology-big-data-out/?utm_campaign=ForbesTech&utm_campaign=cm&utm_source=TWITTER&utm_medium=social&utm_channel=Technology&linkId=16391769)
+### [Self-Driving Cars Compete With The IoT For The Title Of Most Hyped Technology; Big Data Out](http://www.forbes.com/sites/gilpress/2015/08/18/self-driving-cars-compete-with-the-iot-for-the-title-of-most-hyped-technology-big-data-out/?utm_campaign=ForbesTech&utm_campaign=cm&utm_source=TWITTER&utm_medium=social&utm_channel=Technology&linkId=16391769)
 
 G. Press,
-                    Aug 18,  "[Gartner
-
-                      released today its 2015 Hype Cycle for Emerging
-                      Technologies report](http://www.gartner.com/newsroom/id/3114217). It's our most reliable
+                    Aug 18,  "[Gartner released today its 2015 Hype Cycle for Emerging Technologies report](http://www.gartner.com/newsroom/id/3114217). It's our most reliable
                     buzz bellwether, annually defining what's in and
                     what's out. At the peak of inflated expectations
                     just two years ago, Big Data was dethroned by the
@@ -301,11 +248,7 @@ G. Press,
                     could hype all three in one emerging technology
                     package of "The Internet of Autonomous Vehicles
                     Delivering Advanced Analytics" as the solution to
-                    all our transportation problems.... [Read
-
-                      more](http://www.forbes.com/sites/gilpress/2015/08/18/self-driving-cars-compete-with-the-iot-for-the-title-of-most-hyped-technology-big-data-out/?utm_campaign=ForbesTech&utm_campaign=cm&utm_source=TWITTER&utm_medium=social&utm_channel=Technology&linkId=16391769)  See Also: [Gartner
-
-                      Report](http://www.gartner.com/newsroom/id/3114217) Hmmm... Yup!!
+                    all our transportation problems.... [Read more](http://www.forbes.com/sites/gilpress/2015/08/18/self-driving-cars-compete-with-the-iot-for-the-title-of-most-hyped-technology-big-data-out/?utm_campaign=ForbesTech&utm_campaign=cm&utm_source=TWITTER&utm_medium=social&utm_channel=Technology&linkId=16391769)  See Also: [Gartner Report](http://www.gartner.com/newsroom/id/3114217) Hmmm... Yup!!
                         Alain
 
 ###
@@ -316,15 +259,13 @@ G. Press,
 ## Calendar
                       of Upcoming Events:
 
-### [](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/PDFs/PCC9-Presenter%20Info.pdf)
+### 
 
-### [](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/PDFs/PCC9-Presenter%20Info.pdf)
+### 
 
-[November
+[November 4-6, 2015](http://www.podcarcity.org/siliconvalley)[http://www.podcarcity.org/siliconvalley](http://www.podcarcity.org/siliconvalley)
 
-                      4-6, 2015](http://www.podcarcity.org/siliconvalley)[](http://www.podcarcity.org/siliconvalley)[http://www.podcarcity.org/siliconvalley](http://www.podcarcity.org/siliconvalley)
-
-### [](http://www.automatedfl.com/our-efforts/florida-automated-vehicles-summit/)
+### 
 
 [http://www.automatedfl.com/our-efforts/florida-automated-vehicles-summit/](http://www.automatedfl.com/our-efforts/florida-automated-vehicles-summit/)
 
@@ -340,10 +281,7 @@ G. Press,
 
 ###
 
-### [Self-Driving
-
-                            Cars Could Destroy Fine-Based City
-                            Government. What's the Downside?](https://reason.com/blog/2015/07/15/self-driving-cars-could-destroy-fine-bas)
+### [Self-Driving Cars Could Destroy Fine-Based City Government. What's the Downside?](https://reason.com/blog/2015/07/15/self-driving-cars-could-destroy-fine-bas)
 
  S. Shackford, July 15 "One of
                           the propelling concepts behind self-driving
@@ -360,9 +298,7 @@ G. Press,
                           of that, if the theory that self-driving cars
                           will lead people to own fewer cars holds up,
                           revenue from registration fees will drop as
-                          well.... [Read
-
-                            more](https://reason.com/blog/2015/07/15/self-driving-cars-could-destroy-fine-bas)
+                          well.... [Read more](https://reason.com/blog/2015/07/15/self-driving-cars-could-destroy-fine-bas)
                               Hmmm...  No downside here!  These have to
                               be one of the most regressive tax systems,
                               just behind lotteries and gambling.
@@ -375,14 +311,9 @@ G. Press,
 
 ###
 
-### [Lipinski
+### [Lipinski Continues Efforts to Keep Cars and Other Transportation Safe from Cyber Attacks](http://www.lipinski.house.gov/press-releases/lipinski-continues-efforts-to-keep-cars-and-other-transportation-safe-from-cyber-attacks-in-wake-of-fiat-chrysler-recall/)in
 
-                            Continues Efforts to Keep Cars and Other
-                            Transportation Safe from Cyber Attacks](http://www.lipinski.house.gov/press-releases/lipinski-continues-efforts-to-keep-cars-and-other-transportation-safe-from-cyber-attacks-in-wake-of-fiat-chrysler-recall/)in
-
-                          Wake of [Fiat
-
-                            Chrysler Recall](http://www.wsj.com/articles/fiat-chrysler-recalls-1-4-million-vehicles-amid-hacking-concerns-1437751526)
+                          Wake of [Fiat Chrysler Recall](http://www.wsj.com/articles/fiat-chrysler-recalls-1-4-million-vehicles-amid-hacking-concerns-1437751526)
 
 July 28  "...These
                           vulnerabilities pose great risks and the
@@ -398,9 +329,7 @@ July 28  "...These
                           technologies to the marketplace, trains a
                           cybersecurity workforce, and coordinates and
                           prioritizes federal cybersecurity research and
-                          development efforts.  " [Read
-
-                            mor](http://www.lipinski.house.gov/press-releases/lipinski-continues-efforts-to-keep-cars-and-other-transportation-safe-from-cyber-attacks-in-wake-of-fiat-chrysler-recall/)e Hmmm...
+                          development efforts.  " [Read mor](http://www.lipinski.house.gov/press-releases/lipinski-continues-efforts-to-keep-cars-and-other-transportation-safe-from-cyber-attacks-in-wake-of-fiat-chrysler-recall/)e Hmmm...
 
                               Besides protecting we must also
                               prosecute.  There has to be bad
@@ -413,10 +342,7 @@ July 28  "...These
 
 ###
 
-### [Center
-
-                            for Automated Road Transportation Safety @
-                            Fort Monmouth is Launched](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/FtMonmouth/NJCARTS/PressRelease_CARTS@FM.pdf)
+### [Center for Automated Road Transportation Safety @ Fort Monmouth is Launched](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/FtMonmouth/NJCARTS/PressRelease_CARTS@FM.pdf)
 
  Monday, July 20, 2015 –
                           "After more than three (3) years of planning
@@ -436,9 +362,7 @@ July 28  "...These
                           roadways.   The scope of CARTS's mission is
                           across all modes that utilize the nation's
                           conventional road system: trucks, buses and
-                          cars. .." [Read
-
-                              more](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/FtMonmouth/NJCARTS/PressRelease_CARTS@FM.pdf)
+                          cars. .." [Read more](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/FtMonmouth/NJCARTS/PressRelease_CARTS@FM.pdf)
 
 ###
 
@@ -446,10 +370,7 @@ July 28  "...These
 
 ###
 
-### [Automatic
-
-                            Cars Or Distracted Drivers: We Need
-                            Automation Sooner, Not Later](https://www.linkedin.com/pulse/automatic-cars-distracted-drivers-we-need-automation-sooner-norman)
+### [Automatic Cars Or Distracted Drivers: We Need Automation Sooner, Not Later](https://www.linkedin.com/pulse/automatic-cars-distracted-drivers-we-need-automation-sooner-norman)
 
 D. Norman 6/4/15 "Imperfect
                           automation, continually getting better? Or
@@ -471,9 +392,7 @@ D. Norman 6/4/15 "Imperfect
                           making it easier for the driver to see
                           navigation aids and speed, are now catching
                           featuritis, that deadly disease which corrupts
-                          products...."  [Read
-
-                            more](https://www.linkedin.com/pulse/automatic-cars-distracted-drivers-we-need-automation-sooner-norman)
+                          products...."  [Read more](https://www.linkedin.com/pulse/automatic-cars-distracted-drivers-we-need-automation-sooner-norman)
 
 Hmmm....
 
@@ -501,9 +420,7 @@ Hmmm....
                                 aviation safety some 20 years ago but
                                 has been part of the human factors
                                 literature since long before that ([Bainbridge](http://www.bainbrdg.demon.co.uk/)Hmmm...it
-                                  would not be bad to re-read the [1983
-
-                                    paper](https://www.ise.ncsu.edu/nsf_itr/794B/papers/Bainbridge_1983_Automatica.pdf).).  So we have to
+                                  would not be bad to re-read the [1983 paper](https://www.ise.ncsu.edu/nsf_itr/794B/papers/Bainbridge_1983_Automatica.pdf).).  So we have to
                                 skip this stage if at all possible.  I
                                 have long argued that we should have
                                 either all or none. it is the mixture
@@ -542,17 +459,10 @@ Hmmm....
 
 ###
 
-### [Rep.
-
-                            Lipinski Introduces Future Transportation
-                            Research and Innovation Act](http://www.chicagotribune.com/suburbs/la-grange/community/chi-ugc-article-rep-lipinski-introduces-future-transportatio-2015-06-29-story.html#page=1)
+### [Rep. Lipinski Introduces Future Transportation Research and Innovation Act](http://www.chicagotribune.com/suburbs/la-grange/community/chi-ugc-article-rep-lipinski-introduces-future-transportatio-2015-06-29-story.html#page=1)
 
  I. Sancken 03/29/15,
-                          "Congressman Dan Lipinski (IL-3) has [introduced
-
-                            H.R. 2886, the Future Transportation
-                            Research and Innovation for Prosperity
-                            (TRIP) Act](https://www.congress.gov/bill/114th-congress/house-bill/2886/text), to support innovative
+                          "Congressman Dan Lipinski (IL-3) has [introduced H.R. 2886, the Future Transportation Research and Innovation for Prosperity (TRIP) Act](https://www.congress.gov/bill/114th-congress/house-bill/2886/text), to support innovative
                           technologies that have the potential to
                           fundamentally alter mobility in America and
                           beyond.
@@ -567,15 +477,10 @@ Hmmm....
                           incredible opportunities for transportation
                           innovation. We need to develop innovative ways
                           to improve safety, ease congestion, improve
-                          personal mobility, and cut energy use..."  [Read
-
-                            more](http://www.chicagotribune.com/suburbs/la-grange/community/chi-ugc-article-rep-lipinski-introduces-future-transportatio-2015-06-29-story.html#page=1)  Hmmm...
+                          personal mobility, and cut energy use..."  [Read more](http://www.chicagotribune.com/suburbs/la-grange/community/chi-ugc-article-rep-lipinski-introduces-future-transportatio-2015-06-29-story.html#page=1)  Hmmm...
                               Excellent!  Alain
 
-### [MOSI
-
-                                debuts nation's first driverless vehicle
-                                open to public](http://www.baynews9.com/content/news/baynews9/on-the-town/article.html/content/news/articles/bn9/2015/6/12/mosi_debuts_nation_s.html)
+### [MOSI debuts nation's first driverless vehicle open to public](http://www.baynews9.com/content/news/baynews9/on-the-town/article.html/content/news/articles/bn9/2015/6/12/mosi_debuts_nation_s.html)
 
 D. Dangerfield, 6/12/15 "
                           Imagine a vehicle that can drive on its own.
@@ -584,9 +489,7 @@ D. Dangerfield, 6/12/15 "
                           Meridian Shuttle is part of an exhibit that
                           opens at MOSI on Saturday. The vehicle allows
                           up to eight people to ride around the first
-                          floor of the museum.  [Read
-
-                            more](http://www.baynews9.com/content/news/baynews9/on-the-town/article.html/content/news/articles/bn9/2015/6/12/mosi_debuts_nation_s.html)  Hmmm...
+                          floor of the museum.  [Read more](http://www.baynews9.com/content/news/baynews9/on-the-town/article.html/content/news/articles/bn9/2015/6/12/mosi_debuts_nation_s.html)  Hmmm...
                               It is all about starting.
                               Congratulations! Alain
 
@@ -594,11 +497,7 @@ D. Dangerfield, 6/12/15 "
 
 ###
 
-### [NTSB
-
-                            Calls for Immediate Action on Collision
-                            Avoidance Systems for Vehicles; Cites Slow
-                            Progress as Major Safety Issue](http://www.ntsb.gov/news/press-releases/Pages/PR20150608b.aspx)
+### [NTSB Calls for Immediate Action on Collision Avoidance Systems for Vehicles; Cites Slow Progress as Major Safety Issue](http://www.ntsb.gov/news/press-releases/Pages/PR20150608b.aspx)
 
  6/8/15 " WASHINGTON – In a
                           report released today, the National
@@ -612,9 +511,7 @@ D. Dangerfield, 6/12/15 "
                           Chairman Christopher A. Hart. "And you
                           shouldn't have to pay extra for technology
                           that can help prevent a collision
-                          altogether."... [Read
-
-                            more](http://www.ntsb.gov/news/press-releases/Pages/PR20150608b.aspx)  Hmmm
+                          altogether."... [Read more](http://www.ntsb.gov/news/press-releases/Pages/PR20150608b.aspx)  Hmmm
                             Yea!!!  Finally some semblance of
                               sanity in Washington.  Alain
 
@@ -622,10 +519,7 @@ D. Dangerfield, 6/12/15 "
 
 ###
 
-### [John
-
-                            F. Nash Jr., Math Genius Defined by a
-                            'Beautiful Mind,' Dies at 86](http://www.nytimes.com/2015/05/25/science/john-nash-a-beautiful-mind-subject-and-nobel-winner-dies-at-86.html)
+### [John F. Nash Jr., Math Genius Defined by a 'Beautiful Mind,' Dies at 86](http://www.nytimes.com/2015/05/25/science/john-nash-a-beautiful-mind-subject-and-nobel-winner-dies-at-86.html)
 
  E. Goodmay, May 24 "...Dr.
                           Nash and his wife, Alicia, 82, were in a taxi
@@ -639,17 +533,11 @@ D. Dangerfield, 6/12/15 "
                           The couple were ejected from the cab and
                           pronounced dead at the scene. The State Police
                           said it appeared that they had not been
-                          wearing seatbelts.... [Read
+                          wearing seatbelts.... [Read more](http://www.nytimes.com/2015/05/25/science/john-nash-a-beautiful-mind-subject-and-nobel-winner-dies-at-86.html)
 
-                            more](http://www.nytimes.com/2015/05/25/science/john-nash-a-beautiful-mind-subject-and-nobel-winner-dies-at-86.html)
+                          See also:  [John, Alicia Nash Remembered After Fatal Crash](http://www.towntopics.com/wordpress/2015/05/27/john-alicia-nash-remembered-after-fatal-crash/)
 
-                          See also:  [John,
-
-                              Alicia Nash Remembered After Fatal Crash](http://www.towntopics.com/wordpress/2015/05/27/john-alicia-nash-remembered-after-fatal-crash/)
-
-[A
-                              Beautiful Mind Mathematician John Nash and
-                              His Wife Killed in N.J. Car Crash](http://nymag.com/daily/intelligencer/2015/05/mathematician-john-nash-and-wife-killed-in-crash.html)
+[A Beautiful Mind Mathematician John Nash and His Wife Killed in N.J. Car Crash](http://nymag.com/daily/intelligencer/2015/05/mathematician-john-nash-and-wife-killed-in-crash.html)
                           ;
 
 Hmmm... So tragic!!!
@@ -661,11 +549,7 @@ Hmmm... So tragic!!!
  Unfortunately,
 
                               the NYT and others tried but missed the
-                              fundamental point by following up with ["Deaths
-
-                                of Math Genius John F. Nash Jr. and Wife
-                                Show Need to Use Seatbelts in Back,
-                                Experts Say](http://www.nytimes.com/2015/05/26/nyregion/deaths-of-math-genius-john-f-nash-jr-and-his-wife-show-need-to-use-seatbelts-in-back-experts-say.html) ".  Why do we so
+                              fundamental point by following up with ["Deaths of Math Genius John F. Nash Jr. and Wife Show Need to Use Seatbelts in Back, Experts Say](http://www.nytimes.com/2015/05/26/nyregion/deaths-of-math-genius-john-f-nash-jr-and-his-wife-show-need-to-use-seatbelts-in-back-experts-say.html) ".  Why do we so
                               easily put up with crashes in the first
                               place?  It is as if it is OK to go around
                               crashing, just put on a seat belt.
@@ -719,10 +603,7 @@ It is time for the nation's
 
 ###
 
-### [The
-
-                            View from the Front Seat of the Google
-                            Self-Driving Car](https://medium.com/backchannel/the-view-from-the-front-seat-of-the-google-self-driving-car-46fc9f3e6088)
+### [The View from the Front Seat of the Google Self-Driving Car](https://medium.com/backchannel/the-view-from-the-front-seat-of-the-google-self-driving-car-46fc9f3e6088)
 
  Chris Urmson May 11, 2015
                           "After 1.7 million miles we've learned a
@@ -768,9 +649,7 @@ It is time for the nation's
                           dislike day to day driving — and we'll
                           continue to work hard on developing a
                           self-driving car that can shoulder this burden
-                          for us." [Read
-
-                            more](https://medium.com/backchannel/the-view-from-the-front-seat-of-the-google-self-driving-car-46fc9f3e6088)
+                          for us." [Read more](https://medium.com/backchannel/the-view-from-the-front-seat-of-the-google-self-driving-car-46fc9f3e6088)
 
  Hmmm.... MUST
                                 reading; HOWEVER, we need much more
@@ -815,30 +694,17 @@ It is time for the nation's
                               percent of truck crashes result from
                               driver error, and in one out of every
                               eight of those cases driver fatigue plays
-                              a role..." [Read
-
-                                more](http://www.theverge.com/2015/5/6/8556791/self-driving-semi-big-rig-freightliner-inspiration-truck)  See
+                              a role..." [Read more](http://www.theverge.com/2015/5/6/8556791/self-driving-semi-big-rig-freightliner-inspiration-truck)  See
                                   also
 
-   [Driving
-
-                                    into the future: CCJ test drives
-                                    Freightliner's SuperTruck,
-                                    self-driving Inspiration](http://www.ccjdigital.com/driving-into-the-future-ccj-test-drive-of-freightliners-supertruck-self-driving-inspiration/?utm_source=weekender&utm_medium=email&utm_content=05-09-2015&utm_campaign=CCJ&ust_id=0543c5c008&)By
+   [Driving into the future: CCJ test drives Freightliner's SuperTruck, self-driving Inspiration](http://www.ccjdigital.com/driving-into-the-future-ccj-test-drive-of-freightliners-supertruck-self-driving-inspiration/?utm_source=weekender&utm_medium=email&utm_content=05-09-2015&utm_campaign=CCJ&ust_id=0543c5c008&)By
                                   Jack Robert  and
 
-[Autonomous
+[Autonomous Freightliner Inspiration truck makes a splash at the Hoover Dam](http://www.gizmag.com/daimler-unveils-autonomous-freightliner-inspiration-truck/37384/) Alain
 
-                                  Freightliner Inspiration truck makes a
-                                  splash at the Hoover Dam](http://www.gizmag.com/daimler-unveils-autonomous-freightliner-inspiration-truck/37384/) Alain
-
-  [](Mailto:alaink@princeton.edu)[Mailto:alaink@princeton.edu](Mailto:alaink@princeton.edu) [](Mailto:alaink@princeton.edu)
+  [Mailto:alaink@princeton.edu](Mailto:alaink@princeton.edu) 
  This list is
-                                maintained by [Alain
-
-                                  Kornhauser](mailto:alaink@princeton.edu) and hosted by the [Princeton
-
-                                  University LISTSERV](http://lists.princeton.edu).
+                                maintained by [Alain Kornhauser](mailto:alaink@princeton.edu) and hosted by the [Princeton University LISTSERV](http://lists.princeton.edu).
 
 [Unsubscribe](https://lists.princeton.edu/cgi-bin/wa?TICKET=NzM1MjMzIGJpbm9AUFJJTkNFVE9OLkVEVSBTTUFSVERSSVZJTkdDQVJTIGluYtYkJuu3&c=SIGNOFF)
                                 | [Re-subscribe](https://lists.princeton.edu/cgi-bin/wa?TICKET=NzM1MjMzIGJpbm9AUFJJTkNFVE9OLkVEVSBTTUFSVERSSVZJTkdDQVJTIGluYtYkJuu3&c=SIGNUP)

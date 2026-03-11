@@ -7,9 +7,7 @@ permalink: /2016-02-23-2016-02-23/
 
 SmartDrivingCars-????-021816
 
-### [Motor
-
-          Vehicle Deaths Increase by Largest Percent in 50 Years](http://www.nsc.org/NewsDocuments/2016/mv-fatality-report-1215.pdf)
+### [Motor Vehicle Deaths Increase by Largest Percent in 50 Years](http://www.nsc.org/NewsDocuments/2016/mv-fatality-report-1215.pdf)
 
       Press Release Feb 16 "With continued lower gasoline prices and an
       improving economy resulting in an estimated 3.5% increase
@@ -24,9 +22,7 @@ SmartDrivingCars-????-021816
       annual population death rate is 11.87 deaths per 100,000
       population, an increase of 7% from the 2014 rate. The estimated
       annual mileage death rate is 1.22 deaths per 100 million vehicle
-      miles traveled, an increase of 5% from the 2014 rate. [Read
-
-        more](http://www.nsc.org/NewsDocuments/2016/mv-fatality-report-1215.pdf) Hmmmm...This is REALLY BAD
+      miles traveled, an increase of 5% from the 2014 rate. [Read more](http://www.nsc.org/NewsDocuments/2016/mv-fatality-report-1215.pdf) Hmmmm...This is REALLY BAD
           news.  Come on insurance. This is costing you money!  Accident
           rates going up means that your actuarials are behind, your
           regulated pricing lags
@@ -35,9 +31,7 @@ SmartDrivingCars-????-021816
           avoidance systems.  You'll then do very well, thank you AND
           help society.  Alain
 
-### [Auto
-
-          industry, regulators move slowly on automatic braking](http://www.statesville.com/news/business/ap/automatic-braking-for-cars-private-talks-on-technology-pace/article_5adc14a6-3cc7-5e29-a85e-ff8148df2834.html)
+### [Auto industry, regulators move slowly on automatic braking](http://www.statesville.com/news/business/ap/automatic-braking-for-cars-private-talks-on-technology-pace/article_5adc14a6-3cc7-5e29-a85e-ff8148df2834.html)
 
       AP,  Feb 17 "...The minutes from the fourth session, on Dec. 9,
       indicate that some automakers say they won't be ready to include
@@ -46,9 +40,7 @@ SmartDrivingCars-????-021816
       for Highway Safety objected, saying such a long timeline "was too
       late for this effort to be seen as a serious effort." Automakers
       are now being polled to see if they can equip 95 percent of their
-      vehicles by the model year beginning in September 2022..."   [Read
-
-        more](http://www.statesville.com/news/business/ap/automatic-braking-for-cars-private-talks-on-technology-pace/article_5adc14a6-3cc7-5e29-a85e-ff8148df2834.html) Hmmmm...Forget the regulators, an insurance leader
+      vehicles by the model year beginning in September 2022..."   [Read more](http://www.statesville.com/news/business/ap/automatic-braking-for-cars-private-talks-on-technology-pace/article_5adc14a6-3cc7-5e29-a85e-ff8148df2834.html) Hmmmm...Forget the regulators, an insurance leader
           should just step in over this impasse by using the reduced
           liability risk associated with automated collision avoidance
           systems that actually work and use some of that saving to
@@ -56,14 +48,10 @@ SmartDrivingCars-????-021816
           become richer.  Then you wouldn't need all those meetings. :-)
             Alain
 
-### [Map:
-
-          The Most Common* Job In Every State](http://www.npr.org/sections/money/2015/02/05/382664837/map-the-most-common-job-in-every-state)
+### [Map: The Most Common* Job In Every State](http://www.npr.org/sections/money/2015/02/05/382664837/map-the-most-common-job-in-every-state)
 
       Feb 5, "...What's with all the truck drivers? Truck drivers
-      dominate the map for a few reasons...." [Read
-
-        more](http://www.npr.org/sections/money/2015/02/05/382664837/map-the-most-common-job-in-every-state)  Hmmmm...Look at the listing
+      dominate the map for a few reasons...." [Read more](http://www.npr.org/sections/money/2015/02/05/382664837/map-the-most-common-job-in-every-state)  Hmmmm...Look at the listing
           and the map!  What is not said is that driving is one of the
           most dangerous occupations ([1](http://www.bls.gov/iif/oshwc/cfar0020.pdf), [2](http://money.cnn.com/2008/08/20/news/fewer_workers_die_on_job/),
           [3](http://www.bloomberg.com/graphics/2015-dangerous-jobs/),
@@ -73,9 +61,7 @@ SmartDrivingCars-????-021816
           especially when technology can help.  Why hasn't OSHA weighed
           in and DoT not addressed it?  Alain
 
-### [NUTONOMY
-
-          SECURES $3.6M TO FUND SELF-DRIVING CAR TECHNOLOGY](http://fontinalis.com/nutonomy-secures-3-6m-fund-self-driving-car-technology/)
+### [NUTONOMY SECURES $3.6M TO FUND SELF-DRIVING CAR TECHNOLOGY](http://fontinalis.com/nutonomy-secures-3-6m-fund-self-driving-car-technology/)
 
       Jan. 28  " nuTonomy Inc., developer of advanced software for
       autonomous vehicles, today announced it has closed a $3.6M seed
@@ -86,32 +72,22 @@ SmartDrivingCars-????-021816
       autonomous vehicle technology. nuTonomy's software is currently
       being integrated and tested by automotive partners in both the
       U.S. and Europe, with the goal of deploying self-driving features
-      within the next few years..." [Read
-
-        more](http://fontinalis.com/nutonomy-secures-3-6m-fund-self-driving-car-technology/)  Hmmmm...Very exciting!
+      within the next few years..." [Read more](http://fontinalis.com/nutonomy-secures-3-6m-fund-self-driving-car-technology/)  Hmmmm...Very exciting!
           Alain
 
-### [Ford
-
-              leader discusses the future of transportation](http://www.kansascity.com/news/local/article60925452.html)
+### [Ford leader discusses the future of transportation](http://www.kansascity.com/news/local/article60925452.html)
 
       S. Hill Feb 9, "The way people and things move around will change
       significantly the next few years, and that change will be as
       dramatic as the switch from horses to automobiles, Ford Motor Co.
       executive chairman Bill Ford said Wednesday.  "The mobility
       revolution is going to affect all of us personally and many of us
-      professionally," said Ford..." [Read
+      professionally," said Ford..." [Read more](http://www.kansascity.com/news/local/article60925452.html)  Hmmmm...Yup! Alain
 
-        more](http://www.kansascity.com/news/local/article60925452.html)  Hmmmm...Yup! Alain
-
-### [Why
-
-          Driverless Cars Will Screech to a Halt](http://observer.com/2016/02/why-driverless-cars-will-screech-to-a-halt/)
+### [Why Driverless Cars Will Screech to a Halt](http://observer.com/2016/02/why-driverless-cars-will-screech-to-a-halt/)
 
       Feb 17, "...It's time to hit the brakes for a reality
-        check...." [Read
-
-        more](http://observer.com/2016/02/why-driverless-cars-will-screech-to-a-halt/)  Hmmmm...Presented here to balance out much of the
+        check...." [Read more](http://observer.com/2016/02/why-driverless-cars-will-screech-to-a-halt/)  Hmmmm...Presented here to balance out much of the
           hype, but this hypes the other end of the spectrum. Sure this
           will take time and there is much to do, but the business case
           is so strong, it will happen sooner rather than later.  Way
@@ -120,10 +96,7 @@ SmartDrivingCars-????-021816
 ## Some other thoughts that
           deserve your attention
 
-### [Uber's
-
-          CEO says regulators doomed a company just like his 100 years
-          ago — and he won't let it happen again](https://www.linkedin.com/pulse/ubers-ceo-says-has-lot-common-transportation-doomed-100-chip-cutter)
+### [Uber's CEO says regulators doomed a company just like his 100 years ago — and he won't let it happen again](https://www.linkedin.com/pulse/ubers-ceo-says-has-lot-common-transportation-doomed-100-chip-cutter)
 
 C. Cutter, Feb 16, "... Maybe so, but the man who has critics
         everywhere — taxi unions, UberX drivers, local governments, even
@@ -139,17 +112,13 @@ C. Cutter, Feb 16, "... Maybe so, but the man who has critics
         gained in popularity, attracting more riders, and spread to
         other cities. In its first year, 157,000 people per day were
         riding the buses in LA; Uber is currently doing about 150,000
-        rides per day in the city, Kalanick said. .." [Read
-
-          more](https://www.linkedin.com/pulse/ubers-ceo-says-has-lot-common-transportation-doomed-100-chip-cutter)  Hmmmm...I do love Uber;
+        rides per day in the city, Kalanick said. .." [Read more](https://www.linkedin.com/pulse/ubers-ceo-says-has-lot-common-transportation-doomed-100-chip-cutter)  Hmmmm...I do love Uber;
             However, there are roughly  15 million vehicular trips per
             day taken by LA's 3.8 million residents.  So Uber is
             skimming the "one-percent" cream without being burdened with
             any crap.  Now that's a nice business!  Alain
 
-### [NHTSA
-
-          Request Tops $1B; Big Push for Driverless Cars](http://www.bna.com/nhtsa-request-tops-n57982067319/)
+### [NHTSA Request Tops $1B; Big Push for Driverless Cars](http://www.bna.com/nhtsa-request-tops-n57982067319/)
 
  M. Barash., Feb 9, "The safe integration of connected and
         autonomous vehicles is one of NHTSA's priorities under President
@@ -162,22 +131,14 @@ C. Cutter, Feb 16, "... Maybe so, but the man who has critics
         million for the first year of a projected 10-year autonomous
         vehicle pilot program.  The program would cost $3.9 billion over
         the next decade, according to "[highlights](http://src.bna.com/cyi)"
-        prepared by the Transportation Department...." [Read
+        prepared by the Transportation Department...." [Read more](http://www.bna.com/nhtsa-request-tops-n57982067319/)Hmmmm...OK!  Alain
 
-              more](http://www.bna.com/nhtsa-request-tops-n57982067319/)Hmmmm...OK!  Alain
+### [How Much Warmer Was Your City in 2015?](http://www.nytimes.com/interactive/2016/02/19/us/2015-year-in-weather-temperature-precipitation.html#union-city_ca)
 
-### [How
-
-          Much Warmer Was Your City in 2015?](http://www.nytimes.com/interactive/2016/02/19/us/2015-year-in-weather-temperature-precipitation.html#union-city_ca)
-
-K. Lai, Feb 19 "Scientists declared that 2015 was E[arth's
-
-          hottest year on record](http://www.nytimes.com/2016/01/21/science/earth/2015-hottest-year-global-warming.html). In a database of 3,116 cities
+K. Lai, Feb 19 "Scientists declared that 2015 was E[arth's hottest year on record](http://www.nytimes.com/2016/01/21/science/earth/2015-hottest-year-global-warming.html). In a database of 3,116 cities
         provided by AccuWeather, about 90 percent of them were warmer
         than normal. Enter your city in the field below to see how much
-        warmer it was last year.  [Read
-
-              more](http://www.nytimes.com/interactive/2016/02/19/us/2015-year-in-weather-temperature-precipitation.html#union-city_ca)Hmmmm...Very
+        warmer it was last year.  [Read more](http://www.nytimes.com/interactive/2016/02/19/us/2015-year-in-weather-temperature-precipitation.html#union-city_ca)Hmmmm...Very
 
             interesting interactive site.    Alain
 
@@ -187,9 +148,7 @@ K. Lai, Feb 19 "Scientists declared that 2015 was E[arth's
 
 ## Recompiled Old News & Smiles:
 
-### [Meet
-
-              Zoox, the Robo-Taxi Start-up Taking on Google and Uber](http://spectrum.ieee.org/transportation/advanced-cars/meet-zoox-the-robotaxi-startup-taking-on-google-and-uber)
+### [Meet Zoox, the Robo-Taxi Start-up Taking on Google and Uber](http://spectrum.ieee.org/transportation/advanced-cars/meet-zoox-the-robotaxi-startup-taking-on-google-and-uber)
 
 M. Harris, May 20, 2015You wait for years for
             a self-driving taxi, then four come along at once. Google
@@ -197,9 +156,7 @@ M. Harris, May 20, 2015You wait for years for
             Spectrum broke the news in February that Nissan was also
             developing a robotic cab. Now we can reveal exclusive
             details about a startup that hopes to put fully autonomous
-            taxis on the road by 2020. ".." [Read
-
-              more](http://spectrum.ieee.org/transportation/advanced-cars/meet-zoox-the-robotaxi-startup-taking-on-google-and-uber)  Hmmmm...Reasonably
+            taxis on the road by 2020. ".." [Read more](http://spectrum.ieee.org/transportation/advanced-cars/meet-zoox-the-robotaxi-startup-taking-on-google-and-uber)  Hmmmm...Reasonably
                 thorough description and comments.  Alain
 
 ###
@@ -212,15 +169,11 @@ M. Harris, May 20, 2015You wait for years for
 ## [C'mon Man!](https://www.youtube.com/watch?v=A7SwSd59E4I) (These folks
           didn't get/read the memo)
 
-### [Nissan's
-
-          self-parking office chair is here to make your Monday better](http://www.theverge.com/2016/2/15/10996234/nissans-self-parking-chair-car)
+### [Nissan's self-parking office chair is here to make your Monday better](http://www.theverge.com/2016/2/15/10996234/nissans-self-parking-chair-car)
 
       C. Plant, Feb 15, "Inspired by the technology and learning behind
       its self-parking cars, Nissan designed what it calls the
-      "Intelligent Parking Chair...."  [Read
-
-        more](http://www.theverge.com/2016/2/15/10996234/nissans-self-parking-chair-car)  Hmmmm...Inspired!?? Nissan
+      "Intelligent Parking Chair...."  [Read more](http://www.theverge.com/2016/2/15/10996234/nissans-self-parking-chair-car)  Hmmmm...Inspired!?? Nissan
           has nothing better to do?  Even free, would you want it???? [C'mon Man!](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=video&cd=2&cad=rja&uact=8&ved=0ahUKEwiY-Zq_joTLAhXIlB4KHYvSDsgQtwIIIjAB&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DXSYiSVRWIHU&usg=AFQjCNFTNXnmaHJ6yj5ipFook70UyP9-IQ&sig2=c59EUxawsTtqP36vIuofmQ&bvm=bv.114733917,d.dmo) Alain
 
 ###
@@ -228,8 +181,7 @@ M. Harris, May 20, 2015You wait for years for
 ## Calendar of
                   Upcoming Events:
 
-[The
-                        Business of Autonomous Vehicles](http://driverlessmarket.com/agenda/)
+[The Business of Autonomous Vehicles](http://driverlessmarket.com/agenda/)
 
 March 22-23, 2016
 
@@ -246,10 +198,7 @@ March 22-23, 2016
 
                                                 February 9, 2016
 
-### [Budget
-
-                                          of the U.S. Government, FY
-                                          2017](https://www.whitehouse.gov/sites/default/files/omb/budget/fy2017/assets/budget.pdf)
+### [Budget of the U.S. Government, FY 2017](https://www.whitehouse.gov/sites/default/files/omb/budget/fy2017/assets/budget.pdf)
 
 Feb. 9, "...(3)
                                         Accelerate the integration of
@@ -286,8 +235,7 @@ Feb. 9, "...(3)
 
                                                 January 28, 2016
 
-### [London's first
-                                          driverless cars revealed](http://www.bbc.com/news/technology-35432687)
+### [London's first driverless cars revealed](http://www.bbc.com/news/technology-35432687)
 
  The consortium
                                         behind the trial has decided to
@@ -314,9 +262,7 @@ Feb. 9, "...(3)
                                         they have carried 1.5 million
                                         passengers and traveled three
                                         million kilometers (1.8 million
-                                        miles)...."   [Read
-
-                                          more](http://www.bbc.com/news/technology-35432687)   Hmmm...Wow!!
+                                        miles)...."   [Read more](http://www.bbc.com/news/technology-35432687)   Hmmm...Wow!!
 
                                               ... PRT evolving to
                                                 be autonomousTaxis!
@@ -326,9 +272,7 @@ Feb. 9, "...(3)
 
 ###
 
-### [Obama's $4 Billion Plan for
-                                          Self-Driving Cars Will Make
-                                          Google Very Happy](http://recode.net/2016/01/14/obamas-4-billion-plan-for-self-driving-cars-will-make-google-very-happy/)
+### [Obama's $4 Billion Plan for Self-Driving Cars Will Make Google Very Happy](http://recode.net/2016/01/14/obamas-4-billion-plan-for-self-driving-cars-will-make-google-very-happy/)
 
  M. Bergen, Jan
                                         14 "The Obama Administration has
@@ -361,31 +305,20 @@ Feb. 9, "...(3)
                                           These national rules will
                                           allow fully driverless cars..."
 
-                                        [Read
-
-                                          More](http://recode.net/2016/01/14/obamas-4-billion-plan-for-self-driving-cars-will-make-google-very-happy/)  Hmmm...
-                                                A [few
-
-                                                  months ago](http://www.its.dot.gov/press/2015/ngv_tech_announcement.htm) it was
+                                        [Read More](http://recode.net/2016/01/14/obamas-4-billion-plan-for-self-driving-cars-will-make-google-very-happy/)  Hmmm...
+                                                A [few months ago](http://www.its.dot.gov/press/2015/ngv_tech_announcement.htm) it was
                                                 $42M for Connected
                                                 Vehicles. Today it is
                                                 100x for automated
                                                 vehicles! Finally
-                                                Secretary Foxx.."[YES! YES! JESUS H.
-                                                          TAP-DANCING
-                                                          CHRIST... I
-                                                          HAVE SEEN THE
-                                                          LIGHT](https://www.youtube.com/watch?v=lX5tfRdkoY0)"
+                                                Secretary Foxx.."[YES! YES! JESUS H. TAP-DANCING CHRIST... I HAVE SEEN THE LIGHT](https://www.youtube.com/watch?v=lX5tfRdkoY0)"
                                                         (Blue Brothers)
                                                       Yea!!!!!   :-)
 
                                               Alain
                                                 January 3, 2016
 
-### [Google
-
-                                          Pairs With Ford To Build
-                                          Self-Driving Cars](https://www.yahoo.com/autos/google-pairs-with-ford-to-1326344237400118.html)
+### [Google Pairs With Ford To Build Self-Driving Cars](https://www.yahoo.com/autos/google-pairs-with-ford-to-1326344237400118.html)
 
  J. Hyde &
                                         S. Carty, Dec. 21 "Google and
@@ -430,23 +363,18 @@ Feb. 9, "...(3)
                                         Ford was thinking of itself "as
                                         a mobility company," and what
                                         that would mean for its
-                                        business" [Read
-
-                                          more](https://www.yahoo.com/autos/google-pairs-with-ford-to-1326344237400118.html)  Hmmm...Not
+                                        business" [Read more](https://www.yahoo.com/autos/google-pairs-with-ford-to-1326344237400118.html)  Hmmm...Not
 
                                                 surprising and not
                                                 exclusive. :-) Alain
                                                 December 19, 2015
 
-### [Adam
-
-                                          Jonas' View on Autonomous Cars](http://linkback.morganstanley.com/web/sendlink/webapp/BMServlet?file=kpmb1mve-3p5j-g000-97a7-d8d3855a5201&store=0&d=1&user=dagn42i4pkquh-0&__gda__=1549992813_42e5b148a43b27b943d8d34f1e5c3295#0011&dagn42i4pkquh-1&1549992813_f2523f33158f4db2b6d628c5c9008f28&0021&dagn42i4pkquh-2&1549992813_f9a15a1b06e61ec454fad4cc7759010a)
+### [Adam Jonas' View on Autonomous Cars](http://linkback.morganstanley.com/web/sendlink/webapp/BMServlet?file=kpmb1mve-3p5j-g000-97a7-d8d3855a5201&store=0&d=1&user=dagn42i4pkquh-0&__gda__=1549992813_42e5b148a43b27b943d8d34f1e5c3295#0011&dagn42i4pkquh-1&1549992813_f2523f33158f4db2b6d628c5c9008f28&0021&dagn42i4pkquh-2&1549992813_f9a15a1b06e61ec454fad4cc7759010a)
 
  Video similar
                                         to part of Adam's Luncheon talk
                                         @ 2015 Florida Automated Vehicle
-                                        Symposium on Dec 1.  [Hmmm ...
-                                            Watch Video](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Videos/AdamJonas10T_MorganStanley.mp4)
+                                        Symposium on Dec 1.  [Hmmm ... Watch Video](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Videos/AdamJonas10T_MorganStanley.mp4)
                                         especially
 
                                             at the 13:12 mark.
@@ -462,11 +390,7 @@ Feb. 9, "...(3)
 
 ###
 
-### [](http://www.cbsnews.com/videos/60-minutes-test-rides-mercedes-benz-self-driving-car/)["60
-
-                                              Minutes" test-rides
-                                              Mercedes-Benz self-driving
-                                              car](http://www.cbsnews.com/videos/60-minutes-test-rides-mercedes-benz-self-driving-car/)
+### ["60 Minutes" test-rides Mercedes-Benz self-driving car](http://www.cbsnews.com/videos/60-minutes-test-rides-mercedes-benz-self-driving-car/)
 
 Oct 2 "As
                                             Google's driverless cars
@@ -483,19 +407,14 @@ Oct 2 "As
                                             advanced self-driving
                                             prototype. Watch the full
                                             story Sunday on "60
-                                            Minutes."  [Watch
-
-                                                  video](http://www.cbsnews.com/videos/60-minutes-test-rides-mercedes-benz-self-driving-car/) and watch 60
+                                            Minutes."  [Watch video](http://www.cbsnews.com/videos/60-minutes-test-rides-mercedes-benz-self-driving-car/) and watch 60
                                                 minutes on Sunday Oct 4.
                                                 This is really becoming
                                                 mainstream.
                                                 Congratulations Ralf! Alain
                                                 August 28, 2015
 
-### [Truck
-
-                                          Safety Out of the Box from
-                                          Autonobox](http://www.driverlesstransportation.com/truck-safety-out-of-the-box-from-autonobox-9450)
+### [Truck Safety Out of the Box from Autonobox](http://www.driverlesstransportation.com/truck-safety-out-of-the-box-from-autonobox-9450)
 
  B Simpson, July
                                         19, 2015 "The premise is
@@ -515,9 +434,7 @@ Oct 2 "As
                                         problem of brakes that overheat
                                         after intense use like a
                                         panic-stop or sustained use
-                                        while going downhill.... [Read
-
-                                          more](http://www.driverlesstransportation.com/truck-safety-out-of-the-box-from-autonobox-9450)  Hmmm...A
+                                        while going downhill.... [Read more](http://www.driverlesstransportation.com/truck-safety-out-of-the-box-from-autonobox-9450)  Hmmm...A
                                             viable after-market
                                             retro-fit opportunity.
                                             Alain
@@ -525,20 +442,11 @@ Oct 2 "As
 
 ###
 
-### [Rep.
-
-                                          Lipinski Introduces Future
-                                          Transportation Research and
-                                          Innovation Act](http://www.chicagotribune.com/suburbs/la-grange/community/chi-ugc-article-rep-lipinski-introduces-future-transportatio-2015-06-29-story.html#page=1)
+### [Rep. Lipinski Introduces Future Transportation Research and Innovation Act](http://www.chicagotribune.com/suburbs/la-grange/community/chi-ugc-article-rep-lipinski-introduces-future-transportatio-2015-06-29-story.html#page=1)
 
  I. Sancken
                                         03/29/15, "Congressman Dan
-                                        Lipinski (IL-3) has [introduced
-
-                                          H.R. 2886, the Future
-                                          Transportation Research and
-                                          Innovation for Prosperity
-                                          (TRIP) Act](https://www.congress.gov/bill/114th-congress/house-bill/2886/text), to support
+                                        Lipinski (IL-3) has [introduced H.R. 2886, the Future Transportation Research and Innovation for Prosperity (TRIP) Act](https://www.congress.gov/bill/114th-congress/house-bill/2886/text), to support
                                         innovative technologies that
                                         have the potential to
                                         fundamentally alter mobility in
@@ -560,9 +468,7 @@ Oct 2 "As
                                         innovative ways to improve
                                         safety, ease congestion, improve
                                         personal mobility, and cut
-                                        energy use..."  [Read
-
-                                          more](http://www.chicagotribune.com/suburbs/la-grange/community/chi-ugc-article-rep-lipinski-introduces-future-transportatio-2015-06-29-story.html#page=1)  Hmmm...
+                                        energy use..."  [Read more](http://www.chicagotribune.com/suburbs/la-grange/community/chi-ugc-article-rep-lipinski-introduces-future-transportatio-2015-06-29-story.html#page=1)  Hmmm...
                                             Excellent!  Alain
                                                 May 29, 2015
 
@@ -570,11 +476,7 @@ Oct 2 "As
 
 ###
 
-### [John
-
-                                          F. Nash Jr., Math Genius
-                                          Defined by a 'Beautiful Mind,'
-                                          Dies at 86](http://www.nytimes.com/2015/05/25/science/john-nash-a-beautiful-mind-subject-and-nobel-winner-dies-at-86.html)
+### [John F. Nash Jr., Math Genius Defined by a 'Beautiful Mind,' Dies at 86](http://www.nytimes.com/2015/05/25/science/john-nash-a-beautiful-mind-subject-and-nobel-winner-dies-at-86.html)
 
  E. Goodmay, May
                                         24 "...Dr. Nash and his wife,
@@ -592,19 +494,11 @@ Oct 2 "As
                                         cab and pronounced dead at the
                                         scene. The State Police said it
                                         appeared that they had not been
-                                        wearing seatbelts.... [Read
+                                        wearing seatbelts.... [Read more](http://www.nytimes.com/2015/05/25/science/john-nash-a-beautiful-mind-subject-and-nobel-winner-dies-at-86.html)
 
-                                          more](http://www.nytimes.com/2015/05/25/science/john-nash-a-beautiful-mind-subject-and-nobel-winner-dies-at-86.html)
+                                        See also:  [John, Alicia Nash Remembered After Fatal Crash](http://www.towntopics.com/wordpress/2015/05/27/john-alicia-nash-remembered-after-fatal-crash/)
 
-                                        See also:  [John,
-
-                                            Alicia Nash Remembered After
-                                            Fatal Crash](http://www.towntopics.com/wordpress/2015/05/27/john-alicia-nash-remembered-after-fatal-crash/)
-
-[A
-                                            Beautiful Mind Mathematician
-                                            John Nash and His Wife
-                                            Killed in N.J. Car Crash](http://nymag.com/daily/intelligencer/2015/05/mathematician-john-nash-and-wife-killed-in-crash.html)
+[A Beautiful Mind Mathematician John Nash and His Wife Killed in N.J. Car Crash](http://nymag.com/daily/intelligencer/2015/05/mathematician-john-nash-and-wife-killed-in-crash.html)
                                         ;
 
 Hmmm...
@@ -618,12 +512,7 @@ Hmmm...
 
                                             the NYT and others tried but
                                             missed the fundamental point
-                                            by following up with ["Deaths
-
-                                              of Math Genius John F.
-                                              Nash Jr. and Wife Show
-                                              Need to Use Seatbelts in
-                                              Back, Experts Say](http://www.nytimes.com/2015/05/26/nyregion/deaths-of-math-genius-john-f-nash-jr-and-his-wife-show-need-to-use-seatbelts-in-back-experts-say.html)
+                                            by following up with ["Deaths of Math Genius John F. Nash Jr. and Wife Show Need to Use Seatbelts in Back, Experts Say](http://www.nytimes.com/2015/05/26/nyregion/deaths-of-math-genius-john-f-nash-jr-and-his-wife-show-need-to-use-seatbelts-in-back-experts-say.html)
                                             ".  Why do we so easily put
                                             up with crashes in the first
                                             place?  It is as if it is OK
@@ -696,7 +585,7 @@ Moreover,
                                             focus on delivering that
                                             help.      Alain
 
-                                              [](Mailto:alaink@princeton.edu)[Mailto:alaink@princeton.edu](Mailto:alaink@princeton.edu) [](Mailto:alaink@princeton.edu)
+                                              [Mailto:alaink@princeton.edu](Mailto:alaink@princeton.edu) 
 
                                                           This list is
                                                           maintained by

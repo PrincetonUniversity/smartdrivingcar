@@ -11,8 +11,7 @@ Click or tap if you trust this link.">Saturday,
 
   10th edition of the 12th year of SmartDrivingCars eLetter
 
-[Driverless
- car company Waymo makes pit stop at UB](https://www.buffalo.edu/ubnow/stories/2024/03/waymo-visit.html)
+[Driverless car company Waymo makes pit stop at UB](https://www.buffalo.edu/ubnow/stories/2024/03/waymo-visit.html)
 
 UBNOW Staff, March 7, "The Jaguar SUV idled in a parking lot between Hayes and Crosby halls.
 
@@ -35,7 +34,6 @@ I'm even more blown away by his vision of this technology's fundamental Societal
  I put Waymo's opportunity
 [this way](https://www.dropbox.com/scl/fi/a8xkagozvdf9tmeoa6910/Quality-of-Lifemode-i-One-slide.pdf?rlkey=qfb6763h46gbljsrz5tpb5egi&dl=0):
 
-[](https://www.dropbox.com/scl/fi/a8xkagozvdf9tmeoa6910/Quality-of-Lifemode-i-One-slide.pdf?rlkey=qfb6763h46gbljsrz5tpb5egi&dl=0)
 
 The key aspect of the above is "Sum 'all trips served' ".  That's where Total Addressable market (TAM) comes
  in.  If one is competing with Uber one must realize that its Total Addressable Market (TAM = rides/day) is small ~ < 1M/day in USA.   It is not cheap or affordable and for many is down right expensive except in "mission-critical" situations.  While not a Limo
@@ -60,9 +58,7 @@ This is not 'rocket science'.  It is just elementary win-win-win for those have
 
 Steve… boy, am I jealous of you!!  And I couldn't be more proud of you.  Congrats!!  Alain
 
-[](https://www.amazon.com/Real-Case-Driverless-Mobility-Vehicles/dp/0443236852/ref=sr_1_1?crid=22SK14SI799RL&dib=eyJ2IjoiMSJ9.lxEa4C-A4uRSBIChfD3wJw.xogl_NdvikO4LhL5RvNCh1iiD7Vx17Dpx_FWynWqyq4&dib_tag=se&keywords=kornhauser+sena&qid=1708172593&s=electronics&sprefix=kornhauser+sena%2Celectronics%2C90&sr=1-1)[Just
- Published](https://www.amazon.com/Real-Case-Driverless-Mobility-Vehicles/dp/0443236852/ref=sr_1_1?crid=1XSXZ611C2JCN&keywords=Kornhauser+sena&qid=1707095108&sprefix=kornhauser+sena%2Caps%2C76&sr=8-1&ufe=app_do%3Aamzn1.fos.18ed3cb5-28d5-4975-8bc7-93deae8f9840)!!!  [Go
- to Amazon.com](https://www.amazon.com/Real-Case-Driverless-Mobility-Vehicles/dp/0443236852/ref=sr_1_1?crid=1XSXZ611C2JCN&keywords=Kornhauser+sena&qid=1707095108&sprefix=kornhauser+sena%2Caps%2C76&sr=8-1&ufe=app_do%3Aamzn1.fos.18ed3cb5-28d5-4975-8bc7-93deae8f9840)… You can still be first on your block to have one
+[Just Published](https://www.amazon.com/Real-Case-Driverless-Mobility-Vehicles/dp/0443236852/ref=sr_1_1?crid=1XSXZ611C2JCN&keywords=Kornhauser+sena&qid=1707095108&sprefix=kornhauser+sena%2Caps%2C76&sr=8-1&ufe=app_do%3Aamzn1.fos.18ed3cb5-28d5-4975-8bc7-93deae8f9840)!!!  [Go to Amazon.com](https://www.amazon.com/Real-Case-Driverless-Mobility-Vehicles/dp/0443236852/ref=sr_1_1?crid=1XSXZ611C2JCN&keywords=Kornhauser+sena&qid=1707095108&sprefix=kornhauser+sena%2Caps%2C76&sr=8-1&ufe=app_do%3Aamzn1.fos.18ed3cb5-28d5-4975-8bc7-93deae8f9840)… You can still be first on your block to have one
 J.
 
 [https://www.amazon.com/Real-Case-Driverless-Mobility-Vehicles/dp/0443236852/ref=sr_1_1](https://www.amazon.com/Real-Case-Driverless-Mobility-Vehicles/dp/0443236852/ref=sr_1_1%0d)
@@ -82,8 +78,7 @@ F. Fishkin, March 9, Waymo brings driverless vehicle to the University of Buffal
 * [32:33](https://www.youtube.com/watch?v=wwiZmH796jo&t=1953s) Jalopnik column… We've Wasted Nearly 50 Billioin Dollars on Self Driving Cars
 * [36:36](https://www.youtube.com/watch?v=wwiZmH796jo&t=2196s) Self Driving vehicle bill nears final passage in Kentucky
 
-### [6th
- SmartDrivingCars Summit](https://summit.princeton.edu/)
+### [6th SmartDrivingCars Summit](https://summit.princeton.edu/)
 
 Alain Kornhauser, March 8, "We promise civil and lively discussions as to how to improve the Quality-of-Life (QoL) for many while disrupting the QoL to as few
  as possible.  Focus will be on…
@@ -118,8 +113,7 @@ Workshop
  sponsorship opportunities remain available. If interested, please simply contact me
 [via email](mailto:alaink@princeton.edu?subject=Sponsorship%206th%20Princeton%20SmartDrivingCarsSummit) for now while we allow those that have "penciled-in commitments" complete their opportunity to fully commit. Hope you'll be able to join in with us. Alain
 
-[AI's Hottest Ticket: NVIDIA GTC Brings Together Automotive Leaders and Visionaries Transforming the
- Future of Transportation](https://blogs.nvidia.com/blog/gtc-2024-auto-sessions/)
+[AI's Hottest Ticket: NVIDIA GTC Brings Together Automotive Leaders and Visionaries Transforming the Future of Transportation](https://blogs.nvidia.com/blog/gtc-2024-auto-sessions/)
 
 M. Labrie, Feb. 16, "Generative AI and software-defined computing are transforming the automotive landscape — making the journey behind the wheel safer, smarter
  and more enjoyable.
@@ -128,15 +122,13 @@ Dozens of automakers and [NVIDIA DRIVE](https://www.nvidia.com/en-us/self-drivi
  be demonstrating their developments in mobility, along with showcasing their next-gen vehicles at GTC, the conference for the era of AI, running from March 18-21 in San Jose, Calif., and online. These include the Mercedes-Benz Concept CLA Class, the new Volvo
  EX90, Polestar 3, WeRide Robobus, Nuro R3 autonomous delivery vehicle and more.
 
-Explore myriad sessions to learn about the latest developments in mobility — from highly automated and autonomous driving, [generative
- AI](https://www.nvidia.com/en-us/glossary/generative-ai/) and [large language models](https://www.nvidia.com/en-us/glossary/large-language-models/#:~:text=Large%20language%20models%20(LLMs)%20are,content%20using%20very%20large%20datasets.) to simulation, safety, design and manufacturing.
+Explore myriad sessions to learn about the latest developments in mobility — from highly automated and autonomous driving, [generative AI](https://www.nvidia.com/en-us/glossary/generative-ai/) and [large language models](https://www.nvidia.com/en-us/glossary/large-language-models/#:~:text=Large%20language%20models%20(LLMs)%20are,content%20using%20very%20large%20datasets.) to simulation, safety, design and manufacturing.
 
 Featured sessions include: …."
 [Read More](https://blogs.nvidia.com/blog/gtc-2024-auto-sessions/)
   Hmmmm… Can't wait.  Go experience & learn.    Alain
 
-[Behind
- Apple's Doomed Car Project: False Starts and Wrong Turns](https://www.nytimes.com/2024/02/28/technology/behind-the-apple-car-dead.html)
+[Behind Apple's Doomed Car Project: False Starts and Wrong Turns](https://www.nytimes.com/2024/02/28/technology/behind-the-apple-car-dead.html)
 
 B. Chen, Feb. 28, "For the last decade, many Apple employees working on the company's secretive car project, internally code-named Titan, had a less flattering
  name for it: the Titanic disaster. They knew the project was likely to fail.
@@ -166,13 +158,10 @@ Z. Hansen, March 7,  "Rivian, the electric vehicle upstart that announced more 
  7,500 promised jobs east of Atlanta, is halting the mammoth project.
 
 The California company, which promised in late 2021 to build what was then considered Georgia's largest-ever economic development project, said Thursday at an
- event introducing new models that it will now start production of its anticipated R2 crossover at[its sole factory
- in Illinois](https://www.ajc.com/news/town-where-rivian-trucks-are-normal-has-advice-for-georgia-buckle-up/ANJY6OHC5JCEXDVW2WEQGF5KIM/) instead of in the Peach State.." [Read
- More](https://www.ajc.com/news/business/breaking-rivian-pauses-plan-to-build-5b-georgia-factory/RH7HC6QEAJGOFJMZWF3Q6IKN3Y/)  Hmmmm…
+ event introducing new models that it will now start production of its anticipated R2 crossover at[its sole factory in Illinois](https://www.ajc.com/news/town-where-rivian-trucks-are-normal-has-advice-for-georgia-buckle-up/ANJY6OHC5JCEXDVW2WEQGF5KIM/) instead of in the Peach State.." [Read More](https://www.ajc.com/news/business/breaking-rivian-pauses-plan-to-build-5b-georgia-factory/RH7HC6QEAJGOFJMZWF3Q6IKN3Y/)  Hmmmm…
   Can't be good news.   Alain
 
-  [Bill
- allowing self-driving cars and trucks in Kentucky is nearing final passage](https://www.wlky.com/article/self-driving-cars-trucks-kentucky-bill-nearing-final-passage/60130122)
+  [Bill allowing self-driving cars and trucks in Kentucky is nearing final passage](https://www.wlky.com/article/self-driving-cars-trucks-kentucky-bill-nearing-final-passage/60130122)
 
 M. Vanderhoff, March 7, "Supporters say autonomous vehicles will bring new freedom to the disabled and those who can't drive while helping companies that struggle
  to find truck drivers.
@@ -182,8 +171,7 @@ But critics fear a tide of job losses and question how safe they are.
 Despite the debate, self-driving cars and trucks appear to be headed for Kentucky's roads.
 
 House Bill 7, which would allow and regulate autonomous vehicles, passed out of a Senate committee on Thursday, paving the way for a final vote on the Senate
- floor.  …." [Read
- More](https://www.wlky.com/article/self-driving-cars-trucks-kentucky-bill-nearing-final-passage/60130122)  Hmmmm…
+ floor.  …." [Read More](https://www.wlky.com/article/self-driving-cars-trucks-kentucky-bill-nearing-final-passage/60130122)  Hmmmm…
  OK.  Nice to see progressive views in Kentucky.  Alain
 
 Return of
@@ -193,10 +181,7 @@ Return of
 
 [We've Wasted Nearly $50 Billion On Self Driving Cars. Here's Where That Money Should Have Gone](https://jalopnik.com/weve-wasted-nearly-50-billion-on-self-driving-cars-he-1851316285)
 
-S. DaSila, March 7,  "The race for fully autonomous passenger cars is [a
- dumb one](https://jalopnik.com/how-the-self-driving-car-dream-became-a-nightmare-1850641230). Businesses are playing with technology that offers [massive downsides](https://jalopnik.com/tesla-sold-false-sense-of-security-to-employee-killed-1851255054) for [little
- gain](https://jalopnik.com/americans-are-starting-to-realize-self-driving-cars-are-1851231139), and just end up [clogging up streets](https://jalopnik.com/this-was-the-dire-state-of-self-driving-cars-in-2023-1851115821/slides/3) with their [often-confused
- computerized vehicles](https://jalopnik.com/self-driving-car-vs-human-99-percent-safe-crash-data-1850170268). But there's more to the story than mere Sisyphean endeavors of trying to teach human behavior to computers: These companies have also wasted tons of money on the whole thing.  …."
+S. DaSila, March 7,  "The race for fully autonomous passenger cars is [a dumb one](https://jalopnik.com/how-the-self-driving-car-dream-became-a-nightmare-1850641230). Businesses are playing with technology that offers [massive downsides](https://jalopnik.com/tesla-sold-false-sense-of-security-to-employee-killed-1851255054) for [little gain](https://jalopnik.com/americans-are-starting-to-realize-self-driving-cars-are-1851231139), and just end up [clogging up streets](https://jalopnik.com/this-was-the-dire-state-of-self-driving-cars-in-2023-1851115821/slides/3) with their [often-confused computerized vehicles](https://jalopnik.com/self-driving-car-vs-human-99-percent-safe-crash-data-1850170268). But there's more to the story than mere Sisyphean endeavors of trying to teach human behavior to computers: These companies have also wasted tons of money on the whole thing.  …."
 [Read More](https://jalopnik.com/weve-wasted-nearly-50-billion-on-self-driving-cars-he-1851316285)
   Hmmmm… It would be tough to write a more ridiculous initial sentence.
 

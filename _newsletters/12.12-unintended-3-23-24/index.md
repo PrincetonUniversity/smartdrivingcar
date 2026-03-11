@@ -14,8 +14,7 @@ Click or tap if you trust this link.">Saturday,
 [Editor's note](https://www.iihs.org/ratings/partial-automation-safeguards)….
 
 Alain Kornhauser & Elizabeth Monroe,  March 23, "Near the top of last week's issue of
-we reported on IIHS/HDLI's [Partial automation safeguard ratings](https://www.iihs.org/ratings/partial-automation-safeguards) with the " …[Read
- More](https://sfstandard.com/2024/03/13/waymo-safety-robotaxis/)  Hmmmm… Really good rating system; however, it could be much better if it started by insisting that
+we reported on IIHS/HDLI's [Partial automation safeguard ratings](https://www.iihs.org/ratings/partial-automation-safeguards) with the " …[Read More](https://sfstandard.com/2024/03/13/waymo-safety-robotaxis/)  Hmmmm… Really good rating system; however, it could be much better if it started by insisting that
  the car have a really excellent emergency braking system augmented with an unintended acceleration over-ride. Alain
 …"
 
@@ -25,14 +24,12 @@ Hmmmm…
  Really good rating system; however, it could be much better if it started by insisting that the car have a really excellent emergency braking system augmented with an unintended acceleration over-ride
 as well as an unintended gear-shift.  Alain & Elizabeth
 
-[Everything
- We Know About Angela Chao….](https://www.forbes.com/sites/maryroeloffs/2024/03/21/everything-we-know-about-angela-chao-her-intoxicated-fatal-crash-and-newly-raised-tesla-safety-concerns/?sh=f91208024ecc)
+[Everything We Know About Angela Chao….](https://www.forbes.com/sites/maryroeloffs/2024/03/21/everything-we-know-about-angela-chao-her-intoxicated-fatal-crash-and-newly-raised-tesla-safety-concerns/?sh=f91208024ecc)
 
 Staff, March 12,  "…TANGENT
 
 Chao's death reignited concerns around the gearshifts…"
-[Read
- More](https://www.forbes.com/sites/maryroeloffs/2024/03/21/everything-we-know-about-angela-chao-her-intoxicated-fatal-crash-and-newly-raised-tesla-safety-concerns/?sh=f91208024ecc)  Hmmmm…
+[Read More](https://www.forbes.com/sites/maryroeloffs/2024/03/21/everything-we-know-about-angela-chao-her-intoxicated-fatal-crash-and-newly-raised-tesla-safety-concerns/?sh=f91208024ecc)  Hmmmm…
  This is about the only part of this article that isn't purely focused on the most sensational click-bait.  To add ignorance to insult, it categorized the only substance as "TANGENT".  C'mon Forbes!!! Is this really how we taught you to write @ Princeton?
  I guess Malcom isn't involved anymore and essentially all of the other reporting about this tragic incident simply echoed the same bot.
 
@@ -56,9 +53,7 @@ What is not at all easy is to determine the depth of water ahead (or behind). If
  drive into it.  For one, you'll float (for a while) , so you'll go where the current will take you.  If you sink,  it will equalize the pressure on the door, so you'll be able to open it. Don't wait too long because it is your only shot to get out before you
  sink too far.  Alain
 
-[](https://www.amazon.com/Real-Case-Driverless-Mobility-Vehicles/dp/0443236852/ref=sr_1_1?crid=22SK14SI799RL&dib=eyJ2IjoiMSJ9.lxEa4C-A4uRSBIChfD3wJw.xogl_NdvikO4LhL5RvNCh1iiD7Vx17Dpx_FWynWqyq4&dib_tag=se&keywords=kornhauser+sena&qid=1708172593&s=electronics&sprefix=kornhauser+sena%2Celectronics%2C90&sr=1-1)[Just
- Published](https://www.amazon.com/Real-Case-Driverless-Mobility-Vehicles/dp/0443236852/ref=sr_1_1?crid=1XSXZ611C2JCN&keywords=Kornhauser+sena&qid=1707095108&sprefix=kornhauser+sena%2Caps%2C76&sr=8-1&ufe=app_do%3Aamzn1.fos.18ed3cb5-28d5-4975-8bc7-93deae8f9840)!!!  [Go
- to Amazon.com](https://www.amazon.com/Real-Case-Driverless-Mobility-Vehicles/dp/0443236852/ref=sr_1_1?crid=1XSXZ611C2JCN&keywords=Kornhauser+sena&qid=1707095108&sprefix=kornhauser+sena%2Caps%2C76&sr=8-1&ufe=app_do%3Aamzn1.fos.18ed3cb5-28d5-4975-8bc7-93deae8f9840)… You can still be first on your block to have one
+[Just Published](https://www.amazon.com/Real-Case-Driverless-Mobility-Vehicles/dp/0443236852/ref=sr_1_1?crid=1XSXZ611C2JCN&keywords=Kornhauser+sena&qid=1707095108&sprefix=kornhauser+sena%2Caps%2C76&sr=8-1&ufe=app_do%3Aamzn1.fos.18ed3cb5-28d5-4975-8bc7-93deae8f9840)!!!  [Go to Amazon.com](https://www.amazon.com/Real-Case-Driverless-Mobility-Vehicles/dp/0443236852/ref=sr_1_1?crid=1XSXZ611C2JCN&keywords=Kornhauser+sena&qid=1707095108&sprefix=kornhauser+sena%2Caps%2C76&sr=8-1&ufe=app_do%3Aamzn1.fos.18ed3cb5-28d5-4975-8bc7-93deae8f9840)… You can still be first on your block to have one
 J.
 
 [https://www.amazon.com/Real-Case-Driverless-Mobility-Vehicles/dp/0443236852/ref=sr_1_1](https://www.amazon.com/Real-Case-Driverless-Mobility-Vehicles/dp/0443236852/ref=sr_1_1%0d)
@@ -92,8 +87,7 @@ The Tesla v12 software update is introducing what Musk has been calling "end-to-
  are now be handled by neural nets rather than being coded by programmers.
 
 It is being touted as the difference maker that should bring a lot of improvements. Musk again claimed, like he has with many FSD Beta
- updates before, it is "mind-blowing"…  [Read
- More](https://electrek.co/2024/03/16/tesla-full-self-driving-beta-v12-finally-rolls-out/)  Hmmmm…
+ updates before, it is "mind-blowing"…  [Read More](https://electrek.co/2024/03/16/tesla-full-self-driving-beta-v12-finally-rolls-out/)  Hmmmm…
  I had not experienced FSD and wanted to wait for v12.   Fred downloaded it, and he and his wife Lori gave me a ride from my office in Princeton to Bridgewater to pick up my Mercedes that had been serviced, which did not include any update to my distronic "Advanced
  Driver Assistance System" (no upgrade or maintenance was offered (nor available, I presume; else, I'm sure they would have gone for the upsell -and I would have bought)).  Amazing, Fred got his FSD updated for free. But I digress…
 
@@ -150,22 +144,17 @@ M. House,  March 23, "It has been over a week since Starship's Flight Test 3 an
 [Read More](https://www.youtube.com/watch?v=1HAcza0nE34)
   Hmmmm… Excellent post-flight update and much more.   Alain
 
- [Nvidia
- announces AI-powered health care 'agents' that outperform nurses — and cost $9 an hour](https://finance.yahoo.com/news/nvidia-announces-ai-powered-health-220120829.html)
+ [Nvidia announces AI-powered health care 'agents' that outperform nurses — and cost $9 an hour](https://finance.yahoo.com/news/nvidia-announces-ai-powered-health-220120829.html)
 
-B. Dumas,  March 21, "High-powered chipmaker Nvidia has teamed up with [artificial
- intelligence](https://www.foxbusiness.com/category/artificial-intelligence) health care company Hippocratic AI to develop generative AI "agents" that not only outperform human nurses on video calls but cost a lot less per hour.
+B. Dumas,  March 21, "High-powered chipmaker Nvidia has teamed up with [artificial intelligence](https://www.foxbusiness.com/category/artificial-intelligence) health care company Hippocratic AI to develop generative AI "agents" that not only outperform human nurses on video calls but cost a lot less per hour.
 
-The two companies on Thursday announced their collaboration to build "empathetic health care agents" powered by Nvidia and trained on Hippocratic's [health
- care-focused](https://www.foxbusiness.com/category/health-care) large language model (LLM) that are better able to form a human connection with patients through "super-low latency conversational reactions."…
+The two companies on Thursday announced their collaboration to build "empathetic health care agents" powered by Nvidia and trained on Hippocratic's [health care-focused](https://www.foxbusiness.com/category/health-care) large language model (LLM) that are better able to form a human connection with patients through "super-low latency conversational reactions."…
 
-"Voice-based digital agents powered by generative AI can usher in an age of abundance in health care, but only if [the
- technology](https://www.foxbusiness.com/category/tech) responds to patients as a human would," Kimberly Powell, Nvidia's vice president of health care, said.
+"Voice-based digital agents powered by generative AI can usher in an age of abundance in health care, but only if [the technology](https://www.foxbusiness.com/category/tech) responds to patients as a human would," Kimberly Powell, Nvidia's vice president of health care, said.
 
 The generative AI-powered bots also cost a fraction of the hourly rate for nurses.
 
-Hippocratic's website shows its agents cost $9 an hour to operate. According to the [Bureau
- of Labor Statistics](https://www.foxnews.com/category/us/economy/jobs), the median hourly pay for nurses was $39.05 as of 2022.  …."
+Hippocratic's website shows its agents cost $9 an hour to operate. According to the [Bureau of Labor Statistics](https://www.foxnews.com/category/us/economy/jobs), the median hourly pay for nurses was $39.05 as of 2022.  …."
 [Read More](https://www.autobodynews.com/news/waymo-launches-driverless-cars-in-austin)
   Hmmmm… Interesting. An industry that doesn't mind acknowledging that affordability is an important attribute. I can't
  wait until the RoboTaxi world states that it costs them less than 80% of what it would cost XYZ Transit to give a ride that is now where near as good.  Alain
@@ -182,8 +171,7 @@ Staff, March 18, "Waymo One currently operates 24/7 across 63 square miles of LA
 Alan Adler, March 15, "After numerous rides in autonomous trucks monitored by safety drivers in case of a mishap, I found it almost surreal to climb into Aurora
  Innovation's Class 8 driverless truck, buckle up, hear the engine rumble to life and the air brakes disengage, and feel the truck move under its own power — with no one in the driver's seat.
 
-While two of three Americans [still fear
- autonomous vehicles](https://newsroom.aaa.com/2024/03/aaa-fear-of-self-driving-cars-persists-as-industry-faces-an-uncertain-future/), according to AAA's latest survey released Thursday, my three-quarter-mile ride around an Aurora test facility southeast of Pittsburgh was in no way frightening. It was exhilarating.
+While two of three Americans [still fear autonomous vehicles](https://newsroom.aaa.com/2024/03/aaa-fear-of-self-driving-cars-persists-as-industry-faces-an-uncertain-future/), according to AAA's latest survey released Thursday, my three-quarter-mile ride around an Aurora test facility southeast of Pittsburgh was in no way frightening. It was exhilarating.
 
 I kept my iPhone camera trained on the steering wheel. It moved without prompts. Brakes slowed the tractor and empty 53-foot trailer into turns. The throttle
  engaged seamlessly, accelerating out of them.
@@ -194,19 +182,15 @@ Passenger cars and trucks pulled alongside and passed the truck, simulating real
   Hmmmm… Congratulations Veer, Lia and Chris on your recent driverless "proof-of-concept" demonstrations and your presence
  at [nVIDIA GTC](https://blogs.nvidia.com/blog/automotive-tech-gtc-2024/).  Alain
 
-[May
- Mobility recognized on Fast Company's 2024 list of the Most Innovative Companies](https://www.prnewswire.com/news-releases/may-mobility-recognized-on-fast-companys-2024-list-of-the-most-innovative-companies-302092975.html#:~:text=ANN%20ARBOR%2C%20Mich.%2C%20March,Companies%20in%20the%20Automotive%20category.)
+[May Mobility recognized on Fast Company's 2024 list of the Most Innovative Companies](https://www.prnewswire.com/news-releases/may-mobility-recognized-on-fast-companys-2024-list-of-the-most-innovative-companies-302092975.html#:~:text=ANN%20ARBOR%2C%20Mich.%2C%20March,Companies%20in%20the%20Automotive%20category.)
 
-Press Release, March 19,  "[May
- Mobility](http://email.prnewswire.com/ls/click?upn=u001.v9xoTZaCB3KDvUFxTt6K9ITfJcLtx-2FOvmuVizoBK57CO7Xl3KNRDKjKewV0CdFsVVcF8qCF7nCawr84L-2FUw2j9VtdKfr6wWWKnQ6EVq9RLTSEu2cBAY2EJUv1YCETjyP7JWTFbm4bF-2BaoFa7fC9pZaQClD-2B8wUY3UWBWOC6uW-2Bg-3D62o-_OSiW6dOxWzJUxVxUkW73bp8uxKliFJMa0cDc5N6too8UCHQ0qv2Q0keCMzjK-2BBvWm3jm5fdkKRR2EZ942F0UT5OvspCNw1NTs1pLBH0qMoPEfJ1oZcuYnrzlomAstWGV2IDHms6MJVPe-2BrlpokRD-2FybRFfPmGh-2BafzemTt4JrLInlU33wC8LUrIifM9qiYAHlHoDlpqGaaijh35AwUeLZR9s9tNFge6OlLgYUvGfua1rb8ONx82B3aW1-2Fm1MFxeM0kdpZafdv3mTm7a9McvrdQTjN5tKhD5lfe5Xm9cgF3MiGiwd2L4hKwV7syB1dOVKX95RNZQCs6ArOJ5ozIJmbg-2BIbgcUuTEvNCAnHnadEeN0-2FY-2Blawuhcu-2FxTnU0xK64), a leader in the development and deployment of autonomous vehicle (AV) technology, has been named one of
+Press Release, March 19,  "[May Mobility](http://email.prnewswire.com/ls/click?upn=u001.v9xoTZaCB3KDvUFxTt6K9ITfJcLtx-2FOvmuVizoBK57CO7Xl3KNRDKjKewV0CdFsVVcF8qCF7nCawr84L-2FUw2j9VtdKfr6wWWKnQ6EVq9RLTSEu2cBAY2EJUv1YCETjyP7JWTFbm4bF-2BaoFa7fC9pZaQClD-2B8wUY3UWBWOC6uW-2Bg-3D62o-_OSiW6dOxWzJUxVxUkW73bp8uxKliFJMa0cDc5N6too8UCHQ0qv2Q0keCMzjK-2BBvWm3jm5fdkKRR2EZ942F0UT5OvspCNw1NTs1pLBH0qMoPEfJ1oZcuYnrzlomAstWGV2IDHms6MJVPe-2BrlpokRD-2FybRFfPmGh-2BafzemTt4JrLInlU33wC8LUrIifM9qiYAHlHoDlpqGaaijh35AwUeLZR9s9tNFge6OlLgYUvGfua1rb8ONx82B3aW1-2Fm1MFxeM0kdpZafdv3mTm7a9McvrdQTjN5tKhD5lfe5Xm9cgF3MiGiwd2L4hKwV7syB1dOVKX95RNZQCs6ArOJ5ozIJmbg-2BIbgcUuTEvNCAnHnadEeN0-2FY-2Blawuhcu-2FxTnU0xK64), a leader in the development and deployment of autonomous vehicle (AV) technology, has been named one of
 [Fast Company's Most Innovative Companies](http://email.prnewswire.com/ls/click?upn=u001.v9xoTZaCB3KDvUFxTt6K9ITfJcLtx-2FOvmuVizoBK57CO7Xl3KNRDKjKewV0CdFsVUvPHYkpZS3S7xDfJFyIwsdNtnemCrAnsZ3i90s8ZZXsrak096a5I4C-2BnwUDr9T79Cc76GBow9mhrCkti6ubJXhu9bifrrH-2BJRdIs4kMQxNiEmX3bLVxeWmhD8vtNh9GUwQACUQ2uFhjpmimP5vUhtjlzTA9B169iesNu4b174g8WUcRS4M2yJL1wYBiGeXquoF_t_OSiW6dOxWzJUxVxUkW73bp8uxKliFJMa0cDc5N6too8UCHQ0qv2Q0keCMzjK-2BBvWm3jm5fdkKRR2EZ942F0UT5OvspCNw1NTs1pLBH0qMoPEfJ1oZcuYnrzlomAstWGV2IDHms6MJVPe-2BrlpokRD-2FybRFfPmGh-2BafzemTt4JrLInlU33wC8LUrIifM9qiYAHlHoDlpqGaaijh35AwUeLZR9s9tNFge6OlLgYUvGfua3OKxGsXIKXZ2cbkRe8XSIRnoY7jSINJen4KIrcS7veYeQt5kpsKtyEZ-2FaKdEFs3XWb7fdRyfsFwFpvchBY-2F8DpuRL0aYZS-2FZ5x9a-2BHs4o2dKfrJ419131vHiZLT6mqDvLbrhPPjfaplGvGIExxYGDm) in the Automotive category. This recognition comes in light of May Mobility's efforts to revolutionize the autonomous vehicle industry with its differentiated business-to-government (B2G) and business-to-business
  (B2B) go-to-market strategy and its Multi-Policy Decision Making (MPDM) technology.""
-[Read
- More](https://www.prnewswire.com/news-releases/may-mobility-recognized-on-fast-companys-2024-list-of-the-most-innovative-companies-302092975.html#:~:text=ANN%20ARBOR%2C%20Mich.%2C%20March,Companies%20in%20the%20Automotive%20category.)  Hmmmm…
+[Read More](https://www.prnewswire.com/news-releases/may-mobility-recognized-on-fast-companys-2024-list-of-the-most-innovative-companies-302092975.html#:~:text=ANN%20ARBOR%2C%20Mich.%2C%20March,Companies%20in%20the%20Automotive%20category.)  Hmmmm…
   Congratulations!  Well deserved.  Alain
 
-[Biden
- Administration Announces Rule Aimed at Expanding Electric Vehicle](https://www.nytimes.com/2024/03/20/climate/biden-phase-out-gas-cars.html)
+[Biden Administration Announces Rule Aimed at Expanding Electric Vehicle](https://www.nytimes.com/2024/03/20/climate/biden-phase-out-gas-cars.html)
 
 C. Davenport, March 20 "The Biden administration on Wednesday issued one of the most significant climate regulations in the nation's history, a rule designed
  to ensure that the majority of new passenger cars and light trucks sold in the United States are all-electric or hybrids by 2032.
@@ -221,8 +205,7 @@ The rule increasingly limits the amount of pollution allowed from tailpipes over
  word "new cars sold" (how about re-built cars, where do they fit in?) or ??? Hopefully we won't clear this hurdle by selling only a very few new cars.  L
  Alain
 
-[Lenovo
- Vehicle Computing and WeRide Forge a Strategic Partnership, using NVIDIA DRIVE Thor Platform to Accelerate Autonomous Driving](https://www.prnewswire.com/news-releases/lenovo-vehicle-computing-and-weride-forge-a-strategic-partnership-using-nvidia-drive-thor-platform-to-accelerate-autonomous-driving-302092408.html)
+[Lenovo Vehicle Computing and WeRide Forge a Strategic Partnership, using NVIDIA DRIVE Thor Platform to Accelerate Autonomous Driving](https://www.prnewswire.com/news-releases/lenovo-vehicle-computing-and-weride-forge-a-strategic-partnership-using-nvidia-drive-thor-platform-to-accelerate-autonomous-driving-302092408.html)
 
 Press Release, March 19,  "Lenovo Vehicle Computing and WeRide recently formed a strategic partnership to create Level 4 autonomous driving solutions for commercial
  applications.
@@ -234,12 +217,10 @@ The cutting-edge intelligent-driving solution developed by Lenovo Vehicle Comput
 
 Rishi Dhall, Vice President of Automotive at NVIDIA, said, "The
  performance and architecture of the NVIDIA DRIVE Thor intelligent-driving platform, leveraging our new Blackwell architecture for generative AI, will enable Lenovo Vehicle Computing and WeRide to build and deploy safe and reliable autonomous vehicles.""
-[Read
- More](https://www.autoblog.com/2024/03/14/americans-faith-in-self-driving-cars-has-tanked-aaa-study-suggests/)  Hmmmm…
+[Read More](https://www.autoblog.com/2024/03/14/americans-faith-in-self-driving-cars-has-tanked-aaa-study-suggests/)  Hmmmm…
   Interesting.  It would be nice to figure out a way to securely enable this opportunity to become viable here in the USA.  I have a Lenovo Laptop.  Alain
 
-### [6th
- SmartDrivingCars Summit](https://summit.princeton.edu/)
+### [6th SmartDrivingCars Summit](https://summit.princeton.edu/)
 
 Alain Kornhauser, March 8, "We promise civil and lively discussions as to how to improve the Quality-of-Life (QoL) for many while disrupting the QoL to as few
  as possible.  Focus will be on the business aspects…

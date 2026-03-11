@@ -5,10 +5,8 @@ date: 2020-05-27
 permalink: /2020-05-27-2020-05-27/
 ---
 
-## [Click for
-            Free Pre-registration](http://zoom-tank.com/)
+## [Click for Free Pre-registration](http://zoom-tank.com/)
 
-[](https://zoom-tank.com/)
 
 * The
               public transport management sector has concentrated the
@@ -46,8 +44,7 @@ Popular
 (Join starting at 1:45pm, entry will close
         promptly at 2:00 pm)
 
-## [Click for Free
-          Pre-registration](http://zoom-tank.com/)
+## [Click for Free Pre-registration](http://zoom-tank.com/)
 
 ***************************************************************************************************************
 

@@ -7,9 +7,7 @@ permalink: /2014-03-30-2014-03-30/
 
 March 28, 2014
 
-## [SB 994 Consumer
-
-                      Vehicle Information Choice and Control Act](http://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=201320140SB994)
+## [SB 994 Consumer Vehicle Information Choice and Control Act](http://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=201320140SB994)
 
 ##
 
@@ -42,9 +40,7 @@ Hmmm...  Very interesting.
                       self-incrimination associated with the data! Also,
                       please look at comments by Remi Carmigniani
 
-## [General
-
-                    Motors Misled Grieving Families on a Lethal Flaw](http://www.nytimes.com/2014/03/25/business/carmaker-misled-grieving-families-on-a-lethal-flaw.html?hp&_r=0)
+## [General Motors Misled Grieving Families on a Lethal Flaw](http://www.nytimes.com/2014/03/25/business/carmaker-misled-grieving-families-on-a-lethal-flaw.html?hp&_r=0)
 
  Hmmm...
 
@@ -52,9 +48,7 @@ Hmmm...  Very interesting.
                       SmartDrivingCars and the answer is NOT
                       "let's not do SmartDrivingCars".  Alain
 
-## [Woes
-
-                      of Megacity Driving Signal Dawn of 'Peak Car' Era](http://www.bloomberg.com/news/2014-02-24/woes-of-megacity-driving-signals-dawn-of-peak-car-era.html)
+## [Woes of Megacity Driving Signal Dawn of 'Peak Car' Era](http://www.bloomberg.com/news/2014-02-24/woes-of-megacity-driving-signals-dawn-of-peak-car-era.html)
 
 By Jeff Green
                     and Keith Naughton
@@ -105,9 +99,7 @@ Ultimately, urban ( and
                   hassle and expense of owning a car and instead just
                   want to rent one that comes when summoned (they actually do that today with
                       their fleet sales and subsidiaries in that space,
-                      Alain)..." [Read
-
-                    more](http://www.bloomberg.com/news/2014-02-24/woes-of-megacity-driving-signals-dawn-of-peak-car-era.html)
+                      Alain)..." [Read more](http://www.bloomberg.com/news/2014-02-24/woes-of-megacity-driving-signals-dawn-of-peak-car-era.html)
 
 Hmm...Although I
                       almost put this in the half-baked section because
@@ -127,17 +119,13 @@ Hmm...Although I
                       to assess the transportation supply that best
                       enables that urban form. Alain
 
-## [Millennials&
-
-                      Mobility: Understanding the Millennial Mindset](http://www.apta.com/resources/reportsandpublications/Documents/APTA-Millennials-and-Mobility.pdf)
+## [Millennials& Mobility: Understanding the Millennial Mindset](http://www.apta.com/resources/reportsandpublications/Documents/APTA-Millennials-and-Mobility.pdf)
 
                   "...millennials, with their relative propensity for
                   urban lifestyle components (whether they live in
                   cities or in suburbs), dexterity with technology,
                   while starting careers during economically constrained
-                  times can leave a lasting impact on society...."  [Read
-
-                    more](http://www.apta.com/resources/reportsandpublications/Documents/APTA-Millennials-and-Mobility.pdf)
+                  times can leave a lasting impact on society...."  [Read more](http://www.apta.com/resources/reportsandpublications/Documents/APTA-Millennials-and-Mobility.pdf)
 
 ## [No Fundamental Shift to Transit: Not Even a Shift](http://www.newgeography.com/content/004227-no-fundamental-shift-transit-not-even-a-shift)
 
@@ -149,15 +137,11 @@ Hmm...Although I
                   move about our communities." Others even characterized
                   the results as indicating "shifting consumer
                   preferences." The data shows either view to be an
-                  exaggeration. .."  [Read
-
-                    more](http://www.newgeography.com/content/004227-no-fundamental-shift-transit-not-even-a-shift)  Hmmm... I guess
+                  exaggeration. .."  [Read more](http://www.newgeography.com/content/004227-no-fundamental-shift-transit-not-even-a-shift)  Hmmm... I guess
                       I'm wrong.  I sure hope that "new geography" isn't
                       having a "Kodak moment".  Alain
 
-## [California
-
-                      pushes to finish driverless car rules](http://www.redding.com/news/2014/mar/22/california-pushes-finish-driverless-car-rules/)
+## [California pushes to finish driverless car rules](http://www.redding.com/news/2014/mar/22/california-pushes-finish-driverless-car-rules/)
 
                    JUSTIN PRITCHARD, Posted March 22 "... That process
                   began Tuesday, when the DMV held an initial public
@@ -196,18 +180,12 @@ Hmm...Although I
                   owners on basics such as starting and stopping the
                   automated driving function..."[Read more](http://www.redding.com/news/2014/mar/22/california-pushes-finish-driverless-car-rules/)
 
-Hmm... [You
-
-                        Tube](https://www.youtube.com/watch?v=cKSHs8cEPOg)of 3/11/14 meeting (All 4 hours
+Hmm... [You Tube](https://www.youtube.com/watch?v=cKSHs8cEPOg)of 3/11/14 meeting (All 4 hours
                       worth).  This is the real information about
-                      the meeting. [A
-                        bad video](https://www.youtube.com/watch?v=e1UHu3m17sw) of a bad user taken by Jerome
+                      the meeting. [A bad video](https://www.youtube.com/watch?v=e1UHu3m17sw) of a bad user taken by Jerome
                       Lutin  :-)   Alain
 
-## [University
-
-                      of Michigan approves design for $6.5M test track
-                      for autonomous vehicles](http://www.mlive.com/news/ann-arbor/index.ssf/2014/03/university_of_michigan_approve_3.html)
+## [University of Michigan approves design for $6.5M test track for autonomous vehicles](http://www.mlive.com/news/ann-arbor/index.ssf/2014/03/university_of_michigan_approve_3.html)
 
                   By Kellie Woodhouse, Mar. 21, 2014 "Merge lanes,
                   roundabouts, gravel roads, a four-lane highway and
@@ -222,9 +200,7 @@ Hmm... [You
                   U-M's eight-member Board of Regents approved the
                   track's design during a March 20 meeting at the
                   Michigan Union. The architectural firm Mannik Smith
-                  Group designed the facility..." [Read
-
-                    more](http://www.mlive.com/news/ann-arbor/index.ssf/2014/03/university_of_michigan_approve_3.html)
+                  Group designed the facility..." [Read more](http://www.mlive.com/news/ann-arbor/index.ssf/2014/03/university_of_michigan_approve_3.html)
 
 Hmm... It is great that M has
                       found $6.5M to simulate reality for "connected and
@@ -255,9 +231,7 @@ Hmm... It is great that M has
                       investigating the creation of such an environment
                       for cars, buses and trucks.  More later.  Alain
 
-## [You
-
-                      Can Already Buy a Driverless Vehicle](http://motherboard.vice.com/read/you-can-already-buy-a-driverless-vehicle)
+## [You Can Already Buy a Driverless Vehicle](http://motherboard.vice.com/read/you-can-already-buy-a-driverless-vehicle)
 
                   Jason Kobler, March 27.  "...the vehicle, called the
                   Navia, isn't exactly a car—it's more of a trolley or
@@ -269,18 +243,13 @@ Hmm... It is great that M has
                   all-electric Navia holds eight passengers and can go
                   as fast as 28 mph, but it normally operates at about
                   12 mph in city centers...The Navia costs $250,000..."
-                  [Read
-
-                    more](http://motherboard.vice.com/read/you-can-already-buy-a-driverless-vehicle)
+                  [Read more](http://motherboard.vice.com/read/you-can-already-buy-a-driverless-vehicle)
 
 ##
 
 ## Reader Comments
 
-### [Use
-
-                    of Public Transit in U.S. Reaches Highest Level
-                    Since 1956, Advocates Report](http://www.nytimes.com/2014/03/10/us/use-of-public-transit-in-us-reaches-highest-level-since-1956-advocates-report.html?_r=0)
+### [Use of Public Transit in U.S. Reaches Highest Level Since 1956, Advocates Report](http://www.nytimes.com/2014/03/10/us/use-of-public-transit-in-us-reaches-highest-level-since-1956-advocates-report.html?_r=0)
 
 From Alan Pisarsky:
 
@@ -289,9 +258,7 @@ Sorry Alain have to disagree
                       without questioning by most of the press and
                       printed verbatim from the press release.  There
                       has been a strong counter blast to what is
-                      basically fraudulent stuff.  [See
-
-                        the article below](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/ReaderComments/ArticlesReferredByAlanPisarski.pdf) (linked).  There have been
+                      basically fraudulent stuff.  [See the article below](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/ReaderComments/ArticlesReferredByAlanPisarski.pdf) (linked).  There have been
                       other such commentary. In my interview in USA
                       Today I told them that the share of transit for
                       work in '60 was 12% now under 5%.  All of the net
@@ -301,9 +268,7 @@ Sorry Alain have to disagree
 
 I note that the Wash Metro doesn't recommend
                       using cell phones in metro because of the theft
-                      problems.   Alan (without the i !) [Read
-
-                    more](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/ReaderComments/ArticlesReferredByAlanPisarski.pdf)
+                      problems.   Alan (without the i !) [Read more](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/ReaderComments/ArticlesReferredByAlanPisarski.pdf)
 
 Hmmm... Alan, I agree, I was
                       painting a very rosie picture.  Transit ridership
@@ -321,20 +286,16 @@ Hmmm... Alan, I agree, I was
 ## Half-baked
                     stuff that probably doesn't deserve your time:
 
-### [Transit use remains disappointing,
-                      because driving is too cheap](http://www.startribune.com/opinion/commentaries/251561221.html)
+### [Transit use remains disappointing, because driving is too cheap](http://www.startribune.com/opinion/commentaries/251561221.html)
 
 ### [Driverless Cars Are Data Guzzlers](http://stream.wsj.com/story/latest-headlines/SS-2-63399/SS-2-489010/)
 
-### [A robo-car speed bump? Toyota, GM
-                      defects cast new light on push for self-driving
-                      autos](http://www.washingtonpost.com/business/economy/2014/03/26/eb54a954-98ee-11e3-80ac-63a8ba7f7942_story.html)
+### [A robo-car speed bump? Toyota, GM defects cast new light on push for self-driving autos](http://www.washingtonpost.com/business/economy/2014/03/26/eb54a954-98ee-11e3-80ac-63a8ba7f7942_story.html)
 
 ## Calendar of
               Upcoming Events:
 
-## [Resecheduled:
-              Webinar on the 3DV product](www.vislab.it/latest-events/webinar/3DV-9400077)
+## [Resecheduled: Webinar on the 3DV product](www.vislab.it/latest-events/webinar/3DV-9400077)
 
 ### Thursday, April 2, 2014
 
@@ -349,23 +310,19 @@ Hmmm... Alan, I agree, I was
             of the surroundings (a 3D point cloud of up to 3 millions 3D
             points per second) in real time thus a quick interpretation
             of the environment detecting and tracking obstacles and
-            estimating the terrain surface and slope.... [Read
-              more](www.vislab.it/latest-events/webinar/3DV-9400077)  You should tune into
+            estimating the terrain surface and slope.... [Read more](www.vislab.it/latest-events/webinar/3DV-9400077)  You should tune into
                 this one!  Alain
 
-### [2014 IEEE
-            Intelligent Vehicles Symposium](http://www.ieeeiv.net/)
+### [2014 IEEE Intelligent Vehicles Symposium](http://www.ieeeiv.net/)
 
 ### June 8 - 11, 2014, Dearborn, Michigan, USA
 
           Sponsored by the IEEE Intelligent Transportation Systems
           Society
 
-[](http://www.auvsi.org/avs2014/register)
 
 [http://www.auvsi.org/avs2014/register](http://www.auvsi.org/avs2014/register)
 
-[](http://www.auvsi.org/avs2014/register)
 
 # Recent Versions of:
 
@@ -377,9 +334,7 @@ Hmmm... Alan, I agree, I was
 
 ###
 
-### [Toyota
-
-              Is Fined $1.2 Billion for Concealing Safety Defects](http://www.nytimes.com/2014/03/20/business/toyota-reaches-1-2-billion-settlement-in-criminal-inquiry.html?ref=business)
+### [Toyota Is Fined $1.2 Billion for Concealing Safety Defects](http://www.nytimes.com/2014/03/20/business/toyota-reaches-1-2-billion-settlement-in-criminal-inquiry.html?ref=business)
 
 By BILL VLASIC and MATT APUZZOMARCH
             19, 2014 "Eric H. Holder Jr., the United States attorney
@@ -387,9 +342,7 @@ By BILL VLASIC and MATT APUZZOMARCH
             Toyota's behavior in hiding safety defects from the public,
             calling it "shameful" and a "blatant disregard" for the
             law.  A $1.2 billion criminal penalty, the largest ever for
-            a carmaker in the United States, was imposed. [Read
-
-              more](http://www.nytimes.com/2014/03/20/business/toyota-reaches-1-2-billion-settlement-in-criminal-inquiry.html?ref=business)
+            a carmaker in the United States, was imposed. [Read more](http://www.nytimes.com/2014/03/20/business/toyota-reaches-1-2-billion-settlement-in-criminal-inquiry.html?ref=business)
 
 Hmmm...  As I wrote last week with
                 respect to GM, the industry can not respond in this
@@ -410,9 +363,7 @@ Hmmm...  As I wrote last week with
 
               March 14, 2014
 
-### [303
-
-            Deaths Seen in G.M. Cars With Failed Air Bags](http://www.nytimes.com/2014/03/14/business/gm-air-bag-failures-linked-to-303-deaths.html?hp&_r=0)
+### [303 Deaths Seen in G.M. Cars With Failed Air Bags](http://www.nytimes.com/2014/03/14/business/gm-air-bag-failures-linked-to-303-deaths.html?hp&_r=0)
 
 By DANIELLE IVORY and HILARY STOUTMARCH 13, 2014  "As
           lawmakers press General Motors and regulators over their
@@ -439,10 +390,7 @@ Hmmm.  Just what
 
               Alain
 
-### [New
-
-                  Jersey Rail Ridership Opportunities If aTaxis Are
-                  Available...](http://orfe.princeton.edu/%7Ealaink/NJ_aTaxiOrf467F13/Orf467F13_FinalReports/NJTransit_Report_Almost.pdf)
+### [New Jersey Rail Ridership Opportunities If aTaxis Are Available...](http://orfe.princeton.edu/%7Ealaink/NJ_aTaxiOrf467F13/Orf467F13_FinalReports/NJTransit_Report_Almost.pdf)
 
           A.L. Kornhauser, et al March, 2014 ".... Examined are the rail
           ridership opportunities that NJ Transit (NJT) might enjoy if
@@ -450,15 +398,11 @@ Hmmm.  Just what
           customers to or from its rail stations.  Such collection and
           distribution services would not only shower NJT with new
           customers but they would enable NJT to redevelop its parking
-          facilities to more profitable "Transit Village" uses. [Read
-
-            more](http://orfe.princeton.edu/%7Ealaink/NJ_aTaxiOrf467F13/Orf467F13_FinalReports/NJTransit_Report_Almost.pdf)
+          facilities to more profitable "Transit Village" uses. [Read more](http://orfe.princeton.edu/%7Ealaink/NJ_aTaxiOrf467F13/Orf467F13_FinalReports/NJTransit_Report_Almost.pdf)
 
               February 28, 2014
 
-### [Automated
-
-            cars are coming, but has anyone grasped their implications?](http://www.transportxtra.com/magazines/local_transport_today/opinion/?id=37182)
+### [Automated cars are coming, but has anyone grasped their implications?](http://www.transportxtra.com/magazines/local_transport_today/opinion/?id=37182)
 
 Issue 641 Feb 2014 Scott Le Vine, Centre for Transport
           Studies: "...Autonomous cars, driverless cars, automated cars
@@ -467,47 +411,34 @@ Issue 641 Feb 2014 Scott Le Vine, Centre for Transport
           investing millions of pounds in research & development,
           mock towns are being built to test automation concepts,
           fact-finding hearings are taking place, laws are being passed
-          – even international treaties are being re-opened..."  [Read
-
-            more](http://www.transportxtra.com/magazines/local_transport_today/opinion/?id=37182)   This is a lead/summary
+          – even international treaties are being re-opened..."  [Read more](http://www.transportxtra.com/magazines/local_transport_today/opinion/?id=37182)   This is a lead/summary
               of the next item.  Alain
 
                 February 21, 2014
 
-### [Google's
-
-            Project Tango is a smartphone with sensors to map the world
-            around you](http://www.engadget.com/2014/02/20/google-project-tango-smartphone-sensors/)
+### [Google's Project Tango is a smartphone with sensors to map the world around you](http://www.engadget.com/2014/02/20/google-project-tango-smartphone-sensors/)
 
 BY Sarah Silbert @sarahsilbert February 20th, 2014 at
           2:25PM ET "Google's just announced Project Tango, a 5-inch
           Android smartphone prototype equipped with Kinect-like 3D
           sensors and other components to track motion and map your
-          surroundings. ..."  [Read
-
-            more](http://www.engadget.com/2014/02/20/google-project-tango-smartphone-sensors/)
+          surroundings. ..."  [Read more](http://www.engadget.com/2014/02/20/google-project-tango-smartphone-sensors/)
 
               February 14, 2014v2
 
-### [Imagine:
-
-            A World Where Nobody Owns Their Own Car](http://www.theatlanticcities.com/commute/2014/02/imagine-world-where-nobody-owns-their-own-car/8387/)
+### [Imagine: A World Where Nobody Owns Their Own Car](http://www.theatlanticcities.com/commute/2014/02/imagine-world-where-nobody-owns-their-own-car/8387/)
 
 Eric Jaffe Jan 13, 2014 "...The problem with buying the
           drink today, says Kornhauser, is that the labor cost of
           on-demand taxi service is enormous. As a result, we buy the
           bottle just in case we want a drink. Driverless cars change
-          the whole equation.  [Read
-
-            more](http://www.theatlanticcities.com/commute/2014/02/imagine-world-where-nobody-owns-their-own-car/8387/)
+          the whole equation.  [Read more](http://www.theatlanticcities.com/commute/2014/02/imagine-world-where-nobody-owns-their-own-car/8387/)
 
               February 9, 2014
 
 ### [Volvo-worldfirst-public-pilot-for-driverless-cars](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Videos/Volvo_TextingMachine.mp4)
 
-I prefer to call this: [Volvo's
-
-                "Texting Machine" concept video](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Videos/Volvo_TextingMachine.mp4).  It
+I prefer to call this: [Volvo's "Texting Machine" concept video](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Videos/Volvo_TextingMachine.mp4).  It
               demonstrates very clearly that it is the "NHTSA Level 3"
               feature that will be needed to make the car as good as
               transit; otherwise everyone is simply going to take
@@ -516,54 +447,35 @@ I prefer to call this: [Volvo's
               own world doing what I want to do during that whole
               process.  Without Level 3 I have to be off the grid
               focused on keeping the hulk between two white lines and
-              not running into things.  Transit wins.  [Play
-
-                vide](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Videos/Volvo_TextingMachine.mp4)o  Alain
+              not running into things.  Transit wins.  [Play vide](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Videos/Volvo_TextingMachine.mp4)o  Alain
 
 #
 
               February 4, 2014
 
-### [U.S.
+### [U.S. Department of Transportation Announces Decision to Move Forward with Vehicle-to-Vehicle Communication Technology for Light Vehicles](http://www.nhtsa.gov/About+NHTSA/Press+Releases/2014/USDOT+to+Move+Forward+with+Vehicle-to-Vehicle+Communication+Technology+for+Light+Vehicles)
 
-            Department of Transportation Announces Decision to Move
-            Forward with Vehicle-to-Vehicle Communication Technology for
-            Light Vehicles](http://www.nhtsa.gov/About+NHTSA/Press+Releases/2014/USDOT+to+Move+Forward+with+Vehicle-to-Vehicle+Communication+Technology+for+Light+Vehicles)
-
-[](http://www.citymobil2.eu/en/About-CityMobil2/Overview/) [European
-
-          Commission agreed upon the demonstration schedule](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Reports&Speaches_External/Demo_timetable-1.pdf) Adrianon
+ [European Commission agreed upon the demonstration schedule](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Reports&Speaches_External/Demo_timetable-1.pdf) Adrianon
         Alessandrini [adriano.alessandrini@uniroma1.it](mailto:adriano.alessandrini@uniroma1.it)
 [s](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Reports&Speaches_External/Demo_timetable-1.pdf)
 
-## [](https://www.hyundaiusa.com/)
-                  By far the BEST Super Bowl Commercial   [Play
-
-                    video](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Videos/HyundaiSuperBowlCommercial2014.mp4) Alain
+## 
+                  By far the BEST Super Bowl Commercial   [Play video](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Videos/HyundaiSuperBowlCommercial2014.mp4) Alain
 
               January 26, 2014
 
-### [What
-
-            Will Happen to Public Transit in a World Full of Autonomous
-            Cars?](http://www.theatlanticcities.com/commute/2014/01/what-will-happen-public-transit-world-full-autonomous-cars/8131/)
+### [What Will Happen to Public Transit in a World Full of Autonomous Cars?](http://www.theatlanticcities.com/commute/2014/01/what-will-happen-public-transit-world-full-autonomous-cars/8131/)
 
 by Emily Badger, Jan 17, 2014   "...The great promise of
           autonomous cars is not that we could each own one in our own
           driveway – the 21st century's version of owning your own Model
           T, or your own color TV, or your own bulky Macintosh – but
-          that no one would need to own one at all..." [Read
-
-            more](http://www.theatlanticcities.com/commute/2014/01/what-will-happen-public-transit-world-full-autonomous-cars/8131/) In fact read the whole
-              thing as well as the [266
-
-                    Comments](http://www.theatlanticcities.com/commute/2014/01/what-will-happen-public-transit-world-full-autonomous-cars/8131/#disqus_thread).
+          that no one would need to own one at all..." [Read more](http://www.theatlanticcities.com/commute/2014/01/what-will-happen-public-transit-world-full-autonomous-cars/8131/) In fact read the whole
+              thing as well as the [266 Comments](http://www.theatlanticcities.com/commute/2014/01/what-will-happen-public-transit-world-full-autonomous-cars/8131/#disqus_thread).
 
               January 17, 2014
 
-### [Autonomous
-
-            Vehicle Technology:  A Guide for Policymakers](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/PDFs/Rand_Anderson_AutonomousVehicleTechnology.pdf)
+### [Autonomous Vehicle Technology:  A Guide for Policymakers](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/PDFs/Rand_Anderson_AutonomousVehicleTechnology.pdf)
 
 by James M. Anderson, Nidhi Kalra, Karlyn D. Stanley,
             Paul Sorensen, Constantine Samaras, Oluwatobi Oluwatola
@@ -572,9 +484,7 @@ by James M. Anderson, Nidhi Kalra, Karlyn D. Stanley,
 
               January 6, 2014
 
-### [Self-Driving
-
-            Cars Moving into the Industry's Driver's Seat](http://press.ihs.com/press-release/automotive/self-driving-cars-moving-industrys-drivers-seat)
+### [Self-Driving Cars Moving into the Industry's Driver's Seat](http://press.ihs.com/press-release/automotive/self-driving-cars-moving-industrys-drivers-seat)
 
 Jan. 2, 2014  "Accident rates will plunge to near zero
             for SDCs, although other cars will crash into SDCs, but as
@@ -584,17 +494,14 @@ Jan. 2, 2014  "Accident rates will plunge to near zero
             highways around the globe before 2025 and self-driving
             "only" cars are anticipated around 2030, according to an
             emerging technologies study on Autonomous Cars from IHS
-            Automotive, driven by Polk.  [Read
-
-              more](http://press.ihs.com/press-release/automotive/self-driving-cars-moving-industrys-drivers-seat)
+            Automotive, driven by Polk.  [Read more](http://press.ihs.com/press-release/automotive/self-driving-cars-moving-industrys-drivers-seat)
 
               December 27, 2013
 
-  [](Mailto:alaink@princeton.edu)[Mailto:alaink@princeton.edu](Mailto:alaink@princeton.edu)[](Mailto:alaink@princeton.edu)
+  [Mailto:alaink@princeton.edu](Mailto:alaink@princeton.edu)
 
  This list is maintained by [Alain Kornhauser](mailto:alaink@princeton.edu) and
-        hosted by the [Princeton
-          University LISTSERV](http://lists.princeton.edu).
+        hosted by the [Princeton University LISTSERV](http://lists.princeton.edu).
 
 [Unsubscribe](https://lists.princeton.edu/cgi-bin/wa?TICKET=NzM1MjMzIGJpbm9AUFJJTkNFVE9OLkVEVSBTTUFSVERSSVZJTkdDQVJTIGluYtYkJuu3&c=SIGNOFF)
         | [Re-subscribe](https://lists.princeton.edu/cgi-bin/wa?TICKET=NzM1MjMzIGJpbm9AUFJJTkNFVE9OLkVEVSBTTUFSVERSSVZJTkdDQVJTIGluYtYkJuu3&c=SIGNUP)

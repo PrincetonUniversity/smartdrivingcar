@@ -19,15 +19,12 @@ J. Beyer, Oct. 13, "SpaceX is preparing the launch of the fifth Starship flight 
  link near the end where they play the views from their many cameras.  Absolutely marvelous what can be accomplished when you have very good people working together.  Also really good is having the public oversight (the FAA) grant permission to enable really
  good work to be realized.   Hopefully, a similar public oversight will allow and welcome driverless vehicles to give safe, affordable, high-quality rides to people who really need a ride.  Alain
 
-[The
- Real Case for Driverless Mobility](https://www.audible.com/pd/The-Real-Case-for-Driverless-Mobility-Audiobook/B0D9PJY6MW?eac_link=ZoLH4Nc4tFbA&ref=web_search_eac_asin_1&eac_selected_type=asin&eac_selected=B0D9PJY6MW&qid=Jjuo8XtoL1&eac_id=142-9434497-3046660_Jjuo8XtoL1&sr=1-1)
+[The Real Case for Driverless Mobility](https://www.audible.com/pd/The-Real-Case-for-Driverless-Mobility-Audiobook/B0D9PJY6MW?eac_link=ZoLH4Nc4tFbA&ref=web_search_eac_asin_1&eac_selected_type=asin&eac_selected=B0D9PJY6MW&qid=Jjuo8XtoL1&eac_id=142-9434497-3046660_Jjuo8XtoL1&sr=1-1)
 
 Narrated by Fred Fishkin, Available now
 
-[Just
- Published](https://www.amazon.com/Real-Case-Driverless-Mobility-Vehicles/dp/0443236852/ref=sr_1_1?crid=1XSXZ611C2JCN&keywords=Kornhauser+sena&qid=1707095108&sprefix=kornhauser+sena%2Caps%2C76&sr=8-1&ufe=app_do%3Aamzn1.fos.18ed3cb5-28d5-4975-8bc7-93deae8f9840)!!!
-[Go
- to Amazon.com](https://www.amazon.com/Real-Case-Driverless-Mobility-Vehicles/dp/0443236852/ref=sr_1_1?crid=1XSXZ611C2JCN&keywords=Kornhauser+sena&qid=1707095108&sprefix=kornhauser+sena%2Caps%2C76&sr=8-1&ufe=app_do%3Aamzn1.fos.18ed3cb5-28d5-4975-8bc7-93deae8f9840)…
+[Just Published](https://www.amazon.com/Real-Case-Driverless-Mobility-Vehicles/dp/0443236852/ref=sr_1_1?crid=1XSXZ611C2JCN&keywords=Kornhauser+sena&qid=1707095108&sprefix=kornhauser+sena%2Caps%2C76&sr=8-1&ufe=app_do%3Aamzn1.fos.18ed3cb5-28d5-4975-8bc7-93deae8f9840)!!!
+[Go to Amazon.com](https://www.amazon.com/Real-Case-Driverless-Mobility-Vehicles/dp/0443236852/ref=sr_1_1?crid=1XSXZ611C2JCN&keywords=Kornhauser+sena&qid=1707095108&sprefix=kornhauser+sena%2Caps%2C76&sr=8-1&ufe=app_do%3Aamzn1.fos.18ed3cb5-28d5-4975-8bc7-93deae8f9840)…
 
 SmartDrivingCars
 [ZoomCast 382](https://www.youtube.com/watch?v=br8z9VzAc-o) /
@@ -46,8 +43,7 @@ Space X wows with catch, Tesla's Cybercab event and the potential impact on mobi
 * [27:45](https://www.youtube.com/watch?v=br8z9VzAc-o&t=1665s) More on Cybercabs and questions about insurance
 * [39:02](https://www.youtube.com/watch?v=br8z9VzAc-o&t=2342s) Princeton's John Hopfield wins Nobel Physics Prize!
 
-[](https://www.youtube.com/playlist?list=PLFwuZ9jMeu5uwfTZP00zHjP7eSpG34Hsm)[SmartDrivingCars
- ZoomCasts](https://www.youtube.com/playlist?list=PLFwuZ9jMeu5uwfTZP00zHjP7eSpG34Hsm)
+[SmartDrivingCars ZoomCasts](https://www.youtube.com/playlist?list=PLFwuZ9jMeu5uwfTZP00zHjP7eSpG34Hsm)
 
 [News conference with Princeton professor John Hopfield, laureate of the 2024 Nobel Prize in Physics](https://www.youtube.com/watch?v=8RWFicmvR3Q)
 
@@ -57,13 +53,11 @@ C. Eisgruber, Oct. 9, "
 Hmmmm…    Wow!!!  Elizabeth and I are so blessed to have John and his wife Mary as good friends of ours.  We play golf together and discuss neural nets in his back yard.  So deserving as is Goeff Hinton.  This has been a fantastic past 7 days.
  Wow!!! Alain
 
-[](https://x.com/Teslarati/status/1839057220664758452?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1839057220664758452%7Ctwgr%5E898f3e22182e3297bdf3de4258a0cf55788df7aa%7Ctwcon%5Es1_&ref_url=https%3A%2F%2Fwww.teslarati.com%2Ftesla-sends-out-invites-to-robotaxi-event-heres-the-details%2F)[Tesla
- RoboTaxi Event October 10, 2024](https://youtu.be/wTJmEFbUkis?t=3711)
+[Tesla RoboTaxi Event October 10, 2024](https://youtu.be/wTJmEFbUkis?t=3711)
 
 Tesla Press Release, Oct 10, "Tesla Unveils 2-Seater Cybercab That Drives Itself, Price Expected To Be Under $30K: Also Shows Off 20-Seater Robovan To Rival Uber Shuttle -
 [https://www.benzinga.com/news/24/10/4...](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbnRHZGQ2NDVnZDMyblZwNmhkbDRGZ0lpUXk0Z3xBQ3Jtc0tuc2FjN3JDS3EyWVhGR1BEOTBCTlJ4b1RINEJ6QVN4b1lmTTFXVENDRF9fMDlFQlc0RE9HV0hwS2E3VGJIMzFKZnM0TDNQUFBmeUo0M0RFUGZ6bDhjMlgxX0tnbVRSMnlxeC0yOWkzWmgzV3pVQVdJYw&q=https%3A%2F%2Fwww.benzinga.com%2Fnews%2F24%2F10%2F41284847%2Ftesla-reveals-two-seater-cybercab-that-drives-itself&v=wTJmEFbUkis)." [Read more](https://youtu.be/wTJmEFbUkis?t=3711)
-Hmmmm…    I should have been there, but wasn't invited.  I'm disappointed, but not surprised.  Unfortunately, they haven't read (or listened to)  all of  [The
- Book](https://www.audible.com/pd/The-Real-Case-for-Driverless-Mobility-Audiobook/B0D9PJY6MW?eac_link=ZoLH4Nc4tFbA&ref=web_search_eac_asin_1&eac_selected_type=asin&eac_selected=B0D9PJY6MW&qid=Jjuo8XtoL1&eac_id=142-9434497-3046660_Jjuo8XtoL1&sr=1-1).  They sort of got the elevator analogy correct, but it is hard to believe that they stayed with the 4 year-old 2-seater version, which is OK for most of the day,  but doesn't enable enough ridesharing opportunities to efficiently, effectively,
+Hmmmm…    I should have been there, but wasn't invited.  I'm disappointed, but not surprised.  Unfortunately, they haven't read (or listened to)  all of  [The Book](https://www.audible.com/pd/The-Real-Case-for-Driverless-Mobility-Audiobook/B0D9PJY6MW?eac_link=ZoLH4Nc4tFbA&ref=web_search_eac_asin_1&eac_selected_type=asin&eac_selected=B0D9PJY6MW&qid=Jjuo8XtoL1&eac_id=142-9434497-3046660_Jjuo8XtoL1&sr=1-1).  They sort of got the elevator analogy correct, but it is hard to believe that they stayed with the 4 year-old 2-seater version, which is OK for most of the day,  but doesn't enable enough ridesharing opportunities to efficiently, effectively,
  environmentally or affordably address daily recurring peak-hour demand.
 
 "The RoboToaster" is OK, but high volume A2B demand is handled well today by driven buses, as has been occurring on the

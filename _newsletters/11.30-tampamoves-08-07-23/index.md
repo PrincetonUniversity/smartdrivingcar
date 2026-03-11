@@ -11,8 +11,7 @@ Click or tap if you trust this link.">Monday,
 30th
 edition of the 11th year of SmartDrivingCars eLetter
 
-[Tampa
- adds fleet of Tesla SUVs for new mobility option around city](https://thatssotampa.com/dash-tampa-tesla-suvs/)
+[Tampa adds fleet of Tesla SUVs for new mobility option around city](https://thatssotampa.com/dash-tampa-tesla-suvs/)
 
 Andrew Harlan,  July 31, "The Tampa Downtown Partnership announced the launch of DASH, a new service featuring Tesla SUVs that will carry folks to 20 different spots around Tampa. The trip will
  cost just a few dollars, and an official route map will be revealed later in August.

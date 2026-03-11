@@ -16,9 +16,7 @@ You are cordially invited to attend the
 
 43rd
 
-              Annual Princeton University Transportation Program [Reunion
-
-                    Banquet](http://orfe.princeton.edu/%7Ealaink/TRB%2715/TRB15_Invite.pdf)
+              Annual Princeton University Transportation Program [Reunion Banquet](http://orfe.princeton.edu/%7Ealaink/TRB%2715/TRB15_Invite.pdf)
 
 in conjunction with the 94th
             annual
@@ -50,8 +48,7 @@ You are
 New
                 Location !!
 
-[Tony
-                  Cheng's Seafood Restaurant](http://www.tonychengrestaurant.com/)
+[Tony Cheng's Seafood Restaurant](http://www.tonychengrestaurant.com/)
 
 Located
 
@@ -62,9 +59,7 @@ Phone:
                 (202) 371-8669
 
 GPS:
-              [38.899982N,
-
-                77.02090W](https://www.google.com/maps/place/38%C2%B053%2759.9%22N+77%C2%B001%2715.2%22W/@38.899982,-77.020903,17z/data=%213m1%214b1%214m2%213m1%211s0x0:0x0)
+              [38.899982N, 77.02090W](https://www.google.com/maps/place/38%C2%B053%2759.9%22N+77%C2%B001%2715.2%22W/@38.899982,-77.020903,17z/data=%213m1%214b1%214m2%213m1%211s0x0:0x0)
 
 Conveniently
 
@@ -76,9 +71,7 @@ All
 
                 the Best for 2015
 
-[Alain
-
-                  L. Kornhauser](mailto:alaink@princeton.edu)
+[Alain L. Kornhauser](mailto:alaink@princeton.edu)
 
 --
 

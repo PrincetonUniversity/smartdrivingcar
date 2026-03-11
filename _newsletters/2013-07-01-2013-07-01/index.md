@@ -5,23 +5,19 @@ date: 2013-07-01
 permalink: /2013-07-01-2013-07-01/
 ---
 
-[Sunday,
-          June 30,
-          2013](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/SDC063013.pdf)
+[Sunday, June 30, 2013](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/SDC063013.pdf)
 
 Calendar of Upcoming
           Events:
 
- [](http://www.vehicleautomation.org/) [Registration to Close July
-          3!!!](http://www.vehicleautomation.org/registration) Workshop
+  [Registration to Close July 3!!!](http://www.vehicleautomation.org/registration) Workshop
 at
           capacity
 
 July 16-19, '13
           Stanford University,
           Palo Alto| [Agenda](http://www.vehicleautomation.org/program/agenda)
-          | [Breakout
-          Sessions](http://www.vehicleautomation.org/program/breakouts) | [Demonstrations](http://www.vehicleautomation.org/program/demonstrations)
+          | [Breakout Sessions](http://www.vehicleautomation.org/program/breakouts) | [Demonstrations](http://www.vehicleautomation.org/program/demonstrations)
 
 Transportation
       Research Board's

@@ -17,14 +17,9 @@ permalink: /2013-08-20-2013-08-20/
 
   Draft Final Report of Orf 467 F'12 "Uncongested Mobility for
             All NJ" [Available
-for
+for Download](http://orfe.princeton.edu/%7Ealaink/NJ_aTaxiOrf467F12/ORF467F12aTaxiFinalReport.pdf) (15M).  [Slide presentations (123M ppt)](http://orfe.princeton.edu/%7Ealaink/NJ_aTaxiOrf467F12/FinalPresentationsOrf467F12aTaxiNJ/aTaxi%20Presentation.pptx)
 
-          Download](http://orfe.princeton.edu/%7Ealaink/NJ_aTaxiOrf467F12/ORF467F12aTaxiFinalReport.pdf) (15M).  [Slide
-          presentations (123M ppt)](http://orfe.princeton.edu/%7Ealaink/NJ_aTaxiOrf467F12/FinalPresentationsOrf467F12aTaxiNJ/aTaxi%20Presentation.pptx)
-
-[](http://en.wikipedia.org/wiki/Pneumatic_tube)  [Jules
-
-          Verne](http://en.wikipedia.org/wiki/Paris_in_the_Twentieth_Century)
+  [Jules Verne](http://en.wikipedia.org/wiki/Paris_in_the_Twentieth_Century)
           and [Alfred Ely Beach](http://en.wikipedia.org/wiki/Alfred_Beach)
           150years ago.  Much
 

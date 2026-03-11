@@ -7,9 +7,7 @@ permalink: /2014-06-10-2014-06-10/
 
 June 10, 2014
 
-## [If
-
-                            Robots Drove, How Much Safer Would Roads Be?](http://www.nytimes.com/2014/06/10/upshot/if-robots-drove-how-much-safer-would-roads-be.html?emc=eta1)
+## [If Robots Drove, How Much Safer Would Roads Be?](http://www.nytimes.com/2014/06/10/upshot/if-robots-drove-how-much-safer-would-roads-be.html?emc=eta1)
 
                         Claire Cain Miller, June 10 " Human error is the
                         culprit in 93 percent of automobile crashes –
@@ -24,31 +22,20 @@ June 10, 2014
                         might be. They found that even cars that are not
                         fully autonomous but that automate some of the
                         most dangerous aspects of driving could have as
-                        big an effect as seatbelts have had...[Read
-
-                          more](http://www.nytimes.com/2014/06/10/upshot/if-robots-drove-how-much-safer-would-roads-be.html?emc=eta1)
+                        big an effect as seatbelts have had...[Read more](http://www.nytimes.com/2014/06/10/upshot/if-robots-drove-how-much-safer-would-roads-be.html?emc=eta1)
 
 Hmm... The studies:
 
 Thomas I. Gorman, Kristofer D. Kusano,
-                            and Hampton C. Gabler "[Model
-
-                                of Fleet-wide Safety Benefits of Lane
-                                Departure Warning Systems](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6728260)"
+                            and Hampton C. Gabler "[Model of Fleet-wide Safety Benefits of Lane Departure Warning Systems](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6728260)"
                             . "...The expected reduction in road
                             departurecrashes due to LDW is estimated to
                             be 30.3%. The expected reduction in injuries
                             that are caused by LDW applicable crashes is
-                            estimated to be 25.8%..."  [Read
-
-                              more](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6728260)
+                            estimated to be 25.8%..."  [Read more](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6728260)
 
 Kusano, K., Gabler, H., and Gorman, T.,
-                            "[Fleetwide
-
-                                Safety Benefits of Production Forward
-                                Collision and Lane Departure Warning
-                                Systems](http://papers.sae.org/2014-01-0166/)," SAE Int. J.
+                            "[Fleetwide Safety Benefits of Production Forward Collision and Lane Departure Warning Systems](http://papers.sae.org/2014-01-0166/)," SAE Int. J.
                             Passeng. Cars - Mech. Syst. 7(2):2014,
                             doi:10.4271/2014-01-0166. "...The 16 FCW
                             systems evaluated could have potentially
@@ -72,9 +59,7 @@ Kusano, K., Gabler, H., and Gorman, T.,
                             consider TTLC as a metric in addition to
                             distance to lane cross...." [Read more](http://papers.sae.org/2014-01-0166/)
 
-## [Driver Charged in Crash Involving Tracy
-                            Morgan Had Not Slept in 24 Hours,
-                            Prosecutors Say](http://www.nytimes.com/2014/06/10/nyregion/driver-charged-in-tracy-morgan-crash-had-not-slept-in-24-hours-prosecutors-say.html)
+## [Driver Charged in Crash Involving Tracy Morgan Had Not Slept in 24 Hours, Prosecutors Say](http://www.nytimes.com/2014/06/10/nyregion/driver-charged-in-tracy-morgan-crash-had-not-slept-in-24-hours-prosecutors-say.html)
 
                         J. DAVID GOODMANJUNE 9, "The Walmart driver
                         whose truck collided with a van carrying the
@@ -91,9 +76,7 @@ Kusano, K., Gabler, H., and Gorman, T.,
                         ...believed Mr. Roper "was operating within the
                         federal hours of service regulations," which
                         limit work shifts to 14 hours, with only 11 of
-                        those behind the wheel. [Read
-
-                          more](http://www.nytimes.com/2014/06/10/nyregion/driver-charged-in-tracy-morgan-crash-had-not-slept-in-24-hours-prosecutors-say.html)
+                        those behind the wheel. [Read more](http://www.nytimes.com/2014/06/10/nyregion/driver-charged-in-tracy-morgan-crash-had-not-slept-in-24-hours-prosecutors-say.html)
 
 Hmmm... this is
                             enormously tragic because existing collision
@@ -141,11 +124,7 @@ Hmmm... this is
                             save money in the long run and lives in the
                             short and long runs.  Alain
 
-## [New
-
-                            NHTSA Study Shows Motor Vehicle Crashes Have
-                            $871 Billion Economic and Societal Impact on
-                            U.S. Citizens](http://www.nhtsa.gov/About+NHTSA/Press+Releases/2014/NHTSA-study-shows-vehicle-crashes-have-$871-billion-impact-on-U.S.-economy,-society)
+## [New NHTSA Study Shows Motor Vehicle Crashes Have $871 Billion Economic and Societal Impact on U.S. Citizens](http://www.nhtsa.gov/About+NHTSA/Press+Releases/2014/NHTSA-study-shows-vehicle-crashes-have-$871-billion-impact-on-U.S.-economy,-society)
 
                         NHTSA 19-14 Wednesday, May 28 Press Release
                         "...a new study that underscores the high
@@ -158,11 +137,7 @@ Hmmm... this is
                         person living in the United States based on
                         calendar year 2010 data — and $594 billion
                           in harm from the loss of life and the pain and
-                          decreased quality of life due to injuries...[Read
-
-                          more of Press Release](http://www.nhtsa.gov/About+NHTSA/Press+Releases/2014/NHTSA-study-shows-vehicle-crashes-have-$871-billion-impact-on-U.S.-economy,-society).  [Read
-
-                          source report](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/PDFs/NHTSA_EconSocietalImpactsMotorVehicleCrashes2010.pdf), below is shorter USA Today
+                          decreased quality of life due to injuries...[Read more of Press Release](http://www.nhtsa.gov/About+NHTSA/Press+Releases/2014/NHTSA-study-shows-vehicle-crashes-have-$871-billion-impact-on-U.S.-economy,-society).  [Read source report](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/PDFs/NHTSA_EconSocietalImpactsMotorVehicleCrashes2010.pdf), below is shorter USA Today
                         version.  Hmmm...Report
 
                             looks OK; note, 2/3rds of the amount is
@@ -188,16 +163,12 @@ Hmmm... this is
                             cast doubt on the quality of the whole
                             report. Alain
 
-## [Staggering
-
-                            toll: Car crashes cost $871 billion a year](http://www.usatoday.com/story/news/nation/2014/05/29/steep-economic-toll-of-crashes/9715893/)
+## [Staggering toll: Car crashes cost $871 billion a year](http://www.usatoday.com/story/news/nation/2014/05/29/steep-economic-toll-of-crashes/9715893/)
 
 Shorter version of
                               the above. Alain
 
-## [Intel
-
-                            Capital Announces Investment in ZMP Inc.](http://www.intelcapital.com/news/news.html?id=220&utm_campaign=cmp_311362&utm_source=getanewsletter#/type=QWxs/page=0/term=/tags=s)
+## [Intel Capital Announces Investment in ZMP Inc.](http://www.intelcapital.com/news/news.html?id=220&utm_campaign=cmp_311362&utm_source=getanewsletter#/type=QWxs/page=0/term=/tags=s)
 
 TOKYO, Japan, May 7, 2014 –
                           "Intel Capital, Intel Corporation's global
@@ -209,14 +180,10 @@ TOKYO, Japan, May 7, 2014 –
                           investment was made from the Intel Capital
                           Connected Car Fund and will be used to help
                           ZMP accelerate the development of autonomous
-                          and assisted driving technologies." [Read
-
-                            more](http://www.intelcapital.com/news/news.html?id=220&utm_campaign=cmp_311362&utm_source=getanewsletter#/type=QWxs/page=0/term=/tags=s)Hmmm...
+                          and assisted driving technologies." [Read more](http://www.intelcapital.com/news/news.html?id=220&utm_campaign=cmp_311362&utm_source=getanewsletter#/type=QWxs/page=0/term=/tags=s)Hmmm...
                               That's more like it, Intel. Alain
 
-## [Mercedes
-                            Doesn't Want You To Forget Its Autonomous
-                            Car Development: Video](http://www.motorauthority.com/news/1092399_mercedes-doesnt-want-you-to-forget-its-autonomous-car-development-video)
+## [Mercedes Doesn't Want You To Forget Its Autonomous Car Development: Video](http://www.motorauthority.com/news/1092399_mercedes-doesnt-want-you-to-forget-its-autonomous-car-development-video)
 
                           By Viknesh Vijayenthiran "Google has received
                           a lot of attention for its autonomous car
@@ -233,18 +200,13 @@ TOKYO, Japan, May 7, 2014 –
                           its 2014 S-Class sedan. But this is just the
                           start as Mercedes is working on a fully
                           autonomous car, just like Google, and even
-                          presented its own prototype last year."  [Read
-
-                            more](http://www.motorauthority.com/news/1092399_mercedes-doesnt-want-you-to-forget-its-autonomous-car-development-video) The
+                          presented its own prototype last year."  [Read more](http://www.motorauthority.com/news/1092399_mercedes-doesnt-want-you-to-forget-its-autonomous-car-development-video) The
                               video is long but worth watching if you
                               haven't watched the other MB videos.  Way
                               too much reliance on mapping (and I
                               consider myself a map guy.) Alain
 
-## [Sentosa
-
-                            could be a trial site for driverless car
-                            fleet](http://www.channelnewsasia.com/news/technology/tech-possibilities-to/1134520.html?utm_campaign=cmp_311362&utm_source=getanewsletter)
+## [Sentosa could be a trial site for driverless car fleet](http://www.channelnewsasia.com/news/technology/tech-possibilities-to/1134520.html?utm_campaign=cmp_311362&utm_source=getanewsletter)
 
 "SINGAPORE: The plan to have driverless cars
                           in Singapore is on track - with the resort
@@ -253,13 +215,9 @@ TOKYO, Japan, May 7, 2014 –
                           Massachusetts Institute of Technology, to roll
                           out the trial, which involves self-driving
                           buggies. This was revealed at a World Cities
-                          Summit forum on Tuesday (June 3). " [Read
+                          Summit forum on Tuesday (June 3). " [Read more](http://www.channelnewsasia.com/news/technology/tech-possibilities-to/1134520.html?utm_campaign=cmp_311362&utm_source=getanewsletter)
 
-                            more](http://www.channelnewsasia.com/news/technology/tech-possibilities-to/1134520.html?utm_campaign=cmp_311362&utm_source=getanewsletter)
-
-## [June
-
-                              2014 Newsletter Message from our CEO](http://hosted.verticalresponse.com/1064929/e483866681/520982913/fa353e5b92/)
+## [June 2014 Newsletter Message from our CEO](http://hosted.verticalresponse.com/1064929/e483866681/520982913/fa353e5b92/)
 
  Message
 
@@ -267,9 +225,7 @@ TOKYO, Japan, May 7, 2014 –
                             take a few minutes to reflect on current
                             events and share our perspective."
 
-                        [Read
-
-                          more](http://hosted.verticalresponse.com/1064929/e483866681/520982913/fa353e5b92/)
+                        [Read more](http://hosted.verticalresponse.com/1064929/e483866681/520982913/fa353e5b92/)
 
 ##
 
@@ -278,17 +234,12 @@ TOKYO, Japan, May 7, 2014 –
                               stuff that probably doesn't deserve your
                               time:
 
-### [The
-
-                              UK will have to wait for Google's
-                              cartoonish driverless car](http://www.wired.co.uk/news/archive/2014-05/30/google-driverless-cars)
+### [The UK will have to wait for Google's cartoonish driverless car](http://www.wired.co.uk/news/archive/2014-05/30/google-driverless-cars)
 
                           "...The only controls inside the prototype
                           vehicle will be a start/pullover button and a
                           large red emergency stop button. There will be
-                          no steering wheel or manual control...." [Read
-
-                            more](http://www.wired.co.uk/news/archive/2014-05/30/google-driverless-cars)  ...C'Mon
+                          no steering wheel or manual control...." [Read more](http://www.wired.co.uk/news/archive/2014-05/30/google-driverless-cars)  ...C'Mon
                               Man...no one really believes that each of
                               these cars won't be capable of being
                               driven by a human using an "Android
@@ -305,10 +256,7 @@ TOKYO, Japan, May 7, 2014 –
                               it in a marketing-buzz, Tesla-hype sense.
                               :-)  Alain
 
-### [The
-
-                                    Connected Car and The Future of
-                                    Transportation](http://live.wsj.com/video/the-connected-car-and-the-future-of-transportation/BA4E5463-D589-444C-8E9F-14C9B4C9308A.html?mod=WSJ_article_outbrain&obref=obnetwork#%21BA4E5463-D589-444C-8E9F-14C9B4C9308A)
+### [The Connected Car and The Future of Transportation](http://live.wsj.com/video/the-connected-car-and-the-future-of-transportation/BA4E5463-D589-444C-8E9F-14C9B4C9308A.html?mod=WSJ_article_outbrain&obref=obnetwork#%21BA4E5463-D589-444C-8E9F-14C9B4C9308A)
 
 Worse
 
@@ -316,14 +264,9 @@ Worse
                                   creating the problem rather than
                                   solving it (except at the very end as
                                   an afterthought.  Shame on you Intel).
-                                  Also: [New Intel Products,
-                                    Investments and Research for
-                                    Connected Cars and Autonomous
-                                    Driving](http://newsroom.intel.com/community/intel_newsroom/blog/2014/05/29/intel-puts-automotive-innovation-into-high-gear?utm_campaign=PR&utm_source=&utm_medium=social&utm_content=&cid=sm-TWITTER-Intel%20IoT%202014&utm_source=TWITTER&utm_medium=social&utm_content=Inteliot&utm_campaign=sm-Intel%20IoT%202014&postid=61334303&clientid=1249&linkId=8362510)  Alain
+                                  Also: [New Intel Products, Investments and Research for Connected Cars and Autonomous Driving](http://newsroom.intel.com/community/intel_newsroom/blog/2014/05/29/intel-puts-automotive-innovation-into-high-gear?utm_campaign=PR&utm_source=&utm_medium=social&utm_content=&cid=sm-TWITTER-Intel%20IoT%202014&utm_source=TWITTER&utm_medium=social&utm_content=Inteliot&utm_campaign=sm-Intel%20IoT%202014&postid=61334303&clientid=1249&linkId=8362510)  Alain
 
-### [A
-                                    City Built to Test Self-Driving Cars
-                                    Will Open Up Its Streets This Fall](http://motherboard.vice.com/read/michigan-is-building-a-model-city-to-test-a-network-of-self-driving-cars)
+### [A City Built to Test Self-Driving Cars Will Open Up Its Streets This Fall](http://motherboard.vice.com/read/michigan-is-building-a-model-city-to-test-a-network-of-self-driving-cars)
 
 ###
 
@@ -334,11 +277,9 @@ Worse
 ## Calendar
                       of Upcoming Events:
 
-[](http://www.auvsi.org/avs2014/register)
 
 [http://www.auvsi.org/avs2014/register](http://www.auvsi.org/avs2014/register)
 
-[](http://www.auvsi.org/avs2014/register)
 
 Invitation
                       ONLY
@@ -358,9 +299,7 @@ Save the date
 
 ###
 
-### [Just
-
-                    press go: designing a self-driving vehicle](http://googleblog.blogspot.com/2014/05/just-press-go-designing-self-driving.html)
+### [Just press go: designing a self-driving vehicle](http://googleblog.blogspot.com/2014/05/just-press-go-designing-self-driving.html)
 
 Posted: Tuesday, May 27 "Ever since we
                   started the Google self-driving car project, we've
@@ -383,9 +322,7 @@ Posted: Tuesday, May 27 "Ever since we
                 button. And that's an important step toward improving
                 road safety and transforming mobility for millions of
                 people. .."  Must watch [video](https://www.youtube.com/watch?feature=player_embedded&v=CqSDWoAhvLU)
-                [Read
-
-                  more](http://googleblog.blogspot.com/2014/05/just-press-go-designing-self-driving.html)
+                [Read more](http://googleblog.blogspot.com/2014/05/just-press-go-designing-self-driving.html)
 
                       May 22, 2014
 
@@ -407,10 +344,7 @@ Since I walk to work, I
 
 ###
 
-### [Autonomous
-
-                    Vehicles: Handing Over Control: Opportunities and
-                    Risks for Insurance](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/PDFs/LLoyds-Autonomous%20Vehicles.pdf)
+### [Autonomous Vehicles: Handing Over Control: Opportunities and Risks for Insurance](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/PDFs/LLoyds-Autonomous%20Vehicles.pdf)
 
                 Gillian Yeomans, Lloyd'sExposure Management "...The
                 insurance industry's expertise in risk management will
@@ -424,36 +358,26 @@ Since I walk to work, I
                 for continued technological innovation.  This
                 technological innovation may give rise to new business
                 opportunities, with corresponding opportunities for
-                insurers....["Read
-
-                  more](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/PDFs/LLoyds-Autonomous%20Vehicles.pdf)  Nice to see
+                insurers....["Read more](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/PDFs/LLoyds-Autonomous%20Vehicles.pdf)  Nice to see
                     Lloyd's weigh in here. Alain
 
                       May 2, 2014
 
-### [Who Is at Fault When a Driverless Car Gets in an
-                    Accident?](http://www.theatlantic.com/business/archive/2014/04/who-is-at-fault-when-a-driverless-car-gets-in-an-accident/361250/)
+### [Who Is at Fault When a Driverless Car Gets in an Accident?](http://www.theatlantic.com/business/archive/2014/04/who-is-at-fault-when-a-driverless-car-gets-in-an-accident/361250/)
 
                 John Villasenor Apr 25 2014 "It may seem odd, but we
                 already have the laws we need for dealing with this
-                inevitable situation." [Read
-
-                  more](http://www.theatlantic.com/business/archive/2014/04/who-is-at-fault-when-a-driverless-car-gets-in-an-accident/361250/) especially the
+                inevitable situation." [Read more](http://www.theatlantic.com/business/archive/2014/04/who-is-at-fault-when-a-driverless-car-gets-in-an-accident/361250/) especially the
                     source report:
 
-### [Products
-
-                    Liability and Driverless Cars: Issues and Guiding
-                    Principles for Legislation](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/PDFs/Brookings_Products_Liability_and_Driverless_Cars.pdf)
+### [Products Liability and Driverless Cars: Issues and Guiding Principles for Legislation](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/PDFs/Brookings_Products_Liability_and_Driverless_Cars.pdf)
 
                       April 18, 2014
 
 ### Newly
                   Available Drafts of Recent Student Theses
 
-Wyrough, Alexander Penn Hill Jr.: [A
-                    National Disaggregate Transportation Demand Model
-                    for the Analysis of autonomousTaxi Systems](http://orfe.princeton.edu/%7Ealaink/Theses/SeniorTheses%2714/Draft-Wyrough_NoationalDisaggregateTripSynthesizer.pdf)
+Wyrough, Alexander Penn Hill Jr.: [A National Disaggregate Transportation Demand Model for the Analysis of autonomousTaxi Systems](http://orfe.princeton.edu/%7Ealaink/Theses/SeniorTheses%2714/Draft-Wyrough_NoationalDisaggregateTripSynthesizer.pdf)
 
 Included is one synthetic
                     realization for each of the 308.7 Million
@@ -480,27 +404,15 @@ Included is one synthetic
                     200 miles from the home location were routed via the
                     nearest major airports.  Alain
 
-Lee, Eileen: [Uncovering
+Lee, Eileen: [Uncovering Systemic Corruption in the ER:An Empirical Analysis of Motor Vehicle-Related Hospital Bill and their Impact on Insurance Companies](http://orfe.princeton.edu/%7Ealaink/Theses/SeniorTheses%2714/Draft-Lee_UncoveringSystematicCorruptionInTheER.pdf)
 
-                    Systemic Corruption in the ER:An Empirical Analysis
-                    of Motor Vehicle-Related Hospital Bill and their
-                    Impact on Insurance Companies](http://orfe.princeton.edu/%7Ealaink/Theses/SeniorTheses%2714/Draft-Lee_UncoveringSystematicCorruptionInTheER.pdf)
+Sun, Zhuyi (Judy): [Causal Price Discrimination: An Analysis of the Healthcare Costs Associated with Motor Vehicle and Transportation Collisions](http://orfe.princeton.edu/%7Ealaink/Theses/SeniorTheses%2714/Draft-Sun_CausalPriceDiscrimination.pdf)
 
-Sun, Zhuyi (Judy): [Causal
-
-                    Price Discrimination: An Analysis of the Healthcare
-                    Costs Associated with Motor Vehicle and
-                    Transportation Collisions](http://orfe.princeton.edu/%7Ealaink/Theses/SeniorTheses%2714/Draft-Sun_CausalPriceDiscrimination.pdf)
-
-Rhodes, Brandon Xavier: [An
-
-                    Analysis  of  Economically  Efficient  Insurance
-                    Schemes  for  Automated  Vehicle](http://orfe.princeton.edu/%7Ealaink/Theses/SeniorTheses%2714/Draft-Rhodes_InsuranceSchemesForAutomatedVehicles.pdf)
+Rhodes, Brandon Xavier: [An Analysis  of  Economically  Efficient  Insurance Schemes  for  Automated  Vehicle](http://orfe.princeton.edu/%7Ealaink/Theses/SeniorTheses%2714/Draft-Rhodes_InsuranceSchemesForAutomatedVehicles.pdf)
 
                       April 11, 2014
 
-### [Hands-On: 2015 Hyundai Genesis Flirts with
-                    Autonomous Driving](http://www.chipchick.com/2014/04/2015-hyundai-genesis.html)
+### [Hands-On: 2015 Hyundai Genesis Flirts with Autonomous Driving](http://www.chipchick.com/2014/04/2015-hyundai-genesis.html)
 
                 By Scott Schaen on April 7, "...Lane keep assist worked
                 very well if you're slow to make a slight turn. It
@@ -508,33 +420,25 @@ Rhodes, Brandon Xavier: [An
                 cruise control and the automatic emergency breaking
                 system would slow you down a lot, but it won't bring you
                 to a complete stop. They're SAFETY features; they're not
-                intended to auto-drive (yet)..." [Read
-
-                  more](http://www.chipchick.com/2014/04/2015-hyundai-genesis.html)
+                intended to auto-drive (yet)..." [Read more](http://www.chipchick.com/2014/04/2015-hyundai-genesis.html)
 
                       April 4, 2014
 
 ### [Webinar on the 3DV product](http://www.autonomoustuff.com/vislab-webinar-recording.html)
 
-                Thursday, March 27, 2014  [Video
-
-                      of Webinar](http://www.autonomoustuff.com/vislab-webinar-recording.html). Excellent presentation by Prof.
+                Thursday, March 27, 2014  [Video of Webinar](http://www.autonomoustuff.com/vislab-webinar-recording.html). Excellent presentation by Prof.
 
                     Alberto Broggi Alain
 
                       March 28, 2014
 
-### [Millennials&
-
-                    Mobility: Understanding the Millennial Mindset](http://www.apta.com/resources/reportsandpublications/Documents/APTA-Millennials-and-Mobility.pdf)
+### [Millennials& Mobility: Understanding the Millennial Mindset](http://www.apta.com/resources/reportsandpublications/Documents/APTA-Millennials-and-Mobility.pdf)
 
                 "...millennials, with their relative propensity for
                 urban lifestyle components (whether they live in cities
                 or in suburbs), dexterity with technology, while
                 starting careers during economically constrained times
-                can leave a lasting impact on society...."  [Read
-
-                  more](http://www.apta.com/resources/reportsandpublications/Documents/APTA-Millennials-and-Mobility.pdf)
+                can leave a lasting impact on society...."  [Read more](http://www.apta.com/resources/reportsandpublications/Documents/APTA-Millennials-and-Mobility.pdf)
 
                       March 21, 2014
 
@@ -542,10 +446,7 @@ Rhodes, Brandon Xavier: [An
 
 ###
 
-### [Toyota
-
-                      Is Fined $1.2 Billion for Concealing Safety
-                      Defects](http://www.nytimes.com/2014/03/20/business/toyota-reaches-1-2-billion-settlement-in-criminal-inquiry.html?ref=business)
+### [Toyota Is Fined $1.2 Billion for Concealing Safety Defects](http://www.nytimes.com/2014/03/20/business/toyota-reaches-1-2-billion-settlement-in-criminal-inquiry.html?ref=business)
 
 By
                     BILL VLASIC and MATT APUZZOMARCH 19, 2014 "Eric H.
@@ -555,9 +456,7 @@ By
                     public, calling it "shameful" and a "blatant
                     disregard" for the law.  A $1.2 billion criminal
                     penalty, the largest ever for a carmaker in the
-                    United States, was imposed. [Read
-
-                      more](http://www.nytimes.com/2014/03/20/business/toyota-reaches-1-2-billion-settlement-in-criminal-inquiry.html?ref=business)
+                    United States, was imposed. [Read more](http://www.nytimes.com/2014/03/20/business/toyota-reaches-1-2-billion-settlement-in-criminal-inquiry.html?ref=business)
 
 Hmmm...
 
@@ -581,9 +480,7 @@ Hmmm...
 
                       March 14, 2014
 
-### [303
-
-                    Deaths Seen in G.M. Cars With Failed Air Bags](http://www.nytimes.com/2014/03/14/business/gm-air-bag-failures-linked-to-303-deaths.html?hp&_r=0)
+### [303 Deaths Seen in G.M. Cars With Failed Air Bags](http://www.nytimes.com/2014/03/14/business/gm-air-bag-failures-linked-to-303-deaths.html?hp&_r=0)
 
 By DANIELLE IVORY and HILARY STOUTMARCH 13, 2014  "As
                   lawmakers press General Motors and regulators over
@@ -610,10 +507,7 @@ Hmmm.
                         be distracted from driving.  Maybe this should
                         be called "Apple CarCrash".  Alain
 
-### [New
-
-                          Jersey Rail Ridership Opportunities If aTaxis
-                          Are Available...](http://orfe.princeton.edu/%7Ealaink/NJ_aTaxiOrf467F13/Orf467F13_FinalReports/NJTransit_Report_Almost.pdf)
+### [New Jersey Rail Ridership Opportunities If aTaxis Are Available...](http://orfe.princeton.edu/%7Ealaink/NJ_aTaxiOrf467F13/Orf467F13_FinalReports/NJTransit_Report_Almost.pdf)
 
                   A.L. Kornhauser, et al March, 2014 ".... Examined are
                   the rail ridership opportunities that NJ Transit (NJT)
@@ -622,16 +516,12 @@ Hmmm.
                   stations.  Such collection and distribution services
                   would not only shower NJT with new customers but they
                   would enable NJT to redevelop its parking facilities
-                  to more profitable "Transit Village" uses. [Read
+                  to more profitable "Transit Village" uses. [Read more](http://orfe.princeton.edu/%7Ealaink/NJ_aTaxiOrf467F13/Orf467F13_FinalReports/NJTransit_Report_Almost.pdf)
 
-                    more](http://orfe.princeton.edu/%7Ealaink/NJ_aTaxiOrf467F13/Orf467F13_FinalReports/NJTransit_Report_Almost.pdf)
-
-  [](Mailto:alaink@princeton.edu)[Mailto:alaink@princeton.edu](Mailto:alaink@princeton.edu)[](Mailto:alaink@princeton.edu)
+  [Mailto:alaink@princeton.edu](Mailto:alaink@princeton.edu)
 
  This list is maintained by [Alain Kornhauser](mailto:alaink@princeton.edu)
-                and hosted by the [Princeton
-
-                  University LISTSERV](http://lists.princeton.edu).
+                and hosted by the [Princeton University LISTSERV](http://lists.princeton.edu).
 
 [Unsubscribe](https://lists.princeton.edu/cgi-bin/wa?TICKET=NzM1MjMzIGJpbm9AUFJJTkNFVE9OLkVEVSBTTUFSVERSSVZJTkdDQVJTIGluYtYkJuu3&c=SIGNOFF)
                 | [Re-subscribe](https://lists.princeton.edu/cgi-bin/wa?TICKET=NzM1MjMzIGJpbm9AUFJJTkNFVE9OLkVEVSBTTUFSVERSSVZJTkdDQVJTIGluYtYkJuu3&c=SIGNUP)

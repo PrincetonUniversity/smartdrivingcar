@@ -5,13 +5,7 @@ date: 2015-02-07
 permalink: /2015-02-07-2015-02-07/
 ---
 
-## [Germany's
-
-                                                          A9 autobahn to
-                                                          become test
-                                                          track for
-                                                          self-driving
-                                                          cars](http://www.gizmag.com/germany-self-driving-car-public-test/35806/)
+## [Germany's A9 autobahn to become test track for self-driving cars](http://www.gizmag.com/germany-self-driving-car-public-test/35806/)
 
                                                           Tony Borroz,
                                                           Jan. 27, 2015
@@ -53,16 +47,9 @@ permalink: /2015-02-07-2015-02-07/
                                                           expected to
                                                           get underway
                                                           later this
-                                                          year...." [Read
+                                                          year...." [Read more](http://www.gizmag.com/germany-self-driving-car-public-test/35806/) This is interesting.  Alain
 
-                                                          more](http://www.gizmag.com/germany-self-driving-car-public-test/35806/) This is interesting.  Alain
-
-## [The
-
-                                                          pros and cons
-                                                          of a
-                                                          driverless
-                                                          future](http://www.gizmag.com/pros-and-cons-driverless-cars-traffic-future/35841/)
+## [The pros and cons of a driverless future](http://www.gizmag.com/pros-and-cons-driverless-cars-traffic-future/35841/)
 
                                                           Tony Borroz,
                                                           Jan. 29, 2015
@@ -101,18 +88,9 @@ permalink: /2015-02-07-2015-02-07/
                                                           circumstances
                                                           these benefits
                                                           may be in
-                                                          conflict."...[Read
+                                                          conflict."...[Read more](http://www.gizmag.com/pros-and-cons-driverless-cars-traffic-future/35841/)  Hmmm  The key is "casual ride-sharing".  Alain
 
-                                                          more](http://www.gizmag.com/pros-and-cons-driverless-cars-traffic-future/35841/)  Hmmm  The key is "casual ride-sharing".  Alain
-
-## [Kick-Off
-
-                                                          Meeting at
-                                                          Fort Monmouth
-                                                          for New Jersey
-                                                          Center for
-                                                          Automated
-                                                          Vehicles](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/FtMonmouth/Draft1.0-PressReleaseFtMonmouthKickOffMtg.docx)
+## [Kick-Off Meeting at Fort Monmouth for New Jersey Center for Automated Vehicles](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/FtMonmouth/Draft1.0-PressReleaseFtMonmouthKickOffMtg.docx)
 
                                                           Friday,
                                                           Jan.30, 2015 –
@@ -134,18 +112,9 @@ permalink: /2015-02-07-2015-02-07/
                                                           of a New
                                                           Jersey Center
                                                           for Automated
-                                                          Vehicles... [Read
+                                                          Vehicles... [Read More](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/FtMonmouth/Draft1.0-PressReleaseFtMonmouthKickOffMtg.docx)  Moving forward :-)  Alain
 
-                                                          More](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/FtMonmouth/Draft1.0-PressReleaseFtMonmouthKickOffMtg.docx)  Moving forward :-)  Alain
-
-## [Uber
-
-                                                          plans its own
-                                                          driverless car
-                                                          research
-                                                          center with
-                                                          Carnegie
-                                                          Mellon](http://venturebeat.com/2015/02/02/uber-carnegie-mellon-will-open-an-rd-center-to-work-on-self-driving-cars/)
+## [Uber plans its own driverless car research center with Carnegie Mellon](http://venturebeat.com/2015/02/02/uber-carnegie-mellon-will-open-an-rd-center-to-work-on-self-driving-cars/)
 
                                                           Mark
                                                           Sullivan   Feb
@@ -194,9 +163,7 @@ permalink: /2015-02-07-2015-02-07/
                                                           vehicle safety
                                                           and autonomy
                                                           technology."...
-                                                          [Read
-
-                                                          more](http://venturebeat.com/2015/02/02/uber-carnegie-mellon-will-open-an-rd-center-to-work-on-self-driving-cars/)  Hmmm... These centers are popping up all over the
+                                                          [Read more](http://venturebeat.com/2015/02/02/uber-carnegie-mellon-will-open-an-rd-center-to-work-on-self-driving-cars/)  Hmmm... These centers are popping up all over the
                                                           place.  Is
                                                           this
                                                           Tesla-styled
@@ -230,16 +197,7 @@ permalink: /2015-02-07-2015-02-07/
                                                           anyone
                                                           around?  Alain
 
-## G[oogle
-
-                                                          reportedly
-                                                          working on an
-                                                          Uber
-                                                          competitor,
-                                                          could use
-                                                          their
-                                                          autonomous
-                                                          cars](http://www.worldcarfans.com/115020388290/google-reportedly-working-on-an-uber-competitor-could)
+## G[oogle reportedly working on an Uber competitor, could use their autonomous cars](http://www.worldcarfans.com/115020388290/google-reportedly-working-on-an-uber-competitor-could)
 
                                                           "According to
                                                           a recent
@@ -249,21 +207,10 @@ permalink: /2015-02-07-2015-02-07/
                                                           ride-hailing
                                                           service
                                                           similar to
-                                                          Uber. .."  [Read
-
-                                                          more](http://www.worldcarfans.com/115020388290/google-reportedly-working-on-an-uber-competitor-could) Hmmm ... Plus competition from Google; Uber may be in
+                                                          Uber. .."  [Read more](http://www.worldcarfans.com/115020388290/google-reportedly-working-on-an-uber-competitor-could) Hmmm ... Plus competition from Google; Uber may be in
                                                           trouble. Alain
 
-## [Ford
-
-                                                          announces new
-                                                          European
-                                                          research
-                                                          collaborations
-                                                          for innovation
-                                                          in mobility
-                                                          and autonomous
-                                                          vehicles](http://www.automotiveworld.com/news-releases/ford-announces-new-european-research-collaborations-innovation-mobility-autonomous-vehicles/?utm_source=twitterfeed&utm_medium=twitter&utm_campaign=cmp_387581&utm_medium=email&utm_source=getanewsletter)
+## [Ford announces new European research collaborations for innovation in mobility and autonomous vehicles](http://www.automotiveworld.com/news-releases/ford-announces-new-european-research-collaborations-innovation-mobility-autonomous-vehicles/?utm_source=twitterfeed&utm_medium=twitter&utm_campaign=cmp_387581&utm_medium=email&utm_source=getanewsletter)
 
                                                           February 4,
                                                           2015  "Ford
@@ -311,16 +258,9 @@ permalink: /2015-02-07-2015-02-07/
                                                           driverless and
                                                           connected cars
                                                           initiative..."
-                                                            [Read
+                                                            [Read more](http://www.automotiveworld.com/news-releases/ford-announces-new-european-research-collaborations-innovation-mobility-autonomous-vehicles/?utm_source=twitterfeed&utm_medium=twitter&utm_campaign=cmp_387581&utm_medium=email&utm_source=getanewsletter)
 
-                                                          more](http://www.automotiveworld.com/news-releases/ford-announces-new-european-research-collaborations-innovation-mobility-autonomous-vehicles/?utm_source=twitterfeed&utm_medium=twitter&utm_campaign=cmp_387581&utm_medium=email&utm_source=getanewsletter)
-
-## [Audi
-
-                                                          pushes toward
-                                                          fully
-                                                          autonomous
-                                                          cars](http://www.autonews.com/article/20150202/OEM06/302029995/audi-pushes-toward-fully-autonomous-cars)
+## [Audi pushes toward fully autonomous cars](http://www.autonews.com/article/20150202/OEM06/302029995/audi-pushes-toward-fully-autonomous-cars)
 
                                                           Feb 2,  "Audi
                                                           plans to start
@@ -343,16 +283,9 @@ permalink: /2015-02-07-2015-02-07/
                                                           serial
                                                           production
                                                           within 10
-                                                          years. ..." [Read
+                                                          years. ..." [Read more](http://www.autonews.com/article/20150202/OEM06/302029995/audi-pushes-toward-fully-autonomous-cars)
 
-                                                          more](http://www.autonews.com/article/20150202/OEM06/302029995/audi-pushes-toward-fully-autonomous-cars)
-
-## "[M-City"
-
-                                                          project gives
-                                                          a look into
-                                                          the future of
-                                                          connected cars](http://www.wxyz.com/news/m-city-project-gives-a-look-into-the-future-of-connected-cars)
+## "[M-City" project gives a look into the future of connected cars](http://www.wxyz.com/news/m-city-project-gives-a-look-into-the-future-of-connected-cars)
 
                                                            Stephen
                                                           Clark, Jan 29,
@@ -371,8 +304,7 @@ permalink: /2015-02-07-2015-02-07/
                                                           to test
                                                           automated
                                                           vehicle
-                                                          systems..." [Read more and
-                                                          see video](http://www.wxyz.com/news/m-city-project-gives-a-look-into-the-future-of-connected-cars).
+                                                          systems..." [Read more and see video](http://www.wxyz.com/news/m-city-project-gives-a-look-into-the-future-of-connected-cars).
 
                                                           Hmmm
 
@@ -386,14 +318,7 @@ permalink: /2015-02-07-2015-02-07/
 
 ## Update On:
 
-## [Google
-
-                                                          warns
-                                                          California DMV
-                                                          away from
-                                                          regulating
-                                                          self-driving
-                                                          cars](http://www.bizjournals.com/sanjose/news/2015/01/27/google-warns-california-dmv-away-from-regulating.html)
+## [Google warns California DMV away from regulating self-driving cars](http://www.bizjournals.com/sanjose/news/2015/01/27/google-warns-california-dmv-away-from-regulating.html)
 
 Allen
 
@@ -455,9 +380,7 @@ Allen
                                                           company' own
                                                           safety
                                                           process...."
-[Read
-
-                                                          more](http://www.bizjournals.com/sanjose/news/2015/01/27/google-warns-california-dmv-away-from-regulating.html)  Hmmm  "... too intricate for state government
+[Read more](http://www.bizjournals.com/sanjose/news/2015/01/27/google-warns-california-dmv-away-from-regulating.html)  Hmmm  "... too intricate for state government
                                                           representatives
                                                           to fully
                                                           grasp"  Whew,
@@ -467,7 +390,7 @@ Allen
 Update from
                                                           an SDC reader:
 
-[](http://www.automotiveworld.com/news-releases/ford-announces-new-european-research-collaborations-innovation-mobility-autonomous-vehicles/?utm_source=twitterfeed&utm_medium=twitter&utm_campaign=cmp_387581&utm_medium=email&utm_source=getanewsletter)Hi
+Hi
                                                           Alain,
 I was
                                                           at the CA DMV
@@ -583,12 +506,7 @@ Alain
 
 ## Some other thoughts that deserve your time:
 
-### [What
-
-                                                          Do Driverless
-                                                          Cars Have to
-                                                          Do With Organ
-                                                          Donors?](http://www.boston.com/cars/news-and-reviews/2015/01/23/what-driverless-cars-have-with-organ-donors/nhSxw0YRrC0XiNUjUuXwNP/story.html?s_campaign=bcom%3Asocialflow%3Afacebook)
+### [What Do Driverless Cars Have to Do With Organ Donors?](http://www.boston.com/cars/news-and-reviews/2015/01/23/what-driverless-cars-have-with-organ-donors/nhSxw0YRrC0XiNUjUuXwNP/story.html?s_campaign=bcom%3Asocialflow%3Afacebook)
 
                                                           Justine
                                                           Hofherr,01.23.15
@@ -608,9 +526,7 @@ Alain
                                                           of auto
                                                           accidents has
                                                           declined over
-                                                          time...." [Read
-
-                                                          more](http://www.boston.com/cars/news-and-reviews/2015/01/23/what-driverless-cars-have-with-organ-donors/nhSxw0YRrC0XiNUjUuXwNP/story.html?s_campaign=bcom%3Asocialflow%3Afacebook)Hmmm There are some downsides. As are the loss of
+                                                          time...." [Read more](http://www.boston.com/cars/news-and-reviews/2015/01/23/what-driverless-cars-have-with-organ-donors/nhSxw0YRrC0XiNUjUuXwNP/story.html?s_campaign=bcom%3Asocialflow%3Afacebook)Hmmm There are some downsides. As are the loss of
                                                           some very good
                                                           taxi cab
                                                           jobs,and
@@ -656,12 +572,7 @@ Alain
                                                           all.  :-(
                                                           Alain
 
-### [Debunking
-
-                                                          the myth of
-                                                          the American
-                                                          love affair
-                                                          with cars](http://driving.ca/auto-news/news/debunking-the-myth-of-the-american-love-affair-with-cars)
+### [Debunking the myth of the American love affair with cars](http://driving.ca/auto-news/news/debunking-the-myth-of-the-american-love-affair-with-cars)
 
                                                           Emily Badger,
                                                           January 28,
@@ -746,12 +657,9 @@ Alain
                                                           how we remake
                                                           our cities to
                                                           make way for
-                                                          them..."  [Read
+                                                          them..."  [Read more](http://driving.ca/auto-news/news/debunking-the-myth-of-the-american-love-affair-with-cars)
 
-                                                          more](http://driving.ca/auto-news/news/debunking-the-myth-of-the-american-love-affair-with-cars)
-
-### [Bosch
-                                                          booms](http://www.motoring.com.au/news/2015/bosch-booms-48918)
+### [Bosch booms](http://www.motoring.com.au/news/2015/bosch-booms-48918)
 
                                                           Bosch supplies
                                                           many of the
@@ -768,11 +676,7 @@ Alain
                                                           self-driving
                                                           prototypes.  [Read more](http://www.motoring.com.au/news/2015/bosch-booms-48918)
 
-### [An
-
-                                                          Old Guy's Take
-                                                          On Driverless
-                                                          Cars](http://www.bmwblog.com/2015/02/04/old-guys-take-driverless-cars/)
+### [An Old Guy's Take On Driverless Cars](http://www.bmwblog.com/2015/02/04/old-guys-take-driverless-cars/)
 
                                                           Hugo Becker,
                                                           Feb 4 "...The
@@ -863,19 +767,9 @@ Alain
                                                           difficult to
                                                           make that
                                                           transition...."
-                                                          [Read
+                                                          [Read more](http://www.bmwblog.com/2015/02/04/old-guys-take-driverless-cars/)
 
-                                                          more](http://www.bmwblog.com/2015/02/04/old-guys-take-driverless-cars/)
-
-### [Researchers
-
-                                                          improve
-                                                          artificial
-                                                          intelligence
-                                                          algorithms for
-                                                          semi-autonomous
-
-                                                          vehicles](http://phys.org/news/2015-02-artificial-intelligence-algorithms-semi-autonomous-vehicles.html)
+### [Researchers improve artificial intelligence algorithms for semi-autonomous vehicles](http://phys.org/news/2015-02-artificial-intelligence-algorithms-semi-autonomous-vehicles.html)
 
                                                           Feb 03, 2015
                                                           by Aaron
@@ -907,23 +801,13 @@ Alain
                                                           reaches full
                                                           autonomy (if
                                                           it ever
-                                                          does)..." [Read
-
-                                                          more](http://phys.org/news/2015-02-artificial-intelligence-algorithms-semi-autonomous-vehicles.html)
+                                                          does)..." [Read more](http://phys.org/news/2015-02-artificial-intelligence-algorithms-semi-autonomous-vehicles.html)
 
 ## Half-baked stuff that probably doesn't
                                                           deserve your
                                                           time:
 
-### [Apple
-
-                                                          trying 'very
-                                                          hard' with
-                                                          $250K bonuses
-                                                          to nab Tesla
-                                                          engineers as
-                                                          van sightings
-                                                          proliferate](http://read.feedly.com/html?url=http%3A%2F%2Fiphone.appleinsider.com%2Farticles%2F15%2F02%2F05%2Fapple-trying-very-hard-to-nab-tesla-engineers-as-van-sightings-proliferate&theme=black&size=medium)
+### [Apple trying 'very hard' with $250K bonuses to nab Tesla engineers as van sightings proliferate](http://read.feedly.com/html?url=http%3A%2F%2Fiphone.appleinsider.com%2Farticles%2F15%2F02%2F05%2Fapple-trying-very-hard-to-nab-tesla-engineers-as-van-sightings-proliferate&theme=black&size=medium)
 
                                                           "...Some, like
                                                           technology
@@ -957,13 +841,7 @@ Alain
                                                           -> 1.0
                                                           Alain
 
-### [MW
-
-                                                          Security Flaw
-                                                          Reminds
-                                                          Automakers
-                                                          That Cars Can
-                                                          Be Hacked](http://www.autoworldnews.com/articles/12638/20150201/bmw-security-flaw-reminds-automakers-that-cars-can-be-hacked.htm)
+### [MW Security Flaw Reminds Automakers That Cars Can Be Hacked](http://www.autoworldnews.com/articles/12638/20150201/bmw-security-flaw-reminds-automakers-that-cars-can-be-hacked.htm)
 
                                                           Feb 01, 2015 |
                                                           Jordan Ecarma
@@ -976,9 +854,7 @@ Alain
                                                           connection
                                                           with the
                                                           problem. ..."
-                                                          [Read
-
-                                                          more](http://www.autoworldnews.com/articles/12638/20150201/bmw-security-flaw-reminds-automakers-that-cars-can-be-hacked.htm)Hmmm ...Do we really want all of
+                                                          [Read more](http://www.autoworldnews.com/articles/12638/20150201/bmw-security-flaw-reminds-automakers-that-cars-can-be-hacked.htm)Hmmm ...Do we really want all of
 
                                                           our vehicles
                                                           interconnected?
@@ -999,13 +875,7 @@ Alain
                                                           above zero?
                                                           Alain
 
-### [The
-
-                                                          cold, hard
-                                                          truth about
-                                                          autonomous
-                                                          vehicles and
-                                                          weather](http://fortune.com/2015/02/02/autonomous-driving-bad-weather/)
+### [The cold, hard truth about autonomous vehicles and weather](http://fortune.com/2015/02/02/autonomous-driving-bad-weather/)
 
                                                           Doron Levin,
                                                           Feb. 2, "What
@@ -1015,9 +885,7 @@ Alain
                                                           features is
                                                           stuck in a
                                                           snow
-                                                          storm?..."  [Read
-
-                                                          more](http://fortune.com/2015/02/02/autonomous-driving-bad-weather/)  Hmmm   Probably the same thing that happens to your
+                                                          storm?..."  [Read more](http://fortune.com/2015/02/02/autonomous-driving-bad-weather/)  Hmmm   Probably the same thing that happens to your
                                                           conventional
                                                           car...Just
                                                           this past
@@ -1040,9 +908,7 @@ Alain
                                                           emergencies".
                                                           Alain
 
-## [C'mon
-
-                                                          Man!](https://www.youtube.com/watch?v=fhCks3bvTdA)
+## [C'mon Man!](https://www.youtube.com/watch?v=fhCks3bvTdA)
                                                           (These folks
                                                           didn't
                                                           get/read the
@@ -1053,26 +919,17 @@ Alain
                                                           of Upcoming
                                                           Events:
 
-[Autonomous/Connected
-                                                          Vehicle Summit
+[Autonomous/Connected Vehicle Summit Concord Hilton, Concord CA March 31, 2015](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/PDFs/GoMentumMarch31Announcement.pdf)
 
-                                                          Concord
-                                                          Hilton,
-                                                          Concord CA
-
-                                                          March 31, 2015](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/PDFs/GoMentumMarch31Announcement.pdf)
-
-[](http://www.autonomousvehiclesymposium.com/)
 
 ## [Call for Papers](http://www.autonomousvehiclesymposium.com/)
 
-## [](http://www.driverlesstransportation.com/event/automated-vehicles-symposium-2015)
+## 
 
 [http://www.driverlesstransportation.com/event/automated-vehicles-symposium-2015](http://www.driverlesstransportation.com/event/automated-vehicles-symposium-2015)
 
 ## Job Postings
 
-[](https://sjobs.brassring.com/TGWebHost/searchopenings.aspx?partnerid=25104&siteid=5189)
 
 A
                                                           postdoc
@@ -1120,14 +977,7 @@ January
                                                           29,
                                                           2015
 
-### [NHTSA
-
-                                                          adding
-                                                          automatic
-                                                          braking to
-                                                          recommended
-                                                          safety tech
-                                                          list](http://www.autoblog.com/2015/01/25/nhtsa-automatic-braking-recommended-safety-list/)
+### [NHTSA adding automatic braking to recommended safety tech list](http://www.autoblog.com/2015/01/25/nhtsa-automatic-braking-recommended-safety-list/)
 
  Jan
 
@@ -1158,24 +1008,9 @@ January
                                                           becoming the
                                                           norm in safety
                                                           evaluations.
-                                                          The [Insurance Institute for Highway
-                                                          Safety](http://www.autoblog.com/tag/iihs/)now [requires
+                                                          The [Insurance Institute for Highway Safety](http://www.autoblog.com/tag/iihs/)now [requires it for a model to earn a Top Safety Pick + rating](http://www.autoblog.com/2014/12/23/vehicles-awarded-iihs-top-safety-pick-skyrockets-for-2015/), and the tech is a must to [score five stars in the Euro NCAP crash test](http://www.autoblog.com/2012/06/15/euro-ncap-will-soon-require-auto-braking-for-five-star-safety-ra/).
 
-                                                          it for a model
-                                                          to earn a Top
-                                                          Safety Pick +
-                                                          rating](http://www.autoblog.com/2014/12/23/vehicles-awarded-iihs-top-safety-pick-skyrockets-for-2015/), and the tech is a must to [score
-
-                                                          five stars in
-                                                          the Euro NCAP
-                                                          crash test](http://www.autoblog.com/2012/06/15/euro-ncap-will-soon-require-auto-braking-for-five-star-safety-ra/).
-
-                                                          [Be
-
-                                                          sure to read
-                                                          the included
-                                                          Foxx's Press
-                                                          Release](http://www.autoblog.com/2015/01/25/nhtsa-automatic-braking-recommended-safety-list/):
+                                                          [Be sure to read the included Foxx's Press Release](http://www.autoblog.com/2015/01/25/nhtsa-automatic-braking-recommended-safety-list/):
 
 "PRESS
 
@@ -1219,9 +1054,7 @@ January
                                                           according to
                                                           new research
                                                           NHTSA released
-                                                          today...." [Read
-
-                                                          more](http://www.autoblog.com/2015/01/25/nhtsa-automatic-braking-recommended-safety-list/)  Hmmm... this is really good.  Especially if the
+                                                          today...." [Read more](http://www.autoblog.com/2015/01/25/nhtsa-automatic-braking-recommended-safety-list/)  Hmmm... this is really good.  Especially if the
                                                           "plan" is
                                                           actually
                                                           implemented
@@ -1236,9 +1069,7 @@ January
 
 ###
 
-### [State-wide
-
-                                                          aTaxi Service](http://www.princeton.edu/%7Ealaink/Orf467F14/Orf467F14FinalProjectPresentationSchedule.pdf)
+### [State-wide aTaxi Service](http://www.princeton.edu/%7Ealaink/Orf467F14/Orf467F14FinalProjectPresentationSchedule.pdf)
 
 Serving New Jersey's Personal Mobility Needs with
 
@@ -1405,14 +1236,7 @@ January
 
                                                           4, 2015
 
-### [New
-
-                                                          York Bus
-                                                          Driver
-                                                          Arrested After
-                                                          Fatally
-                                                          Striking
-                                                          Pedestrian](http://www.nytimes.com/2014/12/25/nyregion/new-york-bus-driver-arrested-after-fatally-striking-pedestrian.html?emc=eta1)
+### [New York Bus Driver Arrested After Fatally Striking Pedestrian](http://www.nytimes.com/2014/12/25/nyregion/new-york-bus-driver-arrested-after-fatally-striking-pedestrian.html?emc=eta1)
 
 MARC SANTORA DEC. 24, 2014 "A Metropolitan
                                                           Transportation
@@ -1462,9 +1286,7 @@ Mr.
                                                           was struck by
                                                           the bus, the
                                                           police
-                                                          said..."  [Read
-
-                                                          more](http://www.nytimes.com/2014/12/25/nyregion/new-york-bus-driver-arrested-after-fatally-striking-pedestrian.html?emc=eta1)
+                                                          said..."  [Read more](http://www.nytimes.com/2014/12/25/nyregion/new-york-bus-driver-arrested-after-fatally-striking-pedestrian.html?emc=eta1)
 
 Hmmm... Tragic for everyone.  Such accidents would be
                                                           largely
@@ -1508,14 +1330,7 @@ December
 
 ###
 
-### [Daimler
-
-                                                          Chairman Dr.
-                                                          Dieter Zetsche
-                                                          to Deliver
-                                                          Keynote
-                                                          Address at
-                                                          2015 CES](http://www.cesweb.org/News/Press-Releases/CES-Press-Release.aspx?NodeID=c7f1e0ca-b638-4293-8fd6-281c0e22707a)
+### [Daimler Chairman Dr. Dieter Zetsche to Deliver Keynote Address at 2015 CES](http://www.cesweb.org/News/Press-Releases/CES-Press-Release.aspx?NodeID=c7f1e0ca-b638-4293-8fd6-281c0e22707a)
 
 Arlington, VA – 10/06/2014 – "The Consumer Electronics
                                                           Association
@@ -1587,9 +1402,7 @@ Arlington, VA – 10/06/2014 – "The Consumer Electronics
                                                           Theater within
                                                           the
                                                           Cosmopolitan."
-                                                          [Read
-
-                                                          mor](http://www.cesweb.org/News/Press-Releases/CES-Press-Release.aspx?NodeID=c7f1e0ca-b638-4293-8fd6-281c0e22707a)e
+                                                          [Read mor](http://www.cesweb.org/News/Press-Releases/CES-Press-Release.aspx?NodeID=c7f1e0ca-b638-4293-8fd6-281c0e22707a)e
                                                           Daimler
 
                                                           will have a
@@ -1605,10 +1418,7 @@ December
 
 ###
 
-### [2014
-                                                          Florida
-                                                          Automated
-                                                          Vehicle Summit](http://www.fleng.org/index.cfm)
+### [2014 Florida Automated Vehicle Summit](http://www.fleng.org/index.cfm)
 
 Florida DOT is blazing the trail for the integration of
                                                           automated
@@ -1632,7 +1442,7 @@ Florida DOT is blazing the trail for the integration of
                                                           technologies.
                                                           [Agenda](http://www.fleng.info/images/files/FAV%20Summit%202014_DRAFT%20Agenda09292014.pdf)[Register](http://www.fleng.org/seminars.cfm?event_id=626)
 
-                                                          [](Mailto:alaink@princeton.edu)[Mailto:alaink@princeton.edu](Mailto:alaink@princeton.edu)[](Mailto:alaink@princeton.edu)
+                                                          [Mailto:alaink@princeton.edu](Mailto:alaink@princeton.edu)
 
                                                           This list is
                                                           maintained by

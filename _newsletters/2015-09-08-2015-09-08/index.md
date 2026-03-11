@@ -5,12 +5,7 @@ date: 2015-09-08
 permalink: /2015-09-08-2015-09-08/
 ---
 
-## [Google's
-
-                                                          Driverless
-                                                          Cars Run Into
-                                                          Problem: Cars
-                                                          With Drivers](http://www.nytimes.com/2015/09/02/technology/personaltech/google-says-its-not-the-driverless-cars-fault-its-other-drivers.html?_r=0)
+## [Google's Driverless Cars Run Into Problem: Cars With Drivers](http://www.nytimes.com/2015/09/02/technology/personaltech/google-says-its-not-the-driverless-cars-fault-its-other-drivers.html?_r=0)
 
                                                           M. Richtel
                                                           & C
@@ -95,9 +90,7 @@ permalink: /2015-09-08-2015-09-08/
                                                           the right
                                                           amount depends
                                                           on the
-                                                          culture."... [Read
-
-                                                          more](http://www.nytimes.com/2015/09/02/technology/personaltech/google-says-its-not-the-driverless-cars-fault-its-other-drivers.html?_r=0)
+                                                          culture."... [Read more](http://www.nytimes.com/2015/09/02/technology/personaltech/google-says-its-not-the-driverless-cars-fault-its-other-drivers.html?_r=0)
                                                           Hmmm...
 
                                                           Much of this
@@ -265,14 +258,7 @@ Speed
 
                                                           Alain
 
-## [Apple
-
-                                                          hires senior
-                                                          Tesla engineer
-                                                          as 'Project
-                                                          Titan'
-                                                          evidence
-                                                          mounts](cid:part10.06070304.05020909@princeton.edu)
+## [Apple hires senior Tesla engineer as 'Project Titan' evidence mounts](cid:part10.06070304.05020909@princeton.edu)
 
                                                           N Hughes, Aug
                                                           21 "...Tesla
@@ -328,9 +314,7 @@ Speed
                                                           indeed a
                                                           self-driving
                                                           vehicle...."
-                                                          [Read
-
-                                                          more](http://appleinsider.com/articles/15/08/21/apple-hires-senior-tesla-engineer-as-project-titan-evidence-mounts)  Hmmm.... I guess I'm starting to become a believer
+                                                          [Read more](http://appleinsider.com/articles/15/08/21/apple-hires-senior-tesla-engineer-as-project-titan-evidence-mounts)  Hmmm.... I guess I'm starting to become a believer
                                                           that Apple is
                                                           indeed
                                                           seriously
@@ -348,12 +332,7 @@ Speed
                                                           Monmouth.
                                                           :-)   Alain
 
-## [Toyota
-
-                                                          to Invest $50M
-                                                          in Car-Tech
-                                                          Research at
-                                                          Stanford, MIT](http://www.nytimes.com/aponline/2015/09/04/business/ap-us-toyota-smarter-cars.html)
+## [Toyota to Invest $50M in Car-Tech Research at Stanford, MIT](http://www.nytimes.com/aponline/2015/09/04/business/ap-us-toyota-smarter-cars.html)
 
                                                           AP, Sept 4
                                                           "Toyota is
@@ -451,11 +430,7 @@ See
                                                           benefits :-(
                                                           Alain
 
-## [Google's
-
-                                                          Self-Driving
-                                                          Cars Roam
-                                                          Roads in Texas](http://spectrum.ieee.org/cars-that-think/transportation/self-driving/googles-selfdriving-cars-roam-roads-in-texas/?utm_source=carsthatthink&utm_medium=email&utm_campaign=090215&utm_campaign=cmp_453573&utm_medium=email&utm_source=getanewsletter)
+## [Google's Self-Driving Cars Roam Roads in Texas](http://spectrum.ieee.org/cars-that-think/transportation/self-driving/googles-selfdriving-cars-roam-roads-in-texas/?utm_source=carsthatthink&utm_medium=email&utm_campaign=090215&utm_campaign=cmp_453573&utm_medium=email&utm_source=getanewsletter)
 
                                                           L. Young Sept
                                                           2, "Google's
@@ -505,17 +480,9 @@ See
                                                           maps of the
                                                           new testing
                                                           environment...."
-                                                          [Read
+                                                          [Read more](http://spectrum.ieee.org/cars-that-think/transportation/self-driving/googles-selfdriving-cars-roam-roads-in-texas/?utm_source=carsthatthink&utm_medium=email&utm_campaign=090215&utm_campaign=cmp_453573&utm_medium=email&utm_source=getanewsletter)  Hmmm... Congratulations Austin!!  Alain
 
-                                                          more](http://spectrum.ieee.org/cars-that-think/transportation/self-driving/googles-selfdriving-cars-roam-roads-in-texas/?utm_source=carsthatthink&utm_medium=email&utm_campaign=090215&utm_campaign=cmp_453573&utm_medium=email&utm_source=getanewsletter)  Hmmm... Congratulations Austin!!  Alain
-
-## [Google
-
-                                                          continues to
-                                                          march forward
-                                                          on autonomous
-                                                          vehicle
-                                                          development](http://www.ipwatchdog.com/2015/07/29/google-continues-to-march-forward-on-autonomous-vehicle-development/id=59996/)
+## [Google continues to march forward on autonomous vehicle development](http://www.ipwatchdog.com/2015/07/29/google-continues-to-march-forward-on-autonomous-vehicle-development/id=59996/)
 
 S.
 
@@ -527,25 +494,10 @@ S.
                                                           patents but we
                                                           came across a
                                                           couple which
-                                                          highlight [Google's
-
-                                                          involvement in
-                                                          vehicle
-                                                          development](http://www.ipwatchdog.com/2015/04/03/regulatory-issues-involving-self-driving-vehicles-begin-to-take-shape/id=56207/),
+                                                          highlight [Google's involvement in vehicle development](http://www.ipwatchdog.com/2015/04/03/regulatory-issues-involving-self-driving-vehicles-begin-to-take-shape/id=56207/),
                                                           especially for
                                                           the autonomous
-                                                          vehicle [which
-
-                                                          has been an
-                                                          area of
-                                                          innovation
-                                                          that has seen
-                                                          a lot of
-                                                          activity this
-                                                          year](http://www.ipwatchdog.com/2015/01/11/self-driving-cars-center-stage-at-ces/id=53480/). [U.S.
-
-                                                          Patent No.
-                                                          D734211](http://www.freepatentsonline.com/D734211.html),
+                                                          vehicle [which has been an area of innovation that has seen a lot of activity this year](http://www.ipwatchdog.com/2015/01/11/self-driving-cars-center-stage-at-ces/id=53480/). [U.S. Patent No. D734211](http://www.freepatentsonline.com/D734211.html),
                                                           which is
                                                           titled Autonomous
 
@@ -567,18 +519,9 @@ S.
                                                           digital
                                                           communications
                                                           equipment...."
-                                                          [Read
+                                                          [Read more](http://www.ipwatchdog.com/2015/07/29/google-continues-to-march-forward-on-autonomous-vehicle-development/id=59996/)
 
-                                                          more](http://www.ipwatchdog.com/2015/07/29/google-continues-to-march-forward-on-autonomous-vehicle-development/id=59996/)
-
-## [GM
-
-                                                          ahead of Ford
-                                                          in autonomous
-                                                          vehicle
-                                                          development,
-                                                          but Google
-                                                          trumps both](http://www.ipwatchdog.com/2015/08/29/gm-ahead-of-ford-in-autonomous-vehicle-development-but-google-trumps-both/id=60700/)
+## [GM ahead of Ford in autonomous vehicle development, but Google trumps both](http://www.ipwatchdog.com/2015/08/29/gm-ahead-of-ford-in-autonomous-vehicle-development-but-google-trumps-both/id=60700/)
 
 S.
 
@@ -600,26 +543,16 @@ S.
                                                           working on its
                                                           own V2V
                                                           systems, as is
-                                                          evidenced by [U.S.
-                                                          Patent No.
-                                                          8954261](http://www.freepatentsonline.com/8954261.html),
+                                                          evidenced by [U.S. Patent No. 8954261](http://www.freepatentsonline.com/8954261.html),
                                                           entitled Autonomous
 
                                                           Vehicle
                                                           Positioning
                                                           System for
                                                           Misbehavior
-                                                          Direction. ..." [Read
+                                                          Direction. ..." [Read more](http://www.ipwatchdog.com/2015/08/29/gm-ahead-of-ford-in-autonomous-vehicle-development-but-google-trumps-both/id=60700/)
 
-                                                          more](http://www.ipwatchdog.com/2015/08/29/gm-ahead-of-ford-in-autonomous-vehicle-development-but-google-trumps-both/id=60700/)
-
-## [Autonomous
-
-                                                          Vehicle
-                                                          Technologies
-                                                          Abroad:
-                                                          Toyota, Honda
-                                                          and Hyundai](http://www.ipwatchdog.com/2015/08/30/autonomous-vehicle-technologies-abroad-toyota-honda-and-hyundai/id=61164/)
+## [Autonomous Vehicle Technologies Abroad: Toyota, Honda and Hyundai](http://www.ipwatchdog.com/2015/08/30/autonomous-vehicle-technologies-abroad-toyota-honda-and-hyundai/id=61164/)
 
 G.
 
@@ -648,24 +581,15 @@ G.
                                                           features, such
                                                           as is
                                                           described
-                                                          within [U.S.
-                                                          Patent No.
-                                                          8825371](http://www.freepatentsonline.com/8825371.html),
+                                                          within [U.S. Patent No. 8825371](http://www.freepatentsonline.com/8825371.html),
                                                           entitled Navigation
 
                                                           of On-Road
                                                           Vehicle Based
                                                           on Vertical
-                                                          Elements. ..." [Read
+                                                          Elements. ..." [Read more](http://www.ipwatchdog.com/2015/08/30/autonomous-vehicle-technologies-abroad-toyota-honda-and-hyundai/id=61164/)
 
-                                                          more](http://www.ipwatchdog.com/2015/08/30/autonomous-vehicle-technologies-abroad-toyota-honda-and-hyundai/id=61164/)
-
-## [Self-driving
-
-                                                          cars cheaper
-                                                          and better
-                                                          than light
-                                                          rail: expert](http://www.canberratimes.com.au/act-news/selfdriving-cars-cheaper-and-better-than-light-rail-expert-20150828-gja3hr.html)
+## [Self-driving cars cheaper and better than light rail: expert](http://www.canberratimes.com.au/act-news/selfdriving-cars-cheaper-and-better-than-light-rail-expert-20150828-gja3hr.html)
 
 T.
 
@@ -737,10 +661,7 @@ T.
                                                           Arbor Michigan, New
 
                                                           York
-                                                          and Lisbon.  [His
-
-                                                          extensive
-                                                          research](http://www.projectcomputing.com/resources/cacs/index.html) found,
+                                                          and Lisbon.  [His extensive research](http://www.projectcomputing.com/resources/cacs/index.html) found,
 
                                                           based on
                                                           conservative
@@ -756,12 +677,7 @@ T.
                                                           peak
                                                           hour journey...[Read more](http://www.canberratimes.com.au/act-news/selfdriving-cars-cheaper-and-better-than-light-rail-expert-20150828-gja3hr.html)Hmmm... not surprising!  Alain
 
-## [Ohio
-
-                                                          Turnpike's new
-                                                          director sees
-                                                          driverless
-                                                          trucks and ...](http://www.cleveland.com/metro/index.ssf/2015/09/ohio_turnpikes_new_director_se.html)
+## [Ohio Turnpike's new director sees driverless trucks and ...](http://www.cleveland.com/metro/index.ssf/2015/09/ohio_turnpikes_new_director_se.html)
 
 A Grant, Sept 4, " Do you see autonomous or driverless
                                                           cars coming?
@@ -817,19 +733,14 @@ infrastructure.
                                                           different
                                                           types of
                                                           sensors?..."
-                                                          [Read
-
-                                                          more](http://www.cleveland.com/metro/index.ssf/2015/09/ohio_turnpikes_new_director_se.html) Hmmm... For now, just good paint and good surfaces.
+                                                          [Read more](http://www.cleveland.com/metro/index.ssf/2015/09/ohio_turnpikes_new_director_se.html) Hmmm... For now, just good paint and good surfaces.
                                                           Those help
                                                           everyone.
                                                           Alain
 
 ## Some other thoughts that deserve your
 
-### [The End of
-                                                          Traffic and
-                                                          the Future of
-                                                          Transport](http://www.amazon.com/dp/B0145J1078#reader_B0145J1078)
+### [The End of Traffic and the Future of Transport](http://www.amazon.com/dp/B0145J1078#reader_B0145J1078)
 
 D.
 
@@ -902,9 +813,7 @@ D.
                                                           a range of
                                                           information
                                                           technologies…"
-                                                          [Read
-
-                                                          more](http://www.amazon.com/dp/B0145J1078#reader_B0145J1078)  Hmmm... Certainly and interesting perspective and
+                                                          [Read more](http://www.amazon.com/dp/B0145J1078#reader_B0145J1078)  Hmmm... Certainly and interesting perspective and
                                                           well worth
                                                           reading
                                                           (although not
@@ -938,10 +847,7 @@ D.
                                                           very good..
                                                           Alain
 
-### [A
-                                                          Roadmap for a
-                                                          World Without
-                                                          Drivers](https://medium.com/@alexrubalcava/a-roadmap-for-a-world-without-drivers-573aede0c968)
+### [A Roadmap for a World Without Drivers](https://medium.com/@alexrubalcava/a-roadmap-for-a-world-without-drivers-573aede0c968)
 
 A. Rubalcava, Aug 26 "...As an
                                                           investor in
@@ -1011,9 +917,7 @@ A. Rubalcava, Aug 26 "...As an
                                                           With that
                                                           said, the
                                                           consensus:...
-                                                          [Read
-
-                                                          mor](https://medium.com/@alexrubalcava/a-roadmap-for-a-world-without-drivers-573aede0c968)[e](https://medium.com/@alexrubalcava/a-roadmap-for-a-world-without-drivers-573aede0c968)
+                                                          [Read mor](https://medium.com/@alexrubalcava/a-roadmap-for-a-world-without-drivers-573aede0c968)[e](https://medium.com/@alexrubalcava/a-roadmap-for-a-world-without-drivers-573aede0c968)
                                                             Hmmm....
                                                           Very good
                                                           synopsis but
@@ -1124,13 +1028,7 @@ Also, I'm
                                                           good read.
                                                           Alain
 
-### [After
-
-                                                          Canceling Of
-                                                          Streetcar,
-                                                          What's Plan B
-                                                          For Columbia
-                                                          Pike?](http://wamu.org/programs/metro_connection/15/09/04/after_cancelling_the_streetcar_whats_plan_b_for_columbia_pike)
+### [After Canceling Of Streetcar, What's Plan B For Columbia Pike?](http://wamu.org/programs/metro_connection/15/09/04/after_cancelling_the_streetcar_whats_plan_b_for_columbia_pike)
 
 M. Di Caro, Sept 4 "  Nine months
                                                           after
@@ -1162,19 +1060,11 @@ M. Di Caro, Sept 4 "  Nine months
                                                           to association
                                                           members later
                                                           this
-                                                          month...." [Read
-
-                                                          more](http://wamu.org/programs/metro_connection/15/09/04/after_cancelling_the_streetcar_whats_plan_b_for_columbia_pike)
+                                                          month...." [Read more](http://wamu.org/programs/metro_connection/15/09/04/after_cancelling_the_streetcar_whats_plan_b_for_columbia_pike)
                                                           Hmmmm....
                                                           Alain
 
-### [Innovation
-
-                                                          of the week:
-                                                          Convert your
-                                                          clunker into a
-                                                          smart car with
-                                                          Hum](Verizon%27s%20newly%20launched%20Hum%20is%20a%20small%20device%20that%20plugs%20into%20a%20vehicle%27s%20onboard%20diagnostic%20port.%20It%20collects%20and%20analyzes%20data%20on%20fuel%20economy,%20battery%20charge%20level,%20engine%20error%20codes,%20and%20more.)
+### [Innovation of the week: Convert your clunker into a smart car with Hum](Verizon%27s%20newly%20launched%20Hum%20is%20a%20small%20device%20that%20plugs%20into%20a%20vehicle%27s%20onboard%20diagnostic%20port.%20It%20collects%20and%20analyzes%20data%20on%20fuel%20economy,%20battery%20charge%20level,%20engine%20error%20codes,%20and%20more.)
 
 Sept 6 "...Verizon's newly
                                                           launched Hum
@@ -1193,26 +1083,12 @@ Sept 6 "...Verizon's newly
                                                           level, engine
                                                           error codes,
                                                           and more..."
-                                                          [Read
+                                                          [Read more](Verizon%27s%20newly%20launched%20Hum%20is%20a%20small%20device%20that%20plugs%20into%20a%20vehicle%27s%20onboard%20diagnostic%20port.%20It%20collects%20and%20analyzes%20data%20on%20fuel%20economy,%20battery%20charge%20level,%20engine%20error%20codes,%20and%20more.)
 
-                                                          more](Verizon%27s%20newly%20launched%20Hum%20is%20a%20small%20device%20that%20plugs%20into%20a%20vehicle%27s%20onboard%20diagnostic%20port.%20It%20collects%20and%20analyzes%20data%20on%20fuel%20economy,%20battery%20charge%20level,%20engine%20error%20codes,%20and%20more.)
-
-### [Automotive
-
-                                                          Industry Now
-                                                          the Third
-                                                          Largest End
-                                                          Market for
-                                                          Power
-                                                          Semiconductors,
-                                                          IHS Says](http://press.ihs.com/press-release/technology/automotive-industry-now-third-largest-end-market-power-semiconductors-ihs-s)
+### [Automotive Industry Now the Third Largest End Market for Power Semiconductors, IHS Says](http://press.ihs.com/press-release/technology/automotive-industry-now-third-largest-end-market-power-semiconductors-ihs-s)
 
 Sept 3, "...Based on information
-                                                          from the[IHS Power
-                                                          Management
-                                                          Market Share
-                                                          and Supplier
-                                                          Analysis Report](https://technology.ihs.com/546391/power-management-market-shares-supplier-analysis-2015), demand for semiconductors by the
+                                                          from the[IHS Power Management Market Share and Supplier Analysis Report](https://technology.ihs.com/546391/power-management-market-shares-supplier-analysis-2015), demand for semiconductors by the
                                                           automotive
                                                           industry was
                                                           particularly
@@ -1249,21 +1125,12 @@ Sept 3, "...Based on information
                                                           remain flat
                                                           during the
                                                           same time
-                                                          period.... [Read
+                                                          period.... [Read more](http://press.ihs.com/press-release/technology/automotive-industry-now-third-largest-end-market-power-semiconductors-ihs-s)
 
-                                                          more](http://press.ihs.com/press-release/technology/automotive-industry-now-third-largest-end-market-power-semiconductors-ihs-s)
-
-[](v)
 
 ## Recompiled Old News :
 
-### [Auto
-
-                                                          sector sees
-                                                          dramatic rise
-                                                          in worldwide
-                                                          patent
-                                                          acquisition](http://www.ipwatchdog.com/2015/01/24/auto-sector-sees-dramatic-rise-in-worldwide-patent-acquisition/id=54102/)
+### [Auto sector sees dramatic rise in worldwide patent acquisition](http://www.ipwatchdog.com/2015/01/24/auto-sector-sees-dramatic-rise-in-worldwide-patent-acquisition/id=54102/)
 
 G. Quinn & S. Brachmann, Jan
                                                           14, 2015, "...
@@ -1327,19 +1194,11 @@ G. Quinn & S. Brachmann, Jan
                                                           2013, an
                                                           incredibly
                                                           rapid pace of
-                                                          growth...." [Read
-
-                                                          more](http://www.ipwatchdog.com/2015/01/24/auto-sector-sees-dramatic-rise-in-worldwide-patent-acquisition/id=54102/) and
+                                                          growth...." [Read more](http://www.ipwatchdog.com/2015/01/24/auto-sector-sees-dramatic-rise-in-worldwide-patent-acquisition/id=54102/) and
                                                           see nice
                                                           figures
 
-### [](http://www.thecarconnection.com/news/1094497_uh-oh-police-radar-guns-could-soon-tell-if-youre-texting-too)[Uh-Oh:
-
-                                                          Police Radar
-                                                          Guns Could
-                                                          Soon Tell If
-                                                          You're
-                                                          Texting, Too](http://www.thecarconnection.com/news/1094497_uh-oh-police-radar-guns-could-soon-tell-if-youre-texting-too)
+### [Uh-Oh: Police Radar Guns Could Soon Tell If You're Texting, Too](http://www.thecarconnection.com/news/1094497_uh-oh-police-radar-guns-could-soon-tell-if-youre-texting-too)
 
                                                           R. Read Sept
                                                           18, 2014
@@ -1383,12 +1242,10 @@ G. Quinn & S. Brachmann, Jan
                                                           also if you're
                                                           texting behind
                                                           the
-                                                          wheel...."  [Read
-
-                                                          more](http://www.thecarconnection.com/news/1094497_uh-oh-police-radar-guns-could-soon-tell-if-youre-texting-too)
+                                                          wheel...."  [Read more](http://www.thecarconnection.com/news/1094497_uh-oh-police-radar-guns-could-soon-tell-if-youre-texting-too)
                                                             Hmmmm...
                                                           Whatever!
-                                                          Alain[](v)
+                                                          Alain
 
 ## Half-baked
 
@@ -1398,13 +1255,7 @@ G. Quinn & S. Brachmann, Jan
                                                           deserve your
                                                           time:
 
-### [Can
-
-                                                          the Insurance
-                                                          Industry
-                                                          Survive
-                                                          Driverless
-                                                          Cars?](http://www.bloomberg.com/news/articles/2015-07-30/can-the-insurance-industry-survive-driverless-cars-)
+### [Can the Insurance Industry Survive Driverless Cars?](http://www.bloomberg.com/news/articles/2015-07-30/can-the-insurance-industry-survive-driverless-cars-)
 
  N.
 
@@ -1450,15 +1301,8 @@ G. Quinn & S. Brachmann, Jan
                                                           consumers
                                                           could pay 60
                                                           percent
-                                                          less."  [Read
-
-                                                          more](http://www.bloomberg.com/news/articles/2015-07-30/can-the-insurance-industry-survive-driverless-cars-) and
-                                                          see also[Will
-                                                          driverless
-                                                          cars be the
-                                                          death of the
-                                                          insurance
-                                                          industry?](http://www.telegraph.co.uk/finance/personalfinance/insurance/motorinsurance/11790102/Will-driverless-cars-be-the-death-of-the-insurance-industry.html)
+                                                          less."  [Read more](http://www.bloomberg.com/news/articles/2015-07-30/can-the-insurance-industry-survive-driverless-cars-) and
+                                                          see also[Will driverless cars be the death of the insurance industry?](http://www.telegraph.co.uk/finance/personalfinance/insurance/motorinsurance/11790102/Will-driverless-cars-be-the-death-of-the-insurance-industry.html)
                                                             Hmmm...
 
                                                           Please don't
@@ -1496,11 +1340,7 @@ G. Quinn & S. Brachmann, Jan
                                                           smaller float.
                                                           Alain
 
-### [WalkCar:
-
-                                                          More Than a
-                                                          Geezer
-                                                          Skateboard?](http://www.eetimes.com/author.asp?section_id=36&doc_id=1327375&_mc=NL_EET_EDT_EET_automotivedesignline_20150812&cid=NL_EET_EDT_EET_automotivedesignline_20150812&elq=1da21c73e89d4f1aa9417a9bb9aebf34&elqCampaignId=24318&elqaid=27470&elqat=1&elqTrackId=490d2f3edc674173abf5085fef425448)
+### [WalkCar: More Than a Geezer Skateboard?](http://www.eetimes.com/author.asp?section_id=36&doc_id=1327375&_mc=NL_EET_EDT_EET_automotivedesignline_20150812&cid=NL_EET_EDT_EET_automotivedesignline_20150812&elq=1da21c73e89d4f1aa9417a9bb9aebf34&elqCampaignId=24318&elqaid=27470&elqat=1&elqTrackId=490d2f3edc674173abf5085fef425448)
 
  J. Yosida Aug 10 "...Invented by
                                                           26-year old
@@ -1537,13 +1377,7 @@ G. Quinn & S. Brachmann, Jan
 
                                                           more Hmmm...????Alain
 
-### [](http://www.fleetnews.co.uk/news/fleet-industry-news/2015/09/02/safety-is-biggest-concern-for-driverless-cars-finds-osv-survey)[Safety
-
-                                                          is biggest
-                                                          concern over
-                                                          driverless
-                                                          cars, finds
-                                                          OSV survey](http://www.fleetnews.co.uk/news/fleet-industry-news/2015/09/02/safety-is-biggest-concern-for-driverless-cars-finds-osv-survey)
+### [Safety is biggest concern over driverless cars, finds OSV survey](http://www.fleetnews.co.uk/news/fleet-industry-news/2015/09/02/safety-is-biggest-concern-for-driverless-cars-finds-osv-survey)
 
 Sept
 
@@ -1558,9 +1392,7 @@ Sept
                                                           cars with
                                                           safety topping
                                                           the concerns
-                                                          list..." [Read
-
-                                                          mor](http://www.fleetnews.co.uk/news/fleet-industry-news/2015/09/02/safety-is-biggest-concern-for-driverless-cars-finds-osv-survey)e
+                                                          list..." [Read mor](http://www.fleetnews.co.uk/news/fleet-industry-news/2015/09/02/safety-is-biggest-concern-for-driverless-cars-finds-osv-survey)e
                                                           Hmmm... I
                                                           don't get it.
                                                           The #1 virtue
@@ -1588,13 +1420,13 @@ Sept
 
 ## Calendar of Upcoming Events:
 
-### [](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/PDFs/PCC9-Presenter%20Info.pdf)
+### 
 
-### [](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/PDFs/PCC9-Presenter%20Info.pdf)
+### 
 
-[November 4-6, 2015](http://www.podcarcity.org/siliconvalley)[](http://www.podcarcity.org/siliconvalley)[http://www.podcarcity.org/siliconvalley](http://www.podcarcity.org/siliconvalley)
+[November 4-6, 2015](http://www.podcarcity.org/siliconvalley)[http://www.podcarcity.org/siliconvalley](http://www.podcarcity.org/siliconvalley)
 
-### [](http://www.automatedfl.com/our-efforts/florida-automated-vehicles-summit/)
+### 
 
 [http://www.automatedfl.com/our-efforts/florida-automated-vehicles-summit/](http://www.automatedfl.com/our-efforts/florida-automated-vehicles-summit/)
 
@@ -1607,11 +1439,7 @@ Sept
 
 #
 
-## [Truck
-
-                                                          Safety Out of
-                                                          the Box from
-                                                          Autonobox](http://www.driverlesstransportation.com/truck-safety-out-of-the-box-from-autonobox-9450)
+## [Truck Safety Out of the Box from Autonobox](http://www.driverlesstransportation.com/truck-safety-out-of-the-box-from-autonobox-9450)
 
                                                           B Simpson,
                                                           July 19, 2015
@@ -1653,22 +1481,12 @@ Sept
                                                           panic-stop or
                                                           sustained use
                                                           while going
-                                                          downhill.... [Read
-
-                                                          more](http://www.driverlesstransportation.com/truck-safety-out-of-the-box-from-autonobox-9450)  Hmmm...A viable after-market retro-fit opportunity.
+                                                          downhill.... [Read more](http://www.driverlesstransportation.com/truck-safety-out-of-the-box-from-autonobox-9450)  Hmmm...A viable after-market retro-fit opportunity.
                                                           Alain
 
 ###
 
-### [Self-Driving
-
-                                                          Cars Could
-                                                          Destroy
-                                                          Fine-Based
-                                                          City
-                                                          Government.
-                                                          What's the
-                                                          Downside?](https://reason.com/blog/2015/07/15/self-driving-cars-could-destroy-fine-bas)
+### [Self-Driving Cars Could Destroy Fine-Based City Government. What's the Downside?](https://reason.com/blog/2015/07/15/self-driving-cars-could-destroy-fine-bas)
 
                                                           S. Shackford,
                                                           July 15 "One
@@ -1726,9 +1544,7 @@ Sept
                                                           revenue from
                                                           registration
                                                           fees will drop
-                                                          as well.... [Read
-
-                                                          more](https://reason.com/blog/2015/07/15/self-driving-cars-could-destroy-fine-bas)    Hmmm...  No downside here!  These have to be one
+                                                          as well.... [Read more](https://reason.com/blog/2015/07/15/self-driving-cars-could-destroy-fine-bas)    Hmmm...  No downside here!  These have to be one
                                                           of the most
                                                           regressive tax
                                                           systems, just
@@ -1756,19 +1572,8 @@ Sept
 
 ###
 
-### [Lipinski
-
-                                                          Continues
-                                                          Efforts to
-                                                          Keep Cars and
-                                                          Other
-                                                          Transportation
-                                                          Safe from
-                                                          Cyber Attacks](http://www.lipinski.house.gov/press-releases/lipinski-continues-efforts-to-keep-cars-and-other-transportation-safe-from-cyber-attacks-in-wake-of-fiat-chrysler-recall/)in Wake of
-                                                          [Fiat
-
-                                                          Chrysler
-                                                          Recall](http://www.wsj.com/articles/fiat-chrysler-recalls-1-4-million-vehicles-amid-hacking-concerns-1437751526)
+### [Lipinski Continues Efforts to Keep Cars and Other Transportation Safe from Cyber Attacks](http://www.lipinski.house.gov/press-releases/lipinski-continues-efforts-to-keep-cars-and-other-transportation-safe-from-cyber-attacks-in-wake-of-fiat-chrysler-recall/)in Wake of
+                                                          [Fiat Chrysler Recall](http://www.wsj.com/articles/fiat-chrysler-recalls-1-4-million-vehicles-amid-hacking-concerns-1437751526)
 
 July
                                                           28  "...These
@@ -1816,9 +1621,7 @@ July
                                                           cybersecurity
                                                           research and
                                                           development
-                                                          efforts.  " [Read
-
-                                                          mor](http://www.lipinski.house.gov/press-releases/lipinski-continues-efforts-to-keep-cars-and-other-transportation-safe-from-cyber-attacks-in-wake-of-fiat-chrysler-recall/)e Hmmm...  Besides protecting we must also prosecute.
+                                                          efforts.  " [Read mor](http://www.lipinski.house.gov/press-releases/lipinski-continues-efforts-to-keep-cars-and-other-transportation-safe-from-cyber-attacks-in-wake-of-fiat-chrysler-recall/)e Hmmm...  Besides protecting we must also prosecute.
                                                           There has to
                                                           be bad
                                                           consequences
@@ -1834,14 +1637,7 @@ July
 
 ###
 
-### [Center
-
-                                                          for Automated
-                                                          Road
-                                                          Transportation
-                                                          Safety @ Fort
-                                                          Monmouth is
-                                                          Launched](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/FtMonmouth/NJCARTS/PressRelease_CARTS@FM.pdf)
+### [Center for Automated Road Transportation Safety @ Fort Monmouth is Launched](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/FtMonmouth/NJCARTS/PressRelease_CARTS@FM.pdf)
 
                                                           Monday, July
                                                           20, 2015 –
@@ -1907,9 +1703,7 @@ July
                                                           road system:
                                                           trucks, buses
                                                           and cars. .."
-                                                          [Read
-
-                                                          more](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/FtMonmouth/NJCARTS/PressRelease_CARTS@FM.pdf)
+                                                          [Read more](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/FtMonmouth/NJCARTS/PressRelease_CARTS@FM.pdf)
 
 ###
 
@@ -1917,15 +1711,7 @@ July
 
 ###
 
-### [Automatic
-
-                                                          Cars Or
-                                                          Distracted
-                                                          Drivers: We
-                                                          Need
-                                                          Automation
-                                                          Sooner, Not
-                                                          Later](https://www.linkedin.com/pulse/automatic-cars-distracted-drivers-we-need-automation-sooner-norman)
+### [Automatic Cars Or Distracted Drivers: We Need Automation Sooner, Not Later](https://www.linkedin.com/pulse/automatic-cars-distracted-drivers-we-need-automation-sooner-norman)
 
 D.
                                                           Norman 6/4/15
@@ -1994,9 +1780,7 @@ D.
                                                           disease which
                                                           corrupts
                                                           products...."
-                                                          [Read
-
-                                                          more](https://www.linkedin.com/pulse/automatic-cars-distracted-drivers-we-need-automation-sooner-norman)
+                                                          [Read more](https://www.linkedin.com/pulse/automatic-cars-distracted-drivers-we-need-automation-sooner-norman)
 
 Hmmm.... Yup!!  Plus more comments from Don... "You might also want to add your traditional sarcasm
                                                           saying "He saw
@@ -2067,9 +1851,7 @@ Hmmm.... Yup!!  Plus more comments from Don... "You might also want to add your
 
                                                           would not be
                                                           bad to re-read
-                                                          the [1983
-
-                                                          paper](https://www.ise.ncsu.edu/nsf_itr/794B/papers/Bainbridge_1983_Automatica.pdf).).
+                                                          the [1983 paper](https://www.ise.ncsu.edu/nsf_itr/794B/papers/Bainbridge_1983_Automatica.pdf).).
                                                           So we have to
                                                           skip this
                                                           stage if at
@@ -2173,28 +1955,13 @@ Hmmm.... Yup!!  Plus more comments from Don... "You might also want to add your
 
 ###
 
-### [Rep.
-
-                                                          Lipinski
-                                                          Introduces
-                                                          Future
-                                                          Transportation
-                                                          Research and
-                                                          Innovation Act](http://www.chicagotribune.com/suburbs/la-grange/community/chi-ugc-article-rep-lipinski-introduces-future-transportatio-2015-06-29-story.html#page=1)
+### [Rep. Lipinski Introduces Future Transportation Research and Innovation Act](http://www.chicagotribune.com/suburbs/la-grange/community/chi-ugc-article-rep-lipinski-introduces-future-transportatio-2015-06-29-story.html#page=1)
 
                                                           I. Sancken
                                                           03/29/15,
                                                           "Congressman
                                                           Dan Lipinski
-                                                          (IL-3) has [introduced
-
-                                                          H.R. 2886, the
-                                                          Future
-                                                          Transportation
-                                                          Research and
-                                                          Innovation for
-                                                          Prosperity
-                                                          (TRIP) Act](https://www.congress.gov/bill/114th-congress/house-bill/2886/text),
+                                                          (IL-3) has [introduced H.R. 2886, the Future Transportation Research and Innovation for Prosperity (TRIP) Act](https://www.congress.gov/bill/114th-congress/house-bill/2886/text),
                                                           to support
                                                           innovative
                                                           technologies
@@ -2247,17 +2014,9 @@ Hmmm.... Yup!!  Plus more comments from Don... "You might also want to add your
                                                           personal
                                                           mobility, and
                                                           cut energy
-                                                          use..."  [Read
+                                                          use..."  [Read more](http://www.chicagotribune.com/suburbs/la-grange/community/chi-ugc-article-rep-lipinski-introduces-future-transportatio-2015-06-29-story.html#page=1)  Hmmm... Excellent!  Alain
 
-                                                          more](http://www.chicagotribune.com/suburbs/la-grange/community/chi-ugc-article-rep-lipinski-introduces-future-transportatio-2015-06-29-story.html#page=1)  Hmmm... Excellent!  Alain
-
-### [MOSI
-
-                                                          debuts
-                                                          nation's first
-                                                          driverless
-                                                          vehicle open
-                                                          to public](http://www.baynews9.com/content/news/baynews9/on-the-town/article.html/content/news/articles/bn9/2015/6/12/mosi_debuts_nation_s.html)
+### [MOSI debuts nation's first driverless vehicle open to public](http://www.baynews9.com/content/news/baynews9/on-the-town/article.html/content/news/articles/bn9/2015/6/12/mosi_debuts_nation_s.html)
 
 D.
                                                           Dangerfield,
@@ -2284,26 +2043,12 @@ D.
                                                           to ride around
                                                           the first
                                                           floor of the
-                                                          museum.  [Read
-
-                                                          more](http://www.baynews9.com/content/news/baynews9/on-the-town/article.html/content/news/articles/bn9/2015/6/12/mosi_debuts_nation_s.html)  Hmmm... It is all about starting.  Congratulations!
+                                                          museum.  [Read more](http://www.baynews9.com/content/news/baynews9/on-the-town/article.html/content/news/articles/bn9/2015/6/12/mosi_debuts_nation_s.html)  Hmmm... It is all about starting.  Congratulations!
                                                           Alain
 
 ###
 
-### [NTSB
-
-                                                          Calls for
-                                                          Immediate
-                                                          Action on
-                                                          Collision
-                                                          Avoidance
-                                                          Systems for
-                                                          Vehicles;
-                                                          Cites Slow
-                                                          Progress as
-                                                          Major Safety
-                                                          Issue](http://www.ntsb.gov/news/press-releases/Pages/PR20150608b.aspx)
+### [NTSB Calls for Immediate Action on Collision Avoidance Systems for Vehicles; Cites Slow Progress as Major Safety Issue](http://www.ntsb.gov/news/press-releases/Pages/PR20150608b.aspx)
 
                                                           6/8/15 "
                                                           WASHINGTON –
@@ -2344,9 +2089,7 @@ D.
                                                           prevent a
                                                           collision
                                                           altogether."...
-                                                          [Read
-
-                                                          more](http://www.ntsb.gov/news/press-releases/Pages/PR20150608b.aspx)  Hmmm   Yea!!!  Finally some semblance of
+                                                          [Read more](http://www.ntsb.gov/news/press-releases/Pages/PR20150608b.aspx)  Hmmm   Yea!!!  Finally some semblance of
                                                           sanity in
                                                           Washington.
                                                           Alain
@@ -2355,14 +2098,7 @@ D.
 
 ###
 
-### [John
-
-                                                          F. Nash Jr.,
-                                                          Math Genius
-                                                          Defined by a
-                                                          'Beautiful
-                                                          Mind,' Dies at
-                                                          86](http://www.nytimes.com/2015/05/25/science/john-nash-a-beautiful-mind-subject-and-nobel-winner-dies-at-86.html)
+### [John F. Nash Jr., Math Genius Defined by a 'Beautiful Mind,' Dies at 86](http://www.nytimes.com/2015/05/25/science/john-nash-a-beautiful-mind-subject-and-nobel-winner-dies-at-86.html)
 
                                                           E. Goodmay,
                                                           May 24 "...Dr.
@@ -2402,25 +2138,12 @@ D.
                                                           they had not
                                                           been wearing
                                                           seatbelts....
-                                                          [Read
-
-                                                          more](http://www.nytimes.com/2015/05/25/science/john-nash-a-beautiful-mind-subject-and-nobel-winner-dies-at-86.html)
+                                                          [Read more](http://www.nytimes.com/2015/05/25/science/john-nash-a-beautiful-mind-subject-and-nobel-winner-dies-at-86.html)
 
                                                           See also:
-[John,
+[John, Alicia Nash Remembered After Fatal Crash](http://www.towntopics.com/wordpress/2015/05/27/john-alicia-nash-remembered-after-fatal-crash/)
 
-                                                          Alicia Nash
-                                                          Remembered
-                                                          After Fatal
-                                                          Crash](http://www.towntopics.com/wordpress/2015/05/27/john-alicia-nash-remembered-after-fatal-crash/)
-
-[A
-                                                          Beautiful Mind
-                                                          Mathematician
-                                                          John Nash and
-                                                          His Wife
-                                                          Killed in N.J.
-                                                          Car Crash](http://nymag.com/daily/intelligencer/2015/05/mathematician-john-nash-and-wife-killed-in-crash.html)
+[A Beautiful Mind Mathematician John Nash and His Wife Killed in N.J. Car Crash](http://nymag.com/daily/intelligencer/2015/05/mathematician-john-nash-and-wife-killed-in-crash.html)
                                                           ;
 
 Hmmm...
@@ -2441,15 +2164,7 @@ Unfortunately,
                                                           fundamental
                                                           point by
                                                           following up
-                                                          with ["Deaths
-
-                                                          of Math Genius
-                                                          John F. Nash
-                                                          Jr. and Wife
-                                                          Show Need to
-                                                          Use Seatbelts
-                                                          in Back,
-                                                          Experts Say](http://www.nytimes.com/2015/05/26/nyregion/deaths-of-math-genius-john-f-nash-jr-and-his-wife-show-need-to-use-seatbelts-in-back-experts-say.html)
+                                                          with ["Deaths of Math Genius John F. Nash Jr. and Wife Show Need to Use Seatbelts in Back, Experts Say](http://www.nytimes.com/2015/05/26/nyregion/deaths-of-math-genius-john-f-nash-jr-and-his-wife-show-need-to-use-seatbelts-in-back-experts-say.html)
                                                           ".  Why do we
                                                           so easily put
                                                           up with
@@ -2577,13 +2292,7 @@ Moreover, there is a failed Taxi regulatory structure
 
 ###
 
-### [The
-
-                                                          View from the
-                                                          Front Seat of
-                                                          the Google
-                                                          Self-Driving
-                                                          Car](https://medium.com/backchannel/the-view-from-the-front-seat-of-the-google-self-driving-car-46fc9f3e6088)
+### [The View from the Front Seat of the Google Self-Driving Car](https://medium.com/backchannel/the-view-from-the-front-seat-of-the-google-self-driving-car-46fc9f3e6088)
 
                                                           Chris Urmson
                                                           May 11, 2015
@@ -2730,9 +2439,7 @@ Moreover, there is a failed Taxi regulatory structure
                                                           car that can
                                                           shoulder this
                                                           burden for
-                                                          us." [Read
-
-                                                          more](https://medium.com/backchannel/the-view-from-the-front-seat-of-the-google-self-driving-car-46fc9f3e6088)
+                                                          us." [Read more](https://medium.com/backchannel/the-view-from-the-front-seat-of-the-google-self-driving-car-46fc9f3e6088)
 
                                                           Hmmm.... MUST
 
@@ -2844,33 +2551,17 @@ Moreover, there is a failed Taxi regulatory structure
                                                           of those cases
                                                           driver fatigue
                                                           plays a
-                                                          role..." [Read
+                                                          role..." [Read more](http://www.theverge.com/2015/5/6/8556791/self-driving-semi-big-rig-freightliner-inspiration-truck)  See also
 
-                                                          more](http://www.theverge.com/2015/5/6/8556791/self-driving-semi-big-rig-freightliner-inspiration-truck)  See also
-
-                                                            [Driving
-
-                                                          into the
-                                                          future: CCJ
-                                                          test drives
-                                                          Freightliner's
-                                                          SuperTruck,
-                                                          self-driving
-                                                          Inspiration](http://www.ccjdigital.com/driving-into-the-future-ccj-test-drive-of-freightliners-supertruck-self-driving-inspiration/?utm_source=weekender&utm_medium=email&utm_content=05-09-2015&utm_campaign=CCJ&ust_id=0543c5c008&)By
+                                                            [Driving into the future: CCJ test drives Freightliner's SuperTruck, self-driving Inspiration](http://www.ccjdigital.com/driving-into-the-future-ccj-test-drive-of-freightliners-supertruck-self-driving-inspiration/?utm_source=weekender&utm_medium=email&utm_content=05-09-2015&utm_campaign=CCJ&ust_id=0543c5c008&)By
 
                                                           Jack Robert
                                                           and
 
-[Autonomous
-
-                                                          Freightliner
-                                                          Inspiration
-                                                          truck makes a
-                                                          splash at the
-                                                          Hoover Dam](http://www.gizmag.com/daimler-unveils-autonomous-freightliner-inspiration-truck/37384/)
+[Autonomous Freightliner Inspiration truck makes a splash at the Hoover Dam](http://www.gizmag.com/daimler-unveils-autonomous-freightliner-inspiration-truck/37384/)
 Alain
 
-                                                          [](Mailto:alaink@princeton.edu)[Mailto:alaink@princeton.edu](Mailto:alaink@princeton.edu) [](Mailto:alaink@princeton.edu)
+                                                          [Mailto:alaink@princeton.edu](Mailto:alaink@princeton.edu) 
 
                                                           This list is
                                                           maintained by

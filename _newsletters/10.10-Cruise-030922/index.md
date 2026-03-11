@@ -173,25 +173,25 @@ SmartDrivingCars [ZoomCast Episode 2](https://youtu.be/XGhpEnWchSg)/ [PodCast 25
 
 F. Fishkin, March 3, "How will electric vehicle charging stations make money? The Dispatcher publisher Michael Sena poses that question and many more on episode 258 of Smart Driving Cars with Princeton's Alain Kornhauser and co-host Fred Fishkin. Plus Ford creates a distinct EV car business, an update on NJ progress and more. Tune in and subscribe...."
 
-SmartDrivingCars [](https://www.youtube.com/watch)[ZoomCast Episode 2](https://www.youtube.com/watch?v=mtQ5jsslqUc)[5](https://www.youtube.com/watch?v=mtQ5jsslqUc)[7](https://www.youtube.com/watch?v=mtQ5jsslqUc)/ [PodCast 257](https://anchor.fm/smartdrivingcars/episodes/Smart-Driving-Cars-257-Marc-Scribner--Cliff-Winston-e1eu4l9) w/ [Cliff Winston](https://www.brookings.edu/experts/clifford-winston/), Brookings Institute & [Marc Scribner](https://reason.org/author/marc-scribner/), Reason Foundation
+SmartDrivingCars [ZoomCast Episode 2](https://www.youtube.com/watch?v=mtQ5jsslqUc)[5](https://www.youtube.com/watch?v=mtQ5jsslqUc)[7](https://www.youtube.com/watch?v=mtQ5jsslqUc)/ [PodCast 257](https://anchor.fm/smartdrivingcars/episodes/Smart-Driving-Cars-257-Marc-Scribner--Cliff-Winston-e1eu4l9) w/ [Cliff Winston](https://www.brookings.edu/experts/clifford-winston/), Brookings Institute & [Marc Scribner](https://reason.org/author/marc-scribner/), Reason Foundation
 
 F. Fishkin, Feb. 25, "So what about these reports and opinion pieces casting doubt on the future of autonomous mobility? The Brookings Institution's Cliff Winston and Reason Foundation's Marc Scribner join Princeton's Alain Kornhauser & co-host Fred Fishkin to slice and dice. Plus GM Cruise, VW and more.."
 
-SmartDrivingCars [](https://www.youtube.com/watch?v=xFegxpeq0Gk)[ZoomCast Episode 2](https://www.youtube.com/watch?v=h2vTs6qXNB0)[56](https://www.youtube.com/watch?v=h2vTs6qXNB0) / [PodCast 256](https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-256-with-nvidias-danny-shapiro) w/[Danny Shapiro, VP Automotive, NVIDIA](https://blogs.nvidia.com/blog/author/danny-shapiro/)
+SmartDrivingCars [ZoomCast Episode 2](https://www.youtube.com/watch?v=h2vTs6qXNB0)[56](https://www.youtube.com/watch?v=h2vTs6qXNB0) / [PodCast 256](https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-256-with-nvidias-danny-shapiro) w/[Danny Shapiro, VP Automotive, NVIDIA](https://blogs.nvidia.com/blog/author/danny-shapiro/)
 
 F. Fishkin, Feb. 18, "With Jaguar Land Rover signing on to partner with NVIDIA for advanced driver assistance and autonomous capabilities in all of their vehicles starting in 2025, what will the collaboration mean? NVIDIA's VP for Automotive Danny Shapiro joins Princeton's Alain Kornhauser & co-host Fred Fishkin for that plus the latest on Waymo, VW, Trenton and more."
 
-SmartDrivingCars [](https://www.youtube.com/watch?v=xFegxpeq0Gk)[ZoomCast Episode 2](https://www.youtube.com/watch?v=NFMNxU0616A)[55](https://www.youtube.com/watch?v=NFMNxU0616A) / [PodCast 255](https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-255) w/[Brad Templeton](https://www.templetons.com/brad/)
+SmartDrivingCars [ZoomCast Episode 2](https://www.youtube.com/watch?v=NFMNxU0616A)[55](https://www.youtube.com/watch?v=NFMNxU0616A) / [PodCast 255](https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-255) w/[Brad Templeton](https://www.templetons.com/brad/)
 
 F. Fishkin, Feb. 11, "The engaging debate over disengagements. In episode 255 of Smart Driving Cars, Forbes.com Sr. Transportation Contributor Brad Templeton engages with Princeton's Alain Kornhauser over the path to the future of autonomous mobility. The latest data on disengagements from companies testing self driving vehicles in California, Tesla, Cruise, Waymo and New Jersey begins funding Trenton MOVES...are part of the spirited discussion with co-host Fred Fishkin."
 
-SmartDrivingCars [](https://open.spotify.com/episode/1XaAXc0JHiEDMyn4VQOpl3)[Pod-Cast Episode 254](https://open.spotify.com/episode/1XaAXc0JHiEDMyn4VQOpl3), [](https://www.youtube.com/watch?v=LGezxqtbyBY)[Zoom-Cast Episode 2](https://www.youtube.com/watch?v=LGezxqtbyBY)[5](https://www.youtube.com/watch?v=LGezxqtbyBY)[4](https://www.youtube.com/watch?v=LGezxqtbyBY) w/Alex Roy,
+SmartDrivingCars [Pod-Cast Episode 254](https://open.spotify.com/episode/1XaAXc0JHiEDMyn4VQOpl3), [Zoom-Cast Episode 2](https://www.youtube.com/watch?v=LGezxqtbyBY)[5](https://www.youtube.com/watch?v=LGezxqtbyBY)[4](https://www.youtube.com/watch?v=LGezxqtbyBY) w/Alex Roy,
 
 ###
 
 F. Fishkin, Feb 4, "Why Self Driving Isn't a Race, It's a Game. That's what Alex Roy, Director of Special Projects at Argo AI writes at [www.groundtruthautonomy.com](http://www.groundtruthautonomy.com). Alex joins Princeton's Alain Kornhauser and co-host Fred Fishkin for the latest Smart Driving Cars for a wide ranging discussion on that plus the latest on Trenton Moves, FreightWaves, Tesla, Waymo, Cruise, Toyota and more."
 
-SmartDrivingCars [](https://anchor.fm/smartdrivingcars/episodes/Smart-Driving-Cars-Episode-253-e1dhsgu)[Pod-Cast Episode 253](https://anchor.fm/smartdrivingcars/episodes/Smart-Driving-Cars-Episode-253-e1dhsgu), [](https://www.youtube.com/watch?v=64fptNGcUFI)[Zoom-Cast Episode 2](https://www.youtube.com/watch?v=Uv9XHHpRAss)[5](https://www.youtube.com/watch?v=Uv9XHHpRAss)[3](https://www.youtube.com/watch?v=Uv9XHHpRAss) w/Michael Sena, Editor of The Dispatcher
+SmartDrivingCars [Pod-Cast Episode 253](https://anchor.fm/smartdrivingcars/episodes/Smart-Driving-Cars-Episode-253-e1dhsgu), [Zoom-Cast Episode 2](https://www.youtube.com/watch?v=Uv9XHHpRAss)[5](https://www.youtube.com/watch?v=Uv9XHHpRAss)[3](https://www.youtube.com/watch?v=Uv9XHHpRAss) w/Michael Sena, Editor of The Dispatcher
 
 ###
 
@@ -201,7 +201,7 @@ SmartDrivingCars [Pod-Cast Episode 252](https://anchor.fm/smartdrivingcars/episo
 
 F. Fishkin, Jan. 20, "The IIHS has announced it will rate vehicle partial automation systems. Spearheading is research scientist Alexandra Mueller who joins us. And Professor Emeritus Michael Krauss from the George Mason University School of Law on the manslaughter charges leveled in a Tesla autopilot case in California. Episode 252 of Smart Driving Cars with Princeton's Alain Kornhauser and co-host Fred Fishkin."
 
-SmartDrivingCars [](https://www.youtube.com/watch?v=xFegxpeq0Gk)[Zoom-Cast Episode 2](https://youtu.be/DT8rmDYzwkg)[51](https://youtu.be/DT8rmDYzwkg) / A. Kornhauser: Making it Happen: Trenton MOVES... a Framework for...
+SmartDrivingCars [Zoom-Cast Episode 2](https://youtu.be/DT8rmDYzwkg)[51](https://youtu.be/DT8rmDYzwkg) / A. Kornhauser: Making it Happen: Trenton MOVES... a Framework for...
 
 F. Fishkin, Jan. 15, "In this special edition of Smart Driving Cars, Princeton's Alain Kornhauser and his presentation: [Making it Happen: Trenton Moves-a framework for the deployment of safe, equitable, affordable, sustainable, high quality transportation](https://www.dropbox.com/s/w2iru0ky11dze17/Kornhauser_TRB2022_Final.pptx?dl=0). The focus is on providing autonomous mobility in a place where there is real need. A first. Join the effort."
 
@@ -263,7 +263,7 @@ JLR wouldn't say which models would be receiving which features as a result of t
 
 [Moving Forward with Trenton MOVES](https://viodi.com/2022/02/09/moving-forward-with-trenton-moves/) K. Pyle, Feb. 9, "Dr. Alain Kornhauser's vision of bringing equitable, sustainable, and affordable mobility to the people of Trenton took another step forward with the February 9th, 2022 announcement (Facebook) of a $5 million NJDOT Local Transportation Planning Fund Grant for the Trenton Mobility & Opportunity: Vehicles Equity System (MOVES) Project (PDF). The significance of this event goes beyond the grant announcement..." [Read more](https://viodi.com/2022/02/09/moving-forward-with-trenton-moves/) Hmmmm... Ken, thank you for the kind words. Alain
 
-[](https://www.youtube.com/watch?v=GXnluyz2GSE) [Smart Driving Cars Extra: Trenton MOVES gets moving](https://www.youtube.com/watch?v=GXnluyz2GSE) [](https://www.youtube.com/watch?v=GXnluyz2GSE)
+ [Smart Driving Cars Extra: Trenton MOVES gets moving](https://www.youtube.com/watch?v=GXnluyz2GSE) 
 
 Feb. 11, "The New Jersey DOT is providing 5 million dollars to get Trenton MOVES moving. The goal..autonomous, affordable, safe mobility for all. This is a video of the event held on February 9th." [Read more](https://www.youtube.com/watch?v=GXnluyz2GSE) Hmmmm... Fantastic even with challenging audio. Turn on Closed Caption. The substance is in the quality of the words from the Mayor, Commissioner and Superintendent. All from the heart. Very worth absorbing. Alain.
 

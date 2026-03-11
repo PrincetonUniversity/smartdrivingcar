@@ -9,7 +9,7 @@ FYI
 
 Summer Time, Summer Drives 2015
 
- [](http://copilotgps.us3.list-manage.com/track/click?u=2efc9eec4173b7c645f9367a0&id=a95f70ecee&e=d000c25f8e)
+ 
 
 Summer
 
@@ -26,10 +26,7 @@ Summer
                             make the most of your summer with CoPilot
                             apps.
 
-[Check
-
-                              if you're driving with the latest maps
-                              >](http://copilotgps.us3.list-manage.com/track/click?u=2efc9eec4173b7c645f9367a0&id=bb2287833b&e=d000c25f8e)
+[Check if you're driving with the latest maps >](http://copilotgps.us3.list-manage.com/track/click?u=2efc9eec4173b7c645f9367a0&id=bb2287833b&e=d000c25f8e)
 
  Hot
 
@@ -40,9 +37,7 @@ Summer
  USA apps for a limited time
                                   only
 
-[Buy
-
-                                                  Now!](http://copilotgps.us3.list-manage.com/track/click?u=2efc9eec4173b7c645f9367a0&id=5b16310de7&e=d000c25f8e)
+[Buy Now!](http://copilotgps.us3.list-manage.com/track/click?u=2efc9eec4173b7c645f9367a0&id=5b16310de7&e=d000c25f8e)
 
 20% off unlimited
                                     use of
@@ -74,8 +69,7 @@ Features & Upgrades
  plus some summer goodies in our
                           sweepstakes.
 
-[Enter
-                                          Now!](http://copilotgps.us3.list-manage.com/track/click?u=2efc9eec4173b7c645f9367a0&id=72e837bad1&e=d000c25f8e)
+[Enter Now!](http://copilotgps.us3.list-manage.com/track/click?u=2efc9eec4173b7c645f9367a0&id=72e837bad1&e=d000c25f8e)
 
                           Share it with friends on [Facebook](http://copilotgps.us3.list-manage.com/track/click?u=2efc9eec4173b7c645f9367a0&id=7e01d3b6bf&e=d000c25f8e), [Twitter](http://copilotgps.us3.list-manage.com/track/click?u=2efc9eec4173b7c645f9367a0&id=772a65cfa9&e=d000c25f8e), [Google+](http://copilotgps.us3.list-manage.com/track/click?u=2efc9eec4173b7c645f9367a0&id=087db60275&e=d000c25f8e)
 
@@ -99,14 +93,11 @@ Beat the heat and stay cool on the road
                               provides the most efficient way to your
                               summer BBQs
 
-* [Set
-
-                                up CommuteMe™](http://copilotgps.us3.list-manage.com/track/click?u=2efc9eec4173b7c645f9367a0&id=9efe022f9e&e=d000c25f8e) so it learns your
+* [Set up CommuteMe™](http://copilotgps.us3.list-manage.com/track/click?u=2efc9eec4173b7c645f9367a0&id=9efe022f9e&e=d000c25f8e) so it learns your
                               preferred route and checks for traffic
                               delays along your summer commute *
 
-* [Enjoy your summer drives with
-                                ActiveTraffic™](http://copilotgps.us3.list-manage2.com/track/click?u=2efc9eec4173b7c645f9367a0&id=5bbfea13e3&e=d000c25f8e), avoiding traffic and
+* [Enjoy your summer drives with ActiveTraffic™](http://copilotgps.us3.list-manage2.com/track/click?u=2efc9eec4173b7c645f9367a0&id=5bbfea13e3&e=d000c25f8e), avoiding traffic and
                               delays *
 
 --
@@ -119,7 +110,6 @@ CoPilot,
 
 -
 
-[](http://copilotgps.us3.list-manage2.com/track/click?u=2efc9eec4173b7c645f9367a0&id=d07b0e6f9d&e=d000c25f8e)
 
  Pssst...Like
 
@@ -130,23 +120,22 @@ CoPilot,
                           is and they'll get 7 days FREE
                             voice-guided navigation and ActiveTraffic™!
 
-                          Available for: [](http://copilotgps.us3.list-manage2.com/track/click?u=2efc9eec4173b7c645f9367a0&id=59978c8aea&e=d000c25f8e)
+                          Available for: 
 
 --
 
- [](http://copilotgps.us3.list-manage2.com/track/click?u=2efc9eec4173b7c645f9367a0&id=474a8c08b9&e=d000c25f8e)
- [](http://copilotgps.us3.list-manage2.com/track/click?u=2efc9eec4173b7c645f9367a0&id=065f205cb1&e=d000c25f8e)
- [](http://copilotgps.us3.list-manage.com/track/click?u=2efc9eec4173b7c645f9367a0&id=d8934cfaaf&e=d000c25f8e)
- [](http://copilotgps.us3.list-manage.com/track/click?u=2efc9eec4173b7c645f9367a0&id=0a14840266&e=d000c25f8e)
- [](http://copilotgps.us3.list-manage.com/track/click?u=2efc9eec4173b7c645f9367a0&id=5480a36309&e=d000c25f8e)
+ 
+ 
+ 
+ 
+ 
 
                       * Requires ActiveTraffic™ subscription.
 
                       Some features and services may not be available in
                       all apps/platforms/regions.
 
-[Unsubscribe
-                        from this list](http://copilotgps.us3.list-manage1.com/unsubscribe?u=2efc9eec4173b7c645f9367a0&id=f7ca639a64&e=d000c25f8e&c=2fcd1cf762)
+[Unsubscribe from this list](http://copilotgps.us3.list-manage1.com/unsubscribe?u=2efc9eec4173b7c645f9367a0&id=f7ca639a64&e=d000c25f8e&c=2fcd1cf762)
 
                       ALK Technologies · 457
                         N Harrison St, Princeton, NJ 08540, USA

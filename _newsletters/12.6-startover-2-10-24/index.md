@@ -8,8 +8,7 @@ display_name: "12.6 - Startover"
 
 6th edition of the 12th year of SmartDrivingCars eLetter
 
-[A
- Waymo driverless car didn't see the person on a bike it hit, company says](https://qz.com/google-waymo-driverless-car-bicyclist-san-francisco-1851238210)
+[A Waymo driverless car didn't see the person on a bike it hit, company says](https://qz.com/google-waymo-driverless-car-bicyclist-san-francisco-1851238210)
 
 J. Serrano, Feb. 8 "One of Waymo's driverless cars collided with a cyclist in San Francisco this week because it apparently didn't see the human
  until it was too late.
@@ -28,33 +27,26 @@ Waymo, however, is not off the hook entirely. Apparently, Waymo was not able to 
 
 That accomplished, we'll now have to wait to see what the press/public response is to this incident.  If this characterizes
  Waymo as being insufficiently safe to operate in San Francisco or any other jurisdiction, then Waymo and much of the Driverless car industry needs to Start Over! They are unable to solve the problem they have stated as the problem they are singularly focused
- on solving: safety.  They need to read "[The
- Book](https://www.amazon.com/Real-Case-Driverless-Mobility-Vehicles/dp/0443236852/ref=sr_1_6?qid=1707567613&refinements=p_27%3AA.+Kornhauser&s=books&sr=1-6&ufe=app_do%3Aamzn1.fos.18ed3cb5-28d5-4975-8bc7-93deae8f9840)" (it's only $100, while they've spent $300 Billion not understanding what they are trying to fix.)
+ on solving: safety.  They need to read "[The Book](https://www.amazon.com/Real-Case-Driverless-Mobility-Vehicles/dp/0443236852/ref=sr_1_6?qid=1707567613&refinements=p_27%3AA.+Kornhauser&s=books&sr=1-6&ufe=app_do%3Aamzn1.fos.18ed3cb5-28d5-4975-8bc7-93deae8f9840)" (it's only $100, while they've spent $300 Billion not understanding what they are trying to fix.)
 [Read the book](https://www.amazon.com/Real-Case-Driverless-Mobility-Vehicles/dp/0443236852/ref=sr_1_6?qid=1707567613&refinements=p_27%3AA.+Kornhauser&s=books&sr=1-6&ufe=app_do%3Aamzn1.fos.18ed3cb5-28d5-4975-8bc7-93deae8f9840)!
 
 More.. If one wants to look at human behavior at stop-controlled intersections one may start with M. Woldeamanuel,
- fall 2012:  "[Stopping Behavior of Drivers at Stop-Controlled Intersections: Compositional and Contextual
- Analysis](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https:/trforum.org/wp-content/uploads/2017/04/2012v51n3_07_StopControlledIntersections.pdf)".
+ fall 2012:  "[Stopping Behavior of Drivers at Stop-Controlled Intersections: Compositional and Contextual Analysis](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https:/trforum.org/wp-content/uploads/2017/04/2012v51n3_07_StopControlledIntersections.pdf)".
 
 Also see Andrew Hawkin's take on this incident:
-[Waymo
- driverless car strikes bicyclist in San Francisco, causes minor injuries](https://www.theverge.com/2024/2/7/24065063/waymo-driverless-car-strikes-bicyclist-san-francisco-injuries). Alain
+[Waymo driverless car strikes bicyclist in San Francisco, causes minor injuries](https://www.theverge.com/2024/2/7/24065063/waymo-driverless-car-strikes-bicyclist-san-francisco-injuries). Alain
 
-[Waymo
- driverless car vandalized, set on fire in San Francisco's Chinatown](https://www.nbcbayarea.com/news/local/video-group-vandalizing-waymo-driverless-car-san-francisco-chinatown/3450482/)
+[Waymo driverless car vandalized, set on fire in San Francisco's Chinatown](https://www.nbcbayarea.com/news/local/video-group-vandalizing-waymo-driverless-car-san-francisco-chinatown/3450482/)
 
 Staff, Feb. 11, "A Waymo autonomous vehicle was set on fire Saturday night after it was vandalized by a group of people in Chinatown, San Francisco firefighters said.
 
 The vehicle was traveling on Jackson Street, between Stockton and Grant, about 9:25 p.m. when it was surrounded by about 10 to 15 people, Lt. Mariano Elias with San Francisco fire said.
 
 Several social media videos showed a group of people vandalizing the self-driving car. While another video showed the Waymo vehicle going up in flames…."
-[Read
- More](https://www.nbcbayarea.com/news/local/video-group-vandalizing-waymo-driverless-car-san-francisco-chinatown/3450482/)  Hmmmm… I had titled this edition of the SDC eLetter "Start Over", before this happened.  I'm speechless, but
+[Read More](https://www.nbcbayarea.com/news/local/video-group-vandalizing-waymo-driverless-car-san-francisco-chinatown/3450482/)  Hmmmm… I had titled this edition of the SDC eLetter "Start Over", before this happened.  I'm speechless, but
  watch the ZoomCast and Read the Book!!!. Alain
 
-[](https://www.amazon.com/Real-Case-Driverless-Mobility-Vehicles/dp/0443236852/ref=sr_1_1?crid=1XSXZ611C2JCN&keywords=Kornhauser+sena&qid=1707095108&sprefix=kornhauser+sena%2Caps%2C76&sr=8-1&ufe=app_do%3Aamzn1.fos.18ed3cb5-28d5-4975-8bc7-93deae8f9840)[Just
- Published](https://www.amazon.com/Real-Case-Driverless-Mobility-Vehicles/dp/0443236852/ref=sr_1_1?crid=1XSXZ611C2JCN&keywords=Kornhauser+sena&qid=1707095108&sprefix=kornhauser+sena%2Caps%2C76&sr=8-1&ufe=app_do%3Aamzn1.fos.18ed3cb5-28d5-4975-8bc7-93deae8f9840)!!!  [Go
- to Amazon.com](https://www.amazon.com/Real-Case-Driverless-Mobility-Vehicles/dp/0443236852/ref=sr_1_1?crid=1XSXZ611C2JCN&keywords=Kornhauser+sena&qid=1707095108&sprefix=kornhauser+sena%2Caps%2C76&sr=8-1&ufe=app_do%3Aamzn1.fos.18ed3cb5-28d5-4975-8bc7-93deae8f9840)… You can still be first on your block to have one J.
+[Just Published](https://www.amazon.com/Real-Case-Driverless-Mobility-Vehicles/dp/0443236852/ref=sr_1_1?crid=1XSXZ611C2JCN&keywords=Kornhauser+sena&qid=1707095108&sprefix=kornhauser+sena%2Caps%2C76&sr=8-1&ufe=app_do%3Aamzn1.fos.18ed3cb5-28d5-4975-8bc7-93deae8f9840)!!!  [Go to Amazon.com](https://www.amazon.com/Real-Case-Driverless-Mobility-Vehicles/dp/0443236852/ref=sr_1_1?crid=1XSXZ611C2JCN&keywords=Kornhauser+sena&qid=1707095108&sprefix=kornhauser+sena%2Caps%2C76&sr=8-1&ufe=app_do%3Aamzn1.fos.18ed3cb5-28d5-4975-8bc7-93deae8f9840)… You can still be first on your block to have one J.
 
 [https://www.amazon.com/Real-Case-Driverless-Mobility-Vehicles/dp/0443236852/ref=sr_1_1](https://www.amazon.com/Real-Case-Driverless-Mobility-Vehicles/dp/0443236852/ref=sr_1_1%0d)
 
@@ -73,16 +65,14 @@ F. Fishkin,  Feb. 11,
 * [52:20](https://www.youtube.com/watch?v=YfIoS_ShZ1I&t=3140s) Ken Pyle's Texas EV rental adventure
 * [59:50](https://www.youtube.com/watch?v=YfIoS_ShZ1I&t=3590s) The Real Case for Driverless Mobility book in perspective"
 
-[Stop
- Wearing Vision Pro Goggles While Driving Your Tesla, U.S. Say](https://www.nytimes.com/2024/02/06/technology/personaltech/apple-vision-pro-tesla.html)
+[Stop Wearing Vision Pro Goggles While Driving Your Tesla, U.S. Say](https://www.nytimes.com/2024/02/06/technology/personaltech/apple-vision-pro-tesla.html)
 
 J. Jimenez, Feb. 6, "Videos being shared across social media this week depict an almost dystopian, futuristic scene: drivers of Teslas in Autopilot
  mode while wearing Apple Vision Pro headsets, seemingly unaware of the road in front of them.
 
 The videos led federal transportation officials to issue warnings.
 
-But are people really mindlessly riding around in Teslas in Autopilot mode, wearing Apple's [futuristic
- new goggles](https://www.nytimes.com/2024/01/31/technology/roose-apple-vision-pro.html)? Or is it all just a bit? Part of a never-ending cycle of people doing silly things for clicks, likes, views and clout?
+But are people really mindlessly riding around in Teslas in Autopilot mode, wearing Apple's [futuristic new goggles](https://www.nytimes.com/2024/01/31/technology/roose-apple-vision-pro.html)? Or is it all just a bit? Part of a never-ending cycle of people doing silly things for clicks, likes, views and clout?
 
 The new goggles have a feature that merges digital apps and one's surroundings into one immersive space, and videos of people
  wearing them in strange settings have started to crop up across the internet since they were released on Feb. 2.
@@ -103,8 +93,7 @@ Driver misbehavior is not limited to Tesla drivers.  All OEMs have a few of the
  of software makes such cooperation trivial for Tesla, rather than exceedingly expensive for all the other OEM that haven't embraced OtA.  What an opportunity for Tesla to become substantially safer and more customer conscious that every other OEM.  Think about
  it.   Alain
 
-[Is
- MOVES-style Mobility for Rural Areas Disruptive?
+[Is MOVES-style Mobility for Rural Areas Disruptive?
 The Tuscarora Reservation Opportunity…](https://www.dropbox.com/scl/fi/evpye5gi5pifkt7l0o353/ORF401S24_Rural_MOVES-Style_Mobility_Opportunity.pptx?rlkey=ca6rhabtb5s2am096n39xkt8a&dl=0)
 
 A. Kornhauser, Slides used in his class Feb. 7, "…Total Addressable Market is 3,165 personTrips per day…,".
@@ -114,12 +103,10 @@ A. Kornhauser, Slides used in his class Feb. 7, "…Total Addressable Market is 
  implying that capital costs for such a system could be financed by less than $2/personTrip and break-even fares of  >$3/ride.  Now that's what I call affordable high-quality mobility.  All we need is a Vehicle that works and we or almost any franchise could
  offer Mobility within even some of the most rural settings in the nation.  Now that's interesting!!  Alain [and thanks, Bryce, for getting the analysis system and simulation to work!!]
 
-[EV
- Charging Batters My Self Esteem](https://viodi.com/2024/02/10/ev-charging-batters-my-self-esteem/)
+[EV Charging Batters My Self Esteem](https://viodi.com/2024/02/10/ev-charging-batters-my-self-esteem/)
 
 K. Pyle, Feb 10, "
-It is two decades later and the technology overlords continue to [batter
- my self-esteem](https://viodi.com/2005/07/20/quit-battering-my-self-esteem/). In 2005, it was the lowly PC that beat me into submission. In 2024, it is EV charging and the complications of trying to juice up in Texas that almost had this author in tears…."  …,".
+It is two decades later and the technology overlords continue to [batter my self-esteem](https://viodi.com/2005/07/20/quit-battering-my-self-esteem/). In 2005, it was the lowly PC that beat me into submission. In 2024, it is EV charging and the complications of trying to juice up in Texas that almost had this author in tears…."  …,".
 [Read More](https://viodi.com/2024/02/10/ev-charging-batters-my-self-esteem/)  Hmmmm….
  Enjoy!!  I'm still struggling with my iPhone and please turn off all that background ChatGPT stuff. The latency that it has introduced is taking us back to "1984".
 

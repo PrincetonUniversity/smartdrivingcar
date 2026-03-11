@@ -123,8 +123,7 @@ Sam Byford , April 18, "Google and a number of automakers are spearheading the m
  three states, and Google's fleet has collectively logged over 300,000 miles of time on the road. However, there are several obstacles in the path of widespread adoption, with legal and moral opposition to the concept coming from all corners. Follow this StoryStream
  to track the technology's progress as it transitions from experimental testing to consumer reality that could save thousands of lives.
 
-  [Orange
- cones are robot kryptonite.](https://www.theverge.com/2024/4/18/24133943/orange-cones-are-robot-kryptonite)
+  [Orange cones are robot kryptonite.](https://www.theverge.com/2024/4/18/24133943/orange-cones-are-robot-kryptonite)
 
 At least seven driverless Waymo vehicles blocked the on-ramp to 101 after being flummoxed by a construction site on Portrero Drive,
  according to video of the incident posted on Reddit…"
@@ -154,8 +153,7 @@ Musk is betting on the technology to become cash cow for the world's most valuab
  the goal of self-driving capability, with the technology under growing regulatory and legal scrutiny.  …" Read more   Hmmmm…
   Alain
 
-   [6th
- Princeton SmartDrivingCar Summit](https://summit.princeton.edu/)
+   [6th Princeton SmartDrivingCar Summit](https://summit.princeton.edu/)
 
 Alain Kornhauser, April, 28 "Serious engagement among those seriously involved in the Automation of Mobility
 

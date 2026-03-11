@@ -14,9 +14,7 @@ May 4, 2025
             edition of the 13th year of SmartDrivingCars
           eLetter
 
-[](https://www.michaellsena.com/the-dispatcher-newsletter-2/)[](https://www.michaellsena.com/the-dispatcher-newsletter-2/)  [End
-            Of The Beginning: Aurora Launches Commercial Driverless
-            Trucks](https://www.forbes.com/sites/richardbishop1/2025/05/01/end-of-the-beginni!
+  [End Of The Beginning: Aurora Launches Commercial Driverless Trucks](https://www.forbes.com/sites/richardbishop1/2025/05/01/end-of-the-beginni!
  ng-aurora-launches-commercial-driverless-trucks/)
 
 R.
@@ -39,8 +37,7 @@ R.
         company to operate a commercial self-driving service with
         heavy-duty trucks on public roads...   This hyperlapse [video](https://www.youtube.com/watch?v=TZv1krlPfb4) shows
         the entire Dallas to Houston run from a vantage point inside the
-        truck cab.…."  [Read
-                more](https://www.forbes.com/sites/richardbishop1/2025/05/01/end-of-the-beginning-aurora-launches-commercial-driverless-trucks/)
+        truck cab.…."  [Read more](https://www.forbes.com/sites/richardbishop1/2025/05/01/end-of-the-beginning-aurora-launches-commercial-driverless-trucks/)
 Hmmmm…    Congratulations
           Chris.  You've done it!  No more .. "we're gonna...".  You've
           donna!!!  As promised in your last earnings call.
@@ -52,8 +49,7 @@ Hmmmm…    Congratulations
           first to have done it in long-haul logistics using public
           roadways. Congratulations! Alain
 
-[The
-              Real Case for Driverless Mobility](https://www.audible.com/pd/The-Real-Case-for-Driverless-Mobility-Audiobook/B0D9PJY6MW?eac_link=ZoLH4Nc4tFbA&ref=web_search_eac_asin_1&eac_selected_type=asin&eac_selected=B0D9PJY6MW&qid=Jjuo8XtoL1&eac_id=142-9434497-3046660_Jjuo8XtoL1&sr=1-1)
+[The Real Case for Driverless Mobility](https://www.audible.com/pd/The-Real-Case-for-Driverless-Mobility-Audiobook/B0D9PJY6MW?eac_link=ZoLH4Nc4tFbA&ref=web_search_eac_asin_1&eac_selected_type=asin&eac_selected=B0D9PJY6MW&qid=Jjuo8XtoL1&eac_id=142-9434497-3046660_Jjuo8XtoL1&sr=1-1)
 
 Narrated
             by Fred Fishkin, Available nowg
@@ -63,8 +59,7 @@ Narrated
           still relevant)!!!
            [Go to Amazon.com](https://www.amazon.com/Real-Case-Driverless-Mobility-Vehicles/dp/0443236852/ref=sr_1_1?crid=1XSXZ611C2JCN&keywords=Kornhauser+sena&qid=1707095108&sprefix=kornhauser+sena%2Caps%2C76&sr=8-1&ufe=app_do%3Aamzn1.fos.18ed3cb5-28d5-4975-8bc7-93deae8f9840)…
 
-SmartDrivingCars [ZoomCast 388](https://youtu.be/ybNyzVSPe70?si=UTLJXQ0emYMWja7y)/ [PodCast
-          388](https://open.spotify.com/episode/3z5zBgH0C5YgpByZCsOxZU?si=Ai4mvD6mQnyoMM1Q00ouFQ) – Aurora, Waymo, NHTSA & more
+SmartDrivingCars [ZoomCast 388](https://youtu.be/ybNyzVSPe70?si=UTLJXQ0emYMWja7y)/ [PodCast 388](https://open.spotify.com/episode/3z5zBgH0C5YgpByZCsOxZU?si=Ai4mvD6mQnyoMM1Q00ouFQ) – Aurora, Waymo, NHTSA & more
 
 F.
       Fishkin, May 4  "Commercial driverless trucks are on the road in
@@ -99,13 +94,9 @@ F.
 [21:50](https://youtu.be/ybNyzVSPe70?t=1310) Alain
       wrapping up another semester at Princeton
 
-[](https://www.youtube.com/playlist?list=PLFwuZ9jMeu5uwfTZP00zHjP7eSpG34Hsm)[SmartDrivingCars
-              ZoomCasts](https://www.youtube.com/playlist?list=PLFwuZ9jMeu5uwfTZP00zHjP7eSpG34Hsm)
+[SmartDrivingCars ZoomCasts](https://www.youtube.com/playlist?list=PLFwuZ9jMeu5uwfTZP00zHjP7eSpG34Hsm)
 
-[](https://www.dropbox.com/scl/fi/wk2ci2hsqxiz2kc8az637/Termination-Letter-of-our-SEMPACT-UTC-Grant.pdf?rlkey=si8d2p288ga158loomwmcbych&dl=0)  [Termination
-            of federal grant, 69A3552348302, the Center for Social and
-            Economic Mobility for People and Communities through
-            Transportation (SEMPACT), effective immediately](https://www.dropbox.com/scl/fi/wk2ci2hsqxiz2kc8az637/Termination-Letter-of-our-SEMPACT-UTC-Grant.pdf?rlkey=si8d2p288ga158!
+  [Termination of federal grant, 69A3552348302, the Center for Social and Economic Mobility for People and Communities through Transportation (SEMPACT), effective immediately](https://www.dropbox.com/scl/fi/wk2ci2hsqxiz2kc8az637/Termination-Letter-of-our-SEMPACT-UTC-Grant.pdf?rlkey=si8d2p288ga158!
  loomwmcbych&dl=0)
 
 M.
@@ -125,13 +116,10 @@ M.
 
         • ceasing to promote divisive diversity, equity, and inclusion
         initiatives that discriminate on the basis of race, national
-        origin, or another protected characteristic...."  [Read
-                more](https://www.dropbox.com/scl/fi/wk2ci2hsqxiz2kc8az637/Termination-Letter-of-our-SEMPACT-UTC-Grant.pdf?rlkey=si8d2p288ga158loomwmcbych&dl=0)   Hmmmm…    Totally
+        origin, or another protected characteristic...."  [Read more](https://www.dropbox.com/scl/fi/wk2ci2hsqxiz2kc8az637/Termination-Letter-of-our-SEMPACT-UTC-Grant.pdf?rlkey=si8d2p288ga158loomwmcbych&dl=0)   Hmmmm…    Totally
           unwarranted! Alain
 
-[](https://electrek.co/2025/05/01/waymo-says-its-robotaxis-are-up-to-25x-safer-for-pedestrians-and-cyclists/)  [New
-          Study: Waymo is reducing serious crashes and making streets
-          safer for those most at risk](https://waymo.com/blog/2025/05/waymo-making-streets-safer-for-vru)
+  [New Study: Waymo is reducing serious crashes and making streets safer for those most at risk](https://waymo.com/blog/2025/05/waymo-making-streets-safer-for-vru)
 
 Waymo
       Team, May 1, "The path to Vision Zero requires reducing severe
@@ -147,14 +135,11 @@ The
         Journal, expands on our Safety Impact Hub research, providing a
         deeper analysis of Waymo's performance across 11 different crash
         types compared to human drivers. It also offers new insights
-        into Waymo's positive impact on serious injury crash rates..." [Read
-                more](https://waymo.com/blog/2025/05/waymo-making-streets-safer-for-vru)   Hmmmm…    Congratulations
+        into Waymo's positive impact on serious injury crash rates..." [Read more](https://waymo.com/blog/2025/05/waymo-making-streets-safer-for-vru)   Hmmmm…    Congratulations
           Waymo!!  This is a major achievement. Thank you for being
           exceedingly careful and responsible in your deployment. Alain
 
-[](https://electrek.co/2025/05/01/waymo-says-its-robotaxis-are-up-to-25x-safer-for-pedestrians-and-cyclists/)  [Incident
-          Reporting for Automated Driving Systems (ADS) and Level 2
-          Advanced Driver Assistance Systems (ADAS)](https://www.nhtsa.gov/sites/nhtsa.gov/files/2025-04/third-amended-SGO-2021-01_2025.pdf)
+  [Incident Reporting for Automated Driving Systems (ADS) and Level 2 Advanced Driver Assistance Systems (ADAS)](https://www.nhtsa.gov/sites/nhtsa.gov/files/2025-04/third-amended-SGO-2021-01_2025.pdf)
 
 P.
         Simshauser, April 24, "This Third Amended Standing General Order
@@ -164,14 +149,13 @@ P.
         Transportation, pursuant to 49 U.S.C. §  30166(g)(l)(A) and 49
         CFR § 510.7.1. This General Order takes effect on June 16, 2025,
         and, as of that date, supersedes NHTSA's April 5, 2023 Second
-        Amended Standing General Order 2021-01.2...  "[Read
-                more](https://www.nhtsa.gov/sites/nhtsa.gov/files/2025-04/third-amended-SGO-2021-01_2025.pdf)   Hmmmm…    Please
+        Amended Standing General Order 2021-01.2...  "[Read more](https://www.nhtsa.gov/sites/nhtsa.gov/files/2025-04/third-amended-SGO-2021-01_2025.pdf)   Hmmmm…    Please
           read carefully.  Since many new cars have ADAS systems, it may
           well be that this reporting requirement will need to become
           the standard reporting requirement for any incident; else,
           under-reporting will be rampant. Alain
 
-[](https://electrek.co/2025/05/01/waymo-says-its-robotaxis-are-up-to-25x-safer-for-pedestrians-and-cyclists/)[Automated Vehicle (AV) Framework.](https://www.transportation.gov/briefing-room/trumps-transportation-secretary-sean-p-duffy-unveils-new-automated-vehicle-framework)
+[Automated Vehicle (AV) Framework.](https://www.transportation.gov/briefing-room/trumps-transportation-secretary-sean-p-duffy-unveils-new-automated-vehicle-framework)
 
 Press
       release, April 24, "The Department of Transportation's National
@@ -179,12 +163,10 @@ Press
       Highway Traffic Safety Administration's (NHTSA) new Automated
       Vehicle (AV) Framework. The new framework will unleash American
       ingenuity, maintain key safety standards, and prevent a harmful
-      patchwork of state laws and regulations. [See video](https://youtu.be/PxTlqZTyVEw)" [Read
-              more](https://www.transportation.gov/briefing-room/trumps-transportation-secretary-sean-p-duffy-unveils-new-automated-vehicle-framework)  Hmmmm…
+      patchwork of state laws and regulations. [See video](https://youtu.be/PxTlqZTyVEw)" [Read more](https://www.transportation.gov/briefing-room/trumps-transportation-secretary-sean-p-duffy-unveils-new-automated-vehicle-framework)  Hmmmm…
 Details matter.  Alain
 
-[](https://www.scientificamerican.com/article/self-driving-cars-have-new-rules-in-the-u-s-heres-why-that-matters/)[Self-Driving Cars Have New Rules in the U.S. Here's Why That
-          Matters](https://www.scientificamerican.com/article/self-driving-cars-have-new-rules-in-the-u-s-heres-why-that-matters/)
+[Self-Driving Cars Have New Rules in the U.S. Here's Why That Matters](https://www.scientificamerican.com/article/self-driving-cars-have-new-rules-in-the-u-s-heres-why-that-matters/)
 
 Deni
       Bechard, May 4, "... On April 24, with a brief video and a few
@@ -200,12 +182,10 @@ Deni
 According
         to the order, this will trim the "unnecessary burdens" on
         companies, reducing expenses while keeping "safety benefits."
-        But critics argue..."  [Read
-                more](https://www.scientificamerican.com/article/self-driving-cars-have-new-rules-in-the-u-s-heres-why-that-matters/) Hmmmm…    My
+        But critics argue..."  [Read more](https://www.scientificamerican.com/article/self-driving-cars-have-new-rules-in-the-u-s-heres-why-that-matters/) Hmmmm…    My
           head is spinning.  No comment.  Alain
 
-[](https://electrek.co/2025/05/01/waymo-says-its-robotaxis-are-up-to-25x-safer-for-pedestrians-and-cyclists/)[Waymo says its robotaxis are up to 25x safer for pedestrians
-            and cyclists](https://electrek.co/2025/05/01/waymo-says-its-robotaxis-are-up-to-25x-safer-for-pedestrians-and-cyclists/)J.
+[Waymo says its robotaxis are up to 25x safer for pedestrians and cyclists](https://electrek.co/2025/05/01/waymo-says-its-robotaxis-are-up-to-25x-safer-for-pedestrians-and-cyclists/)J.
         Dow, "Waymo has released new research saying that its driverless
         robotaxis reduce pedestrian- and cyclist-involved collisions by
         82%-92%, and crashes that involve an injury by 96%, when
@@ -225,13 +205,10 @@ According
         Today it released a research paper that it has published,
         suggesting that its vehicles are indeed quite a lot safer,
         especially when it comes to "vulnerable road users" like
-        pedestrians, cyclists and motorcyclists. [Read
-                more](https://electrek.co/2025/05/01/waymo-says-its-robotaxis-are-up-to-25x-safer-for-pedestrians-and-cyclists/)   Hmmmm… one
+        pedestrians, cyclists and motorcyclists. [Read more](https://electrek.co/2025/05/01/waymo-says-its-robotaxis-are-up-to-25x-safer-for-pedestrians-and-cyclists/)   Hmmmm… one
           way to report on Waymo's post. Alain
 
-  [Waymo
-            is still good at avoiding serious distraction and death
-            after 56.7 million miles](https://www.theverge.com/news/658952/waymo-injury-prevention-human-benchmark-study)Andrew
+  [Waymo is still good at avoiding serious distraction and death after 56.7 million miles](https://www.theverge.com/news/658952/waymo-injury-prevention-human-benchmark-study)Andrew
         Hawkins, May 1, "Waymo released a new study today that it says
         shows its fully driverless vehicles continuing to outperform
         human drivers after 56.7 million miles.
@@ -257,8 +234,7 @@ After
         injuries. Waymo also logged 96 percent fewer vehicle-to-vehicle
         crashes at intersections compared to human drivers, which the
         company notes is the leading cause of road injury for drivers in
-        the US.  ..."  [Read
-                more](https://www.theverge.com/news/658952/waymo-injury-prevention-human-benchmark-study)   Hmmmm…    Andrew
+        the US.  ..."  [Read more](https://www.theverge.com/news/658952/waymo-injury-prevention-human-benchmark-study)   Hmmmm…    Andrew
           is being very conservative in his reporting above making sure
           that even this peer-reviewed study is only something "said" by
           Waymo as opposed to being a statement of fact and that it
@@ -301,12 +277,7 @@ Each
           to those wishing to text, drink, sleep and/or not be engaged
           in the stress associated with driving.  Alain
 
-      [Exploring
-            the Benefits of Multimodal Sensor Fusion in Autonomous
-            Driving:
-
-            A Comparative Study of Camera and LiDAR Using Transformer
-            Architectures for Object Detection](https://www.dropbox.com/scl/fi/ep3g2ktz5np9exgcumc0g/Doniger-Sammy.pdf?rlkey=wreza354kdvcz7sgpd078283y&dl=0)
+      [Exploring the Benefits of Multimodal Sensor Fusion in Autonomous Driving: A Comparative Study of Camera and LiDAR Using Transformer Architectures for Object Detection](https://www.dropbox.com/scl/fi/ep3g2ktz5np9exgcumc0g/Doniger-Sammy.pdf?rlkey=wreza354kdvcz7sgpd078283y&dl=0)
 
 Samantha
         Doniger,  May 2025, "Accurate and robust object detection is
@@ -352,8 +323,7 @@ Through
 This
           is a really good senior thesis.  Alain
 
-      [An
-              Analysis of MOVES Style Transportation in New York City](https://www.dropbox.com/scl/fi/eh8bae1fih1btpihhb6vw/Ginder_Koby-Senior_Thesis_vFinal.pdf?rlkey=zx12jkxmyi9mjrznor5fqw8eb&e=1&dl=0)
+      [An Analysis of MOVES Style Transportation in New York City](https://www.dropbox.com/scl/fi/eh8bae1fih1btpihhb6vw/Ginder_Koby-Senior_Thesis_vFinal.pdf?rlkey=zx12jkxmyi9mjrznor5fqw8eb&e=1&dl=0)
 
 Koby
         Ginder, May 2025, "Today, we stand at a critical moment in the
@@ -383,9 +353,7 @@ Hmmmm…
 This
           is a really good senior thesis.  Alain
 
-      [Pardon
-              my French: Assessing the Potential for Data Centers in
-              Rural Quebec with Machine Learning Models](https://www.dropbox.com/scl/fi/b97rcwugx2hi9ujmz8y6b/BERRETTA_Tyler_ORFE_SENIOR_THESIS.pdf?rlkey=d30zm46zg3xaex7q2ccg4exos&dl=0)
+      [Pardon my French: Assessing the Potential for Data Centers in Rural Quebec with Machine Learning Models](https://www.dropbox.com/scl/fi/b97rcwugx2hi9ujmz8y6b/BERRETTA_Tyler_ORFE_SENIOR_THESIS.pdf?rlkey=d30zm46zg3xaex7q2ccg4exos&dl=0)
 
 Tyler
         Barretta,  May 2025, "This thesis aims to explore the
@@ -417,8 +385,7 @@ Tyler
 This
           is a really creative senior thesis.  Alain
 
-        Draft… [Orf467F24:
-              Investigation of MOVES-Style Mobility Deployments](https://www.dropbox.com/scl/fi/zxmw5iip1v3p9mv8416d0/Orf467F24-Compilation-of-Final-MOVES-style-Mobility-Reports.docx?rlkey=7yr746atariyj24ytagqbjwvu&dl=0)… Draft
+        Draft… [Orf467F24: Investigation of MOVES-Style Mobility Deployments](https://www.dropbox.com/scl/fi/zxmw5iip1v3p9mv8416d0/Orf467F24-Compilation-of-Final-MOVES-style-Mobility-Reports.docx?rlkey=7yr746atariyj24ytagqbjwvu&dl=0)… Draft
 
 Alain
         Kornhauser,  Dec. 19, "An updated note to the readers of the SDC

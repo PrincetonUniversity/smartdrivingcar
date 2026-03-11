@@ -7,10 +7,7 @@ permalink: /2014-05-13-2014-05-13/
 
 May 13, 2014
 
-## [Autonomous
-
-                    Vehicles: Handing Over Control: Opportunities and
-                    Risks for Insurance](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/PDFs/LLoyds-Autonomous%20Vehicles.pdf)
+## [Autonomous Vehicles: Handing Over Control: Opportunities and Risks for Insurance](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/PDFs/LLoyds-Autonomous%20Vehicles.pdf)
 
 Gillian Yeomans, Lloyd'sExposure
                   Management "...The insurance industry's expertise in
@@ -24,14 +21,10 @@ Gillian Yeomans, Lloyd'sExposure
                   making it possible for continued technological
                   innovation.  This technological innovation may give
                   rise to new business opportunities, with corresponding
-                  opportunities for insurers....["Read
-
-                    more](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/PDFs/LLoyds-Autonomous%20Vehicles.pdf)  Nice to see
+                  opportunities for insurers....["Read more](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/PDFs/LLoyds-Autonomous%20Vehicles.pdf)  Nice to see
                       Lloyd's weigh in here. Alain
 
-## [A
-                    National Disaggregate Transportation Demand Model
-                    for the Analysis of Autonomous Taxi Systems](http://orfe.princeton.edu/%7Ealaink/Theses/SeniorTheses%2714/WyroughPresentation.pdf)
+## [A National Disaggregate Transportation Demand Model for the Analysis of Autonomous Taxi Systems](http://orfe.princeton.edu/%7Ealaink/Theses/SeniorTheses%2714/WyroughPresentation.pdf)
 
 Hill Wyrough's
                       slide presentation of his evolution of the
@@ -44,9 +37,7 @@ Hill Wyrough's
                       people and trip files for any county in the US.
                       Alain
 
-## [Bankrupt???](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/PDFs/Induct_EBODACC-A_20140003_0001_p000%281%29.pdf)[Liquidation
-
-                        judiciaire Induct](http://www.infofaillite.fr/fr/liquidation-judiciaire/762965/induct.aspx)
+## [Bankrupt???](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/PDFs/Induct_EBODACC-A_20140003_0001_p000%281%29.pdf)[Liquidation judiciaire Induct](http://www.infofaillite.fr/fr/liquidation-judiciaire/762965/induct.aspx)
 
 Update from Corey Clothier:
 
@@ -65,17 +56,13 @@ Both of the prospective new owners are quite impressive. Stay tuned for some big
                     on surface streets in Mountain View, Calif., is
                     exciting. But when I hear BMW predicting fully
                     automated cars by 2025, I can't help but say, "Oh,
-                    come on, man."..." [Read
-
-                      more](http://www.eetimes.com/author.asp?section_id=36&doc_id=1322246&piddl_msgid=298728#msg_298728)
+                    come on, man."..." [Read more](http://www.eetimes.com/author.asp?section_id=36&doc_id=1322246&piddl_msgid=298728#msg_298728)
 
 Hmmm... Junko.. It is C'mon
                         Man!  :-) Comments are mostly a good
                         read.  Alain
 
-## [CityMobil2
-
-                        selects first seven sites](http://www.itsinternational.com/sections/general/news/citymobil2-selects-first-seven-sites/)
+## [CityMobil2 selects first seven sites](http://www.itsinternational.com/sections/general/news/citymobil2-selects-first-seven-sites/)
 
                     "The European project CityMobil2 has selected the
                     first round of sites to run demonstrations and
@@ -97,27 +84,21 @@ Hmmm... Junko.. It is C'mon
                     the first small-scale demonstrator this July and
                     August, followed by a one-month demonstration in the
                     city of Vantaa, Finland, in the summer of 2015...."
-                    [Read
-
-                      more](http://www.itsinternational.com/sections/general/news/citymobil2-selects-first-seven-sites/)
+                    [Read more](http://www.itsinternational.com/sections/general/news/citymobil2-selects-first-seven-sites/)
 
 ##
 
 ## Half-baked
                       stuff that probably doesn't deserve your time:
 
-### [Nokia
-
-                      earmarks $100 million for connected vehicles](http://www.gizmag.com/nokia-connected-car-fund/31930/)
+### [Nokia earmarks $100 million for connected vehicles](http://www.gizmag.com/nokia-connected-car-fund/31930/)
 
                   "...Nokia has made US$100 million available for
                   investing in connected car technologies. The Connected
                   Car Fund will invest in companies that are innovating
                   in connected and intelligent vehicles. The aim is to
                   help grow the ecosystem around Nokia's mapping and
-                  location subsidiary, HERE..." [Read
-
-                    more](http://www.gizmag.com/nokia-connected-car-fund/31930/)  Once again,
+                  location subsidiary, HERE..." [Read more](http://www.gizmag.com/nokia-connected-car-fund/31930/)  Once again,
                       Nokia is betting on the 2nd place horse.   Rather
                       than earmarking the $100M on automation (that in
                       fact could use some of the HERE stuff) that would
@@ -126,9 +107,7 @@ Hmmm... Junko.. It is C'mon
                         guess they didn't get the memo. Oh well.
                       :-(  Alain
 
-### [How
-
-                      Many Lives Will Robocar Technologies Save?](http://spectrum.ieee.org/cars-that-think/transportation/advanced-cars/how-many-lives-will-robocar-technologies-save?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+IeeeSpectrum+%28IEEE+Spectrum%29)
+### [How Many Lives Will Robocar Technologies Save?](http://spectrum.ieee.org/cars-that-think/transportation/advanced-cars/how-many-lives-will-robocar-technologies-save?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+IeeeSpectrum+%28IEEE+Spectrum%29)
 
 By Philip E. Ross Somewhat
                         OK even though it deals with "warning systems"
@@ -141,9 +120,7 @@ By Philip E. Ross Somewhat
                     the accident reports rolled in, insurers found that
                     ABS had made no visible improvement. It seems that
                     drivers, emboldened by their super-automatic brakes,
-                    [had
-
-                      driven a little more aggressive](https://news.uns.purdue.edu/html4ever/2006/060927ManneringOffset.html)ly than
+                    [had driven a little more aggressive](https://news.uns.purdue.edu/html4ever/2006/060927ManneringOffset.html)ly than
                     before..."  The unfortunate
                         aspect of this paragraph is that it is
                         referencing a study that had too few data points
@@ -172,9 +149,7 @@ By Philip E. Ross Somewhat
                         That's the beginning of a good floor to have on
                         a value function.   Alain
 
-### [I'm
-
-                      just not enough of a futurist:](http://www.youtube.com/watch?feature=player_embedded&v=bp2TWNpTA7s) [Terrafugia](http://www.terrafugia.com/)
+### [I'm just not enough of a futurist:](http://www.youtube.com/watch?feature=player_embedded&v=bp2TWNpTA7s) [Terrafugia](http://www.terrafugia.com/)
 
 I'm getting too old. :-(
 
@@ -185,19 +160,16 @@ I'm getting too old. :-(
 ## Calendar of
                 Upcoming Events:
 
-### [2014 IEEE
-              Intelligent Vehicles Symposium](http://www.ieeeiv.net/)
+### [2014 IEEE Intelligent Vehicles Symposium](http://www.ieeeiv.net/)
 
 ### June 8 - 11, 2014, Dearborn, Michigan, USA
 
             Sponsored by the IEEE Intelligent Transportation Systems
             Society
 
-[](http://www.auvsi.org/avs2014/register)
 
 [http://www.auvsi.org/avs2014/register](http://www.auvsi.org/avs2014/register)
 
-[](http://www.auvsi.org/avs2014/register)
 
 Invitation ONLY
 
@@ -215,24 +187,17 @@ Save the date
 
           John Villasenor Apr 25 2014 "It may seem odd, but we already
           have the laws we need for dealing with this inevitable
-          situation." [Read
-
-            more](http://www.theatlantic.com/business/archive/2014/04/who-is-at-fault-when-a-driverless-car-gets-in-an-accident/361250/) especially the source
+          situation." [Read more](http://www.theatlantic.com/business/archive/2014/04/who-is-at-fault-when-a-driverless-car-gets-in-an-accident/361250/) especially the source
               report:
 
-### [Products
-
-              Liability and Driverless Cars: Issues and Guiding
-              Principles for Legislation](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/PDFs/Brookings_Products_Liability_and_Driverless_Cars.pdf)
+### [Products Liability and Driverless Cars: Issues and Guiding Principles for Legislation](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/PDFs/Brookings_Products_Liability_and_Driverless_Cars.pdf)
 
                 April 18, 2014
 
 ### Newly Available
             Drafts of Recent Student Theses
 
-Wyrough, Alexander Penn Hill Jr.: [A
-              National Disaggregate Transportation Demand Model for the
-              Analysis of autonomousTaxi Systems](http://orfe.princeton.edu/%7Ealaink/Theses/SeniorTheses%2714/Draft-Wyrough_NoationalDisaggregateTripSynthesizer.pdf)
+Wyrough, Alexander Penn Hill Jr.: [A National Disaggregate Transportation Demand Model for the Analysis of autonomousTaxi Systems](http://orfe.princeton.edu/%7Ealaink/Theses/SeniorTheses%2714/Draft-Wyrough_NoationalDisaggregateTripSynthesizer.pdf)
 
 Included is one synthetic realization
               for each of the 308.7 Million individuals contained in the
@@ -256,68 +221,46 @@ Included is one synthetic realization
               greater than 200 miles from the home location were routed
               via the nearest major airports.  Alain
 
-Lee, Eileen: [Uncovering
+Lee, Eileen: [Uncovering Systemic Corruption in the ER:An Empirical Analysis of Motor Vehicle-Related Hospital Bill and their Impact on Insurance Companies](http://orfe.princeton.edu/%7Ealaink/Theses/SeniorTheses%2714/Draft-Lee_UncoveringSystematicCorruptionInTheER.pdf)
 
-              Systemic Corruption in the ER:An Empirical Analysis of
-              Motor Vehicle-Related Hospital Bill and their Impact on
-              Insurance Companies](http://orfe.princeton.edu/%7Ealaink/Theses/SeniorTheses%2714/Draft-Lee_UncoveringSystematicCorruptionInTheER.pdf)
+Sun, Zhuyi (Judy): [Causal Price Discrimination: An Analysis of the Healthcare Costs Associated with Motor Vehicle and Transportation Collisions](http://orfe.princeton.edu/%7Ealaink/Theses/SeniorTheses%2714/Draft-Sun_CausalPriceDiscrimination.pdf)
 
-Sun, Zhuyi (Judy): [Causal
-
-              Price Discrimination: An Analysis of the Healthcare Costs
-              Associated with Motor Vehicle and Transportation
-              Collisions](http://orfe.princeton.edu/%7Ealaink/Theses/SeniorTheses%2714/Draft-Sun_CausalPriceDiscrimination.pdf)
-
-Rhodes, Brandon Xavier: [An
-
-              Analysis  of  Economically  Efficient  Insurance  Schemes
-              for  Automated  Vehicle](http://orfe.princeton.edu/%7Ealaink/Theses/SeniorTheses%2714/Draft-Rhodes_InsuranceSchemesForAutomatedVehicles.pdf)
+Rhodes, Brandon Xavier: [An Analysis  of  Economically  Efficient  Insurance  Schemes for  Automated  Vehicle](http://orfe.princeton.edu/%7Ealaink/Theses/SeniorTheses%2714/Draft-Rhodes_InsuranceSchemesForAutomatedVehicles.pdf)
 
                 April 11, 2014
 
-### [Hands-On: 2015 Hyundai Genesis Flirts with Autonomous
-              Driving](http://www.chipchick.com/2014/04/2015-hyundai-genesis.html)
+### [Hands-On: 2015 Hyundai Genesis Flirts with Autonomous Driving](http://www.chipchick.com/2014/04/2015-hyundai-genesis.html)
 
           By Scott Schaen on April 7, "...Lane keep assist worked very
           well if you're slow to make a slight turn. It doesn't work for
           the bigger turns. Similarly, smart cruise control and the
           automatic emergency breaking system would slow you down a lot,
           but it won't bring you to a complete stop. They're SAFETY
-          features; they're not intended to auto-drive (yet)..." [Read
-
-            more](http://www.chipchick.com/2014/04/2015-hyundai-genesis.html)
+          features; they're not intended to auto-drive (yet)..." [Read more](http://www.chipchick.com/2014/04/2015-hyundai-genesis.html)
 
                 April 4, 2014
 
 ### [Webinar on the 3DV product](http://www.autonomoustuff.com/vislab-webinar-recording.html)
 
-          Thursday, March 27, 2014  [Video
-
-                of Webinar](http://www.autonomoustuff.com/vislab-webinar-recording.html). Excellent presentation by Prof.
+          Thursday, March 27, 2014  [Video of Webinar](http://www.autonomoustuff.com/vislab-webinar-recording.html). Excellent presentation by Prof.
               Alberto Broggi Alain
 
                 March 28, 2014
 
-### [Millennials&
-
-              Mobility: Understanding the Millennial Mindset](http://www.apta.com/resources/reportsandpublications/Documents/APTA-Millennials-and-Mobility.pdf)
+### [Millennials& Mobility: Understanding the Millennial Mindset](http://www.apta.com/resources/reportsandpublications/Documents/APTA-Millennials-and-Mobility.pdf)
 
           "...millennials, with their relative propensity for urban
           lifestyle components (whether they live in cities or in
           suburbs), dexterity with technology, while starting careers
           during economically constrained times can leave a lasting
-          impact on society...."  [Read
-
-            more](http://www.apta.com/resources/reportsandpublications/Documents/APTA-Millennials-and-Mobility.pdf)
+          impact on society...."  [Read more](http://www.apta.com/resources/reportsandpublications/Documents/APTA-Millennials-and-Mobility.pdf)
                 March 21, 2014
 
 ###
 
 ###
 
-### [Toyota
-
-                Is Fined $1.2 Billion for Concealing Safety Defects](http://www.nytimes.com/2014/03/20/business/toyota-reaches-1-2-billion-settlement-in-criminal-inquiry.html?ref=business)
+### [Toyota Is Fined $1.2 Billion for Concealing Safety Defects](http://www.nytimes.com/2014/03/20/business/toyota-reaches-1-2-billion-settlement-in-criminal-inquiry.html?ref=business)
 
 By BILL
               VLASIC and MATT APUZZOMARCH 19, 2014 "Eric H. Holder Jr.,
@@ -326,9 +269,7 @@ By BILL
               safety defects from the public, calling it "shameful" and
               a "blatant disregard" for the law.  A $1.2 billion
               criminal penalty, the largest ever for a carmaker in the
-              United States, was imposed. [Read
-
-                more](http://www.nytimes.com/2014/03/20/business/toyota-reaches-1-2-billion-settlement-in-criminal-inquiry.html?ref=business)
+              United States, was imposed. [Read more](http://www.nytimes.com/2014/03/20/business/toyota-reaches-1-2-billion-settlement-in-criminal-inquiry.html?ref=business)
 
 Hmmm...
                   As I wrote last week with respect to GM, the industry
@@ -349,9 +290,7 @@ Hmmm...
 
                 March 14, 2014
 
-### [303
-
-              Deaths Seen in G.M. Cars With Failed Air Bags](http://www.nytimes.com/2014/03/14/business/gm-air-bag-failures-linked-to-303-deaths.html?hp&_r=0)
+### [303 Deaths Seen in G.M. Cars With Failed Air Bags](http://www.nytimes.com/2014/03/14/business/gm-air-bag-failures-linked-to-303-deaths.html?hp&_r=0)
 
 By DANIELLE IVORY and HILARY STOUTMARCH 13, 2014  "As
             lawmakers press General Motors and regulators over their
@@ -378,10 +317,7 @@ Hmmm.  Just what
                   from driving.  Maybe this should be called "Apple
                     CarCrash".  Alain
 
-### [New
-
-                    Jersey Rail Ridership Opportunities If aTaxis Are
-                    Available...](http://orfe.princeton.edu/%7Ealaink/NJ_aTaxiOrf467F13/Orf467F13_FinalReports/NJTransit_Report_Almost.pdf)
+### [New Jersey Rail Ridership Opportunities If aTaxis Are Available...](http://orfe.princeton.edu/%7Ealaink/NJ_aTaxiOrf467F13/Orf467F13_FinalReports/NJTransit_Report_Almost.pdf)
 
             A.L. Kornhauser, et al March, 2014 ".... Examined are the
             rail ridership opportunities that NJ Transit (NJT) might
@@ -390,15 +326,12 @@ Hmmm.  Just what
             collection and distribution services would not only shower
             NJT with new customers but they would enable NJT to
             redevelop its parking facilities to more profitable "Transit
-            Village" uses. [Read
+            Village" uses. [Read more](http://orfe.princeton.edu/%7Ealaink/NJ_aTaxiOrf467F13/Orf467F13_FinalReports/NJTransit_Report_Almost.pdf)
 
-              more](http://orfe.princeton.edu/%7Ealaink/NJ_aTaxiOrf467F13/Orf467F13_FinalReports/NJTransit_Report_Almost.pdf)
-
-  [](Mailto:alaink@princeton.edu)[Mailto:alaink@princeton.edu](Mailto:alaink@princeton.edu)[](Mailto:alaink@princeton.edu)
+  [Mailto:alaink@princeton.edu](Mailto:alaink@princeton.edu)
 
  This list is maintained by [Alain Kornhauser](mailto:alaink@princeton.edu) and
-          hosted by the [Princeton
-            University LISTSERV](http://lists.princeton.edu).
+          hosted by the [Princeton University LISTSERV](http://lists.princeton.edu).
 
 [Unsubscribe](https://lists.princeton.edu/cgi-bin/wa?TICKET=NzM1MjMzIGJpbm9AUFJJTkNFVE9OLkVEVSBTTUFSVERSSVZJTkdDQVJTIGluYtYkJuu3&c=SIGNOFF)
           | [Re-subscribe](https://lists.princeton.edu/cgi-bin/wa?TICKET=NzM1MjMzIGJpbm9AUFJJTkNFVE9OLkVEVSBTTUFSVERSSVZJTkdDQVJTIGluYtYkJuu3&c=SIGNUP)

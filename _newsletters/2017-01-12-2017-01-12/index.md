@@ -5,8 +5,7 @@ date: 2017-01-12
 permalink: /2017-01-12-2017-01-12/
 ---
 
-See Attached.  Lunch will be served, [Link
-        to Flyer](http://www.princeton.edu/%7Ealaink/Orf467F16/FinalProject/Orf467F16FinalProjectAnnouncement.pdf)
+See Attached.  Lunch will be served, [Link to Flyer](http://www.princeton.edu/%7Ealaink/Orf467F16/FinalProject/Orf467F16FinalProjectAnnouncement.pdf)
 
 --
 
@@ -29,7 +28,7 @@ Alain L. Kornhauser, PhD
                 609-258-4657 (o)
 
                 609-980-1427 (c)
- [](http://www.princeton.edu)
+ 
 
 ***************************************************************************************************************
 

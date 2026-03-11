@@ -7,16 +7,14 @@ permalink: /13.14-safe-9.20.25/
 
 ## 14th edition of the 13th year of SmartDrivingCars eLetter
 
-[Very
- few of Waymo’s most serious crashes were Waymo’s fault](https://www.understandingai.org/p/very-few-of-waymos-most-serious-crashes)
+[Very few of Waymo’s most serious crashes were Waymo’s fault](https://www.understandingai.org/p/very-few-of-waymos-most-serious-crashes)
 
 Kai Wikkiams, Sept. 17,
  At 1:14 AM on May 31st, a Waymo was driving on South Lamar Boulevard in Austin, Texas, when the front left wheel detached. The bottom of the car scraped against the pavement as the car skidded to a stop, and the passenger suffered
  a minor injury, according to Waymo.
 
 Among the 45 most serious crashes Waymo experienced in recent months, this was arguably the crash that was most clearly Waymo’s fault. And it was a mechanical
- failure, not an error by Waymo’s self-driving software..….”    [Read
- more](https://www.understandingai.org/p/very-few-of-waymos-most-serious-crashes)  Hmmmm…
+ failure, not an error by Waymo’s self-driving software..….”    [Read more](https://www.understandingai.org/p/very-few-of-waymos-most-serious-crashes)  Hmmmm…
  This is an excellent article that everyone should read, especially those who are concerned with the safety of driverless cars.  It has become my learned opinion that Waymo is indeed safer than human driven cars, and that version 13 of Tesla’s FSD drives better
  than I drive.  If managed to operate driverlessly only in well tested Operational Design Domains (ODD) rather than allowed to venture anywhere, In My Humble Learned Opinion (IMHLO), both Waymo and FSD v13 can deliver societal benefits that exceed disbenefits
  that may arise due to crashes.  If carefully targeted to serve only those who can benefit most from operation in the safest OODs, then, IMHLO, the societal benefits to the riders of those systems can vastly overshadow the societal safety costs that can arise
@@ -27,14 +25,12 @@ Consequently, it is time that we all focus on extracting the enormous net societ
 
 [The Transportation Channel](https://www.thetransportationchannel.com/)
 
-[The
- Real Case for Driverless Mobility](https://www.audible.com/pd/The-Real-Case-for-Driverless-Mobility-Audiobook/B0D9PJY6MW?eac_link=CiwdHDwLDA9n&ref=web_search_eac_asin_1&eac_selected_type=asin&eac_selected=B0D9PJY6MW&qid=502i1TXUsp&eac_id=130-7496845-4686001_502i1TXUsp&sr=1-1)
+[The Real Case for Driverless Mobility](https://www.audible.com/pd/The-Real-Case-for-Driverless-Mobility-Audiobook/B0D9PJY6MW?eac_link=CiwdHDwLDA9n&ref=web_search_eac_asin_1&eac_selected_type=asin&eac_selected=B0D9PJY6MW&qid=502i1TXUsp&eac_id=130-7496845-4686001_502i1TXUsp&sr=1-1)
 
 Narrated by Fred Fishkin, Available now
 
 [Published](https://www.amazon.com/Real-Case-Driverless-Mobility-Vehicles/dp/0443236852/ref=sr_1_1?crid=1XSXZ611C2JCN&keywords=Kornhauser+sena&qid=1707095108&sprefix=kornhauser+sena%2Caps%2C76&sr=8-1&ufe=app_do%3Aamzn1.fos.18ed3cb5-28d5-4975-8bc7-93deae8f9840) in
- 2024 (but still relevant)!!!  [Go
- to Amazon.com](https://www.amazon.com/Real-Case-Driverless-Mobility-Vehicles/dp/0443236852/ref=sr_1_1?crid=1XSXZ611C2JCN&keywords=Kornhauser+sena&qid=1707095108&sprefix=kornhauser+sena%2Caps%2C76&sr=8-1&ufe=app_do%3Aamzn1.fos.18ed3cb5-28d5-4975-8bc7-93deae8f9840)…
+ 2024 (but still relevant)!!!  [Go to Amazon.com](https://www.amazon.com/Real-Case-Driverless-Mobility-Vehicles/dp/0443236852/ref=sr_1_1?crid=1XSXZ611C2JCN&keywords=Kornhauser+sena&qid=1707095108&sprefix=kornhauser+sena%2Caps%2C76&sr=8-1&ufe=app_do%3Aamzn1.fos.18ed3cb5-28d5-4975-8bc7-93deae8f9840)…
 
 SmartDrivingCars
 [ZoomCast 399](https://www.youtube.com/watch?v=zDXs5tdkWtw) [/ PodCast 399](https://open.spotify.com/episode/712VLwGFrK1YEPtC2hDtkn?si=BNMml8HiTGiNDK2JP3YQlw) -
@@ -65,10 +61,8 @@ F. Fishkin, Sept. 20, “An examination of Waymo's crash reports, Morgan Stanley
 [53:25](https://www.youtube.com/watch?v=If-qkyqiM6s&t=3205s) Inside EVs: The Car Stopped Itself: Tesla Collision Avoidance
  Assist Lives Up to Its Name
 
-[](https://www.youtube.com/playlist?list=PLFwuZ9jMeu5uwfTZP00zHjP7eSpG34Hsm)[SmartDrivingCars
- ZoomCasts](https://www.youtube.com/playlist?list=PLFwuZ9jMeu5uwfTZP00zHjP7eSpG34Hsm)
+[SmartDrivingCars ZoomCasts](https://www.youtube.com/playlist?list=PLFwuZ9jMeu5uwfTZP00zHjP7eSpG34Hsm)
 
-[](https://iatr.global/iatr-2025-conference/)
 
 [Register](https://iatr.global/conference/purchase-tickets-2025-iatr-38th-annual-conference/)
 
@@ -84,8 +78,7 @@ Adam Jonas, Sept. 15,  “AI is rapidly expanding its presence. The lines betwe
 [Read more](https://www.youtube.com/watch?v=3WZNxNr7kS8)  Hmmmm…  Adam gave this talk in my class last Monday; then took questions.  What a treat for 80 minutes!
  A MUST watch.  Alain
 
-[  'The
- Car Stopped Itself': Tesla Collision Avoidance Assist Lives Up To Its Name](https://insideevs.com/news/772486/tesla-collision-avoidance-assist/)
+[  'The Car Stopped Itself': Tesla Collision Avoidance Assist Lives Up To Its Name](https://insideevs.com/news/772486/tesla-collision-avoidance-assist/)
 
 C Swiatecki, Sept. 17, Just as she was easing into a left turn at one of the busiest intersections in her city, the driver of a 2023 Tesla Model Y felt
  her car jolt to a stop, unprompted. A moment later, another vehicle flew through the red light.
@@ -107,21 +100,17 @@ When she began making a wide-angle left turn, her Tesla appeared to detect a rap
 
 [The inflection point has arrived’: Waymo’s vision for the future of mobility Share](https://www.mckinsey.com/industries/automotive-and-assembly/our-insights/the-inflection-point-has-arrived-waymos-vision-for-the-future-of-mobility?stcr=0F0B3EE1708942C0B08EF37DD4C29BB7&cid=mgp_opr-eml-alt-ain_aa-mgp-glb--&hlkid=a2ef2a962a34400cae023d4bd4290c56&hctky=9275005&hdpid=e09699da-1ca9-4e59-a58b-89566796d827)
 
-M. Coleman, Sept. 5 ,  “…At a recent McKinsey conference in California’s Carmel Valley, Waymo’s chief product officer Saswat Panigrahi, and McKinsey Partner [Emily
- Shao](https://www.mckinsey.com/our-people/emily-shao) discussed how AVs have [transformed from a niche experiment](https://www.mckinsey.com/features/mckinsey-center-for-future-mobility/our-insights/autonomous-vehicles-moving-forward-perspectives-from-industry-leaders) to a mainstream transportation
- option. Their conversation has been edited for length and clarity.….”    [Read
- more](https://www.mckinsey.com/industries/automotive-and-assembly/our-insights/the-inflection-point-has-arrived-waymos-vision-for-the-future-of-mobility?stcr=0F0B3EE1708942C0B08EF37DD4C29BB7&cid=mgp_opr-eml-alt-ain_aa-mgp-glb--&hlkid=a2ef2a962a34400cae023d4bd4290c56&hctky=9275005&hdpid=e09699da-1ca9-4e59-a58b-89566796d827)  Hmmmm…
+M. Coleman, Sept. 5 ,  “…At a recent McKinsey conference in California’s Carmel Valley, Waymo’s chief product officer Saswat Panigrahi, and McKinsey Partner [Emily Shao](https://www.mckinsey.com/our-people/emily-shao) discussed how AVs have [transformed from a niche experiment](https://www.mckinsey.com/features/mckinsey-center-for-future-mobility/our-insights/autonomous-vehicles-moving-forward-perspectives-from-industry-leaders) to a mainstream transportation
+ option. Their conversation has been edited for length and clarity.….”    [Read more](https://www.mckinsey.com/industries/automotive-and-assembly/our-insights/the-inflection-point-has-arrived-waymos-vision-for-the-future-of-mobility?stcr=0F0B3EE1708942C0B08EF37DD4C29BB7&cid=mgp_opr-eml-alt-ain_aa-mgp-glb--&hlkid=a2ef2a962a34400cae023d4bd4290c56&hctky=9275005&hdpid=e09699da-1ca9-4e59-a58b-89566796d827)  Hmmmm…
  Was all of the substance of their discussion edited out? This is embarrassingly weak.
 [C’Mon McKinsey! ](https://www.youtube.com/watch?v=AGoSfzO1vYg) Alain
 
 [Robotaxis as public transit? Waymo thinks so](https://www.theverge.com/news/780156/waymo-via-robotaxi-microtransit-chandler-flex)
 
-A. Hawkins, Sept. 18 ,  “…In Chandler, Arizona, Waymo’s robotaxis will soon join the town’s Flex microtransit service. Users book rides on [the
- Chandler Flex app](https://www.chandleraz.gov/residents/transportation/transit/chandler-flex) to be picked up by a shared vehicle and taken to their destination, often connecting to Valley Metro bus routes. Soon, users may be matched with Waymo’s fully autonomous vehicles as part of the service.
+A. Hawkins, Sept. 18 ,  “…In Chandler, Arizona, Waymo’s robotaxis will soon join the town’s Flex microtransit service. Users book rides on [the Chandler Flex app](https://www.chandleraz.gov/residents/transportation/transit/chandler-flex) to be picked up by a shared vehicle and taken to their destination, often connecting to Valley Metro bus routes. Soon, users may be matched with Waymo’s fully autonomous vehicles as part of the service.
 
 The service will run Monday through Friday, 6AM-9PM, with rides booked through Chandler Flex costing just $2 for regular riders, $1 for seniors and wheelchair
- users, and free for middle and high school kids. (Waymo recently [introduced teen accounts](https://www.theverge.com/news/699580/waymo-teen-account-phoenix) in Phoenix so kids as young as 14 can ride without their parents.)….”    [Read
- more](https://www.theverge.com/news/780156/waymo-via-robotaxi-microtransit-chandler-flex)  Hmmmm…
+ users, and free for middle and high school kids. (Waymo recently [introduced teen accounts](https://www.theverge.com/news/699580/waymo-teen-account-phoenix) in Phoenix so kids as young as 14 can ride without their parents.)….”    [Read more](https://www.theverge.com/news/780156/waymo-via-robotaxi-microtransit-chandler-flex)  Hmmmm…
  Wheelchair users for only $2??? How can Waymo do that at a cost of only $2????  That is great!!!!  Thank you, Alpha, Bet!!!!.
 
 The text did say “cost”; whoops…”cost to riders”; whoops; what does it cost Waymo to give the ride? Whoops… what does it cost Waymo to provide those
@@ -154,8 +143,7 @@ The airport market is an infinitesimally small mobility market in which neither 
  actually won very little, if anything at all  Plus, you’ve delivered zero, if not negatively contributed to, any net increase is Quality-of-life.  Sorry Waymo.  You’ve done a fabulous job of demonstrating safe driverless mobility; however, you’ve focused on
  applying that wonderful technological achievement on absolutely the wrong market… entertainment and putting hard working gig workers out of what may be one of the only jobs that they relish doing.  What a shame!  Alain
 
-[A   self-driving car traffic jam is coming
- for US cities](https://currently.att.yahoo.com/tech/transportation/articles/self-driving-car-traffic-jam-100000116.html)
+[A   self-driving car traffic jam is coming for US cities](https://currently.att.yahoo.com/tech/transportation/articles/self-driving-car-traffic-jam-100000116.html)
 
 D. Zipper, Sept. 15,  “…”
 [Read more](https://currently.att.yahoo.com/tech/transportation/articles/self-driving-car-traffic-jam-100000116.html)  Hmmmm…  I’m sorry.  This is so bad that I can’t
@@ -165,9 +153,7 @@ Alain
 
 [Uber's CEO says robotaxis could displace drivers in 10 to 15 years and create 'a big, big societal question'](https://www.businessinsider.com/uber-ceo-khosrowshahi-self-driving-car-job-loss-real-issue-2025-9#:~:text=Uber's%20CEO%20says%20robotaxis%20could,a%20big%2C%20big%20societal%20question'&text=Self-driving%20cars%20will%20likely,societal%20question%2C%22%20he%20said.)
 
-E. McKanna, Sept. 19, “The rise of [self-driving
- cars](https://www.businessinsider.com/uber-earnings-ceo-average-waymo-completes-more-trips-most-human-drivers-2025-8) could eventually cost many ride-hailing drivers their jobs — and that's a big problem, Uber CEO Dara Khosrowshahi said.….”    [Read
- more](https://www.businessinsider.com/uber-ceo-khosrowshahi-self-driving-car-job-loss-real-issue-2025-9#:~:text=Uber's%20CEO%20says%20robotaxis%20could,a%20big%2C%20big%20societal%20question'&text=Self-driving%20cars%20will%20likely,societal%20question%2C%22%20he%20said.)  Hmmmm…
+E. McKanna, Sept. 19, “The rise of [self-driving cars](https://www.businessinsider.com/uber-earnings-ceo-average-waymo-completes-more-trips-most-human-drivers-2025-8) could eventually cost many ride-hailing drivers their jobs — and that's a big problem, Uber CEO Dara Khosrowshahi said.….”    [Read more](https://www.businessinsider.com/uber-ceo-khosrowshahi-self-driving-car-job-loss-real-issue-2025-9#:~:text=Uber's%20CEO%20says%20robotaxis%20could,a%20big%2C%20big%20societal%20question'&text=Self-driving%20cars%20will%20likely,societal%20question%2C%22%20he%20said.)  Hmmmm…
  Dara has a serious problem.  He knows that he can’t compete with “Waymo,” so his gig workers suffer the eventual consequences of being priced out of the market..  He also knows that he can’t abandon those gig workers and go driverless,  because the change-over
  can’t be realized fast enough.  Either way his gig workers who have “worked for close to nothing” are thrown under the bus and the downfall can’t be pretty.  No downfall of this magnitude is ever pretty.  That’s capitalism.  Alain
 

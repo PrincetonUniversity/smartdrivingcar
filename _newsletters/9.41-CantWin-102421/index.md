@@ -21,11 +21,7 @@ October 24,
 
 ###
 
-### [Amazon's self-driving cars are coming to downtown
-                                                          Seattle.
-                                                          Safety
-                                                          advocates are
-                                                          not pleased](https://www.seattletimes.com/business/amazon/amazons-self-driving-cars-are-coming-to-downtown-seattle-safety-advocates-are-not-pleased/)
+### [Amazon's self-driving cars are coming to downtown Seattle. Safety advocates are not pleased](https://www.seattletimes.com/business/amazon/amazons-self-driving-cars-are-coming-to-downtown-seattle-safety-advocates-are-not-pleased/)
 
                                                           K. Long,  Oct
                                                           19, "... But
@@ -63,8 +59,7 @@ transportation-safety advocates. The early promise of the technology,
                                                           Alain
 
 ### SmartDrivingCars
-                                                          [Pod-Cast Episode 238](https://anchor.fm/smartdrivingcars/episodes/Smart-Driving-Cars-Episode-238-Futurist--Author-Chunka-Mui-e1949gd)[,](https://soundcloud.com/smartdrivingcar/smart-driving-cars-230-with-tim-higgins-author-of-power-play) [Zoom-Cast
-                                                          Episode 238](https://www.youtube.com/watch?v=xFegxpeq0Gk) w/Chunk Mui,
+                                                          [Pod-Cast Episode 238](https://anchor.fm/smartdrivingcars/episodes/Smart-Driving-Cars-Episode-238-Futurist--Author-Chunka-Mui-e1949gd)[,](https://soundcloud.com/smartdrivingcar/smart-driving-cars-230-with-tim-higgins-author-of-power-play) [Zoom-Cast Episode 238](https://www.youtube.com/watch?v=xFegxpeq0Gk) w/Chunk Mui,
                                                           Futurist
 
 ###
@@ -74,14 +69,7 @@ transportation-safety advocates. The early promise of the technology,
 F.
                                                           Fishkin,Oct
                                                           18, "With his
-                                                          new book "[A
-                                                          Brief History
-                                                          of a Perfect
-                                                          Future..Inventing
-                                                          the World We
-                                                          Can Proudly
-                                                          Leave Our Kids
-                                                          by 2050](https://www.amazon.com/Brief-History-Perfect-Future-Inventing/dp/B09J6YK1YW/ref=sr_1_1?crid=1K07BXDCCIUYE&dchild=1&keywords=chunka+mui&qid=1635109022&qsid=138-7445338-7334933&s=books&sprefix=chunka+mui%2Caps%2C189&sr=1-1&sres=0989242048%2C1591842891%2C0989242013%2CB00C4D43K4%2CB001G0KBR0%2C1578512611%2C1781256179%2C8576842904%2C3822815667%2CB00G0ADGX2%2C9506412901%2C157851262X%2CB0716D8MLV)",
+                                                          new book "[A Brief History of a Perfect Future..Inventing the World We Can Proudly Leave Our Kids by 2050](https://www.amazon.com/Brief-History-Perfect-Future-Inventing/dp/B09J6YK1YW/ref=sr_1_1?crid=1K07BXDCCIUYE&dchild=1&keywords=chunka+mui&qid=1635109022&qsid=138-7445338-7334933&s=books&sprefix=chunka+mui%2Caps%2C189&sr=1-1&sres=0989242048%2C1591842891%2C0989242013%2CB00C4D43K4%2CB001G0KBR0%2C1578512611%2C1781256179%2C8576842904%2C3822815667%2CB00G0ADGX2%2C9506412901%2C157851262X%2CB0716D8MLV)",
                                                           author and
                                                           futurist
                                                           Chunka Mui
@@ -154,13 +142,7 @@ F.
 
 ###
 
-### [Tesla
-                                                          fans cry foul
-                                                          as Biden
-                                                          administration
-                                                          moves toward
-                                                          Autopilot
-                                                          regulations](https://www.cnn.com/2021/10/22/cars/tesla-missy-cummings/index.html)
+### [Tesla fans cry foul as Biden administration moves toward Autopilot regulations](https://www.cnn.com/2021/10/22/cars/tesla-missy-cummings/index.html)
 
 M.
                                                           McFarland,Oct.
@@ -237,24 +219,8 @@ Congratulations, Professor Cummings.  Hopefully you'll help make AEB
                                                           (See below)
 
 Here
-                                                          is what [Dirty
-                                                          Tesla](https://www.youtube.com/channel/UCaBOIBVD_f6eyRRRBRrCz8w)
-                                                          posts..."[It
-                                                          seems some
-                                                          people are
-                                                          getting AEB on
-                                                          the highway 😬
-                                                          if using
-                                                          V10.3, turn
-                                                          off AEB in the
-                                                          settings. You
-                                                          must do this
-                                                          before the
-                                                          start of every
-                                                          drive.
-                                                          Rollback
-                                                          should happen
-                                                          soon](https://www.youtube.com/watch?v=7FfEjTtgoWA)"
+                                                          is what [Dirty Tesla](https://www.youtube.com/channel/UCaBOIBVD_f6eyRRRBRrCz8w)
+                                                          posts..."[It seems some people are getting AEB on the highway 😬 if using V10.3, turn off AEB in the settings. You must do this before the start of every drive. Rollback should happen soon](https://www.youtube.com/watch?v=7FfEjTtgoWA)"
 
 No wonder Teslas are crashing into stationary
                                                           objects...
@@ -294,14 +260,12 @@ No wonder Teslas are crashing into stationary
                                                           automated
                                                           driving system
                                                           be driving.
-                                                          Plus, If [Dirty
-                                                          Tesla](https://www.youtube.com/channel/UCaBOIBVD_f6eyRRRBRrCz8w)
+                                                          Plus, If [Dirty Tesla](https://www.youtube.com/channel/UCaBOIBVD_f6eyRRRBRrCz8w)
                                                           recommends
                                                           actions that
                                                           lead to bad
                                                           outcomes, can
-                                                          [Dirty
-                                                          Tesla](https://www.youtube.com/channel/UCaBOIBVD_f6eyRRRBRrCz8w)
+                                                          [Dirty Tesla](https://www.youtube.com/channel/UCaBOIBVD_f6eyRRRBRrCz8w)
                                                           be dragged
                                                           into the
                                                           subsequent
@@ -329,14 +293,10 @@ Missy/NHTSA you MUST force Tesla to at least disengage
                                                           pretty sight.
 
 In all of these Tesla crashes with stationary object...
-                                                          [truck trailer
-                                                          stalled across
-                                                          lanes ahead](https://electrek.co/2021/03/16/tesla-under-scrutiny-feds-again-over-crash-semi-truck/),
-                                                          [parked
-                                                          fire truck](https://www.caranddriver.com/news/a30474504/nhtsa-indiana-tesla-model-3-crash-fire-truck/),
+                                                          [truck trailer stalled across lanes ahead](https://electrek.co/2021/03/16/tesla-under-scrutiny-feds-again-over-crash-semi-truck/),
+                                                          [parked fire truck](https://www.caranddriver.com/news/a30474504/nhtsa-indiana-tesla-model-3-crash-fire-truck/),
                                                           [emergency vehicle](https://www.entrepreneur.com/article/382650),
-                                                          [police
-                                                          car](https://www.cnn.com/2021/08/30/business/tesla-crash-police-car/index.html), [tree](https://www.youtube.com/watch?v=uitcohyo87c), ... was it
+                                                          [police car](https://www.cnn.com/2021/08/30/business/tesla-crash-police-car/index.html), [tree](https://www.youtube.com/watch?v=uitcohyo87c), ... was it
                                                           the AEB that
                                                           failed to work
                                                           properly? Or
@@ -400,13 +360,7 @@ Missy/NHTSA,
                                                           irresponsible
                                                           of Tesla.   Alain
 
-### [Lyft's
-                                                          first-ever
-                                                          safety report
-                                                          reveals over
-                                                          4,000 assaults
-                                                          between
-                                                          2017-2019](https://www.theverge.com/2021/10/22/22740609/lyft-safety-report-2017-2019-physical-sexual-assault-death)
+### [Lyft's first-ever safety report reveals over 4,000 assaults between 2017-2019](https://www.theverge.com/2021/10/22/22740609/lyft-safety-report-2017-2019-physical-sexual-assault-death)
 
                                                           A. Hawkins,
                                                           Oct 22, "Ten
@@ -422,8 +376,7 @@ Missy/NHTSA,
                                                           2017-2019, the
                                                           company
                                                           revealed in
-                                                          its [first-ever
-                                                          safety report](https://assets.ctfassets.net/q8mvene1wzq4/4jxkFTH5YCQK8T96STULMd/4269e14dbcb8578ff64da45df08b8147/Community_Safety_Report.pdf).
+                                                          its [first-ever safety report](https://assets.ctfassets.net/q8mvene1wzq4/4jxkFTH5YCQK8T96STULMd/4269e14dbcb8578ff64da45df08b8147/Community_Safety_Report.pdf).
                                                           Also during
                                                           that period,
                                                           105 people
@@ -537,19 +490,12 @@ While
 
 ###
 
-### ['Driverless'
-                                                          Tesla crash in
-                                                          Texas wasn't
-                                                          actually
-                                                          driverless,
-                                                          NTSB says](https://www.theverge.com/2021/10/21/22738834/tesla-crash-texas-driver-seat-occupied-ntsb)
+### ['Driverless' Tesla crash in Texas wasn't actually driverless, NTSB says](https://www.theverge.com/2021/10/21/22738834/tesla-crash-texas-driver-seat-occupied-ntsb)
 
                                                           A. Hawkins,
                                                           Oct 22, "Now,
                                                           the agency has
-                                                          released a[new
-                                                          preliminary
-                                                          report](https://www.ntsb.gov/investigations/Pages/HWY21FH007.aspx)
+                                                          released a[new preliminary report](https://www.ntsb.gov/investigations/Pages/HWY21FH007.aspx)
                                                           further
                                                           refuting the
                                                           claim that the
@@ -562,8 +508,7 @@ While
 
 With the
                                                           assistance of
-                                                          the [event
-                                                          data recorder]
+                                                          the [event data recorder]
                                                           module
                                                           manufacturer,
                                                           the NTSB
@@ -608,11 +553,8 @@ With the
                                                           leading up to
                                                           the crash was
                                                           67 mph.,"..."
-                                                          [Read
-                                                          more](https://www.theverge.com/2021/10/21/22738834/tesla-crash-texas-driver-seat-occupied-ntsb) Hmmmm...
-                                                          Read the[NTSN
-                                                          Preliminary
-                                                          Report](https://www.ntsb.gov/investigations/Pages/HWY21FH007.aspx).
+                                                          [Read more](https://www.theverge.com/2021/10/21/22738834/tesla-crash-texas-driver-seat-occupied-ntsb) Hmmmm...
+                                                          Read the[NTSN Preliminary Report](https://www.ntsb.gov/investigations/Pages/HWY21FH007.aspx).
                                                           The question
                                                           still
                                                           remains.   Why
@@ -646,9 +588,7 @@ With the
                                                           these things.
                                                           Alain
 
-### [Zoox
-                                                          Isn't Afraid
-                                                          Of Getting Wet](https://jalopnik.com/zoox-isnt-afraid-of-getting-wet-1847888432)
+### [Zoox Isn't Afraid Of Getting Wet](https://jalopnik.com/zoox-isnt-afraid-of-getting-wet-1847888432)
 
 E.
                                                           Shilling, Oct.
@@ -710,8 +650,7 @@ E.
                                                           but Toyota
                                                           Highlanders
                                                           equipped with
-                                                          Zoox tech, [according
-                                                          to Bloomberg](https://www.autonews.com/mobility-report/why-zooxs-av-unit-expanding-testing-seattle?utm_source=dlvr.it&utm_medium=twitter).
+                                                          Zoox tech, [according to Bloomberg](https://www.autonews.com/mobility-report/why-zooxs-av-unit-expanding-testing-seattle?utm_source=dlvr.it&utm_medium=twitter).
                                                           The testing
                                                           will
                                                           complement
@@ -833,21 +772,11 @@ Zoox, nor anyone else, has ever
                                                           done.  Look at
                                                           what happens
                                                           in Atlanta...
-[Incredible
-                                                          Images Of
-                                                          Atlanta
-                                                          Essentially
-                                                          Shutting Down
-                                                          After 2 Inches
-                                                          Of Snow](https://www.buzzfeednews.com/article/alisonvingiano/incredible-images-of-atlanta-essentially-shutting-down-after)
+[Incredible Images Of Atlanta Essentially Shutting Down After 2 Inches Of Snow](https://www.buzzfeednews.com/article/alisonvingiano/incredible-images-of-atlanta-essentially-shutting-down-after)
                                                           Cut it out.
                                                           Alain
 
-### [Plug-in cars
-                                                          are the
-                                                          future. The
-                                                          grid isn't
-                                                          ready.](https://www.washingtonpost.com/business/2021/10/13/electric-vehicles-grid-upgrade/)
+### [Plug-in cars are the future. The grid isn't ready.](https://www.washingtonpost.com/business/2021/10/13/electric-vehicles-grid-upgrade/)
 
 W. Englund,
                                                           Oct 13, " On a
@@ -993,9 +922,7 @@ Seventy-four
                                                           and
                                                           quality-of-life.
 
-Again, just look at today's [Lawrence
-                                                          Livermore
-                                                          Energy Chart](https://flowcharts.llnl.gov/content/assets/images/energy/us/Energy_US_2020.png).
+Again, just look at today's [Lawrence Livermore Energy Chart](https://flowcharts.llnl.gov/content/assets/images/energy/us/Energy_US_2020.png).
                                                           The transport
                                                           sector
                                                           consumes a
@@ -1182,9 +1109,7 @@ The study
                                                           more Hmmmm... I encourage you to help out
                                                           here.  Alain
 
-### [GM's
-                                                          Postcard from
-                                                          Fantasyland](https://www.linkedin.com/pulse/gms-postcard-from-fantasyland-roger-c-lanctot/?trackingId=OWU80QlSfSyY5usDmG75yQ%3D%3D)
+### [GM's Postcard from Fantasyland](https://www.linkedin.com/pulse/gms-postcard-from-fantasyland-roger-c-lanctot/?trackingId=OWU80QlSfSyY5usDmG75yQ%3D%3D)
 
 R. Lanctot,
                                                           Oct. 22, "In
@@ -1282,13 +1207,9 @@ R. Lanctot,
                                                           to accelerate
                                                           customer
                                                           compensation.)...
-                                                          "  [Read
-                                                          more](https://www.linkedin.com/pulse/gms-postcard-from-fantasyland-roger-c-lanctot/?trackingId=OWU80QlSfSyY5usDmG75yQ%3D%3D) Hmmmm... Nothing is easy.  Alain
+                                                          "  [Read more](https://www.linkedin.com/pulse/gms-postcard-from-fantasyland-roger-c-lanctot/?trackingId=OWU80QlSfSyY5usDmG75yQ%3D%3D) Hmmmm... Nothing is easy.  Alain
 
-### [SoftBank-Backed
-                                                          Flock Freight
-                                                          Raises $215
-                                                          Million](https://www.wsj.com/articles/softbank-backed-flock-freight-raises-215-million-11634724001?mod=hp_minor_pos13)
+### [SoftBank-Backed Flock Freight Raises $215 Million](https://www.wsj.com/articles/softbank-backed-flock-freight-raises-215-million-11634724001?mod=hp_minor_pos13)
 
 L. O'Neal,
                                                           Oct. 20,
@@ -1332,14 +1253,7 @@ shipment-pooling algorithm and machine-learning technology, upping the
                                                           at using OPM.
                                                           Alain
 
-### [Critics
-                                                          and supporters
-                                                          come out in
-                                                          force to
-                                                          discuss
-                                                          SpaceX's plans
-                                                          to launch from
-                                                          South Texas](https://www.theverge.com/2021/10/21/22738106/spacex-boca-chica-starship-launch-site-faa-town-hall-environmental-assessment)
+### [Critics and supporters come out in force to discuss SpaceX's plans to launch from South Texas](https://www.theverge.com/2021/10/21/22738106/spacex-boca-chica-starship-launch-site-faa-town-hall-environmental-assessment)
 
                                                           L. Grush,
                                                           Oct. 21, "This
@@ -1450,8 +1364,7 @@ shipment-pooling algorithm and machine-learning technology, upping the
                                                           were also a
                                                           big point of
                                                           contention...."
-                                                          [Read
-                                                          more](https://www.theverge.com/2021/10/21/22738106/spacex-boca-chica-starship-launch-site-faa-town-hall-environmental-assessment) As
+                                                          [Read more](https://www.theverge.com/2021/10/21/22738106/spacex-boca-chica-starship-launch-site-faa-town-hall-environmental-assessment) As
                                                           ZooX and Missy
                                                           are finding,
                                                           even Elon's
@@ -1459,14 +1372,7 @@ shipment-pooling algorithm and machine-learning technology, upping the
                                                           is under
                                                           attack.  Alain
 
-### [Tesla
-                                                          Notches Record
-                                                          $1.6 Billion
-                                                          Quarterly Net
-                                                          As It Readies
-                                                          Global
-                                                          Production
-                                                          Push](https://www.forbes.com/sites/alanohnsman/2021/10/20/tesla-posts-record-16-billion-quarterly-net-as-it-readies-global-production-push/?sh=731056551285)
+### [Tesla Notches Record $1.6 Billion Quarterly Net As It Readies Global Production Push](https://www.forbes.com/sites/alanohnsman/2021/10/20/tesla-posts-record-16-billion-quarterly-net-as-it-readies-global-production-push/?sh=731056551285)
 
 A. Ohnsman,
                                                           Oct. 20,
@@ -1537,14 +1443,7 @@ The company
                                                           30% to $279
                                                           million..."  [Read more](https://www.forbes.com/sites/alanohnsman/2021/10/20/tesla-posts-record-16-billion-quarterly-net-as-it-readies-global-production-push/?sh=731056551285) Hmmmm... Not bad! Alain
 
-### [Opinion:
-                                                          I lead
-                                                          America's
-                                                          top-ranked
-                                                          university.
-                                                          Here's why
-                                                          these rankings
-                                                          are a problem.](https://www.washingtonpost.com/opinions/2021/10/21/i-lead-americas-top-ranked-university-heres-why-these-rankings-are-problem/)
+### [Opinion: I lead America's top-ranked university. Here's why these rankings are a problem.](https://www.washingtonpost.com/opinions/2021/10/21/i-lead-americas-top-ranked-university-heres-why-these-rankings-are-problem/)
 
 C.
                                                           Eisgruber,
@@ -1564,17 +1463,7 @@ C.
                                                           of the
                                                           list...."  [Read more](https://www.washingtonpost.com/opinions/2021/10/21/i-lead-americas-top-ranked-university-heres-why-these-rankings-are-problem/) Hmmmm... 😎 Alain
 
-### [5th
-                                                          Annual
-                                                          SmartDrivingCars
-                                                          Summit:
-                                                          Deployment of
-                                                          Equitable
-                                                          Affordable,
-                                                          High Quality
-                                                          Mobility
-                                                          throughout New
-                                                          Jersey](https://www.cartsmobility.com/summit)
+### [5th Annual SmartDrivingCars Summit: Deployment of Equitable Affordable, High Quality Mobility throughout New Jersey](https://www.cartsmobility.com/summit)
 
 Date Change:   Thursday evening, May 5,
                                                           through
@@ -1642,8 +1531,7 @@ By
                                                           throughout New
                                                           Jersey.
 
-                                                          In May the [5th
-                                                          Summit](https://www.cartsmobility.com/summit)
+                                                          In May the [5th Summit](https://www.cartsmobility.com/summit)
                                                           can better
                                                           achieve its
                                                           fundamental
@@ -1700,13 +1588,7 @@ Please
                                                           pencil into
                                                           your calendar
                                                           the new dates
-                                                          of  [May 5
-                                                          (Thursday
-                                                          evening)
-                                                          though May 7 (Trenton
-                                                          Mobility
-                                                          Festival
-                                                          Saturday](https://www.cartsmobility.com/summit)).
+                                                          of  [May 5 (Thursday evening) though May 7 (Trenton Mobility Festival Saturday](https://www.cartsmobility.com/summit)).
                                                           😎   Please
                                                           let me know if
                                                           these dates
@@ -1859,9 +1741,7 @@ benefit under-served communities. Communities with many households
                                                           alternatives.
                                                           We concluded
                                                           the 4th Summit
-                                                          by [envisioning a deployment
-                                                          throughout
-                                                          Trenton, NJ](https://www.dropbox.com/s/akvl1klaz3jlgjf/041521_Making%20it%20Happen%20Part%202.pptx),
+                                                          by [envisioning a deployment throughout Trenton, NJ](https://www.dropbox.com/s/akvl1klaz3jlgjf/041521_Making%20it%20Happen%20Part%202.pptx),
                                                           a community
                                                           where 70% of
                                                           the households
@@ -1926,8 +1806,7 @@ The
                                                           the residents
                                                           of Trenton and
                                                           all New
-                                                          Jersians. The [5th
-                                                          Summit](https://www.cartsmobility.com/summit) will
+                                                          Jersians. The [5th Summit](https://www.cartsmobility.com/summit) will
                                                           focus directly
                                                           on [deployment](https://www.dropbox.com/s/akvl1klaz3jlgjf/041521_Making%20it%20Happen%20Part%202.pptx)[in Trenton](https://www.dropbox.com/s/akvl1klaz3jlgjf/041521_Making%20it%20Happen%20Part%202.pptx) and will take
                                                           place in
@@ -1993,14 +1872,9 @@ The
                                                           Mercer County
                                                           and the rest
                                                           of New Jersey
-                                                          on Saturday.  [Link
-                                                          to Sponsorship
-                                                          Opportunities](https://www.cartsmobility.com/summit-sponsorship) [Link
-                                                          to Draft
-                                                          Program](https://www.cartsmobility.com/summit)  [Link to Registration](https://www.eventbrite.com/e/5th-annual-princeton-smartdrivingcars-summit-trenton-nj-tickets-179506979207)
+                                                          on Saturday.  [Link to Sponsorship Opportunities](https://www.cartsmobility.com/summit-sponsorship) [Link to Draft Program](https://www.cartsmobility.com/summit)  [Link to Registration](https://www.eventbrite.com/e/5th-annual-princeton-smartdrivingcars-summit-trenton-nj-tickets-179506979207)
 
-## [C'mon
-                                                          Man!](https://www.youtube.com/watch?v=bnXl32ICWjQ)(These folks didn't get/read the memo)
+## [C'mon Man!](https://www.youtube.com/watch?v=bnXl32ICWjQ)(These folks didn't get/read the memo)
 
 ## Sunday Supplement
 
@@ -2010,9 +1884,7 @@ The
 
 ## More On....
 
-### Re-see:    [Pop
-                                                          Up Metro USA
-                                                          Intro 09 2020](https://www.youtube.com/watch?v=rFyRcbL6-N8)
+### Re-see:    [Pop Up Metro USA Intro 09 2020](https://www.youtube.com/watch?v=rFyRcbL6-N8)
 
 H.
                                                           Poser'77, Sept
@@ -2026,7 +1898,7 @@ H.
                                                           Brilliant.
                                                           Alain
 
-   [4th](https://orfe.princeton.edu/conferences/sdc/session/20210128)[Annual Princeton](https://orfe.princeton.edu/conferences/sdc/session/20210128)[](https://orfe.princeton.edu/conferences/sdc/session/20210128)SmartDrivingCar Summit  [It is over!!!](https://orfe.princeton.edu/conferences/sdc/session/20210325) Now
+   [4th](https://orfe.princeton.edu/conferences/sdc/session/20210128)[Annual Princeton](https://orfe.princeton.edu/conferences/sdc/session/20210128)SmartDrivingCar Summit  [It is over!!!](https://orfe.princeton.edu/conferences/sdc/session/20210325) Now
                                                           time to
                                                           actually do
                                                           something in
@@ -2034,8 +1906,7 @@ H.
                                                           of this
                                                           world.
 
-### [Making Driverless Happen: The Road Forward
-                                                          (Updated)](https://viodi.com/2021/04/18/making-driverless-happen-the-road-forward/)
+### [Making Driverless Happen: The Road Forward (Updated)](https://viodi.com/2021/04/18/making-driverless-happen-the-road-forward/)
 
                                                           K. Pyle, April
                                                           18, "It's time
@@ -2049,8 +1920,7 @@ H.
                                                           Fiskin, along
                                                           with the LA
                                                           Times' [Russ Mitchell](https://twitter.com/russ1mitchell?lang=en) co-produced the final session
-                                                          of the [2021 Smart Driving Car Summit, Making It Happen:
-                                                          Part 2](https://orfe.princeton.edu/conferences/sdc/session/20210415).
+                                                          of the [2021 Smart Driving Car Summit, Making It Happen: Part 2](https://orfe.princeton.edu/conferences/sdc/session/20210415).
                                                           This 16th and
                                                           final session
                                                           in this
@@ -2109,76 +1979,35 @@ H.
 [Ken Pyle](https://viodi.com/author/Ken/)'s Session Summaries of 4th Princeton
 SmartDrivingCar Summit:
 
-[15th Session    Making it Happen -
-                                                          Part One:
-                                                          Elected
-                                                          Officials'
-                                                          Role in
-                                                          Creating a
-                                                          Welcoming
-                                                          Environment in
-                                                          the Trentons
-                                                          of this World](https://viodi.com/2021/04/10/driverless-lessons-from-the-sunshine-state-to-the-garden-state/)
+[15th Session    Making it Happen - Part One: Elected Officials' Role in Creating a Welcoming Environment in the Trentons of this World](https://viodi.com/2021/04/10/driverless-lessons-from-the-sunshine-state-to-the-garden-state/)
 
-[14th Session    What Will Power
-                                                          Safely-driven
-                                                          Cars](https://viodi.com/2021/04/06/energizing-tomorrows-electric-drivetrains/#energy-sources-flexibility-resilience-and-independence-are-critical)
+[14th Session    What Will Power Safely-driven Cars](https://viodi.com/2021/04/06/energizing-tomorrows-electric-drivetrains/#energy-sources-flexibility-resilience-and-independence-are-critical)
 
-[13th Session    Improving the Moving
-                                                          of Goods](https://viodi.com/2021/03/31/driving-towards-better-goods-delivery-through-automation/)
+[13th Session    Improving the Moving of Goods](https://viodi.com/2021/03/31/driving-towards-better-goods-delivery-through-automation/)
 
-[12th Session    3/18/21
-                                                          Human-centered
-                                                          Design of Safe
-                                                          and Affordable
-                                                          Driverless
-                                                          Mobility](https://viodi.com/2021/03/20/empathy-trust-human-centric-autonomous-mobility-design/)
+[12th Session    3/18/21 Human-centered Design of Safe and Affordable Driverless Mobility](https://viodi.com/2021/03/20/empathy-trust-human-centric-autonomous-mobility-design/)
 
-[11th Session    3/11/21
-                                                          Incentivizing
-                                                          Through
-                                                          Regulation](https://viodi.com/2021/03/13/safety-first-at-the-fully-smart-driving-car-summit/)
+[11th Session    3/11/21 Incentivizing Through Regulation](https://viodi.com/2021/03/13/safety-first-at-the-fully-smart-driving-car-summit/)
 
-[10th Session    3/04/21
-                                                          Incentivizing
-                                                          Through
-                                                          Insurance](https://viodi.com/2021/03/05/automated-driving-technologies-driving-change-in-insurance/)
+[10th Session    3/04/21 Incentivizing Through Insurance](https://viodi.com/2021/03/05/automated-driving-technologies-driving-change-in-insurance/)
 
-[9th Session    2/25/21  Can Level 3
-                                                          be Delivered?](https://viodi.com/2021/02/26/level-3-the-tech-is-here-but-the-problem-is-us/#talking-about-the-vehicles-people-can-buy)
+[9th Session    2/25/21  Can Level 3 be Delivered?](https://viodi.com/2021/02/26/level-3-the-tech-is-here-but-the-problem-is-us/#talking-about-the-vehicles-people-can-buy)
 
-[8th Session    2/18/21  Who Will
-                                                          Build, Sell
-                                                          and Maintain
-                                                          Driverless
-                                                          Cars?](https://viodi.com/2021/02/20/to-own-or-to-use-driverless-that-is-the-question/)
+[8th Session    2/18/21  Who Will Build, Sell and Maintain Driverless Cars?](https://viodi.com/2021/02/20/to-own-or-to-use-driverless-that-is-the-question/)
 
     [Michael Sena's Slides](https://www.dropbox.com/s/yfzscinfy41vrka/Sena_Session8%20SDC_Summit.pdf?dl=0), [Glenn Mercer Slides](https://www.dropbox.com/s/8x4sd97vrifa9r9/Mercer_Session8%20SDC_Summit.pdf?dl=0)
 
-[7th Session    2/11/21  Finally
-                                                          Doing It](https://viodi.com/2021/02/13/memories-of-the-past-reflect-the-future-of-driverless/)
+[7th Session    2/11/21  Finally Doing It](https://viodi.com/2021/02/13/memories-of-the-past-reflect-the-future-of-driverless/)
 
-[6th Session    2/ 4/21   Safe Enough
-                                                          in the
-                                                          Operational
-                                                          Design Domain](https://viodi.com/2021/02/05/a-culture-of-safety-is-av-table-stakes/)
+[6th Session    2/ 4/21   Safe Enough in the Operational Design Domain](https://viodi.com/2021/02/05/a-culture-of-safety-is-av-table-stakes/)
 
 [5th Session    1/28/21   At the Tipping Point](https://viodi.com/2021/01/28/a-tipping-point-or-a-fork-in-the-road/)
 
-[4th
-                                                          Session
-                                                          1/21/21  Why
-                                                          Customers are
-                                                          Buying Them](https://viodi.com/2021/02/10/viodi-view-02-10-21/#safety-in-the-showroom-the-dispatcher)
+[4th Session 1/21/21  Why Customers are Buying Them](https://viodi.com/2021/02/10/viodi-view-02-10-21/#safety-in-the-showroom-the-dispatcher)
 
-[3rd Session    1/14/21
-                                                          The
-                                                          SmartDrivingCars
-                                                          We Can Buy
-                                                          Today](https://viodi.com/2021/01/16/where-are-we-on-the-road-to-safe-driving/)
+[3rd Session    1/14/21 The SmartDrivingCars We Can Buy Today](https://viodi.com/2021/01/16/where-are-we-on-the-road-to-safe-driving/)
 
-[2nd Session](https://viodi.com/2021/01/08/whats-the-vision-for-the-smart-driving-future/)[1/ 7/21  A Look into the
-                                                          Future](https://viodi.com/2021/01/08/whats-the-vision-for-the-smart-driving-future/)[](https://www.youtube.com/watch?v=pCc9N8o1dys&feature=youtu.be)[1st Session:](https://www.youtube.com/watch?v=pCc9N8o1dys&feature=youtu.be)[](https://www.youtube.com/watch?v=pCc9N8o1dys&feature=youtu.be)[12/17/20](https://www.youtube.com/watch?v=pCc9N8o1dys&feature=youtu.be)[Setting the Stage](https://www.youtube.com/watch?v=pCc9N8o1dys&feature=youtu.be)[](https://www.dropbox.com/s/akvl1klaz3jlgjf/041521_Making%20it%20Happen%20Part%202.pptx)
+[2nd Session](https://viodi.com/2021/01/08/whats-the-vision-for-the-smart-driving-future/)[1/ 7/21  A Look into the Future](https://viodi.com/2021/01/08/whats-the-vision-for-the-smart-driving-future/)[1st Session:](https://www.youtube.com/watch?v=pCc9N8o1dys&feature=youtu.be)[12/17/20](https://www.youtube.com/watch?v=pCc9N8o1dys&feature=youtu.be)[Setting the Stage](https://www.youtube.com/watch?v=pCc9N8o1dys&feature=youtu.be)
 
 [Kornhauser & He, April 2021](https://www.dropbox.com/s/akvl1klaz3jlgjf/041521_Making%20it%20Happen%20Part%202.pptx)"Making
                                                           it Happen:
@@ -2192,17 +2021,8 @@ SmartDrivingCar Summit:
                                                           "Trentons" of
                                                           this World"
 
-Orf467F20_FinalReport "[Analyzing
-                                                          Ride-Share
-                                                          Potential and
-                                                          Empty
-                                                          Repositioning
-                                                          Requirements
-                                                          of a
-                                                          Nationwide
-                                                          aTaxi System](https://www.dropbox.com/s/custfytlu31kca7/Orf467F20Nationwide_aTaxiFinalReportCompilaation.pdf)"
-Kornhauser & He, March 2021 ["AV 101 + Trenton Affordable HQ Mobility
-                                                          Initiative"](https://www.dropbox.com/s/bzbpvbddgnyb79r/032021_AutomatedVehicleTechnologiesODD%2BTrenton_Alain_Jerry.pptx?dl=0)
+Orf467F20_FinalReport "[Analyzing Ride-Share Potential and Empty Repositioning Requirements of a Nationwide aTaxi System](https://www.dropbox.com/s/custfytlu31kca7/Orf467F20Nationwide_aTaxiFinalReportCompilaation.pdf)"
+Kornhauser & He, March 2021 ["AV 101 + Trenton Affordable HQ Mobility Initiative"](https://www.dropbox.com/s/bzbpvbddgnyb79r/032021_AutomatedVehicleTechnologiesODD%2BTrenton_Alain_Jerry.pptx?dl=0)
 
 ###
 
@@ -2213,137 +2033,16 @@ Kornhauser & He, March 2021 ["AV 101 + Trenton Affordable HQ Mobility
                                                           Princeton  SmartDrivingCar
                                                           Summit
 
-[Spring
-                                                          2022](https://www.cartsmobility.com/summit)
-[](https://www.cartsmobility.com/summit)[](https://www.cartsmobility.com/summit)[](https://www.cartsmobility.com/summit)
-[Thursday (evening), May 5, Welcome
-                                                          Reception](https://www.cartsmobility.com/summit) [(Registration
-                                                          required)](https://www.eventbrite.com/e/5th-annual-princeton-smartdrivingcars-summit-trenton-nj-tickets-179506979207)
+[Spring 2022](https://www.cartsmobility.com/summit)
 
-[Friday, May 6, Equitable Mobility
-                                                          Innovation
-                                                          Forum](https://www.cartsmobility.com/summit) [(Registration
-                                                          required)](https://www.eventbrite.com/e/5th-annual-princeton-smartdrivingcars-summit-trenton-nj-tickets-179506979207)
+[Thursday (evening), May 5, Welcome Reception](https://www.cartsmobility.com/summit) [(Registration required)](https://www.eventbrite.com/e/5th-annual-princeton-smartdrivingcars-summit-trenton-nj-tickets-179506979207)
 
-[Saturday, May 7, Equitable Mobility
-                                                          Festival](https://www.cartsmobility.com/summit) (Open
+[Friday, May 6, Equitable Mobility Innovation Forum](https://www.cartsmobility.com/summit) [(Registration required)](https://www.eventbrite.com/e/5th-annual-princeton-smartdrivingcars-summit-trenton-nj-tickets-179506979207)
+
+[Saturday, May 7, Equitable Mobility Festival](https://www.cartsmobility.com/summit) (Open
                                                           to All)
 
-[](5th Annual SmartDrivingCars Summit:
-                                                          Deployment of
-                                                          Equitable
-                                                          Affordable,
-                                                          High Quality
-                                                          Mobility
-                                                          throughout New
-                                                          Jersey,,Date
-                                                          Change:
-                                                          Thursday
-                                                          evening, May
-                                                          5, through
-                                                          Saturday May
-                                                          7, 2022. Live
-                                                          in Trenton,
-                                                          New Jersey. ,,
-&quot;Everything&quot; was going well wrt the 5th Summit Nov 18->20;
-                                                          however...,,
-                                                          Time is very
-                                                          short, we must
-                                                          focus on the
-                                                          election and
-                                                          the realities
-                                                          of where we
-                                                          remain with
-                                                          Covid really
-                                                          put cold water
-                                                          on some
-                                                          aspects of our
-                                                          vision for
-                                                          November.,,
-                                                          Consequently.
-                                                          I've become
-                                                          convinced that
-                                                          it is very
-                                                          much better,
-                                                          that we take
-                                                          our time and
-                                                          reschedule for
-                                                          the first week
-                                                          on May 2022
-                                                          rather than
-                                                          rush for what
-                                                          isn't as good
-                                                          as could be.
-                                                          ,, By May we
-                                                          will have
-                                                          received
-                                                          responses to
-                                                          our upcoming
-                                                          RfI for
-                                                          &quot;Equitable
-                                                          ... Mobility
-                                                          in
-                                                          Trenton&quot;.
-                                                          We will thus
-                                                          have a better
-                                                          idea on
-                                                          &quot;Who&quot;,
-                                                          from the
-                                                          &quot;What
-                                                          &
-                                                          How&quot;
-                                                          communities,
-                                                          &quot;Want
-                                                          &
-                                                          Can&quot;
-                                                          Deploy
-                                                          &quot;Equitable
-                                                          ...
-                                                          Mobility&quot;
-                                                          starting in
-                                                          Trenton with
-                                                          real
-                                                          expectations
-                                                          of scaling
-                                                          throughout New
-                                                          Jersey.,, In
-                                                          May the 5th
-                                                          Summit can
-                                                          better achieve
-                                                          its
-                                                          fundamental
-                                                          purpose by
-                                                          allowing all
-                                                          of us in New
-                                                          Jersey to
-                                                          better learn
-                                                          from others
-                                                          around the
-                                                          world the
-                                                          &quot;Whats
-                                                          &
-                                                          Hows&quot; and
-                                                          have the
-                                                          possible
-                                                          &quot;Whos&quot;
-                                                          get a better
-                                                          appreciation
-                                                          of the
-                                                          &quot;Equitable
-                                                          ...
-                                                          Mobility&quot;
-                                                          desires of
-                                                          Trentonians
-                                                          and other New
-                                                          Jersians. ,,
-                                                          Rescheduling
-                                                          the Summit to
-                                                          be between the
-                                                          RfI and the
-                                                          RfP steps of
-                                                          our
-                                                          Public-Private-Partnership
-                                                          (PPP)
+
                                                           Deployment
                                                           Process, will
                                                           better enable
@@ -2657,122 +2356,7 @@ quality-of-life and equitable mobility can readily be made available to
                                                           to
                                                           Registration)
 
-[](5th Annual SmartDrivingCars
-                                                          Summit:
-                                                          Deployment of
-                                                          Equitable
-                                                          Affordable,
-                                                          High Quality
-                                                          Mobility
-                                                          throughout New
-                                                          Jersey,,Date
-                                                          Change:
-                                                          Thursday
-                                                          evening, May
-                                                          5, through
-                                                          Saturday May
-                                                          7, 2022. Live
-                                                          in Trenton,
-                                                          New Jersey. ,,
-&quot;Everything&quot; was going well wrt the 5th Summit Nov 18->20;
-                                                          however...,,
-                                                          Time is very
-                                                          short, we must
-                                                          focus on the
-                                                          election and
-                                                          the realities
-                                                          of where we
-                                                          remain with
-                                                          Covid really
-                                                          put cold water
-                                                          on some
-                                                          aspects of our
-                                                          vision for
-                                                          November.,,
-                                                          Consequently.
-                                                          I've become
-                                                          convinced that
-                                                          it is very
-                                                          much better,
-                                                          that we take
-                                                          our time and
-                                                          reschedule for
-                                                          the first week
-                                                          on May 2022
-                                                          rather than
-                                                          rush for what
-                                                          isn't as good
-                                                          as could be.
-                                                          ,, By May we
-                                                          will have
-                                                          received
-                                                          responses to
-                                                          our upcoming
-                                                          RfI for
-                                                          &quot;Equitable
-                                                          ... Mobility
-                                                          in
-                                                          Trenton&quot;.
-                                                          We will thus
-                                                          have a better
-                                                          idea on
-                                                          &quot;Who&quot;,
-                                                          from the
-                                                          &quot;What
-                                                          &
-                                                          How&quot;
-                                                          communities,
-                                                          &quot;Want
-                                                          &
-                                                          Can&quot;
-                                                          Deploy
-                                                          &quot;Equitable
-                                                          ...
-                                                          Mobility&quot;
-                                                          starting in
-                                                          Trenton with
-                                                          real
-                                                          expectations
-                                                          of scaling
-                                                          throughout New
-                                                          Jersey.,, In
-                                                          May the 5th
-                                                          Summit can
-                                                          better achieve
-                                                          its
-                                                          fundamental
-                                                          purpose by
-                                                          allowing all
-                                                          of us in New
-                                                          Jersey to
-                                                          better learn
-                                                          from others
-                                                          around the
-                                                          world the
-                                                          &quot;Whats
-                                                          &
-                                                          Hows&quot; and
-                                                          have the
-                                                          possible
-                                                          &quot;Whos&quot;
-                                                          get a better
-                                                          appreciation
-                                                          of the
-                                                          &quot;Equitable
-                                                          ...
-                                                          Mobility&quot;
-                                                          desires of
-                                                          Trentonians
-                                                          and other New
-                                                          Jersians. ,,
-                                                          Rescheduling
-                                                          the Summit to
-                                                          be between the
-                                                          RfI and the
-                                                          RfP steps of
-                                                          our
-                                                          Public-Private-Partnership
-                                                          (PPP)
+
                                                           Deployment
                                                           Process, will
                                                           better enable
@@ -3088,19 +2672,12 @@ quality-of-life and equitable mobility can readily be made available to
 
 Live in Person
 
-[On the
-                                                          More Technical
-                                                          Side](https://orfe.princeton.edu/~alaink/SmartDrivingCars/Papers/indexNew.html)
+[On the More Technical Side](https://orfe.princeton.edu/~alaink/SmartDrivingCars/Papers/indexNew.html)
 [http://orfe.princeton.edu/~alaink/SmartDrivingCars/Papers/](https://orfe.princeton.edu/~alaink/SmartDrivingCars/Papers/indexNew.html)
 
 [K. Lockean's AV Research Group at U of Texas](https://www.caee.utexas.edu/prof/kockelman/home.html#RESEARCH_&_REPORTS:_Self-Driving,_Automated,_&_Connected_Vehicles)
 
-### and     [The
-                                                          SYMPOSIUM ON
-                                                          THE FUTURE
-                                                          NETWORKED CAR
-                                                          2021 VIRTUAL
-                                                          EVENT](https://www.itu.int/en/fnc/2021/Pages/default.aspx)
+### and     [The SYMPOSIUM ON THE FUTURE NETWORKED CAR 2021 VIRTUAL EVENT](https://www.itu.int/en/fnc/2021/Pages/default.aspx)
 
  R.
                                                           Shields, 22 -
@@ -3114,12 +2691,9 @@ Session
 
                                                           Session 2: ([Cybersecurity](https://youtu.be/ppp2hxlvebY)): [https://youtu.be/ppp2hxlvebY](https://youtu.be/ppp2hxlvebY)
 
-                                                          Session 3: [(Automated
-                                                          Driving
-                                                          Systems](https://youtu.be/uL2dRHuX2Cc)): [https://youtu.be/uL2dRHuX2Cc](https://youtu.be/uL2dRHuX2Cc)
+                                                          Session 3: [(Automated Driving Systems](https://youtu.be/uL2dRHuX2Cc)): [https://youtu.be/uL2dRHuX2Cc](https://youtu.be/uL2dRHuX2Cc)
 
-                                                          Session 4: [(Communications
-                                                          for ADS](https://www.youtube.com/watch?v=IFQcL6yfBso))
+                                                          Session 4: [(Communications for ADS](https://www.youtube.com/watch?v=IFQcL6yfBso))
                                                           : [https://www.youtube.com/watch?v=IFQcL6yfBso](https://www.youtube.com/watch?v=IFQcL6yfBso)
 [Read more](https://www.itu.int/en/fnc/2021/Pages/default.aspx)  Hmmmm...
                                                           Russ, thank
@@ -3232,8 +2806,7 @@ F.
                                                           liftoff."
 
 SmartDrivingCars
-                                                          [Pod-Cast Episode 235](https://anchor.fm/smartdrivingcars/episodes/Smart-Driving-Cars-Episode-235---The-shifting-picture-of-what-is-a-car-company-e184ds0)[,](https://soundcloud.com/smartdrivingcar/smart-driving-cars-230-with-tim-higgins-author-of-power-play) [Zoom-Cast
-                                                          Episode 235](https://www.youtube.com/watch?v=N-sUN5B8pWw)
+                                                          [Pod-Cast Episode 235](https://anchor.fm/smartdrivingcars/episodes/Smart-Driving-Cars-Episode-235---The-shifting-picture-of-what-is-a-car-company-e184ds0)[,](https://soundcloud.com/smartdrivingcar/smart-driving-cars-230-with-tim-higgins-author-of-power-play) [Zoom-Cast Episode 235](https://www.youtube.com/watch?v=N-sUN5B8pWw)
                                                           w/Michael
                                                           Sena, Editor,
                                                           The
@@ -3313,8 +2886,7 @@ F.
                                                           subscribe.."
 
 SmartDrivingCars
-                                                          [Pod-Cast Episode 233](https://anchor.fm/smartdrivingcars/episodes/Smart-Driving-Cars-Episode-233-Making-mobility-happen-in-Europe--Trenton-and-beyond-e17hlb3?fbclid=IwAR1xbB6MtwXTfUMc9cDSO9R4JxL5lN4iZriVN_tQvxLdLndZVeoMtRwFR2o)[,](https://soundcloud.com/smartdrivingcar/smart-driving-cars-230-with-tim-higgins-author-of-power-play) [](https://www.youtube.com/watch?v=YT4B5P9bK2E)[Zoom-Cast
-                                                          Episode 233](https://www.youtube.com/watch?v=tXftLIjz4as)
+                                                          [Pod-Cast Episode 233](https://anchor.fm/smartdrivingcars/episodes/Smart-Driving-Cars-Episode-233-Making-mobility-happen-in-Europe--Trenton-and-beyond-e17hlb3?fbclid=IwAR1xbB6MtwXTfUMc9cDSO9R4JxL5lN4iZriVN_tQvxLdLndZVeoMtRwFR2o)[,](https://soundcloud.com/smartdrivingcar/smart-driving-cars-230-with-tim-higgins-author-of-power-play) [Zoom-Cast Episode 233](https://www.youtube.com/watch?v=tXftLIjz4as)
                                                           w [Prof.  Adriano Alessandrini](https://www.f6s.com/adrianoalessandrini)at the U. of
                                                           Florence
 
@@ -3361,8 +2933,7 @@ SmartDrivingCars
                                                           Smart Driving
                                                           Car
 SmartDrivingCars
-                                                          [Pod-Cast Episode 232](https://anchor.fm/smartdrivingcars/episodes/Smart-Driving-Cars-Episode-232-Can-cameras-alone-get-to-driverless-mobility-e16tilm)[,](https://soundcloud.com/smartdrivingcar/smart-driving-cars-230-with-tim-higgins-author-of-power-play) [](https://www.youtube.com/watch?v=YT4B5P9bK2E)[Zoom-Cast
-                                                          Episode 232](https://www.youtube.com/watch?v=PeGxqFemSWw)
+                                                          [Pod-Cast Episode 232](https://anchor.fm/smartdrivingcars/episodes/Smart-Driving-Cars-Episode-232-Can-cameras-alone-get-to-driverless-mobility-e16tilm)[,](https://soundcloud.com/smartdrivingcar/smart-driving-cars-230-with-tim-higgins-author-of-power-play) [Zoom-Cast Episode 232](https://www.youtube.com/watch?v=PeGxqFemSWw)
                                                           w [Steven Shladover](https://path.berkeley.edu/steven-e-shladover)
 
 ###
@@ -3407,8 +2978,7 @@ F.
                                                           subscribe!"
 
 SmartDrivingCars
-                                                          [Pod-Cast Episode 231](https://anchor.fm/smartdrivingcars/episodes/Smart-Driving-Cars-Episode-231-Tesla--Waymo--the-future-of-car-making-e16g8ka)[,](https://soundcloud.com/smartdrivingcar/smart-driving-cars-230-with-tim-higgins-author-of-power-play) [](https://www.youtube.com/watch?v=YT4B5P9bK2E)[Zoom-Cast
-                                                          Episode 231](https://www.youtube.com/watch?v=YT4B5P9bK2E)
+                                                          [Pod-Cast Episode 231](https://anchor.fm/smartdrivingcars/episodes/Smart-Driving-Cars-Episode-231-Tesla--Waymo--the-future-of-car-making-e16g8ka)[,](https://soundcloud.com/smartdrivingcar/smart-driving-cars-230-with-tim-higgins-author-of-power-play) [Zoom-Cast Episode 231](https://www.youtube.com/watch?v=YT4B5P9bK2E)
                                                           w Michael
                                                           Sena, Creator
                                                           of [The Dispatcher](https://www.dropbox.com/s/jaau5r3mbqetqoj/The-Dispatcher_September-2021.pdf?dl=0)
@@ -3450,11 +3020,9 @@ F.
                                                           Or listen."
 
 SmartDrivingCars
-                                                          [Pod-Cast Episode 230](https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-230-teslas-humanoids-and-elevators)[,](https://soundcloud.com/smartdrivingcar/smart-driving-cars-230-with-tim-higgins-author-of-power-play) [](https://www.youtube.com/watch?v=bZAfs4qULMk)[Zoom-Cast
-                                                          Episode 230](https://www.youtube.com/watch?v=uE7O7gvdcIQ)
+                                                          [Pod-Cast Episode 230](https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-230-teslas-humanoids-and-elevators)[,](https://soundcloud.com/smartdrivingcar/smart-driving-cars-230-with-tim-higgins-author-of-power-play) [Zoom-Cast Episode 230](https://www.youtube.com/watch?v=uE7O7gvdcIQ)
                                                           w/Tim Higgins,
-                                                          author: P[OWER PLAY: Tesla, Elon Musk and the Bet of the
-                                                          Century](https://www.amazon.com/Power-Play-Tesla-Elon-Century/dp/B08N8PG1LR/ref=sr_1_1?dchild=1&keywords=Higgins+power+play&qid=1627871949&sr=8-1)
+                                                          author: P[OWER PLAY: Tesla, Elon Musk and the Bet of the Century](https://www.amazon.com/Power-Play-Tesla-Elon-Century/dp/B08N8PG1LR/ref=sr_1_1?dchild=1&keywords=Higgins+power+play&qid=1627871949&sr=8-1)
 
 ###
 
@@ -3512,11 +3080,9 @@ F.
                                                           Higgins of the
                                                           Wall Street
                                                           Journal
-                                                          ..author of [POWER PLAY... Tesla, Elon Musk and the Bet of the
-                                                          Century](https://anchor.fm/smartdrivingcars/episodes/Smart-Driving-Cars-Episode-230-Teslas--Humanoids-and-Elevators-e168g34).
+                                                          ..author of [POWER PLAY... Tesla, Elon Musk and the Bet of the Century](https://anchor.fm/smartdrivingcars/episodes/Smart-Driving-Cars-Episode-230-Teslas--Humanoids-and-Elevators-e168g34).
 
-SmartDrivingCars [Pod-Cast Episode 229](https://anchor.fm/smartdrivingcars/episodes/Smart-Driving-Cars-Episode-229-e1649ro), [Zoom-Cast
-                                                          Episode 229](https://www.youtube.com/watch?v=gQQhxqnPv_M)
+SmartDrivingCars [Pod-Cast Episode 229](https://anchor.fm/smartdrivingcars/episodes/Smart-Driving-Cars-Episode-229-e1649ro), [Zoom-Cast Episode 229](https://www.youtube.com/watch?v=gQQhxqnPv_M)
 w/[Russ Mitchell, Los Angeles Times](https://www.latimes.com/people/russ-mitchell)
 
 F.
@@ -3549,8 +3115,7 @@ F.
                                                           other vehicle
                                                           makers."
 
-SmartDrivingCars [Pod-Cast Episode 228](https://anchor.fm/smartdrivingcars/episodes/Smart-Driving-Cars-Episode-228-e15t6ss), [Zoom-Cast
-                                                          Episode 228](https://youtu.be/Prun7fwOzYM)
+SmartDrivingCars [Pod-Cast Episode 228](https://anchor.fm/smartdrivingcars/episodes/Smart-Driving-Cars-Episode-228-e15t6ss), [Zoom-Cast Episode 228](https://youtu.be/Prun7fwOzYM)
 Planes,
                                                           Trains &
                                                           Automobiles
@@ -3588,11 +3153,9 @@ F.
                                                           Cars. "
 
 SmartDrivingCars
-                                                          [Pod-Cast Episode 226](https://soundcloud.com/smartdrivingcar/smart-driving-cars-226-with-tim-higgins-author-of-power-play), [](https://www.youtube.com/watch?v=bZAfs4qULMk)[Zoom-Cast
-                                                          Episode 226](https://www.youtube.com/watch?v=Mi6tCNj6Zro)
+                                                          [Pod-Cast Episode 226](https://soundcloud.com/smartdrivingcar/smart-driving-cars-226-with-tim-higgins-author-of-power-play), [Zoom-Cast Episode 226](https://www.youtube.com/watch?v=Mi6tCNj6Zro)
                                                           w/Tim Higgins,
-                                                          author: P[OWER PLAY: Tesla, Elon Musk and the Bet of the
-                                                          Century](https://www.amazon.com/Power-Play-Tesla-Elon-Century/dp/B08N8PG1LR/ref=sr_1_1?dchild=1&keywords=Higgins+power+play&qid=1627871949&sr=8-1)
+                                                          author: P[OWER PLAY: Tesla, Elon Musk and the Bet of the Century](https://www.amazon.com/Power-Play-Tesla-Elon-Century/dp/B08N8PG1LR/ref=sr_1_1?dchild=1&keywords=Higgins+power+play&qid=1627871949&sr=8-1)
 
 ###
 
@@ -3625,8 +3188,7 @@ F.
                                                           Fishkin.    Or
                                                           listen..  [https://soundcloud.com/smartdrivingcar/smart-driving-cars-226-with-tim-higgins-author-of-power-play](https://soundcloud.com/smartdrivingcar/smart-driving-cars-226-with-tim-higgins-author-of-power-play).
 
-SmartDrivingCars [Pod-Cast Episode 225](https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-225), [Zoom-Cast
-                                                          Episode 225](https://youtu.be/pRrA7Ii6Hcc) w/Kevin
+SmartDrivingCars [Pod-Cast Episode 225](https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-225), [Zoom-Cast Episode 225](https://youtu.be/pRrA7Ii6Hcc) w/Kevin
                                                           Biesty, Deputy
                                                           Director for
                                                           Policy @
@@ -3666,8 +3228,7 @@ Transportation,  joins Princeton's Alain Kornhauser & co-host Fred
                                                           Mercedes &
                                                           more. "
 
-SmartDrivingCars [Pod-Cast Episode 224](https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-224), [Zoom-Cast
-                                                          Episode 224](https://www.youtube.com/watch?v=rOjuxzwErEY)
+SmartDrivingCars [Pod-Cast Episode 224](https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-224), [Zoom-Cast Episode 224](https://www.youtube.com/watch?v=rOjuxzwErEY)
                                                           w/Selika
                                                           Josiah Talbot,
                                                           Principal,
@@ -3715,8 +3276,7 @@ F.
                                                           deployed to
                                                           improve lives.
 
-SmartDrivingCars [Pod-Cast Episode 223](https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-223), [Zoom-Cast
-                                                          Episode 223](https://www.youtube.com/watch?v=hir1uWf8_TE)
+SmartDrivingCars [Pod-Cast Episode 223](https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-223), [Zoom-Cast Episode 223](https://www.youtube.com/watch?v=hir1uWf8_TE)
                                                           w/Richard
                                                           Mudge, Compass
                                                           Transp.  &
@@ -3757,8 +3317,7 @@ F.
                                                           Research Board
                                                           sessions. "
 
-SmartDrivingCars [Pod-Cast Episode 222](https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-222), [Zoom-Cast
-                                                          Episode 222](https://youtu.be/o7NJhbvCX7c)
+SmartDrivingCars [Pod-Cast Episode 222](https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-222), [Zoom-Cast Episode 222](https://youtu.be/o7NJhbvCX7c)
 
 F.
                                                           Fishkin, July
@@ -3787,8 +3346,7 @@ F.
                                                           co-host Fred
                                                           Fishkin. "
 
-SmartDrivingCars [Pod-Cast Episode 221](https://soundcloud.com/smartdrivingcar/smart-driving-cars-221-the-zoox-safety-report), [Zoom-Cast
-                                                          Episode 221](https://youtu.be/iHWTpaIXu4I)
+SmartDrivingCars [Pod-Cast Episode 221](https://soundcloud.com/smartdrivingcar/smart-driving-cars-221-the-zoox-safety-report), [Zoom-Cast Episode 221](https://youtu.be/iHWTpaIXu4I)
                                                             w/Mark
                                                           Rosekind,
                                                           Chief Safety
@@ -3835,8 +3393,7 @@ F.
                                                           those issues
                                                           and more.
 
-SmartDrivingCars [Pod-Cast Episode 220](https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-220), [Zoom-Cast
-                                                          Episode 220](https://www.youtube.com/watch?v=8Li7xyruM0w)
+SmartDrivingCars [Pod-Cast Episode 220](https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-220), [Zoom-Cast Episode 220](https://www.youtube.com/watch?v=8Li7xyruM0w)
                                                             w/John
                                                           Thornhill,
                                                           Innovation
@@ -3874,16 +3431,13 @@ F.
                                                           is also the
                                                           founder of [Sifted.eu](https://sifted.eu/).
 
-[Link to previous SDC
-                                                          PodCasts &
-                                                          ZoomCasts](https://www.dropbox.com/s/y2xlnlaphxb0i6k/Links2PodCast_55-220.pdf?dl=0)
+[Link to previous SDC PodCasts & ZoomCasts](https://www.dropbox.com/s/y2xlnlaphxb0i6k/Links2PodCast_55-220.pdf?dl=0)
 
 Recent Highlights of:
 
 ###
 
-                                                          [A Tesla mystery: Why didn't auto-braking stop
-                                                          these crashes?](https://www.latimes.com/business/story/2021-10-07/why-arent-automatic-braking-systems-stopping-deadly-tesla-crashes)
+                                                          [A Tesla mystery: Why didn't auto-braking stop these crashes?](https://www.latimes.com/business/story/2021-10-07/why-arent-automatic-braking-systems-stopping-deadly-tesla-crashes)
                                                           [In Spanish](https://www.latimes.com/espanol/eeuu/articulo/2021-10-09/por-que-los-sistemas-de-freno-automatico-no-paran-los-accidentes-mortales-de-tesla)
 
 R.
@@ -4310,10 +3864,7 @@ I
                                                           blue;
                                                           text-decoration:
                                                           none;">
-  [Cruise gets the green light to give driverless
-                                                          rides to
-                                                          passengers in
-                                                          San Francisco](https://www.theverge.com/2021/9/30/22702962/cruise-waymo-california-dmv-autonomous-vehicle-permit)
+  [Cruise gets the green light to give driverless rides to passengers in San Francisco](https://www.theverge.com/2021/9/30/22702962/cruise-waymo-california-dmv-autonomous-vehicle-permit)
 A.
                                                           Hawkins, Sep
                                                           30, "Waymo and
@@ -4358,9 +3909,7 @@ A.
                                                           Arizona, the
                                                           Google spinoff
                                                           would need to
-                                                          apply for an [additional permit from the California Public
-                                                          Utilities
-                                                          Commission](https://www.theverge.com/2020/11/23/21591045/california-robotaxi-paid-rides-cpuc-permits).
+                                                          apply for an [additional permit from the California Public Utilities Commission](https://www.theverge.com/2020/11/23/21591045/california-robotaxi-paid-rides-cpuc-permits).
                                                           ... " [Read more](https://www.theverge.com/2021/9/30/22702962/cruise-waymo-california-dmv-autonomous-vehicle-permit) Hmmmm...
 Congratulations Kyle, Robert and everyone else!!!! This is a non-trivial
 accomplishment!
@@ -4399,9 +3948,7 @@ Given all of the additional knocks
                                                           you'll divert
                                                           a little
                                                           bandwidth to
-                                                          our upcoming "[5th
-                                                          Annual SDC
-                                                          Summit](https://www.cartsmobility.com/summit)",
+                                                          our upcoming "[5th Annual SDC Summit](https://www.cartsmobility.com/summit)",
                                                           New Jersey's
                                                           next step in
                                                           our process to
@@ -4437,8 +3984,7 @@ Again...  Congratulations!  So
                                                           deserved!
                                                           Alain
 
-[Link to previous SDC
-                                                          eLetters](https://www.dropbox.com/s/vt5s55av9ysx2fz/Links2SDC_eLetter2_Odt_24_2021.pdf?dl=0)
+[Link to previous SDC eLetters](https://www.dropbox.com/s/vt5s55av9ysx2fz/Links2SDC_eLetter2_Odt_24_2021.pdf?dl=0)
 
 Alain L.
                                                           Kornhauser,

@@ -11,8 +11,7 @@ Click or tap if you trust this link.">Sunday,
 
   19h edition of the 12th year of SmartDrivingCars eLetter
 
-   [The
- Business of Safe Car Design](https://usercontent.one/wp/www.michaellsena.com/wp-content/uploads/2024/04/The-Dispatcher_May_2024.pdf)
+   [The Business of Safe Car Design](https://usercontent.one/wp/www.michaellsena.com/wp-content/uploads/2024/04/The-Dispatcher_May_2024.pdf)
 
 M. Sena, May 2024, "THE MOTIVATION FOR writing this article was a tragic oc-currence: A person drove their car into a body of water and died. This incident became international news
  for two reasons: 1) the person who drove the car was well-known and very wealthy; 2) the person was the sister of Elaine Chao, who is both a former U.S. Secretary of Transportation and the wife of the current U.S. Senate Minority Leader, Mitch McConnell. The
@@ -28,9 +27,7 @@ Approximately 400 people die each year in the U.S. in car accidents involving ve
  a city or a state that decides whether to protect vital (and very expensive) infrastructure from being hit by wayward ships, and it should not be individual car companies who decide whether their cars can be driven by individuals who are incapacitated as a
  result of alcohol or drugs. Excellent read.  Alain
 
-[](https://www.amazon.com/Real-Case-Driverless-Mobility-Vehicles/dp/0443236852/ref=sr_1_1?crid=22SK14SI799RL&dib=eyJ2IjoiMSJ9.lxEa4C-A4uRSBIChfD3wJw.xogl_NdvikO4LhL5RvNCh1iiD7Vx17Dpx_FWynWqyq4&dib_tag=se&keywords=kornhauser+sena&qid=1708172593&s=electronics&sprefix=kornhauser+sena%2Celectronics%2C90&sr=1-1)[Just
- Published](https://www.amazon.com/Real-Case-Driverless-Mobility-Vehicles/dp/0443236852/ref=sr_1_1?crid=1XSXZ611C2JCN&keywords=Kornhauser+sena&qid=1707095108&sprefix=kornhauser+sena%2Caps%2C76&sr=8-1&ufe=app_do%3Aamzn1.fos.18ed3cb5-28d5-4975-8bc7-93deae8f9840)!!!  [Go
- to Amazon.com](https://www.amazon.com/Real-Case-Driverless-Mobility-Vehicles/dp/0443236852/ref=sr_1_1?crid=1XSXZ611C2JCN&keywords=Kornhauser+sena&qid=1707095108&sprefix=kornhauser+sena%2Caps%2C76&sr=8-1&ufe=app_do%3Aamzn1.fos.18ed3cb5-28d5-4975-8bc7-93deae8f9840)… You can still be first on your block to have one
+[Just Published](https://www.amazon.com/Real-Case-Driverless-Mobility-Vehicles/dp/0443236852/ref=sr_1_1?crid=1XSXZ611C2JCN&keywords=Kornhauser+sena&qid=1707095108&sprefix=kornhauser+sena%2Caps%2C76&sr=8-1&ufe=app_do%3Aamzn1.fos.18ed3cb5-28d5-4975-8bc7-93deae8f9840)!!!  [Go to Amazon.com](https://www.amazon.com/Real-Case-Driverless-Mobility-Vehicles/dp/0443236852/ref=sr_1_1?crid=1XSXZ611C2JCN&keywords=Kornhauser+sena&qid=1707095108&sprefix=kornhauser+sena%2Caps%2C76&sr=8-1&ufe=app_do%3Aamzn1.fos.18ed3cb5-28d5-4975-8bc7-93deae8f9840)… You can still be first on your block to have one
 J.
 
 SmartDrivingCars
@@ -289,8 +286,7 @@ F. Fishkin, May 1, "The National Highway Traffic Safety Administration has issue
  emergency braking system requirements carmakers will have to implement by September of 2029. NHTSA's chief of Visibility and Injury Prevention, Markus Price joins Princeton's Alain Kornhauser and co-host Fred Fishkin for a dive into the regulations and what
  they'll mean. "
 
-[6](https://summit.princeton.edu/)[th](https://summit.princeton.edu/)[Princeton
- SmartDrivingCar Summit](https://summit.princeton.edu/)
+[6](https://summit.princeton.edu/)[th](https://summit.princeton.edu/)[Princeton SmartDrivingCar Summit](https://summit.princeton.edu/)
 
 Alain Kornhauser, May 5 "..
 
@@ -301,21 +297,18 @@ Hmmmm....
  Our intention is to hold lively, honest exchanges in which all participants feel comfortable sharing as candidly as is reasonable. Please see the
 [registration](https://summit.princeton.edu/register) and [sponsorship](https://summit.princeton.edu/sponsorship) pages.  Given the success that we've had with the past Summits and the quality of the program that we've been able to assemble to date, we fully expect to be sold out. Hope you'll be able to join in with us. Alain
 
-[The future is near for self-driving semis
- on the nation's highways](https://www.detroitnews.com/story/business/autos/2024/04/29/the-future-is-near-for-self-driving-semis-on-the-nations-highways/73498480007/)
+[The future is near for self-driving semis on the nation's highways](https://www.detroitnews.com/story/business/autos/2024/04/29/the-future-is-near-for-self-driving-semis-on-the-nations-highways/73498480007/)
 
 T. Krisher, April 29, "On a three-lane test track along the Monongahela River, an 18-wheel tractor-trailer rounded a curve. No one was on board.
 
 A quarter-mile ahead, the truck's sensors spotted a trash can blocking one lane and a tire in another. In less than a second, it signaled, moved into the unobstructed lane and rumbled past
  the obstacles. …."
-[Read
- More](https://www.detroitnews.com/story/business/autos/2024/04/29/the-future-is-near-for-self-driving-semis-on-the-nations-highways/73498480007/)  Hmmmm…
+[Read More](https://www.detroitnews.com/story/business/autos/2024/04/29/the-future-is-near-for-self-driving-semis-on-the-nations-highways/73498480007/)  Hmmmm…
  They can't come too soon! Aurora, we are rooting for you. Alain & Elizabeth
 
- [](https://www.carexpert.com.au/car-news/watch-teslas-controversial-full-self-driving-take-on-new-york-traffic)
+ 
 
-[](https://www.carexpert.com.au/car-news/watch-teslas-controversial-full-self-driving-take-on-new-york-traffic)[Tesla's
- Robotaxi unveiling event sets the tone for 2030 and beyond: Morgan Stanley](https://www.carexpert.com.au/car-news/watch-teslas-controversial-full-self-driving-take-on-new-york-traffic)
+[Tesla's Robotaxi unveiling event sets the tone for 2030 and beyond: Morgan Stanley](https://www.carexpert.com.au/car-news/watch-teslas-controversial-full-self-driving-take-on-new-york-traffic)
 
 J. Klender, April 9, " YouTube user [FSD in NYC](https://www.youtube.com/watch?v=1LaGWfpoYdk) has shared footage
  of their [Model Y](https://www.carexpert.com.au/tesla/model-y) navigating midtown Manhattan traffic during peak hour.
@@ -324,54 +317,44 @@ It was able to execute more complicated manoeuvres, such as moving around a turn
 
 However, it also proved too cautious at times – for example, waiting slightly too long at a green light because of traffic on the other side of the intersection.
 
-.".."…  [Read
- More](https://www.carexpert.com.au/car-news/watch-teslas-controversial-full-self-driving-take-on-new-york-traffic)  Hmmmm…
+.".."…  [Read More](https://www.carexpert.com.au/car-news/watch-teslas-controversial-full-self-driving-take-on-new-york-traffic)  Hmmmm…
 [See Video](https://youtu.be/1LaGWfpoYdk).  Video is running at least at 1.5x speed (nobody drives that fast going xtown).  Doing Manhattan is totally irresponsible, unless one follows Tesla's parameters.  Alain
 
- [The
- Real Case for Driverless Mobility](https://digital.emagazines.com/its_international/20240408/index.html?t=f23f4986-5f7c-466a-88d4-1cff3ac94abe&utm_campaign=eg_its_international&utm_source=eg&utm_medium=eg#p50)
+ [The Real Case for Driverless Mobility](https://digital.emagazines.com/its_international/20240408/index.html?t=f23f4986-5f7c-466a-88d4-1cff3ac94abe&utm_campaign=eg_its_international&utm_source=eg&utm_medium=eg#p50)
 
 B. Grush, March/April 2024, "… A new book by Alain L. Kornhauser and Michael L. Sena… advocates for automated driving systems as a core component of public transportation- … This is sourced
  from Princeton University's long-standing and highly regarded SmartDrivingCar effort, which has for years advocated the intelligent application of automated vehicles to improve equitable access for mobility disadvantaged populations…"
-[Read
- More](https://digital.emagazines.com/its_international/20240408/index.html?t=f23f4986-5f7c-466a-88d4-1cff3ac94abe&utm_campaign=eg_its_international&utm_source=eg&utm_medium=eg#p50)  Hmmmm…
+[Read More](https://digital.emagazines.com/its_international/20240408/index.html?t=f23f4986-5f7c-466a-88d4-1cff3ac94abe&utm_campaign=eg_its_international&utm_source=eg&utm_medium=eg#p50)  Hmmmm…
 Thank you, Bern
 J
  Alain
 
 [Luminar, maker of lidar for autonomous driving, lays off 20 percent of its workforce](https://www.theverge.com/2024/5/3/24148395/luminar-lidar-layoff-outsource-autonomous-vehicle)
 
-A. Hawkins, May 3, "Luminar, which makes [lidar
- sensors for autonomous driving systems](https://www.theverge.com/2023/2/28/23617435/luminar-iris-plus-lidar-sensor-investor-day), announced today plans to lay off 20 percent of its workforce amid a broader restructuring of its production process.
+A. Hawkins, May 3, "Luminar, which makes [lidar sensors for autonomous driving systems](https://www.theverge.com/2023/2/28/23617435/luminar-iris-plus-lidar-sensor-investor-day), announced today plans to lay off 20 percent of its workforce amid a broader restructuring of its production process.
 
-The company, which just announced shipments of its [next-generation laser sensors
- to Volvo](https://www.theverge.com/2024/4/23/24138224/volvo-ex90-production-start-luminar-lidar-halo-sensor), said that it will transition to an "asset light" business model that will see more of its production outsourced to its partners. As part of the restructuring, at least 147 people will lose their jobs. Luminar has at least 730 employees based
+The company, which just announced shipments of its [next-generation laser sensors to Volvo](https://www.theverge.com/2024/4/23/24138224/volvo-ex90-production-start-luminar-lidar-halo-sensor), said that it will transition to an "asset light" business model that will see more of its production outsourced to its partners. As part of the restructuring, at least 147 people will lose their jobs. Luminar has at least 730 employees based
  in the US, according to LinkedIn.
 
 "Many of these team members have been on our journey with us for years, which is why this is so difficult," Luminar CEO Austin Russell said in a statement. "We have also made the decision to
  roll off the majority of our contractors who supported us to [start of production]. We have informed the affected employees regarding the roles that are no longer required at this juncture.".…"
-[Read
- More](https://www.theverge.com/2024/5/3/24148395/luminar-lidar-layoff-outsource-autonomous-vehicle)  Hmmmm…  So
+[Read More](https://www.theverge.com/2024/5/3/24148395/luminar-lidar-layoff-outsource-autonomous-vehicle)  Hmmmm…  So
  sad.  Alain
 
 [Tesla's next-gen Dojo AI training tile is in production](https://electrek.co/2024/05/01/tesla-next-gen-dojo-ai-training-tile-production/)
 
-Fred Lambert,  May 1, "The first generation of its[Dojo super computing platform went into
- operation last summer](https://electrek.co/2023/09/11/tesla-tsla-stock-surges-optimistic-dojo-supercomputer/).
+Fred Lambert,  May 1, "The first generation of its[Dojo super computing platform went into operation last summer](https://electrek.co/2023/09/11/tesla-tsla-stock-surges-optimistic-dojo-supercomputer/).
 
 Shortly after, it was reported that [Tesla had expanded its partnership with TSMC](https://electrek.co/2023/09/26/tesla-reportedly-ramps-up-partnership-tsmc-dojo-supercomputer-chip/),
  a large semiconductor company that manufactures the Dojo chip for the automaker.
 
-Now, TSMC has confirmed that Tesla's next-generation Dojo chip has entered production and they are working on tech that could deliver much greater power to Dojo in 2027 (via [IEEE
- Spectrum](https://spectrum.ieee.org/amp/tsmc-advanced-packaging-2667881414)):…
+Now, TSMC has confirmed that Tesla's next-generation Dojo chip has entered production and they are working on tech that could deliver much greater power to Dojo in 2027 (via [IEEE Spectrum](https://spectrum.ieee.org/amp/tsmc-advanced-packaging-2667881414)):…
 
 This new tile is likely going to be used for Tesla's new planned $500 million Dojo cluster in New York.
-…" [Read
- More](https://electrek.co/2024/05/01/tesla-next-gen-dojo-ai-training-tile-production/)  Hmmmm…
+…" [Read More](https://electrek.co/2024/05/01/tesla-next-gen-dojo-ai-training-tile-production/)  Hmmmm…
    Dojo is the pan & shovel.  Alain
 
- [6th
- SmartDrivingCars Summit](https://summit.princeton.edu/) Evening May 29 -> May 31, 2024
+ [6th SmartDrivingCars Summit](https://summit.princeton.edu/) Evening May 29 -> May 31, 2024
 
 Alain Kornhauser, May 5, "We promise civil and lively discussions as to how to improve the Quality-of-Life (QoL) for many while disrupting the QoL to as few
  as possible.  Focus will be on the business aspects…

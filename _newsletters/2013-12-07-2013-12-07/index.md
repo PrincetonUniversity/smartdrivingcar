@@ -7,8 +7,7 @@ permalink: /2013-12-07-2013-12-07/
 
 December 6, 2013
 
-## [Volvo taking 100 self-driving cars to the streets in world
-          first](https://www.media.volvocars.com/global/en-gb/media/pressreleases/136182/volvo-car-group-initiates-world-unique-swedish-pilot-project-with-self-driving-cars-on-public-roads)
+## [Volvo taking 100 self-driving cars to the streets in world first](https://www.media.volvocars.com/global/en-gb/media/pressreleases/136182/volvo-car-group-initiates-world-unique-swedish-pilot-project-with-self-driving-cars-on-public-roads)
 
 Dec 02, 2013 Press Release " Volvo Cars
           will play a leading role in the world's first large-scale
@@ -26,9 +25,7 @@ Dec 02, 2013 Press Release " Volvo Cars
           safely via phone or tablets or simply choose to relax.  "The
           self-driving technology used in the pilot allows you to hand
           over the driving to the car when the circumstances are
-          appropriate," says Håkan Samuelsson."  [Read more](https://www.media.volvocars.com/global/en-gb/media/pressreleases/136182/volvo-car-group-initiates-world-unique-swedish-pilot-project-with-self-driving-cars-on-public-roads) [Related
-
-            report](http://autos.yahoo.com/blogs/motoramic/volvo-taking-100-self-driving-cars-streets-world-165829723.html)
+          appropriate," says Håkan Samuelsson."  [Read more](https://www.media.volvocars.com/global/en-gb/media/pressreleases/136182/volvo-car-group-initiates-world-unique-swedish-pilot-project-with-self-driving-cars-on-public-roads) [Related report](http://autos.yahoo.com/blogs/motoramic/volvo-taking-100-self-driving-cars-streets-world-165829723.html)
 
 Hmmm...I believe the above to be the
             first statement by a car maker promoting a feature that
@@ -37,9 +34,7 @@ Hmmm...I believe the above to be the
             it would drive".  (Although, that liability doesn't
             materialize if the technology works as promised.)
 
-            The [related
-
-              "Drive Me" video](http://www.youtube.com/watch?v=rMx-iGFys6s&feature=player_detailpage) is even more focused on this
+            The [related "Drive Me" video](http://www.youtube.com/watch?v=rMx-iGFys6s&feature=player_detailpage) is even more focused on this
             fundamental consumer appeal.  The Mercedes "[Imagine](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/2014%20E-Class%20Commercial%20--%20Hard%20to%20Imagine%20--%20Mercedes-Benz.mp4)"
             commercial addressed safety, "[Clown](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Videos/MB_Clown_Commercial.mp4)"
             addressed random distraction, the Subaru "[Dummy](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Videos/Subaru%20EyeSight_Commercial60secCrashTest.mp4)"
@@ -61,15 +56,10 @@ By "texting" I mean everything that
               get there by transit.
 
 Why? Because they can "text" in
-              transit.  In a car AT&T tells them "[it
-                can wait](http://www.att.com/gen/press-room?pid=23186)", police fine them and they crash and die.
+              transit.  In a car AT&T tells them "[it can wait](http://www.att.com/gen/press-room?pid=23186)", police fine them and they crash and die.
               In transit, (especially automated transit) they can
               "text", enjoy videos, talk, listen, look around (and not
-              die, [see
-
-                next posting](http://www.nytimes.com/2013/12/03/nyregion/metro-north-train-accident-bronx.html)).   In the ["Drive
-
-                Me" video](http://www.youtube.com/watch?v=rMx-iGFys6s&feature=player_detailpage), the guy takes transit and does stuff.
+              die, [see next posting](http://www.nytimes.com/2013/12/03/nyregion/metro-north-train-accident-bronx.html)).   In the ["Drive Me" video](http://www.youtube.com/watch?v=rMx-iGFys6s&feature=player_detailpage), the guy takes transit and does stuff.
               His counterpart, in her car, doesn't have to wait to do
               stuff because of the "Drive Me" technology.  That is the
               compelling value.
@@ -89,22 +79,16 @@ Driving really isn't that much fun
               isn't slated to happen 2017, will only be 100 cars in only
               parts of Gothenburg.
 
-## [Metro-North
+## [Metro-North Train Sped at 82 M.P.H. Ahead of Curve in Fatal Crash](http://www.nytimes.com/2013/12/03/nyregion/metro-north-train-accident-bronx.html)
 
-          Train Sped at 82 M.P.H. Ahead of Curve in Fatal Crash](http://www.nytimes.com/2013/12/03/nyregion/metro-north-train-accident-bronx.html)
-
- MATT FLEGENHEIMER Dec. 2, 2013 [1102
-
-          Comments](http://www.nytimes.com/2013/12/03/nyregion/metro-north-train-accident-bronx.html#commentsContainer)  The Metro-North Railroad train that hurtled off
+ MATT FLEGENHEIMER Dec. 2, 2013 [1102 Comments](http://www.nytimes.com/2013/12/03/nyregion/metro-north-train-accident-bronx.html#commentsContainer)  The Metro-North Railroad train that hurtled off
         the rails on a sleepy holiday weekend morning was traveling 82
         miles per hour as it approached one of the sharpest curves in
         the region's rail system, federal investigators said on Monday —
         nearly three times the speed permitted through the turn...six
         seconds before the rear locomotive came to a stop, "the throttle
         was reduced to idle." The brakes were fully applied one second
-        later. .[Read more](http://www.nytimes.com/2013/12/03/nyregion/metro-north-train-accident-bronx.html)  In a [subsequent
-
-          article](http://www.nytimes.com/2013/12/04/nyregion/metro-north-investigation-turns-to-engineers-inattention.html?_r=0) ..."The engineer ... told the authorities on
+        later. .[Read more](http://www.nytimes.com/2013/12/03/nyregion/metro-north-train-accident-bronx.html)  In a [subsequent article](http://www.nytimes.com/2013/12/04/nyregion/metro-north-investigation-turns-to-engineers-inattention.html?_r=0) ..."The engineer ... told the authorities on
         Tuesday that he had become dazed before the accident, suffering
         what his lawyer referred to as "highway hypnosis."...Rail safety
         experts have suggested that a system known as "positive train
@@ -113,9 +97,7 @@ Driving really isn't that much fun
 Hmm...Not to jump the gun here, but
             maybe we should seriously consider leap-frogging "positive
             train control" (PTC) and going directly to driverless train
-            operation (aka UTO ([Un-attended
-
-              Train Operation](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/ICUTS2013_Paris/UTO%20Metros%20Opportunities%20and%20Challenges%20%20VER%201.1.pdf)) or simply SmartDrivngCars).  I
+            operation (aka UTO ([Un-attended Train Operation](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/ICUTS2013_Paris/UTO%20Metros%20Opportunities%20and%20Challenges%20%20VER%201.1.pdf)) or simply SmartDrivngCars).  I
             would suggest that:
 
 * what "positive train
@@ -173,9 +155,7 @@ Hmm...Not to jump the gun here, but
             owners/operators also own/operate the trains using those
             rails. Automaton of those trains requires little
             modification of the existing railways.  As David Nelson
-            reported at [ICTUS
-
-              in Paris](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/ICUTS2013_Paris/UTO%20Metros%20Opportunities%20and%20Challenges%20%20VER%201.1.pdf) the are 48 UTO lines in 32 cities
+            reported at [ICTUS in Paris](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/ICUTS2013_Paris/UTO%20Metros%20Opportunities%20and%20Challenges%20%20VER%201.1.pdf) the are 48 UTO lines in 32 cities
             around the world.  It is now time to bring this technology
             to all rail lines.
 
@@ -190,9 +170,7 @@ Hmm...Not to jump the gun here, but
             yielding higher revenues and a more satisfied traveling
             public.  Alain
 
-## [](https://www.dmv.ca.gov/portal/home/dmv.htm?lang=en) [DMV
-
-          proposes regulations to test self-driving cars](http://techwire.net/dmv-proposes-regulations-test-self-driving-cars/)
+##  [DMV proposes regulations to test self-driving cars](http://techwire.net/dmv-proposes-regulations-test-self-driving-cars/)
 
 By Amy Stewart posted on December 4, 2013 "The
         California Department of Motor Vehicles (DMV) has published
@@ -211,9 +189,7 @@ By Amy Stewart posted on December 4, 2013 "The
         at [http://oal.ca.gov/res/docs/pdf/notice/48z-2013.pdf](http://oal.ca.gov/res/docs/pdf/notice/48z-2013.pdf),
         starting at page 1867."[Read more](http://techwire.net/dmv-proposes-regulations-test-self-driving-cars/)
 
-The [proposed
-
-                regulations](http://oal.ca.gov/res/docs/pdf/notice/48z-2013.pdf)are a must read.  A public hearing has
+The [proposed regulations](http://oal.ca.gov/res/docs/pdf/notice/48z-2013.pdf)are a must read.  A public hearing has
               been scheduled to provide interested parties an
               opportunity to provide statements, both oral and in
               writing, on this proposed regulatory action.  The
@@ -222,9 +198,7 @@ The [proposed
               headquarters office at 2415 First Avenue, Sacramento,
               California.  Alain
 
-## [](http://www.cio.com/)[It's
-
-            Time to Leave the Driving to the Droids](http://www.cio.com/article/744277/It_s_Time_to_Leave_the_Driving_to_the_Droids)
+## [It's Time to Leave the Driving to the Droids](http://www.cio.com/article/744277/It_s_Time_to_Leave_the_Driving_to_the_Droids)
 
  Tom Kaneshige, Thu, December 05, 2013 " Every day, America's
           roads fill up with texting drivers, drivers jabbering on their
@@ -250,9 +224,7 @@ During the BART strike this year, for instance, people were
           driving except during emergencies -- everything is automated.
           Many BART riders were outraged that union workers were
           demanding more money when they didn't seem to be doing much
-          work..." [Read
-
-            more](http://www.cio.com/article/744277/It_s_Time_to_Leave_the_Driving_to_the_Droids)
+          work..." [Read more](http://www.cio.com/article/744277/It_s_Time_to_Leave_the_Driving_to_the_Droids)
 
 # Call for Papers &
             Abstracts:
@@ -271,27 +243,21 @@ During the BART strike this year, for instance, people were
 # Calendar of Upcoming
           Events:
 
-[](http://transportation.njit.edu/itsnj/ITS_Information_Packet.pdf)
 
-## [2013
-
-              ITS New Jersey Annual Meeting](http://transportation.njit.edu/itsnj/ITS_Information_Packet.pdf)
+## [2013 ITS New Jersey Annual Meeting](http://transportation.njit.edu/itsnj/ITS_Information_Packet.pdf)
 
 MetLife Stadium
 
 December 16, 2013,   East
               Rutherford, NJ 07073
 
-[Bernie
-            Wagenblast interview of Dennis Motiani](http://www.buzzsprout.com/18472/133642)
+[Bernie Wagenblast interview of Dennis Motiani](http://www.buzzsprout.com/18472/133642)
 
 # Recent Versions of:
 
           December 1, 2013
 
-## [Amazon's
-
-        Jeff Bezos'86 looks to the future](http://www.cbsnews.com/news/amazons-jeff-bezos-looks-to-the-future/)
+## [Amazon's Jeff Bezos'86 looks to the future](http://www.cbsnews.com/news/amazons-jeff-bezos-looks-to-the-future/)
 
     Sunday, December 1, 2013  CBS New, 60 Minutes "... But
     during our visit to Amazon's campus in Seattle, Bezos kept telling
@@ -321,21 +287,17 @@ December 16, 2013,   East
 
     Charlie Rose: Wow!
 
-    ... [Read
-
-      more](http://www.cbsnews.com/news/amazons-jeff-bezos-looks-to-the-future/)  See video starting
+    ... [Read more](http://www.cbsnews.com/news/amazons-jeff-bezos-looks-to-the-future/)  See video starting
 
         @ 11:00.  Beyond SmartDriving Cars?  Very interesting! Alain
 
           November 22, 2013
 
-## [Auto Correct: Has the self-driving car
-        at last arrived?](http://www.newyorker.com/reporting/2013/11/25/131125fa_fact_bilger)
+## [Auto Correct: Has the self-driving car at last arrived?](http://www.newyorker.com/reporting/2013/11/25/131125fa_fact_bilger)
 
     by Burkhard Bilger November 25, 2013:  An
         absolutely great article featuring Anthony Levandowski, Product
-        Manager, Google Self-Driving Car and more.  [A
-          MUST read](http://www.newyorker.com/reporting/2013/11/25/131125fa_fact_bilger).  Alain
+        Manager, Google Self-Driving Car and more.  [A MUST read](http://www.newyorker.com/reporting/2013/11/25/131125fa_fact_bilger).  Alain
 
 ## [House hearing on driverless cars](http://transport.house.gov/calendar/eventsingle.aspx?EventID=357149)
 
@@ -344,9 +306,7 @@ November 19, 2013, House hearing on  "How Autonomous Vehicles
         the Subcommittee on Highways and Transit, chaired by U.S. Rep.
         Tom Petri (R-WI)
 
-Click: [to](http://transport.house.gov/calendar/eventsingle.aspx?EventID=357149)[Watch
-
-              the webcast of this hearing](http://transport.house.gov/calendar/eventsingle.aspx?EventID=357149)
+Click: [to](http://transport.house.gov/calendar/eventsingle.aspx?EventID=357149)[Watch the webcast of this hearing](http://transport.house.gov/calendar/eventsingle.aspx?EventID=357149)
 
 Here are a few overriding comments:
 
@@ -366,13 +326,11 @@ Here are a few overriding comments:
         insightful.  Some excellent questions seemed to not be
         understood by any of the witnesses.
 
-[Summary
-
-            of the Questioning of the witnesses](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/HouseHearing_119113/SummaryOfQuestioning_HouseHearing_111913.pdf)
+[Summary of the Questioning of the witnesses](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/HouseHearing_119113/SummaryOfQuestioning_HouseHearing_111913.pdf)
 
 [Summary of the Testimony of the witnesses](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/HouseHearing_119113/SummaryOfTestimony_HouseHearing_111913.pdf)     Alain
 
-## [](http://www.fleng.org/seminars.cfm?event_id=598)[Florida Automated Vehicles Summit](http://www.fleng.org/images/files/1025%2013Draft%20Agenda_Florida%20Automated%20Vehicle%20Summit.pdf)
+## [Florida Automated Vehicles Summit](http://www.fleng.org/images/files/1025%2013Draft%20Agenda_Florida%20Automated%20Vehicle%20Summit.pdf)
 
      November 14 – 15, 2013, Marriott Waterside Hotel, Tampa, FL .  This was an excellent conference.  I
         highly recommend that each State do something similar in terms
@@ -390,38 +348,25 @@ Here are a few overriding comments:
 
 ##
 
-## [Clifford
-
-        I. Nass](http://comm.stanford.edu/faculty-nass/)'81,*86  [expert
-
-        on human/computer interactions, dead at 55](http://news.stanford.edu/news/2013/november/cliff-nass-obit-110413.html)
+## [Clifford I. Nass](http://comm.stanford.edu/faculty-nass/)'81,*86  [expert on human/computer interactions, dead at 55](http://news.stanford.edu/news/2013/november/cliff-nass-obit-110413.html)
 
 Tragic!! What a terrible
-          loss.  We have all taken an enormous step backwards.  [His
-
-            simulator.](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Videos/Nass_Driving_Simulator_Stanford.mp4) Alain
+          loss.  We have all taken an enormous step backwards.  [His simulator.](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Videos/Nass_Driving_Simulator_Stanford.mp4) Alain
 
           November 05, 2013
 
-## [](http://www.euroncap.com/about.aspx) [On
+##  [On the Road with Autonomous Emergency Braking (AEB) Systems](http://euroncap.synapticdigital.com/Latest-Release/on-the-road-with-autonomous-emergency-braking-systems/s/0d5f0a78-2afc-4c63-ad36-a1acdb2c0b19)
 
-        the Road with Autonomous Emergency Braking (AEB) Systems](http://euroncap.synapticdigital.com/Latest-Release/on-the-road-with-autonomous-emergency-braking-systems/s/0d5f0a78-2afc-4c63-ad36-a1acdb2c0b19)
-
-[Press
-
-        Releas](http://preview.thenewsmarket.com/Previews/NCAP/DocumentAssets/305458_v2.pdf)e: Brussels 29 October – "Euro NCAP releases
+[Press Releas](http://preview.thenewsmarket.com/Previews/NCAP/DocumentAssets/305458_v2.pdf)e: Brussels 29 October – "Euro NCAP releases
       the first results of rear-end crash avoidance systems
       tested against the upcoming 2014 rating protocol. Eight vehicles
       have been compared with respect to their performance on the test
       track.
 
 A good summary of the tests appears in[FleetDirectory](http://www.fleetdirectory.co.uk/)
-[First
-
-              self-braking cars rated by Euro NCAP](http://www.fleetdirectory.co.uk/news/first-autonomous-braking-systems-rated-by-euro-ncap/) by John
+[First self-braking cars rated by Euro NCAP](http://www.fleetdirectory.co.uk/news/first-autonomous-braking-systems-rated-by-euro-ncap/) by John
           Simpson 30 October 2013. Eight (8)  car models equipped AEB
-          systems were tested and are reported on [Euro NCAP's
-            website](http://euroncap.synapticdigital.com/).  Both "City" tests and "Inter-Urban" tests were
+          systems were tested and are reported on [Euro NCAP's website](http://euroncap.synapticdigital.com/).  Both "City" tests and "Inter-Urban" tests were
           conducted of the Autonomous Emergency Braking (AEB) systems.
           While the test results indicate that at least some of these
           systems work some of the time, only one perfect score was
@@ -443,18 +388,14 @@ A good summary of the tests appears in[FleetDirectory](http://www.fleetdirectory
 
         11, 2013
 
-## [The
-
-        Ethics of Autonomous Cars](http://www.theatlantic.com/technology/archive/2013/10/the-ethics-of-autonomous-cars/280360/)
+## [The Ethics of Autonomous Cars](http://www.theatlantic.com/technology/archive/2013/10/the-ethics-of-autonomous-cars/280360/)
 
 [Patrick Lin](http://www.theatlantic.com/patrick-lin/)
     Oct 8 2013, "If a small tree branch pokes out onto a highway and
     there's no incoming traffic, we'd simply drift a little into the
     opposite lane and drive around it. But an automated car might come
     to a full stop, as it dutifully observes traffic laws that prohibit
-    crossing a double-yellow line...." [Read
-
-      more](http://www.theatlantic.com/technology/archive/2013/10/the-ethics-of-autonomous-cars/280360/)  Good article as are some of
+    crossing a double-yellow line...." [Read more](http://www.theatlantic.com/technology/archive/2013/10/the-ethics-of-autonomous-cars/280360/)  Good article as are some of
         the comments that follow. I'll add mine:  Yes, ethics are really
         important here, but we also need to not be sophomoric.   Laws,
         even traffic laws, are created and interpreted with human
@@ -484,9 +425,7 @@ A good summary of the tests appears in[FleetDirectory](http://www.fleetdirectory
 
               September 28, 2013
 
-## [IIHS
-
-            issues first crash avoidance ratings](http://www.iihs.org/iihs/news/desktopnews/iihs-issues-first-crash-avoidance-ratings-under-new-test-program-7-midsize-vehicles-earn-top-marks-for-front-crash-prevention)
+## [IIHS issues first crash avoidance ratings](http://www.iihs.org/iihs/news/desktopnews/iihs-issues-first-crash-avoidance-ratings-under-new-test-program-7-midsize-vehicles-earn-top-marks-for-front-crash-prevention)
 
 IIHS News | Sept. 27, 2013  ARLINGTON, Va. —
           "A new test program by the Insurance Institute for Highway
@@ -521,11 +460,7 @@ The Institute rates models with optional or
           damaging the test vehicles," Zuby says. "As such, we expect
           crash mitigation benefits at higher speeds as well."
 
-[Read
-
-            more](http://www.iihs.org/iihs/news/desktopnews/iihs-issues-first-crash-avoidance-ratings-under-new-test-program-7-midsize-vehicles-earn-top-marks-for-front-crash-prevention)  [See
-
-            Video](http://www.youtube.com/watch?feature=player_embedded&v=omHES8mqtW4) [http://www.youtube.com/watch?feature=player_embedded&v=omHES8mqtW4](http://www.youtube.com/watch?feature=player_embedded&v=omHES8mqtW4)
+[Read more](http://www.iihs.org/iihs/news/desktopnews/iihs-issues-first-crash-avoidance-ratings-under-new-test-program-7-midsize-vehicles-earn-top-marks-for-front-crash-prevention)  [See Video](http://www.youtube.com/watch?feature=player_embedded&v=omHES8mqtW4) [http://www.youtube.com/watch?feature=player_embedded&v=omHES8mqtW4](http://www.youtube.com/watch?feature=player_embedded&v=omHES8mqtW4)
 
 Hats
 
@@ -533,9 +468,7 @@ Hats
                   of tests!
 
 Be sure to look at the
-              scoring table at the bottom of the [IIHS
-
-                news release](http://www.iihs.org/iihs/news/desktopnews/iihs-issues-first-crash-avoidance-ratings-under-new-test-program-7-midsize-vehicles-earn-top-marks-for-front-crash-prevention). It is disheartening to learn that for
+              scoring table at the bottom of the [IIHS news release](http://www.iihs.org/iihs/news/desktopnews/iihs-issues-first-crash-avoidance-ratings-under-new-test-program-7-midsize-vehicles-earn-top-marks-for-front-crash-prevention). It is disheartening to learn that for
               the most part, these systems didn't work!  Only Subaru,
               Cadillac and Volvo didn't crash in the 12 mph test and
               only Subaru in the 25 mph test.  The purpose of these
@@ -551,7 +484,7 @@ Why would manufacturers
               into); whereas no crash incurs zero "cost" (except an
               elevated heart beat).  Alain
 
-  [](Mailto:alaink@princeton.edu)[Mailto:alaink@princeton.edu](Mailto:alaink@princeton.edu)[](Mailto:alaink@princeton.edu)
+  [Mailto:alaink@princeton.edu](Mailto:alaink@princeton.edu)
 
 --
 
@@ -561,9 +494,7 @@ Why would manufacturers
 
     ***************************************************************************************************************
 
-    This list is maintained by [Alain
-
-      Kornhauser](mailto:alaink@princeton.edu) and hosted by the [Princeton University LISTSERV](http://lists.princeton.edu).
+    This list is maintained by [Alain Kornhauser](mailto:alaink@princeton.edu) and hosted by the [Princeton University LISTSERV](http://lists.princeton.edu).
 
 [Unsubscribe](https://lists.princeton.edu/cgi-bin/wa?TICKET=NzM1MjMzIGJpbm9AUFJJTkNFVE9OLkVEVSBTTUFSVERSSVZJTkdDQVJTIGluYtYkJuu3&c=SIGNOFF)
     | [Re-subscribe](https://lists.princeton.edu/cgi-bin/wa?TICKET=NzM1MjMzIGJpbm9AUFJJTkNFVE9OLkVEVSBTTUFSVERSSVZJTkdDQVJTIGluYtYkJuu3&c=SIGNUP)

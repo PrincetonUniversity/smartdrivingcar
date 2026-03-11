@@ -12,8 +12,7 @@ Click or tap if you trust this link.">Sunday,
   21st
 edition of the 12th year of SmartDrivingCars eLetter
 
- [](https://electrek.co/2024/05/07/tesla-release-everything-we-want-to-know-about-autopilot-fsd-nhtsa-forces/)[The
- Battle for the Streets of New York](https://www.nytimes.com/interactive/2024/05/13/nyregion/nyc-traffic-congestion-pricing-parking.html)
+ [The Battle for the Streets of New York](https://www.nytimes.com/interactive/2024/05/13/nyregion/nyc-traffic-congestion-pricing-parking.html)
 
 D. Stewart,  May 13, "On a recent morning, the intersection of East 77th Street and Lexington Avenue presented a vivid illustration of the tumult.
 
@@ -35,10 +34,8 @@ Is Waymo as  clueless as Apple, when nobody in any room during any meeting rais
 [Crush!](https://youtu.be/ntjkwIXWtrc) embody the perfect antithesis of our brilliant
 [1984 Superbowl ad](https://www.youtube.com/watch?v=ErwS24cBZPc)?  What are people thinking around here???" Alain
 
-[Just
- Published](https://www.amazon.com/Real-Case-Driverless-Mobility-Vehicles/dp/0443236852/ref=sr_1_1?crid=1XSXZ611C2JCN&keywords=Kornhauser+sena&qid=1707095108&sprefix=kornhauser+sena%2Caps%2C76&sr=8-1&ufe=app_do%3Aamzn1.fos.18ed3cb5-28d5-4975-8bc7-93deae8f9840)!!!
-[Go
- to Amazon.com](https://www.amazon.com/Real-Case-Driverless-Mobility-Vehicles/dp/0443236852/ref=sr_1_1?crid=1XSXZ611C2JCN&keywords=Kornhauser+sena&qid=1707095108&sprefix=kornhauser+sena%2Caps%2C76&sr=8-1&ufe=app_do%3Aamzn1.fos.18ed3cb5-28d5-4975-8bc7-93deae8f9840)… You can still be first on your block to have one
+[Just Published](https://www.amazon.com/Real-Case-Driverless-Mobility-Vehicles/dp/0443236852/ref=sr_1_1?crid=1XSXZ611C2JCN&keywords=Kornhauser+sena&qid=1707095108&sprefix=kornhauser+sena%2Caps%2C76&sr=8-1&ufe=app_do%3Aamzn1.fos.18ed3cb5-28d5-4975-8bc7-93deae8f9840)!!!
+[Go to Amazon.com](https://www.amazon.com/Real-Case-Driverless-Mobility-Vehicles/dp/0443236852/ref=sr_1_1?crid=1XSXZ611C2JCN&keywords=Kornhauser+sena&qid=1707095108&sprefix=kornhauser+sena%2Caps%2C76&sr=8-1&ufe=app_do%3Aamzn1.fos.18ed3cb5-28d5-4975-8bc7-93deae8f9840)… You can still be first on your block to have one
 J.
 
 SmartDrivingCars
@@ -66,20 +63,17 @@ F. Fishkin, May 19, " The Battle for the Streets
 * [49:18](https://www.youtube.com/watch?v=8ZDsMVLhYzM&t=2958s) Toyota press release on 2025 Corolla doesn't headline the vehicle's
  stellar automatic emergency braking capability as much as it sh
 
-   [6](https://summit.princeton.edu/)[th](https://summit.princeton.edu/)[Princeton
- SmartDrivingCar Summit](https://summit.princeton.edu/)
+   [6](https://summit.princeton.edu/)[th](https://summit.princeton.edu/)[Princeton SmartDrivingCar Summit](https://summit.princeton.edu/)
 
 Alain Kornhauser, May 12 ".
-.."[Read
- more](https://summit.princeton.edu/)
+.."[Read more](https://summit.princeton.edu/)
 Hmmmm.... Our intention is to hold lively, honest exchanges
  in which all participants feel comfortable sharing as candidly as is reasonable. Please see the
 [registration](https://summit.princeton.edu/register)
  and [sponsorship](https://summit.princeton.edu/sponsorship)
  pages.  Registration closes on the 22nd. Hope you'll be able to join in with us. Alain
 
-[Fast
- China Factoid … It's not always about the EVs..](https://glennmercer.substack.com/p/fast-china-factoid?utm_source=post-email-title&publication_id=824075&post_id=144751719&utm_campaign=email-post-title&isFreemail=true&r=3y2r5&triedRedirect=true&utm_medium=email).
+[Fast China Factoid … It's not always about the EVs..](https://glennmercer.substack.com/p/fast-china-factoid?utm_source=post-email-title&publication_id=824075&post_id=144751719&utm_campaign=email-post-title&isFreemail=true&r=3y2r5&triedRedirect=true&utm_medium=email).
 
 G. Mercer,  May 18,
  We have a longer more substantive post in the the works, but for now just one simple chart on
@@ -91,8 +85,7 @@ All of this is important stuff and the core observation that these EVs will repr
 But one small corrective to the narrative as it stands today: most Chinese light-duty vehicle exports at present are gasoline powered (aka ICE, internal combustion engines).
  From the Economist:  [Link](https://substackcdn.com/image/fetch/w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F80f6ec29-843e-4315-aacb-5464611ea8d9_411x457.jpeg)
   …"
-[Read
- More](https://glennmercer.substack.com/p/fast-china-factoid?utm_source=post-email-title&publication_id=824075&post_id=144751719&utm_campaign=email-post-title&isFreemail=true&r=3y2r5&triedRedirect=true&utm_medium=email)  Hmmmm… Be prepared for
+[Read More](https://glennmercer.substack.com/p/fast-china-factoid?utm_source=post-email-title&publication_id=824075&post_id=144751719&utm_campaign=email-post-title&isFreemail=true&r=3y2r5&triedRedirect=true&utm_medium=email)  Hmmmm… Be prepared for
 [deja vu all over again](https://en.wikipedia.org/wiki/Deja_Vu_All_Over_Again). We may be at the 60 years ago (1964) version of
 [this chart](https://substackcdn.com/image/fetch/w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff4618c23-6ee5-42ce-ba3f-defef553627f_1888x1258.jpeg). Yipes!
 Alain
@@ -108,8 +101,7 @@ But since when does Warren even look at "volume"?   I thought he was a "bottom-
 🙂Profits go up!!! Warren is no dummy.  He knows that VERY well.
 😎Alain
 
-  [Cruise
- is back driving autonomously for the first time since pedestrian-dragging incident](https://www.theverge.com/2024/5/13/24155559/cruise-robotaxi-return-phoenix-autonomous-safety-driver)
+  [Cruise is back driving autonomously for the first time since pedestrian-dragging incident](https://www.theverge.com/2024/5/13/24155559/cruise-robotaxi-return-phoenix-autonomous-safety-driver)
 
 Andrew Hawkins, May 8, "
 Cruise's autonomous vehicles are officially back on the road and driving autonomously.…
@@ -144,12 +136,10 @@ The current condition of the pedestrian remains unknown. A representative from Z
 [Read More](https://www.teslarati.com/morgan-stanley-tesla-fsd-expectations-v12-3-6-experience/)  Hmmmm…
  What a relief that the pedestrian is seemingly ok enough to have been discharged! But what about the person who ran them down? Has the perpetrator of the hit-and-run been brought to justice???  Alain
 
- [For
- self-driving cars, the free ride is over](https://www.theverge.com/24157228/robotaxi-nhtsa-investigations-waymo-tesla-zoox)
+ [For self-driving cars, the free ride is over](https://www.theverge.com/24157228/robotaxi-nhtsa-investigations-waymo-tesla-zoox)
 
 Andrew Hawkins, May 8, "
-For years, autonomous vehicles have operated in relative obscurity. With few vehicles on the road and [a laissez-faire attitude](https://www.theverge.com/2020/6/15/21292014/dot-nhtsa-self-driving-car-test-data-voluntary) [among
- government regulators](https://www.theverge.com/2018/10/4/17936576/self-driving-car-av-guidelines-3-nhtsa-elaine-chao), automakers and big tech firms have been free to test — and even commercially deploy — with little oversight.
+For years, autonomous vehicles have operated in relative obscurity. With few vehicles on the road and [a laissez-faire attitude](https://www.theverge.com/2020/6/15/21292014/dot-nhtsa-self-driving-car-test-data-voluntary) [among government regulators](https://www.theverge.com/2018/10/4/17936576/self-driving-car-av-guidelines-3-nhtsa-elaine-chao), automakers and big tech firms have been free to test — and even commercially deploy — with little oversight.
 
 Well, those days are done. In rapid succession, the National Highway Traffic Safety Administration (NHTSA) has opened investigations into almost all the major companies testing autonomous
  vehicles as well as those that offer advanced driver-assist systems in their production cars. [Tesla](https://www.theverge.com/2024/4/26/24141403/tesla-autopilot-nhtsa-investigation-recall-software-fix), [Ford](https://www.theverge.com/2024/4/29/24144244/nhtsa-ford-bluecruise-software-investigation-fatal-crashes-mustang-mach-e), [Waymo](https://www.theverge.com/2024/5/14/24156238/waymo-nhtsa-investigation-crash-wrong-side-road), [Cruise](https://www.cnbc.com/2023/10/17/cruise-under-nhtsa-probe-into-autonomous-driving-pedestrian-injuries.html#:~:text=The%20National%20Highway%20Traffic%20Safety,identified%20on%20%E2%80%9Cpublic%20websites.%E2%80%9D),
@@ -162,20 +152,17 @@ Hmmmm… I guess that is all good, but how many crashes are
 Reminder: 40k die every year on our roadways. That's 40k. And a human hit-and-run -and-as-yet-apprehended driver struck the pedestrian to initiate the cascade that may put an
  end to Cruise (as per above).  What is NHTSA doing about these tragedies? Andrew, I'd love to have you report on that.   Alain
 
-[Uber Wants to Partner
- with AV Companies and Says Tesla FSD Looks Like a Great Product](https://www.nextbigfuture.com/2024/05/uber-wants-to-partner-with-av-companies-and-says-tesla-fsd-looks-like-a-great-product.html)
+[Uber Wants to Partner with AV Companies and Says Tesla FSD Looks Like a Great Product](https://www.nextbigfuture.com/2024/05/uber-wants-to-partner-with-av-companies-and-says-tesla-fsd-looks-like-a-great-product.html)
 
 B. Wang, May 9, "In the Q1 earnings call, Uber says Tesla FSD looks like a great product and they also said startup Wayve looks good.
 
-Uber stated they want to partner with autonomous vehicle companies. Uber says they will provide demand for autonomous vehicles..."[Read
- More](https://www.nextbigfuture.com/2024/05/uber-wants-to-partner-with-av-companies-and-says-tesla-fsd-looks-like-a-great-product.html)  Hmmmm…
+Uber stated they want to partner with autonomous vehicle companies. Uber says they will provide demand for autonomous vehicles..."[Read More](https://www.nextbigfuture.com/2024/05/uber-wants-to-partner-with-av-companies-and-says-tesla-fsd-looks-like-a-great-product.html)  Hmmmm…
 That's how Waymo and Cruise got themselves into trouble in SF, trying to give rides to Uber users.  Plus, Uber can't be allocating the most profitable or otherwise
  desirable rides to AV companies to the detriment of their human drivers, so the AV companies will get the leftovers.  Not a great way to treat a partner.  After successfully developing the AV, something that Uber spectacularly failed to do, I'm sure that any
  AV company can readily develop a more than competitive customer-facing app and use what they would have had to pay Uber to crush them in the marketplace.  Also, the AV companies can focus entirely on serving its customers.  Uber has to make its drivers happy,
  and their happiness is not necessarily aligned with that of its customers.  Not the most admirable position for a company.  Lucky for Uber, there are some things that AVs can't do so well.  So, their niche market is safe, and niche.  Alain
 
-[Cruise
- founder Kyle Vogt is back with a robot startup](https://techcrunch.com/2024/05/13/cruise-founder-kyle-vogt-is-back-with-a-robot-startup/)
+[Cruise founder Kyle Vogt is back with a robot startup](https://techcrunch.com/2024/05/13/cruise-founder-kyle-vogt-is-back-with-a-robot-startup/)
 
 K. Koresec, May 13, "Kyle Vogt, the former founder and CEO of self-driving car company Cruise, has a new VC-backed robotics startup focused on household chores.
 
@@ -189,7 +176,7 @@ Congratulations Kyle!!! I'm so happy for you.   Alain
  One last
 [C'mon man](https://www.youtube.com/watch?v=hKLe5-8Hdx8):
 
- [](https://www.bloomberg.com/news/newsletters/2024-05-17/tesla-s-full-self-driving-struggled-soon-after-leaving-my-driveway)[Tesla's 'Full Self-Driving' Struggled Soon After Leaving My Driveway](https://www.bloomberg.com/news/newsletters/2024-05-17/tesla-s-full-self-driving-struggled-soon-after-leaving-my-driveway)
+ [Tesla's 'Full Self-Driving' Struggled Soon After Leaving My Driveway](https://www.bloomberg.com/news/newsletters/2024-05-17/tesla-s-full-self-driving-struggled-soon-after-leaving-my-driveway)
 
 E. Ludlow, May 17, "In late March, I leased a Model Y, meaning I was one of the Tesla customers offered a 30-day free trial of what the company calls Full Self-Driving, or FSD.
  I drove several hundred miles with this system engaged, and while I lived to tell about it and was impressed at times, I can confirm that it doesn't live up to the name. In fact, FSD tended to have trouble assisting me almost immediately after leaving my driveway.…"

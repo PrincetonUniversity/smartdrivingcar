@@ -11,16 +11,13 @@ February 25, 2025
 2​nd
           edition of the 13th year of SmartDrivingCars eLetter
 
-[THE
-            MARCH 2025 ISSUE](https://www.michaellsena.com/the-dispatcher-newsletter-2/)
+[THE MARCH 2025 ISSUE](https://www.michaellsena.com/the-dispatcher-newsletter-2/)
 
-M. L. Sena, Feb. 25, "This is the last (for now) issue of [The
-          Dispatcher](https://www.michaellsena.com/the-dispatcher-newsletter-2/). From parking and to the Pope in this March
+M. L. Sena, Feb. 25, "This is the last (for now) issue of [The Dispatcher](https://www.michaellsena.com/the-dispatcher-newsletter-2/). From parking and to the Pope in this March
         issue. It covers a
         pretty broad spectrum, as have all of the issues I have written
         for the past
-        dozen years. And, as always, I hope you enjoy it. .…."  [Read
-                more](https://www.michaellsena.com/the-dispatcher-newsletter-2/)
+        dozen years. And, as always, I hope you enjoy it. .…."  [Read more](https://www.michaellsena.com/the-dispatcher-newsletter-2/)
         Hmmmm…    As
           always, a lot to digest here.  Enjoy! And hopefully Michael
           will be
@@ -32,8 +29,7 @@ M. L. Sena, Feb. 25, "This is the last (for now) issue of [The
           talk," which we did
           in the book below.  Alain
 
-[The
-              Real Case for Driverless Mobility](https://www.audible.com/pd/The-Real-Case-for-Driverless-Mobility-Audiobook/B0D9PJY6MW?eac_link=ZoLH4Nc4tFbA&ref=web_search_eac_asin_1&eac_selected_type=asin&eac_selected=B0D9PJY6MW&qid=Jjuo8XtoL1&eac_id=142-9434497-3046660_Jjuo8XtoL1&sr=1-1)
+[The Real Case for Driverless Mobility](https://www.audible.com/pd/The-Real-Case-for-Driverless-Mobility-Audiobook/B0D9PJY6MW?eac_link=ZoLH4Nc4tFbA&ref=web_search_eac_asin_1&eac_selected_type=asin&eac_selected=B0D9PJY6MW&qid=Jjuo8XtoL1&eac_id=142-9434497-3046660_Jjuo8XtoL1&sr=1-1)
 
 Narrated by Fred Fishkin,
             Available now
@@ -42,8 +38,7 @@ Narrated by Fred Fishkin,
           still relevant)!!!  [Go to Amazon.com](https://www.amazon.com/Real-Case-Driverless-Mobility-Vehicles/dp/0443236852/ref=sr_1_1?crid=1XSXZ611C2JCN&keywords=Kornhauser+sena&qid=1707095108&sprefix=kornhauser+sena%2Caps%2C76&sr=8-1&ufe=app_do%3Aamzn1.fos.18ed3cb5-28d5-4975-8bc7-93deae8f9840)…
 
 SmartDrivingCars [ZoomCast 387](https://www.youtube.com/watch?v=yd0w9JOSVxw)/
-          [PodCast
-            387](https://open.spotify.com/episode/6CInlBE5Vv6uAdjzthU8C2?si=qL43cXoBSeq7-jbFj5RJIQ)– The Last(?)Dispatcher w Michael Sena
+          [PodCast 387](https://open.spotify.com/episode/6CInlBE5Vv6uAdjzthU8C2?si=qL43cXoBSeq7-jbFj5RJIQ)– The Last(?)Dispatcher w Michael Sena
 
 F. Fishkin,
         Feb. 25  "Keeping
@@ -210,13 +205,11 @@ F. Fishkin,
                                 moreHmmmm…Again, interesting and informative to
                           watch Rob report it live.  Alain
 
-[These
-            experts were stunned by OpenAI Deep Research](https://www.understandingai.org/p/these-experts-were-stunned-by-openai?utm_campaign=email-half-post&r=3y2r5&utm_source=substack&utm_medium=email)
+[These experts were stunned by OpenAI Deep Research](https://www.understandingai.org/p/these-experts-were-stunned-by-openai?utm_campaign=email-half-post&r=3y2r5&utm_source=substack&utm_medium=email)
 
 T. Lee, Feb.
         21, "Earlier this
-        month, OpenAI [released
-          a new product](https://openai.com/index/introducing-deep-research/) called Deep Research. Based on a variant of
+        month, OpenAI [released a new product](https://openai.com/index/introducing-deep-research/) called Deep Research. Based on a variant of
         the (still
         unreleased) o3 reasoning model, Deep Research can think for even
         longer than
@@ -234,8 +227,7 @@ I wanted to thoroughly test Deep Research out, so I
         them was Rick Wolnitzek, a retired architect who runs the
         website [Architekwiki](https://www.architekwiki.com/).
         Wolnitzek asked for a detailed building code checklist for a
-        100,000-square-foot educational building….." [Read
-                more](https://www.understandingai.org/p/these-experts-were-stunned-by-openai?utm_campaign=email-half-post&r=3y2r5&utm_source=substack&utm_medium=email)
+        100,000-square-foot educational building….." [Read more](https://www.understandingai.org/p/these-experts-were-stunned-by-openai?utm_campaign=email-half-post&r=3y2r5&utm_source=substack&utm_medium=email)
         Hmmmm…    This
           is
           really interesting; however, I continue to wonder as to the
@@ -256,11 +248,9 @@ I wanted to thoroughly test Deep Research out, so I
           noise from the
           signal biased one way and the signal biased the other way. Do
           its results earn
-          a "[Good
-            Housekeeping Seal of Approval](https://en.wikipedia.org/wiki/Good_Housekeeping)"???  Alain
+          a "[Good Housekeeping Seal of Approval](https://en.wikipedia.org/wiki/Good_Housekeeping)"???  Alain
 
-[Has
-              Progress on Travel Safety Run Off the Road?](https://www.planetizen.com/features/134356-has-progress-travel-safety-run-road)
+[Has Progress on Travel Safety Run Off the Road?](https://www.planetizen.com/features/134356-has-progress-travel-safety-run-road)
 
 S. Polzin Feb. 21, "…As is the case with airline accidents,
         many
@@ -283,8 +273,7 @@ Safety initiatives that attempt to shape drivers' behaviors
         the data suggest
         huge numbers of fatalities are associated with driver
         misbehaviors. Perhaps
-        that is why safety professionals use the terminology [crashes
-          and not accidents](https://www.planetizen.com/node/80560/does-it-matter-if-we-call-crashes-accidents).
+        that is why safety professionals use the terminology [crashes and not accidents](https://www.planetizen.com/node/80560/does-it-matter-if-we-call-crashes-accidents).
 
 There are certainly rules influencing behaviors — for
         example,
@@ -294,8 +283,7 @@ There are certainly rules influencing behaviors — for
         crash fatalities.
         Americans have shown reluctance to be more aggressive in
         initiatives to
-        influence driver behavior.….." [Read
-                more](https://www.planetizen.com/features/134356-has-progress-travel-safety-run-road)
+        influence driver behavior.….." [Read more](https://www.planetizen.com/features/134356-has-progress-travel-safety-run-road)
         Hmmmm…    This
           is
           a thoughtful and important article on roadway safety.
@@ -371,8 +359,7 @@ Make speed limits sensible instead of at some who knows
 Sorry for the rant.
           Alain
 
-          [Tesla
-              to Not Allow](https://www.notateslaapp.com/news/2559/tesla-to-not-allow-cybercabs-on-uber-according-to-uber-ceo)[Cybercabs](https://www.notateslaapp.com/news/2559/tesla-to-not-allow-cybercabs-on-uber-according-to-uber-ceo)[on Uber, According to Uber CEO](https://www.notateslaapp.com/news/2559/tesla-to-not-allow-cybercabs-on-uber-according-to-uber-ceo)
+          [Tesla to Not Allow](https://www.notateslaapp.com/news/2559/tesla-to-not-allow-cybercabs-on-uber-according-to-uber-ceo)[Cybercabs](https://www.notateslaapp.com/news/2559/tesla-to-not-allow-cybercabs-on-uber-according-to-uber-ceo)[on Uber, According to Uber CEO](https://www.notateslaapp.com/news/2559/tesla-to-not-allow-cybercabs-on-uber-according-to-uber-ceo)
 
 K. Singh, Feb
         24, "Uber CEO
@@ -386,13 +373,11 @@ K. Singh, Feb
         network
         itself, Khosrowshahi [said](https://www.bloomberg.com/news/articles/2025-02-21/uber-ceo-says-musk-wants-to-go-alone-on-tesla-robotaxi-rollout) that
         Musk is not
-        open to adding Cybercabs to Uber's platform…."  [Read
-                more](https://www.notateslaapp.com/news/2559/tesla-to-not-allow-cybercabs-on-uber-according-to-uber-ceo)
+        open to adding Cybercabs to Uber's platform…."  [Read more](https://www.notateslaapp.com/news/2559/tesla-to-not-allow-cybercabs-on-uber-according-to-uber-ceo)
         Hmmmm…    Ouch!!
            Uber is so yesterday!  Alain
 
-[Black
-            Box DECODED - What the helicopter pilots said](https://www.youtube.com/watch?v=4gqK6qta9_0)
+[Black Box DECODED - What the helicopter pilots said](https://www.youtube.com/watch?v=4gqK6qta9_0)
 
 B. Murray, Feb. 14, "The NTSB released their notes about
         the in
@@ -400,8 +385,7 @@ B. Murray, Feb. 14, "The NTSB released their notes about
         released what
         data they had, and didn't have. There were clearly many issues
         going on that
-        night, all leading to tragedy over Washington DC…."  [Read
-                more](https://www.youtube.com/watch?v=4gqK6qta9_0)
+        night, all leading to tragedy over Washington DC…."  [Read more](https://www.youtube.com/watch?v=4gqK6qta9_0)
         Hmmmm…    Chilling!!
            Are we in 2025 or 1965??? Chilling.  So many things need to
           be
@@ -411,8 +395,7 @@ B. Murray, Feb. 14, "The NTSB released their notes about
           readings to our
           pilots?? Alain
 
-          [Chinese Automaker Unveils $9,500
-              Self-Driving Car](https://decrypt.co/305475/china-automaker-byd-9500-self-driving-car)
+          [Chinese Automaker Unveils $9,500 Self-Driving Car](https://decrypt.co/305475/china-automaker-byd-9500-self-driving-car)
 
 J. Lanz, Feb. 11, "Chinese automaker BYD announced that
         self-driving capabilities would come standard on its entire
@@ -424,8 +407,7 @@ The company made its "God's Eye" driver-assistance
         ultra-luxury
         "Yangwang U8" down to the ultra-cheap "Seagull"—a tiny hatchback
         that costs
-        just 69,800 yuan ($9,500). …."  [Read
-                more](https://decrypt.co/305475/china-automaker-byd-9500-self-driving-car)
+        just 69,800 yuan ($9,500). …."  [Read more](https://decrypt.co/305475/china-automaker-byd-9500-self-driving-car)
 Hmmmm…
             "God's Eye" Driver-ASSISTANCE…  Why in the title it
           claims
@@ -434,26 +416,20 @@ Hmmmm…
           claim to be "God-driving" ????  So much smoke & mirrors.
             Alain
 
-The AIGRID  [Elon
-            Musk's Grok3 Just STUNNED The Entire AI Industry (Beats
-            Everything)](https://www.youtube.com/watch?v=igDU0_R_oOM)
+The AIGRID  [Elon Musk's Grok3 Just STUNNED The Entire AI Industry (Beats Everything)](https://www.youtube.com/watch?v=igDU0_R_oOM)
 
-   [$14,000
-            on Waymos?! Meet SF's biggest robotaxi addicts](https://sfstandard.com/2025/02/25/meet-the-biggest-waymo-addicts/)
+   [$14,000 on Waymos?! Meet SF's biggest robotaxi addicts](https://sfstandard.com/2025/02/25/meet-the-biggest-waymo-addicts/)
 
 E.
         Wallach, Feb 25, "Since the first Waymo hit San Francisco's
         streets in
-        the [summer
-          of 2021](https://waymo.com/blog/2021/08/welcoming-our-first-riders-in-san-francisco), the robotaxis have been quick to attract fans,
+        the [summer of 2021](https://waymo.com/blog/2021/08/welcoming-our-first-riders-in-san-francisco), the robotaxis have been quick to attract fans,
         the occasional act
         of [vandalism](https://sfstandard.com/2024/10/02/waymo-bullying-robotaxis-blocked-vandalized/),
         or [arson](http://sfstandard.com/2024/04/17/san-francisco-chinatown-waymo-fire-arrest/) notwithstanding.
         The driverless car service opened in [June](https://waymo.com/blog/2024/06/waymo-one-is-now-open-to-everyone-in-san-francisco) to
         anyone with a smartphone, and just six months later it had
-        gobbled up [22% of
-          the city's
-          ride-hailing market](https://x.com/aleximm/status/1867257473671082356).
+        gobbled up [22% of the city's ride-hailing market](https://x.com/aleximm/status/1867257473671082356).
 
 But
         some
@@ -465,8 +441,7 @@ But
 
 The
         Standard set out to find some of the most addicted Waymo
-        riders…."  [Read
-                more](https://sfstandard.com/2025/02/25/meet-the-biggest-waymo-addicts/)
+        riders…."  [Read more](https://sfstandard.com/2025/02/25/meet-the-biggest-waymo-addicts/)
         Hmmmm…    This
           is
           fine, but isn't this a little embarrassing to Waymo? They've
@@ -492,14 +467,12 @@ The
           throw in the towel! ☹
           Alain
 
-          [Starship's
-            Eighth Flight Test](https://www.spacex.com/launches/mission/?missionId=starship-flight-8)
+          [Starship's Eighth Flight Test](https://www.spacex.com/launches/mission/?missionId=starship-flight-8)
 
 Staff,
         Feb 26, "The eighth flight test of [Starship](https://www.spacex.com/vehicles/starship/) is
         preparing to launch as soon as Friday, February 28, pending
-        regulatory approval…."  [Read
-                more](https://www.spacex.com/launches/mission/?missionId=starship-flight-8)   Hmmmm…    Since I'm throwing in the
+        regulatory approval…."  [Read more](https://www.spacex.com/launches/mission/?missionId=starship-flight-8)   Hmmmm…    Since I'm throwing in the
             towel, I'm
             going to try to be there.  If
             not this
@@ -507,8 +480,7 @@ Staff,
             will likely try to
             catch both the booster and the ship. 😊 Alain
 
-        Draft… [Orf467F24:
-              Investigation of MOVES-Style Mobility Deployments](https://www.dropbox.com/scl/fi/zxmw5iip1v3p9mv8416d0/Orf467F24-Compilation-of-Final-MOVES-style-Mobility-Reports.docx?rlkey=7yr746atariyj24ytagqbjwvu&dl=0)…
+        Draft… [Orf467F24: Investigation of MOVES-Style Mobility Deployments](https://www.dropbox.com/scl/fi/zxmw5iip1v3p9mv8416d0/Orf467F24-Compilation-of-Final-MOVES-style-Mobility-Reports.docx?rlkey=7yr746atariyj24ytagqbjwvu&dl=0)…
         Draft
 
 Alain
