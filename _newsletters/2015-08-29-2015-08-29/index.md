@@ -166,5 +166,4 @@ The Inspiration Truck and Daimler's underlying "Highway Pilot" technology isn't 
 
 [Autonomous Freightliner Inspiration truck makes a splash at the Hoover Dam](http://www.gizmag.com/daimler-unveils-autonomous-freightliner-inspiration-truck/37384/) Alain
 
-This list is maintained by [Alain Kornhauser](mailto:alaink@princeton.edu) and hosted by the [Princeton University LISTSERV](http://lists.princeton.edu).
-
+This list is maintained by Alain Kornhauser and hosted by the Princeton University LISTSERV.

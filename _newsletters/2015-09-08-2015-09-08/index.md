@@ -86,7 +86,7 @@ We should start with the points about the future of transportation that are near
 
 Also, I'm not a believer in Barclay's estimate that an SAV will replace 9 conventional vehicles. My guess (based on trying to serve real trips at real times) is that a Taxis will struggle to achieve a nationwide Average Vehicle Occupancy (AVO) of greater than 2.0 on a daily basis and 3.0 during the "peak hour". Given that it is unlikely that on average, one of these vehicle can reposition itself and serve more than two groups of passengers at peak times, a replacement of even 5 cars will be a stretch. Else, this is a very good read. Alain
 
-### [After Canceling Of Streetcar, What's Plan B For Columbia Pike?](http://wamu.org/programs/metro_connection/15/09/04/after_cancelling_the_streetcar_whats_plan_b_for_columbia_pike)
+### [After Canceling Of Streetcar, What's Plan B For Columbia Pike?](http://wamu.org/programs/metro_connection/15/09/04/after_cancelling-the-streetcar-whats-plan-b-for-columbia-pike)
 
 M. Di Caro, Sept 4 " Nine months after Arlington County leaders unexpectedly canceled a long-planned streetcar line along Columbia Pike from Skyline Plaza in Fairfax County to Pentagon City, residents are beginning to ask when they might see Plan B. .. It has invited the backers of an alternative transportation system, known as JPods, to give a presentation to association members later this month...." [Read more](http://wamu.org/programs/metro_connection/15/09/04/after_cancelling-the-streetcar-whats-plan-b-for-columbia-pike) Hmmmm.... Alain
 
@@ -164,7 +164,7 @@ Late last year, the Cybersecurity Enhancement Act, originally introduced by Cong
 
 ### [Center for Automated Road Transportation Safety @ Fort Monmouth is Launched](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/FtMonmouth/NJCARTS/PressRelease_CARTS@FM.pdf)
 
-Monday, July 20, 2015 – "After more than three (3) years of planning and several major meetings the substantive launch the Center for Automated Road Transportation Safety @ Fort Monmouth (CARTS@FM) occurred this week with the establishment of the not-for-profit. (501(c) (6)), New Jersey Corporation. The mission of this Center is to substantially improve safety on our existing conventional roadway infrastructure through the use of inexpensive automated collision avoidance systems installed on individual vehicles operating harmoniously with conventional vehicles throughout most, if not all, existing roadways. The scope of CARTS's mission is across all modes that utilize the nation's conventional road system: trucks, buses and cars..." [Read more](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/FtMonmouth/NJCARTS/PressRelease_CARTS@FM.pdf)
+Monday, July 20, 2015 – "After more than three years of planning and several major meetings the substantive launch the Center for Automated Road Transportation Safety @ Fort Monmouth (CARTS@FM) occurred this week with the establishment of the not-for-profit. (501(c) (6)), New Jersey Corporation. The mission of this Center is to substantially improve safety on our existing conventional roadway infrastructure through the use of inexpensive automated collision avoidance systems installed on individual vehicles operating harmoniously with conventional vehicles throughout most, if not all, existing roadways. The scope of CARTS's mission is across all modes that utilize the nation's conventional road system: trucks, buses and cars..." [Read more](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/FtMonmouth/NJCARTS/PressRelease_CARTS@FM.pdf)
 
 ###
 
@@ -228,7 +228,7 @@ Hmmm... So tragic!!!
 
 What a crying shame!!! So preventable!!! We will miss them :-(
 
-Unfortunately, the NYT and others tried but missed the fundamental point by following up with ["Deaths of Math Genius John F. Nash Jr. and Wife Show Need to Use Seatbelts in Back, Experts Say](http://www.nytimes.com/2015/05/26/nyregion/deaths-of-math-genius-john-f-nash-jr-and-his-wife-show-need-to-use-seatbelts-in-back-experts-say.html)". Why do we so easily put up with crashes in the first place? It is as if it is OK to go around crashing, just put on a seat belt. Technology is available to avoid crashes, but there isn't sufficient public policy focus on avoiding crashes to accelerate its adoption and enhancement.
+Unfortunately, the NYT and others tried but missed the fundamental point by following up with ["Deaths of Math Genius John F. Nash Jr. and Wife Show Need to Use Seatbelts in Back, Experts Say](http://www.nytimes.com/2015/05/26/nyregion/deaths-of-math-genius-john-f-nash-jr-and-his-wife-show-need-to-use-seatbelts-in-back-experts-say)." Why do we so easily put up with crashes in the first place? It is as if it is OK to go around crashing, just put on a seat belt. Technology is available to avoid crashes, but there isn't sufficient public policy focus on avoiding crashes to accelerate its adoption and enhancement.
 
 The fundamental problem was that the taxi was not equipped with available automated stability control, lane keeping and collision avoidance systems. This was not an accident, it was a failed public safety policy that refuses to move beyond crash mitigation and its challenged "V2x" initiatives to embrace forthright automated crash avoidance.
 
