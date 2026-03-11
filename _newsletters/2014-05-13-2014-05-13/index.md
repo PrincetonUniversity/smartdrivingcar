@@ -6,15 +6,15 @@ permalink: /2014-05-13-2014-05-13/
 ---
 May 13, 2014
 
-## [Autonomous Vehicles: Handing Over Control: Opportunities and Risks for Insurance](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/PDFs/LLoyds-Autonomous%20Vehicles.pdf)
+## [Autonomous Vehicles: Handing Over Control: Opportunities and Risks for Insurance](http://orfe.princeton.edu/~alaink/SmartDrivingCars/PDFs/LLoyds-Autonomous%20Vehicles.pdf)
 
-Gillian Yeomans, Lloyd's Exposure Management "...The insurance industry's expertise in risk management will be a factor in the adoption of autonomous ... technology. In an area where regulation and safety standards are yet to be developed, insurers can encourage prudent progress by making their own risk assessments and providing policies for responsible operators. There is an opportunity for insurers to engage in the transfer of new risks, making it possible for continued technological innovation. This technological innovation may give rise to new business opportunities, with corresponding opportunities for insurers.... [Read more](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/PDFs/LLoyds-Autonomous%20Vehicles.pdf) Nice to see Lloyd's weigh in here. Alain
+Gillian Yeomans, Lloyd's Exposure Management "...The insurance industry's expertise in risk management will be a factor in the adoption of autonomous ... technology. In an area where regulation and safety standards are yet to be developed, insurers can encourage prudent progress by making their own risk assessments and providing policies for responsible operators. There is an opportunity for insurers to engage in the transfer of new risks, making it possible for continued technological innovation. This technological innovation may give rise to new business opportunities, with corresponding opportunities for insurers.... [Read more](http://orfe.princeton.edu/~alaink/SmartDrivingCars/PDFs/LLoyds-Autonomous%20Vehicles.pdf) Nice to see Lloyd's weigh in here. Alain
 
-## [A National Disaggregate Transportation Demand Model for the Analysis of Autonomous Taxi Systems](http://orfe.princeton.edu/%7Ealaink/Theses/SeniorTheses%2714/WyroughPresentation.pdf)
+## [A National Disaggregate Transportation Demand Model for the Analysis of Autonomous Taxi Systems](http://orfe.princeton.edu/~alaink/Theses/SeniorTheses'14/WyroughPresentation.pdf)
 
 Hill Wyrough's slide presentation of his evolution of the Princeton Trip Synthesizer (PTS). See especially slide 22 which lists the resulting data sets for each of the nation's 3,143 counties. We are still archiving the data sets. As soon as we have finished, this slide will be updated to include URLs so that you may download the synthesized people and trip files for any county in the US. Alain
 
-## [Bankrupt???](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/PDFs/Induct_EBODACC-A_20140003_0001_p000%281%29.pdf) [Liquidation judiciaire Induct](http://www.infofaillite.fr/fr/liquidation-judiciaire/762965/induct.aspx)
+## [Bankrupt???](http://orfe.princeton.edu/~alaink/SmartDrivingCars/PDFs/Induct_EBODACC-A_20140003_0001_p000(1).pdf) [Liquidation judiciaire Induct](http://www.infofaillite.fr/fr/liquidation-judiciaire/762965/induct.aspx)
 
 Update from Corey Clothier:
 
@@ -80,21 +80,21 @@ May 2, 2014
 
 John Villasenor Apr 25 2014 "It may seem odd, but we already have the laws we need for dealing with this inevitable situation." [Read more](http://www.theatlantic.com/business/archive/2014/04/who-is-at-fault-when-a-driverless-car-gets-in-an-accident/361250/) especially the source report:
 
-### [Products Liability and Driverless Cars: Issues and Guiding Principles for Legislation](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/PDFs/Brookings_Products_Liability_and_Driverless_Cars.pdf)
+### [Products Liability and Driverless Cars: Issues and Guiding Principles for Legislation](http://orfe.princeton.edu/~alaink/SmartDrivingCars/PDFs/Brookings_Products_Liability_and_Driverless_Cars.pdf)
 
 April 18, 2014
 
 ### Newly Available Drafts of Recent Student Theses
 
-Wyrough, Alexander Penn Hill Jr.: [A National Disaggregate Transportation Demand Model for the Analysis of autonomous Taxi Systems](http://orfe.princeton.edu/%7Ealaink/Theses/SeniorTheses%2714/Draft-Wyrough_NoationalDisaggregateTripSynthesizer.pdf)
+Wyrough, Alexander Penn Hill Jr.: [A National Disaggregate Transportation Demand Model for the Analysis of autonomous Taxi Systems](http://orfe.princeton.edu/~alaink/Theses/SeniorTheses'14/Draft-Wyrough_NoationalDisaggregateTripSynthesizer.pdf)
 
 Included is one synthetic realization for each of the 308.7 Million individuals contained in the 2010 Census and each of the 1.01 Billion trips {oLat, oLon, oTime, dLat, dLon} these individuals were synthesized to have made on a typical weekday in October. Persons are organized in individual Home County Files (All 186,49 persons that lived in Peoria County, Il., or the 1,585,873 persons that lived in Manhattan, for example). Trips are available in files for each person residing in a county (with many trips diffusing into other counties, states and even countries) as well as by oCounty (the 649,781 trips that originate in Peoria County or the 8,085,055 trips that originate in Manhattan, many of which are made by 1.5 million persons that don't live in Manhattan.). For example, one can get all the trips made by the residents of Manhattan or by all trips originating in Manhattan. The user is left with the task of finding all trips that either originate, terminate or go through Manhattan. Note, trips to work where the workplace was greater than 200 miles from the home location were routed via the nearest major airports. Alain
 
-Lee, Eileen: [Uncovering Systemic Corruption in the ER: An Empirical Analysis of Motor Vehicle-Related Hospital Bill and their Impact on Insurance Companies](http://orfe.princeton.edu/%7Ealaink/Theses/SeniorTheses%2714/Draft-Lee_UncoveringSystematicCorruptionInTheER.pdf)
+Lee, Eileen: [Uncovering Systemic Corruption in the ER: An Empirical Analysis of Motor Vehicle-Related Hospital Bill and their Impact on Insurance Companies](http://orfe.princeton.edu/~alaink/Theses/SeniorTheses'14/Draft-Lee_UncoveringSystematicCorruptionInTheER.pdf)
 
-Sun, Zhuyi (Judy): [Causal Price Discrimination: An Analysis of the Healthcare Costs Associated with Motor Vehicle and Transportation Collisions](http://orfe.princeton.edu/%7Ealaink/Theses/SeniorTheses%2714/Draft-Sun_CausalPriceDiscrimination.pdf)
+Sun, Zhuyi (Judy): [Causal Price Discrimination: An Analysis of the Healthcare Costs Associated with Motor Vehicle and Transportation Collisions](http://orfe.princeton.edu/~alaink/Theses/SeniorTheses'14/Draft-Sun_CausalPriceDiscrimination.pdf)
 
-Rhodes, Brandon Xavier: [An Analysis of Economically Efficient Insurance Schemes for Automated Vehicle](http://orfe.princeton.edu/%7Ealaink/Theses/SeniorTheses%2714/Draft-Rhodes_InsuranceSchemesForAutomatedVehicles.pdf)
+Rhodes, Brandon Xavier: [An Analysis of Economically Efficient Insurance Schemes for Automated Vehicle](http://orfe.princeton.edu/~alaink/Theses/SeniorTheses'14/Draft-Rhodes_InsuranceSchemesForAutomatedVehicles.pdf)
 
 April 11, 2014
 
@@ -136,8 +136,8 @@ March 7, 2014
 
 Hmmm. Just what we need in our cars, an easier way to be distracted from driving. Maybe this should be called "Apple CarCrash". Alain
 
-### [New Jersey Rail Ridership Opportunities If a Taxis Are Available...](http://orfe.princeton.edu/%7Ealaink/NJ_aTaxiOrf467F13/Orf467F13_FinalReports/NJTransit_Report_Almost.pdf)
+### [New Jersey Rail Ridership Opportunities If a Taxis Are Available...](http://orfe.princeton.edu/~alaink/NJ_aTaxiOrf467F13/Orf467F13_FinalReports/NJTransit_Report_Almost.pdf)
 
-A.L. Kornhauser, et al March, 2014 ".... Examined are the rail ridership opportunities that NJ Transit (NJT) might enjoy if autonomous Taxis (aTaxis) were available to readily bring customers to or from its rail stations. Such collection and distribution services would not only shower NJT with new customers but they would enable NJT to redevelop its parking facilities to more profitable "Transit Village" uses. [Read more](http://orfe.princeton.edu/%7Ealaink/NJ_aTaxiOrf467F13/Orf467F13_FinalReports/NJTransit_Report_Almost.pdf)
+A.L. Kornhauser, et al March, 2014 ".... Examined are the rail ridership opportunities that NJ Transit (NJT) might enjoy if autonomous Taxis (aTaxis) were available to readily bring customers to or from its rail stations. Such collection and distribution services would not only shower NJT with new customers but they would enable NJT to redevelop its parking facilities to more profitable "Transit Village" uses. [Read more](http://orfe.princeton.edu/~alaink/NJ_aTaxiOrf467F13/Orf467F13_FinalReports/NJTransit_Report_Almost.pdf)
 
-This list is maintained by [Alain Kornhauser](mailto:alaink@princeton.edu) and hosted by the [Princeton University LISTSERV](http://lists.princeton.edu).
+This list is maintained by Alain Kornhauser and hosted by the Princeton University LISTSERV.

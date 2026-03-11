@@ -11,7 +11,7 @@ October 31, 2014
 Matt Friedman Oct 27 "...The bill ([S734)](http://www.njleg.state.nj.us/2014/Bills/S1000/734_I1.HTM), which was approved by the state Senate Transportation Committee 5-0, would require the New Jersey Motor Vehicle Commission to establish a program to allow people to obtain endorsements on their driver's licenses to operate and test "autonomous vehicles," which aren't on the consumer market yet but have been under research and development by tech companies and institutions for years.
 
 "This legislation sends a strong message to innovators and job creators that New Jersey is not afraid of being the home to new thinking and the way of the future," Senate Minority Leader Tom Kean, Jr. (R-Union), said in a statement. "…this legislation is essential to attract and retain new jobs, innovation and entrepreneurship in New Jersey, as driverless vehicle efforts here continue to progress.".."
-[Read more](http://www.nj.com/politics/index.ssf/2014/10/nj_senate_panel_paves_the_way_for_driverless_cars.html) ...and [my lead testimony](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/NJ-AV-Legislation/KornhauserTestimonyS734.pdf), that of [Michael Scrudato of Munich Re](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/NJ-AV-Legislation/ScrudatoTestimonyS734.pdf) ,[Newsworks](http://www.newsworks.org/index.php/new-jersey-more/item/74437-nj-paving-the-way-for-self-driven-cars) and CBS.com [video interview](http://newyork.cbslocal.com/2014/10/27/driverless-car-bill-cruises-through-nj-senate-panel/). Progress! (only negative testimony came from Honda which was so bad it ended up helping. [C'mon Honda](https://www.youtube.com/watch?v=IpbMhgwcLQk)!) Alain
+[Read more](http://www.nj.com/politics/index.ssf/2014/10/nj_senate_panel_paves_the_way_for_driverless_cars.html) ...and [my lead testimony](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/NJ-AV-Legislation/KornhauserTestimonyS734.pdf), that of [Michael Scrudato of Munich Re](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/NJ-AV-Legislation/ScrudatoTestimonyS734.pdf), [Newsworks](http://www.newsworks.org/index.php/new-jersey-more/item/74437-nj-paving-the-way-for-self-driven-cars) and CBS.com [video interview](http://newyork.cbslocal.com/2014/10/27/driverless-car-bill-cruises-through-nj-senate-panel/). Progress! (only negative testimony came from Honda which was so bad it ended up helping. [C'mon Honda](https://www.youtube.com/watch?v=IpbMhgwcLQk)!) Alain
 
 ## [Bill Ford charts a course for the future](http://www.mckinsey.com/Insights/Innovation/Bill_Ford_charts_a_course_for_the_future?cid=mckq50-eml-alt-mip-mck-oth-1410)
 
@@ -173,6 +173,6 @@ Yet, if NHTSA instead "mandated" or encouraged/focused-on automated collision av
 
 [Mailto:alaink@princeton.edu](Mailto:alaink@princeton.edu)
 
-This list is maintained by [Alain Kornhauser](mailto:alaink@princeton.edu) and hosted by the [Princeton University LISTSERV](http://lists.princeton.edu).
+This list is maintained by Alain Kornhauser and hosted by the Princeton University LISTSERV.
 
 [Unsubscribe](https://lists.princeton.edu/cgi-bin/wa?TICKET=NzM1MjMzIGJpbm9AUFJJTkNFVE9OLkVEVSBTTUFSVERSSVZJTkdDQVJTIGluYtYkJuu3&c=SIGNOFF) | [Re-subscribe](https://lists.princeton.edu/cgi-bin/wa?TICKET=NzM1MjMzIGJpbm9AUFJJTkNFVE9OLkVEVSBTTUFSVERSSVZJTkdDQVJTIGluYtYkJuu3&c=SIGNUP)
