@@ -126,4 +126,4 @@ J. Hyde & S. Carty, Dec. 21 "Google and Ford will create a joint venture to buil
 
 Video similar to part of Adam's Luncheon talk @ 2015 Florida Automated Vehicle Symposium on Dec 1. [Hmmm ... Watch Video](http://orfe.princeton.edu/~alaink/SmartDrivingCars/Videos/AdamJonas10T_MorganStanley.mp4) especially at the 13:12 mark. Compelling; especially after the 60 Minutes segment above! Also see his [TipRanks](https://www.tipranks.com/analysts/adam-jonas).
 
-This list is maintained by [Alain Kornhauser](mailto:alaink@princeton.edu) and hosted by the [Princeton University LISTSERV](http://lists.princeton.edu).
+This list is maintained by Alain Kornhauser.

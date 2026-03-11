@@ -111,6 +111,8 @@ def sanitize_body(body):
     4. Collapse runs of 3+ spaces to single space (outside code blocks)
     5. Remove excessive blank lines (3+ → 2)
     6. Remove empty markdown links [](url) and [ ](url)
+    7. Remove Listserv footer lines
+    8. Strip <code></code> tags (keep inner content)
     """
     # 1. Unwrap Safe Links — match full URLs in markdown link syntax ](url)
     def _replace_safelink(m):
@@ -150,6 +152,15 @@ def sanitize_body(body):
 
     # 6. Remove empty links: [](url) or [ ](url)
     body = re.sub(r'\[\s*\]\([^\)]+\)', '', body)
+
+    # 7. Remove Listserv footer lines (with or without markdown links)
+    body = re.sub(
+        r'\n*This list is maintained by.*?hosted by.*?LISTSERV.*?\.?\s*$',
+        '', body, flags=re.MULTILINE
+    )
+
+    # 8. Strip <code></code> tags, keeping inner content
+    body = re.sub(r'</?code>', '', body, flags=re.IGNORECASE)
 
     return body
 

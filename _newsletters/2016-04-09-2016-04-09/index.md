@@ -80,7 +80,7 @@ Y. Gautam, Jan 2016,"...There is synergy between AV and CV - CV brings additiona
 
 ## Half-baked stuff that probably doesn't deserve your time:
 
-[THE MOST ADVANCED SELF-DRIVING CARS YOU CAN BUY TODAY](https://www.thrillist.com/cars/nation/self-driving-cars-for-sale-now)
+### [THE MOST ADVANCED SELF-DRIVING CARS YOU CAN BUY TODAY](https://www.thrillist.com/cars/nation/self-driving-cars-for-sale-now)
 
 J. Bablansky. Apr 2016, "From Acura to Volvo, more and more car companies are getting into the game of self-driving tech, and it's now easier -- and more affordable -- than ever to buy a car that basically drives itself..." [Read more](https://www.thrillist.com/cars/nation/self-driving-cars-for-sale-now) Hmmm... They are rated 1 through 6 and Tesla is 6 and the S-class is 5, I guess higher is better, but then why is Subaru 1 and Infinity is listed when the tech costs $8,700??? Half-baked! Alain
 
@@ -182,12 +182,12 @@ Google already has several links to Ford; the head of the self-driving car proje
 
 And Ford executives have been clear for years that the company was ready to embrace a future where cars were sold as on-demand services. Ford CEO Mark Fields has repeatedly said Ford was thinking of itself "as a mobility company," and what that would mean for its business" [Read more](https://www.yahoo.com/autos/google-pairs-with-ford-to-1326344237400118.html) Hmmm...Not surprising and not exclusive. :-) Alain
 
-### [Adam Jonas' View on Autonomous Cars](http://linkback.morganstanley.com/web/sendlink/webapp/BMServlet?file=kpmb1mve-3p5j-g000-97a7-d8d3855a5201&store=0&d=1&user=dagn42i4pkquh-0&__gda__=1549992813_42e5b148a43b27b943d8d34f1e5c3295#0011&dagn42i4pkquh-1&1549992813_f2523f33158f4db2b6d628c5c9008f28&0021&dagn42i4pkquh-2&1549992813_f9a15a1b06e61ec454fad4cc7759010a)
+### [Adam Jonas' View on Autonomous Cars](http://linkback.morganstanley.com/web/sendlink/webapp/BMServlet?file=kpmb1mve-3p5-g000-97a7-d8d3855a5201&store=0&d=1&user=dagn42i4pkquh-0&__gda__=1549992813_42e5b148a43b27b943d8d34f1e5c3295#0011&dagn42i4pkquh-1&1549992813_f2523f33158f4db2b6d628c5c9008f28&0021&dagn42i4pkquh-2&1549992813_f9a15a1b06e61ec454fad4cc7759010a)
 
 Video similar to part of Adam's Luncheon talk @ 2015 Florida Automated Vehicle Symposium on Dec 1. [Hmmm ... Watch Video](http://orfe.princeton.edu/~alaink/SmartDrivingCars/Videos/AdamJonas10T_MorganStanley.mp4) especially at the 13:12 mark. Compelling; especially after the 60 Minutes segment above! Also see his [TipRanks](https://www.tipranks.com/analysts/adam-jonas).
 
 Alain
 
-This list is maintained by [Alain Kornhauser](mailto:alaink@princeton.edu) and hosted by the [Princeton University LISTSERV](http://lists.princeton.edu).
+This list is maintained by Alain Kornhauser and hosted by the Princeton University LISTSERV.
 
 [Unsubscribe](https://lists.princeton.edu/cgi-bin/wa?TICKET=NzM1MjMzIGJpbm9AUFJJTkNFVE9OLkVEVSBTTUFSVERSSVZJTkdDQVJTIGluYtYkJuu3&c=SIGNOFF) | [Re-subscribe](https://lists.princeton.edu/cgi-bin/wa?SUBED1=SmartDrivingCars&A=1)

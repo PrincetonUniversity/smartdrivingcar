@@ -12,17 +12,17 @@ April 23, 2016
 
 K. Shea, April 19, "...The Robbinsville High School student who was driving the car that [struck and killed the district's superintendent Tuesday](http://www.nj.com/mercer/index.ssf/2016/04/nj_superintendent_remembered_for_energy_commitment.html) morning was late for a school trip when the crash occurred, according to two sources involved in the investigation...." [Read more](http://www.nj.com/mercer/index.ssf/2016/04/student_who_struck_superintendent_was_late_for_cla.html) Hmmm...Most tragic in so many dimensions!!! HOWEVER, it was NOT the student that STRUCK the Superintendent, it was the CAR. AND the CAR needs to start being held responsible for ALLOWING such tragedies to ruin so many lives. It is very likely that this tragedy could have been averted had the car been equipped with an automated collision avoidance system and/or lane-keeping system. Given the availability of these "tragedy avoidance systems", we should all be asking why this CAR wasn't equipped with such a system and why all cars aren't so equipped. Certainly innocent runners and dogs need to be asking such questions. So too, that young lady's car insurance company; it must be muttering: "shouda bought her that upgrade". What about the car companies themselves who are largely just sitting on the technology or the dealerships that don't feel compelled to espouse the benefits of such technology while pushing more "horsepower" and "Corinthian Leather" (and worse yet: "AooleCarXYZ" that distracts drivers). We all know that Washington is broken. Them staying out of the way is probably best (although aggressively applying better human-visible paint/laneMarkings and human-readable signs would go a long way to helping both attentive drivers and automated lane-keeping systems). Everyone else has fundamental self-interest at stake and each needs to stop pointing the finger to the frail human driver. We have the technology and the self-interest to make mobility substantially safer. Let's really get on with it. It's time! Alain
 
-### [Make American Transportation Great Again: Autonomous Taxi Fleet Management Strategies](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Papers/Zhu,Shirley_Final_Thesis2016.pdf)
+### [Make American Transportation Great Again: Autonomous Taxi Fleet Management Strategies](http://orfe.princeton.edu/~alaink/SmartDrivingCars/Papers/Zhu,Shirley_Final_Thesis2016.pdf)
 
-S. Zhu, Thesis, "...Using a fleet of vehicles of varied sizes and a data set of synthesized travel demand for the state of New Jersey, this thesis analyzes the benefits of ridesharing for New Jersey and explores various fleet management strategies and the costs associated with these strategies. Ridesharing is able to increase average vehicle occupancy from 1 to 1.74 and reduces total vehicle miles traveled by 43%. Even in an upper bound case, the total number of vehicles needed to serve all of New Jersey's travel demand is less than 50% of the number of vehicles currently on the road today in New Jersey, which would have significant benefits in terms of congestion and pollution...." [Read more](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Papers/Zhu,Shirley_Final_Thesis2016.pdf) Hmmm..Very interesting. Alain
+S. Zhu, Thesis, "...Using a fleet of vehicles of varied sizes and a data set of synthesized travel demand for the state of New Jersey, this thesis analyzes the benefits of ridesharing for New Jersey and explores various fleet management strategies and the costs associated with these strategies. Ridesharing is able to increase average vehicle occupancy from 1 to 1.74 and reduces total vehicle miles traveled by 43%. Even in an upper bound case, the total number of vehicles needed to serve all of New Jersey's travel demand is less than 50% of the number of vehicles currently on the road today in New Jersey, which would have significant benefits in terms of congestion and pollution...." [Read more](http://orfe.princeton.edu/~alaink/SmartDrivingCars/Papers/Zhu,Shirley_Final_Thesis2016.pdf) Hmmm..Very interesting. Alain
 
-### [Quantifying the Potential for Dynamic Ride-Sharing of New York City's Taxicabs](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Papers/Bhat,Suraj_Final_Thesis2016.pdf)
+### [Quantifying the Potential for Dynamic Ride-Sharing of New York City's Taxicabs](http://orfe.princeton.edu/~alaink/SmartDrivingCars/Papers/Bhat,Suraj_Final_Thesis2016.pdf)
 
-S. Baht, Thesis,"...This study confirms the existing potential for ride-sharing in the New York City Area, with ride-sharing simulations exhibiting a significantly higher average vehicle occupancy and requiring a lower fleet size than "direct" or non-ride-sharing schemes..."[Read more](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Papers/Bhat,Suraj_Final_Thesis2016.pdf) Hmmm..Very interesting. Alain
+S. Baht, Thesis,"...This study confirms the existing potential for ride-sharing in the New York City Area, with ride-sharing simulations exhibiting a significantly higher average vehicle occupancy and requiring a lower fleet size than "direct" or non-ride-sharing schemes..."[Read more](http://orfe.princeton.edu/~alaink/SmartDrivingCars/Papers/Bhat,Suraj_Final_Thesis2016.pdf) Hmmm..Very interesting. Alain
 
-### [A Ridesharing Analysis with a Hitchhiking Modification Applied to Taxi Trips in New York](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Papers/Schindele,A_Final_Thesis2016.pdf)
+### [A Ridesharing Analysis with a Hitchhiking Modification Applied to Taxi Trips in New York](http://orfe.princeton.edu/~alaink/SmartDrivingCars/Papers/Schindele,A_Final_Thesis2016.pdf)
 
-A. Schindele, Thesis, "...This thesis supplements the analysis with the addition of a "hitchhiking" policy. With such a policy in place, a taxi would, in addition to the original ridesharing mechanics, pick up passengers en route to its destination or destinations...."[Read more](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Papers/Bhat,Suraj_Final_Thesis2016.pdf) Hmmm..Very interesting. Alain
+A. Schindele, Thesis, "...This thesis supplements the analysis with the addition of a "hitchhiking" policy. With such a policy in place, a taxi would, in addition to the original ridesharing mechanics, pick up passengers en route to its destination or destinations...."[Read more](http://orfe.princeton.edu/~alaink/SmartDrivingCars/Papers/Bhat,Suraj_Final_Thesis2016.pdf) Hmmm..Very interesting. Alain
 
 ### [Autonomous taxis: Why you may never own a self-driving car](http://www.extremetech.com/extreme/176672-autonomous-taxis-why-you-may-never-own-a-self-driving-car)
 
@@ -54,9 +54,9 @@ April 17, "Chongqing Changan Automobile Co., Ford Motor Co.'s partner in China, 
 
 ## Some other thoughts that deserve your attention
 
-## [On the More Technical Side](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Papers/)
+## [On the More Technical Side](http://orfe.princeton.edu/~alaink/SmartDrivingCars/Papers/)
 
-[http://orfe.princeton.edu/~alaink/SmartDrivingCars/Papers/](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Papers/)
+[http://orfe.princeton.edu/~alaink/SmartDrivingCars/Papers/](http://orfe.princeton.edu/~alaink/SmartDrivingCars/Papers/)
 
 ## Recompiled
 
@@ -66,7 +66,7 @@ Old News & Smiles:
 
 ### [Driving to Safety: How Many Miles of Driving Would It Take to Demonstrate Autonomous Vehicle Reliability?](http://www.rand.org/pubs/research_reports/RR1478.html)
 
-N. Kalra and S. Paddock. April 2016, "How safe are autonomous vehicles? The answer is crucial for developing sound policies to govern their deployment. One proposal to assess safety is to test-drive autonomous vehicles in real traffic, observe their performance, and make statistical comparisons to human driver performance. This approach is logical, but is it practical?... [Read more](http://www.rand.org/pubs/research_reports/RR1478.html) Hmmm...[Worth reading the whole report.](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Papers/RAND_TestingAV_HowManyMiles.pdf) (So maybe it is slightly better than Half-baked). It lays out what everyone already knows. The 4 questions that it asks are appropriate ONLY if one realizes that the safety implications of a driven-mile vary enormously over many dimensions! The safety implications of "a mile-driven" here under these circumstances is not necessarily anywhere close to the same as "a mile driven" under different circumstances. Everyone knows that. Luckily, "policy-oriented deployment" is not what is going to lead to development and market adoption of this technology. It will be the realization that one only need this technology to work during the miles when drivers are inattentive which is obvious to even the most casual policy maker. C'mon Rand! Alain
+N. Kalra and S. Paddock. April 2016, "How safe are autonomous vehicles? The answer is crucial for developing sound policies to govern their deployment. One proposal to assess safety is to test-drive autonomous vehicles in real traffic, observe their performance, and make statistical comparisons to human driver performance. This approach is logical, but is it practical?... [Read more](http://www.rand.org/pubs/research_reports/RR1478.html) Hmmm...[Worth reading the whole report.](http://orfe.princeton.edu/~alaink/SmartDrivingCars/Papers/RAND_TestingAV_HowManyMiles.pdf) (So maybe it is slightly better than Half-baked). It lays out what everyone already knows. The 4 questions that it asks are appropriate ONLY if one realizes that the safety implications of a driven-mile vary enormously over many dimensions! The safety implications of "a mile-driven" here under these circumstances is not necessarily anywhere close to the same as "a mile driven" under different circumstances. Everyone knows that. Luckily, "policy-oriented deployment" is not what is going to lead to development and market adoption of this technology. It will be the realization that one only need this technology to work during the miles when drivers are inattentive which is obvious to even the most casual policy maker. C'mon Rand! Alain
 
 ### [U-M, Toyota announce plan to equip 5,000 Ann Arbor cars for connected vehicle research](http://www.mlive.com/business/ann-arbor/index.ssf/2016/04/u-m_toyota_announce_plan_to_eq.html)
 
@@ -92,15 +92,15 @@ J. Will, Apr 2016, "...It will likely be a decade or more before armies of legis
 
 ### [http://www.autonomoustrucksevent.com/agenda-mc](http://www.autonomoustrucksevent.com/agenda-mc)
 
-### [Workshop on Automated Vehicle Policy and Regulation:](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/PDFs/AutomatedVehiclePolicyAndRegulationV8DRAFT-1.pdf)
+### [Workshop on Automated Vehicle Policy and Regulation:](http://orfe.princeton.edu/~alaink/SmartDrivingCars/PDFs/AutomatedVehiclePolicyAndRegulationV8DRAFT-1.pdf)
 
-[A State Perspective](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/PDFs/AutomatedVehiclePolicyAndRegulationV8DRAFT-1.pdf)
+[A State Perspective](http://orfe.princeton.edu/~alaink/SmartDrivingCars/PDFs/AutomatedVehiclePolicyAndRegulationV8DRAFT-1.pdf)
 
 The National Transportation Center, University of Maryland
 
 May 18, 2016
 
-[Preliminary Program](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/PDFs/AutomatedVehiclePolicyAndRegulationV8DRAFT-1.pdf)
+[Preliminary Program](http://orfe.princeton.edu/~alaink/SmartDrivingCars/PDFs/AutomatedVehiclePolicyAndRegulationV8DRAFT-1.pdf)
 
 ### Recent Highlights of:
 
@@ -168,11 +168,11 @@ And Ford executives have been clear for years that the company was ready to embr
 
 ### [Adam Jonas' View on Autonomous Cars](http://linkback.morganstanley.com/web/sendlink/webapp/BMServlet?file=kpmb1mve-3p5j-g000-97a7-d8d3855a5201&store=0&d=1&user=dagn42i4pkquh-0&__gda__=1549992813_42e5b148a43b27b943d8d34f1e5c3295#0011&dagn42i4pkquh-1&1549992813_f2523f33158f4db2b6d628c5c9008f28&0021&dagn42i4pkquh-2&1549992813_f9a15a1b06e61ec454fad4cc7759010a)
 
-Video similar to part of Adam's Luncheon talk @ 2015 Florida Automated Vehicle Symposium on Dec 1. [Hmmm ... Watch Video](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Videos/AdamJonas10T_MorganStanley.mp4) especially at the 13:12 mark. Compelling; especially after the 60 Minutes segment above! Also see his [TipRanks](https://www.tipranks.com/analysts/adam-jonas).
+Video similar to part of Adam's Luncheon talk @ 2015 Florida Automated Vehicle Symposium on Dec 1. [Hmmm ... Watch Video](http://orfe.princeton.edu/~alaink/SmartDrivingCars/Videos/AdamJonas10T_MorganStanley.mp4) especially at the 13:12 mark. Compelling; especially after the 60 Minutes segment above! Also see his [TipRanks](https://www.tipranks.com/analysts/adam-jonas).
 
 Alain
 
-[Mailto:alaink@princeton.edu](Mailto:alaink@princeton.edu) 
+[Mailto:alaink@princeton.edu](mailto:alaink@princeton.edu) 
 
 This list is maintained by [Alain Kornhauser](mailto:alaink@princeton.edu) and hosted by the [Princeton University LISTSERV](http://lists.princeton.edu).
 

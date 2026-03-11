@@ -1,4 +1,4 @@
-.PHONY: help serve-local serve-preview serve-prod build-preview build-prod clean docker-local docker-preview docker-prod backfill backfill-dry-run ai-cleanup ai-cleanup-dry-run
+.PHONY: help serve-local serve-preview serve-prod build-preview build-prod clean docker-local docker-preview docker-prod backfill backfill-dry-run ai-cleanup ai-cleanup-dry-run sanitize sanitize-dry-run
 
 JEKYLL?=bundle exec jekyll
 PYTHON?=.venv/bin/python
@@ -60,3 +60,10 @@ ai-cleanup:
 
 ai-cleanup-dry-run:
 	$(PYTHON) scripts/ai_post_process.py _newsletters/*/index.md --dry-run
+
+# Second-pass sanitize (deterministic fixes only, no API key needed)
+sanitize:
+	$(PYTHON) scripts/ai_post_process.py --sanitize-only _newsletters/*/index.md
+
+sanitize-dry-run:
+	$(PYTHON) scripts/ai_post_process.py --sanitize-only --dry-run _newsletters/*/index.md
