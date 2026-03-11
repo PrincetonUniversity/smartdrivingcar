@@ -5,7 +5,9 @@ date: 2024-02-24
 permalink: /12.12-unintended-3-23-24/
 display_name: "12.12 - Unintended"
 ---
-Click or tap if you trust this link.">Saturday, March 23, 2024
+Click or tap if you trust this link. 
+
+Saturday, March 23, 2024
 
 12th edition of the 12th year of SmartDrivingCars eLetter
 

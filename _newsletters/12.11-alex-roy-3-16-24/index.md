@@ -5,7 +5,7 @@ date: 2024-02-24
 permalink: /12.11-alex-roy-3-16-24/
 display_name: "12.11 - Alex Roy"
 ---
-Click or tap if you trust this link.">Saturday, March 16, 2024
+Saturday, March 16, 2024
 
 11th edition of the 12th year of SmartDrivingCars eLetter
 
@@ -17,7 +17,7 @@ So you can imagine my reaction to the San Francisco mob that [torched an empty W
 
 I waited for someone to step in and defend Waymo—the only autonomous vehicle company that has successfully deployed driverless robotaxis anywhere. But all I found were venture capital bros on X complaining about Luddites, then Mayor London Breed waving the incident away by writing that there was "[no message or intent attached](https://sfstandard.com/2024/02/16/san-francisco-mayor-burned-waymo/)."…
 
-If the autonomous vehicle industry is ever to be regulated wisely, it needs smarter critics. If the industry is to grow safely and responsibly, it needs better defenders. …"
+If the autonomous vehicle industry is ever to be regulated wisely, it needs smarter critics. If the industry is to grow safely and responsibly, it needs better defenders. …"  
 [Read More](https://sfstandard.com/2024/03/13/waymo-safety-robotaxis/) Hmmmm… Safety is absolutely paramount. Without it you're not even in the building let alone on the bench and can't even imagine being one of the players; however, it is not the technology's disruptive element that will enable it to be a player in the mobility business. All existing conventional players are also very safe, or at least the existing mobility market perceives them to be safe enough; else those means of mobility would have failed long ago. What is disruptive about driverless is its flexibility and its affordability (of course without compromising safety else it does not exist) in terms of its cost to deliver high-quality mobility day in and day out. Alain
 
 [Just Published](https://www.amazon.com/Real-Case-Driverless-Mobility-Vehicles/dp/0443236852/ref=sr_1_1?crid=1XSXZ611C2JCN&keywords=Kornhauser+sena&qid=1707095108&sprefix=kornhauser+sena%2Caps%2C76&sr=8-1&ufe=app_do%3Aamzn1.fos.18ed3cb5-28d5-4975-8bc7-93deae8f9840)!!! [Go to Amazon.com](https://www.amazon.com/Real-Case-Driverless-Mobility-Vehicles/dp/0443236852/ref=sr_1_1?crid=1XSXZ611C2JCN&keywords=Kornhauser+sena&qid=1707095108&sprefix=kornhauser+sena%2Caps%2C76&sr=8-1&ufe=app_do%3Aamzn1.fos.18ed3cb5-28d5-4975-8bc7-93deae8f9840)… You can still be first on your block to have one J.
@@ -45,7 +45,7 @@ F. Fishkin, March 16, Waymo is the good actor in a sea of robotaxi competitors. 
 
 Staff, March 12, "The Insurance Institute for Highway Safety is introducing a [new ratings program](https://www.iihs.org/ratings/partial-automation-safeguards/) to encourage automakers to incorporate more robust safeguards into their partial driving automation systems. Out of the first 14 systems tested, only one earns an acceptable rating. Two are rated marginal, and 11 are rated poor.
 
-"We evaluated partial automation systems from BMW, Ford, General Motors, Genesis, Lexus, Mercedes-Benz, Nissan, Tesla and Volvo," IIHS President David Harkey said. "Most of them don't include adequate measures to prevent misuse and keep drivers from losing focus on what's happening on the road.". …."
+"We evaluated partial automation systems from BMW, Ford, General Motors, Genesis, Lexus, Mercedes-Benz, Nissan, Tesla and Volvo," IIHS President David Harkey said. "Most of them don't include adequate measures to prevent misuse and keep drivers from losing focus on what's happening on the road.". …."  
 [Read More](https://www.iihs.org/news/detail/first-partial-driving-automation-safeguard-ratings-show-industry-has-work-to-do) Hmmmm… Really good report! Yes, indeed, the car industry has much work that they should do!! Please look carefully at the IIHS [new ratings program](https://www.iihs.org/ratings/partial-automation-safeguards/). Alain
 
 [Partial automation safeguard ratings](https://www.iihs.org/ratings/partial-automation-safeguards)
@@ -157,7 +157,7 @@ Stephen Scherr, [a retired Goldman Sachs Group Inc. banker](https://www.marketwa
 West's "success in leading over 70,000 people at Delta and orchestrating highly effective operational turnarounds will position him well to lead Hertz," said in a statement Colin Farmer, the lead director on Hertz's board.….
 
 Scherr had expressed confidence in the business on Hertz's [last earnings call in early February,](https://www.marketwatch.com/story/hertzs-stock-slides-6-after-posting-wider-than-expected-loss-amid-continued-headwinds-from-evs-36733b8b?mod=mw_quote_news&mod=article_inline&mod=article_inline) saying that his optimistic view was "based on the continued stability of the demand and rate environment, the expected benefits of the strategic decision that we made in the fourth quarter regarding our EV fleet, which is also expected to reduce operational distraction, and the continued execution of our enhanced profitability plan"  
-[Read More](https://www.marketwatch.com/story/hertz-swaps-out-its-ceo-as-it-looks-to-revitalize-business-after-failed-ev-push-00b46d98) Hmmmm… How could EVs be anything but an 'operational distraction' since only but a very few of Hertz' potential customers have any experience with EVs. Absolutely last place one wants to become acquainted with the idiosyncrasies of EVs (regenerative braking, return fully charged, …) is when one is trying to get from the airport to where one is actually trying to go on the front end and catch a flight on the back end. I guess none of these recent hertz CEOs remember OJ and why the qualities of the old Hertz (pre bankruptcy) were so important to him. Ala
+[Read More](https://www.marketwatch.com/story/hertz-swaps-out-its-ceo-as-it-looks-to-revitalize-business-after-failed-ev-push-00b46d98) Hmmmm… How could EVs be anything but an 'operational distraction' since only but a very few of Hertz' potential customers have any experience with EVs. Absolutely last place one wants to become acquainted with the idiosyncrasies of EVs (regenerative braking, return fully charged, …) is when one is trying to get from the airport to where one is actually trying to go on the front end and catch a flight on the back end. I guess none of these recent hertz CEOs remember OJ and why the qualities of the old Hertz (pre bankruptcy) were so important to him. Alain
 
 [AI's Hottest Ticket: NVIDIA GTC Brings Together Automotive Leaders and Visionaries Transforming the Future of Transportation](https://blogs.nvidia.com/blog/gtc-2024-auto-sessions/)
 

@@ -15,7 +15,7 @@ J. Huang, March 18, "With the release and warm reception to FSD V12.3, it appear
 
 Tesla FSD V12.3 has been very impressive so far, with many users stating that the advanced driver-assist system can now navigate inner city streets like a fairly capable human driver. This does not mean to say that FSD has become a fully hands-free system, of course, but it does suggest that the system has improved to a degree where it can now navigate the intricacies of inner city driving confidently and safely.
 
-While Tesla does seem to be changing its tone somewhat with regard to FSD's marketing, the company's focus on supervised FSD — at least for now — does help emphasize just how far ahead Tesla is compared to other automakers also offering advanced driver-assist solutions." 
+While Tesla does seem to be changing its tone somewhat with regard to FSD's marketing, the company's focus on supervised FSD — at least for now — does help emphasize just how far ahead Tesla is compared to other automakers also offering advanced driver-assist solutions."
 
 [Read More](https://www.teslarati.com/tesla-promotes-supervised-fsd-advantages/) Hmmmm… Good, this is a beginning of a name change so the words "Fxxx, Syyy Dzzzzz" will not be uttered again by anyone at Tesla, and that the operative word becomes "Supervised xyz." Now, it is OK if xyz is FSD; however, "supervised" is not only by the driver to remind them that they are responsible if anything bad happens and by Tesla, to ensure that its product is not misused by the driver and the driver behaves while using "Supervised xyz". If the driver wishes to not be supervised in their use of Supervised xyz, then that person should, under no circumstances, be permitted to engage/use "Supervised xyz". End of story! Alain
 
