@@ -269,6 +269,27 @@ class TestSanitizeBody:
         result = ai_post_process.sanitize_body(body)
         assert '[ ](' not in result
 
+    def test_removes_listserv_footer_plain(self):
+        body = 'Newsletter content here.\n\nThis list is maintained by Alain Kornhauser and hosted by the Princeton University LISTSERV.'
+        result = ai_post_process.sanitize_body(body)
+        assert 'This list is maintained' not in result
+        assert 'Newsletter content here.' in result
+
+    def test_removes_listserv_footer_with_links(self):
+        body = 'Content.\n\nThis list is maintained by [Alain Kornhauser](mailto:alaink@princeton.edu) and hosted by the [Princeton University LISTSERV](http://lists.princeton.edu).'
+        result = ai_post_process.sanitize_body(body)
+        assert 'This list is maintained' not in result
+        assert 'Content.' in result
+
+    def test_strips_code_tags(self):
+        body = 'Some <code>important</code> text and <CODE>more</CODE> stuff'
+        result = ai_post_process.sanitize_body(body)
+        assert '<code>' not in result
+        assert '</code>' not in result
+        assert '<CODE>' not in result
+        assert 'important' in result
+        assert 'more' in result
+
     def test_combined_fixes(self):
         """Real-world-like input with multiple issues."""
         body = (
