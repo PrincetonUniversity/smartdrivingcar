@@ -23,7 +23,7 @@ Narrated by Fred Fishkin, Available now
 
 SmartDrivingCars [ZoomCast 389](https://www.youtube.com/watch?v=Eow4Qg5qogE)/ PodCast 389 – Tesla, Aurora, Waymo and more
 
-F. Fishkin, May 29 "We're back with episode 389 of Smart Driving Cars as Alain Kornhauser wraps up his 53rd year teaching at Princeton University. Today, Alain and co-host Fred Fishkin looks at the coming launch of Tesla's robotaxis, Musk's departure from Washington and the company's safety report. Plus, Aurora brings back human drivers, a battle over autonomous farm equipment in California, Waymo continues to grow and more. Plus...a tip of the cap to some great senior thesis work by Alain's students. Tune in and subscribe.
+F. Fishkin, May 29 "We're back with episode 389 of Smart Driving Cars as Alain Kornhauser wraps up his 53rd year teaching at Princeton University. Today, Alain and co-host Fred Fishkin look at the coming launch of Tesla's robotaxis, Musk's departure from Washington and the company's safety report. Plus, Aurora brings back human drivers, a battle over autonomous farm equipment in California, Waymo continues to grow and more. Plus...a tip of the cap to some great senior thesis work by Alain's students. Tune in and subscribe.
 
 * [0:00](https://www.youtube.com/watch?v=Eow4Qg5qogE) open
 * [0:37](https://www.youtube.com/watch?v=Eow4Qg5qogE&t=37s) Tesla sets June 12 date for robotaxi launch

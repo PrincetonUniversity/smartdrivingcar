@@ -205,9 +205,5 @@ Draft…
 Draft
 
 Alain Kornhauser, Dec. 19, "An updated note to the readers of the SDC eLetter:  
-[Read](https://www.dropbox.com/scl/fi/zxmw5iip1v3p9mv8416d0/Orf467F24-Compilation-of-Final-MOVES-style-Mobility-Reports.docx?rlkey=7yr746atariyj24ytagqbjwvu&dl=0) more  
+[Read more](https://www.dropbox.com/scl/fi/zxmw5iip1v3p9mv8416d0/Orf467F24-Compilation-of-Final-MOVES-style-Mobility-Reports.docx?rlkey=7yr746atariyj24ytagqbjwvu&dl=0)  
 Hmmmm… We had an excellent class this Fall. This is a compilation of their investigations of MOVES-style mobility opportunities in their "hometowns". This is a compilation of drafts submitted in lieu of a final exam. The class will make the document more suitable for publication during the January intersession. Alain
-
-***************************************************************************************************************
-
-This list is maintained by Alain Kornhauser and hosted by the Princeton University LISTSERV.
