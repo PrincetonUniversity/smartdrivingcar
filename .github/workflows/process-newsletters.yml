@@ -34,6 +34,12 @@ jobs:
         run: |
           pip install beautifulsoup4 pyyaml git-filter-repo
 
+      - name: Install AI dependencies
+        if: env.AI_SANDBOX_KEY != ''
+        env:
+          AI_SANDBOX_KEY: ${{ secrets.AI_SANDBOX_KEY }}
+        run: pip install portkey-ai
+
       - name: Check for files to process
         id: check_files
         run: |
@@ -54,6 +60,22 @@ jobs:
           NEWSLETTER_SCRUB_GIT_HISTORY: ${{ vars.NEWSLETTER_SCRUB_GIT_HISTORY || 'false' }}
         run: |
           python scripts/process_inbox.py
+
+      - name: AI post-process newsletters
+        if: steps.check_files.outputs.has_files == 'true' && env.AI_SANDBOX_KEY != ''
+        env:
+          AI_SANDBOX_KEY: ${{ secrets.AI_SANDBOX_KEY }}
+        run: |
+          # Find newly added newsletter files
+          FILES=$(git diff --name-only --diff-filter=A -- '_newsletters/*/index.md' 2>/dev/null || true)
+          if [ -n "$FILES" ]; then
+            echo "AI post-processing $(echo "$FILES" | wc -l | tr -d ' ') newsletter(s)..."
+            echo "$FILES" | while read -r f; do
+              python scripts/ai_post_process.py "$f" --verbose || echo "WARNING: AI post-processing failed for $f"
+            done
+          else
+            echo "No new newsletters to post-process"
+          fi
 
       - name: Commit processed newsletters
         if: steps.check_files.outputs.has_files == 'true'

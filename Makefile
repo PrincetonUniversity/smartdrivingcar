@@ -1,4 +1,4 @@
-.PHONY: help serve-local serve-preview serve-prod build-preview build-prod clean docker-local docker-preview docker-prod backfill backfill-dry-run
+.PHONY: help serve-local serve-preview serve-prod build-preview build-prod clean docker-local docker-preview docker-prod backfill backfill-dry-run ai-cleanup ai-cleanup-dry-run
 
 JEKYLL?=bundle exec jekyll
 PYTHON?=.venv/bin/python
@@ -53,3 +53,10 @@ backfill:
 
 backfill-dry-run:
 	$(PYTHON) scripts/backfill_newsletters.py --dir backfill/ --dry-run
+
+# AI post-processing (requires AI_SANDBOX_KEY env var and portkey-ai)
+ai-cleanup:
+	$(PYTHON) scripts/ai_post_process.py _newsletters/*/index.md
+
+ai-cleanup-dry-run:
+	$(PYTHON) scripts/ai_post_process.py _newsletters/*/index.md --dry-run

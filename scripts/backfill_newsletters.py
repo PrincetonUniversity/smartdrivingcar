@@ -12,6 +12,7 @@ Usage:
 import argparse
 import email
 import glob
+import logging
 import os
 import re
 import subprocess
@@ -140,7 +141,38 @@ def write_message_to_tempfile(msg):
     return tmp_path
 
 
-def process_inner_message(msg, wrapper_path, dry_run=False, verbose=False):
+def _try_ai_post_process(stdout_text, verbose=False):
+    """Run AI post-processing on a newly created newsletter if enabled.
+
+    Only runs when AI_SANDBOX_KEY is set and portkey-ai is available.
+    """
+    if not (os.environ.get('AI_SANDBOX_KEY') or os.environ.get('OPENAI_API_KEY')):
+        return
+
+    if not stdout_text:
+        return
+
+    match = re.search(r'Created\s+(\S+)', stdout_text)
+    if not match:
+        return
+
+    filepath = match.group(1)
+    if not os.path.exists(filepath):
+        return
+
+    try:
+        scripts_dir = os.path.dirname(os.path.abspath(__file__))
+        if scripts_dir not in sys.path:
+            sys.path.insert(0, scripts_dir)
+        from ai_post_process import process_file
+        result = process_file(filepath, verbose=verbose)
+        if result and verbose:
+            print(f"  AI post-processing completed: {filepath}")
+    except Exception as e:
+        print(f"  WARNING: AI post-processing failed for {filepath}: {e}")
+
+
+def process_inner_message(msg, wrapper_path, dry_run=False, verbose=False, ai_cleanup=False):
     """Process a single inner email message through the import pipeline.
 
     Returns a dict with keys: 'status' ('processed', 'skipped', 'failed'), 'slug', 'reason'.
@@ -189,6 +221,8 @@ def process_inner_message(msg, wrapper_path, dry_run=False, verbose=False):
         if result.returncode == 0:
             if verbose and result.stdout:
                 print(f"  {result.stdout.strip()}")
+            if ai_cleanup:
+                _try_ai_post_process(result.stdout, verbose=verbose)
             return {
                 'status': 'processed',
                 'slug': slug,
@@ -213,7 +247,7 @@ def process_inner_message(msg, wrapper_path, dry_run=False, verbose=False):
             os.unlink(tmp_path)
 
 
-def process_wrapper_eml(eml_path, dry_run=False, verbose=False):
+def process_wrapper_eml(eml_path, dry_run=False, verbose=False, ai_cleanup=False):
     """Process a single wrapper .eml file.
 
     Returns a list of result dicts from process_inner_message.
@@ -241,7 +275,8 @@ def process_wrapper_eml(eml_path, dry_run=False, verbose=False):
     for i, msg in enumerate(inner_messages):
         if verbose and len(inner_messages) > 1:
             print(f"  Inner message {i + 1}/{len(inner_messages)}")
-        result = process_inner_message(msg, eml_path, dry_run=dry_run, verbose=verbose)
+        result = process_inner_message(msg, eml_path, dry_run=dry_run, verbose=verbose,
+                                       ai_cleanup=ai_cleanup)
         results.append(result)
 
     return results
@@ -259,6 +294,8 @@ def main():
                         help='Process at most N files (0 = unlimited)')
     parser.add_argument('--verbose', action='store_true',
                         help='Print detailed progress')
+    parser.add_argument('--ai-cleanup', action='store_true',
+                        help='Run AI post-processing on imported newsletters (requires AI_SANDBOX_KEY)')
     args = parser.parse_args()
 
     backfill_dir = args.dir
@@ -286,7 +323,8 @@ def main():
 
     for eml_path in eml_files:
         print(f"Processing: {eml_path}")
-        results = process_wrapper_eml(eml_path, dry_run=args.dry_run, verbose=args.verbose)
+        results = process_wrapper_eml(eml_path, dry_run=args.dry_run, verbose=args.verbose,
+                                      ai_cleanup=args.ai_cleanup)
 
         for result in results:
             status = result['status']

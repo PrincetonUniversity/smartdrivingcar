@@ -28,6 +28,12 @@ jobs:
       - name: Install dependencies
         run: pip install beautifulsoup4
 
+      - name: Install AI dependencies
+        if: env.AI_SANDBOX_KEY != ''
+        env:
+          AI_SANDBOX_KEY: ${{ secrets.AI_SANDBOX_KEY }}
+        run: pip install portkey-ai
+
       - name: Check for duplicate
         id: dedup
         env:
@@ -73,6 +79,17 @@ jobs:
           from import_newsletter import ensure_archive_pages
           ensure_archive_pages(date)
           PYEOF
+
+      - name: AI post-process newsletter
+        if: steps.dedup.outputs.is_duplicate == 'false' && env.AI_SANDBOX_KEY != ''
+        env:
+          AI_SANDBOX_KEY: ${{ secrets.AI_SANDBOX_KEY }}
+          SLUG: ${{ github.event.client_payload.slug }}
+        run: |
+          FILEPATH="_newsletters/${SLUG}/index.md"
+          if [ -f "$FILEPATH" ]; then
+            python scripts/ai_post_process.py "$FILEPATH" --verbose || echo "WARNING: AI post-processing failed"
+          fi
 
       - name: Commit and push
         if: steps.dedup.outputs.is_duplicate == 'false'

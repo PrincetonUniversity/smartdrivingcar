@@ -42,6 +42,10 @@ cleaning:
   # Find and replace patterns (list of {find: regex, replace: string})
   replacements: []
 
+# AI post-processing (optional, requires AI_SANDBOX_KEY env var and portkey-ai)
+# Override with: NEWSLETTER_AI_POST_PROCESS (true/false)
+ai_post_processing: false
+
 # Markdown transformation options
 transformations:
   # Remove smartdrivingcar.com links

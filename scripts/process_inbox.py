@@ -9,6 +9,7 @@ Process .eml files from inbox directory.
 import argparse
 import logging
 import os
+import re
 import subprocess
 import sys
 import yaml
@@ -70,7 +71,45 @@ def load_config(config_path='config/newsletter_config.yml'):
     if os.environ.get('NEWSLETTER_LOG_LEVEL'):
         config['logging']['level'] = os.environ['NEWSLETTER_LOG_LEVEL']
 
+    if os.environ.get('NEWSLETTER_AI_POST_PROCESS'):
+        config['ai_post_processing'] = os.environ['NEWSLETTER_AI_POST_PROCESS'].lower() == 'true'
+
     return config
+
+def _try_ai_post_process(stdout_text, config):
+    """Run AI post-processing on a newly created newsletter file if enabled.
+
+    Parses the 'Created <filepath>' line from import_newsletter.py stdout,
+    then calls ai_post_process.process_file() if AI post-processing is enabled.
+    """
+    logger = logging.getLogger(__name__)
+
+    if not config.get('ai_post_processing', False):
+        return
+
+    if not (os.environ.get('AI_SANDBOX_KEY') or os.environ.get('OPENAI_API_KEY')):
+        return
+
+    if not stdout_text:
+        return
+
+    # Extract filepath from "Created _newsletters/<slug>/index.md" line
+    match = re.search(r'Created\s+(\S+)', stdout_text)
+    if not match:
+        return
+
+    filepath = match.group(1)
+    if not os.path.exists(filepath):
+        return
+
+    try:
+        from ai_post_process import process_file
+        result = process_file(filepath)
+        if result:
+            logger.info(f"AI post-processing completed: {filepath}")
+    except Exception as e:
+        logger.warning(f"AI post-processing failed for {filepath}: {e}")
+
 
 def process_eml_file(eml_path, config):
     """Process a single .eml file."""
@@ -95,6 +134,7 @@ def process_eml_file(eml_path, config):
             logger.info(f"SUCCESS: {eml_path}")
             if result.stdout:
                 logger.info(result.stdout.strip())
+            _try_ai_post_process(result.stdout, config)
             return True
         else:
             logger.error(f"FAILED: {eml_path}")
@@ -187,6 +227,7 @@ def process_html_file(html_path, config):
             logger.info(f"SUCCESS: {html_path}")
             if result.stdout:
                 logger.info(result.stdout.strip())
+            _try_ai_post_process(result.stdout, config)
             return True
         else:
             logger.error(f"FAILED: {html_path}")
