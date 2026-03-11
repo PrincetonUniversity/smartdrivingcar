@@ -155,8 +155,6 @@ Mr. Prescott, 57, was driving a B44 bus eastbound on Farragut Road in East Flatb
 
 Hmmm... Tragic for everyone. Such accidents would be largely avoidable if transit buses were equipped with pedestrian detection and automated collision avoidance systems that are almost at hand. These systems are close to being ready for "prime time". The Federal Transit Administration (FTA, whose main mission is safety!) could substantially accelerate the effectiveness and adoption of such technology by focusing some of its research budget on this technology. Alain  
 
-[Mailto:alaink@princeton.edu](Mailto:alaink@princeton.edu)  
-
 This list is maintained by [Alain Kornhauser](mailto:alaink@princeton.edu) and hosted by the [Princeton University LISTSERV](http://lists.princeton.edu).  
 
 [Unsubscribe](https://lists.princeton.edu/cgi-bin/wa?TICKET=NzM1MjMzIGJpbm9AUFJJTkNFVE9OLkVEVSBTTUFSVERSSVZJTkdDQVJTIGluYtYkJuu3&c=SIGNOFF) | [Re-subscribe](https://lists.princeton.edu/cgi-bin/wa?TICKET=NzM1MjMzIGJpbm9AUFJJTkNFVE9OLkVEVSBTTUFSVERSSVZJTkdDQVJTIGluYtYkJuu3&c=SIGNUP)  

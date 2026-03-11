@@ -93,10 +93,6 @@ Sept 8, 2008 "The thought of a bus moving along city streets while its driver ha
 
 Ed Markey, Feb 2015 "...The proliferation of these technologies raises concerns about the ability of hackers to gain access and control to the essential functions and features of those cars and for others to utilize information on drivers' habits for commercial purposes without the drivers' knowledge or consent...." [Read more](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/PDFs/MarkeyReport-Tracking_Hacking_CarSecurity020615.pdf)
 
-The thought of a bus moving along city streets while its driver has both hands off the wheel is alarming. But a special bus introduced today (Friday, Sept. 5), steered not by a driver, but by a magnetic guidance system developed by engineers at the University of California, Berkeley, performed with remarkable precision.
-
-Read more at: [http://phys.org/news/2008-09-showcase-automated-bus-magnets-city.html#jCp](http://phys.org/news/2008-09-showcase-automated-bus-magnets-city.html#jCp)
-
 ### [Ride-sharing forces automakers to rethink how they sell](http://www.detroitnews.com/story/business/autos/2015/07/11/ride-sharing-forces-automakers-rethink-sell/30023417/)
 
 J. Hirsch July 11, 2015 "For at least 22 hours a day most cars sit parked, sucking up their owners' money while waiting to be driven. For most people, it's one of their most underutilized — but most expensive — assets.
@@ -272,4 +268,4 @@ Nissan Motor Co. will launch a car with self-driving technologies in Japan in 20
 
 04/04/15 "Delphi Automotive PLC (NYSE: DLPH) has completed the longest automated drive in North America, traveling from San Francisco to New York in the first coast-to-coast trip ever taken by an automated vehicle. Nearly 3,400 miles were covered with 99 percent of the drive in fully automated mode. [Read more](http://news.investors.com/newsfeed-business-wire/040215-141716136-delphi-successfully-completes-first-coast-to-coast-automated-drive.aspx) See also [CBSNews](http://www.cbsnews.com/news/delphi-self-driving-suv-completes-cross-country-trip/) Hmmm ... I'd like to hear/read about the 1%. Alain
 
-This list is maintained by [Alain Kornhauser](mailto:alaink@princeton.edu) and hosted by the [Princeton University LISTSERV](http://lists.princeton.edu).
+This list is maintained by Alain Kornhauser and hosted by the Princeton University LISTSERV.
