@@ -70,7 +70,7 @@ E. Loveday, Oct 18 "DragTimes presents an exceptional video of Autopilot testing
 
 ### [November 4-6, 2015](http://www.podcarcity.org/siliconvalley)
 
-### [http://www.automatedfl.com/our-efforts/florida-automated-vehicles-summit/](http://www.automatedfl.com/our-efforts/florida-automated-vehicles-summit/)
+### [Florida Automated Vehicles Summit](http://www.automatedfl.com/our-efforts/florida-automated-vehicles-summit/)
 
 ## [Technix 2016 Envision Automated Transit (EAT) Saturday, January 9th, 2016](http://www.advancedtransit.org/library/news/technix-2016-envision-automated-transit-eat/)
 
@@ -82,7 +82,7 @@ Kim Engineering Building, University of Maryland
 
 Open to the public
 
-[http://www.advancedtransit.org/library/news/technix-2016-envision-automated-transit-eat/](http://www.advancedtransit.org/library/news/technix-2016-envision-automated-transit-eat/)
+[Technix 2016 Envision Automated Transit (EAT)](http://www.advancedtransit.org/library/news/technix-2016-envision-automated-transit-eat/)
 
 ### Recent Versions of:
 
@@ -106,7 +106,7 @@ Oct 2 "As Google's driverless cars have logged more then a million miles in the 
 
 D. Hakim, Sept 26 "...It is not Volkswagen's first run-in with regulators over emissions. When the United States began regulating tailpipe pollutants in the 1970s, Volkswagen was one of the first companies caught cheating. It was fined $120,000 in 1973 for installing what became known as a "defeat device," technology to shut down a vehicle's pollution control systems. This time, it equipped its vehicles with software that was programmed to fake test results, an action the E.P.A. rebuked in 1998, when [it reached a $1 billion settlement with truck-engine manufacturers](http://www.nytimes.com/1998/10/22/us/record-penalty-likely-against-diesel-makers.html) for doing the same thing.....
 
-Cheating on emissions tests solved several issues at once. Not only were drivers rewarded with better mileage and performance, but the automaker also avoided more expensive and cumbersome pollution-control systems. While Volkswagen cheated behind the scenes, it publicly espoused virtue. This, after all, is the company that used one of the largest advertising arenas in the world, the [Super Bowl, to run a commercial](https://www.youtube.com/watch?v=ljI2S7rwZ1Y%20) showing its engineers sprouting angel's wings.
+Cheating on emissions tests solved several issues at once. Not only were drivers rewarded with better mileage and performance, but the automaker also avoided more expensive and cumbersome pollution-control systems. While Volkswagen cheated behind the scenes, it publicly espoused virtue. This, after all, is the company that used one of the largest advertising arenas in the world, the [Super Bowl, to run a commercial](https://www.youtube.com/watch?v=ljI2S7rwZ1Y) showing its engineers sprouting angel's wings.
 
 ...Confronted again, Volkswagen continued to maintain that there was a problem with the testers, not the vehicles...Government officials then increased the pressure on the company, threatening to withhold approval for its 2016 Volkswagen and Audi diesel models. According to the E.P.A., that is what forced Volkswagen's hand. On Sept. 3, a group of senior engineers admitted what the regulators had suspected: .... [Read more](http://www.nytimes.com/2015/09/27/business/as-vw-pushed-to-be-no-1-ambitions-fueled-a-scandal.html?hp&action=click&pgtype=Homepage&module=first-column-region&region=top-news&WT.nav=top-news&_r=0) Hmmm...So UGLY!!! Alain
 
@@ -170,6 +170,6 @@ Chris Urmson May 11, 2015 "After 1.7 million miles we've learned a lot — n
 
 Hmmm.... MUST reading; HOWEVER, we need much more information to be released, not just a few examples. Please make your data public! We don't need to know who but we desperately need to know what so that not only Google, but the rest of us can... "...work hard on developing..." SmartDrivingCars "....that can shoulder this burden for us." Alain
 
-[Mailto:alaink@princeton.edu](Mailto:alaink@princeton.edu) This list is maintained by [Alain Kornhauser](mailto:alaink@princeton.edu) and hosted by the [Princeton University LISTSERV](http://lists.princeton.edu).
+[alaink@princeton.edu](mailto:alaink@princeton.edu) This list is maintained by Alain Kornhauser and hosted by the Princeton University LISTSERV.
 
 [Unsubscribe](https://lists.princeton.edu/cgi-bin/wa?TICKET=NzM1MjMzIGJpbm9AUFJJTkNFVE9OLkVEVSBTTUFSVERSSVZJTkdDQVJTIGluYtYkJuu3&c=SIGNOFF) | [Re-subscribe](https://lists.princeton.edu/cgi-bin/wa?TICKET=NzM1MjMzIGJpbm9AUFJJTkNFVE9OLkVEVSBTTUFSVERSSVZJTkdDQVJTIGluYtYkJuu3&c=SIGNUP)
