@@ -107,4 +107,4 @@ My students and I have been conducting a quantitative assessment of the mobility
 
 more:
 
-### [Mailto:alaink@princeton.edu](Mailto:alaink@princeton.edu)
+### [alaink@princeton.edu](mailto:alaink@princeton.edu)

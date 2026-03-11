@@ -4,489 +4,120 @@ title: "2014-04-21"
 date: 2014-04-21
 permalink: /2014-04-21-2014-04-21/
 ---
-
 April 18, 2014
 
 ## [Should autonomous cars behave like automatons or act like human drivers?](http://gigaom.com/2014/04/18/should-autonomous-cars-behave-like-automatons-or-act-like-human-drivers/)
 
-                  Kevin Fitchard  Apr. 18  "Eventually autonomous cars
-                  will change the rules of the road, packing themselves
-                  onto streets and highways in the most efficient way
-                  possible. But the first autonomous cars will need to
-                  drive as badly as humans." [Read more](http://gigaom.com/2014/04/18/should-autonomous-cars-behave-like-automatons-or-act-like-human-drivers/)
+Kevin Fitchard Apr. 18 "Eventually autonomous cars will change the rules of the road, packing themselves onto streets and highways in the most efficient way possible. But the first autonomous cars will need to drive as badly as humans." [Read more](http://gigaom.com/2014/04/18/should-autonomous-cars-behave-like-automatons-or-act-like-human-drivers/)
 
-Hmm... An interesting
-                      beginning to a very serious discussion as to what
-                      driving behaviors should be implemented in Smart
-                      Driving Cars.  Do ".."Autonomous cars
-                  have to drive similarly to how humans drive," Redzic
-                  said. "We have to humanize autonomous driving for it
-                  to gain acceptance."... "
-                      ??  Program bad behavior to "gain acceptance"???
-                      Really???  Other drivers simply flip me off when I
-                      drive poorly.  They have no desire to accept my
-                      bad driving.  More seriously... The only purpose
-                      of a "Stop" sign is to provide the driver with the
-                      proper time and vantage point to ensure that there
-                      is no approaching intersection conflict.  (It
-                      certainly is not to waste the energy that is
-                      consumed in accelerating from zero instead of some
-                      positive speed value.  Nor is it to waste the
-                      excess time that is imposed by the maneuver. )
-                      However, if the automated car's sensors and/or
-                      communications systems have determined that no
-                      conflict exists before the automated car comes to
-                      a complete stop, why should it be required to come
-                      to  complete stop?  Aslo, when uncongested and in
-                      good weather, no one drives anywhere on the New
-                      Jersey Turnpike at or below the Speed Limit.  If
-                      Smart Driving Cars are programed to always adhere
-                      to the Speed Limit, then it is a good thing that
-                      no one would buy such cars; else, such cars would
-                      likely induce other cars to cause accidents as
-                      they "flew" past them.  What we need is "Truth in
-                      Transportation" with respect to the rules and
-                      regulations.  Since human drivers tend to drive at
-                      speeds that are the highest of {safe enough,
-                      comfortable enough, chances I'll get a ticket are
-                      as large as I can stomach}, maybe we'll need the
-                      digital map provider to maintain and distribute
-                      Safety_v_Speed; Comfort_v_Speed;
-                      TicketProbability_v_Speed measures for each and
-                      every automated road segment.  Then the car owner
-                      can simply select (or his/her BIG DATA system can
-                      Optimally Learn) the desired values of Safety,
-                      Comfort and TicketProbability and voila the
-                      Desired Driving Speed is
-                          readily computable on each
-                          and every  roadway segment where
-                      my car can operate automatically.   Alain
+Hmm... An interesting beginning to a very serious discussion as to what driving behaviors should be implemented in Smart Driving Cars. Do "Autonomous cars have to drive similarly to how humans drive," Redzic said. "We have to humanize autonomous driving for it to gain acceptance." Program bad behavior to "gain acceptance"??? Really??? Other drivers simply flip me off when I drive poorly. They have no desire to accept my bad driving. More seriously... The only purpose of a "Stop" sign is to provide the driver with the proper time and vantage point to ensure that there is no approaching intersection conflict. (It certainly is not to waste the energy that is consumed in accelerating from zero instead of some positive speed value. Nor is it to waste the excess time that is imposed by the maneuver.) However, if the automated car's sensors and/or communications systems have determined that no conflict exists before the automated car comes to a complete stop, why should it be required to come to complete stop? Also, when uncongested and in good weather, no one drives anywhere on the New Jersey Turnpike at or below the Speed Limit. If Smart Driving Cars are programmed to always adhere to the Speed Limit, then it is a good thing that no one would buy such cars; else, such cars would likely induce other cars to cause accidents as they "flew" past them. What we need is "Truth in Transportation" with respect to the rules and regulations. Since human drivers tend to drive at speeds that are the highest of {safe enough, comfortable enough, chances I'll get a ticket are as large as I can stomach}, maybe we'll need the digital map provider to maintain and distribute Safety_v_Speed; Comfort_v_Speed; TicketProbability_v_Speed measures for each and every automated road segment. Then the car owner can simply select (or his/her BIG DATA system can Optimally Learn) the desired values of Safety, Comfort and TicketProbability and voila the Desired Driving Speed is readily computable on each and every roadway segment where my car can operate automatically. Alain
 
-## Newly
-                    Available Drafts of Recent Student Theses
+## Newly Available Drafts of Recent Student Theses
 
-### Wyrough, Alexander Penn Hill Jr.: [A National Disaggregate Transportation Demand Model for the Analysis of autonomousTaxi Systems](http://orfe.princeton.edu/%7Ealaink/Theses/SeniorTheses%2714/Draft-Wyrough_NoationalDisaggregateTripSynthesizer.pdf)
+### Wyrough, Alexander Penn Hill Jr.: [A National Disaggregate Transportation Demand Model for the Analysis of autonomous Taxi Systems](http://orfe.princeton.edu/%7Ealaink/Theses/SeniorTheses%2714/Draft-Wyrough_NoationalDisaggregateTripSynthesizer.pdf)
 
-Abstract:  Extended to the entire United
-                    States is[Mufti's New Jersey-centric disaggregate personal trip synthesizer](http://orfe.princeton.edu/%7Ealaink/Theses/T%20Mufti%20MSE.pdf).  Using data drawn from the
-                    U.S. 2010 Census, as well as other sources, are used
-                    to synthesize 308,745,538  individuals with specific
-                    personal attributes that match census block profiles
-                    and create the 1,009,322,835 trips these individuals
-                    take across the U.S. on a typical work day. With
-                    precise spatial and temporal attributes that mimic
-                    actual personal travel behavior and assemble to
-                    reflect aggregate reference sources these trips
-                    comprise a ready data set to appropriately analyze
-                    the efficacy of novel transportation systems,
-                    including autonomousTaxis.   Specifically, any
-                    realized data set generated by this synthesizer is
-                    an appropriate basis on which to gain insights into
-                    a national system of autonomous taxis that could (a)
-                    match the comfort and convenience of personal cars,
-                    (b) exceed the accessibility of mass transit, and
-                    (c) deliver wide-ranging benefits such as alleviated
-                    congestion, substantially reduced pollution and
-                    energy needs, and increased vehicle safety. [Read mor](http://orfe.princeton.edu/%7Ealaink/Theses/SeniorTheses%2714/Draft-Wyrough_NoationalDisaggregateTripSynthesizer.pdf)e
+Abstract: Extended to the entire United States is [Mufti's New Jersey-centric disaggregate personal trip synthesizer](http://orfe.princeton.edu/%7Ealaink/Theses/T%20Mufti%20MSE.pdf). Using data drawn from the U.S. 2010 Census, as well as other sources, are used to synthesize 308,745,538 individuals with specific personal attributes that match census block profiles and create the 1,009,322,835 trips these individuals take across the U.S. on a typical work day. With precise spatial and temporal attributes that mimic actual personal travel behavior and assemble to reflect aggregate reference sources these trips comprise a ready data set to appropriately analyze the efficacy of novel transportation systems, including autonomous Taxis. Specifically, any realized data set generated by this synthesizer is an appropriate basis on which to gain insights into a national system of autonomous taxis that could (a) match the comfort and convenience of personal cars, (b) exceed the accessibility of mass transit, and (c) deliver wide-ranging benefits such as alleviated congestion, substantially reduced pollution and energy needs, and increased vehicle safety. [Read more](http://orfe.princeton.edu/%7Ealaink/Theses/SeniorTheses%2714/Draft-Wyrough_NoationalDisaggregateTripSynthesizer.pdf)
 
-### Lee, Eileen: [Uncovering Systemic Corruption in the ER:An Empirical Analysis of Motor Vehicle-Related Hospital Bill and their Impact on Insurance Companies](http://orfe.princeton.edu/%7Ealaink/Theses/SeniorTheses%2714/Draft-Lee_UncoveringSystematicCorruptionInTheER.pdf)
+### Lee, Eileen: [Uncovering Systemic Corruption in the ER: An Empirical Analysis of Motor Vehicle-Related Hospital Bill and their Impact on Insurance Companies](http://orfe.princeton.edu/%7Ealaink/Theses/SeniorTheses%2714/Draft-Lee_UncoveringSystematicCorruptionInTheER.pdf)
 
-Abstract: With the advent of automated and
-                  assisted vehicle technology, the prospect of
-                  significantly decreasing motor vehicle accidents is
-                  imminent. However, accidents resulting in emergency
-                  room visits provide revenue for hospitals by charging
-                  automobile insurance companies for services to treat
-                  injured individuals. Statistical methods are used to
-                  investigate discrepancies in charges associated with
-                  motor vehicle accident injuries among different payers
-                  including: automobile insurance providers, Medicare,
-                  Medicaid, self-pay, and others. Charges for treatment
-                  of similar injuries with different causes are also
-                  evaluated. Results from 2011 data for New Jersey show
-                  that patients admitted to the emergency room (ER)
-                  after falling or being struck have significantly less
-                  expensive medical bills than patients that enter the
-                  ER from a motor vehicle accident. Differences in
-                  services for treating patients show hospital bias
-                  toward automobile insurers who provide generous
-                  reimbursements in New Jersey  [Read more](http://orfe.princeton.edu/%7Ealaink/Theses/SeniorTheses%2714/Draft-Lee_UncoveringSystematicCorruptionInTheER.pdf)
+Abstract: With the advent of automated and assisted vehicle technology, the prospect of significantly decreasing motor vehicle accidents is imminent. However, accidents resulting in emergency room visits provide revenue for hospitals by charging automobile insurance companies for services to treat injured individuals. Statistical methods are used to investigate discrepancies in charges associated with motor vehicle accident injuries among different payers including: automobile insurance providers, Medicare, Medicaid, self-pay, and others. Charges for treatment of similar injuries with different causes are also evaluated. Results from 2011 data for New Jersey show that patients admitted to the emergency room (ER) after falling or being struck have significantly less expensive medical bills than patients that enter the ER from a motor vehicle accident. Differences in services for treating patients show hospital bias toward automobile insurers who provide generous reimbursements in New Jersey [Read more](http://orfe.princeton.edu/%7Ealaink/Theses/SeniorTheses%2714/Draft-Lee_UncoveringSystematicCorruptionInTheER.pdf)
 
 ### Sun, Zhuyi (Judy): [Causal Price Discrimination: An Analysis of the Healthcare Costs Associated with Motor Vehicle and Transportation Collisions](http://orfe.princeton.edu/%7Ealaink/Theses/SeniorTheses%2714/Draft-Sun_CausalPriceDiscrimination.pdf)
 
-Abstract:  Because the prices paid for goods
-                    and services in the United States healthcare system
-                    are surprisingly opaque, hospitals could be
-                    indulging in unorthodox price discrimination
-                    practices. This study explores a speci
-c brand of
-                    price discrimination in healthcare, one based on the
-                    cause of visit. Speci
-cally, this study analyzes the
-                    healthcare costs associated with motor vehicle and
-                    transportation (MVT) collisions.  [Read more](http://orfe.princeton.edu/%7Ealaink/Theses/SeniorTheses%2714/Draft-Sun_CausalPriceDiscrimination.pdf)
+Abstract: Because the prices paid for goods and services in the United States healthcare system are surprisingly opaque, hospitals could be indulging in unorthodox price discrimination practices. This study explores a specific brand of price discrimination in healthcare, one based on the cause of visit. Specifically, this study analyzes the healthcare costs associated with motor vehicle and transportation (MVT) collisions. [Read more](http://orfe.princeton.edu/%7Ealaink/Theses/SeniorTheses%2714/Draft-Sun_CausalPriceDiscrimination.pdf)
 
-### Rhodes, Brandon Xavier: [An Analysis  of  Economically  Efficient  Insurance Schemes  for  Automated  Vehicle](http://orfe.princeton.edu/%7Ealaink/Theses/SeniorTheses%2714/Draft-Rhodes_InsuranceSchemesForAutomatedVehicles.pdf)
+### Rhodes, Brandon Xavier: [An Analysis of Economically Efficient Insurance Schemes for Automated Vehicle](http://orfe.princeton.edu/%7Ealaink/Theses/SeniorTheses%2714/Draft-Rhodes_InsuranceSchemesForAutomatedVehicles.pdf)
 
-Abstract: Automated vehicles have the potential
-                  to have a profound impact on the automobile insurance
-                  industry. Preliminary research suggests that various
-                  automation systemsare correlated with a drastic
-                  reduction in the frequency of insurance claims.
-                  However, American companies have yet to offer unique
-                  plans for customers who own vehicles equipped with an
-                  automation system, thereby resulting in economic
-                  inefficiency.
+Abstract: Automated vehicles have the potential to have a profound impact on the automobile insurance industry. Preliminary research suggests that various automation systems are correlated with a drastic reduction in the frequency of insurance claims. However, American companies have yet to offer unique plans for customers who own vehicles equipped with an automation system, thereby resulting in economic inefficiency.
 
-                  This thesis suggests various insurance schemes that
-                  are designed to insure automated vehicles in an
-                  economically efficient manner. First, this thesis
-                  provides an overview of the automobile insurance
-                  industry and an overview of automated vehicles.
-                  Afterwards, the dilemma automated vehicles pose to
-                  current liability laws is also examined. This is
-                  because the legal treatment of vehicles equipped with
-                  automation systems will have a significant effect on
-                  how they are insured. Next, before offering suggested
-                  insurance schemes, the results of a preliminary
-                  analysis on the effect of automation systems on
-                  insurance claims are examined. The thesis concludes
-                  with a theoretical analysis of the impact automation
-                  systems will have on various sectors of the economy
-                  once they achieve greater market penetration. [Read more](http://orfe.princeton.edu/%7Ealaink/Theses/SeniorTheses%2714/Draft-Rhodes_InsuranceSchemesForAutomatedVehicles.pdf)
+This thesis suggests various insurance schemes that are designed to insure automated vehicles in an economically efficient manner. First, this thesis provides an overview of the automobile insurance industry and an overview of automated vehicles. Afterwards, the dilemma automated vehicles pose to current liability laws is also examined. This is because the legal treatment of vehicles equipped with automation systems will have a significant effect on how they are insured. Next, before offering suggested insurance schemes, the results of a preliminary analysis on the effect of automation systems on insurance claims are examined. The thesis concludes with a theoretical analysis of the impact automation systems will have on various sectors of the economy once they achieve greater market penetration. [Read more](http://orfe.princeton.edu/%7Ealaink/Theses/SeniorTheses%2714/Draft-Rhodes_InsuranceSchemesForAutomatedVehicles.pdf)
 
 ### Ding, Amy: [Autonomous Transit Systems in Practice: An Exploration in Door-to-Door Transit in North San Jose](http://orfe.princeton.edu/%7Ealaink/Theses/SeniorTheses%2714/Draft-Ding_AutonomousTransitSystemsInPracticeAnExplorationinDoor-to-doorTransitinNorthSanJose.pdf)
 
-Abstract:  Although Personal Rapid Transit
-                    (PRT) and autonomous vehicle technologies have
-                    presented viable transportation solutions for many
-                    years already, the public investment in these
-                    technologies is still quite minimal. Two key factors
-                    prohibiting this transition process are cost and
-                    public perception. Using San Jose, CA as a case
-                    study, investigated are possible transition factors
-                    in the planned re-zoning and development that can
-                    lead to a harmony between door-to-door transit and
-                    planned communities. The results from he case study
-                    can be applied to other areas around the country
-                    interested in investing in a new autonomous transit
-                    system, to serve as examples that will push forward
-                    national adoption and the creation of more
-                    successful planned communities.  [Read more](http://orfe.princeton.edu/%7Ealaink/Theses/SeniorTheses%2714/Draft-Ding_AutonomousTransitSystemsInPracticeAnExplorationinDoor-to-doorTransitinNorthSanJose.pdf)
+Abstract: Although Personal Rapid Transit (PRT) and autonomous vehicle technologies have presented viable transportation solutions for many years already, the public investment in these technologies is still quite minimal. Two key factors prohibiting this transition process are cost and public perception. Using San Jose, CA as a case study, investigated are possible transition factors in the planned re-zoning and development that can lead to a harmony between door-to-door transit and planned communities. The results from the case study can be applied to other areas around the country interested in investing in a new autonomous transit system, to serve as examples that will push forward national adoption and the creation of more successful planned communities. [Read more](http://orfe.princeton.edu/%7Ealaink/Theses/SeniorTheses%2714/Draft-Ding_AutonomousTransitSystemsInPracticeAnExplorationinDoor-to-doorTransitinNorthSanJose.pdf)
 
 ## [MIT And Stanford Researchers Show Robotaxis Could Replace Private Cars And Public Transit](http://www.forbes.com/sites/chunkamui/2014/04/17/mit-and-stanford-researchers-show-robotaxis-could-replace-private-cars-and-public-transit/)
 
-                   Chunka Mui Apr. 17 "...Someday, when fully autonomous
-                  vehicles are a reality, private car ownership and
-                  public transportation might plummet in favor of
-                  faster, better and cheaper mobility-on-demand services
-                  fulfilled by driverless cars. Imagine Uber powered by
-                  fleets of Google self-driving cars.
+Chunka Mui Apr. 17 "...Someday, when fully autonomous vehicles are a reality, private car ownership and public transportation might plummet in favor of faster, better and cheaper mobility-on-demand services fulfilled by driverless cars. Imagine Uber powered by fleets of Google self-driving cars.
 
-                  Such services underlie intriguing future scenarios
-                  where "robotaxis" provide door-to-door service while
-                  enabling significant reductions in transportation
-                  cost, enhancing mobility for millions saddled with
-                  limited access to private and public transportation,
-                  relieving congestion, and reducing the need for
-                  parking..." Referring to the paper that follows:
-                  "...In Singapore, the researchers applied their
-                  methods to extensive governmental data on travel
-                  patterns, traffic flows and road networks to simulate
-                  a large-scale robotaxi system. Rather than just
-                  replacing car traffic, the researchers show that a
-                  robotaxi system could handle all transportation
-                  needs—including private and public cars, taxis,
-                  scooters, buses, trains, etc.
+Such services underlie intriguing future scenarios where "robotaxis" provide door-to-door service while enabling significant reductions in transportation cost, enhancing mobility for millions saddled with limited access to private and public transportation, relieving congestion, and reducing the need for parking..." Referring to the paper that follows: "...In Singapore, the researchers applied their methods to extensive governmental data on travel patterns, traffic flows and road networks to simulate a large-scale robotaxi system. Rather than just replacing car traffic, the researchers show that a robotaxi system could handle all transportation needs—including private and public cars, taxis, scooters, buses, trains, etc.
 
-                  Yes, you read that right. Their analysis showed that a
-                  fleet of 250,000 robotaxis could replace all modes of
-                  personal transportation and fulfill the transportation
-                  needs of the entire Singapore population. Maximum wait
-                  time with this fleet size is about 30 minutes during
-                  rush hours—and significantly lower during non-peak
-                  periods. Travel times would approximate current
-                  times...."[Read more](http://www.forbes.com/sites/chunkamui/2014/04/17/mit-and-stanford-researchers-show-robotaxis-could-replace-private-cars-and-public-transit/)
+Yes, you read that right. Their analysis showed that a fleet of 250,000 robotaxis could replace all modes of personal transportation and fulfill the transportation needs of the entire Singapore population. Maximum wait time with this fleet size is about 30 minutes during rush hours—and significantly lower during non-peak periods. Travel times would approximate current times...."[Read more](http://www.forbes.com/sites/chunkamui/2014/04/17/mit-and-stanford-researchers-show-robotaxis-could-replace-private-cars-and-public-transit/)
 
-hmmm... Chunka refers to the [following paper](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Reports&Speaches_External/MIT_Singapore_Spieser.pdf) and most of the comments are on the
-                      source paper, below; however,  while aTaxis "could
-                      handle" all trips, so could the existing public
-                      transportation system.  It would just mean more
-                      walking, waiting and crowding that may or may not
-                      be worse than the waiting, add circuity (and
-                      crowding) that Singaporians would have to endure
-                      to fit into just an aTaxi system.  It is a shame
-                      that the authors discarded walking, scooters and
-                      trains for trips that are actually best served in
-                      whole or in part by these existing modes of
-                      transport.  In [our investigation of the opportunities for aTaxis to serve all New Jersey's 32 million daily person-trips](http://orfe.princeton.edu/%7Ealaink/NJ_aTaxiOrf467F13/Orf467F13_FinalReports/NJTransit_Report_Almost.pdf) we found that about 2.2 million
-                      walked or cycled and only 0.044 million used just
-                      the rail system (accessing both trips ends using
-                      walking to/from the train station); however, 1.4
-                      million person trips were best served
-                      "multi-modally" using aTaxis to get to or from the
-                      nearest train station and walking from to the
-                      other.  This would represent a 5X increase in the
-                      use of the NJ Transit rail system.  Obviously, the
-                      synergy between aTaxis and conventional rail would
-                      mean a substantial increase in rail's frequency of
-                      service ensuring that these potential customers
-                      would be well served leading to the realization of
-                      these expectations.  Alain
+hmmm... Chunka refers to the [following paper](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Reports&Speaches_External/MIT_Singapore_Spieser.pdf) and most of the comments are on the source paper, below; however, while aTaxis "could handle" all trips, so could the existing public transportation system. It would just mean more walking, waiting and crowding that may or may not be worse than the waiting, add circuity (and crowding) that Singaporians would have to endure to fit into just an aTaxi system. It is a shame that the authors discarded walking, scooters and trains for trips that are actually best served in whole or in part by these existing modes of transport. In [our investigation of the opportunities for aTaxis to serve all New Jersey's 32 million daily person-trips](http://orfe.princeton.edu/%7Ealaink/NJ_aTaxiOrf467F13/Orf467F13_FinalReports/NJTransit_Report_Almost.pdf) we found that about 2.2 million walked or cycled and only 0.044 million used just the rail system (accessing both trips ends using walking to/from the train station); however, 1.4 million person trips were best served "multi-modally" using aTaxis to get to or from the nearest train station and walking from to the other. This would represent a 5X increase in the use of the NJ Transit rail system. Obviously, the synergy between aTaxis and conventional rail would mean a substantial increase in rail's frequency of service ensuring that these potential customers would be well served leading to the realization of these expectations. Alain
 
-##
-
-## Half-baked
-                    stuff that probably doesn't deserve your time:
-
-###
+## Half-baked stuff that probably doesn't deserve your time:
 
 ## [Toward a Systematic Approach to the Design and Evaluation of Automated Mobility-on-Demand Systems: A Case Study in Singapore](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Reports&Speaches_External/MIT_Singapore_Spieser.pdf)
 
-April, 2014  Author: Spieser, Kevin; Treleaven, Kyle;
-                  Zhang, Rick; Frazzoli, Emilio; Morton, Daniel; Pavone,
-                  Marco
+April, 2014 Author: Spieser, Kevin; Treleaven, Kyle; Zhang, Rick; Frazzoli, Emilio; Morton, Daniel; Pavone, Marco
 
-"Abstract:  The objective of this work is to
-                  provide analytical guidelines and financial
-                  justification for the design of shared-vehicle
-                  mobility-on-demand systems. Specifically, we consider
-                  the fundamental issue of determining the appropriate
-                  number of vehicles to field in the fleet, and estimate
-                  the financial benefits of several models of car
-                  sharing. As a case study, we consider replacing all
-                  modes of personal transportation in a city such as
-                  Singapore with a fleet of shared automated vehicles,
-                  able to drive themselves, e.g., to move to a
-                  customer's location. Using actual transportation data,
-                  our analysis suggests a shared-vehicle mobility
-                  solution can meet the personal mobility needs of the
-                  entire population with a fleet whose size is
-                  approximately 1/3 of the total number of passenger
-                  vehicles currently in operation."  [Read more](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Reports&Speaches_External/MIT_Singapore_Spieser.pdf)
+"Abstract: The objective of this work is to provide analytical guidelines and financial justification for the design of shared-vehicle mobility-on-demand systems. Specifically, we consider the fundamental issue of determining the appropriate number of vehicles to field in the fleet, and estimate the financial benefits of several models of car sharing. As a case study, we consider replacing all modes of personal transportation in a city such as Singapore with a fleet of shared automated vehicles, able to drive themselves, e.g., to move to a customer's location. Using actual transportation data, our analysis suggests a shared-vehicle mobility solution can meet the personal mobility needs of the entire population with a fleet whose size is approximately 1/3 of the total number of passenger vehicles currently in operation." [Read more](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Reports&Speaches_External/MIT_Singapore_Spieser.pdf)
 
-First a comment from Scott Le
-                    Vine, Imperial College London:
+First a comment from Scott Le Vine, Imperial College London:
 
-                    1. The [Forbes article](http://www.forbes.com/sites/chunkamui/2014/04/17/mit-and-stanford-researchers-show-robotaxis-could-replace-private-cars-and-public-transit/) is grandly-titled, but neither the [academic-paper](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Reports&Speaches_External/MIT_Singapore_Spieser.pdf)
-                    nor the article actually 'show' what the
-                    article-title says is shown.  For me to be convinced
-                    that I've been 'shown' that robotaxis can replace
-                    private cars & transit, I'd need to see a
-                    realistic pathway to get from 2014 to 'there' that
-                    addresses the reasons why we are where we are in
-                    2014 (and they're much wider than just the tech we
-                    have available in 2014) (What
+1. The [Forbes article](http://www.forbes.com/sites/chunkamui/2014/04/17/mit-and-stanford-researchers-show-robotaxis-could-replace-private-cars-and-public-transit/) is grandly-titled, but neither the [academic-paper](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Reports&Speaches_External/MIT_Singapore_Spieser.pdf) nor the article actually 'show' what the article-title says is shown. For me to be convinced that I've been 'shown' that robotaxis can replace private cars & transit, I'd need to see a realistic pathway to get from 2014 to 'there' that addresses the reasons why we are where we are in 2014 (and they're much wider than just the tech we have available in 2014) (What
 
-                        is the distribution of wait-times for today's
-                        automobile and scooter trips in Singapore?
-                        Also because the problem is so non-linear,  and
-                        non Gaussian the paper should talk about (
-                        display) the wait time distribution of all of
-                        the individual trips and not just the first
-                        moment.  What about the tail?  Also "wait" is
-                        not the only concern. What about the walk-access
-                        distance distribution and the imposed circuity
-                        required to achieve the high ride-sharing and
-                        low walk-access  distance distribution. Alain)
+is the distribution of wait-times for today's automobile and scooter trips in Singapore? Also because the problem is so non-linear, and non Gaussian the paper should talk about (display) the wait time distribution of all of the individual trips and not just the first moment. What about the tail? Also "wait" is not the only concern. What about the walk-access distance distribution and the imposed circuity required to achieve the high ride-sharing and low walk-access distance distribution. Alain)
 
-2. The academic article says
-                    it shows that 300K a-taxi vehicles (the largest
-                    fleet the authors considered) in Singapore would
-                    result in expected  wait times of 15-minutes during
-                    the peak Am and PM hours.  Of course this will be a
-                    distribution so some sizable fraction of travelers
-                    must wait in excess of 15-min, some small fraction
-                    well in excess of it.  The avg US commute is 25
-                    minutes — if I'm the typical 25-minute commuter,
-                    you've got to really put the hard sell on me to
-                    convince me to accept that my commute will increase
-                    in duration by 60% on average — and sometimes much
-                    longer but I won't actually know this until
-                    near-real-time on any given day.  By comparison of
-                    waiting times, the headways on the busy London tube
-                    lines are something like 2 minutes during busy
-                    periods (though granted sometimes you need to wait
-                    for several trains to pass due to crowding.  Though
-                    in the latter case you've got to deliver yourself to
-                    the tube statuion, which takes time--Scott
+2. The academic article says it shows that 300K a-taxi vehicles (the largest fleet the authors considered) in Singapore would result in expected wait times of 15-minutes during the peak Am and PM hours. Of course this will be a distribution so some sizable fraction of travelers must wait in excess of 15-min, some small fraction well in excess of it. The avg US commute is 25 minutes — if I'm the typical 25-minute commuter, you've got to really put the hard sell on me to convince me to accept that my commute will increase in duration by 60% on average — and sometimes much longer but I won't actually know this until near-real-time on any given day. By comparison of waiting times, the headways on the busy London tube lines are something like 2 minutes during busy periods (though granted sometimes you need to wait for several trains to pass due to crowding. Though in the latter case you've got to deliver yourself to the tube station, which takes time--Scott
 
-Alain's comment:  I, of
-                      course, welcome others evaluating the mobility and
-                      societal implications of aTaxi (autonomousTaxi)
-                      public transportation systems and assessing their
-                      opportunity to be the dominant personal mobility
-                      system.  The conclusion that Singapore's mobility
-                      needs could be served with 1/3 of today's vehicles
-                      is comparable to our findings that New Jersey's
-                      mobility could be served  with with about 1/3 the
-                      VMT.  We are, of course, using a very different
-                      measure: VMT rather than fleet size and New Jersey
-                      is very different than Singapore.  Moreover, our
-                      approach was to assess the viability of aTaxi
-                      service individually to each of 32M or so trips
-                      that transpire on a typical weekday in New Jersey
-                      and to move each and everyone of those trips by a
-                      combination of walking, biking, aTaxiing and
-                      NJ_Transit_Railing.  Since we analyze each trip we
-                      have the opportunity to measure the amount of
-                      walking, biking, occupancy in each aTaxi, the
-                      circuity imposed on each aTaxi accommodating each
-                      shared ride and the amount of delay that was
-                      imposed on each trip while an aTaxi waits for a
-                      ride-sharing opportunity.  The fact that the study
-                      talks about households, rather than individual
-                      travelers strongly suggests to me that the
-                      inherent aggregation that is contained in their
-                      modelling process enormously biases their
-                      results.  I'll go out on a limb and say that their
-                      result of "one-shared car every 12.3 households"
-                      is not even close to being achievable and is a
-                      total aberration of the inappropriate aggregation
-                      of trips that is implied by their methodology.
-                      Travel demands are by individuals, not
-                      households.  each member goes different places at
-                      different times (unless they are serving as a
-                      chauffeur to another family member, in which
-                      enormous circuity is imposed on the chauffeur.
-                      The fact that they do not show aTaxi occupancy
-                      distributions as a function of time, and do
-                      "rebalancing" every 30 minutes rather than
-                      continuously also leads me to seriously
-                      questioning their findings.  I simply do not
-                      believe that the real travel demand in Singapore
-                      is lined up so nicely, or is so short, that
-                      everything cascades into the center in the morning
-                      and out to the periphery in the evening and that
-                      everything lines up so well that one car can serve
-                      the travel needs of 30+ people during the peak
-                      travel times. [C'Mon Man!](https://www.youtube.com/watch?v=PgjhrnpS0DA)  This deserves to be in
-                      half-baked.  Alain
+Alain's comment: I, of course, welcome others evaluating the mobility and societal implications of aTaxi (autonomous Taxi) public transportation systems and assessing their opportunity to be the dominant personal mobility system. The conclusion that Singapore's mobility needs could be served with 1/3 of today's vehicles is comparable to our findings that New Jersey's mobility could be served with about 1/3 the VMT. We are, of course, using a very different measure: VMT rather than fleet size and New Jersey is very different than Singapore. Moreover, our approach was to assess the viability of aTaxi service individually to each of 32M or so trips that transpire on a typical weekday in New Jersey and to move each and everyone of those trips by a combination of walking, biking, aTaxiing and NJ_Transit_Railing. Since we analyze each trip we have the opportunity to measure the amount of walking, biking, occupancy in each aTaxi, the circuity imposed on each aTaxi accommodating each shared ride and the amount of delay that was imposed on each trip while an aTaxi waits for a ride-sharing opportunity. The fact that the study talks about households, rather than individual travelers strongly suggests to me that the inherent aggregation that is contained in their modelling process enormously biases their results. I'll go out on a limb and say that their result of "one-shared car every 12.3 households" is not even close to being achievable and is a total aberration of the inappropriate aggregation of trips that is implied by their methodology. Travel demands are by individuals, not households. each member goes different places at different times (unless they are serving as a chauffeur to another family member, in which enormous circuity is imposed on the chauffeur. The fact that they do not show aTaxi occupancy distributions as a function of time, and do "rebalancing" every 30 minutes rather than continuously also leads me to seriously questioning their findings. I simply do not believe that the real travel demand in Singapore is lined up so nicely, or is so short, that everything cascades into the center in the morning and out to the periphery in the evening and that everything lines up so well that one car can serve the travel needs of 30+ people during the peak travel times. [C'Mon Man!](https://www.youtube.com/watch?v=PgjhrnpS0DA) This deserves to be in half-baked. Alain
 
-## Calendar of
-              Upcoming Events:
+## Calendar of Upcoming Events:
 
 ### [2014 IEEE Intelligent Vehicles Symposium](http://www.ieeeiv.net/)
 
 ### June 8 - 11, 2014, Dearborn, Michigan, USA
 
-          Sponsored by the IEEE Intelligent Transportation Systems
-          Society
-
+Sponsored by the IEEE Intelligent Transportation Systems Society
 
 [http://www.auvsi.org/avs2014/register](http://www.auvsi.org/avs2014/register)
 
-
 # Recent Versions of:
 
-#
+April 11, 2014 [Hands-On: 2015 Hyundai Genesis Flirts with Autonomous Driving](http://www.chipchick.com/2014/04/2015-hyundai-genesis.html)
 
-              April 11, 2014
-         [Hands-On: 2015 Hyundai Genesis Flirts with Autonomous Driving](http://www.chipchick.com/2014/04/2015-hyundai-genesis.html)
+By Scott Schaen on April 7, "...Lane keep assist worked very well if you're slow to make a slight turn. It doesn't work for the bigger turns. Similarly, smart cruise control and the automatic emergency breaking system would slow you down a lot, but it won't bring you to a complete stop. They're SAFETY features; they're not intended to auto-drive (yet)..." [Read more](http://www.chipchick.com/2014/04/2015-hyundai-genesis.html)
 
-        By Scott Schaen on April 7, "...Lane keep assist worked very
-        well if you're slow to make a slight turn. It doesn't work for
-        the bigger turns. Similarly, smart cruise control and the
-        automatic emergency breaking system would slow you down a lot,
-        but it won't bring you to a complete stop. They're SAFETY
-        features; they're not intended to auto-drive (yet)..." [Read more](http://www.chipchick.com/2014/04/2015-hyundai-genesis.html)
-
-              April 4, 2014
+April 4, 2014
 
 ### [Webinar on the 3DV product](http://www.autonomoustuff.com/vislab-webinar-recording.html)
 
-        Thursday, March 27, 2014  [Video of Webinar](http://www.autonomoustuff.com/vislab-webinar-recording.html). Excellent presentation by Prof.
-            Alberto Broggi Alain
+Thursday, March 27, 2014 [Video of Webinar](http://www.autonomoustuff.com/vislab-webinar-recording.html). Excellent presentation by Prof. Alberto Broggi Alain
 
-              March 28, 2014
+March 28, 2014
 
-### [Millennials& Mobility: Understanding the Millennial Mindset](http://www.apta.com/resources/reportsandpublications/Documents/APTA-Millennials-and-Mobility.pdf)
+### [Millennials & Mobility: Understanding the Millennial Mindset](http://www.apta.com/resources/reportsandpublications/Documents/APTA-Millennials-and-Mobility.pdf)
 
-        "...millennials, with their relative propensity for urban
-        lifestyle components (whether they live in cities or in
-        suburbs), dexterity with technology, while starting careers
-        during economically constrained times can leave a lasting impact
-        on society...."  [Read more](http://www.apta.com/resources/reportsandpublications/Documents/APTA-Millennials-and-Mobility.pdf)
-              March 21, 2014
+"...millennials, with their relative propensity for urban lifestyle components (whether they live in cities or in suburbs), dexterity with technology, while starting careers during economically constrained times can leave a lasting impact on society...." [Read more](http://www.apta.com/resources/reportsandpublications/Documents/APTA-Millennials-and-Mobility.pdf)
 
-###
-
-###
+March 21, 2014
 
 ### [Toyota Is Fined $1.2 Billion for Concealing Safety Defects](http://www.nytimes.com/2014/03/20/business/toyota-reaches-1-2-billion-settlement-in-criminal-inquiry.html?ref=business)
 
-By BILL VLASIC and MATT APUZZOMARCH
-            19, 2014 "Eric H. Holder Jr., the United States attorney
-            general, talked in impassioned tones on Wednesday about
-            Toyota's behavior in hiding safety defects from the public,
-            calling it "shameful" and a "blatant disregard" for the
-            law.  A $1.2 billion criminal penalty, the largest ever for
-            a carmaker in the United States, was imposed. [Read more](http://www.nytimes.com/2014/03/20/business/toyota-reaches-1-2-billion-settlement-in-criminal-inquiry.html?ref=business)
+By BILL VLASIC and MATT APUZZO MARCH 19, 2014 "Eric H. Holder Jr., the United States attorney general, talked in impassioned tones on Wednesday about Toyota's behavior in hiding safety defects from the public, calling it "shameful" and a "blatant disregard" for the law. A $1.2 billion criminal penalty, the largest ever for a carmaker in the United States, was imposed. [Read more](http://www.nytimes.com/2014/03/20/business/toyota-reaches-1-2-billion-settlement-in-criminal-inquiry.html?ref=business)
 
-Hmmm...  As I wrote last week with
-                respect to GM, the industry can not respond in this
-                manner during the evolution of SmartDrivingCars.
-                "Defects" are inevitable, as will improvements
-                to the systems.  In fact, instead of a "defect
-                recall", the industry might create a "performance
-                enhancement" recall process where software
-                upgrades and some hardware upgrades may be made to the
-                systems to improve their performance.  The
-                industry might/should be able to charge for these
-                improvements.  This would be like installing new and
-                better "wiper blades".  Not that the old ones didn't
-                work, the new ones work better.  And the industry could
-                charge for it.  A whole new revenue source.
-                Your SmartDrivingCar could get a real "tune up".  :-)
-                Alain
+Hmmm... As I wrote last week with respect to GM, the industry can not respond in this manner during the evolution of SmartDrivingCars. "Defects" are inevitable, as will improvements to the systems. In fact, instead of a "defect recall", the industry might create a "performance enhancement" recall process where software upgrades and some hardware upgrades may be made to the systems to improve their performance. The industry might/should be able to charge for these improvements. This would be like installing new and better "wiper blades". Not that the old ones didn't work, the new ones work better. And the industry could charge for it. A whole new revenue source. Your SmartDrivingCar could get a real "tune up". :-) Alain
 
-              March 14, 2014
+March 14, 2014
 
 ### [303 Deaths Seen in G.M. Cars With Failed Air Bags](http://www.nytimes.com/2014/03/14/business/gm-air-bag-failures-linked-to-303-deaths.html?hp&_r=0)
 
-By DANIELLE IVORY and HILARY STOUTMARCH 13, 2014  "As
-          lawmakers press General Motors and regulators over their
-          decade-long failure to correct a defective ignition switch, a
-          new review of federal crash data shows that 303 people died
-          after the air bags failed to deploy on two of the models that
-          were recalled last month...[Read mor](http://www.nytimes.com/2014/03/14/business/gm-air-bag-failures-linked-to-303-deaths.html?hp&_r=0)
+By DANIELLE IVORY and HILARY STOUT MARCH 13, 2014 "As lawmakers press General Motors and regulators over their decade-long failure to correct a defective ignition switch, a new review of federal crash data shows that 303 people died after the air bags failed to deploy on two of the models that were recalled last month...[Read more](http://www.nytimes.com/2014/03/14/business/gm-air-bag-failures-linked-to-303-deaths.html?hp&_r=0)
 
-Hmmm... This  is tragic for many
-              reasons; however, we in the SmartDrivingCars world need to
-              learn very clear lessons... More importantly (and as is obvious to
-              the most casual observer) we can't wait for "...303
+Hmmm... This is tragic for many reasons; however, we in the SmartDrivingCars world need to learn very clear lessons... More importantly (and as is obvious to the most casual observer) we can't wait for "...303 victims..." of the "we didn't think of that" problem to occur before we fix it.... Alain
 
-                victims..." of the "we didn't think of that"
-              problem to occur before we fix it....  Alain
-
-              March 7, 2014
+March 7, 2014
 
 ### [http://www.apple.com/ios/carplay/](http://www.apple.com/ios/carplay/)
 
-Hmmm.  Just what
-                we need in our cars, an easier way to be distracted from
-                driving.  Maybe this should be called "Apple CarCrash".
-
-              Alain
+Hmmm. Just what we need in our cars, an easier way to be distracted from driving. Maybe this should be called "Apple CarCrash".
 
 ### [New Jersey Rail Ridership Opportunities If aTaxis Are Available...](http://orfe.princeton.edu/%7Ealaink/NJ_aTaxiOrf467F13/Orf467F13_FinalReports/NJTransit_Report_Almost.pdf)
 
-          A.L. Kornhauser, et al March, 2014 ".... Examined are the rail
-          ridership opportunities that NJ Transit (NJT) might enjoy if
-          autonomousTaxis (aTaxis) were available to readily bring
-          customers to or from its rail stations.  Such collection and
-          distribution services would not only shower NJT with new
-          customers but they would enable NJT to redevelop its parking
-          facilities to more profitable "Transit Village" uses. [Read more](http://orfe.princeton.edu/%7Ealaink/NJ_aTaxiOrf467F13/Orf467F13_FinalReports/NJTransit_Report_Almost.pdf)
-
-  [Mailto:alaink@princeton.edu](Mailto:alaink@princeton.edu)
-
- This list is maintained by [Alain Kornhauser](mailto:alaink@princeton.edu) and
-        hosted by the [Princeton University LISTSERV](http://lists.princeton.edu).
-
-[Unsubscribe](https://lists.princeton.edu/cgi-bin/wa?TICKET=NzM1MjMzIGJpbm9AUFJJTkNFVE9OLkVEVSBTTUFSVERSSVZJTkdDQVJTIGluYtYkJuu3&c=SIGNOFF)
-        | [Re-subscribe](https://lists.princeton.edu/cgi-bin/wa?TICKET=NzM1MjMzIGJpbm9AUFJJTkNFVE9OLkVEVSBTTUFSVERSSVZJTkdDQVJTIGluYtYkJuu3&c=SIGNUP)
-
-***************************************************************************************************************
+A.L. Kornhauser, et al March, 2014 ".... Examined are the rail ridership opportunities that NJ Transit (NJT) might enjoy if autonomous Taxis (aTaxis) were available to readily bring customers to or from its rail stations. Such collection and distribution services would not only shower NJT with new customers but they would enable NJT to redevelop its parking facilities to more profitable "Transit Village" uses. [Read more](http://orfe.princeton.edu/%7Ealaink/NJ_aTaxiOrf467F13/Orf467F13_FinalReports/NJTransit_Report_Almost.pdf)
 
 This list is maintained by [Alain Kornhauser](mailto:alaink@princeton.edu) and hosted by the [Princeton University LISTSERV](http://lists.princeton.edu).
+
+[Unsubscribe](https://lists.princeton.edu/cgi-bin/wa?TICKET=NzM1MjMzIGJpbm9AUFJJTkNFVE9OLkVEVSBTTUFSVERSSVZJTkdDQVJTIGluYtYkJuu3&c=SIGNOFF) | [Re-subscribe](https://lists.princeton.edu/cgi-bin/wa?TICKET=NzM1MjMzIGJpbm9AUFJJTkNFVE9OLkVEVSBTTUFSVERSSVZJTkdDQVJTIGluYtYkJuu3&c=SIGNUP)

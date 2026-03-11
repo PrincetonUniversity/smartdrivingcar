@@ -36,7 +36,7 @@ There is one caveat: a driver must be in the vehicles to take over in the event 
 
 With the British government pushing for a dramatic improvement in traffic flow, including the integration of autonomous and semi-autonomous vehicles, by 2040 could the unthinkable happen: the British gaining technological leadership in this arena over the U.S.?.." [Read more](http://www.thedetroitbureau.com/2013/07/uk-taking-lead-on-driverless-cars-with-new-program/) Unfortunately, if they're fixating on 2040 they wont be leading anything. Alain
 
-## [Video of Tesla's Assembly "Line"](http://orfe.princeton.edu/~alaink/SmartDrivingCars/Videos/Telsa_S_ Assembly_Line.mp4)
+## [Video of Tesla's Assembly "Line"](http://orfe.princeton.edu/~alaink/SmartDrivingCars/Videos/Telsa_S_Assembly_Line.mp4)
 
 There has been a lot of popular press suggesting that Google and [Tesla](http://www.teslamotors.com/) might be getting together to produce a driverless car. Given the amount of automation that currently exists in the Tesla manufacturing process, Tesla might well feel that the automation of driving is a piece of cake. Alain
 

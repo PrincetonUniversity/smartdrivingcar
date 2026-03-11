@@ -13,15 +13,3 @@ Calendar of Upcoming Events:
 July 16-19, '13 Stanford University, Palo Alto | [Agenda](http://www.vehicleautomation.org/program/agenda) | [Breakout Sessions](http://www.vehicleautomation.org/program/breakouts) | [Demonstrations](http://www.vehicleautomation.org/program/demonstrations)
 
 Transportation Research Board's premier multidisciplinary research and policy conference focused on Road Vehicle Automation. If you are actively involved in road vehicle automation and would like to actively contribute to the success of this workshop by becoming a patron or sponsoring one of the meals, please contact me at [alaink@princeton.edu](alaink@princeton.edu).
-
-*****************************************************************************
-
-May 15 2013 2:30 PM Russell Senate Office Building - 253
-
-*****************************************************************************
-
-*****************************************************************************
-
---
-
-This list is maintained by Alain Kornhauser and hosted by the Princeton University LISTSERV.
