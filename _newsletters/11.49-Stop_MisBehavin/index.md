@@ -5,102 +5,53 @@ date: 2023-12-18
 permalink: /11.49-Stop_MisBehavin/
 display_name: "11.49 - Stop_Misbehavin"
 ---
+49th edition of the 11th year of SmartDrivingCars eLetter
 
-49th edition of the 11th year of SmartDrivingCars eLetter
-
- Settle in, folks! I've got more than the usual amount to Hmmm. Perfect for those who need an edifying distraction over the Holidays. And I promise there won't be a test
- when we're back in the New Year J
+Settle in, folks! I've got more than the usual amount to Hmmm. Perfect for those who need an edifying distraction over the Holidays. And I promise there won't be a test when we're back in the New Year J
 
 # [Tesla Autopilot Recall Threatens Its Defense in Lawsuits Over Crashes](https://www.bloomberg.com/news/articles/2023-12-15/tesla-recall-threatens-its-defense-in-autopilot-crash-lawsuits)
 
-M. Nayak, Dec. 15, "[Tesla Inc.](https://www.bloomberg.com/quote/TSLA:US)'s biggest
- vehicle recall ever threatens to hurt the company's defense in several high-profile lawsuits it faces over crashes linked to Autopilot.
+M. Nayak, Dec. 15, "[Tesla Inc.](https://www.bloomberg.com/quote/TSLA:US)'s biggest vehicle recall ever threatens to hurt the company's defense in several high-profile lawsuits it faces over crashes linked to Autopilot.
 
-The automaker's recall of 2 million cars comes after a top US auto-safety regulator found its driver-assistance program failed to ensure drivers stay attentive….Tesla's biggest vehicle recall
- ever threatens to hurt the company's defense in several high-profile lawsuits it faces over crashes linked to Auto…"
+The automaker's recall of 2 million cars comes after a top US auto-safety regulator found its driver-assistance program failed to ensure drivers stay attentive….Tesla's biggest vehicle recall ever threatens to hurt the company's defense in several high-profile lawsuits it faces over crashes linked to Auto…"
 
-[Read More](https://www.cnbc.com/2023/12/05/waymo-chief-product-officer-on-progress-competition-vs-cruise.html)  Hmmmm…. What??? Did M. Nayak actually
- read the NHTSA Safety recall, or just talk with ambulance chasers? Read it for yourself (below) and decide. Alain
+[Read More](https://www.cnbc.com/2023/12/05/waymo-chief-product-officer-on-progress-competition-vs-cruise.html) Hmmmm…. What??? Did M. Nayak actually read the NHTSA Safety recall, or just talk with ambulance chasers? Read it for yourself (below) and decide. Alain
 
 [Part 573 Safety Recall Report](https://static.nhtsa.gov/odi/rcl/2023/RCLRPT-23V838-8276.PDF)
 
-Staff, Dec. 12, "The subject population includes certain MY 2012-2023 Model S that are equipped with Autosteer and were produced between October 5, 2012, and December 7, 2023, and all MY 2016-2023
- Model X vehicles, all MY 2017-2023 Model 3 vehicles and all MY 2020-2023 Model Y vehicles that are equipped with Autosteer and were produced through December 7, 2023…
+Staff, Dec. 12, "The subject population includes certain MY 2012-2023 Model S that are equipped with Autosteer and were produced between October 5, 2012, and December 7, 2023, and all MY 2016-2023 Model X vehicles, all MY 2017-2023 Model 3 vehicles and all MY 2020-2023 Model Y vehicles that are equipped with Autosteer and were produced through December 7, 2023…
 
-Description of the Defect : Basic Autopilot is a package that includes SAE Level 2 advanced driverassistance features, including Autosteer
- and Traffic-Aware Cruise Control (TACC), that drivers may choose to engage subject to certain defined operating limitations. Autosteer is an SAE Level 2 advanced driver-assistance feature that, in coordination with the TACC feature, can provide steering, braking
- and acceleration support to the driver subject to certain limited operating conditions. Autosteer is designed and intended for use on controlled-access highways when the feature is not operating in conjunction with the Autosteer on City Streets feature. When
- Autosteer is engaged, as with all SAE Level 2 advanced driver-assistance features and systems, the driver is the operator of the vehicle. As the vehicle operator, the driver is responsible for the vehicle's movement with their hands on the steering wheel at
- all times, remaining attentive to surrounding road conditions, and intervening (e.g., steer, brake, accelerate or apply the stalk) as needed to maintain safe operation.
-…It is surprising that NHTSA requires "hands
-on wheel", rather than "hand near wheel, since Autosteer is steering, and the responsibility of the alert driver is to override Autosteer, and says nothing about "feet
-near brake/accelerator," which is needed if the alert driver is to intervene by braking or accelerating…
+Description of the Defect: Basic Autopilot is a package that includes SAE Level 2 advanced driver-assistance features, including Autosteer and Traffic-Aware Cruise Control (TACC), that drivers may choose to engage subject to certain defined operating limitations. Autosteer is an SAE Level 2 advanced driver-assistance feature that, in coordination with the TACC feature, can provide steering, braking and acceleration support to the driver subject to certain limited operating conditions. Autosteer is designed and intended for use on controlled-access highways when the feature is not operating in conjunction with the Autosteer on City Streets feature. When Autosteer is engaged, as with all SAE Level 2 advanced driver-assistance features and systems, the driver is the operator of the vehicle. As the vehicle operator, the driver is responsible for the vehicle's movement with their hands on the steering wheel at all times, remaining attentive to surrounding road conditions, and intervening (e.g., steer, brake, accelerate or apply the stalk) as needed to maintain safe operation. …It is surprising that NHTSA requires "hands on wheel", rather than "hand near wheel, since Autosteer is steering, and the responsibility of the alert driver is to override Autosteer, and says nothing about "feet near brake/accelerator," which is needed if the alert driver is to intervene by braking or accelerating…
 
-In certain circumstances when Autosteer is engaged, the prominence and scope of the feature's controls
-may not be sufficient to prevent driver misuse of the SAE Level 2 advanced driver-assistance feature.
+In certain circumstances when Autosteer is engaged, the prominence and scope of the feature's controls may not be sufficient to prevent driver misuse of the SAE Level 2 advanced driver-assistance feature.
 
-Description of the Safety Risk:  In certain circumstances when Autosteer is engaged, if a driver misuses the SAE Level 2 advanced driver-assistance
- feature such that they fail to maintain continuous and sustained responsibility for vehicle operation and are unprepared to intervene, fail to recognize when the feature is canceled or not engaged, and/or fail to recognize when the feature is operating in
- situations where its functionality may be limited, there may be an increased risk of a collision.
+Description of the Safety Risk: In certain circumstances when Autosteer is engaged, if a driver misuses the SAE Level 2 advanced driver-assistance feature such that they fail to maintain continuous and sustained responsibility for vehicle operation and are unprepared to intervene, fail to recognize when the feature is canceled or not engaged, and/or fail to recognize when the feature is operating in situations where its functionality may be limited, there may be an increased risk of a collision.
 
-Description of Remedy Program :  At
-no cost to customers, affected vehicles will receive an
-over-the-air software remedy, which is expected to begin deploying to certain affected vehicles on or shortly after December 12, 2023, with software version 2023.44.30. Remaining affected vehicles
- will receive an over-the-air software remedy at a later date. The
-remedy will incorporate additional controls and alerts to those already existing on affected vehicles to further encourage the driver to adhere to their continuous driving responsibility whenever Autosteer is engaged, which includes keeping their hands
- on the steering wheel and paying attention to the roadway. Depending on vehicle hardware, the
-additional controls will include, among others, increasing the prominence of visual alerts on the user interface, simplifying engagement and disengagement of Autosteer, additional checks upon engaging
- Autosteer and while using the feature outside controlled access highways and when approaching traffic controls,
-and eventual suspension from Autosteer use if the driver repeatedly fails to demonstrate continuous and sustained driving responsibility while the feature is engaged.    Tesla does not plan to include
- a statement in the Part 577 owner notification about pre-notice reimbursement because there are no out-of-warranty repairs related to this condition.
+Description of Remedy Program: At no cost to customers, affected vehicles will receive an over-the-air software remedy, which is expected to begin deploying to certain affected vehicles on or shortly after December 12, 2023, with software version 2023.44.30. Remaining affected vehicles will receive an over-the-air software remedy at a later date. The remedy will incorporate additional controls and alerts to those already existing on affected vehicles to further encourage the driver to adhere to their continuous driving responsibility whenever Autosteer is engaged, which includes keeping their hands on the steering wheel and paying attention to the roadway. Depending on vehicle hardware, the additional controls will include, among others, increasing the prominence of visual alerts on the user interface, simplifying engagement and disengagement of Autosteer, additional checks upon engaging Autosteer and while using the feature outside controlled access highways and when approaching traffic controls, and eventual suspension from Autosteer use if the driver repeatedly fails to demonstrate continuous and sustained driving responsibility while the feature is engaged. Tesla does not plan to include a statement in the Part 577 owner notification about pre-notice reimbursement because there are no out-of-warranty repairs related to this condition.
 
-Identify How/When Recall Condition was Corrected in Production :
-Beginning midday on December 7, 2023, Model S, Model X, Model 3 and Model Y
-vehicles in production received a software release that incorporates the software remedy…."
+Identify How/When Recall Condition was Corrected in Production: Beginning midday on December 7, 2023, Model S, Model X, Model 3 and Model Y vehicles in production received a software release that incorporates the software remedy…."
 
-[Read More](https://static.nhtsa.gov/odi/rcl/2023/RCLRPT-23V838-8276.PDF)  Hmmmm…. This is what I call a fantastic working relationship between
- a regulator and a producer to address a safety concern.  1. Identify the problem: driver misbehavior.  2 Work together to construct a software solution imposed by the regulator so that it is now the regulator that has taken responsibility for the proposed
- solution. 3.  Implement instantaneously using over-the-air updating.  Perfect!
+[Read More](https://static.nhtsa.gov/odi/rcl/2023/RCLRPT-23V838-8276.PDF) Hmmmm…. This is what I call a fantastic working relationship between a regulator and a producer to address a safety concern. 1. Identify the problem: driver misbehavior. 2 Work together to construct a software solution imposed by the regulator so that it is now the regulator that has taken responsibility for the proposed solution. 3. Implement instantaneously using over-the-air updating. Perfect!
 
-TL;DR Seems to me NHTSA has found driver misbehavior to be the root cause of crashes.  Seems like an enormous win for Tesla with respect to past crashes, and a safety endorsement for the system in the future
- via the expected near-elimination of driver mis-behavior. Insurance should follow suit by voiding coverage if the driver explicitly  circumvented ay of NHTSA remedies.   Alain
+TL;DR Seems to me NHTSA has found driver misbehavior to be the root cause of crashes. Seems like an enormous win for Tesla with respect to past crashes, and a safety endorsement for the system in the future via the expected near-elimination of driver mis-behavior. Insurance should follow suit by voiding coverage if the driver explicitly circumvented any of NHTSA remedies. Alain
 
-Want more Alain analysis (Alainalysis?
-J)?  Here it comes!
+Want more Alain analysis (Alainalysis? J) Here it comes!
 
-NHTSA has a full page ad in the Sunday NY Times appealing to drivers to pay attention while driving.  Actually, NHTSA should be out front and appeal to drivers to stop mis-behaving while driving.  Stop completely
- disregarding not only the basic rules of the road like speed limits, not tailgating, not running redlights and not drinking and driving.  What is being missed here is the cooperative agreement between NHTSA and Tesla that it is the
-mis-use of AutoPilot by drivers that is the safety challenge, and an agreement by Tesla to actively enforce compliance in the use of the feature. No company wants its product to be used in such a way so as to cause injury to its customer/the public.
- One would also like to respect the intelligence of one's customer.  Unfortunately, the way cars have been sold over the last 70 years, if not since day one, is the freedom to go from anywhere to anywhere at any time in any way. I am certain every reader of
- this newsletter can instantly conjure up any number of striking commercials showing speeding vehicles, vehicles being driven where they should not, and the teeny tiny print at the bottom of one's TV screen admonishing "Do not attempt" etc. The central car
- design principle seems to have been, nothing should be put in the way of using the car however the owner wishes to use the car.  If it were not that, then every car would have an engine interlock system that required the driver to be sober and attentive.
- Cars would have speed limiters that wouldn't allow the car to be driven at speeds greater than the speed limit. We would have automated emergency braking systems that worked instead of collision warning systems. And lane keeping systems rather than lane departure
- warning systems. Again, I am sure you have other ideas for improving our collective safety as drivers and pedestrians.
+NHTSA has a full page ad in the Sunday NY Times appealing to drivers to pay attention while driving. Actually, NHTSA should be out front and appeal to drivers to stop mis-behaving while driving. Stop completely disregarding not only the basic rules of the road like speed limits, not tailgating, not running red lights and not drinking and driving. What is being missed here is the cooperative agreement between NHTSA and Tesla that it is the mis-use of AutoPilot by drivers that is the safety challenge, and an agreement by Tesla to actively enforce compliance in the use of the feature. No company wants its product to be used in such a way so as to cause injury to its customer/the public. One would also like to respect the intelligence of one's customer. Unfortunately, the way cars have been sold over the last 70 years, if not since day one, is the freedom to go from anywhere to anywhere at any time in any way. I am certain every reader of this newsletter can instantly conjure up any number of striking commercials showing speeding vehicles, vehicles being driven where they should not, and the teeny tiny print at the bottom of one's TV screen admonishing "Do not attempt" etc. The central car design principle seems to have been, nothing should be put in the way of using the car however the owner wishes to use the car. If it were not that, then every car would have an engine interlock system that required the driver to be sober and attentive. Cars would have speed limiters that wouldn't allow the car to be driven at speeds greater than the speed limit. We would have automated emergency braking systems that worked instead of collision warning systems. And lane keeping systems rather than lane departure warning systems. Again, I am sure you have other ideas for improving our collective safety as drivers and pedestrians.
 
-What happened here is that NHTSA investigated for more than 2 years numerous crashes involving AutoPilot, must have concluded that the fault in those crashes was
-not that AutoPilot failed to work properly when the driver was paying attention, as is clearly articulated by the Tesla owner's manual; else, NHTSA's recall directive would have instructed Tesla to either fix those AutoPilot shortcomings or remove the
- AutoPilot functionality from all of its vehicles as a safety hazard.  NHTSA did not do that because it found that driver mis-behavior was the root cause of the crashes and worked together with Tesla to enhance AutoPilot to more actively enforce the requirement
- that the driver remain attentive, and responsible, in its use of AutoPilot. Else, the feature must be turned off.  This is a fantastic negotiated recall that allows Tesla to monitor the driver's use of the system without worry about privacy issues (NHTSA made
- me do it) and the taking away functionality that was rightly purchased by a customer, for misuse, as defined and specified by the ultimate safety regulator (NHTSA made me do it).  Thus, no class action suit about "give me back my money because you constrained
- my use …"  This is great.
+What happened here is that NHTSA investigated for more than 2 years numerous crashes involving AutoPilot, must have concluded that the fault in those crashes was not that AutoPilot failed to work properly when the driver was paying attention, as is clearly articulated by the Tesla owner's manual; else, NHTSA's recall directive would have instructed Tesla to either fix those AutoPilot shortcomings or remove the AutoPilot functionality from all of its vehicles as a safety hazard. NHTSA did not do that because it found that driver mis-behavior was the root cause of the crashes and worked together with Tesla to enhance AutoPilot to more actively enforce the requirement that the driver remain attentive, and responsible, in its use of AutoPilot. Else, the feature must be turned off. This is a fantastic negotiated recall that allows Tesla to monitor the driver's use of the system without worry about privacy issues (NHTSA made me do it) and the taking away functionality that was rightly purchased by a customer, for misuse, as defined and specified by the ultimate safety regulator (NHTSA made me do it). Thus, no class action suit about "give me back my money because you constrained my use …" This is great.
 
-Plus, the icing on the cake being, Tesla trivially complied with a recall of essentially all of its cars by simply executing an over-the-air update.  Something that would have had substantial financial implications
- for any other car manufacturer was executed at essentially zero cost by Tesla.  Moreover, NHTSA and Tesla can jointly monitor the effectiveness of the recall to ensure the greatest effectiveness at making sure that drivers remain attentive while AutoPilot
- is being used.  For example, if allowing 5 warnings before disabling AutoPilot for 30 days are not effective at inducing better driver behavior in the use of AutoPilot, then Tesla and NHTSA can do some A/B testing to determine better values than {5,30}.
+Plus, the icing on the cake being, Tesla trivially complied with a recall of essentially all of its cars by simply executing an over-the-air update. Something that would have had substantial financial implications for any other car manufacturer was executed at essentially zero cost by Tesla. Moreover, NHTSA and Tesla can jointly monitor the effectiveness of the recall to ensure the greatest effectiveness at making sure that drivers remain attentive while AutoPilot is being used. For example, if allowing 5 warnings before disabling AutoPilot for 30 days are not effective at inducing better driver behavior in the use of AutoPilot, then Tesla and NHTSA can do some A/B testing to determine better values than {5,30}.
 
-On could/should also test the "hands on the steering wheel" requirement versus "foot near the brake", especially given that newer Teslas have eye trackers that are a better indicator that a driver is paying
- attention and the assistance that AutoPilot tends to need for an observant driver to "hit the brakes" and slow down, rather than turn the wheel and swerve in order to avoid/mitigate a crash.  I'm surprised that NHTSA hasn't encouraged that drivers "keep foot
- near brake" in addition to, or really in preference to "keep hands on wheel".
+On could/should also test the "hands on the steering wheel" requirement versus "foot near the brake", especially given that newer Teslas have eye trackers that are a better indicator that a driver is paying attention and the assistance that AutoPilot tends to need for an observant driver to "hit the brakes" and slow down, rather than turn the wheel and swerve in order to avoid/mitigate a crash. I'm surprised that NHTSA hasn't encouraged that drivers "keep foot near brake" in addition to, or really in preference to "keep hands on wheel".
 
-Thanks for sticking with me
-J Alain
+Thanks for sticking with me J Alain
 
-[Read More](https://www.youtube.com/watch?v=gjEK54c-29Q)  Hmmmm….  See especially
-[19:44](https://www.youtube.com/watch?v=vXH2r2bNjk8&list=PL0lACHv09kBz2IJkc0dAo0kZc9A_u7opr&index=2&t=1184s) Autopilot / NHTSA resolution:
+[Read More](https://www.youtube.com/watch?v=gjEK54c-29Q) Hmmmm…. See especially [19:44](https://www.youtube.com/watch?v=vXH2r2bNjk8&list=PL0lACHv09kBz2IJkc0dAo0kZc9A_u7opr&index=2&t=1184s) Autopilot / NHTSA resolution:
 
 [Wild Tesla Bot Update, Tax Credit Changes, Autopilot Resolution, Musk's University](https://www.youtube.com/watch?v=vXH2r2bNjk8&list=PL0lACHv09kBz2IJkc0dAo0kZc9A_u7opr&index=2)
 
-* [0:00](https://www.youtube.com/watch?v=vXH2r2bNjk8&list=PL0lACHv09kBz2IJkc0dAo0kZc9A_u7opr&index=2&t=0s) R. Mauer, Dec. 13, "TSLA0:51FOMC / interest rates4:39Tesla bot updates8:56Tax credit changes12:54Uber incentives14:33Hotel adds Tesla chargers15:58Giga Mexico approval16:46Cybertrucks at Giga Texas17:24Carwow Cybertruck review19:44Autopilot / NHTSA resolution24:16Musk's university."Alain
+* [0:00](https://www.youtube.com/watch?v=vXH2r2bNjk8&list=PL0lACHv09kBz2IJkc0dAo0kZc9A_u7opr&index=2&t=0s) R. Mauer, Dec. 13, "TSLA0:51FOMC / interest rates4:39Tesla bot updates8:56Tax credit changes12:54Uber incentives14:33Hotel adds Tesla chargers15:58Giga Mexico approval16:46Cybertrucks at Giga Texas17:24Carwow Cybertruck review19:44Autopilot / NHTSA resolution24:16Musk's university." Alain
 * [0:00](https://www.youtube.com/watch?v=Y85jSroVVwA&t=0s) open
 * [23:05](https://www.youtube.com/watch?v=Y85jSroVVwA&t=1385s) GM Cruise cuts quarter of workforce
 * [36:45](https://www.youtube.com/watch?v=Y85jSroVVwA&t=2205s) DOT response to AV Industry SOS
@@ -110,11 +61,4 @@ J Alain
 * [1:07:54](https://www.youtube.com/watch?v=Y85jSroVVwA&t=4074s) Governor of NJ announces AI Center at Princeton
 * [1:11:56](https://www.youtube.com/watch?v=Y85jSroVVwA&t=4316s) The Real Case for Driverless Mobility by Alain and Michael Sena coming very soon
 
-Andrew Hawkins, Dec. 13, "…
-Update December 13th 1:03PM ET: After this story published, a spokesperson for USDOT sent a statement reacting to the letter.
-
- is repeated below…
-
-***************************************************************************************************************
-
-This list is maintained by [Alain Kornhauser](mailto:alaink@princeton.edu) and hosted by the [Princeton University LISTSERV](http://lists.princeton.edu).
+Andrew Hawkins, Dec. 13, "… Update December 13th 1:03PM ET: After this story published, a spokesperson for USDOT sent a statement reacting to the letter. is repeated below…
