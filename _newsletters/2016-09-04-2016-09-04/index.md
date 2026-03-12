@@ -72,7 +72,7 @@ G. Allen, Sept 2, "A Dallas man says his car drove him straight into a guardrail
 
 ### [Tesla enters car insurance business as self-driving cars prepare to disrupt the industry](https://electrek.co/2016/08/30/tesla-enters-car-insurance-business-self-driving-cars-prepare-disrupt-industry/?utm_source=Triggermail&utm_medium=email&utm_campaign=Post%20Blast%20%28bii-iot%29:%20Baidu%20bolstering%20AI%2C%20IoT%20development%20%E2%80%94%20Tesla%20and%20insurers%20develop%20custom%20policies%20%E2%80%94%20C3%20IoT%20raises%20%2470%20million%20in%20funding%20for%20industrial%20solutions&utm_term=BII%20List%20IoT%20ALL)
 
-Aug 30, "Electrek has learned that Tesla is entering the car insurance business starting with new programs in Australia and Hong Kong. The new program is called InsureMyTesla and it features custom insurance plans for the company's vehicles underwritten by bigger insurers partnering with Tesla. In Hong Kong, Tesla is partnering with AXA General Insurance and in Australia, the automaker released its new plan with QBE Insurance. [Read more](https://electrek.co/2016/08/30/tesla-enters-car-insurance-business-self-driving-cars-prepare-disrupt-industry/?utm_source=Triggermail&utm_medium=email&utm_campaign=Post%20Blast%20%28bii-iot%29:%20Baidu%20bolstering%20AI%2C%20IoT%20development%20%E2%80%94%20Tesla%20and%20insurers%20develop%20custom%20policies%20%E2%80%94%20C3%20IoT%20raises%20%2470%20million%20in%20funding%20for%20industrial%20solutions&utm_term=BII%20List%20IoT%20ALL) Hmmm... Of course. It would be interesting to know the details of the partnership. Beginning the disruption anticipated in [KPMG's report of 2015](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/PDFs/KPMG-automobile-insurance-in-the-era-of-autonomous-vehicles-survey-results-june-2015-6.pdf). Alain
+Aug 30, "Electrek has learned that Tesla is entering the car insurance business starting with new programs in Australia and Hong Kong. The new program is called InsureMyTesla and it features custom insurance plans for the company's vehicles underwritten by bigger insurers partnering with Tesla. In Hong Kong, Tesla is partnering with AXA General Insurance and in Australia, the automaker released its new plan with QBE Insurance. [Read more](https://electrek.co/2016/08/30/tesla-enters-car-insurance-business-self-driving-cars-prepare-disrupt-industry/?utm_source=Triggermail&utm_medium=email&utm_campaign=Post%20Blast%20%28bii-iot%29:%20Baidu%20bolstering%20AI%2C%20IoT%20development%20%E2%80%94%20Tesla%20and%20insurers%20develop%20custom%20policies%20%E2%80%94%20C3%20IoT%20raises%20%2470%20million%20in%20funding%20for%20industrial%20solutions&utm_term=BII%20List%20IoT%20ALL) Hmmm... Of course. It would be interesting to know the details of the partnership. Beginning the disruption anticipated in [KPMG's report of 2015](http://orfe.princeton.edu/~alaink/SmartDrivingCars/PDFs/KPMG-automobile-insurance-in-the-era-of-autonomous-vehicles-survey-results-june-2015-6.pdf). Alain
 
 ### [Driverless cars will kill the most jobs in select US states](http://www.cnbc.com/2016/09/02/driverless-cars-will-kill-the-most-jobs-in-select-us-states.html)
 
@@ -100,21 +100,21 @@ H. Varian, Sept 2016, " ...One example of technology making a big difference to 
 
 So over 15 years the price fell to zero and output went up 20 times. Surely that is a huge increase in productivity. Unfortunately, most of this productivity increase doesn't show up in GDP, since the measured figures depend on the sales of film, cameras, and developing services, which are only a small part of photography these days...." [Read more](http://www.imf.org/external/pubs/ft/fandd/2016/09/varian.htm) Hmmm...Interesting. Alain
 
-## [On the More Technical Side](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Papers/)
+## [On the More Technical Side](http://orfe.princeton.edu/~alaink/SmartDrivingCars/Papers/)
 
-[http://orfe.princeton.edu/~alaink/SmartDrivingCars/Papers/](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Papers/)
+[http://orfe.princeton.edu/~alaink/SmartDrivingCars/Papers/](http://orfe.princeton.edu/~alaink/SmartDrivingCars/Papers/)
 
-### [Learning to Recognize Distance to Stop Signs Using the Virtual World of Grand Theft Auto 5](http://orfe.princeton.edu/%7Ealaink/TRB%2717/Using_GTAV_to_Learn_Distances_TRB_Final.pdf)
+### [Learning to Recognize Distance to Stop Signs Using the Virtual World of Grand Theft Auto 5](http://orfe.princeton.edu/~alaink/TRB%2717/Using_GTAV_to_Learn_Distances_TRB_Final.pdf)
 
-A. Filiowicz, J. Liu, A Kornhauser, Aug 1 [Read more](http://orfe.princeton.edu/%7Ealaink/TRB%2717/Using_GTAV_to_Learn_Distances_TRB_Final.pdf)
+A. Filiowicz, J. Liu, A Kornhauser, Aug 1 [Read more](http://orfe.princeton.edu/~alaink/TRB%2717/Using_GTAV_to_Learn_Distances_TRB_Final.pdf)
 
-### [The Interplay between Fleet-size, Level-of-Service, and Empty Repositioning Strategies in Large-scale, Shared-ride autonomousTaxis Mobility-on-Demand Scenarios](http://orfe.princeton.edu/%7Ealaink/TRB%2717/Interplay_Between_Fleet-size,_LoS%20and_EmptyRepositioning.pdf)
+### [The Interplay between Fleet-size, Level-of-Service, and Empty Repositioning Strategies in Large-scale, Shared-ride autonomousTaxis Mobility-on-Demand Scenarios](http://orfe.princeton.edu/~alaink/TRB%2717/Interplay_Between_Fleet-size,_LoS%20and_EmptyRepositioning.pdf)
 
-S. Zhu, A. Kornhauser, Aug 1 [Read more](http://orfe.princeton.edu/%7Ealaink/TRB%2717/Interplay_Between_Fleet-size,_LoS%20and_EmptyRepositioning.pdf)
+S. Zhu, A. Kornhauser, Aug 1 [Read more](http://orfe.princeton.edu/~alaink/TRB%2717/Interplay_Between_Fleet-size,_LoS%20and_EmptyRepositioning.pdf)
 
-### [Synthetic Generation of Individual Vehicle-borne Person Trips That Characterize Individual Mobility Across the United States on a Typical Day](http://orfe.princeton.edu/%7Ealaink/TRB%2717/Synthetic_Generation_of_Invidual_Trips_Across_US.pdf)
+### [Synthetic Generation of Individual Vehicle-borne Person Trips That Characterize Individual Mobility Across the United States on a Typical Day](http://orfe.princeton.edu/~alaink/TRB%2717/Synthetic_Generation_of_Invidual_Trips_Across_US.pdf)
 
-K. Marocchini, A. Kornhauser, Aug 1 [Read more](http://orfe.princeton.edu/%7Ealaink/TRB%2717/Synthetic_Generation_of_Invidual_Trips_Across_US.pdf)
+K. Marocchini, A. Kornhauser, Aug 1 [Read more](http://orfe.princeton.edu/~alaink/TRB%2717/Synthetic_Generation_of_Invidual_Trips_Across_US.pdf)
 
 ## Half-baked stuff that probably doesn't deserve your time:
 
@@ -196,13 +196,13 @@ Editorial Board, July 11, "A recent fatal crash in Florida involving a Tesla Mod
 
 Hmmm...What we know now (and don't know):
 
-1. On May 7, 2016 at about 4:40pm EDT, there was a crash between a Tesla and a Class 8 Tractor-Trailer. The accident is depicted in the [Diagram from the Police Report](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/TeslaCrash050716/PoliceReportDiagramTeslaCrash050716FrmNYT.JPG): HSMV Crash Report # 85234095. [(1)](http://www.nytimes.com/2016/07/01/business/self-driving-tesla-fatal-crash-investigation.html?rref=collection%2Ftimestopic%2FNational%20Highway%20Traffic%20Safety%20Administration&action=click&contentCollection=timestopics&region=stream&module=stream_unit&version=latest&contentPlacement=1&pgtype=collection&_r=0) [Google Earth images from the site](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/TeslaCrash050716/CrashSceneGoogleEarth.pdf).
+1. On May 7, 2016 at about 4:40pm EDT, there was a crash between a Tesla and a Class 8 Tractor-Trailer. The accident is depicted in the [Diagram from the Police Report](http://orfe.princeton.edu/~alaink/SmartDrivingCars/TeslaCrash050716/PoliceReportDiagramTeslaCrash050716FrmNYT.JPG): HSMV Crash Report # 85234095. [(1)](http://www.nytimes.com/2016/07/01/business/self-driving-tesla-fatal-crash-investigation.html?rref=collection%2Ftimestopic%2FNational%20Highway%20Traffic%20Safety%20Administration&action=click&contentCollection=timestopics&region=stream&module=stream_unit&version=latest&contentPlacement=1&pgtype=collection&_r=0) [Google Earth images from the site](http://orfe.princeton.edu/~alaink/SmartDrivingCars/TeslaCrash050716/CrashSceneGoogleEarth.pdf).
 
 2. The driver of the Tesla was [Joshua Brown](http://www.legacy.com/obituaries/ohio/obituary.aspx?pid=179994314). "No citations have been issued, but the initial accident report from the FHP indicates the truck driver "failed to yield right-of-way." [(2)](http://www.reuters.com/article/us-tesla-autopilot-dvd-idUSKCN0ZH5BW) Hmmm....No Citations??? Did the truck have a data recorder? Was the truck impounded, if so, how is the truck driver making a living since the crash?
 
-### [Extracting Cognition out of Images for the Purpose of Autonomous Driving](http://orfe.princeton.edu/%7Ealaink/Theses/chenyiPhDfinal_ExtractingCognitionOutOfImagesForThePurposeOfAutonomousDriving.pdf)
+### [Extracting Cognition out of Images for the Purpose of Autonomous Driving](http://orfe.princeton.edu/~alaink/Theses/chenyiPhDfinal_ExtractingCognitionOutOfImagesForThePurposeOfAutonomousDriving.pdf)
 
-Chenyi Chen PhD Dissertation, "...the key part of the thesis, a direct perception approach is proposed to drive a car in a highway environment. In this approach, an input image is mapped to a small number of key perception indicators that directly relate to the affordance of a road/traffic state for driving....." [Read more](http://orfe.princeton.edu/%7Ealaink/Theses/chenyiPhDfinal_ExtractingCognitionOutOfImagesForThePurposeOfAutonomousDriving.pdf) Hmmm..[FPO 10:00am, May 16, 120 Sherrerd Hall](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Presentations/ChenyiFPO.pdf), Establishing a foundation for image-based autonomous driving using DeepLearning Neural Networks trained in virtual environments. Very promising. Alain
+Chenyi Chen PhD Dissertation, "...the key part of the thesis, a direct perception approach is proposed to drive a car in a highway environment. In this approach, an input image is mapped to a small number of key perception indicators that directly relate to the affordance of a road/traffic state for driving....." [Read more](http://orfe.princeton.edu/~alaink/Theses/chenyiPhDfinal_ExtractingCognitionOutOfImagesForThePurposeOfAutonomousDriving.pdf) Hmmm..[FPO 10:00am, May 16, 120 Sherrerd Hall](http://orfe.princeton.edu/~alaink/SmartDrivingCars/Presentations/ChenyiFPO.pdf), Establishing a foundation for image-based autonomous driving using DeepLearning Neural Networks trained in virtual environments. Very promising. Alain
 
 ### [Hearing focus of SF 2569 Autonomous vehicles task force establishment and demonstration project for people with disabilities](http://mnsenate.granicus.com/MediaPlayer.php?view_id=1&clip_id=235)
 
@@ -214,6 +214,4 @@ March 23 Hmmm... [Watch the video of the Committee Meeting](http://mnsenate.gran
 
 ### [Adam Jonas' View on Autonomous Cars](http://linkback.morganstanley.com/web/sendlink/webapp/BMServlet?file=kpmb1mve-3p5j-g000-97a7-d8d3855a5201&store=0&d=1&user=dagn42i4pkquh-0&__gda__=1549992813_42e5b148a43b27b943d8d34f1e5c3295#0011&dagn42i4pkquh-1&1549992813_f2523f33158f4db2b6d628c5c9008f28&0021&dagn42i4pkquh-2&1549992813_f9a15a1b06e61ec454fad4cc7759010a)
 
-Video similar to part of Adam's Luncheon talk @ 2015 Florida Automated Vehicle Symposium on Dec 1. [Hmmm ... Watch Video](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Videos/AdamJonas10T_MorganStanley.mp4) especially at the 13:12 mark. Compelling; especially after the 60 Minutes segment above! Also see his [TipRanks](https://www.tipranks.com/analysts/adam-jonas). Alain
-
-This list is maintained by [Alain Kornhauser](mailto:alaink@princeton.edu) and hosted by the [Princeton University LISTSERV](http://lists.princeton.edu).
+Video similar to part of Adam's Luncheon talk @ 2015 Florida Automated Vehicle Symposium on Dec 1. [Hmmm ... Watch Video](http://orfe.princeton.edu/~alaink/SmartDrivingCars/Videos/AdamJonas10T_MorganStanley.mp4) especially at the 13:12 mark. Compelling; especially after the 60 Minutes segment above! Also see his [TipRanks](https://www.tipranks.com/analysts/adam-jonas). Alain
