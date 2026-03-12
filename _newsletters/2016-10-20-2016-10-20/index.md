@@ -30,7 +30,7 @@ M. Lewis, Oct 18, "..."One of the hardest questions to answer is, 'How do these 
 
 One problem is that the U.S. government keeps no comprehensive database of crashes. That complicates what otherwise might seem to be a simple task: figuring out which vehicles are more likely to crash, human-driven ones or those run by software and sensors.... An annual national tally of crashes relies heavily on those reported to police. It understates the actual total of crashes with injuries by at least a quarter and "property damage only" crashes by anywhere from 60 to 84 percent, they concluded. And they consider those numbers conservative, given the mishmash of state reporting requirements and holes in the local data used by federal agencies.
 
-"It is crazy," said [Myra Blanco](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/PDFs/Automated%20Vehicle%20Crash%20Rate%20Comparison%20Using%20Naturalistic%20Data_Final%20Report_20160107%20%281%29.pdf),..." [Read more](https://www.washingtonpost.com/local/trafficandcommuting/will-driverless-cars-really-save-millions-of-lives-lack-of-data-makes-it-hard-to-know/2016/10/18/6a678520-8435-11e6-92c2-14b64f3d453f_story.html) Hmmm... Most interesting! Alain
+"It is crazy," said [Myra Blanco](http://orfe.princeton.edu/~alaink/SmartDrivingCars/PDFs/Automated%20Vehicle%20Crash%20Rate%20Comparison%20Using%20Naturalistic%20Data_Final%20Report_20160107%20%281%29.pdf),..." [Read more](https://www.washingtonpost.com/local/trafficandcommuting/will-driverless-cars-really-save-millions-of-lives-lack-of-data-makes-it-hard-to-know/2016/10/18/6a678520-8435-11e6-92c2-14b64f3d453f_story.html) Hmmm... Most interesting! Alain
 
 ### [France's Navya raises $34M for its self-driving shuttle bus, reportedly at a $220M valuation](https://techcrunch.com/2016/10/11/frances-navya-raises-34m-for-its-self-driving-shuttle-bus-reportedly-at-a-220m-valuation/)
 
@@ -88,9 +88,9 @@ Hmmm... twenty (20) traffic accidents have been reported to date, latest Sept 23
 
 F. Pasquale, Oct 18, "... "[Read more](http://www.slate.com/articles/technology/future_tense/2016/10/self_driving_cars_shouldn_t_have_to_choose_who_to_protect_in_a_crash.html) Hmmm... I didn't even want to insert an excerpt (although it is a good article). If these cars work, they'll avoid encountering even one of the ugly alternatives, let alone both simultaneously. These are extremely rare events and I agree with the pragmatic misquote. We really have much more important and societally valuable things to do that to procrastinate over the 'Trolley Problem'. Alain
 
-## [On the More Technical Side](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Papers/)
+## [On the More Technical Side](http://orfe.princeton.edu/~alaink/SmartDrivingCars/Papers/)
 
-[http://orfe.princeton.edu/~alaink/SmartDrivingCars/Papers/](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Papers/)
+[http://orfe.princeton.edu/~alaink/SmartDrivingCars/Papers/](http://orfe.princeton.edu/~alaink/SmartDrivingCars/Papers/)
 
 ## Jobs
 
@@ -112,9 +112,9 @@ ITS International, Oct 19, "...Matt Kendall, telecoms analyst at The EIU, said: 
 
 ## Older stuff that I had missed:
 
-### [Automated Vehicle Crash Rate Comparison Using Naturalistic Data](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/PDFs/Automated%20Vehicle%20Crash%20Rate%20Comparison%20Using%20Naturalistic%20Data_Final%20Report_20160107%20%281%29.pdf)
+### [Automated Vehicle Crash Rate Comparison Using Naturalistic Data](http://orfe.princeton.edu/~alaink/SmartDrivingCars/PDFs/Automated%20Vehicle%20Crash%20Rate%20Comparison%20Using%20Naturalistic%20Data_Final%20Report_20160107%20%281%29.pdf)
 
-Myra Blanco, January, 2016 "... This study assessed driving risk for the US nationally and for the Google Self-driving car project. Driving Safety on Public roads was examined in three ways. .." [Read more](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/PDFs/Automated%20Vehicle%20Crash%20Rate%20Comparison%20Using%20Naturalistic%20Data_Final%20Report_20160107%20%281%29.pdf) Hmmm... Excellent! Alain
+Myra Blanco, January, 2016 "... This study assessed driving risk for the US nationally and for the Google Self-driving car project. Driving Safety on Public roads was examined in three ways. .." [Read more](http://orfe.princeton.edu/~alaink/SmartDrivingCars/PDFs/Automated%20Vehicle%20Crash%20Rate%20Comparison%20Using%20Naturalistic%20Data_Final%20Report_20160107%20%281%29.pdf) Hmmm... Excellent! Alain
 
 ## [C'mon Man!](https://www.youtube.com/watch?v=XSYiSVRWIHU)(These folks didn't get/read the memo)
 
@@ -146,7 +146,7 @@ However, fleets of Driverless vehicles can provide a compelling alternative. The
 
 ### September 23, 2016
 
-### [Federal Automated Vehicles Policy: Accelerating the Next Revolution In Roadway Safety](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/PDFs/AV%20policy%20guidance%20PDF.pdf)
+### [Federal Automated Vehicles Policy: Accelerating the Next Revolution In Roadway Safety](http://orfe.princeton.edu/~alaink/SmartDrivingCars/PDFs/AV%20policy%20guidance%20PDF.pdf)
 
 September 2016, "Executive Summary... For DOT, the excitement around highly automated vehicles (HAVs) starts with safety. (p5)
 
@@ -222,9 +222,9 @@ M. Ramsey, July 26, "A key supplier of semiautonomous car technology ended a sup
 
 Hmmm... What we know now (and don't know):
 
-### [Extracting Cognition out of Images for the Purpose of Autonomous Driving](http://orfe.princeton.edu/%7Ealaink/Theses/chenyiPhDfinal_ExtractingCognitionOutOfImagesForThePurposeOfAutonomousDriving.pdf)
+### [Extracting Cognition out of Images for the Purpose of Autonomous Driving](http://orfe.princeton.edu/~alaink/Theses/chenyiPhDfinal_ExtractingCognitionOutOfImagesForThePurposeOfAutonomousDriving.pdf)
 
-Chenyi Chen PhD Dissertation, "...the key part of the thesis, a direct perception approach is proposed to drive a car in a highway environment. In this approach, an input image is mapped to a small number of key perception indicators that directly relate to the affordance of a road/traffic state for driving....." [Read more](http://orfe.princeton.edu/%7Ealaink/Theses/chenyiPhDfinal_ExtractingCognitionOutOfImagesForThePurposeOfAutonomousDriving.pdf) Hmmm... [FPO 10:00am, May 16, 120 Sherrerd Hall](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Presentations/ChenyiFPO.pdf), Establishing a foundation for image-based autonomous driving using Deep Learning Neural Networks trained in virtual environments. Very promising. Alain
+Chenyi Chen PhD Dissertation, "...the key part of the thesis, a direct perception approach is proposed to drive a car in a highway environment. In this approach, an input image is mapped to a small number of key perception indicators that directly relate to the affordance of a road/traffic state for driving....." [Read more](http://orfe.princeton.edu/~alaink/Theses/chenyiPhDfinal_ExtractingCognitionOutOfImagesForThePurposeOfAutonomousDriving.pdf) Hmmm... [FPO 10:00am, May 16, 120 Sherrerd Hall](http://orfe.princeton.edu/~alaink/SmartDrivingCars/Presentations/ChenyiFPO.pdf), Establishing a foundation for image-based autonomous driving using Deep Learning Neural Networks trained in virtual environments. Very promising. Alain
 
 ### [Hearing focus of SF 2569 Autonomous vehicles task force establishment and demonstration project for people with disabilities](http://mnsenate.granicus.com/MediaPlayer.php?view_id=1&clip_id=235)
 
@@ -236,6 +236,4 @@ March 23 Hmmm... [Watch the video of the Committee Meeting](http://mnsenate.gran
 
 ### [Adam Jonas' View on Autonomous Cars](http://linkback.morganstanley.com/web/sendlink/webapp/BMServlet?file=kpmb1mve-3p5j-g000-97a7-d8d3855a5201&store=0&d=1&user=dagn42i4pkquh-0&__gda__=1549992813_42e5b148a43b27b943d8d34f1e5c3295#0011&dagn42i4pkquh-1&1549992813_f2523f33158f4db2b6d628c5c9008f28&0021&dagn42i4pkquh-2&1549992813_f9a15a1b06e61ec454fad4cc7759010a)
 
-Video similar to part of Adam's Luncheon talk @ 2015 Florida Automated Vehicle Symposium on Dec 1. [Hmmm ... Watch Video](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Videos/AdamJonas10T_MorganStanley.mp4) especially at the 13:12 mark. Compelling; especially after the 60 Minutes segment above! Also see his [TipRanks](https://www.tipranks.com/analysts/adam-jonas). Alain
-
-This list is maintained by Alain Kornhauser and hosted by the Princeton University LISTSERV.
+Video similar to part of Adam's Luncheon talk @ 2015 Florida Automated Vehicle Symposium on Dec 1. [Hmmm ... Watch Video](http://orfe.princeton.edu/~alaink/SmartDrivingCars/Videos/AdamJonas10T_MorganStanley.mp4) especially at the 13:12 mark. Compelling; especially after the 60 Minutes segment above! Also see his [TipRanks](https://www.tipranks.com/analysts/adam-jonas). Alain
