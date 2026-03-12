@@ -77,5 +77,3 @@ Click or tap if you trust this link.
 Click or tap if you trust this link.  
 Click or tap if you trust this link.  
 Click or tap if you trust this link.  
-
-This list is maintained by Alain Kornhauser and hosted by the [Princeton University LISTSERV](http://lists.princeton.edu).

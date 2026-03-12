@@ -24,5 +24,3 @@ Beyond safety promises, Kornhauser emphasized that Waymo and other autonomous ve
 "They need to see what business they're in, who their customers are and what their customers need," Kornhauser said. "It's mobility for the folks that really need it, when they need it, to improve the quality of life in San Francisco." [Read More](https://sfstandard.com/2023/12/29/cruise-waymo-robotaxis-2024-predictions/) Hmmmm…. I guess all of you already know all of that. 😊 Alain
 
 is repeated below…
-
-This list is maintained by Alain Kornhauser and hosted by the Princeton University LISTSERV.

@@ -155,5 +155,3 @@ Proposed Rule for Connected Vehicles: DOT will be releasing a proposed rule to m
 ###
 
 ***************************************************************************************************************
-
-This list is maintained by [Alain Kornhauser](mailto:alaink@princeton.edu) and hosted by the [Princeton University LISTSERV](http://lists.princeton.edu).

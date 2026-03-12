@@ -623,5 +623,3 @@ Princeton University
 Princeton, NJ  
 [alaink@princeton.edu](mailto:alaink@princeton.edu)  
 609-980-1427 (c)  
-
-This list is maintained by Alain Kornhauser and hosted by the [Princeton University LISTSERV](http://lists.princeton.edu).

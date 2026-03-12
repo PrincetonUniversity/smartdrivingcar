@@ -224,5 +224,3 @@ If you spend enough time on the road, accidents will happen whether you're in a 
 Hmmm.... MUST reading; HOWEVER, we need much more information to be released, not just a few examples. Please make your data public! We don't need to know who but we desperately need to know what so that not only Google, but the rest of us can... "...work hard on developing..." SmartDrivingCars "....that can shoulder this burden for us." Alain
 
 [Mailto:alaink@princeton.edu](Mailto:alaink@princeton.edu) 
-
-This list is maintained by Alain Kornhauser and hosted by the Princeton University LISTSERV.

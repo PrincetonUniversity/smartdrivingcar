@@ -95,7 +95,4 @@ A couple other things: We have all expected this day to come because we know tha
 The other thing is: why is NHTSA doing the formal investigation? (We know the textbook answer!) and not NTSB (NTSB has experience in investigating transportation crashes that involve "autoPilots" and "blackBoxes", both of which are involved in this case.) or some new public entity (there are arguments that can be made that have "Self-driving" and "Driverless" as new "modes" that deserve their own public oversight as is afforded to aviation, pipelines, railroads, trucks, ...)
 
 Finally, we have had many tragedies, learned from them, fixed things and achieved the benefits that we sought. This does not reach the levels of the [Apollo 1](http://history.nasa.gov/Apollo204/) and [Challenger](http://www.nytimes.com/learning/general/onthisday/big/0128.html) tragedies nor require that intensive of an investigation. The [Amtrak 188 Philadelphia Derailment](http://www.ntsb.gov/news/events/Pages/2016-Amtrak-BMG.aspx) comes closer. This case certainly deserves as intense of an investigation as was made there (without the conclusion the train engineer under the bus). Alain
-
-This list is maintained by [Alain Kornhauser](mailto:alaink@princeton.edu) and hosted by the [Princeton University LISTSERV](http://lists.princeton.edu).
-
 [Unsubscribe](https://lists.princeton.edu/cgi-bin/wa?TICKET=NzM1MjMzIGJpbm9AUFJJTkNFVE9OLkVEVSBTTUFSVERSSVZJTkdDQVJTIGluYtYkJuu3&c=SIGNOFF) | [Re-subscribe](https://lists.princeton.edu/cgi-bin/wa?SUBED1=SmartDrivingCars&A=1)

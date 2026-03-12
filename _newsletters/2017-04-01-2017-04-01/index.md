@@ -57,5 +57,3 @@ J. Holding, Apr 1, "...here are the best...from the motoring
                             and hosted by the .
 
 ***************************************************************************************************************
-
-This list is maintained by [Alain Kornhauser](mailto:alaink@princeton.edu) and hosted by the [Princeton University LISTSERV](http://lists.princeton.edu).

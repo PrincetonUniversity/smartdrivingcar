@@ -165,5 +165,3 @@ A good summary of the tests appears in [FleetDirectory](http://www.fleetdirector
 alaink@princeton.edu
 
 SmartDrivingCars_120613v0
-
-This list is maintained by Alain Kornhauser and hosted by the Princeton University LISTSERV.

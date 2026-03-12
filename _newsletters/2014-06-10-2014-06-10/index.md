@@ -163,5 +163,3 @@ Hmmm. Just what we need in our cars, an easier way to be distracted from driving
 ### [New Jersey Rail Ridership Opportunities If a Taxis Are Available...](http://orfe.princeton.edu/%7Ealaink/NJ_aTaxiOrf467F13/Orf467F13_FinalReports/NJTransit_Report_Almost.pdf)
 
 A.L. Kornhauser, et al March, 2014 ".... Examined are the rail ridership opportunities that NJ Transit (NJT) might enjoy if autonomous Taxis (aTaxis) were available to readily bring customers to or from its rail stations. Such collection and distribution services would not only shower NJT with new customers but they would enable NJT to redevelop its parking facilities to more profitable "Transit Village" uses. [Read more](http://orfe.princeton.edu/%7Ealaink/NJ_aTaxiOrf467F13/Orf467F13_FinalReports/NJTransit_Report_Almost.pdf)
-
-This list is maintained by Alain Kornhauser and hosted by the Princeton University LISTSERV.

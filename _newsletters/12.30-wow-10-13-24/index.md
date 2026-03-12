@@ -88,5 +88,3 @@ Hmmmm… So proud of them and they won one of the two "best paper" awards. Alain
 Click or tap if you trust this link.
 
 Monday, May 27, 2024
-
-This list is maintained by Alain Kornhauser and hosted by the Princeton University LISTSERV.

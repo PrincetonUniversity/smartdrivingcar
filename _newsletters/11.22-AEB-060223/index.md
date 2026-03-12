@@ -200,5 +200,3 @@ Cost:
 Click or tap if you trust this link. 
 
 Friday, February 4, 2022
-
-This list is maintained by Alain Kornhauser and hosted by the Princeton University LISTSERV.

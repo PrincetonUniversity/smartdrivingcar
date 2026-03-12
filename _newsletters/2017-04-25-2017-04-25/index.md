@@ -55,5 +55,3 @@ Mobile: 336-686-2740
 [waymo.com](http://waymo.com)
 
 ***************************************************************************************************************
-
-This list is maintained by [Alain Kornhauser](mailto:alaink@princeton.edu) and hosted by the [Princeton University LISTSERV](http://lists.princeton.edu).

@@ -208,7 +208,4 @@ Jan. 2, 2014 "Accident rates will plunge to near zero for SDCs, although other c
 December 27, 2013
 
 alaink@princeton.edu
-
-This list is maintained by Alain Kornhauser and hosted by the Princeton University LISTSERV.
-
 [Unsubscribe](https://lists.princeton.edu/cgi-bin/wa?TICKET=NzM1MjMzIGJpbm9AUFJJTkNFVE9OLkVEVSBTTUFSVERSSVZJTkdDQVJTIGluYtYkJuu3&c=SIGNOFF) | [Re-subscribe](https://lists.princeton.edu/cgi-bin/wa?TICKET=NzM1MjMzIGJpbm9AUFJJTkNFVE9OLkVEVSBTTUFSVERSSVZJTkdDQVJTIGluYtYkJuu3&c=SIGNUP)

@@ -117,5 +117,3 @@ The event
       this message. If the disclaimer can't be applied, take no action.
 
 ***************************************************************************************************************
-
-This list is maintained by [Alain Kornhauser](mailto:alaink@princeton.edu) and hosted by the [Princeton University LISTSERV](http://lists.princeton.edu).

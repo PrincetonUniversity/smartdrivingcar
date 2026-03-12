@@ -170,6 +170,5 @@ Chris Urmson May 11, 2015 "After 1.7 million miles we've learned a lot — n
 
 Hmmm.... MUST reading; HOWEVER, we need much more information to be released, not just a few examples. Please make your data public! We don't need to know who but we desperately need to know what so that not only Google, but the rest of us can... "...work hard on developing..." SmartDrivingCars "....that can shoulder this burden for us." Alain
 
-[alaink@princeton.edu](mailto:alaink@princeton.edu) This list is maintained by Alain Kornhauser and hosted by the Princeton University LISTSERV.
-
+[alaink@princeton.edu](mailto:alaink@princeton.edu) 
 [Unsubscribe](https://lists.princeton.edu/cgi-bin/wa?TICKET=NzM1MjMzIGJpbm9AUFJJTkNFVE9OLkVEVSBTTUFSVERSSVZJTkdDQVJTIGluYtYkJuu3&c=SIGNOFF) | [Re-subscribe](https://lists.princeton.edu/cgi-bin/wa?TICKET=NzM1MjMzIGJpbm9AUFJJTkNFVE9OLkVEVSBTTUFSVERSSVZJTkdDQVJTIGluYtYkJuu3&c=SIGNUP)

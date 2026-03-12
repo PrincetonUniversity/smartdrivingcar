@@ -205,5 +205,3 @@ The fundamental problem was that the taxi was not equipped with available automa
 Moreover, there is a failed Taxi regulatory structure that doesn't even hint that taxis should have electronic stability control, automated lane keeping and collision avoidance. What is the purpose of taxi regulation, to keep "Ubers" out of business?
 
 It is time for the nation's transportation policy to focus intelligence/automation on the vehicle in support of the driver. Hopefully Congress will restructure the pending transportation legislation to focus automated vehicle technologies that actively assist drivers when they make driving mistakes. We are not perfect. We deserve a public safety policy that is more mindful of our imperfections. Policy that isn't aimed at just warning and scolding us but actively takes over and does the right thing. We, not the infrastructure, are the cause of most of the highway carnage. It is the driver who needs help and our public policy should focus on delivering that help. Alain
-
-This list is maintained by Alain Kornhauser and hosted by the Princeton University LISTSERV.
