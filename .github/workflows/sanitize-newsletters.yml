@@ -1,0 +1,102 @@
+name: Sanitize Newsletters
+
+on:
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: 'Preview changes without modifying files'
+        type: boolean
+        default: false
+      ai_cleanup:
+        description: 'Run AI cleanup in addition to deterministic fixes'
+        type: boolean
+        default: false
+
+concurrency:
+  group: pages-deploy
+  cancel-in-progress: false
+
+jobs:
+  sanitize:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      pages: write
+      id-token: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v6
+        with:
+          fetch-depth: 0
+
+      - name: Setup Python
+        uses: actions/setup-python@v6
+        with:
+          python-version: '3.11'
+
+      - name: Install AI dependencies
+        if: inputs.ai_cleanup && env.AI_SANDBOX_KEY != ''
+        env:
+          AI_SANDBOX_KEY: ${{ secrets.AI_SANDBOX_KEY }}
+        run: pip install portkey-ai
+
+      - name: Run sanitize pass
+        env:
+          AI_SANDBOX_KEY: ${{ secrets.AI_SANDBOX_KEY }}
+        run: |
+          FLAGS="--sanitize-only"
+          if [ "${{ inputs.ai_cleanup }}" = "true" ] && [ -n "$AI_SANDBOX_KEY" ]; then
+            FLAGS=""
+          fi
+          if [ "${{ inputs.dry_run }}" = "true" ]; then
+            FLAGS="$FLAGS --dry-run"
+          fi
+          python scripts/ai_post_process.py $FLAGS _newsletters/*/index.md
+
+      - name: Commit sanitized newsletters
+        if: inputs.dry_run == false
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add _newsletters/
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Sanitize newsletters (second-pass cleanup)"
+            git push
+          fi
+
+      # Build and deploy site if changes were made
+      - name: Setup Ruby
+        if: inputs.dry_run == false
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '3.3'
+          bundler-cache: true
+
+      - name: Install Gems
+        if: inputs.dry_run == false
+        run: bundle install --path vendor/bundle
+
+      - name: Build site
+        if: inputs.dry_run == false
+        run: |
+          if [ -f CNAME ]; then
+            bundle exec jekyll build --config _config.yml,_config_prod.yml
+          else
+            bundle exec jekyll build --config _config.yml,_config_preview.yml
+          fi
+        env:
+          JEKYLL_ENV: production
+
+      - name: Upload Pages artifact
+        if: inputs.dry_run == false
+        uses: actions/upload-pages-artifact@v4
+        with:
+          path: _site
+
+      - name: Deploy to Pages
+        if: inputs.dry_run == false
+        id: deployment
+        uses: actions/deploy-pages@v4
