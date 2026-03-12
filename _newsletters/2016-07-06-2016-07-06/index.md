@@ -96,6 +96,6 @@ The other thing is: why is NHTSA doing the formal investigation? (We know the te
 
 Finally, we have had many tragedies, learned from them, fixed things and achieved the benefits that we sought. This does not reach the levels of the [Apollo 1](http://history.nasa.gov/Apollo204/) and [Challenger](http://www.nytimes.com/learning/general/onthisday/big/0128.html) tragedies nor require that intensive of an investigation. The [Amtrak 188 Philadelphia Derailment](http://www.ntsb.gov/news/events/Pages/2016-Amtrak-BMG.aspx) comes closer. This case certainly deserves as intense of an investigation as was made there (without the conclusion the train engineer under the bus). Alain
 
-This list is maintained by [Alain Kornhauser](mailto:alaink@princeton.edu) and hosted by the [Princeton University LISTSERV](http://lists.princeton.edu).
+This list is maintained by Alain Kornhauser and hosted by the Princeton University LISTSERV.
 
 [Unsubscribe](https://lists.princeton.edu/cgi-bin/wa?TICKET=NzM1MjMzIGJpbm9AUFJJTkNFVE9OLkVEVSBTTUFSVERSSVZJTkdDQVJTIGluYtYkJuu3&c=SIGNOFF) | [Re-subscribe](https://lists.princeton.edu/cgi-bin/wa?SUBED1=SmartDrivingCars&A=1)
