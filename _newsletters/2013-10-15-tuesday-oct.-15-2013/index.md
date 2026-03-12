@@ -247,5 +247,3 @@ By JACK EWING Sept. 15, 2013 FRANKFURT —" A wide grin beneath his bushy mustac
 -- 
 
 SmartDrivingCars_110513_v0
-
-This list is maintained by Alain Kornhauser and hosted by the Princeton University LISTSERV.

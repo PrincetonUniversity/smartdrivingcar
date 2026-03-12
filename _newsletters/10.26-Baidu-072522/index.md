@@ -135,13 +135,7 @@ SmartDrivingCars [ZoomCast Episode 268](https://www.youtube.com/watch?v=oj7QjsR6
 
 F. Fishkin, May 15, "Wireless electric vehicle charging can make autonomous mobility services more affordable for all. How? Momentum Dynamics Chief Commercial Officer Bob Kacergis explains on episode 268 of Smart Driving Cars with Princeton's Alain Kornhauser & co-host Fred Fishkin. Plus..Oshkosh, Torc Robotics, Trenton Moves and more."
 
-SmartDrivingCars [ZoomCast Episode 2](https://youtu.be/mJLwot_SfrI) [67](https://youtu.be/mJLwot_SfrI) / [PodCast 267](https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-267-tesla-autopilot-safety-the-princeton-smart-driving-cars-summit) [1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=YDc%2FZpacPCqXLCmRsGqF%2Fmp03J89VIvKU9vX24J8Q3M%3D&reserved=0)
-
-###
-
-F. Fishkin, May 7, "The Princeton Smart Driving Cars Summit is less than a month away, focused on making mobility for all a reality through Trenton Moves. Plus Tesla says Autopilot is achieving big results in improving vehicle safety. Join Princeton's Alain Kornhauser & co-host Fred Fishkin for that and more in episode 267 of Smart Driving Cars."
-
-SmartDrivingCars [ZoomCast Episode 2](https://www.youtube.com/watch?v=HE8kAPv1dsU) [66](https://www.youtube.com/watch?v=HE8kAPv1dsU) / [PodCast 2](https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-265-designing-the-robotaxi-rider-experience-uniphy-ceo-jim-nicholas) [66](https://anchor.fm/smartdrivingcars/episodes/Smart-Driving-Cars-No-Hands-on-the-Wheel--Episode-266-e1hqg96) w/Michael Sena, Editor of The Dispatcher
+SmartDrivingCars [ZoomCast Episode 2](https://youtu.be/mJLwot_SfrI) [67](https://youtu.be/mJLwot_SfrI) / [PodCast 267](https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-267-tesla-autopilot-safety-the-princeton-smart-driving-cars-summit) [1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=YDc%2FZpacPCqXLCmRsGqF%2Fmp03J89VIvKU9vX24J8Q3M%3D&reserved=0) ### F. Fishkin, May 7, "The Princeton Smart Driving Cars Summit is less than a month away, focused on making mobility for all a reality through Trenton Moves. Plus Tesla says Autopilot is achieving big results in improving vehicle safety. Join Princeton's Alain Kornhauser & co-host Fred Fishkin for that and more in episode 267 of Smart Driving Cars." SmartDrivingCars [ZoomCast Episode 2](https://www.youtube.com/watch?v=HE8kAPv1dsU) [66](https://www.youtube.com/watch?v=HE8kAPv1dsU) / [PodCast 2](https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-265-designing-the-robotaxi-rider-experience-uniphy-ceo-jim-nicholas) [66](https://anchor.fm/smartdrivingcars/episodes/Smart-Driving-Cars-No-Hands-on-the-Wheel--Episode-266-e1hqg96) w/Michael Sena, Editor of The Dispatcher
 
 F. Fishkin, April 28, "Germany has given the green light for no hands on the wheel mobility. What does it mean? The Dispatcher publisher Michael Sena joins us for that...plus Waymo, Tesla, Ford, Argo and more."
 

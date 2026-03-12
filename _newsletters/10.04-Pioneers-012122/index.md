@@ -724,5 +724,3 @@ Princeton, NJ
   
 
 ***************************************************************************************************************  
-
-This list is maintained by Alain Kornhauser and hosted by the Princeton University LISTSERV.

@@ -196,5 +196,3 @@ By JACK EWING Sept. 15, 2013 FRANKFURT —" A wide grin beneath his bushy mustac
 ## [S 500 MB Intelligent Drive (Self-Driving) TV footage:](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Videos/MB_Autonomous_TV_Footage_Long-distanceDrive.mp4)
 
 SmartDrivingCars_110813v0
-
-This list is maintained by Alain Kornhauser and hosted by the Princeton University LISTSERV

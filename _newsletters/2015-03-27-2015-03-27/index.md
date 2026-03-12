@@ -178,5 +178,3 @@ MARC SANTORA DEC. 24, 2014 "A Metropolitan Transportation Authority bus driver w
 Mr. Prescott, 57, was driving a B44 bus eastbound on Farragut Road in East Flatbush when he made a turn onto New York Avenue around 6 p.m., according to the police. As he was making the turn, Jean Bonne-Annee was crossing the street and was struck by the bus, the police said..." [Read more](http://www.nytimes.com/2014/12/25/nyregion/new-york-bus-driver-arrested-after-fatally-striking-pedestrian.html?emc=eta1)
 
 Hmmm... Tragic for everyone. Such accidents would be largely avoidable if transit buses were equipped with pedestrian detection and automated collision avoidance systems that are almost at hand. These systems are close to being ready for "prime time". The Federal Transit Administration (FTA, whose main mission is safety!) could substantially accelerate the effectiveness and adoption of such technology by focusing some of its research budget on this technology. Alain  
-
-This list is maintained by Alain Kornhauser and hosted by the Princeton University LISTSERV.

@@ -522,17 +522,7 @@ It
                                                           us to
                                                           nisbehave is
                                                           search of
-                                                          exp[eriencing those dreams. Those are inspired and created to please just a few individuals, the leaders of the corporations that make and want to us to buy these cars.  They can simply lead by insisting that their messeages and the messages produced by their minions don't enjender such behavior.  As
-                                                          I've written,
-                                                          autoPilot and
-                                                          maybe even
-                                                          FSD, are
-                                                          fantastic
-                                                          Comfort &
-                                                          Control
-                                                          features and
-                                                          may well
-                                                          substantially
+                                                          exp[eriencing those dreams. Those are inspired and created to please just a few individuals, the leaders of the corporations that make and want to us to buy these cars.  They can simply lead by insisting that their messeages and the messages produced by their minions don't enjender such behavior.  As I've written, autoPilot and maybe even FSD, are fantastic Comfort & Control features and may well substantially
                                                           improve
                                                           safety, but
                                                           only if they
@@ -6532,5 +6522,3 @@ Alain
                                                           (c)
 
 ***************************************************************************************************************
-
-This list is maintained by [Alain Kornhauser](mailto:alaink@princeton.edu) and hosted by the [Princeton University LISTSERV](http://lists.princeton.edu).

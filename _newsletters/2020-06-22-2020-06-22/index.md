@@ -38,5 +38,3 @@ Popular
 ## [Click for Free Pre-registration](http://zoom-tank.com/)
 
 ***************************************************************************************************************
-
-This list is maintained by [Alain Kornhauser](mailto:alaink@princeton.edu) and hosted by the [Princeton University LISTSERV](http://lists.princeton.edu).

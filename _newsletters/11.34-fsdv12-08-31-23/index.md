@@ -30,5 +30,3 @@ Brighter w/Herbert, Aug. 25, ""Elon Musk just livestreamed his Full Self Driving
 Click or tap if you trust this link.">Friday, August 25, 2023  
 
 ***************************************************************************************************************  
-
-This list is maintained by Alain Kornhauser and hosted by the [Princeton University LISTSERV](http://lists.princeton.edu).
