@@ -4,1127 +4,228 @@ title: "2016-07-21"
 date: 2016-07-21
 permalink: /2016-07-21-2016-07-21/
 ---
-
 July 21, 2016
 
 ### [Master Plan, Part Deux](https://www.tesla.com/en_HK/blog/master-plan-part-deux?redirect=no)
 
-                      E. Musk, July 20 "...Integrate Energy
-                        Generation and Storage
+E. Musk, July 20 "...Integrate Energy Generation and Storage
 
-                      Create a smoothly integrated and beautiful
-                      solar-roof-with-battery product that just works,
-                      empowering the individual as their own utility,
-                      and then scale that throughout the world. One
-                      ordering experience, one installation, one service
-                      contact, one phone app....
+Create a smoothly integrated and beautiful solar-roof-with-battery product that just works, empowering the individual as their own utility, and then scale that throughout the world. One ordering experience, one installation, one service contact, one phone app....
 
-Expand to Cover the Major Forms of Terrestrial
-                        Transport...
+Expand to Cover the Major Forms of Terrestrial Transport...
 
-                      With the Model 3, a future compact SUV and a new
-                      kind of pickup truck, we plan to address most of
-                      the consumer market. A lower cost vehicle than the
-                      Model 3 is unlikely to be necessary, because of
-                      the third part of the plan described below.
+With the Model 3, a future compact SUV and a new kind of pickup truck, we plan to address most of the consumer market. A lower cost vehicle than the Model 3 is unlikely to be necessary, because of the third part of the plan described below.
 
-                      What really matters to accelerate a sustainable
-                      future is being able to scale up production volume
-                      as quickly as possible. That is why Tesla
-                      engineering has transitioned to focus heavily on
-                      designing the machine that makes the machine --
-                      turning the factory itself into a product....In
-                      addition to consumer vehicles, there are two other
-                      types of electric vehicle needed: heavy-duty
-                      trucks and high passenger-density urban transport.
-                      Both are in the early stages of development at
-                      Tesla...With the advent of autonomy, it will
-                      probably make sense to shrink the size of buses
-                      and transition the role of bus driver to that of
-                      fleet manager. Traffic congestion would improve
-                      due to increased passenger areal density by
-                      eliminating the center aisle and putting seats
-                      where there are currently entryways, and matching
-                      acceleration and braking to other vehicles, thus
-                      avoiding the inertial impedance to smooth traffic
-                      flow of traditional heavy buses. It would also
-                      take people all the way to their destination.
-                      Fixed summon buttons at existing bus stops would
-                      serve those who don't have a phone. Design
-                      accommodates wheelchairs, strollers and bikes.
+What really matters to accelerate a sustainable future is being able to scale up production volume as quickly as possible. That is why Tesla engineering has transitioned to focus heavily on designing the machine that makes the machine -- turning the factory itself into a product....In addition to consumer vehicles, there are two other types of electric vehicle needed: heavy-duty trucks and high passenger-density urban transport. Both are in the early stages of development at Tesla...With the advent of autonomy, it will probably make sense to shrink the size of buses and transition the role of bus driver to that of fleet manager. Traffic congestion would improve due to increased passenger areal density by eliminating the center aisle and putting seats where there are currently entryways, and matching acceleration and braking to other vehicles, thus avoiding the inertial impedance to smooth traffic flow of traditional heavy buses. It would also take people all the way to their destination. Fixed summon buttons at existing bus stops would serve those who don't have a phone. Design accommodates wheelchairs, strollers and bikes.
 
 Autonomy
 
-                      As the technology matures, all Tesla vehicles will
-                      have the hardware necessary to be fully
-                      self-driving with fail-operational capability,
-                      meaning that any given system in the car could
-                      break and your car will still drive itself safely.
-                      It is important to emphasize that refinement and
-                      validation of the software will take much longer
-                      than putting in place the cameras, radar, sonar
-                      and computing hardware.
+As the technology matures, all Tesla vehicles will have the hardware necessary to be fully self-driving with fail-operational capability, meaning that any given system in the car could break and your car will still drive itself safely. It is important to emphasize that refinement and validation of the software will take much longer than putting in place the cameras, radar, sonar and computing hardware.
 
-                      Even once the software is highly refined and far
-                      better than the average human driver, there will
-                      still be a significant time gap, varying widely by
-                      jurisdiction, before true self-driving is approved
-                      by regulators....I should add a note here to
-                      explain why Tesla is deploying partial autonomy
-                      now, rather than waiting until some point in the
-                      future. The most important reason is that, when
-                      used correctly, it is already significantly safer
-                      than a person driving by themselves and it would
-                      therefore be morally reprehensible to delay
-                      release simply for fear of bad press or some
-                      mercantile calculation of legal liability....It is
-                      also important to explain why we refer to
-                      Autopilot as "beta"....
+Even once the software is highly refined and far better than the average human driver, there will still be a significant time gap, varying widely by jurisdiction, before true self-driving is approved by regulators....I should add a note here to explain why Tesla is deploying partial autonomy now, rather than waiting until some point in the future. The most important reason is that, when used correctly, it is already significantly safer than a person driving by themselves and it would therefore be morally reprehensible to delay release simply for fear of bad press or some mercantile calculation of legal liability....It is also important to explain why we refer to Autopilot as "beta"....
 
 Sharing
 
-                      When true self-driving is approved by regulators,
-                      it will mean that you will be able to summon your
-                      Tesla from pretty much anywhere. Once it picks you
-                      up, you will be able to sleep, read or do anything
-                      else enroute to your destination.  You will also
-                      be able to add your car to the Tesla shared fleet
-                      just by tapping a button on... [Read more](https://www.tesla.com/en_HK/blog/master-plan-part-deux?redirect=no)Hmmm....This
-                          is a chock-full vision that sounds pretty good
-                          me (and doesn't have a mention of DSRC, V2V or
-                          V2x :-)  ); except, do I really want to invest
-                          to become a "Tesla (AirBnB) Host" or simply
-                          use the "Mobility-on-Demand Transit System"
-                          (MoDTS) that Tesla or ALK or ????
-                          (unfortunately NJ Transit, the obvious MoDTS
-                          operator, will pass.)  Alain
+When true self-driving is approved by regulators, it will mean that you will be able to summon your Tesla from pretty much anywhere. Once it picks you up, you will be able to sleep, read or do anything else enroute to your destination. You will also be able to add your car to the Tesla shared fleet just by tapping a button on... [Read more](https://www.tesla.com/en_HK/blog/master-plan-part-deux?redirect=no) Hmmm....This is a chock-full vision that sounds pretty good me (and doesn't have a mention of DSRC, V2V or V2x :-) ); except, do I really want to invest to become a "Tesla (AirBnB) Host" or simply use the "Mobility-on-Demand Transit System" (MoDTS) that Tesla or ALK or ???? (unfortunately NJ Transit, the obvious MoDTS operator, will pass.) Alain
 
 ### [Germany to require 'black box' in autonomous cars](http://www.reuters.com/article/us-germany-autos-idUSKCN0ZY1LT)
 
-                      July 18, "Germany plans new legislation to require
-                      manufacturers of cars equipped with an autopilot
-                      function to install a black box to help determine
-                      responsibility in the event of an accident,
-                      transport ministry sources told Reuters on
-                      Monday...Under the proposal from Transport
-                      Minister Alexander Dobrindt, drivers will not have
-                      to pay attention to traffic or concentrate on
-                      steering, but must remain seated at the wheel so
-                      they can intervene in the event of an emergency.
+July 18, "Germany plans new legislation to require manufacturers of cars equipped with an autopilot function to install a black box to help determine responsibility in the event of an accident, transport ministry sources told Reuters on Monday...Under the proposal from Transport Minister Alexander Dobrindt, drivers will not have to pay attention to traffic or concentrate on steering, but must remain seated at the wheel so they can intervene in the event of an emergency.
 
-                      Manufacturers will also be required to install a
-                      black box that records when the autopilot system
-                      was active, when the driver drove and when the
-                      system requested that the driver take over,
-                      according to the proposals..." [Read more](http://www.reuters.com/article/us-germany-autos-idUSKCN0ZY1LT)Hmmm....What
-                          is the definition of "an emergency situation"
-                          ?  Is it just like some other things that "[I know it when I see it](https://en.wikipedia.org/wiki/I_know_it_when_I_see_it)"?  But here, it is the
-                          automated system that is "seeing it".  What
-                          "false alarm" and 'false negative" rates will
-                          be imposed/tolerated?  Will there be a driver
-                          training program that will instruct us on how
-                          to react in these emergency situations?  How
-                          will the system alert us of this emergency
-                          situation?  Will it blare: "Watch out!!"??
-                          or will it gently nudge us back into the
-                          loop.  Please, there are more questions than
-                          answers at this time and we need some focused
-                          research and creative thinking before we rush
-                          into "intervening in event of emergency"
-                          legislation.
+Manufacturers will also be required to install a black box that records when the autopilot system was active, when the driver drove and when the system requested that the driver take over, according to the proposals..." [Read more](http://www.reuters.com/article/us-germany-autos-idUSKCN0ZY1LT) Hmmm....What is the definition of "an emergency situation"? Is it just like some other things that "[I know it when I see it](https://en.wikipedia.org/wiki/I_know_it_when_I_see_it)"? But here, it is the automated system that is "seeing it". What "false alarm" and 'false negative" rates will be imposed/tolerated? Will there be a driver training program that will instruct us on how to react in these emergency situations? How will the system alert us of this emergency situation? Will it blare: "Watch out!!"?? or will it gently nudge us back into the loop. Please, there are more questions than answers at this time and we need some focused research and creative thinking before we rush into "intervening in event of emergency" legislation.
 
-                          With respect to capturing of "all" sensor
-                          data: of course!.  Plus these data need to be
-                          shared and placed in the public domain so that
-                          everyone can benefit and avoid making the same
-                          mistake AND most importantly, we need "hold
-                          harmless" legislation that forbids the data to
-                          be used against the data owner (the owner of
-                          the vehicle), and only allows for determining
-                          liability in the event of a crash.  (For
-                          example, the data can't be used to give the
-                          car owner a ticket for a broken tail light,
-                          because the data stream indicated a broken
-                          tail light.)   Alain
+With respect to capturing of "all" sensor data: of course!. Plus these data need to be shared and placed in the public domain so that everyone can benefit and avoid making the same mistake AND most importantly, we need "hold harmless" legislation that forbids the data to be used against the data owner (the owner of the vehicle), and only allows for determining liability in the event of a crash. (For example, the data can't be used to give the car owner a ticket for a broken tail light, because the data stream indicated a broken tail light.) Alain
 
 ### [Pokémon Go-playing driver after hitting police car: 'That's what I get for playing'](https://www.washingtonpost.com/news/morning-mix/wp/2016/07/20/pokemon-go-playing-driver-after-hitting-police-car-thats-what-i-get-for-playing-this-dumb-a-game/)
 
-                      R. Premack, July 20 "Not surprisingly, playing
-                      Pokémon Go while driving is a poor idea. That was
-                      demonstrated early Monday in Southeast
-                      Baltimore.   Three police officers were standing
-                      outside their patrol car, parked nearby Patterson
-                      Park. About 3:30 a.m., according to body-camera
-                      footage, a Toyota RAV4 moving down the street
-                      side-swiped the parked police car..."  [Read more](https://www.washingtonpost.com/news/morning-mix/wp/2016/07/20/pokemon-go-playing-driver-after-hitting-police-car-thats-what-i-get-for-playing-this-dumb-a-game/)Hmmm....And
-                          now another reason why we need Automated
-                          Emergency Braking (AEB) and Self-driving that
-                          actually work.  Alain
+R. Premack, July 20 "Not surprisingly, playing Pokémon Go while driving is a poor idea. That was demonstrated early Monday in Southeast Baltimore. Three police officers were standing outside their patrol car, parked nearby Patterson Park. About 3:30 a.m., according to body-camera footage, a Toyota RAV4 moving down the street side-swiped the parked police car..." [Read more](https://www.washingtonpost.com/news/morning-mix/wp/2016/07/20/pokemon-go-playing-driver-after-hitting-police-car-thats-what-i-get-for-playing-this-dumb-a-game/) Hmmm....And now another reason why we need Automated Emergency Braking (AEB) and Self-driving that actually work. Alain
 
 ### [State to buy former Willow Run Powertrain site for connected vehicle research](http://www.mlive.com/business/ann-arbor/index.ssf/2016/07/agreement_in_place_for_sale_of.html)
 
-                      M. Durr, July 18, "The Michigan Strategic Fund is
-                      closing in on a deal to buy the former Willow Run
-                      Powertrain site to convert it into a connected and
-                      autonomous vehicle (CAV) research facility in
-                      Ypsilanti Township.
+M. Durr, July 18, "The Michigan Strategic Fund is closing in on a deal to buy the former Willow Run Powertrain site to convert it into a connected and autonomous vehicle (CAV) research facility in Ypsilanti Township.
 
-                      RACER Trust has agreed to sell the 311-acre site
-                      to the fund for a purchase price of $1.2 million
-                      and has committed to making other contributions
-                      toward making the center a reality. In turn, the
-                      MSF would allow the American Center for Mobility
-                      to develop and operate a facility where testing
-                      and research for CAV technology will be
-                      conducted..." [Read more](http://fortune.com/2016/07/20/regulator-on-tesla-autopilot-death-says-one-incident-wont-derail-tech/) Hmmm...Land
-                          is really inexpensive in Michigan.  Alain
+RACER Trust has agreed to sell the 311-acre site to the fund for a purchase price of $1.2 million and has committed to making other contributions toward making the center a reality. In turn, the MSF would allow the American Center for Mobility to develop and operate a facility where testing and research for CAV technology will be conducted..." [Read more](http://fortune.com/2016/07/20/regulator-on-tesla-autopilot-death-says-one-incident-wont-derail-tech/) Hmmm...Land is really inexpensive in Michigan. Alain
 
 ### [Regulator on Tesla Autopilot Death Says One Incident Won't Derail Tech](http://fortune.com/2016/07/20/regulator-on-tesla-autopilot-death-says-one-incident-wont-derail-tech/)
 
-                      K. Fehrenbacher, July 20, "Mark Rosekind, the
-                      administrator of auto safety regulator the
-                      National Highway Traffic Safety Administration,
-                      ...Most importantly, he forcefully said, "No one
-                      incident will derail the Department of
-                      Transportation and NHTSA from its mission to
-                      improve safety on the roads by pursuing
-                      life-saving technologies." [Read more](http://fortune.com/2016/07/20/regulator-on-tesla-autopilot-death-says-one-incident-wont-derail-tech/) Hmmm..."derail
-                          its mission???..  It's been focused on crash
-                          mitigation and "connected" stuff instead of
-                          making sure that Automated Emergency Braking
-                          (AEB) systems actually work.  When are they
-                            deaths went up last year! Alain
+K. Fehrenbacher, July 20, "Mark Rosekind, the administrator of auto safety regulator the National Highway Traffic Safety Administration, ...Most importantly, he forcefully said, "No one incident will derail the Department of Transportation and NHTSA from its mission to improve safety on the roads by pursuing life-saving technologies." [Read more](http://fortune.com/2016/07/20/regulator-on-tesla-autopilot-death-says-one-incident-wont-derail-tech/) Hmmm..."derail its mission???.. It's been focused on crash mitigation and "connected" stuff instead of making sure that Automated Emergency Braking (AEB) systems actually work. When are they deaths went up last year! Alain
 
 ### [Autonomous Vehicles: A Case Study of Liability and Insurance](http://www.jdsupra.com/legalnews/autonomous-vehicles-a-case-study-of-30633/)
 
-D. Cusack, July 19, "...We have run across only
-                        one policy so far that bills itself as a
-                        "Driverless Car" policy. Written by Trinity Lane
-                        Insurance Company (a Malta-based insurer) for
-                        the British market, it expressly agrees to cover
-                        the driver if the autonomous systems fail, or if
-                        the owner failed to install updates to the
-                        system software in a timely manner....[Read more](http://www.jdsupra.com/legalnews/autonomous-vehicles-a-case-study-of-30633/) Hmmm...This
-                            is somewhat informative, but very light.
-                            Alain
+D. Cusack, July 19, "...We have run across only one policy so far that bills itself as a "Driverless Car" policy. Written by Trinity Lane Insurance Company (a Malta-based insurer) for the British market, it expressly agrees to cover the driver if the autonomous systems fail, or if the owner failed to install updates to the system software in a timely manner....[Read more](http://www.jdsupra.com/legalnews/autonomous-vehicles-a-case-study-of-30633/) Hmmm...This is somewhat informative, but very light. Alain
 
 ### [What NASA Could Teach Tesla about Autopilot's Limits](http://www.scientificamerican.com/article/what-nasa-could-teach-tesla-about-autopilot-s-limits/)
 
-                      J. Pavlus, July 18, "...Stephen Casner, a research
-                      psychologist in NASA's Human Systems Integration
-                      Division, puts it more bluntly: "News flash: Cars
-                      in 2017 equal airplanes in 1983."...Here are three
-                      things about how humans and automated vehicles
-                      behave together that NASA has known for
-                      years...THE LIMITS OF BEING "ON THE LOOP"... THE
-                      LIMITS OF ATTENTION...AUTOMATION AND AUTONOMY: NOT
-                      THE SAME THING..."  [Read more](http://www.scientificamerican.com/article/what-nasa-could-teach-tesla-about-autopilot-s-limits/)  Hmmmm...Well
-                          worth reading.  Alain
+J. Pavlus, July 18, "...Stephen Casner, a research psychologist in NASA's Human Systems Integration Division, puts it more bluntly: "News flash: Cars in 2017 equal airplanes in 1983."...Here are three things about how humans and automated vehicles behave together that NASA has known for years...THE LIMITS OF BEING "ON THE LOOP"... THE LIMITS OF ATTENTION...AUTOMATION AND AUTONOMY: NOT THE SAME THING..." [Read more](http://www.scientificamerican.com/article/what-nasa-could-teach-tesla-about-autopilot-s-limits/) Hmmmm...Well worth reading. Alain
 
-## Some other
-                        thoughts that deserve your attention
+## Some other thoughts that deserve your attention
 
 ### [Uber Just Completed Its Two Billionth Ride](http://www.forbes.com/sites/briansolomon/2016/07/18/uber-just-completed-its-two-billionth-ride/#46315f792a50)
 
-                      B. Solomon, July 18, "...The milestone comes less
-                      than six months after Uber hit one billion
-                      cumulative rides at the end of 2015–a feat that
-                      took Uber more than five years to
-                      accomplish....Comparing Uber's numbers to those of
-                      its competitors is tricky. U.S.-only competitor
-                      Lyft told FORBES that in April it did 11 million
-                      rides, suggesting an annual trip run rate likely
-                      under 200 million, only 10% of Uber's probable
-                      yearly goal. To be fair, many of Uber's rides came
-                      outside the U.S. where Lyft doesn't operate....
+B. Solomon, July 18, "...The milestone comes less than six months after Uber hit one billion cumulative rides at the end of 2015–a feat that took Uber more than five years to accomplish....Comparing Uber's numbers to those of its competitors is tricky. U.S.-only competitor Lyft told FORBES that in April it did 11 million rides, suggesting an annual trip run rate likely under 200 million, only 10% of Uber's probable yearly goal. To be fair, many of Uber's rides came outside the U.S. where Lyft doesn't operate....
 
-                      This time, Uber declined to single out one ride as
-                      the one that pushed the company over two billion.
-                      Instead, Kalanick says 147 rides in 16 different
-                      countries began on the moment of 4:16:48 AM GMT on
-                      June 18. 54 of those trips were in China, 46 in
-                      the U.S., 13 in Mexico, and seven each in Brazil
-                      and India...." [Read more](http://www.forbes.com/sites/briansolomon/2016/07/18/uber-just-completed-its-two-billionth-ride/#46315f792a50) Hmmm...That's
-                          good progress, but, there are about 1B
-                          non-walking person-trips on a typical day in
-                          the US.  This means that Lyft served about
-                          0.04% of the non-walking person trips in the
-                          US in April.  Still a long way to go to be
-                          significant.  Uber, if it is  10 x Lyft, would
-                          be doing about 0.4% .  Again a good start, but
-                          still a long way to go.   Alain
+This time, Uber declined to single out one ride as the one that pushed the company over two billion. Instead, Kalanick says 147 rides in 16 different countries began on the moment of 4:16:48 AM GMT on June 18. 54 of those trips were in China, 46 in the U.S., 13 in Mexico, and seven each in Brazil and India...." [Read more](http://www.forbes.com/sites/briansolomon/2016/07/18/uber-just-completed-its-two-billionth-ride/#46315f792a50) Hmmm...That's good progress, but, there are about 1B non-walking person-trips on a typical day in the US. This means that Lyft served about 0.04% of the non-walking person trips in the US in April. Still a long way to go to be significant. Uber, if it is 10 x Lyft, would be doing about 0.4%. Again a good start, but still a long way to go. Alain
 
 ### [Controversy over Tesla 'autopilot' name keeps growing](http://www.latimes.com/business/autos/la-fi-hy-autopilot-controversy-20160721-snap-story.html)
 
-                      R. Mitchell, July 21, "...Some of the most
-                      enthusiastic proponents of autonomous vehicles and
-                      features are worried that autopilot — not the
-                      technology itself, but the very name, which some
-                      find misleading — might slow down the evolution of
-                      the driverless car. They say that would be a
-                      shame, as autonomous technologies are designed to
-                      make driving safer by preventing minor
-                      fender-benders as well as reducing the number of
-                      traffic fatalities. ..." [Read more](http://www.latimes.com/business/autos/la-fi-hy-autopilot-controversy-20160721-snap-story.html) Hmmm...I
-                          pointed out in SDC that this was a bad product
-                          name when it was first announced by Tesla.
-                          :-)  Alain
+R. Mitchell, July 21, "...Some of the most enthusiastic proponents of autonomous vehicles and features are worried that autopilot — not the technology itself, but the very name, which some find misleading — might slow down the evolution of the driverless car. They say that would be a shame, as autonomous technologies are designed to make driving safer by preventing minor fender-benders as well as reducing the number of traffic fatalities. ..." [Read more](http://www.latimes.com/business/autos/la-fi-hy-autopilot-controversy-20160721-snap-story.html) Hmmm...I pointed out in SDC that this was a bad product name when it was first announced by Tesla. :-) Alain
 
-## [On the More Technical Side](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Papers/)
+## [On the More Technical Side](http://orfe.princeton.edu/~alaink/SmartDrivingCars/Papers/)
 
-[http://orfe.princeton.edu/~alaink/SmartDrivingCars/Papers/](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Papers/)
+[http://orfe.princeton.edu/~alaink/SmartDrivingCars/Papers/](http://orfe.princeton.edu/~alaink/SmartDrivingCars/Papers/)
 
-## Half-baked stuff that
-                            probably doesn't deserve your time:
+## Half-baked stuff that probably doesn't deserve your time:
 
 ### [The Mercedes-Benz Future Bus Will Change the Way We Commute to School and Work](https://hypebeast.com/2016/7/mercedes-benz-future-bus)
 
- K. Estiler, July 18,
-                          "Mercedes-Benz struck the fairway with a
-                          lavish concept [golf cart](http://hypebeast.com/2016/7/mercedes-benz-golf-cart) last week and just recently, the
-                          German automobile manufacturer introduced its
-                          Future Bus that is seemingly a game-changer in
-                          the burgeoning world of public transportation.
-                          The kernel of this latest concept is [Mercedes's CityPilot](http://www.autoblog.com/2016/07/18/mercedes-autonomous-bus-test-amsterdam-future/) — an operating system for
-                          autonomous driving. The mechanization involves
-                          a network of various cameras that are placed
-                          all around the bus, GPS as well as two
-                          distinctive radar systems. The Future Bus
-                          works exactly how a normal bus would except it
-                          doesn't require a driver to help it traverse
-                          through city streets—touting streetlight
-                          recognition and the ability to stop and unload
-                          passengers by itself. However, there is a
-                          driver seat and wheel just in case human
-                            intervention is needed.(emphasis added)
-                          ..." [Read more](https://hypebeast.com/2016/7/mercedes-benz-future-bus)Hmmm....This
-                              bus is simply same-old, same-old except
-                              "over-the-top lip-stick' that greatly
-                              increases the cost of mobility without
-                              dding much utility.  The relief in driver
-                              work-load and improvement in driver
-                              workplace provided by the Self-driving
-                              technology is substantial, but not even
-                              mentioned in the announcement which
-                              focuses only only on the lavish
-                              lip-stick.  In the end big buses will
-                              remain just an infrequent scheduled
-                              service that it is way too often running
-                              around essentially empty (at which time it
-                              is a financial train wreck) or it is
-                              stopping so often to let people on and off
-                              that it is excruciatingly slow.  In either
-                              case, it is only the transit captives are
-                              using it.  Unfortunately, the true future
-                              bus can't afford to pay a driver a living
-                              wage nor the cost of the lip-stick. (The[golf cart](http://hypebeast.com/2016/7/mercedes-benz-golf-cart)is
-                              the epitome self indulgence. Golf should
-                              be exclusively Walk&Carry,
-                              Walk&Pull or Walk&Caddie.   The
-                              course is not a freeway! You could use the
-                              exercise.  :-)  )   Alain
+K. Estiler, July 18, "Mercedes-Benz struck the fairway with a lavish concept [golf cart](http://hypebeast.com/2016/7/mercedes-benz-golf-cart) last week and just recently, the German automobile manufacturer introduced its Future Bus that is seemingly a game-changer in the burgeoning world of public transportation. The kernel of this latest concept is [Mercedes's CityPilot](http://www.autoblog.com/2016/07/18/mercedes-autonomous-bus-test-amsterdam-future/) — an operating system for autonomous driving. The mechanization involves a network of various cameras that are placed all around the bus, GPS as well as two distinctive radar systems. The Future Bus works exactly how a normal bus would except it doesn't require a driver to help it traverse through city streets—touting streetlight recognition and the ability to stop and unload passengers by itself. However, there is a driver seat and wheel just in case human intervention is needed.(emphasis added) ..." [Read more](https://hypebeast.com/2016/7/mercedes-benz-future-bus) Hmmm....This bus is simply same-old, same-old except "over-the-top lip-stick' that greatly increases the cost of mobility without adding much utility. The relief in driver work-load and improvement in driver workplace provided by the Self-driving technology is substantial, but not even mentioned in the announcement which focuses only only on the lavish lip-stick. In the end big buses will remain just an infrequent scheduled service that it is way too often running around essentially empty (at which time it is a financial train wreck) or it is stopping so often to let people on and off that it is excruciatingly slow. In either case, it is only the transit captives are using it. Unfortunately, the true future bus can't afford to pay a driver a living wage nor the cost of the lip-stick. (The [golf cart](http://hypebeast.com/2016/7/mercedes-benz-golf-cart) is the epitome self indulgence. Golf should be exclusively Walk&Carry, Walk&Pull or Walk&Caddie. The course is not a freeway! You could use the exercise. :-) ) Alain
 
 ### [Transit Columbus starts petition urging city not to 'leap-frog' light rail](http://www.bizjournals.com/columbus/news/2016/07/18/transit-columbus-starts-petition-urging-city-not.html)
 
- T. Knox, July 18, "An advocate
-                          for integrated public transportation has
-                          started a petition urging Columbus to include
-                          light rail and other mass transit in its
-                          transportation plans.
+T. Knox, July 18, "An advocate for integrated public transportation has started a petition urging Columbus to include light rail and other mass transit in its transportation plans.
 
-                          Transit Columbus wants local leaders to not
-                          overly rely on driverless cars and other
-                          technologies proposed in its Smart City
-                          Challenge bid..."  [Read more](http://www.bizjournals.com/columbus/news/2016/07/18/transit-columbus-starts-petition-urging-city-not.html)Hmmm....
-                              And Columbus won the SmartCities grant??
-                              (I do understand that a $1B LightRail
-                              system brings more $$$ to Columbus than a
-                              $40M SmartCities grant.)  Alain
+Transit Columbus wants local leaders to not overly rely on driverless cars and other technologies proposed in its Smart City Challenge bid..." [Read more](http://www.bizjournals.com/columbus/news/2016/07/18/transit-columbus-starts-petition-urging-city-not.html) Hmmm....And Columbus won the SmartCities grant?? (I do understand that a $1B LightRail system brings more $$$ to Columbus than a $40M SmartCities grant.) Alain
 
-###
-
-## [C'mon Man!](https://www.youtube.com/watch?v=A7SwSd59E4I)
-                        (These folks didn't get/read the memo)
+## [C'mon Man!](https://www.youtube.com/watch?v=A7SwSd59E4I) (These folks didn't get/read the memo)
 
 ### [Tesla Working On Autopilot Radar Changes After Crash](http://miami.cbslocal.com/2016/07/16/tesla-working-on-autopilot-radar-changes-after-crash/)
 
-                      July 16. "...CEO Elon Musk, in a Twitter post
-                      Thursday night, said Tesla is working on
-                      improvements to the radar system....Experts say
-                      this means that the radar likely overlooked the
-                      tractor-trailer in the Florida crash...." [Read more](http://miami.cbslocal.com/2016/07/16/tesla-working-on-autopilot-radar-changes-after-crash/)Hmmm....But
-                          the tractor preceded the trailer across
-                          Tesla's path and the Tesla reportedly didn't
-                          try to slow down for that.  And, what if it
-                          was a flat-bed with no load? And... C'mon man,
-                          we need a much better explanation of what the
-                          Tesla's sensors (and the truck driver) "saw',
-                          didn't see and why.   Alain
+July 16. "...CEO Elon Musk, in a Twitter post Thursday night, said Tesla is working on improvements to the radar system....Experts say this means that the radar likely overlooked the tractor-trailer in the Florida crash...." [Read more](http://miami.cbslocal.com/2016/07/16/tesla-working-on-autopilot-radar-changes-after-crash/) Hmmm....But the tractor preceded the trailer across Tesla's path and the Tesla reportedly didn't try to slow down for that. And, what if it was a flat-bed with no load? And... C'mon man, we need a much better explanation of what the Tesla's sensors (and the truck driver) "saw', didn't see and why. Alain
 
-## Calendar
-                          of Upcoming Events:
+## Calendar of Upcoming Events:
 
 [Sept 15 & 16, 2016 Arlington, VA](http://www.railwayage.com/index.php/conference_details/nextgen_agenda.html)
 
-   [Sept 19-21, 2016 Antwerp, Belgium](http://podcarcity.org/antwerp/)
+[Sept 19-21, 2016 Antwerp, Belgium](http://podcarcity.org/antwerp/)
 
 ### Recent Highlights of:
 
-#
-
-###
-
-                        July 14, 2016
+July 14, 2016
 
 ### [Another Tesla crash blamed on car's Autopilot system](http://www.cnet.com/au/news/another-tesla-crash-blamed-on-cars-autopilot-system/)
 
- S. Musil, July 12, "The most
-                      recent crash involved a Model X near the small
-                      town of Whitehall, Montana, on Sunday morning,
-                      according to the [Detroit Free Press](http://www.freep.com/story/money/cars/2016/07/11/another-tesla-veers-off-road-crashes-into-guardrail-montana/86956048/). Neither the driver nor the
-                      passenger was injured in the single-vehicle crash,
-                      the Montana Highway Patrol told the
-                      newspaper....The car failed to detect an obstacle
-                      in the road, according to a [thread posted](https://teslamotorsclub.com/tmc/threads/my-friend-model-x-crash-bad-on-ap-yesterday.73308/) on the Tesla Motors Club forum by
-                      someone who said they're a friend of the driver.
-                      The thread included photos showing the damage to
-                      the vehicle.
+S. Musil, July 12, "The most recent crash involved a Model X near the small town of Whitehall, Montana, on Sunday morning, according to the [Detroit Free Press](http://www.freep.com/story/money/cars/2016/07/11/another-tesla-veers-off-road-crashes-into-guardrail-montana/86956048/). Neither the driver nor the passenger was injured in the single-vehicle crash, the Montana Highway Patrol told the newspaper....The car failed to detect an obstacle in the road, according to a [thread posted](https://teslamotorsclub.com/tmc/threads/my-friend-model-x-crash-bad-on-ap-yesterday.73308/) on the Tesla Motors Club forum by someone who said they're a friend of the driver. The thread included photos showing the damage to the vehicle.
 
-                      Tesla said Tuesday that it appears the driver in
-                      the crash was using the system improperly.
+Tesla said Tuesday that it appears the driver in the crash was using the system improperly.
 
-                      "The data suggests that the driver's hands were
-                      not on the steering wheel, as no force was
-                      detected on the steering wheel for over 2 minutes
-                      after autosteer was engaged (even a very small
-                      amount of force, such as one hand resting on the
-                      wheel, will be detected)," a Tesla spokesman said
-                      in a statement. "This is contrary to the terms of
-                      use that are agreed to when enabling the feature
-                      and the notification presented in the instrument
-                      cluster each time it is activated.
+"The data suggests that the driver's hands were not on the steering wheel, as no force was detected on the steering wheel for over 2 minutes after autosteer was engaged (even a very small amount of force, such as one hand resting on the wheel, will be detected)," a Tesla spokesman said in a statement. "This is contrary to the terms of use that are agreed to when enabling the feature and the notification presented in the instrument cluster each time it is activated.
 
-                      "As road conditions became increasingly uncertain,
-                      the vehicle again alerted the driver to put his
-                      hands on the wheel. He did not do so and shortly
-                      thereafter the vehicle collided with a post on the
-                      edge of the roadway," the spokesman said. He added
-                      that the Autopilot feature was being used on an
-                      undivided mountain road despite being designed for
-                      use on a divided highway in slow-moving
-                      traffic....[Read more](http://www.cnet.com/au/news/another-tesla-crash-blamed-on-cars-autopilot-system/)  Hmmm....Interesting
-                          that Tesla didn't say that the car began to
-                          slow down (as it is supposed to if the driver
-                          does not put his/her hand back on the
-                          wheel!!!!???? (The "lane-centering" should NOT
-                          turn off if the driver does not respond (I
-                          believe the Mercedes "997 package" turns off
-                          lane-centering if you don't respond to the
-                          buzzer :-(  (However, since the lane centering
-                        on my 2014 S-550 only
-                          works if the lane is essentially perfectly
-                          straight, and Mercedes has never made an
-                          effort to fix/update my software, I rarely
-                          take my hands off the wheel.  The system is so
-                          poor that I can't tell if lane-centering is
-                          just not working or the buzzer turned it off.
-                          :-(  )) ,  What should happen is that the car
-                          should turn on its emergency flashers, slow
-                          down at a rate that is proportional to the
-                          quality of the road conditions and once it
-                          reaches a slow enough speed have the
-                          capability to determine
-                          if a lane change to the right (in US and ...)
-                          is safe or a clear shoulder to the right is
-                          available.  If so,  make the lane change and
-                          come to a complete stop, all the while
-                          announcing to the driver what the system is
-                          doing because hands have not been put back on
-                          the wheel.  After stopping, "AutoPilot" should
-                          then turned off as should "AutoPilot"
-                          privileges until a "Tesla" representative
-                          resets the system.  If that doesn't convince
-                          the driver to put "hands-on-wheel", then the
-                          car has just averted a possible catastrophe
-                          associated with a comatose driver.     Alain
+"As road conditions became increasingly uncertain, the vehicle again alerted the driver to put his hands on the wheel. He did not do so and shortly thereafter the vehicle collided with a post on the edge of the roadway," the spokesman said. He added that the Autopilot feature was being used on an undivided mountain road despite being designed for use on a divided highway in slow-moving traffic....[Read more](http://www.cnet.com/au/news/another-tesla-crash-blamed-on-cars-autopilot-system/) Hmmm....Interesting that Tesla didn't say that the car began to slow down (as it is supposed to if the driver does not put his/her hand back on the wheel!!!!???? (The "lane-centering" should NOT turn off if the driver does not respond (I believe the Mercedes "997 package" turns off lane-centering if you don't respond to the buzzer :-( (However, since the lane centering on my 2014 S-550 only works if the lane is essentially perfectly straight, and Mercedes has never made an effort to fix/update my software, I rarely take my hands off the wheel. The system is so poor that I can't tell if lane-centering is just not working or the buzzer turned it off. :-( )) , What should happen is that the car should turn on its emergency flashers, slow down at a rate that is proportional to the quality of the road conditions and once it reaches a slow enough speed have the capability to determine if a lane change to the right (in US and ...) is safe or a clear shoulder to the right is available. If so, make the lane change and come to a complete stop, all the while announcing to the driver what the system is doing because hands have not been put back on the wheel. After stopping, "AutoPilot" should then turned off as should "AutoPilot" privileges until a "Tesla" representative resets the system. If that doesn't convince the driver to put "hands-on-wheel", then the car has just averted a possible catastrophe associated with a comatose driver. Alain
 
 ### [Lessons From the Tesla Crash](http://www.nytimes.com/2016/07/11/opinion/lessons-from-the-tesla-crash.html?ribbon-ad-idx=2&rref=opinion&module=Ribbon&version=context&region=Header&action=click&contentCollection=Opinion&pgtype=article)
 
-                  Editorial Board, July 11, "A recent fatal crash in
-                  Florida involving a Tesla Model S is an example of how
-                  a new technology designed to make cars safer could, in
-                  some cases, make them more dangerous. These risks,
-                  however, could be minimized with better testing (Hmmm....Yes!) and
-                  regulations (Still too
-                      early, we don't know enough, yet)...Tesla's
-                  electric cars are not self-driving, but when the
-                  Autopilot system is engaged it can keep the car in a
-                  lane, adjust its speed to keep up with traffic and
-                  brake to avoid collisions. Tesla says audio and visual
-                  alerts warn drivers to keep their hands on the
-                  steering wheel and watch the road. If a driver is
-                  unresponsive to the alerts, the car is programmed to
-                  slow itself to a stop.
+Editorial Board, July 11, "A recent fatal crash in Florida involving a Tesla Model S is an example of how a new technology designed to make cars safer could, in some cases, make them more dangerous. These risks, however, could be minimized with better testing (Hmmm....Yes!) and regulations (Still too early, we don't know enough, yet)...Tesla's electric cars are not self-driving, but when the Autopilot system is engaged it can keep the car in a lane, adjust its speed to keep up with traffic and brake to avoid collisions. Tesla says audio and visual alerts warn drivers to keep their hands on the steering wheel and watch the road. If a driver is unresponsive to the alerts, the car is programmed to slow itself to a stop.
 
-                  Such warnings aren't sufficient, though; some Tesla
-                  drivers, as shown in videos on YouTube, have even
-                  gotten into the back seat while the car was moving.
-                  Such reckless behavior threatens not just the drivers
-                  but everyone else on the road, too. (Absolutely!)... If
-                  that system ([V2V](http://www.safercar.gov/v2v/index.html))
-                    had been in place, Mr. Brown might have
-                  survived. (Sure, but Mr
-                      Brown would have had to wait more than his normal
-                      expected life span before that system would have
-                      been adopted by more than 70% of all vehicles for
-                      it to have better than a "coin flip" chance of
-                      helping him.   What would have helped Mr. Brown is
-                      if the Automated Emergency Braking system worked
-                      on his Tesla, or if the truck driver had seen him
-                      coming (not become distracted) and had
-                      not "failed to yield".  ) Federal
-                  officials could take lessons from the history of [airbags](http://www.nytimes.com/2000/12/01/automobiles/autos-on-friday-safety-when-air-bags-help-and-harm.html)
-                  and the lack of strong regulations. (This is a VERY appropriate and
-                      relevant lesson!)... The agency does
-                  not yet have regulations for driverless cars or cars
-                  that have driver assistance systems. But when
-                  officials do put rules in place, they will have to
-                  update them regularly as they learn about how the
-                  technology works in practice. Automation should save
-                  lives. But nobody should expect these vehicles to be
-                  risk-free. (This is very
-                      wise.  They should also immediately focus on
-                      Automated Emergency Braking systems which are the
-                      foundation of any Self-driving or Driverless
-                      systems. )  [Read more](http://www.nytimes.com/2016/07/11/opinion/lessons-from-the-tesla-crash.html?ribbon-ad-idx=2&rref=opinion&module=Ribbon&version=context&region=Header&action=click&contentCollection=Opinion&pgtype=article)Hmmm....Comments in-line above.  Alain
+Such warnings aren't sufficient, though; some Tesla drivers, as shown in videos on YouTube, have even gotten into the back seat while the car was moving. Such reckless behavior threatens not just the drivers but everyone else on the road, too. (Absolutely!)... If that system ([V2V](http://www.safercar.gov/v2v/index.html)) had been in place, Mr. Brown might have survived. (Sure, but Mr Brown would have had to wait more than his normal expected life span before that system would have been adopted by more than 70% of all vehicles for it to have better than a "coin flip" chance of helping him. What would have helped Mr. Brown is if the Automated Emergency Braking system worked on his Tesla, or if the truck driver had seen him coming (not become distracted) and had not "failed to yield". Federal officials could take lessons from the history of [airbags](http://www.nytimes.com/2000/12/01/automobiles/autos-on-friday-safety-when-air-bags-help-and-harm.html) and the lack of strong regulations. (This is a VERY appropriate and relevant lesson!)... The agency does not yet have regulations for driverless cars or cars that have driver assistance systems. But when officials do put rules in place, they will have to update them regularly as they learn about how the technology works in practice. Automation should save lives. But nobody should expect these vehicles to be risk-free. (This is very wise. They should also immediately focus on Automated Emergency Braking systems which are the foundation of any Self-driving or Driverless systems.) [Read more](http://www.nytimes.com/2016/07/11/opinion/lessons-from-the-tesla-crash.html?ribbon-ad-idx=2&rref=opinion&module=Ribbon&version=context&region=Header&action=click&contentCollection=Opinion&pgtype=article) Hmmm....Comments in-line above. Alain
 
 ### May 7 Crash
 
-Hmmm...What
-                        we know now (and don't know):
+Hmmm...What we know now (and don't know):
 
-1.  On May 7,
-                        2016 at about 4:40pm EDT, there was a crash
-                        between a Tesla and a Class 8 Tractor-Trailer.
-                        The accident is depicted in the [Diagram from the Police Report](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/TeslaCrash050716/PoliceReportDiagramTeslaCrash050716FrmNYT.JPG): HSMV Crash Report
-                        # 85234095. [(1)](http://www.nytimes.com/2016/07/01/business/self-driving-tesla-fatal-crash-investigation.html?rref=collection%2Ftimestopic%2FNational%20Highway%20Traffic%20Safety%20Administration&action=click&contentCollection=timestopics&region=stream&module=stream_unit&version=latest&contentPlacement=1&pgtype=collection&_r=0)
-                        [Google Earth images from the site](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/TeslaCrash050716/CrashSceneGoogleEarth.pdf).
+1. On May 7, 2016 at about 4:40pm EDT, there was a crash between a Tesla and a Class 8 Tractor-Trailer. The accident is depicted in the [Diagram from the Police Report](http://orfe.princeton.edu/~alaink/SmartDrivingCars/TeslaCrash050716/PoliceReportDiagramTeslaCrash050716FrmNYT.JPG): HSMV Crash Report # 85234095. [(1)](http://www.nytimes.com/2016/07/01/business/self-driving-tesla-fatal-crash-investigation.html?rref=collection%2Ftimestopic%2FNational%20Highway%20Traffic%20Safety%20Administration&action=click&contentCollection=timestopics&region=stream&module=stream_unit&version=latest&contentPlacement=1&pgtype=collection&_r=0) [Google Earth images from the site](http://orfe.princeton.edu/~alaink/SmartDrivingCars/TeslaCrash050716/CrashSceneGoogleEarth.pdf).
 
- 2. The
-                        driver of the Tesla was [Joshua Brown](http://www.legacy.com/obituaries/ohio/obituary.aspx?pid=179994314).  "No
-                            citations have been issued, but the initial
-                            accident report from the FHP indicates the
-                            truck driver "failed to yield
-                            right-of-way."" [(2)](http://www.reuters.com/article/us-tesla-autopilot-dvd-idUSKCN0ZH5BW)
- .  Hmmm....No Citations??? Did
-                        the truck have a data recorder?  Was the truck
-                        impounded, if so, how is the truck driver making
-                        a living since the crash?  Why was his truck not
-                        equipped with sensors that can warn him of
-                        collision risks at intersections?  As I've
-                        written, driving is one of the most dangerous
-                        occupations.  Why isn't OSHA concerned about
-                        improving the environment of these workers?  Why
-                        doesn't  ATRI (the American Trucking
-                        Association's research arm recognize the lack
-                        availability/adoption of "SmartDrivingTruck
-                        technology" as one of its [Critical Issues](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Reports&Speaches_External/ATRI-2015-Top-Industry-Issues-FINAL-10-2015.pdf)?  Why didn't his insurance agent
-                        encourage/convince him to equip his truck with
-                        collision risk sensors.  If they aren't
-                        commercially available, why hasn't his insurance
-                        company invested/promoted/lobbied for their
-                        development?  These low-volume rural highway
-                        intersections are very dangerous.  Technology
-                        could help.
+2. The driver of the Tesla was [Joshua Brown](http://www.legacy.com/obituaries/ohio/obituary.aspx?pid=179994314). "No citations have been issued, but the initial accident report from the FHP indicates the truck driver "failed to yield right-of-way."" [(2)](http://www.reuters.com/article/us-tesla-autopilot-dvd-idUSKCN0ZH5BW) Hmmm....No Citations??? Did the truck have a data recorder? Was the truck impounded, if so, how is the truck driver making a living since the crash? Why was his truck not equipped with sensors that can warn him of collision risks at intersections? As I've written, driving is one of the most dangerous occupations. Why isn't OSHA concerned about improving the environment of these workers? Why doesn't ATRI (the American Trucking Association's research arm recognize the lack availability/adoption of "SmartDrivingTruck technology" as one of its [Critical Issues](http://orfe.princeton.edu/~alaink/SmartDrivingCars/Reports&Speaches_External/ATRI-2015-Top-Industry-Issues-FINAL-10-2015.pdf)? Why didn't his insurance agent encourage/convince him to equip his truck with collision risk sensors. If they aren't commercially available, why hasn't his insurance company invested/promoted/lobbied for their development? These low-volume rural highway intersections are very dangerous. Technology could help.
 
-"...(the truck driver)...said
-                        he saw the Tesla approaching in the left,
-                        eastbound lane. Then it crossed to the right
-                        lane and struck his trailer. "I don't know why
-                        he went over to the slow lane when he had to
-                        have seen me," he said...." [(2)](http://www.reuters.com/article/us-tesla-autopilot-dvd-idUSKCN0ZH5BW)
- .  Hmmm....If the driver saw
-                        the Tesla change lanes, why did he "failed to
-                        yield right-of-way"???
+"...(the truck driver)...said he saw the Tesla approaching in the left, eastbound lane. Then it crossed to the right lane and struck his trailer. "I don't know why he went over to the slow lane when he had to have seen me," he said...." [(2)](http://www.reuters.com/article/us-tesla-autopilot-dvd-idUSKCN0ZH5BW) Hmmm....If the driver saw the Tesla change lanes, why did he "failed to yield right-of-way"???
 
-"...Meanwhile, the accident is
-                        stoking the debate on whether drivers are being
-                        lulled into a false sense of security by such
-                        technology. A man who lives on the property
-                        where Brown's car came to rest some 900 feet
-                        from the intersection where the crash occurred
-                        said when he approached the wreckage 15 minutes
-                        after the crash, he could hear the DVD player.
-                        An FHP trooper on the scene told the property
-                        owner, Robert VanKavelaar, that a "Harry Potter"
-                        movie was showing on the DVD player, VanKavelaar
-                        told Reuters on Friday.
+"...Meanwhile, the accident is stoking the debate on whether drivers are being lulled into a false sense of security by such technology. A man who lives on the property where Brown's car came to rest some 900 feet from the intersection where the crash occurred said when he approached the wreckage 15 minutes after the crash, he could hear the DVD player. An FHP trooper on the scene told the property owner, Robert VanKavelaar, that a "Harry Potter" movie was showing on the DVD player, VanKavelaar told Reuters on Friday.
 
-                        Another witness, Terence Mulligan, said he
-                        arrived at the scene before the first Florida
-                        state trooper and found "there was no movie
-                        playing."   "There was no music. I was at the
-                        car. Right at the car," Mulligan told Reuters on
-                        Friday.
+Another witness, Terence Mulligan, said he arrived at the scene before the first Florida state trooper and found "there was no movie playing." "There was no music. I was at the car. Right at the car," Mulligan told Reuters on Friday.
 
-                        Sergeant Kim Montes of the Florida Highway
-                        Patrol said on Friday that "there was a portable
-                        DVD player in the vehicle," but wouldn't
-                        elaborate further on it. She also said there was
-                        no camera found, mounted on the dash or of any
-                        kind, in the wreckage....
+Sergeant Kim Montes of the Florida Highway Patrol said on Friday that "there was a portable DVD player in the vehicle," but wouldn't elaborate further on it. She also said there was no camera found, mounted on the dash or of any kind, in the wreckage....
 
-...Mulligan said he was driving
-                        in the same westbound direction as the truck
-                        before it attempted to make a left turn across
-                        the eastbound lanes of U.S. Highway 27 Alternate
-                        when he spotted the Tesla traveling east.
-                        Mulligan said the Tesla did not appear to be
-                        speeding on the road, which has a speed limit of
-                        65 miles per hour, according to the FHP...." [(2)](http://www.reuters.com/article/us-tesla-autopilot-dvd-idUSKCN0ZH5BW)
- .
+...Mulligan said he was driving in the same westbound direction as the truck before it attempted to make a left turn across the eastbound lanes of U.S. Highway 27 Alternate when he spotted the Tesla traveling east. Mulligan said the Tesla did not appear to be speeding on the road, which has a speed limit of 65 miles per hour, according to the FHP...." [(2)](http://www.reuters.com/article/us-tesla-autopilot-dvd-idUSKCN0ZH5BW)
 
-3. "...the vehicle was on a divided
-                        highway with Autopilot engaged when a tractor
-                        trailer drove across the highway perpendicular
-                        to the Model S. Neither Autopilot nor the driver
-                        noticed the white side of the tractor trailer
-                        against a brightly lit sky, so the brake was not
-                        applied. The high ride height of the trailer
-                        combined with its positioning across the road
-                        and the extremely rare circumstances of the
-                        impact caused the Model S to pass under the
-                        trailer, with the bottom of the trailer
-                        impacting the windshield of the Model S. Had the
-                        Model S impacted the front or rear of the
-                        trailer, even at high speed, its advanced crash
-                        safety system would likely have prevented
-                        serious injury as it has in numerous other
-                        similar incidents..." [(3)](https://www.teslamotors.com/blog/tragic-loss). Not sure
-                            how Tesla knows what Joshua Brown saw or did
-                            not see.  Events prior to the crash unfolded
-                            over many seconds.  Tesla must have precise
-                            data on the car's speed and steering angle,
-                            video  for those many seconds prior to the
-                            crash, as well as, what it was "seeing"
-                                    from MobilEye's cameras and radar
-                                    data.  At
-                            no time prior to the crash did it see
-                            anything crossing its intended travel lane?
-                            More important, why didn't the truck driver
-                            see the Tesla?  WHAT WAS HE DOING? What was
-                            the truck doing.  How slow was it going?
-                            Hopefully there was a data speed recorder on
-                            the truck.  Was the truck impounded, if so,
-                        how is the truck driver making a living since
-                        the crash?
+3. "...the vehicle was on a divided highway with Autopilot engaged when a tractor trailer drove across the highway perpendicular to the Model S. Neither Autopilot nor the driver noticed the white side of the tractor trailer against a brightly lit sky, so the brake was not applied. The high ride height of the trailer combined with its positioning across the road and the extremely rare circumstances of the impact caused the Model S to pass under the trailer, with the bottom of the trailer impacting the windshield of the Model S. Had the Model S impacted the front or rear of the trailer, even at high speed, its advanced crash safety system would likely have prevented serious injury as it has in numerous other similar incidents..." [(3)](https://www.teslamotors.com/blog/tragic-loss). Not sure how Tesla knows what Joshua Brown saw or did not see. Events prior to the crash unfolded over many seconds. Tesla must have precise data on the car's speed and steering angle, video for those many seconds prior to the crash, as well as, what it was "seeing" from MobilEye's cameras and radar data. At no time prior to the crash did it see anything crossing its intended travel lane? More important, why didn't the truck driver see the Tesla? WHAT WAS HE DOING? What was the truck doing. How slow was it going? Hopefully there was a data speed recorder on the truck. Was the truck impounded, if so, how is the truck driver making a living since the crash?
 
-One can also
-                        ask: Why was the truck not equipped with sensors
-                        that can warn the driver of collision risks at
-                        intersections?  As I've written, driving is one
-                        of the most dangerous occupations.  Why isn't
-                        OSHA concerned about improving this workplace
-                        environment?  Why doesn't  ATRI (the American
-                        Trucking Association's research arm) recognize
-                        the lack availability/adoption of
-                        "SmartDrivingTruck technology" as one of its [Critical Issues](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Reports&Speaches_External/ATRI-2015-Top-Industry-Issues-FINAL-10-2015.pdf)?  Why didn't the driver's insurance
-                        agent encourage/convince him to equip his truck
-                        with collision risk sensors.  If they aren't
-                        commercially available, why hasn't his insurance
-                        company invested/promoted/lobbied for their
-                        development?  These low-volume rural highway
-                        intersections are very dangerous.  Technology
-                        could help.
+One can also ask: Why was the truck not equipped with sensors that can warn the driver of collision risks at intersections? As I've written, driving is one of the most dangerous occupations. Why isn't OSHA concerned about improving this workplace environment? Why doesn't ATRI (the American Trucking Association's research arm) recognize the lack availability/adoption of "SmartDrivingTruck technology" as one of its [Critical Issues](http://orfe.princeton.edu/~alaink/SmartDrivingCars/Reports&Speaches_External/ATRI-2015-Top-Industry-Issues-FINAL-10-2015.pdf)? Why didn't the driver's insurance agent encourage/convince him to equip his truck with collision risk sensors. If they aren't commercially available, why hasn't his insurance company invested/promoted/lobbied for their development? These low-volume rural highway intersections are very dangerous. Technology could help.
 
-While
-                            the discussion is about AutoPilot, the Tesla
-                            also has Automated Emergency Braking (AEB)
-                            which is supposed to always be on.  This
-                            seems more like an AEB failure rather than
-                            an AutoPilot failure. The Tesla didn't just
-                            drive off the road,  The discussion about
-                            "hands-on-wheels" is irrelevant.  What was
-                            missing was "foot-on-brake" by the Tesla
-                            driver and "eyes-on-road" by, most
-                            importantly, the truck driver, since he
-                            initiated an action in violation to "rules
-                            of the road" that may have made a crash
-                            unavoidable.
+While the discussion is about AutoPilot, the Tesla also has Automated Emergency Braking (AEB) which is supposed to always be on. This seems more like an AEB failure rather than an AutoPilot failure. The Tesla didn't just drive off the road, The discussion about "hands-on-wheels" is irrelevant. What was missing was "foot-on-brake" by the Tesla driver and "eyes-on-road" by, most importantly, the truck driver, since he initiated an action in violation to "rules of the road" that may have made a crash unavoidable.
 
-3. "Problem Description: A
-                        fatal highway crash involving a 2015 Tesla Model
-                        S which, according to Tesla, was operating with
-                        automated driving systems ("Autopilot") engaged,
-                        calls for an examination
+3. "Problem Description: A fatal highway crash involving a 2015 Tesla Model S which, according to Tesla, was operating with automated driving systems ("Autopilot") engaged, calls for an examination of the design and performance of any driving aids in use at the time of the crash." [(4)](http://www-odi.nhtsa.dot.gov/acms/cs/jaxrs/download/doc/UCM530776/INOA-PE16007-7080.PDF). Not to be picky, but the initiator of the crash was the failure to yield by the truck driver. Why isn't this human failure the most fundamental "Problem Description"? If "driving aids" were supposed to "bail out" the truck driver's failure to yield, why isn't the AEB system's "design and performance" being examined. AutoPilot's responsibility is to keep the Tesla from steering off the road (and, as a last resort, yield to the AEB). The focus should be on AEBs. How many other Tesla drivers have perished that didn't have AutoPilot on, but had AEB? How many drivers have perished of other cars that have AEB? Seems as if this crash was more about an emergency automated systems failing to apply the brakes, rather than a driver not having his hands-on-wheel. Unfortunately, it is likely that we will eventually have a fatality in which an "AutoPilot" will fail to keep a "Tesla" on the road (or in a "correct" lane), but from what is known so far, this does not seem to be the crash.
 
-                        of the design and performance of any driving
-                        aids in use at the time of the crash." [(4)](http://www-odi.nhtsa.dot.gov/acms/cs/jaxrs/download/doc/UCM530776/INOA-PE16007-7080.PDF). Not to be
-                            picky, but the initiator of the crash was
-                            the failure to yield by the truck driver.
-                            Why isn't this human failure the most
-                            fundamental "Problem Description"?
-                            If "driving aids" were supposed to "bail
-                            out" the truck driver's failure to yield,
-                            why isn't the AEB system's "design and
-                            performance" being examined.  AutoPilot's
-                            responsibility is to keep the Tesla from
-                            steering off the road (and, as a last
-                            resort, yield to the AEB).  The focus should
-                            be on AEBs.  How many other Tesla drivers
-                            have  perished that didn't have AutoPilot
-                            on, but had AEB?  How many drivers have
-                            perished of other cars that have AEB?  Seems
-                            as if this crash was more about an emergency
-                            automated systems failing to apply the
-                            brakes, rather than a driver not having his
-                            hands-on-wheel.  Unfortunately, it is likely
-                            that we will eventually have a fatality in
-                            which an "AutoPilot" will fail to keep a
-                            "Tesla" on the road (or in a "correct"
-                            lane), but from what is known so far, this
-                            does not seem to be the crash.
+4. "What we learn here is that Mobileye's system in Tesla's Autopilot does gather the information from the vehicle's sensors, primarily the front facing camera and radar, but while it gathers the data, Mobileye's tech can't (or not well enough until 2018) recognize the side of vehicles and therefore, it can't work in a situation where braking is required to stop a Tesla from hitting the side of another vehicle.
 
-4. "What we learn here is that
-                        Mobileye's system in Tesla's Autopilot does
-                        gather the information from the vehicle's
-                        sensors, primarily the front facing camera and
-                        radar, but while it gathers the data, Mobileye's
-                        tech can't (or not well enough until 2018)
-                        recognize the side of vehicles and therefore,
-                        itcan't work in a situation where braking is
-                        required to stop a Tesla from hitting the side
-                        of another vehicle.
+Since Tesla pushed its 7.1 update earlier this year, the automaker's own system used the same data to recognize anything, under adequate conditions, that could obstruct the path of the Tesla and if the radar's reading is consistent with the data from the camera, it will apply the brakes.
 
-                        Since Tesla pushed its 7.1 update earlier this
-                        year, the automaker's own system used the same
-                        data to recognize anything, under adequate
-                        conditions, that could obstruct the path of the
-                        Tesla and if the radar's reading is consistent
-                        with the data from the camera, it will apply the
-                        brakes.
+Now that's something that was put to the test by Model S owners earlier in the week:" [(4)](http://electrek.co/2016/07/02/tesla-autopilot-mobileye-automatic-emergency-braking/). See video, "In the last two tests, the Autopilot appears to detect an obstacle as evidenced by the forward collision warning alerts, but the automatic emergency braking didn't activate, which raised questions – not unlike in the fatal crash.
 
-                        Now that's something that was put to the test by
-                        Model S owners earlier in the week:" [(4)](http://electrek.co/2016/07/02/tesla-autopilot-mobileye-automatic-emergency-braking/).
-                            See video,  "In the last
-                        two tests, the Autopilot appears to detect an
-                        obstacle as evidenced by the forward collision
-                        warning alerts, but the automatic emergency
-                        braking didn't activate, which raised questions
-                        – not unlike in the fatal crash.
+Though as Tesla explained, the trailer was not detected in the fatal crash, the radar confused it for an overhead sign, but in the tests above, the forward collision warning system sent out an alert – though as evidenced by the fact that the test subject wasn't hit, the AEB didn't need to activate and therefore it didn't. Tesla explains:
 
-                        Though as Tesla explained, the trailer was not
-                        detected in the fatal crash, the radar confused
-                        it for an overhead sign, but in the tests above,
-                        the forward collision warning system sent out an
-                        alert – though as evidenced by the fact that the
-                        test subject wasn't hit, the AEB didn't need to
-                        activate and therefore it didn't. Tesla
-                        explains:
+"AEB does not engage when an alternative collision avoidance strategy (e.g., driver steering) remains viable. Instead, when a collision threat is detected, forward collision warning alerts the driver to encourage them to take appropriate evasive action. AEB is a fallback safety feature that operates by design only at high levels of severity and should not be tested with live subjects."..." [Read more](http://electrek.co/2016/07/02/tesla-autopilot-mobileye-automatic-emergency-braking/) (5) With all of the expertise that MobilEye has in image processing, it is surprising that it can't recognize the side of a tractor trailer or gets confused with overhead signs and tunnel openings. If overhead signs (and overpasses and tree canopies) are really the issue, then these can be readily geocoded and included in the digital map database.)
 
-                        "AEB does not engage when an alternative
-                        collision avoidance strategy (e.g., driver
-                        steering) remains viable. Instead, when a
-                        collision threat is detected, forward collision
-                        warning alerts the driver to encourage them to
-                        take appropriate evasive action. AEB is a
-                        fallback safety feature that operates by design
-                        only at high levels of severity and should not
-                        be tested with live subjects."..." [Read more](http://electrek.co/2016/07/02/tesla-autopilot-mobileye-automatic-emergency-braking/)(5)
-                                With all of the expertise that MobilEye
-                                has in image processing, it is
-                                surprising that it can't recognize the
-                                side of a tractor trailer or gets
-                                confused with overhead signs and tunnel
-                                openings.  If overhead signs (and
-                                overpasses and tree canopies) are really
-                                the issue, then these can be readily
-                                geocoded and included in the digital map
-                                database.)
+5. It seems that all of the other stuff about DVD player, watching movies, previous postings on YouTube is noise. Automated Collision Avoidance Systems and their Automated Emergency Braking sub-system MUST be more robust a mitigating "failed to yield right-of-way" situations irrespective of the "failure to yield" derived from a human action (as seems to have occurred in this crash) or an "autoPilot" (which doesn't seem to be the case in this crash). Alain
 
-5.
-                                It seems that all of the other stuff
-                                about DVD player, watching movies,
-                                previous postings on YouTube is noise.
-                                Automated Collision Avoidance Systems
-                                and their Automated Emergency Braking
-                                sub-system MUST be more robust a
-                                mitigating "failed
-                                    to yield right-of-way"
-                                situations irrespective of the "failure
-                                to yield" derived from a human action
-                                (as seems to have occurred in this
-                                crash) or an "autoPilot" (which doesn't
-                                seem to be the case in this crash).
-                                Alain
+(1) [Self-Driving Tesla Was Involved in Fatal Crash, U.S. Says](http://www.nytimes.com/2016/07/01/business/self-driving-tesla-fatal-crash-investigation.html?rref=collection%2Ftimestopic%2FNational%20Highway%20Traffic%20Safety%20Administration&action=click&contentCollection=timestopics&region=stream&module=stream_unit&version=latest&contentPlacement=1&pgtype=collection&_r=0), June 30 NYT,
 
-(1) [Self-Driving Tesla Was Involved in Fatal Crash, U.S. Says](http://www.nytimes.com/2016/07/01/business/self-driving-tesla-fatal-crash-investigation.html?rref=collection%2Ftimestopic%2FNational%20Highway%20Traffic%20Safety%20Administration&action=click&contentCollection=timestopics&region=stream&module=stream_unit&version=latest&contentPlacement=1&pgtype=collection&_r=0),
-                        June 30 NYT,
+(2) [DVD player found in Tesla car in fatal May crash](http://www.reuters.com/article/us-tesla-autopilot-dvd-idUSKCN0ZH5BW), July 1, Reuters
 
-(2) [DVD player found in Tesla car in fatal May crash](http://www.reuters.com/article/us-tesla-autopilot-dvd-idUSKCN0ZH5BW),
-                        July 1, Reuters
-
-(3)[A Tragic Los](https://www.teslamotors.com/blog/tragic-loss)s,
-                        June 30, Tesla Blog
+(3) [A Tragic Loss](https://www.teslamotors.com/blog/tragic-loss), June 30, Tesla Blog
 
 (4) [NHTSA ODI Resume PE 16-007 Automatic vehicle control system, June 28, 2016](http://www-odi.nhtsa.dot.gov/acms/cs/jaxrs/download/doc/UCM530776/INOA-PE16007-7080.PDF)
 
-(5) [Tesla elaborates on Autopilot's automatic emergency braking capacity over Mobileye's system](http://electrek.co/2016/07/02/tesla-autopilot-mobileye-automatic-emergency-braking/)
-                        Electrek, July 2, 2016  See also: [Understanding the fatal Tesla accident on Autopilot and the NHTSA probe](http://electrek.co/2016/07/01/understanding-fatal-tesla-accident-autopilot-nhtsa-probe/)July
-                              2, 2016, [Tesla Autopilot partner Mobileye comments on fatal crash, says tech isn't meant to avoid this type of accident [Updated]](http://electrek.co/2016/07/01/tesla-autopilot-mobileye-fatal-crash-comment/),
-                              July 1,
+(5) [Tesla elaborates on Autopilot's automatic emergency braking capacity over Mobileye's system](http://electrek.co/2016/07/02/tesla-autopilot-mobileye-automatic-emergency-braking/) Electrek, July 2, 2016 See also: [Understanding the fatal Tesla accident on Autopilot and the NHTSA probe](http://electrek.co/2016/07/01/understanding-fatal-tesla-accident-autopilot-nhtsa-probe/) July 2, 2016, [Tesla Autopilot partner Mobileye comments on fatal crash, says tech isn't meant to avoid this type of accident [Updated]](http://electrek.co/2016/07/01/tesla-autopilot-mobileye-fatal-crash-comment/), July 1,
 
 ### [Who Will Build the Next Great Car Company?](http://fortune.com/self-driving-cars-silicon-valley-detroit/)
 
-E. Griffith, June 24, "...Also, he's
-                    hit the decoy plenty of times. In 2012 he even did
-                    it in front of Ford's board of directors.  Back then
-                    the idea of self-driving cars looked, to Ford's
-                    leadership, like a frivolous Silicon Valley
-                    moonshot. Four years later things have dramatically
-                    changed. Today Ford's vehicle lineup features more
-                    than 30 options for semiautonomous features,
-                    including the automatic brakes I tested, and the
-                    company is aggressively working on cars that fully
-                    drive themselves. By year-end the company expects to
-                    have the largest fleet of autonomous test vehicles
-                    of any automaker.
+E. Griffith, June 24, "...Also, he's hit the decoy plenty of times. In 2012 he even did it in front of Ford's board of directors. Back then the idea of self-driving cars looked, to Ford's leadership, like a frivolous Silicon Valley moonshot. Four years later things have dramatically changed. Today Ford's vehicle lineup features more than 30 options for semiautonomous features, including the automatic brakes I tested, and the company is aggressively working on cars that fully drive themselves. By year-end the company expects to have the largest fleet of autonomous test vehicles of any automaker.
 
-                    Ford is not alone. The entire automotive industry is
-                    in the midst of a radical transformation that is
-                    reshaping the very definition of what it means to be
-                    a car company. There is hype, hope, fear, and
-                    insecurity—and at the center of it all is the
-                    self-driving car. Thanks to cheap sensors, powerful
-                    machine-learning technology, and a kick in the butt
-                    from the likes of Google and Tesla Motors  ,
-                    driverless vehicles are becoming a
-                    sooner-than-you-think reality...." [Read more](http://fortune.com/self-driving-cars-silicon-valley-detroit/) Hmmm...A very
-                        good summary of where the industry stands with
-                        respect to Self-driving; however, it really
-                        doesn't address Driverless, (autonomousTaxi
-                        (aTaxi) shared-ride on-demand transit).  It
-                        makes no mention of the low-speed [Easy Mile](http://easymile.com/), [2GetThere](http://www.2getthere.eu/),
-                        [CityMobil2](http://www.citymobil2.eu/en/)approaches.  Fortune is still seeing a
-                        personal car future and not a Mobility-on-Demand
-                        future.  That would be way too disruptive.  See
-                        also the [intro video](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=video&cd=1&cad=rja&uact=8&ved=0ahUKEwjOgvOwqMjNAhWD7D4KHaKBBboQtwIIJTAA&url=http%3A%2F%2Ffortune.com%2Fself-driving-cars-silicon-valley-detroit%2F&usg=AFQjCNEAKqTgIv3IkKMPgmuTWrldf5Wn0w&sig2=K7e6Mhjn1jDEYqvjwMklZw&bvm=bv.125596728,d.cWw)  Alain
+Ford is not alone. The entire automotive industry is in the midst of a radical transformation that is reshaping the very definition of what it means to be a car company. There is hype, hope, fear, and insecurity—and at the center of it all is the self-driving car. Thanks to cheap sensors, powerful machine-learning technology, and a kick in the butt from the likes of Google and Tesla Motors, driverless vehicles are becoming a sooner-than-you-think reality...." [Read more](http://fortune.com/self-driving-cars-silicon-valley-detroit/) Hmmm...A very good summary of where the industry stands with respect to Self-driving; however, it really doesn't address Driverless, (autonomousTaxi (aTaxi) shared-ride on-demand transit). It makes no mention of the low-speed [Easy Mile](http://easymile.com/), [2GetThere](http://www.2getthere.eu/), [CityMobil2](http://www.citymobil2.eu/en/) approaches. Fortune is still seeing a personal car future and not a Mobility-on-Demand future. That would be way too disruptive. See also the [intro video](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=video&cd=1&cad=rja&uact=8&ved=0ahUKEwjOgvOwqMjNAhWD7D4KHaKBBboQtwIIJTAA&url=http%3A%2F%2Ffortune.com%2Fself-driving-cars-silicon-valley-detroit%2F&usg=AFQjCNEAKqTgIv3IkKMPgmuTWrldf5Wn0w&sig2=K7e6Mhjn1jDEYqvjwMklZw&bvm=bv.125596728,d.cWw) Alain
 
 ### [Derailment of Amtrak passenger train 188, Philadelphia, PA, May 12, 2015 NTSB/ DCA15MR010](http://www.ntsb.gov/news/events/Documents/DCA15MR010_Abstract.pdf)
 
-Public meeting of May 17 "...
-                        Executive Summary...This report addresses the
-                        following safety issues:
+Public meeting of May 17 "... Executive Summary...This report addresses the following safety issues:
 
-* Crewmember situational awareness and
-                              management of multiple tasks....
+* Crewmember situational awareness and management of multiple tasks....
 
-* Positive train control. In the
-                            accident area, positive train control had
-                            not yet been implemented at the time of the
-                            accident, but it has since been
-                            implemented.  The NTSB found that the
-                            accident could have been avoided if positive
-                            train control or another control system had
-                            been in place to enforce the permanent
-                            speed restriction of 50 mph at the Franklin
-                            Junction curve.
+* Positive train control. In the accident area, positive train control had not yet been implemented at the time of the accident, but it has since been implemented. The NTSB found that the accident could have been avoided if positive train control or another control system had been in place to enforce the permanent speed restriction of 50 mph at the Franklin Junction curve.
 
 * ...[Read more](http://www.ntsb.gov/news/events/Documents/DCA15MR010_Abstract.pdf)
 
-Hmmm... Kudos to NTSB
-                            for finding "...the
-                              accident could have been avoided if
-                              positive train control or another control
-                              system had been in place to enforce..."
+Hmmm... Kudos to NTSB for finding "...the accident could have been avoided if positive train control or another control system had been in place to enforce..."
 
-                            HOWEVER, given that PCT was [mandated by Congress in 2008](https://www.fra.dot.gov/eLib/Details/L03588) with a deadline of
-                            December 15, 2015 and that 6 months before
-                            the deadline PTC had NOT been implemented on
-                            Amtrak's highest volume segment (PHL-NYC) is
-                            so unacceptable that this deserved to have
-                            been their #1 bullet.  NOT some poor train
-                            engineer that was simply trying to do a job
-                            made enormously more dangerous and stressful
-                            because Amtrak management failed to
-                            implement in a timely manner what had been
-                            mandated by its "sugar daddy"!!  So the NTSB
-                            "threw" the engineer "under the bus" and
-                            essentially all of the news reports pointed
-                            to the engineer rather than Amtrak's senior
-                            (mis)management ([The Atlantic](http://www.theatlantic.com/national/archive/2016/02/the-mystery-of-amtrak-188/458967/), [NBC](http://www.nbcphiladelphia.com/news/local/Deadly-Amtrak-Crash-Philadelphia-NTSB-Cause-379762581.html),
-                            [Washington Post](https://www.washingtonpost.com/local/trafficandcommuting/ntsb-prepared-to-release-report-on-last-years-deadly-amtrak-wreck/2016/02/01/3c9f7e46-c837-11e5-88ff-e2d1b4289c2f_story.html), [WSJ](http://www.wsj.com/articles/ntsb-says-engineer-in-2015-philadelphia-amtrak-crash-lost-situational-awareness-1463497474),
-                            [NYT](http://www.nytimes.com/2016/01/31/magazine/the-wreck-of-amtrak-188.html?_r=0)
-                            etc.  Why didn't the NYT do a long story on
-                            why Amtrak management didn't install PTC in
-                            a timely manner???)
+HOWEVER, given that PCT was [mandated by Congress in 2008](https://www.fra.dot.gov/eLib/Details/L03588) with a deadline of December 15, 2015 and that 6 months before the deadline PTC had NOT been implemented on Amtrak's highest volume segment (PHL-NYC) is so unacceptable that this deserved to have been their #1 bullet. NOT some poor train engineer that was simply trying to do a job made enormously more dangerous and stressful because Amtrak management failed to implement in a timely manner what had been mandated by its "sugar daddy"!! So the NTSB "threw" the engineer "under the bus" and essentially all of the news reports pointed to the engineer rather than Amtrak's senior (mis)management ([The Atlantic](http://www.theatlantic.com/national/archive/2016/02/the-mystery-of-amtrak-188/458967/), [NBC](http://www.nbcphiladelphia.com/news/local/Deadly-Amtrak-Crash-Philadelphia-NTSB-Cause-379762581.html), [Washington Post](https://www.washingtonpost.com/local/trafficandcommuting/ntsb-prepared-to-release-report-on-last-years-deadly-amtrak-wreck/2016/02/01/3c9f7e46-c837-11e5-88ff-e2d1b4289c2f_story.html), [WSJ](http://www.wsj.com/articles/ntsb-says-engineer-in-2015-philadelphia-amtrak-crash-lost-situational-awareness-1463497474), [NYT](http://www.nytimes.com/2016/01/31/magazine/the-wreck-of-amtrak-188.html?_r=0) etc. Why didn't the NYT do a long story on why Amtrak management didn't install PTC in a timely manner???)
 
-                            My point here is larger in that this same
-                            issue exists in the rest of the transit
-                            industry where crash-avoidance technology
-                            exists today that can substantially reduce
-                            collisions and do so while printing money
-                            for the transit industry.  [Dr. Jerome Lutin and I](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/PDFs/LutinKornhauser_2016TRB_BusACAS.pdf) have pointed out to
-                            deaf ears that automated collision avoidance
-                            systems exist today for buses whose costs
-                            are substantially less than the net present
-                            value of the liability that these buses can
-                            be expected to impose on society.  This is
-                            about the cash that a hopelessly
-                            bankrupt transit industry has to pay out
-                            because it isn't installing existing crash
-                            avoidance technology that is available
-                            today.  On top of that cash are all of the
-                            societal benefits associated with
-                            eliminating collisions. There is no rush
-                            (not even a faint heart-beat) by the
-                            industry to do this. FTA is totally asleep,
-                            yet bus drivers continue to be placed in
-                            some of the most stressful and unsafe
-                            working conditions without the help that
-                            such technologies can deliver.  I can't be
-                            more blunt... The major cause of accidents
-                            in the transit industry is the fact that the
-                            management of the transit industry is not
-                            installing in its fleets existing and
-                            available automated collision avoidance
-                            systems.  What is even more derelict is that
-                            new bus procurement don't include such
-                            provisions either.  When is the finger going
-                            to finally be pointed towards "Management"
-                            and the FTA instead of the poor bus driver
-                            or train engineer? NTSB is getting close by
-                            at least  putting  it 2nd, but if the public
-                            is to become aware, it will need to rise to
-                            the top bullet.  Alain
+My point here is larger in that this same issue exists in the rest of the transit industry where crash-avoidance technology exists today that can substantially reduce collisions and do so while printing money for the transit industry. [Dr. Jerome Lutin and I](http://orfe.princeton.edu/~alaink/SmartDrivingCars/PDFs/LutinKornhauser_2016TRB_BusACAS.pdf) have pointed out to deaf ears that automated collision avoidance systems exist today for buses whose costs are substantially less than the net present value of the liability that these buses can be expected to impose on society. This is about the cash that a hopelessly bankrupt transit industry has to pay out because it isn't installing existing crash avoidance technology that is available today. On top of that cash are all of the societal benefits associated with eliminating collisions. There is no rush (not even a faint heart-beat) by the industry to do this. FTA is totally asleep, yet bus drivers continue to be placed in some of the most stressful and unsafe working conditions without the help that such technologies can deliver. I can't be more blunt... The major cause of accidents in the transit industry is the fact that the management of the transit industry is not installing in its fleets existing and available automated collision avoidance systems. What is even more derelict is that new bus procurement don't include such provisions either. When is the finger going to finally be pointed towards "Management" and the FTA instead of the poor bus driver or train engineer? NTSB is getting close by at least putting it 2nd, but if the public is to become aware, it will need to rise to the top bullet. Alain
 
 ### [Extracting Cognition out of Images for the Purpose of Autonomous Driving](http://orfe.princeton.edu/%7Ealaink/Theses/chenyiPhDfinal_ExtractingCognitionOutOfImagesForThePurposeOfAutonomousDriving.pdf)
 
- Chenyi Chen PhD Dissertation ,
-                        "...the key part of the thesis, a direct
-                        perception approach is proposed to drive a car
-                        in a highway environment. In this approach, an
-                        input image is mapped to a small number of key
-                        perception indicators that directly relate to
-                        the affordance of a road/traffic state for
-                        driving....." [Read more](http://orfe.princeton.edu/%7Ealaink/Theses/chenyiPhDfinal_ExtractingCognitionOutOfImagesForThePurposeOfAutonomousDriving.pdf)  Hmmm..[FPO 10:00am, May 16 , 120 Sherrerd Hall](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Presentations/ChenyiFPO.pdf),
-                            Establishing a foundation for image-based
-                            autonomous driving using DeepLearning Neural
-                            Networks trained in virtual environments.
-                            Very promising. Alain
-
-###
+Chenyi Chen PhD Dissertation, "...the key part of the thesis, a direct perception approach is proposed to drive a car in a highway environment. In this approach, an input image is mapped to a small number of key perception indicators that directly relate to the affordance of a road/traffic state for driving....." [Read more](http://orfe.princeton.edu/%7Ealaink/Theses/chenyiPhDfinal_ExtractingCognitionOutOfImagesForThePurposeOfAutonomousDriving.pdf) Hmmm..[FPO 10:00am, May 16 , 120 Sherrerd Hall](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Presentations/ChenyiFPO.pdf), Establishing a foundation for image-based autonomous driving using DeepLearning Neural Networks trained in virtual environments. Very promising. Alain
 
 ### [N.J. superintendent killed while jogging was struck by student late for trip](http://www.nj.com/mercer/index.ssf/2016/04/student_who_struck_superintendent_was_late_for_cla.html)
 
-K. Shea, April 19, "...The
-                          Robbinsville High School student who was
-                          driving the car that [struck and killed the district's superintendent Tuesday](http://www.nj.com/mercer/index.ssf/2016/04/nj_superintendent_remembered_for_energy_commitment.html) morning
-                          was late for a school trip when the crash
-                          occurred, according to two sources involved in
-                          the investigation...." [Read more](http://www.nj.com/mercer/index.ssf/2016/04/student_who_struck_superintendent_was_late_for_cla.html) Hmmm...Most
-                            tragic in so many dimensions!!!  HOWEVER, it
-                            was NOT the student that STRUCK the
-                            Superintendent, it was the CAR.  AND the CAR
-                            needs to start being held responsible for
-                            ALLOWING such tragedies to ruin so many
-                            lives.  It is very likely that this tragedy
-                            could have been averted had the car been
-                            equipped with an automated collision
-                            avoidance system and/or lane-keeping
-                            system.  Given the availability of these
-                            "tragedy avoidance systems", we should all
-                            be asking why this CAR wasn't equipped with
-                            such a system and why all cars aren't so
-                            equipped.  Certainly innocent runners and
-                            dogs need to be asking such questions.  So
-                            too, that young lady's car insurance
-                            company; it must be muttering: "shouda
-                            bought her that upgrade".  What about the
-                            car companies themselves who are largely
-                            just sitting on the technology or the
-                            dealerships that don't feel compelled to
-                            espouse the benefits of such technology
-                            while pushing more "horsepower" and
-                            "Corinthian Leather" (and worse yet:
-                            "AooleCarXYZ" that distracts drivers).  We
-                            all know that Washington is broken.  Them
-                            staying out of the way is probably best
-                            (although aggressively applying better
-                            human-visible paint/laneMarkings and
-                            human-readable signs would go a long way to
-                            helping both attentive drivers and automated
-                            lane-keeping systems).  Everyone else has
-                            fundamental self-interest at stake and each
-                            needs to stop pointing the finger to the
-                            frail human driver.  We have the technology
-                            and the the self-interest to make mobility
-                            substantially safer.  Let's really get on
-                            with it.  It's time!   Alain
+K. Shea, April 19, "...The Robbinsville High School student who was driving the car that [struck and killed the district's superintendent Tuesday](http://www.nj.com/mercer/index.ssf/2016/04/nj_superintendent_remembered_for_energy_commitment.html) morning was late for a school trip when the crash occurred, according to two sources involved in the investigation...." [Read more](http://www.nj.com/mercer/index.ssf/2016/04/student_who_struck_superintendent_was_late_for_cla.html) Hmmm...Most tragic in so many dimensions!!! HOWEVER, it was NOT the student that STRUCK the Superintendent, it was the CAR. AND the CAR needs to start being held responsible for ALLOWING such tragedies to ruin so many lives. It is very likely that this tragedy could have been averted had the car been equipped with an automated collision avoidance system and/or lane-keeping system. Given the availability of these "tragedy avoidance systems", we should all be asking why this CAR wasn't equipped with such a system and why all cars aren't so equipped. Certainly innocent runners and dogs need to be asking such questions. So too, that young lady's car insurance company; it must be muttering: "shouda bought her that upgrade". What about the car companies themselves who are largely just sitting on the technology or the dealerships that don't feel compelled to espouse the benefits of such technology while pushing more "horsepower" and "Corinthian Leather" (and worse yet: "AooleCarXYZ" that distracts drivers). We all know that Washington is broken. Them staying out of the way is probably best (although aggressively applying better human-visible paint/laneMarkings and human-readable signs would go a long way to helping both attentive drivers and automated lane-keeping systems). Everyone else has fundamental self-interest at stake and each needs to stop pointing the finger to the frail human driver. We have the technology and the self-interest to make mobility substantially safer. Let's really get on with it. It's time! Alain
 
 ### [Hearing focus of SF 2569 Autonomous vehicles task force establishment and demonstration project for people with disabilities](http://mnsenate.granicus.com/MediaPlayer.php?view_id=1&clip_id=235)
 
- March 23 Hmmm...
-                            [Watch the video of the Committee Meeting](http://mnsenate.granicus.com/MediaPlayer.php?view_id=1&clip_id=235).  The testimony is Excellent
-                            and very compelling! Also see [Self-Driving Minnesota](http://www.selfdrivingmn.org/) Alain
+March 23 Hmmm... [Watch the video of the Committee Meeting](http://mnsenate.granicus.com/MediaPlayer.php?view_id=1&clip_id=235). The testimony is Excellent and very compelling! Also see [Self-Driving Minnesota](http://www.selfdrivingmn.org/) Alain
 
 ### [U.S. DOT and IIHS announce historic commitment of 20 automakers to make automatic emergency braking standard on new vehicles](http://www.nhtsa.gov/About+NHTSA/Press+Releases/nhtsa-iihs-commitment-on-aeb-03172016)
 
- Press Release, Mar 17, NHTSA
-                        & IIHS "announced today a historic
-                        commitment by 20 automakers representing more
-                        than 99 percent of the U.S. auto market to make
-                        automatic emergency braking a standard feature
-                        on virtually all new cars no later than NHTSA's
-                        2022 reporting year, which begins Sept 1, 2022.
-                        Automakers making the commitment are Audi, BMW,
-                        FCA US LLC, Ford, General Motors, Honda,
-                        Hyundai, Jaguar Land Rover, Kia, Maserati,
-                        Mazda, Mercedes-Benz, Mitsubishi Motors, Nissan,
-                        Porsche, Subaru, Tesla Motors Inc., Toyota,
-                        Volkswagen and Volvo Car USA. The unprecedented
-                        commitment means that this important safety
-                        technology will be
-                            available to more consumers more quickly
-                            than would be possible through the
-                            regulatory process...The
-                        commitment takes into account the evolution of
-                        AEB technology. It requires a level of
-                        functionality that is in line with research and
-                        crash data demonstrating that such systems are
-                        substantially reducing crashes, but does not stand in the
-                            way of improved capabilities that are just
-                            beginning to emerge. The
-                        performance measures are based on real world
-                        data showing that vehicles with this level of
-                        capability are avoiding crashes..[Watch NHTSA video on AEB](https://www.youtube.com/watch?v=Src2jhS4wcA)  [Download AEB video from IIHS](https://www.hightail.com/download/ZWJVbGtNR3NrWTg4RmNUQw)[Read more](http://www.nhtsa.gov/About+NHTSA/Press+Releases/nhtsa-iihs-commitment-on-aeb-03172016)  Hmmmm...Fantastic!
-                            Automakers leading with regulatory process
-                            staying out of the way.   Alain
-                                2016
+Press Release, Mar 17, NHTSA & IIHS "announced today a historic commitment by 20 automakers representing more than 99 percent of the U.S. auto market to make automatic emergency braking a standard feature on virtually all new cars no later than NHTSA's 2022 reporting year, which begins Sept 1, 2022. Automakers making the commitment are Audi, BMW, FCA US LLC, Ford, General Motors, Honda, Hyundai, Jaguar Land Rover, Kia, Maserati, Mazda, Mercedes-Benz, Mitsubishi Motors, Nissan, Porsche, Subaru, Tesla Motors Inc., Toyota, Volkswagen and Volvo Car USA. The unprecedented commitment means that this important safety technology will be available to more consumers more quickly than would be possible through the regulatory process...The commitment takes into account the evolution of AEB technology. It requires a level of functionality that is in line with research and crash data demonstrating that such systems are substantially reducing crashes, but does not stand in the way of improved capabilities that are just beginning to emerge. The performance measures are based on real world data showing that vehicles with this level of capability are avoiding crashes..[Watch NHTSA video on AEB](https://www.youtube.com/watch?v=Src2jhS4wcA) [Download AEB video from IIHS](https://www.hightail.com/download/ZWJVbGtNR3NrWTg4RmNUQw)[Read more](http://www.nhtsa.gov/About+NHTSA/Press+Releases/nhtsa-iihs-commitment-on-aeb-03172016) Hmmmm...Fantastic! Automakers leading with regulatory process staying out of the way. Alain 2016
 
 ### [Motor Vehicle Deaths Increase by Largest Percent in 50 Years](http://www.nsc.org/NewsDocuments/2016/mv-fatality-report-1215.pdf)
 
- Press Release Feb 16 "With
-                        continued lower gasoline prices and an improving
-                        economy resulting in an estimated 3.5% increase
-                        in motor-vehicle mileage, the number of
-                        motor-vehicle deaths in 2015 totaled 38,300,
-                          up 8% from 2014.
+Press Release Feb 16 "With continued lower gasoline prices and an improving economy resulting in an estimated 3.5% increase in motor-vehicle mileage, the number of motor-vehicle deaths in 2015 totaled 38,300, up 8% from 2014.
 
-                        The 2015 estimate is provisional and may be
-                        revised when more data are available. The total
-                        for 2015 was up 8% from the 2013 figure. The
-                        annual total for 2014 was 35,398, a less than
-                        0.5% increase from 2013. The 2013 figure was 3%
-                        lower than 2012. The estimated annual population
-                        death rate is 11.87 deaths per 100,000
-                        population, an increase of 7% from the 2014
-                        rate. The estimated annual mileage death rate is
-                        1.22 deaths per 100 million vehicle miles
-                        traveled, an increase of 5% from the 2014 rate.
-                        [Read more](http://www.nsc.org/NewsDocuments/2016/mv-fatality-report-1215.pdf)Hmmmm...This
-                            is REALLY BAD news.  Come on insurance. This
-                            is costing you money!  Accident rates going
-                            up means that your actuarials are behind,
-                            your regulated pricing lags and you are
-                            losing money.  To get ahead of your
-                            actuarials, you MUST incentivize the
-                            adoption of automated collision avoidance
-                            systems.  You'll then do very well, thank
-                            you AND help society.  Alain
-                                2016
-
-###
+The 2015 estimate is provisional and may be revised when more data are available. The total for 2015 was up 8% from the 2013 figure. The annual total for 2014 was 35,398, a less than 0.5% increase from 2013. The 2013 figure was 3% lower than 2012. The estimated annual population death rate is 11.87 deaths per 100,000 population, an increase of 7% from the 2014 rate. The estimated annual mileage death rate is 1.22 deaths per 100 million vehicle miles traveled, an increase of 5% from the 2014 rate. [Read more](http://www.nsc.org/NewsDocuments/2016/mv-fatality-report-1215.pdf) Hmmmm...This is REALLY BAD news. Come on insurance. This is costing you money! Accident rates going up means that your actuarials are behind, your regulated pricing lags and you are losing money. To get ahead of your actuarials, you MUST incentivize the adoption of automated collision avoidance systems. You'll then do very well, thank you AND help society. Alain 2016
 
 ### [Obama's $4 Billion Plan for Self-Driving Cars Will Make Google Very Happy](http://recode.net/2016/01/14/obamas-4-billion-plan-for-self-driving-cars-will-make-google-very-happy/)
 
- M. Bergen, Jan 14 "The Obama
-                        Administration has seen the self-driving future,
-                        and it's jumping aboard.  At the Detroit auto
-                        show on Thursday morning, U.S. Transportation
-                        Secretary Anthony Foxx will unveil a plan to
-                        develop a national blueprint for autonomous
-                        driving technology within the next six months.
-                        He will also announce that President Obama is
-                        planning to insert $4 billion into the 2017
-                        budget for a 10-year plan to support and
-                        "accelerate" vehicle automation projects.
+M. Bergen, Jan 14 "The Obama Administration has seen the self-driving future, and it's jumping aboard. At the Detroit auto show on Thursday morning, U.S. Transportation Secretary Anthony Foxx will unveil a plan to develop a national blueprint for autonomous driving technology within the next six months. He will also announce that President Obama is planning to insert $4 billion into the 2017 budget for a 10-year plan to support and "accelerate" vehicle automation projects.
 
-                        "We are on the cusp of a new era in automotive
-                        technology with enormous potential to save
-                        lives, reduce greenhouse gas emissions, and
-                        transform mobility for the American people,"
-                        Secretary Foxx said in a statement. ...But
-                          here's the part of Foxx's talk that really
-                          matters for Google: These national rules will
-                          allow fully driverless cars..." [Read More](http://recode.net/2016/01/14/obamas-4-billion-plan-for-self-driving-cars-will-make-google-very-happy/)  Hmmm...
-                                A [few months ago](http://www.its.dot.gov/press/2015/ngv_tech_announcement.htm) it was $42M for
-                                Connected Vehicles. Today it is 100x for
-                                automated vehicles! Finally Secretary
-                                Foxx.."[YES! YES! JESUS H. TAP-DANCING CHRIST... I HAVE SEEN THE LIGHT](https://www.youtube.com/watch?v=lX5tfRdkoY0)" (Blue Brothers)
-                                      Yea!!!!!   :-)
-                              Alain
+"We are on the cusp of a new era in automotive technology with enormous potential to save lives, reduce greenhouse gas emissions, and transform mobility for the American people," Secretary Foxx said in a statement. ...But here's the part of Foxx's talk that really matters for Google: These national rules will allow fully driverless cars..." [Read More](http://recode.net/2016/01/14/obamas-4-billion-plan-for-self-driving-cars-will-make-google-very-happy/) Hmmm... A [few months ago](http://www.its.dot.gov/press/2015/ngv_tech_announcement.htm) it was $42M for Connected Vehicles. Today it is 100x for automated vehicles! Finally Secretary Foxx.."[YES! YES! JESUS H. TAP-DANCING CHRIST... I HAVE SEEN THE LIGHT](https://www.youtube.com/watch?v=lX5tfRdkoY0)" (Blue Brothers) Yea!!!!! :-) Alain
 
 ### [Google Pairs With Ford To Build Self-Driving Cars](https://www.yahoo.com/autos/google-pairs-with-ford-to-1326344237400118.html)
 
- J. Hyde & S. Carty, Dec. 21
-                        "Google and Ford will create a joint venture to
-                        build self-driving vehicles with Google's
-                        technology, a huge step by both companies toward
-                        a new business of automated ride sharing,
-                        ...According to three sources familiar with the
-                        plans, the partnership is set to be announced by
-                        Ford at the Consumer Electronics Show in
-                        January. By pairing with Google, Ford gets a
-                        massive boost in self-driving software
-                        development; while the automaker has been
-                        experimenting with its own systems for years, it
-                        only revealed plans this month to begin testing
-                        on public streets in California....
+J. Hyde & S. Carty, Dec. 21 "Google and Ford will create a joint venture to build self-driving vehicles with Google's technology, a huge step by both companies toward a new business of automated ride sharing, ...According to three sources familiar with the plans, the partnership is set to be announced by Ford at the Consumer Electronics Show in January. By pairing with Google, Ford gets a massive boost in self-driving software development; while the automaker has been experimenting with its own systems for years, it only revealed plans this month to begin testing on public streets in California....
 
-                        Google already has several links to Ford; the
-                        head of the self-driving car project, John
-                        Krafcik, worked for 14 years at Ford, including
-                        a stint as head of truck engineering, and
-                        several other ex-Ford employees work in the unit
-                        as well. Former Ford chief executive Alan
-                        Mulally joined Google's board last year.
+Google already has several links to Ford; the head of the self-driving car project, John Krafcik, worked for 14 years at Ford, including a stint as head of truck engineering, and several other ex-Ford employees work in the unit as well. Former Ford chief executive Alan Mulally joined Google's board last year.
 
-                        And Ford executives have been clear for years
-                        that the company was ready to embrace a future
-                        where cars were sold as on-demand services. Ford
-                        CEO Mark Fields has repeatedly said Ford was
-                        thinking of itself "as a mobility company," and
-                        what that would mean for its business" [Read more](https://www.yahoo.com/autos/google-pairs-with-ford-to-1326344237400118.html)  Hmmm...Not
-                                surprising and not exclusive. :-)
-                              Alain
-                                2015
+And Ford executives have been clear for years that the company was ready to embrace a future where cars were sold as on-demand services. Ford CEO Mark Fields has repeatedly said Ford was thinking of itself "as a mobility company," and what that would mean for its business" [Read more](https://www.yahoo.com/autos/google-pairs-with-ford-to-1326344237400118.html) Hmmm...Not surprising and not exclusive. :-) Alain
 
 ### [Adam Jonas' View on Autonomous Cars](http://linkback.morganstanley.com/web/sendlink/webapp/BMServlet?file=kpmb1mve-3p5j-g000-97a7-d8d3855a5201&store=0&d=1&user=dagn42i4pkquh-0&__gda__=1549992813_42e5b148a43b27b943d8d34f1e5c3295#0011&dagn42i4pkquh-1&1549992813_f2523f33158f4db2b6d628c5c9008f28&0021&dagn42i4pkquh-2&1549992813_f9a15a1b06e61ec454fad4cc7759010a)
 
- Video similar to part of Adam's
-                        Luncheon talk @ 2015 Florida Automated Vehicle
-                        Symposium on Dec 1.  [Hmmm ... Watch Video](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Videos/AdamJonas10T_MorganStanley.mp4)  especially
-                            at the 13:12 mark.  Compelling; especially
-                            after the 60 Minutes segment above!  Also
-                            see his [TipRanks](https://www.tipranks.com/analysts/adam-jonas).
-                            Alain
+Video similar to part of Adam's Luncheon talk @ 2015 Florida Automated Vehicle Symposium on Dec 1. [Hmmm ... Watch Video](http://orfe.princeton.edu/~alaink/SmartDrivingCars/Videos/AdamJonas10T_MorganStanley.mp4) especially at the 13:12 mark. Compelling; especially after the 60 Minutes segment above! Also see his [TipRanks](https://www.tipranks.com/analysts/adam-jonas). Alain
 
- This
-                                                    list is maintained
-                                                    by [Alain Kornhauser](mailto:alaink@princeton.edu) and hosted by the [Princeton University LISTSERV](http://lists.princeton.edu).
-
-[Unsubscribe](https://lists.princeton.edu/cgi-bin/wa?TICKET=NzM1MjMzIGJpbm9AUFJJTkNFVE9OLkVEVSBTTUFSVERSSVZJTkdDQVJTIGluYtYkJuu3&c=SIGNOFF) |[Re-subscribe](https://lists.princeton.edu/cgi-bin/wa?SUBED1=SmartDrivingCars&A=1)
-
-  [Mailto:alaink@princeton.edu](Mailto:alaink@princeton.edu) 
-
-                                              This list is maintained by
-                                              [Alain Kornhauser](mailto:alaink@princeton.edu) and
-                                              hosted by the [Princeton University LISTSERV](http://lists.princeton.edu).
-
-[Unsubscribe](https://lists.princeton.edu/cgi-bin/wa?TICKET=NzM1MjMzIGJpbm9AUFJJTkNFVE9OLkVEVSBTTUFSVERSSVZJTkdDQVJTIGluYtYkJuu3&c=SIGNOFF)
-                                              |[Re-subscribe](https://lists.princeton.edu/cgi-bin/wa?SUBED1=SmartDrivingCars&A=1)
-
-***************************************************************************************************************
-
-This list is maintained by [Alain Kornhauser](mailto:alaink@princeton.edu) and hosted by the [Princeton University LISTSERV](http://lists.princeton.edu).
+This list is maintained by Alain Kornhauser and hosted by the Princeton University LISTSERV.
