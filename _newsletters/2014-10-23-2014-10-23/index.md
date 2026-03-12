@@ -145,7 +145,4 @@ So after more than 10 years of the mandate we will be at <68% non-impaired of th
 Yet, if NHTSA instead "mandated" or encouraged/focused-on automated collision avoidance and automated lane keeping systems, then each of these systems would deliver some immediate safety benefits to each consumer, irrespective of any other vehicle having the system. Some benefit would also be delivered if the driver became impaired. Moreover, insurance may be willing and able to pay for much of this technology. Seems that this is the low hanging fruit. What am I missing here? Why is the sunk investment in V2V seemingly all that is steering the NHTSA ship? Alain
 
 alaink@princeton.edu
-
-This list is maintained by Alain Kornhauser and hosted by the Princeton University LISTSERV.
-
 [Unsubscribe](https://lists.princeton.edu/cgi-bin/wa?TICKET=NzM1MjMzIGJpbm9AUFJJTkNFVE9OLkVEVSBTTUFSVERSSVZJTkdDQVJTIGluYtYkJuu3&c=SIGNOFF) | [Re-subscribe](https://lists.princeton.edu/cgi-bin/wa?TICKET=NzM1MjMzIGJpbm9AUFJJTkNFVE9OLkVEVSBTTUFSVERSSVZJTkdDQVJTIGluYtYkJuu3&c=SIGNUP)

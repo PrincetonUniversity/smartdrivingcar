@@ -53,5 +53,3 @@ Posted
 ## [Click for Free Pre-registration](https://us02web.zoom.us/webinar/register/5915943028608/WN_bUHzsV9BSm-tJkKQ6QVNqg)
 
 ***************************************************************************************************************
-
-This list is maintained by [Alain Kornhauser](mailto:alaink@princeton.edu) and hosted by the [Princeton University LISTSERV](http://lists.princeton.edu).

@@ -241,5 +241,3 @@ October 10, 2014
 Press release. Oct 9, 2014 Princeton, NJ "New Jersey's first summit meeting on creation of a center for research, certification, and commercialization of automated vehicle technology took place on October 3 at former Army base Fort Monmouth in Oceanport. The purpose of the meeting was to bring together stakeholders with a vested interest and the wherewithal to place New Jersey at the forefront of research into potentially life-saving technology.
 
 More than 60 invited participants to the summit included representatives of: the insurance industry, automakers, wireless communications industry, motor vehicle regulators, public transit industry, and universities. State Senators Jennifer Beck, Thomas H. Kean, Jr., Joseph M. Kyrillos, Jr., and Assemblyman Declan O'Scanlon, Jr. represented New Jersey's legislative bodies..." [Read more](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/FtMonmouth/InauguralFtMonmouthPressRelease.pdf) Hmmm..Progress! Alain
-
-This list is maintained by Alain Kornhauser and hosted by the Princeton University LISTSERV.

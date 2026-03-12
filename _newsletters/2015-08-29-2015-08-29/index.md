@@ -165,5 +165,3 @@ The Inspiration Truck and Daimler's underlying "Highway Pilot" technology isn't 
 [Driving into the future: CCJ test drives Freightliner's SuperTruck, self-driving Inspiration](http://www.ccjdigital.com/driving-into-the-future-ccj-test-drive-of-freightliners-supertruck-self-driving-inspiration/?utm_source=weekender&utm_medium=email&utm_content=05-09-2015&utm_campaign=CCJ&ust_id=0543c5c008&) By Jack Robert and
 
 [Autonomous Freightliner Inspiration truck makes a splash at the Hoover Dam](http://www.gizmag.com/daimler-unveils-autonomous-freightliner-inspiration-truck/37384/) Alain
-
-This list is maintained by Alain Kornhauser and hosted by the Princeton University LISTSERV.

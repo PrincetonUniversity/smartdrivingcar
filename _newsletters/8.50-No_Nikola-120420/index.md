@@ -1654,17 +1654,7 @@ D. Fliert,
                                                           have been
                                                           described to
                                                           the
-                                                          p[articipants, not the behavior of the participants. If I'm told that my toll is going to be taken automatically from my EZ Pass account, I'm not trying to pay attention to how the toll is beng collected as I go through the high speed automateed lanes and they certainly don't want me to stop and look for some
-                                                          basket that
-                                                          will capture
-                                                          my coins as I
-                                                          throw them.
-                                                          However, if it
-                                                          is
-                                                          semi-automated
-                                                          and there is
-                                                          some task on
-                                                          my end that I
+                                                          p[articipants, not the behavior of the participants. If I'm told that my toll is going to be taken automatically from my EZ Pass account, I'm not trying to pay attention to how the toll is beng collected as I go through the high speed automateed lanes and they certainly don't want me to stop and look for some basket that will capture my coins as I throw them. However, if it is semi-automated and there is some task on my end that I
                                                           need to do to
                                                           pay the toll,
                                                           then I, and
@@ -6108,5 +6098,3 @@ Alain L. Kornhauser, PhD
  (c)
 
 ***************************************************************************************************************
-
-This list is maintained by [Alain Kornhauser](mailto:alaink@princeton.edu) and hosted by the [Princeton University LISTSERV](http://lists.princeton.edu).

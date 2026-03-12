@@ -163,9 +163,6 @@ Workshop
 [Read More](https://summit.princeton.edu/) Hmmmm… Please pencil in the dates. We are to make publish the sponsorship and registration pages. Given the success that we've had with the past Summits and the quality of the program that we've been able to assemble to date, we fully expect to be sold out. Some sponsorship opportunities remain available. If interested, please simply contact me [via email](mailto:alaink@princeton.edu?subject=Sponsorship%206th%20Princeton%20SmartDrivingCarsSummit) for 'right-of-first refusal" penciled-in commitments". Hope you'll be able to join in with us. Alain
 
 ***************************************************************************************************************
-
-This list is maintained by [Alain Kornhauser](mailto:alaink@princeton.edu) and hosted by the [Princeton University LISTSERV](http://lists.princeton.edu).
-
 [Unsubscribe](http://-*&TICKET-URL(SMARTDRIVINGCARS-SIGNOFF);) | [Re-subscribe](http://-*&TICKET-URL(SMARTDRIVINGCARS-SIGNUP);)
 
 Alain L. Kornhauser, PhD
@@ -189,5 +186,3 @@ Princeton, NJ
 609-980-1427 (c)
 
 ***************************************************************************************************************
-
-This list is maintained by [Alain Kornhauser](mailto:alaink@princeton.edu) and hosted by the [Princeton University LISTSERV](http://lists.princeton.edu).

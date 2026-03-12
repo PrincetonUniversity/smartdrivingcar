@@ -69,5 +69,3 @@ Kornhauser
                           & He, April 2021 ["Making it Happen:  A Proposal for Providing Affordable, High-quality, On-demand Mobility for All in the "Trentons" of this World"](https://www.dropbox.com/s/akvl1klaz3jlgjf/041521_Making%20it%20Happen%20Part%202.pptx)
 
 ***************************************************************************************************************
-
-This list is maintained by [Alain Kornhauser](mailto:alaink@princeton.edu) and hosted by the [Princeton University LISTSERV](http://lists.princeton.edu).

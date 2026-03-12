@@ -267,5 +267,3 @@ Nissan Motor Co. will launch a car with self-driving technologies in Japan in 20
 ### [Delphi Successfully Completes First Coast-to-Coast Automated Drive](http://news.investors.com/newsfeed-business-wire/040215-141716136-delphi-successfully-completes-first-coast-to-coast-automated-drive.aspx)
 
 04/04/15 "Delphi Automotive PLC (NYSE: DLPH) has completed the longest automated drive in North America, traveling from San Francisco to New York in the first coast-to-coast trip ever taken by an automated vehicle. Nearly 3,400 miles were covered with 99 percent of the drive in fully automated mode. [Read more](http://news.investors.com/newsfeed-business-wire/040215-141716136-delphi-successfully-completes-first-coast-to-coast-automated-drive.aspx) See also [CBSNews](http://www.cbsnews.com/news/delphi-self-driving-suv-completes-cross-country-trip/) Hmmm ... I'd like to hear/read about the 1%. Alain
-
-This list is maintained by Alain Kornhauser and hosted by the Princeton University LISTSERV.

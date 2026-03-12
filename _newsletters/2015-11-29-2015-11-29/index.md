@@ -17,5 +17,3 @@ Wednesday, December 2, 2015
 [http://www.connectedvehicleworkshop.com/program/](http://www.connectedvehicleworkshop.com/program/)
 
 [http://www.automatedfl.com/our-efforts/florida-automated-vehicles-summit/](http://www.automatedfl.com/our-efforts/florida-automated-vehicles-summit/)
-
-This list is maintained by Alain Kornhauser and hosted by the Princeton University LISTSERV.

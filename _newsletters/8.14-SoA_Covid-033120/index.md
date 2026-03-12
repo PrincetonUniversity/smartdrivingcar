@@ -2151,5 +2151,3 @@ especially at the 13:12 mark.
             Also see his [TipRanks](https://www.tipranks.com/analysts/adam-jonas).  Alain
 
 ***************************************************************************************************************
-
-This list is maintained by [Alain Kornhauser](mailto:alaink@princeton.edu) and hosted by the [Princeton University LISTSERV](http://lists.princeton.edu).

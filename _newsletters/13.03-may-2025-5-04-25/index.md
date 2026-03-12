@@ -188,5 +188,3 @@ May 19, 2024
 May 12, 2024
 
 May 5, 2024
-
-This list is maintained by Alain Kornhauser and hosted by the Princeton University LISTSERV.

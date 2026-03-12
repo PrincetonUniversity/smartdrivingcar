@@ -37,5 +37,3 @@ J. Rosevear, Nov. 7, "Lidar makers Ouster and Velodyne have agreed to merge, com
 ### [Tesla plans to import China-made electric cars to US, says questionable report](https://electrek.co/2022/11/11/tesla-plans-import-china-made-electric-cars-us-questionable-report/)
 
 F. Lambert, Nov. 1, "Tesla is reportedly planning to start importing electric cars made in China to the US, according to a somewhat-questionable report from Reuters. Update: Tesla CEO Elon Musk has now denied the Reuters report via Twitter. Reuters came out with a new report today that claims Tesla is currently validating a plan to import electric cars made at Gigafactory Shanghai in China to the US market...." [Read more](https://electrek.co/2022/11/11/tesla-plans-import-china-made-electric-cars-us-questionable-report/) Hmmmm... Whew!!! What a bad idea. Alain
-
-This list is maintained by [Alain Kornhauser](mailto:alaink@princeton.edu) and hosted by the [Princeton University LISTSERV](http://lists.princeton.edu).

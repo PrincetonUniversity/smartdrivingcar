@@ -142,5 +142,3 @@ This is BIG, not only because they have "an agreement to jointly develop an elec
 
 # [Smart Driving Cars](http://orfe.princeton.edu/~alaink/SmartDrivingCars/SDC013113.pdf)  
 [Thursday, January 31, 2013](http://orfe.princeton.edu/~alaink/SmartDrivingCars/SDC013113.pdf)  
-
-This list is maintained by Alain Kornhauser and hosted by the Princeton University LISTSERV.

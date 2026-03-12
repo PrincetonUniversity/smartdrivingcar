@@ -190,5 +190,3 @@ December 12, 2014
 ### [2014 Florida Automated Vehicle Summit](http://www.fleng.org/index.cfm)
 
 Florida DOT is blazing the trail for the integration of automated vehicles into existing traffic operations and leading by example with pilot projects, research projects, and open dialogue to ensure that Florida serves as a fertile proving ground for these exciting new technologies. [Agenda](http://www.fleng.info/images/files/FAV%20Summit%202014_DRAFT%20Agenda09292014.pdf) [Register](http://www.fleng.org/seminars.cfm?event_id=626)
-
-This list is maintained by Alain Kornhauser and hosted by the Princeton University LISTSERV.

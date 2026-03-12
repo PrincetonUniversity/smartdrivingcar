@@ -310,5 +310,3 @@ Princeton, NJ
 http://www.princeton.edu
 
 ***************************************************************************************************************
-
-This list is maintained by Alain Kornhauser and hosted by the Princeton University LISTSERV.
