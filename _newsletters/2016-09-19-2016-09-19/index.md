@@ -16,11 +16,11 @@ In long-awaited guidelines for the booming industry of automated vehicles, the O
 
 The policies unveiled on Monday were designed to walk that line. In a joint appearance, Mr. Zients and Anthony Foxx, secretary of the United States Department of Transportation, released the first guidelines, which outlined safety expectations and encouraged uniform rules for the nascent technology. The instructions signaled to motorists that automated vehicles would not be a wild west where companies can try anything without oversight, but were also vague enough that automakers and technology companies would not fear over-regulation. .." [Read more](http://www.nytimes.com/2016/09/20/technology/self-driving-cars-guidelines.html) Hmmm...Here it comes.. Looking for the details. See also NPR: [Feds To Set Rules On Self-Driving Vehicles](http://www.npr.org/sections/thetwo-way/2016/09/19/494648888/feds-to-set-rules-on-self-driving-vehicles). Alain
 
-## [Here are the details: DOT+AV+Policy+Fact+Sheets.pdf](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/DOT+AV+Policy+Fact+Sheets.pdf)
+## [Here are the details: DOT AV Policy Fact Sheets.pdf](http://orfe.princeton.edu/~alaink/SmartDrivingCars/DOT%20AV%20Policy%20Fact%20Sheets.pdf)
 
 key passage:
 
-"emphasizes that semi-automated driving systems – ones in which the human continues to monitor the driving environment and perform some of the driving task – that fail to adequately account for the possibility that a distracted or inattentive driver-occupant might fail to retake control of the vehicle in a safety-critical situation may be defined as an unreasonable risk to safety and subject to recall". [Read more](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/DOT+AV+Policy+Fact+Sheets.pdf) Hmmm....What does that mean? A truck cuts you off when you are lazily cruising down a roadway at 4:40pm on a clear afternoon. Nothing you could have done if you had your hands on the wheel in this safety critical situation. Does this trigger a recall???
+"emphasizes that semi-automated driving systems – ones in which the human continues to monitor the driving environment and perform some of the driving task – that fail to adequately account for the possibility that a distracted or inattentive driver-occupant might fail to retake control of the vehicle in a safety-critical situation may be defined as an unreasonable risk to safety and subject to recall". [Read more](http://orfe.princeton.edu/~alaink/SmartDrivingCars/DOT%20AV%20Policy%20Fact%20Sheets.pdf) Hmmm....What does that mean? A truck cuts you off when you are lazily cruising down a roadway at 4:40pm on a clear afternoon. Nothing you could have done if you had your hands on the wheel in this safety critical situation. Does this trigger a recall???
 
 Does this say that the only time that you can be distracted or inattentive is when you are NOT in automated mode.
 
@@ -48,9 +48,9 @@ S. Lohr, Sept.19, "...Today, computerized sight can quickly and accurately recog
 
 Yet the recent advances, while impressive, have been mainly in image recognition. The next frontier, researchers agree, is general visual knowledge — the development of algorithms that can understand not just objects, but also actions and behaviors...." [Read more](http://www.nytimes.com/2016/09/20/science/computer-vision-tesla-driverless-cars.html?ref=business) Hmmm...Poor title, but after first few paragraphs the article becomes good. Alain
 
-### [Uber launches self-driving cars in Pittsburgh](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Videos/uber-Pgh-cnbc.mp4)
+### [Uber launches self-driving cars in Pittsburgh](http://orfe.princeton.edu/~alaink/SmartDrivingCars/Videos/uber-Pgh-cnbc.mp4)
 
-P. LeBeau, Sept 14, "Uber is launching a pilot program to establish autonomous-drive, ride-sharing services,.." [See video](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Videos/uber-Pgh-cnbc.mp4) Hmmm...Fantastic. Couldn't be happening in a better place and Go Stillers!!! Alain
+P. LeBeau, Sept 14, "Uber is launching a pilot program to establish autonomous-drive, ride-sharing services,.." [See video](http://orfe.princeton.edu/~alaink/SmartDrivingCars/Videos/uber-Pgh-cnbc.mp4) Hmmm...Fantastic. Couldn't be happening in a better place and Go Stillers!!! Alain
 
 ### [What It's Like To Ride In A (Nearly) Self-Driving Uber](http://www.npr.org/sections/alltechconsidered/2016/09/14/493823483/self-driving-cars-take-to-the-streets-of-pittsburgh-courtesy-of-uber)
 
@@ -70,9 +70,9 @@ N. Boudette, Sept 14, "...The crash took place on Jan. 20 and killed... [Read mo
 
 J. Cichowsky, Sept 15, " ...From Washington to Los Angeles, police, lawmakers and road-safety advocates like Poedubicky want answers to a scourge that took 35,092 lives last year – 2,348 more than in 2014.... [Read more](http://www.northjersey.com/news/road-warrior-road-deaths-take-an-alarming-turn-1.1660816) Hmmm...Interesting. Alain
 
-## [On the More Technical Side](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Papers/)
+## [On the More Technical Side](http://orfe.princeton.edu/~alaink/SmartDrivingCars/Papers/)
 
-[http://orfe.princeton.edu/~alaink/SmartDrivingCars/Papers/](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Papers/)
+[http://orfe.princeton.edu/~alaink/SmartDrivingCars/Papers/](http://orfe.princeton.edu/~alaink/SmartDrivingCars/Papers/)
 
 ### [Shared Autonomous Electric Vehicle (SAEV) Operations across the Austin, Texas Network with a Focus on Charging Infrastructure Decisions](http://www.caee.utexas.edu/prof/kockelman/public_html/TRB17SAEVOperations.pdf)
 
@@ -192,13 +192,13 @@ Editorial Board, July 11, "A recent fatal crash in Florida involving a Tesla Mod
 
 Hmmm...What we know now (and don't know):
 
-1. On May 7, 2016 at about 4:40pm EDT, there was a crash between a Tesla and a Class 8 Tractor-Trailer. The accident is depicted in the [Diagram from the Police Report](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/TeslaCrash050716/PoliceReportDiagramTeslaCrash050716FrmNYT.JPG): HSMV Crash Report # 85234095. [(1)](http://www.nytimes.com/2016/07/01/business/self-driving-tesla-fatal-crash-investigation.html?rref=collection%2Ftimestopic%2FNational%20Highway%20Traffic%20Safety%20Administration&action=click&contentCollection=timestopics&region=stream&module=stream_unit&version=latest&contentPlacement=1&pgtype=collection&_r=0) [Google Earth images from the site](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/TeslaCrash050716/CrashSceneGoogleEarth.pdf).
+1. On May 7, 2016 at about 4:40pm EDT, there was a crash between a Tesla and a Class 8 Tractor-Trailer. The accident is depicted in the [Diagram from the Police Report](http://orfe.princeton.edu/~alaink/SmartDrivingCars/TeslaCrash050716/PoliceReportDiagramTeslaCrash050716FrmNYT.JPG): HSMV Crash Report # 85234095. [(1)](http://www.nytimes.com/2016/07/01/business/self-driving-tesla-fatal-crash-investigation.html?rref=collection%2Ftimestopic%2FNational%20Highway%20Traffic%20Safety%20Administration&action=click&contentCollection=timestopics&region=stream&module=stream_unit&version=latest&contentPlacement=1&pgtype=collection&_r=0) [Google Earth images from the site](http://orfe.princeton.edu/~alaink/SmartDrivingCars/TeslaCrash050716/CrashSceneGoogleEarth.pdf).
 
 2. The driver of the Tesla was [Joshua Brown](http://www.legacy.com/obituaries/ohio/obituary.aspx?pid=179994314). "No citations have been issued, but the initial accident report from the FHP indicates the truck driver "failed to yield right-of-way."" [(2)](http://www.reuters.com/article/us-tesla-autopilot-dvd-idUSKCN0ZH5BW) Hmmm....No Citations??? Did the truck have a data recorder? Was the truck impounded, if so, how is the truck driver making a living since the crash?
 
-### [Extracting Cognition out of Images for the Purpose of Autonomous Driving](http://orfe.princeton.edu/%7Ealaink/Theses/chenyiPhDfinal_ExtractingCognitionOutOfImagesForThePurposeOfAutonomousDriving.pdf)
+### [Extracting Cognition out of Images for the Purpose of Autonomous Driving](http://orfe.princeton.edu/~alaink/Theses/chenyiPhDfinal_ExtractingCognitionOutOfImagesForThePurposeOfAutonomousDriving.pdf)
 
-Chenyi Chen PhD Dissertation , "...the key part of the thesis, a direct perception approach is proposed to drive a car in a highway environment. In this approach, an input image is mapped to a small number of key perception indicators that directly relate to the affordance of a road/traffic state for driving....." [Read more](http://orfe.princeton.edu/%7Ealaink/Theses/chenyiPhDfinal_ExtractingCognitionOutOfImagesForThePurposeOfAutonomousDriving.pdf) Hmmm..[FPO 10:00am, May 16 , 120 Sherrerd Hall](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Presentations/ChenyiFPO.pdf), Establishing a foundation for image-based autonomous driving using DeepLearning Neural Networks trained in virtual environments. Very promising. Alain
+Chenyi Chen PhD Dissertation , "...the key part of the thesis, a direct perception approach is proposed to drive a car in a highway environment. In this approach, an input image is mapped to a small number of key perception indicators that directly relate to the affordance of a road/traffic state for driving....." [Read more](http://orfe.princeton.edu/~alaink/Theses/chenyiPhDfinal_ExtractingCognitionOutOfImagesForThePurposeOfAutonomousDriving.pdf) Hmmm..[FPO 10:00am, May 16 , 120 Sherrerd Hall](http://orfe.princeton.edu/~alaink/SmartDrivingCars/Presentations/ChenyiFPO.pdf), Establishing a foundation for image-based autonomous driving using DeepLearning Neural Networks trained in virtual environments. Very promising. Alain
 
 ### [Hearing focus of SF 2569 Autonomous vehicles task force establishment and demonstration project for people with disabilities](http://mnsenate.granicus.com/MediaPlayer.php?view_id=1&clip_id=235)
 
@@ -212,6 +212,4 @@ March 23 Hmmm...
 
 ### [Adam Jonas' View on Autonomous Cars](http://linkback.morganstanley.com/web/sendlink/webapp/BMServlet?file=kpmb1mve-3p5j-g000-97a7-d8d3855a5201&store=0&d=1&user=dagn42i4pkquh-0&__gda__=1549992813_42e5b148a43b27b943d8d34f1e5c3295#0011&dagn42i4pkquh-1&1549992813_f2523f33158f4db2b6d628c5c9008f28&0021&dagn42i4pkquh-2&1549992813_f9a15a1b06e61ec454fad4cc7759010a)
 
-Video similar to part of Adam's Luncheon talk @ 2015 Florida Automated Vehicle Symposium on Dec 1. [Hmmm ... Watch Video](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Videos/AdamJonas10T_MorganStanley.mp4) especially at the 13:12 mark. Compelling; especially after the 60 Minutes segment above! Also see his [TipRanks](https://www.tipranks.com/analysts/adam-jonas).
-
-This list is maintained by Alain Kornhauser and hosted by the Princeton University LISTSERV.
+Video similar to part of Adam's Luncheon talk @ 2015 Florida Automated Vehicle Symposium on Dec 1. [Hmmm ... Watch Video](http://orfe.princeton.edu/~alaink/SmartDrivingCars/Videos/AdamJonas10T_MorganStanley.mp4) especially at the 13:12 mark. Compelling; especially after the 60 Minutes segment above! Also see his [TipRanks](https://www.tipranks.com/analysts/adam-jonas).
