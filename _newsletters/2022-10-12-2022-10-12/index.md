@@ -126,5 +126,3 @@ Los
 [Unsubscribe](http://click1.e.reason.org/Unsub.do?a=u&e=alaink%40princeton.edu&mid=23460&sid=9E9EDD30-E5B6-4E75-A3B6-910EF53BA3A0&rid=18158&lid=703)
 
 ***************************************************************************************************************
-
-This list is maintained by [Alain Kornhauser](mailto:alaink@princeton.edu) and hosted by the [Princeton University LISTSERV](http://lists.princeton.edu).

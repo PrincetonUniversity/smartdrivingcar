@@ -44,5 +44,3 @@ www.theverge.com
 ➤ Tesla has released Q3-23 delivery and production numbers
 
 ***************************************************************************************************************
-
-This list is maintained by [Alain Kornhauser](mailto:alaink@princeton.edu) and hosted by the [Princeton University LISTSERV](http://lists.princeton.edu).

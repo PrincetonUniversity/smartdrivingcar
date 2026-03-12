@@ -5980,5 +5980,3 @@ Video
                                 609-980-1427 (c)
 
 ***************************************************************************************************************
-
-This list is maintained by [Alain Kornhauser](mailto:alaink@princeton.edu) and hosted by the [Princeton University LISTSERV](http://lists.princeton.edu).

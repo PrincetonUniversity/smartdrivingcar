@@ -34,5 +34,3 @@ permalink: /2022-05-23-2022-05-23/
 
 
 ***************************************************************************************************************
-
-This list is maintained by [Alain Kornhauser](mailto:alaink@princeton.edu) and hosted by the [Princeton University LISTSERV](http://lists.princeton.edu).

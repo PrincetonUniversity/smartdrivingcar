@@ -423,5 +423,3 @@ Princeton, NJ
 609-980-1427 (c)
 
 [Open Door Zoom](https://princeton.zoom.us/my/alainkorn)
-
-This list is maintained by Alain Kornhauser and hosted by the Princeton University LISTSERV.

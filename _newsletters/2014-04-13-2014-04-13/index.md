@@ -135,5 +135,3 @@ January 6, 2014
 Jan. 2, 2014 "Accident rates will plunge to near zero for SDCs, although other cars will crash into SDCs, but as the market share of SDCs on the highway grows, overall accident rates will decline steadily". Self-driving cars (SDC) that include driver control are expected to hit highways around the globe before 2025 and self-driving "only" cars are anticipated around 2030, according to an emerging technologies study on Autonomous Cars from IHS Automotive, driven by Polk. [Read more](http://press.ihs.com/press-release/automotive/self-driving-cars-moving-industrys-drivers-seat)
 
 December 27, 2013
-
-This list is maintained by Alain Kornhauser and hosted by the Princeton University LISTSERV.

@@ -105,5 +105,3 @@ Click or tap [here](#) for Thursday, April 15, 2022
 or tap [here](#) for Thursday, March 31, 2022  
 
 or tap [here](#) for Friday, February 4, 2022  
-
-This list is maintained by [Alain Kornhauser](mailto:alaink@princeton.edu) and hosted by the [Princeton University LISTSERV](http://lists.princeton.edu).

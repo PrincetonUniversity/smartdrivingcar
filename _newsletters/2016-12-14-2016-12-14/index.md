@@ -728,8 +728,7 @@ Hmmm...What we know
                 above!  Also see his [TipRanks](https://www.tipranks.com/analysts/adam-jonas).
                 Alain
 
- This list is maintained by [Alain Kornhauser](mailto:alaink@princeton.edu) and hosted by the [Princeton University LISTSERV](http://lists.princeton.edu).
-
+ 
 [Unsubscribe](https://lists.princeton.edu/cgi-bin/wa?TICKET=NzM1MjMzIGJpbm9AUFJJTkNFVE9OLkVEVSBTTUFSVERSSVZJTkdDQVJTIGluYtYkJuu3&c=SIGNOFF) |[Re-subscribe](https://lists.princeton.edu/cgi-bin/wa?SUBED1=SmartDrivingCars&A=1)
 
   [Mailto:alaink@princeton.edu](Mailto:alaink@princeton.edu) 
@@ -739,5 +738,3 @@ Hmmm...What we know
                                         the [Princeton University LISTSERV](http://lists.princeton.edu).
 
 ***************************************************************************************************************
-
-This list is maintained by [Alain Kornhauser](mailto:alaink@princeton.edu) and hosted by the [Princeton University LISTSERV](http://lists.princeton.edu).

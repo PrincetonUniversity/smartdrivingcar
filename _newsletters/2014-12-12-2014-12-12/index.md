@@ -46,9 +46,7 @@ The downside is that, at least as of October, CarPlay is only built into select 
 
 Joseph White "...Voice-Activated Systems Often Don't Work Right, Can Add to Driver Distraction. Someday, cars may drive themselves. But first car makers must convince consumers their automobiles can handle simpler tasks on their own—like changing the radio station or making a phone call...." [Read more](http://www.wsj.com/articles/the-hassle-of-hands-free-car-tech-1416789679)
 
-Hmmm, of course I disagree. Why waste time dealing with changing the radio. Address the real [problem... driving the car. Give us the technology so that we don't have to drive the car. We can then handle changing the radio. :-) Alain 
-
-## [Automated driving part of the plan at extended R&D center](http://asia.nikkei.com/Business/Companies/Automated-driving-part-of-the-plan-at-extended-R-D-center?utm_campaign=cmp_364970&utm_source=getanewsletter)
+Hmmm, of course I disagree. Why waste time dealing with changing the radio. Address the real [problem... driving the car. Give us the technology so that we don't have to drive the car. We can then handle changing the radio. :-) Alain ## [Automated driving part of the plan at extended R&D center](http://asia.nikkei.com/Business/Companies/Automated-driving-part-of-the-plan-at-extended-R-D-center?utm_campaign=cmp_364970&utm_source=getanewsletter)
 
 MAYUKO TANI Nov. 28, 2014 "German autoparts titan Continental opened an extension of its R&D center in Singapore Thursday. The bigger center will speed up development of intelligent systems for cars, which is crucial in developing automated vehicles.
 
@@ -221,5 +219,3 @@ So after more than 10 years of the mandate we will be at <68% non-impaired of th
 NHTSA believes that V2V capability will not develop absent regulation, because there would not be any immediate safety benefits for consumers who are early adopters of V2V".
 
 Yet, if NHTSA instead "mandated" or encouraged/focused-on automated collision avoidance and automated lane keeping systems, then each of these systems would deliver some immediate safety benefits to each consumer, irrespective of any other vehicle having the system. Some benefit would also be delivered if the driver became impaired. Moreover, insurance may be willing and able to pay for much of this technology. Seems that this is the low hanging fruit. What am I missing here? Why is the sunk investment in V2V seemingly all that is steering the NHTSA ship? Alain
-
-This list is maintained by Alain Kornhauser and hosted by the Princeton University LISTSERV.

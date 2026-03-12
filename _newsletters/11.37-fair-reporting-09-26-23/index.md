@@ -16,5 +16,3 @@ As transportation researchers, we aim to present pathways that embrace technolog
 AV companies have invested tens of billions of dollars testing this technology with the goal of improving safety and accessibility. Now it is time for better policies that will enable scaling of this technology in a way that is in the public interest — that will improve safety for occupants and pedestrians, enable sharing, and provide greater accessibility to all riders." [Read more](https://thehill.com/opinion/technology/4204557-dont-fall-prey-to-the-panic-over-automated-vehicles/) Hmmmm… Extremely well said.. Alain
 
 ***
-
-This list is maintained by Alain Kornhauser and hosted by the Princeton University LISTSERV.

@@ -173,5 +173,3 @@ Featured sessions include: …."
 Return of [C'mon Man](https://www.youtube.com/watch?v=sR5mh8hwegg&pp=ygUJYydtb24gbWFu) Section
 
 (in case you are wondering, yes, I did stumble upon the following Click-bait Journalism)
-
-This list is maintained by [Alain Kornhauser](mailto:alaink@princeton.edu) and hosted by the [Princeton University LISTSERV](http://lists.princeton.edu).

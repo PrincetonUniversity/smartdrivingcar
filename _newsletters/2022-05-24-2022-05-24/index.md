@@ -26,5 +26,3 @@ Please check out Promo Video and let me know your thoughts in a
 
 
 ***************************************************************************************************************
-
-This list is maintained by [Alain Kornhauser](mailto:alaink@princeton.edu) and hosted by the [Princeton University LISTSERV](http://lists.princeton.edu).
