@@ -111,3 +111,10 @@ Created _newsletters/13.13-RollOut-9.13.25/index.md
 2026-03-17 14:52:10,536 - INFO - Created _newsletters/14.6-NHTSA_AV_Safety_Forum-3.14.26/index.md
 2026-03-17 14:52:10,536 - INFO - Removed processed file: inbox/2026-03-17-AAMkADkwNjZjMmVlLTlkN2UtNDY2OC04ZmQ4LThmNzAxNzE4ZjUzMwBGAAAAAADF5XNPAAPpSZHt7RO3xQ4MBwAMy_AuoORGQLxolH18czl2AAIiw_mnAAAMy_AuoORGQLxolH18czl2AAJtX5oBAAA=.eml
 2026-03-17 14:52:10,623 - INFO - Processing complete. Success: 1, Failed: 0
+2026-04-06 20:31:42,595 - INFO - Starting newsletter processing at 2026-04-06T20:31:42.595010
+2026-04-06 20:31:42,595 - INFO - Found 1 .eml file(s) in inbox
+2026-04-06 20:31:42,595 - INFO - Processing: inbox/SmartDrivingCar-14.7-Refections of the Past-4.04.26.eml
+2026-04-06 20:31:43,291 - INFO - SUCCESS: inbox/SmartDrivingCar-14.7-Refections of the Past-4.04.26.eml
+2026-04-06 20:31:43,291 - INFO - Created _newsletters/14.7-Refections%20of%20the%20Past-4.04.26/index.md
+2026-04-06 20:31:43,292 - INFO - Removed processed file: inbox/SmartDrivingCar-14.7-Refections of the Past-4.04.26.eml
+2026-04-06 20:31:43,399 - INFO - Processing complete. Success: 1, Failed: 0
