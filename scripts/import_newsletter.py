@@ -68,8 +68,8 @@ def extract_body_from_eml(path: str) -> str:
 
 
 def extract_first_date(text):
-    # Match formats like "Thursday, Aug. 28, 2025" or similar
-    date_regex = re.compile(r'(?:Monday|Tuesday|Wednesday|Thursday|Friday|Saturday|Sunday),?\s+[A-Z][a-z]+\.\s+\d{1,2},\s+\d{4}', re.IGNORECASE)
+    # Match formats like "Thursday, Aug. 28, 2025" or "Saturday, April 4, 2026"
+    date_regex = re.compile(r'(?:Monday|Tuesday|Wednesday|Thursday|Friday|Saturday|Sunday),?\s+[A-Z][a-z]+\.?\s+\d{1,2},\s+\d{4}', re.IGNORECASE)
     match = date_regex.search(text)
     if match:
         return match.group(0)
@@ -97,10 +97,11 @@ def remove_first_date_and_link(html, date_str):
 
 def extract_author_slug(text):
     """Extract the slug from SmartDrivingCar.Com/<slug> pattern in the content."""
+    from urllib.parse import unquote
     # Match SmartDrivingCar.Com/slug (case insensitive)
     match = re.search(r'smartdrivingcar\.com/([^\s<>\'"]+)', text, re.IGNORECASE)
     if match:
-        slug = match.group(1).strip()
+        slug = unquote(match.group(1).strip())
         # Clean up any trailing punctuation
         slug = re.sub(r'[.,;:!?]+$', '', slug)
         # Take only the last path segment (avoid capturing URL path prefixes)
@@ -108,6 +109,8 @@ def extract_author_slug(text):
             slug = slug.rsplit('/', 1)[-1]
         # Strip redundant SmartDrivingCar.Com- prefix (dash variant)
         slug = re.sub(r'^smartdrivingcar\.com-', '', slug, flags=re.IGNORECASE)
+        # Replace spaces (from URL-decoded %20) with dashes
+        slug = re.sub(r'\s+', '-', slug)
         # Validate: must look like a newsletter slug (vol.issue prefix, e.g. "13.17-...")
         if slug and re.match(r'^\d+\.\d+', slug):
             return slug
@@ -300,8 +303,8 @@ def main():
         'jul': 7, 'aug': 8, 'sep': 9, 'oct': 10, 'nov': 11, 'dec': 12,
     }
 
-    # Try to parse text date like "Friday, Nov. 14, 2025" or "Aug. 14, 2025"
-    date_match = re.search(r'([A-Za-z]+)\.\s*(\d{1,2}),\s*(\d{4})', date_for_yaml)
+    # Try to parse text date like "Friday, Nov. 14, 2025" or "April 4, 2026"
+    date_match = re.search(r'([A-Za-z]+)\.?\s*(\d{1,2}),\s*(\d{4})', date_for_yaml)
     if date_match:
         month_str = date_match.group(1).lower()
         month_num = month_map.get(month_str, 1)
