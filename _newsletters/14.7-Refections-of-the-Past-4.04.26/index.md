@@ -1,14 +1,13 @@
 ---
 layout: newsletter
-title: "Saturday, Mar. 14, 2026"
-date: 2026-03-14
-permalink: /14.7-Refections%20of%20the%20Past-4.04.26/
-display_name: "14.7 - Refections%20Of%20The%20Past"
+title: "Saturday, April 4, 2026"
+date: 2026-04-04
+permalink: /14.7-Refections-of-the-Past-4.04.26/
+display_name: "14.7 - Refections Of The Past"
 ---
 
 .
 
- April 4, 2026
  of the Past-4.04.26
 7th
 edition of the 14th year of SmartDrivingCars eLetter

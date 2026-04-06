@@ -40,8 +40,8 @@ MONTH_MAP = {
 
 def parse_date_to_iso(date_str: str) -> str:
     """Convert a date string (text or ISO) to YYYY-MM-DD format."""
-    # Try abbreviated month format: "Aug. 14, 2025"
-    date_match = re.search(r'([A-Za-z]+)\.\s*(\d{1,2}),\s*(\d{4})', date_str)
+    # Try month format: "Aug. 14, 2025" or "April 4, 2026"
+    date_match = re.search(r'([A-Za-z]+)\.?\s*(\d{1,2}),\s*(\d{4})', date_str)
     if date_match:
         month_str = date_match.group(1).lower()
         month_num = MONTH_MAP.get(month_str, 1)
