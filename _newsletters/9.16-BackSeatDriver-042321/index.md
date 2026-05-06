@@ -522,17 +522,7 @@ It
                                                           us to
                                                           nisbehave is
                                                           search of
-                                                          exp[eriencing those dreams. Those are inspired and created to please just a few individuals, the leaders of the corporations that make and want to us to buy these cars.  They can simply lead by insisting that their messeages and the messages produced by their minions don't enjender such behavior.  As I've written, autoPilot and maybe even FSD, are fantastic Comfort & Control features and may well substantially
-                                                          improve
-                                                          safety, but
-                                                          only if they
-                                                          are used
-                                                          responsibly.
-                                                          The proper use
-                                                          should not be
-                                                          drowned out by
-                                                          hype that
-                                                          clearly can
+                                                          exp[eriencing those dreams. Those are inspired and created to please just a few individuals, the leaders of the corporations that make and want to us to buy these cars.  They can simply lead by insisting that their messeages and the messages produced by their minions don't enjender such behavior.  As I've written, autoPilot and maybe even FSD, are fantastic Comfort & Control features and may well substantially improve safety, but only if they are used responsibly. The proper use should not be drowned out by hype that clearly can
                                                           result in
                                                           tagedy.
 
