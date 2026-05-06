@@ -118,3 +118,15 @@ Created _newsletters/13.13-RollOut-9.13.25/index.md
 2026-04-06 20:31:43,291 - INFO - Created _newsletters/14.7-Refections%20of%20the%20Past-4.04.26/index.md
 2026-04-06 20:31:43,292 - INFO - Removed processed file: inbox/SmartDrivingCar-14.7-Refections of the Past-4.04.26.eml
 2026-04-06 20:31:43,399 - INFO - Processing complete. Success: 1, Failed: 0
+2026-05-06 19:17:27,175 - INFO - Starting newsletter processing at 2026-05-06T19:17:27.175488
+2026-05-06 19:17:27,175 - INFO - Found 2 .eml file(s) in inbox
+2026-05-06 19:17:27,175 - INFO - Processing: inbox/SmartDrivingCar-14.8-Atlanta RoadTrip-4.17.26.eml
+2026-05-06 19:17:27,782 - INFO - SUCCESS: inbox/SmartDrivingCar-14.8-Atlanta RoadTrip-4.17.26.eml
+2026-05-06 19:17:27,782 - INFO - Created _newsletters/14.8-AutomatedTrucks-4.17.26/index.md
+2026-05-06 19:17:27,783 - INFO - Removed processed file: inbox/SmartDrivingCar-14.8-Atlanta RoadTrip-4.17.26.eml
+2026-05-06 19:17:27,910 - INFO - Processing: inbox/SmartDrivingCar-14.9-BeijingAutoShow-5.03.26.eml
+2026-05-06 19:17:28,415 - INFO - SUCCESS: inbox/SmartDrivingCar-14.9-BeijingAutoShow-5.03.26.eml
+2026-05-06 19:17:28,415 - INFO - Created newsletter/2026/05/index.md
+Created _newsletters/14.9-BeijingAutoShow-5.03.26/index.md
+2026-05-06 19:17:28,416 - INFO - Removed processed file: inbox/SmartDrivingCar-14.9-BeijingAutoShow-5.03.26.eml
+2026-05-06 19:17:28,418 - INFO - Processing complete. Success: 2, Failed: 0
