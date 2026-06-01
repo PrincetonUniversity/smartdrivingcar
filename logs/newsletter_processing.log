@@ -130,3 +130,10 @@ Created _newsletters/13.13-RollOut-9.13.25/index.md
 Created _newsletters/14.9-BeijingAutoShow-5.03.26/index.md
 2026-05-06 19:17:28,416 - INFO - Removed processed file: inbox/SmartDrivingCar-14.9-BeijingAutoShow-5.03.26.eml
 2026-05-06 19:17:28,418 - INFO - Processing complete. Success: 2, Failed: 0
+2026-06-01 13:58:28,636 - INFO - Starting newsletter processing at 2026-06-01T13:58:28.636450
+2026-06-01 13:58:28,636 - INFO - Found 1 .eml file(s) in inbox
+2026-06-01 13:58:28,636 - INFO - Processing: inbox/SmartDrivingCar-14.10-SevalOz-5.23.26.eml
+2026-06-01 13:58:29,364 - INFO - SUCCESS: inbox/SmartDrivingCar-14.10-SevalOz-5.23.26.eml
+2026-06-01 13:58:29,364 - INFO - Created _newsletters/14.9-BeijingAutoShow-5.03.26/index.md
+2026-06-01 13:58:29,365 - INFO - Removed processed file: inbox/SmartDrivingCar-14.10-SevalOz-5.23.26.eml
+2026-06-01 13:58:29,479 - INFO - Processing complete. Success: 1, Failed: 0
