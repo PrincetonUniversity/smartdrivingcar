@@ -59,16 +59,19 @@ def load_config(config_path='config/newsletter_config.yml'):
         config['scrub_git_history'] = os.environ['NEWSLETTER_SCRUB_GIT_HISTORY'].lower() == 'true'
 
     # Logging overrides
-    if 'logging' not in config:
-        config['logging'] = {}
-
     if os.environ.get('NEWSLETTER_LOG_ENABLED'):
+        if 'logging' not in config:
+            config['logging'] = {}
         config['logging']['enabled'] = os.environ['NEWSLETTER_LOG_ENABLED'].lower() == 'true'
 
     if os.environ.get('NEWSLETTER_LOG_FILE'):
+        if 'logging' not in config:
+            config['logging'] = {}
         config['logging']['file'] = os.environ['NEWSLETTER_LOG_FILE']
 
     if os.environ.get('NEWSLETTER_LOG_LEVEL'):
+        if 'logging' not in config:
+            config['logging'] = {}
         config['logging']['level'] = os.environ['NEWSLETTER_LOG_LEVEL']
 
     if os.environ.get('NEWSLETTER_AI_POST_PROCESS'):

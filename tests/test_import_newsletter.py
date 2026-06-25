@@ -15,7 +15,9 @@ from import_newsletter import (
     extract_body_from_eml,
     extract_first_date,
     remove_sdc_line,
-    add_margins_to_markdown
+    add_margins_to_markdown,
+    extract_slug_from_subject,
+    extract_author_slug,
 )
 
 
@@ -209,6 +211,23 @@ class TestIntegration:
                 assert os.path.exists(newsletters_dir)
             finally:
                 os.chdir(original_cwd)
+
+
+class TestExtractSlugFromSubject:
+    def test_extract_slug_with_domain_prefix(self):
+        subject = "SmartDrivingCar.com/13.01-Welcome Back -2/2/24"
+        assert extract_slug_from_subject(subject) == "13.01-welcome-back-2-2-24"
+
+    def test_extract_slug_direct_patterns(self):
+        subject1 = "SmartDrivingCar-14.10-SevalOz-5.23.26"
+        assert extract_slug_from_subject(subject1) == "14.10-sevaloz-5.23.26"
+
+        subject2 = "SmartDrivingCars eLetter...14.11-BocaRatonAV_Conference-6.02.26"
+        assert extract_slug_from_subject(subject2) == "14.11-bocaratonav-conference-6.02.26"
+
+    def test_extract_slug_invalid_or_missing(self):
+        assert extract_slug_from_subject("Hello World") is None
+        assert extract_slug_from_subject("SmartDrivingCars Newsletter - Aug. 28, 2025") is None
 
 
 if __name__ == '__main__':

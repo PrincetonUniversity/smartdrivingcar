@@ -137,3 +137,14 @@ Created _newsletters/14.9-BeijingAutoShow-5.03.26/index.md
 2026-06-01 13:58:29,364 - INFO - Created _newsletters/14.9-BeijingAutoShow-5.03.26/index.md
 2026-06-01 13:58:29,365 - INFO - Removed processed file: inbox/SmartDrivingCar-14.10-SevalOz-5.23.26.eml
 2026-06-01 13:58:29,479 - INFO - Processing complete. Success: 1, Failed: 0
+2026-06-25 09:01:12,931 - INFO - Starting newsletter processing at 2026-06-25T09:01:12.931744
+2026-06-25 09:01:12,931 - INFO - Found 2 .eml file(s) in inbox
+2026-06-25 09:01:12,932 - INFO - Processing: inbox/SmartDrivingCar-14.10-SevalOz-5.23.26.eml
+2026-06-25 09:01:13,194 - INFO - SUCCESS: inbox/SmartDrivingCar-14.10-SevalOz-5.23.26.eml
+2026-06-25 09:01:13,194 - INFO - Created _newsletters/14.10-sevaloz-5.23.26/index.md
+2026-06-25 09:01:13,194 - INFO - Removed processed file: inbox/SmartDrivingCar-14.10-SevalOz-5.23.26.eml
+2026-06-25 09:01:13,206 - INFO - Processing: inbox/SmartDrivingCars eLetter...14.11-BocaRatonAV_Conference-6.02.26.eml
+2026-06-25 09:01:13,469 - INFO - SUCCESS: inbox/SmartDrivingCars eLetter...14.11-BocaRatonAV_Conference-6.02.26.eml
+2026-06-25 09:01:13,469 - INFO - Created _newsletters/14.11-bocaratonav-conference-6.02.26/index.md
+2026-06-25 09:01:13,469 - INFO - Removed processed file: inbox/SmartDrivingCars eLetter...14.11-BocaRatonAV_Conference-6.02.26.eml
+2026-06-25 09:01:13,480 - INFO - Processing complete. Success: 2, Failed: 0

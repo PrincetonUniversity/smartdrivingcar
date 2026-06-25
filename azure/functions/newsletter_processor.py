@@ -23,6 +23,7 @@ from clean_newsletter import clean_newsletter_html
 from import_newsletter import (
     extract_first_date,
     extract_author_slug,
+    extract_slug_from_subject,
     remove_first_date_and_link,
     remove_sdc_line,
     html_to_markdown,
@@ -82,7 +83,11 @@ def process(body_html: str, subject: str, received_date: str,
     first_date = extract_first_date(cleaned_html)
 
     # Step 3: Extract author slug
-    author_slug = extract_author_slug(cleaned_html)
+    author_slug = None
+    if subject:
+        author_slug = extract_slug_from_subject(subject)
+    if not author_slug:
+        author_slug = extract_author_slug(cleaned_html)
 
     # Step 4: Determine date for YAML
     if first_date:

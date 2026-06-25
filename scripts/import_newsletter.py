@@ -129,6 +129,13 @@ def extract_slug_from_subject(subject):
         slug = slugify(raw)
         if re.match(r'^\d+\.\d+', slug):
             return slug
+
+    # Fallback: search for direct pattern like "14.10-SevalOz-5.23.26" in the subject
+    match = re.search(r'(\d+\.\d+-\S+)', subject)
+    if match:
+        slug = slugify(match.group(1).strip())
+        if re.match(r'^\d+\.\d+', slug):
+            return slug
     return None
 
 
@@ -240,14 +247,16 @@ def main():
     # Extract first date from source
     first_date = extract_first_date(raw)
 
-    # Extract author's slug from SmartDrivingCar.Com/<slug> pattern
-    author_slug = extract_author_slug(raw)
-
-    # Fallback: try extracting slug from .eml Subject header
-    if not author_slug and eml_path:
+    # Try extracting slug from .eml Subject header first (more specific/accurate than body links)
+    author_slug = None
+    if eml_path:
         subject = extract_subject_from_eml(eml_path)
         if subject:
             author_slug = extract_slug_from_subject(subject)
+
+    # Fallback: Extract author's slug from SmartDrivingCar.Com/<slug> pattern in body
+    if not author_slug:
+        author_slug = extract_author_slug(raw)
 
     # Set date value
     if args.date:
