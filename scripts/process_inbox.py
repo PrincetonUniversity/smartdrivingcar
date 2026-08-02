@@ -253,11 +253,19 @@ def process_inbox(config):
     failed = 0
     processed_files = []  # Track files for batch history scrubbing
 
-    # Process .eml files from inbox
+    # Directories to scan
+    dirs_to_scan = []
     if os.path.exists(inbox_dir):
-        eml_files = list(Path(inbox_dir).glob('*.eml'))
+        dirs_to_scan.append(inbox_dir)
+    if os.path.exists(import_dir) and import_dir != inbox_dir:
+        dirs_to_scan.append(import_dir)
+
+    for d in dirs_to_scan:
+        eml_files = sorted(list(Path(d).glob('*.eml')))
+        html_files = sorted(list(Path(d).glob('*.html')))
+
         if eml_files:
-            logger.info(f"Found {len(eml_files)} .eml file(s) in {inbox_dir}")
+            logger.info(f"Found {len(eml_files)} .eml file(s) in {d}")
             for eml_path in eml_files:
                 eml_path_str = str(eml_path)
                 if process_eml_file(eml_path_str, config):
@@ -267,11 +275,8 @@ def process_inbox(config):
                 else:
                     failed += 1
 
-    # Process .html files from import
-    if os.path.exists(import_dir):
-        html_files = list(Path(import_dir).glob('*.html'))
         if html_files:
-            logger.info(f"Found {len(html_files)} .html file(s) in {import_dir}")
+            logger.info(f"Found {len(html_files)} .html file(s) in {d}")
             for html_path in html_files:
                 html_path_str = str(html_path)
                 if process_html_file(html_path_str, config):

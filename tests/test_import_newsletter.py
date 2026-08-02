@@ -18,6 +18,7 @@ from import_newsletter import (
     add_margins_to_markdown,
     extract_slug_from_subject,
     extract_author_slug,
+    extract_slug_from_filename,
 )
 
 
@@ -225,9 +226,25 @@ class TestExtractSlugFromSubject:
         subject2 = "SmartDrivingCars eLetter...14.11-BocaRatonAV_Conference-6.02.26"
         assert extract_slug_from_subject(subject2) == "14.11-bocaratonav-conference-6.02.26"
 
+        # Subject with spaces after prefix
+        subject3 = "SmartDrivingCars_14.12-Last Straw-6.26.26"
+        assert extract_slug_from_subject(subject3) == "14.12-last-straw-6.26.26"
+
     def test_extract_slug_invalid_or_missing(self):
         assert extract_slug_from_subject("Hello World") is None
         assert extract_slug_from_subject("SmartDrivingCars Newsletter - Aug. 28, 2025") is None
+
+
+class TestExtractSlugFromFilename:
+    def test_extract_slug_html(self):
+        assert extract_slug_from_filename("import/14.12-Last Straw-6.26.26.html") == "14.12-last-straw-6.26.26"
+
+    def test_extract_slug_eml(self):
+        assert extract_slug_from_filename("import/SmartDrivingCars_14.12-Last Straw-6.26.26.eml") == "14.12-last-straw-6.26.26"
+        assert extract_slug_from_filename("inbox/SmartDrivingCars eLetter...14.11-BocaRatonAV_Conference-6.02.26.eml") == "14.11-bocaratonav-conference-6.02.26"
+
+    def test_extract_slug_invalid(self):
+        assert extract_slug_from_filename("import/random-file.html") is None
 
 
 if __name__ == '__main__':

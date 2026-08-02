@@ -1,1117 +1,304 @@
 ---
 layout: newsletter
-title: "Friday, June 26, 2026"
-date: 2026-06-26
+title: "Saturday, May 23, 2026"
+date: 2026-05-23
 permalink: /14.9-BeijingAutoShow-5.03.26/
 display_name: "14.9 - Beijingautoshow"
 ---
 
-11th
-            edition of the 14th year of SmartDrivingCars eLetter
+14.10-SevalOz-5.23.26
 
-[](https://www.thedriverlessdigest.com/p/inside-ubers-av-strategy-with-founding?utm_source=post-email-title&publication_id=3394993&post_id=199106553&utm_campaign=email-post-title&isFreemail=true&r=478g1q&triedRedirect=true&utm_medium=email)[Trump administration proposes
-              axing brake-pedal requirement for AVs in a boost for Tesla
-              Suit](https://www.thedriverlessdigest.com/p/inside-ubers-av-strategy-with-founding?utm_source=post-em!
- ail-title&publication_id=3394993&post_id=199106553&utm_campaign=email-post-title&isFreemail=true&r=478g1q&triedRedirect=true&utm_medium=email)
+10th
+edition of the 14th year of SmartDrivingCars eLetter
 
-S.
-          O'Kane, June 25, " The Trump administration's Department of
-          Transportation (DOT) has [proposed](https://public-inspection.federalregister.gov/2026-12981.pdf) new
-          changes to federal vehicle regulations that would allow
-          companies to skip including brake pedals in "vehicles designed
-          to be driven exclusively by automated driving systems."
-          …" [Read
-                  more](https://www.curbed.com/article/waymo-autonomous-vehicles-program-test-pause-nyc.html)Hmmmm… Sean:
-            Why isn't your headline "… in a boost to improve the
-              live of millions of people who need a high-quality
-              affordable ride."? That's the important boost
-            we're now getting in New Jersey, Atlanta, North Carolina and
-            the nation and surprise, surprise, it is coming out of The
-            US Department of Transportation and New Jersey! 😊
-            Note:  There aren't any brake pedals on the floor in front
-            of any of the seats in any of the United Airline planes that
-            have given me a ride recently, nor any elevators that have
-            ever given me a ride. Thank you US DoT for not only ensuring
-            safety but really championing high-quality affordable
-            mobility, especially for those who's lives can be most
-            improved and have been largely left way behind by today's
-            conventional forms of mobility. Alain
+[Congratulate
+ Seval Oz](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fdiana-fr_transportation-automation-av-activity-7462316542475563008-Rlj3&data=05%7C02%7Corfe-lists%40princeton.edu%7C5bfd1b90be9b4642ce3c08deb9d1a0ef%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C639152507883887653%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=t9sZyUMWf6kxmMrFPBsPQn2ou0Hm0BAw4zZHpIj8b7A%3D&reserved=0)
 
- [The
-                  Transportation Channel](https://www.thetransportationchannel.com/)
+Diana Furchtgott-Roth, May 18, " It's historic. Congratulate Seval Oz on her confirmation as Assistant Secretary for Research
+ and Technology at the U.S. Department of Transportation?…".  [Read
+ more](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fdiana-fr_transportation-automation-av-activity-7462316542475563008-Rlj3&data=05%7C02%7Corfe-lists%40princeton.edu%7C5bfd1b90be9b4642ce3c08deb9d1a0ef%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C639152507883914300%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=c%2BZTXXS3Khih8aq0WIWhPZv%2Brc%2BX0mzNR4bKp2FevWI%3D&reserved=0)Hmmmm…  Congratulations Seval!!!!
+ Alain
 
 [The
-                Real Case for Driverless Mobility](https://www.audible.com/pd/The-Real-Case-for-Driverless-Mobility-Audiobook/B0D9PJY6MW?eac_link=CiwdHDwLDA9n&ref=web_search_eac_asin_1&eac_selected_type=asin&eac_selected=B0D9PJY6MW&qid=502i1TXUsp&eac_id=130-7496845-4686001_502i1TXUsp&sr=1-1)
+ Transportation Channel](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.thetransportationchannel.com%2F&data=05%7C02%7Corfe-lists%40princeton.edu%7C5bfd1b90be9b4642ce3c08deb9d1a0ef%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C639152507883940731%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=Kj%2Be9EMD2xlXFFjKW4LuxM3n2DZ%2FexJ6rblmbfOrVpA%3D&reserved=0)
 
-Narrated
-              by Fred Fishkin, Available now
+[May
+ 29, 2026, Boca Raton, Fl](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.autonomousvehicleconference.com%2F&data=05%7C02%7Corfe-lists%40princeton.edu%7C5bfd1b90be9b4642ce3c08deb9d1a0ef%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C639152507883966755%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=PxatfJj1%2B0BDxCxS33tuM5a38oAjW5%2Br2zrgpxJc4Pk%3D&reserved=0)
 
-[Published](https://www.amazon.com/Real-Case-Driverless-Mobility-Vehicles/dp/0443236852/ref=sr_1_1?crid=1XSXZ611C2JCN&keywords=Kornhauser+sena&qid=1707095108&sprefix=kornhauser+sena%2Caps%2C76&sr=8-1&ufe=app_do%3Aamzn1.fos.18ed3cb5-28d5-4975-8bc7-93deae8f9840) in
-              2024 (but
-            still relevant)!!!
-             [Go to
-                Amazon.com](https://www.amazon.com/Real-Case-Driverless-Mobility-Vehicles/dp/0443236852/ref=sr_1_1?crid=1XSXZ611C2JCN&keywords=Kornhauser+sena&qid=1707095108&sprefix=kornhauser+sena%2Caps%2C76&sr=8-1&ufe=app_do%3Aamzn1.fos.18ed3cb5-28d5-4975-8bc7-93deae8f9840)…
+[The
+ Real Case for Driverless Mobility](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.audible.com%2Fpd%2FThe-Real-Case-for-Driverless-Mobility-Audiobook%2FB0D9PJY6MW%3Feac_link%3DCiwdHDwLDA9n%26ref%3Dweb_search_eac_asin_1%26eac_selected_type%3Dasin%26eac_selected%3DB0D9PJY6MW%26qid%3D502i1TXUsp%26eac_id%3D130-7496845-4686001_502i1TXUsp%26sr%3D1-1&data=05%7C02%7Corfe-lists%40princeton.edu%7C5bfd1b90be9b4642ce3c08deb9d1a0ef%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C639152507883995976%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=N4yeW1A8JJ49iF8PPketjvM%2FyRYncqdos5nSeJVXiFU%3D&reserved=0)
 
-SmartDrivingCars
-          [ZoomCast 415](https://www.youtube.com/watch?v=RHVcCgwpP_0) /
-          [PodCasts 415](https://open.spotify.com/episode/0uwZifbg8haU3AA4PPl9mS?si=HWWcCqA-Rqi2VuR_2rXlEg) Feds proposal to eliminate the
-              requirement for brake pedals
+Narrated by Fred Fishkin, Available now
 
-* [0:00](https://youtu.be/RHVcCgwpP_0?t=0) Welcome
-            back to Smart Driving Cars, episode 415.   This time out:
-            the Fed proposal to eliminate the requirement for brake
-            pedals in automated vehicles...and how it was reported.
-             Misbehavior in a Waymo vehicle.    Tesla's Texas response
-            and the reporting on the tragedy.  And a visit to Big Boy
-            4014.   Join Princeton's Alain Kornhauser and co-host Fred
-            Fishkin for all that and more.open0:28TechCrunch headline… Trump Administration Proposes Axing
-              Brake Pedal Requirement for Avs in a Boost for Tesla Suit05:12The
-              Guardian report on potential benefits of Avs06:35L.A.
-              TV report on teens riding outside a Waymo vehicle20:00Katy, Texas tragedy…NY Times report28:56Alain pays a visit to Big Boy
-* [0:00](https://www.youtube.com/watch?v=xJ2Vc7VTDs8) Open
-* [1:21](https://www.youtube.com/watch?v=xJ2Vc7VTDs8&t=81s) Mobility Industry Insights
-          Enabling Driverless Mobility to Work for Riders Requires the
-          Right Laws for the Right Reasons
-* [25:45](https://youtu.be/xJ2Vc7VTDs8?t=1524) Video from Autonomous
-          Vehicle Conference in Boca Raton- Assistant DOT Secretary for
-          Research and Technology Seval Oz.
-* [44:50](https://www.youtube.com/watch?v=xJ2Vc7VTDs8&t=2690s) How remarks were received …
-          and more on what the focus of driverless mobility should be
-* [55:13](https://www.youtube.com/watch?v=xJ2Vc7VTDs8&t=3313s) What Michael is suggesting
-          in Mobility Industry Insights about what's needed in new laws
-          and regulations
-* [0:00](https://www.youtube.com/watch?v=fhEncGQxAMk) open
-* [0:45](https://www.youtube.com/watch?v=fhEncGQxAMk&t=45s) Harvard
-          moves to cap A's
-* [4:26](https://www.youtube.com/watch?v=fhEncGQxAMk&t=266s) while
-          Princeton begins exam monitoring files form S1 pre-IPO
-* [16:23](https://www.youtube.com/watch?v=fhEncGQxAMk&t=983s) Flooding
-          causes Waymo to pause service
-* [25:06](https://www.youtube.com/watch?v=fhEncGQxAMk&t=1506s) Seval
-          Oz to keynote AV Conference in Boca Raton
-* [28:14](https://www.youtube.com/watch?v=fhEncGQxAMk&t=1694s) NVIDIA
-          powering Uber self driving push into cities
-* [30:47](https://www.youtube.com/watch?v=fhEncGQxAMk&t=1847s) Latest
-          Musing on Mobility from Michael Sena
-* [31:10](https://www.youtube.com/watch?v=fhEncGQxAMk&t=1870s) May
-          Mobility deal with EcarX for robotaxis
-* [32:05](https://www.youtube.com/watch?v=fhEncGQxAMk&t=1925s) Driverless
-          car legislation fails in Minnesota
-* [34:54](https://www.youtube.com/watch?v=fhEncGQxAMk&t=2094s) Congress
-          works on surface transportation reauthorization
-* [43:28](https://www.youtube.com/watch?v=fhEncGQxAMk&t=2608s) Alain book
-          recommendation- The Laws of Thought by Tom Griffiths
-* [0:00](https://www.youtube.com/watch?v=OVyjLVA5524) open
-* [0:50](https://www.youtube.com/watch?v=OVyjLVA5524&t=50s) Guest
-          Professor Camille Kamga at the Beijing Auto Show
-* [17:35](https://www.youtube.com/watch?v=OVyjLVA5524&t=1055s) Tesla
-          still selling well overall in China despite competition
-* [19:15](https://www.youtube.com/watch?v=OVyjLVA5524&t=1155s) EV
-          market growing in China and parts of Europe
-* [20:21](https://www.youtube.com/watch?v=OVyjLVA5524&t=1221s) Range
-          not a significant issue any longer
-* [22:00](https://www.youtube.com/watch?v=OVyjLVA5524&t=1320s) Is
-          driverless mobility going to happen? It's happening.
-* [22:45](https://www.youtube.com/watch?v=OVyjLVA5524&t=1365s) Long
-          haul trucking thoughts. Might Tesla haul freight?
-* [0:00](https://www.youtube.com/watch?v=t5LQ5KHZ6_c) open
-* [0:48](https://www.youtube.com/watch?v=t5LQ5KHZ6_c&t=48s) MIT
-          Mobility Forum with Aurora's Chris Urmson
-* [3:51](https://www.youtube.com/watch?v=t5LQ5KHZ6_c&t=231s) AMI
-          Co-Founder Yann LeCun at ORFE Princeton University- Enabling
-          the Next AI Revolution
-* [8:24](https://www.youtube.com/watch?v=t5LQ5KHZ6_c&t=504s) Uber
-          Commits 10 billion dollars to robotaxis
-* [12:01](https://www.youtube.com/watch?v=t5LQ5KHZ6_c&t=721s) more on Aurora
-* [18:52](https://www.youtube.com/watch?v=t5LQ5KHZ6_c&t=1132s) 8
-          years now since the Uber crash that killed Elaine Herzberg
-* [20:45](https://www.youtube.com/watch?v=t5LQ5KHZ6_c&t=1245s) Axios
-          reports Mobility's New Bit Three: Tesla, Waymo and Uber
-* [23:52](https://www.youtube.com/watch?v=t5LQ5KHZ6_c&t=1432s) How
-          to AI: The New Claude Charts
-* [28:15](https://www.youtube.com/watch?v=t5LQ5KHZ6_c&t=1695s) Alain starts
-          each class with map of the market
-* [30:43](https://www.youtube.com/watch?v=t5LQ5KHZ6_c&t=1843s) NY
-          Times piece headlined The Choking of Hormuz
-* [33:03](https://www.youtube.com/watch?v=t5LQ5KHZ6_c&t=1983s) NY
-          Times: Where Did All the Affordable Cars Go? And the need for
-          high quality affordable
-* [0:00](https://www.youtube.com/watch?v=prShUDhTT_o) open
-* [0:52](https://www.youtube.com/watch?v=prShUDhTT_o&t=52s) MIT
-          Mobility Forum with Karl Iagnemma
-* [2:11](https://www.youtube.com/watch?v=prShUDhTT_o&t=131s) Last PennCentral Dinky
-          remembrance
-* [9:11](https://www.youtube.com/watch?v=prShUDhTT_o&t=551s) NASA
-          Artemis II mission stirs memories
-* [12:19](https://www.youtube.com/watch?v=prShUDhTT_o&t=739s) From
-          MSN -Waymo has doubled ridership over last year
-* [16:50](https://www.youtube.com/watch?v=prShUDhTT_o&t=1010s) From
-          Simply Wall Street- V2X Trial in Bordeaux
-* [18:20](https://www.youtube.com/watch?v=prShUDhTT_o&t=1100s) Financial
-          Times headline- Self Driving Will Not Make Nissan a Commodity
-          Says CEO
-* [19:56](https://www.youtube.com/watch?v=prShUDhTT_o&t=1196s) 2026
-          Subaru Outback Gains Hands Free Driving
-* [23:24](https://www.youtube.com/watch?v=prShUDhTT_o&t=1404s) Tesla
-          Semi winning fans include Jay Leno
-* [32:27](https://www.youtube.com/watch?v=prShUDhTT_o&t=1947s) Book
-          recommendation: Why Machines Learn: The Elegant Math Behind
-          Modern AI by Anil Ananthaswamy
-* [0:00](https://www.youtube.com/watch?v=10K8xt0o0n0) open
-* [1:29](https://www.youtube.com/watch?v=10K8xt0o0n0&t=89s) NHTSA
-          holds National AV Safety Forum- Alain was there
-* [14:52](https://www.youtube.com/watch?v=10K8xt0o0n0&t=892s) Transportation
-          Secretary Sean Duffy's opening remarks
-* [24:18](https://www.youtube.com/watch?v=10K8xt0o0n0&t=1458s) Alain on
-          significance of Duffy's remarks
-* [25:33](https://www.youtube.com/watch?v=10K8xt0o0n0&t=1533s) Where
-          things go from here
-* [28:03](https://www.youtube.com/watch?v=10K8xt0o0n0&t=1683s) Alain and
-          ITN America's Katherine Freund were guests on AARP Senior
-          Planet Aging Rewired podcast on Alternative Transportation
-          Solutions for Older Adults
-* [32:24](https://www.youtube.com/watch?v=10K8xt0o0n0&t=1944s) Greater
-          Washington report on study saying Avs will super charge
-          vehicle miles traveled37:06Fast
-          Company report on hidden costs of Waymo robotaxis on SF
-          streets
-* [41:00](https://www.youtube.com/watch?v=10K8xt0o0n0&t=2460s) Alain on
-          implications of U.S. and Israel being able to control traffic
-          signals and system in Iran
-* [45:30](https://www.youtube.com/watch?v=10K8xt0o0n0&t=2730s) Doors
-          opened this past week to providing mobility to those who need
-          it
-* [0:00](https://www.youtube.com/watch?v=FRyhU6k2mPg) open
-* [0:43](https://www.youtube.com/watch?v=FRyhU6k2mPg&t=43s) NHTSA
-          request for comments on proposed Global AV Regulation draws
-          responses
-* [5:24](https://www.youtube.com/watch?v=FRyhU6k2mPg&t=324s) Timothy Lee
-          piece headlined Waymo Just Revealed a Crucial Statistic for
-          Scaling its Technology.
-* [16:30](https://www.youtube.com/watch?v=FRyhU6k2mPg&t=990s) American
-          Affairs reports- Why are American Passenger Trains Slow
-* [18:50](https://www.youtube.com/watch?v=FRyhU6k2mPg&t=1130s) Another
-          headline: The Future of Long Haul Isn't Coming…It's Here.
-* [31:13](https://www.youtube.com/watch?v=FRyhU6k2mPg&t=1873s) From
-          cars, trains and trucks…to the latest ARTEMIS news from NASA
-* [35:16](https://www.youtube.com/watch?v=FRyhU6k2mPg&t=2116s) Alain awaiting
-          compendium of MOVES findings from students
-* [35:53](https://www.youtube.com/watch?v=FRyhU6k2mPg&t=2153s) And
-          there's a new image at the bottom of the latest Smart Driving
-          Cars newsletter
-* [0:00](https://www.youtube.com/watch?v=qjCWVie-Qvw) open
-* [1:00](https://www.youtube.com/watch?v=qjCWVie-Qvw&t=60s) Alain submits
-          comments to NHTSA on new UN Global Technical Regulation on
-          Automated Driving Systems. Explains background.
-* [18:54](https://www.youtube.com/watch?v=qjCWVie-Qvw&t=1134s) Michael
-          Sena on the proposed regulation and Alain's comments
-* [26:45](https://www.youtube.com/watch?v=qjCWVie-Qvw&t=1605s) Why
-          is it important for the United States to be on board with what
-          the UN is formulating?
-* [30:00](https://www.youtube.com/watch?v=qjCWVie-Qvw&t=1800s) Focus
-          of comments is going beyond safety to societal value of
-          driverless mobility
-* [48:30](https://www.youtube.com/watch?v=qjCWVie-Qvw&t=2910s) First
-          production Cybercab has arrived
-* [59:10](https://www.youtube.com/watch?v=qjCWVie-Qvw&t=3550s) Smart
-          Driving Car newsletter links to several AI pieces
-* [1:07:30](https://www.youtube.com/watch?v=qjCWVie-Qvw&t=4050s) This
-          Week in Spaceflight NASA Starliner Report
-* [1:09:19](https://www.youtube.com/watch?v=qjCWVie-Qvw&t=4159s) Alain cheers
-          on U.S. Ice Hockey vs. Canada
-* [0:00](https://www.youtube.com/watch?v=B79VYII3JZE) open
-* [0:34](https://www.youtube.com/watch?v=B79VYII3JZE&t=34s) Waymo
-          and Tesla execs and safety experts testify on safety at Senate
-          hearing
-* [4:40](https://www.youtube.com/watch?v=B79VYII3JZE&t=280s) Missing
-          from hearing was testimony on the value proposition of
-          driverless robotaxis
-* [7:15](https://www.youtube.com/watch?v=B79VYII3JZE&t=435s) Discussion
-          ties in with update on Handy Rides and mobility needs
-* [15:17](https://www.youtube.com/watch?v=B79VYII3JZE&t=917s) Bryant
-          Walker Smith testimony at hearing and his piece with Sven
-          Beiker on riding robotaxis in China
-* [18:40](https://www.youtube.com/watch?v=B79VYII3JZE&t=1120s) SpaceX
-          Super Heavy testing begins again as Elon Musk aims to put AI
-          data centers in space
-* [25:00](https://www.youtube.com/watch?v=B79VYII3JZE&t=1500s) Inspiring
-          to Alain's latest class and futurist Chunka Mui paid a visit.
-* [27:45](https://www.youtube.com/watch?v=B79VYII3JZE&t=1665s) reminder
-          that you can find us on The Transportation Channel
-* [0:00](https://www.youtube.com/watch?v=qjCWVie-Qvw) open
-* [1:00](https://www.youtube.com/watch?v=qjCWVie-Qvw&t=60s) Alain submits
-          comments to NHTSA on new UN Global Technical Regulation on
-          Automated Driving Systems. Explains background.
-* [18:54](https://www.youtube.com/watch?v=qjCWVie-Qvw&t=1134s) Michael
-          Sena on the proposed regulation and Alain's comments
-* [26:45](https://www.youtube.com/watch?v=qjCWVie-Qvw&t=1605s) Why
-          is it important for the United States to be on board with what
-          the UN is formulating?
-* [30:00](https://www.youtube.com/watch?v=qjCWVie-Qvw&t=1800s) Focus
-          of comments is going beyond safety to societal value of
-          driverless mobility
-* [48:30](https://www.youtube.com/watch?v=qjCWVie-Qvw&t=2910s) First
-          production Cybercab has arrived
-* [59:10](https://www.youtube.com/watch?v=qjCWVie-Qvw&t=3550s) Smart
-          Driving Car newsletter links to several AI pieces
-* [1:07:30](https://www.youtube.com/watch?v=qjCWVie-Qvw&t=4050s) This
-          Week in Spaceflight NASA Starliner Report
-* [1:09:19](https://www.youtube.com/watch?v=qjCWVie-Qvw&t=4159s) Alain cheers
-          on U.S. Ice Hockey vs. Canada
-* [0:00](https://www.youtube.com/watch?v=IGD6xtq4weA) open
-* [1:00](https://www.youtube.com/watch?v=IGD6xtq4weA&t=60s) Michael
-          Sena on latest Mobility Industry Insights- Addressing the
-          Opposition to Driverless Riding
-* [7:50](https://www.youtube.com/watch?v=IGD6xtq4weA&t=470s) A
-          great number of people are not taking trips
-* [19:23](https://www.youtube.com/watch?v=IGD6xtq4weA&t=1163s) Factors
-          beyond safety have to be taken into account when it comes to
-          driverless riding
-* [39:30](https://www.youtube.com/watch?v=IGD6xtq4weA&t=2370s) At
-          Transportation Research Board annual meeting, Seval Oz,
-          nominee to lead research at Department of Transportation,
-          pointed out that technology can address trips that aren't
-          being taken today, providing mobility to more.
-* [45:45](https://www.youtube.com/watch?v=IGD6xtq4weA&t=2745s) Alain and
-          Michael debate over whether driverless riding will increase
-          congestion
-* [54:00](https://www.youtube.com/watch?v=IGD6xtq4weA&t=3240s) Whether
-          driverless riding increases congestion or not, the technology
-          is needed to provide affordable rides to those who need them
-* [59:50](https://www.youtube.com/watch?v=IGD6xtq4weA&t=3590s) The
-          opportunity here is to provide mobility and technology has
-          advanced to allow it.
-* [0:00](https://www.youtube.com/watch?v=IGD6xtq4weA) open
-* [1:00](https://www.youtube.com/watch?v=IGD6xtq4weA&t=60s) Michael
-          Sena on latest Mobility Industry Insights- Addressing the
-          Opposition to Driverless Riding
-* [7:50](https://www.youtube.com/watch?v=IGD6xtq4weA&t=470s) A
-          great number of people are not taking trips
-* [19:23](https://www.youtube.com/watch?v=IGD6xtq4weA&t=1163s) Factors
-          beyond safety have to be taken into account when it comes to
-          driverless riding
-* [39:30](https://www.youtube.com/watch?v=IGD6xtq4weA&t=2370s) At
-          Transportation Research Board annual meeting, Seval Oz,
-          nominee to lead research at Department of Transportation,
-          pointed out that technology can address trips that aren't
-          being taken today, providing mobility to more.
-* [45:45](https://www.youtube.com/watch?v=IGD6xtq4weA&t=2745s) Alain and
-          Michael debate over whether driverless riding will increase
-          congestion
-* [54:00](https://www.youtube.com/watch?v=IGD6xtq4weA&t=3240s) Whether
-          driverless riding increases congestion or not, the technology
-          is needed to provide affordable rides to those who need them
-* [59:50](https://www.youtube.com/watch?v=IGD6xtq4weA&t=3590s) The
-          opportunity here is to provide mobility and technology has
-          advanced to allow it.
-* [0:00](https://www.youtube.com/watch?v=abXGGuxTKo4) open
-* [0:25](https://www.youtube.com/watch?v=abXGGuxTKo4&t=25s) The
-          story of ITN America with Katherine Freund and Marian
-          Sturtevant
-* [33:30](https://www.youtube.com/watch?v=abXGGuxTKo4&t=2010s) Tesla
-          testing driverless in Austin
-* [38:00](https://www.youtube.com/watch?v=abXGGuxTKo4&t=2280s) Administrative Law
-          Judge in California rules Tesla misled with Autopilot and FSD
-          naming
-* [40:19](https://www.youtube.com/watch?v=abXGGuxTKo4&t=2419s) Waymo
-          in talks to raise more than 15 billion dollars more
-* [0:00](https://www.youtube.com/watch?v=_00GE1Rp-9Q&list=PLFwuZ9jMeu5uwfTZP00zHjP7eSpG34Hsm&index=1) open
-* [0:30](https://www.youtube.com/watch?v=_00GE1Rp-9Q&list=PLFwuZ9jMeu5uwfTZP00zHjP7eSpG34Hsm&index=1&t=30s) introduction
-          of a from the University of Florence
-* [6:26](https://www.youtube.com/watch?v=_00GE1Rp-9Q&list=PLFwuZ9jMeu5uwfTZP00zHjP7eSpG34Hsm&index=1&t=386s) Plans
-          for growth of TUSS
-* [9:04](https://www.youtube.com/watch?v=_00GE1Rp-9Q&list=PLFwuZ9jMeu5uwfTZP00zHjP7eSpG34Hsm&index=1&t=544s) Concept
-          of starting small and reasons for not using self
-          driving vehicles
-* [14:45](https://www.youtube.com/watch?v=_00GE1Rp-9Q&list=PLFwuZ9jMeu5uwfTZP00zHjP7eSpG34Hsm&index=1&t=885s) TUSS
-          does not have the issue of paying for drivers and succeeds in
-          offering ride sharing
-* [29:20](https://www.youtube.com/watch?v=_00GE1Rp-9Q&list=PLFwuZ9jMeu5uwfTZP00zHjP7eSpG34Hsm&index=1&t=1760s) TUSS
-          is financially self sustainable
-* [36:20](https://www.youtube.com/watch?v=_00GE1Rp-9Q&list=PLFwuZ9jMeu5uwfTZP00zHjP7eSpG34Hsm&index=1&t=2180s) Handy
-          Rides opting for driverless when possible
-* [45:40](https://www.youtube.com/watch?v=_00GE1Rp-9Q&list=PLFwuZ9jMeu5uwfTZP00zHjP7eSpG34Hsm&index=1&t=2740s) NY
-          Times guest essay from neurosurgeon- Don't Fear Self Driving
-          Cars. They Save Lives.
-* [48:30](https://www.youtube.com/watch?v=_00GE1Rp-9Q&list=PLFwuZ9jMeu5uwfTZP00zHjP7eSpG34Hsm&index=1&t=2910s) Roads
-          and infrastructure need improvements for self driving to
-          succeed.
-* [54:00](https://www.youtube.com/watch?v=_00GE1Rp-9Q&list=PLFwuZ9jMeu5uwfTZP00zHjP7eSpG34Hsm&index=1&t=3240s) Minnesota
-          Star Tribune piece on efforts by May Mobility
-* [0:00](https://www.youtube.com/watch?v=HMr7t0RNqPA) Open
-          and welcome to Alex Roy
-* [2:40](https://www.youtube.com/watch?v=HMr7t0RNqPA&t=160s) Alex
-          Roy presentation on the Past, Present & Future of Self
-          Driving
-* [4:54](https://www.youtube.com/watch?v=HMr7t0RNqPA&t=294s) Alex
-          presents The True History of Self Driving from Da Vinci to
-          today
-* [10:47](https://www.youtube.com/watch?v=HMr7t0RNqPA&t=647s) Could
-          in vehicle humanoid robots be helpful
-* [19:50](https://www.youtube.com/watch?v=HMr7t0RNqPA&t=1190s) from
-          DARPA on
-* [31:30](https://www.youtube.com/watch?v=HMr7t0RNqPA&t=1890s) In
-          2025 Waymo scales operations and Tesla robotaxis launch
-* [34:00](https://www.youtube.com/watch?v=HMr7t0RNqPA&t=2040s) Roy's
-          Razor -the test of what really is self-driving
-* [40:30](https://www.youtube.com/watch?v=HMr7t0RNqPA&t=2430s) SAE Levels
-          should be done away with
-* [44:55](https://www.youtube.com/watch?v=HMr7t0RNqPA&t=2695s) A
-          focus on affordability?
-* [48:20](https://www.youtube.com/watch?v=HMr7t0RNqPA&t=2900s) Tesla
-          owners could be paid for use of vehicle compute power for AI
-* [50:25](https://www.youtube.com/watch?v=HMr7t0RNqPA&t=3025s) Elon
-          Musk is saying drivers using FSD may soon be able to text and
-          drive
-* [54:55](https://www.youtube.com/watch?v=HMr7t0RNqPA&t=3295s) Congratulationson
-          ITN America's 30 years of providing rides
-* [0:00](https://www.youtube.com/watch?v=O0yB5nlnhLI) Open
-* [48:09](https://www.youtube.com/watch?v=O0yB5nlnhLI&t=2889s) If Alain could
-          have known 20 years ago where the technology is today, would
-          there be satisfaction or disappointment
-* [54:36](https://www.youtube.com/watch?v=O0yB5nlnhLI&t=3276s) Waymo
-          gaining popularity in SF
-* [57:00](https://www.youtube.com/watch?v=O0yB5nlnhLI&t=3420s) Alain gets
-          a surprise honor from ITS, the Intelligent Transportation
-          Society of NJ
-* [0:00](https://www.youtube.com/watch?v=CONVOZ1kkxQ) open
-* [1:30](https://www.youtube.com/watch?v=CONVOZ1kkxQ&t=90s) Mobility
-          Industry Insights- In Silos Without Windows- where driverless
-          mobility research and development is being done.
-* [8:13](https://www.youtube.com/watch?v=CONVOZ1kkxQ&t=493s) With
-          driverless cars…has anyone asked why they are needed? What are
-          we trying to accomplish?
-* [10:19](https://www.youtube.com/watch?v=CONVOZ1kkxQ&t=619s) Alain:
-          Nobody is getting it…the reason why
-* [15:05](https://www.youtube.com/watch?v=CONVOZ1kkxQ&t=905s) Now
-          we are layering over AI
-* [24:30](https://www.youtube.com/watch?v=CONVOZ1kkxQ&t=1470s) The
-          concept of latent demand for rides has mostly been ignored
-* [29:10](https://www.youtube.com/watch?v=CONVOZ1kkxQ&t=1750s) Recalling
-          the navigation episode of "The Office"
-* [32:00](https://www.youtube.com/watch?v=CONVOZ1kkxQ&t=1920s) The
-          reason for developing standards
-* [34:37](https://www.youtube.com/watch?v=CONVOZ1kkxQ&t=2077s) The
-          focus needs move to making driverless mobility work for all
-          riders
-* [41:20](https://www.youtube.com/watch?v=CONVOZ1kkxQ&t=2480s) Affordability
-          is really important
-* [47:08](https://www.youtube.com/watch?v=CONVOZ1kkxQ&t=2828s) Main
-          value of automobiles? They don't poop in the street?50:50Is
-          safety the question?
-* [3:18](https://www.youtube.com/watch?v=CONVOZ1kkxQ&t=3198s) MIT
-          Mobility Forum sessions continue
-* [54:00](https://www.youtube.com/watch?v=CONVOZ1kkxQ&t=3240s) Business
-          Insider -Ashok Elluswamy is the most powerful Tesla exec
-          you've never heard of.
-* [54:45](https://www.youtube.com/watch?v=CONVOZ1kkxQ&t=3285s) InsideEVs report
-          on woman posting a party from Tesla driver
-          seat…and Alain recalls TJ Smith online posting of his
-          Buttercup California drive from a dozen years ago!
-* [0:00](https://www.youtube.com/watch?v=If-qkyqiM6s) open
-* [0:55](https://www.youtube.com/watch?v=If-qkyqiM6s&t=55s) Kai
-          Williams from Understanding AI on his piece: Very Few of
-          Waymo's Most Serious Crashes Were Waymo's Fault
-* [33:30](https://www.youtube.com/watch?v=If-qkyqiM6s&t=2010s) Adam
-          Jonas at Morgan Stanley: AI is about to get physical
-* [35:30](https://www.youtube.com/watch?v=If-qkyqiM6s&t=2130s) The
-          Verge headline Robotaxis as public transit? Waymo thinks so.
-* [37:00](https://www.youtube.com/watch?v=If-qkyqiM6s&t=2220s) Waymo
-          gets green light for airport service in SF
-* [40:45](https://www.youtube.com/watch?v=If-qkyqiM6s&t=2445s) McKinsey
-          conference video on Waymo's vision for the future of mobility
-          share
-* [41:10](https://www.youtube.com/watch?v=If-qkyqiM6s&t=2470s) Business
-          Insider- Uber CEO says robotaxis could displace drivers in 10
-          to 15 years and discussion on The Real Case for Driverless
-          Mobility
-* [52:59](https://www.youtube.com/watch?v=If-qkyqiM6s&t=3179s) Update
-          on Handy Rides
-* [53:25](https://www.youtube.com/watch?v=If-qkyqiM6s&t=3205s) Inside
-          EVs: The Car Stopped Itself: Tesla Collision Avoidance
-          Assist Lives Up to Its Name
-* [0:00](https://www.youtube.com/watch?v=zDXs5tdkWtw) open
-* [0:57](https://www.youtube.com/watch?v=zDXs5tdkWtw&t=57s) Elon
-          Musk changes Tesla narrative
-* [9:29](https://www.youtube.com/watch?v=zDXs5tdkWtw&t=569s) Tesla
-          out with latest master plan- discussion on historical mobility
-          needs
-* [23:50](https://www.youtube.com/watch?v=zDXs5tdkWtw&t=1430s) Energy
-          sources and consumption discussion
-* [28:20](https://www.youtube.com/watch?v=zDXs5tdkWtw&t=1700s) Tesla
-          master plan key is affordability
-* [30:45](https://www.youtube.com/watch?v=zDXs5tdkWtw&t=1845s) Tesla
-          gets okay for robotaxi testing in Nevada while Zoox begins
-          robotaxi testing in Las Vegas
-* [38:19](https://www.youtube.com/watch?v=zDXs5tdkWtw&t=2299s) Debate
-          on whether robotaxis/self driving vehicles are safer than
-          those driven by humans
-* [43:16](https://www.youtube.com/watch?v=zDXs5tdkWtw&t=2596s) Harvard
-          Business School piece asks Why People Blame Self Driving Cars
-          More Than Human Drivers
-* [51:11](https://www.youtube.com/watch?v=zDXs5tdkWtw&t=3071s) Where
-          are Driverless Cars Going in New York City
-* [53:50](https://www.youtube.com/watch?v=zDXs5tdkWtw&t=3230s) From
-          NY Times Taxi Driver Runs Over Man Who Once Escaped Custody on
-          a City Bus- more debate about perception of driverless
-          vehicles
-* [57:30](https://www.youtube.com/watch?v=zDXs5tdkWtw&t=3450s) Colorado
-          plane crash claims life of long time friend and student
-          of Alain's.
-* [1:00:45](https://www.youtube.com/watch?v=zDXs5tdkWtw&t=3645s) Kelly
-          Funkhouser joins NVIDIA from Consumer Reports
-* [1:01:09](https://www.youtube.com/watch?v=zDXs5tdkWtw&t=3669s) Handy
-          Rides soft launch is underway
-* [0:00](https://www.youtube.com/watch?v=jU_Tyu13tg4) open
-* [0:57](https://www.youtube.com/watch?v=jU_Tyu13tg4&t=57s) Starship
-          Flight Ten amazes
-* [8:10](https://www.youtube.com/watch?v=jU_Tyu13tg4&t=490s) ASU's
-          Dr. Steven Polzin has report on transportation governance
-* [21:28](https://www.youtube.com/watch?v=jU_Tyu13tg4&t=1288s) Local
-          TV covers NYC taxi drivers call to stop Waymo's driverless
-          cars in the city
-* [23:52](https://www.youtube.com/watch?v=jU_Tyu13tg4&t=1432s) Fortune
-          report on Tesla self driving vehicles being tested in Boring
-          Company tunnels
-* [28:50](https://www.youtube.com/watch?v=jU_Tyu13tg4&t=1730s) Electrek reports
-          Tesla decision not to settle may cost company extra 183
-          million dollars
-* [29:18](https://www.youtube.com/watch?v=jU_Tyu13tg4&t=1758s) Teslarati report
-          on Tesla doing more to encourage more uptake of FSD
-* [30:45](https://www.youtube.com/watch?v=jU_Tyu13tg4&t=1845s) NHTSA
-          reports Tesla had not been submitting incident reports on time
-* [33:35](https://www.youtube.com/watch?v=jU_Tyu13tg4&t=2015s) A little
-          update on Handy Rides
-* [0:00](https://www.youtube.com/watch?v=BL1JZIPYLp8) open
-* [0:30](https://www.youtube.com/watch?v=BL1JZIPYLp8&t=30s) Revel
-          shuts down Model Y ride hailing
-* [5:04](https://www.youtube.com/watch?v=BL1JZIPYLp8&t=304s) Waymo
-          and Tesla look to bring robotaxis to NYC
-* [7:36](https://www.youtube.com/watch?v=BL1JZIPYLp8&t=456s) CNBC
-          reports Tesla analyst Adam Jonas moving to new role at Morgan
-          Stanley
-* [11:35](https://www.youtube.com/watch?v=BL1JZIPYLp8&t=695s) Tesla
-          willing to pay up to 33.66 an hopur for robotaxi test
-          operators in NYC
-* [14:40](https://www.youtube.com/watch?v=BL1JZIPYLp8&t=880s) CNBC
-          says Tesla Robotaxi scores permit for ride hailing service in
-          Texas
-* [18:14](https://www.youtube.com/watch?v=BL1JZIPYLp8&t=1094s) GM
-          plans to bring back self driving car project to sell vehicles
-          to consumers
-* [27:05](https://www.youtube.com/watch?v=BL1JZIPYLp8&t=1625s) Edmunds piece
-          asking is Model Y FSD tech really worth 8 thousand dollars
-* [30:33](https://www.youtube.com/watch?v=BL1JZIPYLp8&t=1833s) The
-          Street report on Tesla lawsuit settlement history before 243
-          million dollar suit
-* [33:00](https://www.youtube.com/watch?v=BL1JZIPYLp8&t=1980s) The
-          Street also reports that Tesla robotaxi pulls ahead of Waymo
-          in SF
-* [38:40](https://www.youtube.com/watch?v=BL1JZIPYLp8&t=2320s) Very
-          brief update on Handyrides effort
-* [0:00](https://www.youtube.com/watch?v=dWqQFzewdUk) open
-* [0:25](https://www.youtube.com/watch?v=dWqQFzewdUk&t=25s) Union
-          Pacific and Norfolk Southern reach 85 billion dollar merger
-          deal
-* [8:26](https://www.youtube.com/watch?v=dWqQFzewdUk&t=506s) The
-          administration in Washington offers vision for AI policy
-* [10:44](https://www.youtube.com/watch?v=dWqQFzewdUk&t=644s) Jalopnik headline…
-          Boston flips the bird to Waymo robotaxis
-* [13:03](https://www.youtube.com/watch?v=dWqQFzewdUk&t=783s) IIHS
-          gives Tesla Model Y top safety rating again
-* [20:00](https://www.youtube.com/watch?v=dWqQFzewdUk&t=1200s) The
-          Street report on expert witness backing Tesla in fatal
-          autopilot crash case
-* [22:15](https://www.youtube.com/watch?v=dWqQFzewdUk&t=1335s) TechCrunch
-          headline.. Lyft to add autonomous shuttles in 2026 while Uber
-          inks more self driving deals
-* [23:20](https://www.youtube.com/watch?v=dWqQFzewdUk&t=1400s) Waymo launching
-          autonomous vehicles in Dallas as Tesla readies robotaxi
-          expansion
-* [24:53](https://www.youtube.com/watch?v=dWqQFzewdUk&t=1493s) Who
-          are robotaxi rides being targeted to?
-* [0:00](https://www.youtube.com/watch?v=P2Bge0p7o-M) open
-* [0:34](https://www.youtube.com/watch?v=P2Bge0p7o-M&t=34s) From
-          Forbes.com- The Waymo-Tesla Robotaxi Battle
-* [4:23](https://www.youtube.com/watch?v=P2Bge0p7o-M&t=263s) Bedrock
-          Robotics from Waymo veterans doing autonomous heavy machinery
-* [9:17](https://www.youtube.com/watch?v=P2Bge0p7o-M&t=557s) Waymo
-          posts it has officially driven 100 million fully autonomous
-          miles
-* [12:00](https://www.youtube.com/watch?v=P2Bge0p7o-M&t=720s) Waymo
-          coming to Philadelphia and New York City
-* [13:07](https://www.youtube.com/watch?v=P2Bge0p7o-M&t=787s) Property
-          Casualty 360 report that Uber has eye on commercial auto
-          insurance reform
-* [15:38](https://www.youtube.com/watch?v=P2Bge0p7o-M&t=938s) From
-          Not a Tesla App Tesla's Dojo 2 supercomputer enters mass
-          production
-* [18:45](https://www.youtube.com/watch?v=P2Bge0p7o-M&t=1125s) …also
-          Tesla reportedly updates robotaxi app
-* [21:42](https://www.youtube.com/watch?v=P2Bge0p7o-M&t=1302s) May
-          Mobility launches ride hail api
-* [26:40](https://www.youtube.com/watch?v=P2Bge0p7o-M&t=1600s) HSBC
-          analysts reportedly say potential market for driverless taxis
-          is widely overestimated.
-* [29:25](https://www.youtube.com/watch?v=P2Bge0p7o-M&t=1765s) Automotive
-          News piece on where robotaxi rivals stand
-* [30:15](https://www.youtube.com/watch?v=P2Bge0p7o-M&t=1815s) VW
-          robotaxi wants to rival Waymo and Tesla
-* [0:00](https://www.youtube.com/watch?v=5HqnDtsenb8) open
-* [0:35](https://www.youtube.com/watch?v=5HqnDtsenb8&t=35s) Musings
-          on Mobility: Is Elon Musk the Henry Ford of Our Day? Essay by
-          Michael Sena.
-* [14:00](https://www.youtube.com/watch?v=5HqnDtsenb8&t=840s) What
-          will Musk's legacy be?
-* [16:56](https://www.youtube.com/watch?v=5HqnDtsenb8&t=1016s) Should
-          consumer look at the man or the car?
-* [18:14](https://www.youtube.com/watch?v=5HqnDtsenb8&t=1094s) Alain's
-          take on the coverage of Tesla's robotaxi rollout
-* [21:40](https://www.youtube.com/watch?v=5HqnDtsenb8&t=1300s) What
-          are the really significant accomplishments of Ford and Musk?
-* [27:30](https://www.youtube.com/watch?v=5HqnDtsenb8&t=1650s) Alain recommends
-          book An Immense World – How Animal Senses Reveal the Hidden
-          Realms Around Us29:00Alain is
-          also linking to PBS NOVA report on new images from the Rubin
-          Observatory
-* [30:25](https://www.youtube.com/watch?v=5HqnDtsenb8&t=1825s) South
-          China Morning Post- How does a Chinese driverless system
-          compare with Tesla's?
-* [31:05](https://www.youtube.com/watch?v=5HqnDtsenb8&t=1865s) Volkswagen's
-          MOIA unveils ID Buzz turnkey solution for full autonomous
-          mobility services
-* [32:40](https://www.youtube.com/watch?v=5HqnDtsenb8&t=1960s) Back
-          to the question- why pursue driverless mobility?
-* [37:05](https://www.youtube.com/watch?v=5HqnDtsenb8&t=2225s) Malcolm
-          Gladwell is saying driverless cars are too safe..
-* [41:02](https://www.youtube.com/watch?v=5HqnDtsenb8&t=2462s) Brief…very
-          brief…update on HandyRides
-* [42:00](https://www.youtube.com/watch?v=5HqnDtsenb8&t=2520s) GM's
-          Cruise Cars are back on the road?
-* [0:00](https://www.youtube.com/watch?v=JZs3QXkglWU) open
-* [0:40](https://www.youtube.com/watch?v=JZs3QXkglWU&t=40s) Tesla
-          Model Y delivers itself to consumer
-* [5:18](https://www.youtube.com/watch?v=JZs3QXkglWU&t=318s) With
-          Tesla robotaxi launch in Austin … Reuters and then Business
-          Insider contact Alain for comments on reported problems
-* [17:30](https://www.youtube.com/watch?v=JZs3QXkglWU&t=1050s) Ford
-          CEO favors Waymo's LiDAR approach over Tesla's vision
-          only self driving
-* [20:55](https://www.youtube.com/watch?v=JZs3QXkglWU&t=1255s) OBI lists
-          pricing insights on Waymo, Uber and Lyft..
-* [25:55](https://www.youtube.com/watch?v=JZs3QXkglWU&t=1555s) Upcoming
-          online conference from Bridging Transportation Researchers
-* [00:00](https://www.youtube.com/watch?v=D8okgiBd9SU) open
-* [00:39](https://www.youtube.com/watch?v=D8okgiBd9SU&t=39s) VW
-          ID. BUZZ robotaxis coming? Alain says call me!
-* [3:30](https://www.youtube.com/watch?v=D8okgiBd9SU&t=210s) Teslas safer
-          than Waymo?
-* [7:20](https://www.youtube.com/watch?v=D8okgiBd9SU&t=440s) Waymo
-          expanding…
-* [9:49](https://www.youtube.com/watch?v=D8okgiBd9SU&t=589s) to
-          NYC too?
-* [10:12](https://www.youtube.com/watch?v=D8okgiBd9SU&t=612s) Some
-          Texas legislators ask for a delay in Tesla robotaxi launch
-* [21:20](https://www.youtube.com/watch?v=D8okgiBd9SU&t=1280s) Elektrek reports
-          Amazon to test humanoid robot deliveries with Rivian vans
-* [24:55](https://www.youtube.com/watch?v=D8okgiBd9SU&t=1495s) The
-          Verge reports US DOT wants more self driving cars without
-          pedals or steering wheels
-* [27:47](https://www.youtube.com/watch?v=D8okgiBd9SU&t=1667s) Yahoo
-          Finance headline..Nearly 75 percent of riders fear robotaxi
-          safety, yet pay more for Waymo
-* [29:45](https://www.youtube.com/watch?v=D8okgiBd9SU&t=1785s) The
-          Times of London headline on UN report that terrorists could
-          hijack AI driven vehicles
-* [32:15](https://www.youtube.com/watch?v=D8okgiBd9SU&t=1935s) Techcrunch report
-          on Wayve and Uber plan robotaxi launch in UK
-* [33:15](https://www.youtube.com/watch?v=D8okgiBd9SU&t=1995s) Tesla
-          robotaxi rollout can be tracked online
-* [35:00](https://www.youtube.com/watch?v=D8okgiBd9SU&t=2100s) Real
-          case for driverless mobility… and update on ITN America
-* [38:00](https://www.youtube.com/watch?v=D8okgiBd9SU&t=2280s) MSN
-          report on FRA and FTA project to receive funds from previously
-          awarded grants
-* [0:00](https://www.youtube.com/watch?v=I3Z3o8uaPfg) open
-* [0:44](https://www.youtube.com/watch?v=I3Z3o8uaPfg&t=44s) Mobility
-          Industry Insights: Should governments do any more for robot
-          driven cars than they did for human driven vehicles?
-* [16:20](https://www.youtube.com/watch?v=I3Z3o8uaPfg&t=980s) What
-          governments could do if they wanted to make driving more safe
-* [18:18](https://www.youtube.com/watch?v=I3Z3o8uaPfg&t=1098s) Governments
-          are doing things…but doing the wrong things
-* [24:14](https://www.youtube.com/watch?v=I3Z3o8uaPfg&t=1454s) In
-          Japan they are planning for some separate roadways for robotic
-          vehicles
-* [26:17](https://www.youtube.com/watch?v=I3Z3o8uaPfg&t=1577s) Tesla
-          has planned to launch robotaxis in Austin next week- how would
-          they be controlled? Differences from Waymo?
-* [33:00](https://www.youtube.com/watch?v=I3Z3o8uaPfg&t=1980s) FinanceBuzz report
-          on autonomous vehicle safety, accidents and reporting
-* [39:00](https://www.youtube.com/watch?v=I3Z3o8uaPfg&t=2340s) Why
-          aren't intelligent cruise control and automatic emergency
-          braking systems working together?
-* [44:20](https://www.youtube.com/watch?v=I3Z3o8uaPfg&t=2660s) How
-          old does a person really need to be to drive? Why is age
-          relevant? Does it need to be a human? What about
-          responsibility in robotic vehicles?
-* [50:29](https://www.youtube.com/watch?v=I3Z3o8uaPfg&t=3029s) From
-          TechCrunch …a patent infringement case that could disrupt Uber
-          and others
-* [51:22](https://www.youtube.com/watch?v=I3Z3o8uaPfg&t=3082s) The
-          Transportation Research Board revamping committee structure
-          and activities- TRB value.
-* [1:02:00](https://www.youtube.com/watch?v=I3Z3o8uaPfg&t=3720s) What
-          is needed to solve the safety problem?
-* [1:08:00](https://www.youtube.com/watch?v=I3Z3o8uaPfg&t=4080s) Space
-          X posts video titled Elon Musk, Mars and Beyond: The Road to
-          Making Humanity Interplanetary
-* [0:00](https://www.youtube.com/watch?v=Eow4Qg5qogE) open
-* [0:37](https://www.youtube.com/watch?v=Eow4Qg5qogE&t=37s) Tesla
-          sets June 12 date for robotaxi launch
-* [2:24](https://www.youtube.com/watch?v=Eow4Qg5qogE&t=144s) Tesla
-          hiring humans to control robotaxis
-* [4:13](https://www.youtube.com/watch?v=Eow4Qg5qogE&t=253s) Battle
-          over automated farm equipment in California
-* [6:03](https://www.youtube.com/watch?v=Eow4Qg5qogE&t=363s) Tesla
-          safety report claims autopilot 10 times better at avoiding
-          crashes
-* [12:03](https://www.youtube.com/watch?v=Eow4Qg5qogE&t=723s) Aurora
-          putting humans in driver seats again
-* [13:40](https://www.youtube.com/watch?v=Eow4Qg5qogE&t=820s) NY
-          Times reports driverless trucks are here with big promises
-* [17:46](https://www.youtube.com/watch?v=Eow4Qg5qogE&t=1066s) Way
-          expanding to San Antonio and Houston
-* [21:10](https://www.youtube.com/watch?v=Eow4Qg5qogE&t=1270s) Warren
-          Buffet asked about insurance shift with self driving cars
-* [29:27](https://www.youtube.com/watch?v=Eow4Qg5qogE&t=1767s) Senior
-          Thesis work highlight in Smart Driving Car newslettter
-* [0:00](https://www.youtube.com/watch?v=yd0w9JOSVxw&t=0s) F.
-          Fishkin, Feb. 25  "Keeping cars out of cities? The parking
-          meter is turning 90 this year. We learn more about that and
-          more from The Dispatcher publisher Michael Sena. Plus ..self
-          driving cars, AI, the Black Hawk tragedy and more. Join
-          Princeton's Alain Kornhauser and co-host Fred Fishkin for
-          episode 387 of Smart Driving Cars.open1:10Michael
-          Sena on parking meters turning 90 and what they are being used
-          for now8:15The
-          Pope and a cautionary approach to AI13:05For
-          now…at least…the last edition of The Dispatcher16:57There's
-          another book on the way18:30Henry
-          Ford…and the road today to driverless mobility29:35AI
-          and Deep Research37:10the
-          Black Hawk – American Airlines tragedy. What we're learning.
-* [0:00](https://www.youtube.com/watch?v=ltclihAQh5c) Open1:21AI code editor, DeepSeek and more6:22HandyRides Inc. now exists7:05From
-          NY Times: Women on motorcycle taxis giving rides in Kenya and
-          a piece on driving in Vietnam14:36Timothy Lee
-          piece…speculating DeepSeek not responsible for crashing NVIDIA
-          stock16:50Waymo
-          expanding to more cities including Las Vegas and San Diego19:58More
-          DeepSeek discussion25:16new
-          edition of The Dispatcher out from Michael Sena26:17The
-          work that lies ahead to provide mobility to those who need it29:15Why
-          are there still rear ending crashes29:35New
-          Tesla Model Y will have front bumper camera
-* [0:00](https://www.youtube.com/watch?v=hbEhshJSsmc&t=0s) F.
-          Fishkin, Dec. 22 "With GM putting an end to the Cruise
-          robotaxi venture, Waymo reaching 5 million rides and NHTSA
-          proposing new rules for driverless vehicles, there's plenty of
-          news to end the year. The Dispatcher publisher Michael Sena
-          joins Princeton's Alain Kornhauser and co-host Fred Fishkin
-          for a look at those stories and more on episode 385 of Smart
-          Driving Cars! Tune in and subscribe.open1:17Nobel
-          Prize for Physics awarded to Princeton's John
-          Hopfield. Alain's tribute.1:54GM
-          shutters Cruise robotaxi venture13:26Waymo
-          has now delivered over 5 million driverless rides26:49NHTSA
-          proposes new rules for self driving cars34:55The
-          Dispatcher Musings…back to Scranton
-* [38:14](https://www.youtube.com/watch?v=hbEhshJSsmc&t=2294s) Closing
-          out the year with long time friends and kudos to Alain's
-          students
-* [0:00](https://www.youtube.com/watch?v=JiN3nqkM6Mw&t=0s) open
-* [0:55](https://www.youtube.com/watch?v=JiN3nqkM6Mw&t=55s) From The Dispatcher
-          -a look at the presidential election and the process
-* [10:01](https://www.youtube.com/watch?v=JiN3nqkM6Mw&t=601s) Princeton's
-          Bob Vanderbei maps out the electorate one again
-* [14:30](https://www.youtube.com/watch?v=JiN3nqkM6Mw&t=870s) The
-          involvement of Elon Musk, pre-election and post-election and
-          Michael's look at the Robotaxi event.
-* [42:20](https://www.youtube.com/watch?v=JiN3nqkM6Mw&t=2540s) Tesla's
-          quarterly vehicle safety report47:48A
-          tribute Alain's PHD Advisor at Princeton, Paul Michel Lion
-          III.
-* [48:28](https://www.youtube.com/watch?v=JiN3nqkM6Mw&t=2908s) Waymo
-          is now valued at 45 billion dollars49:59Aurora's
-          Chris Urmson says we are on the brink of a new era in mobility
-          and logistics52:25Michael
-          comments further on Waymo and its role at Alphabet (Google)
-* [59:54](https://www.youtube.com/watch?v=JiN3nqkM6Mw&t=3594s) The Autopian report
-          on Google/Waymo patent application for system to take over
-          automatically if it detects a bad driver behind the wheel.
-* [0:00](https://www.youtube.com/watch?v=br8z9VzAc-o&t=0s) open
-* [0:30](https://www.youtube.com/watch?v=br8z9VzAc-o&t=30s) SpaceX
-                  wows with landing
-* [8:38](https://www.youtube.com/watch?v=br8z9VzAc-o&t=518s) Tesla's Cybercab event-Alain's
-                  take on the ups and downs
-* [18:22](https://www.youtube.com/watch?v=br8z9VzAc-o&t=1102s) Elon
-                  uses the elevator analogy!
-* [21:12](https://www.youtube.com/watch?v=br8z9VzAc-o&t=1272s) Forbes
-                  piece- Can't Get a Cybercab? Wave Down a Waymo.
-* [22:40](https://www.youtube.com/watch?v=br8z9VzAc-o&t=1360s) AutoEvolution:
-                  5 Polarizing Facts from Tesla's We
-                  Robot Cybercab Unveiling Event
-* [26:26](https://www.youtube.com/watch?v=br8z9VzAc-o&t=1586s) Presentation
-                  from Alain's students on shared mobility at Next
-                  Generation Systems Conference
-* [27:45](https://www.youtube.com/watch?v=br8z9VzAc-o&t=1665s) More
-                  on Cybercabs and questions about insurance
-* [39:02](https://www.youtube.com/watch?v=br8z9VzAc-o&t=2342s) Princeton's
-                  John Hopfield wins Nobel Physics Prize!
-* [0:00](https://www.youtube.com/watch?v=Uenti0S0KQQ&t=0s) open
-* [0:54](https://www.youtube.com/watch?v=Uenti0S0KQQ&t=54s) Vehicle
-                  telecommunications and data privacy battle
-* [22:40](https://www.youtube.com/watch?v=Uenti0S0KQQ&t=1360s) What
-                  happened to Sweden's Northvolt
-* [27:17](https://www.youtube.com/watch?v=Uenti0S0KQQ&t=1637s) The
-                  efforts to stop the importing of inexpensive Chinese
-                  vehicles. Is the rest of the world toast?
-* [45:55](https://www.youtube.com/watch?v=Uenti0S0KQQ&t=2755s) Tesla
-                  prepares for the robotaxi unveiling October 10
-* [54:35](https://www.youtube.com/watch?v=Uenti0S0KQQ&t=3275s) Reuters
-                  reports Waymo discussions with Hyundai on vehicle
-                  platform and remarks from Waymo co-CEO at University
-                  of Michigan
-* [1:00:35](https://www.youtube.com/watch?v=Uenti0S0KQQ&t=3635s) Two
-                  of Alain's students deliver at the Next Generation
-                  Systems Conference
-* [0:00](https://www.youtube.com/watch?v=aqzUjErUnuE&t=0s) open
-* [0:49](https://www.youtube.com/watch?v=aqzUjErUnuE&t=49s) Congratsto Alain's
-                  students who took part in the Henley Royal Regatta
-* [2:04](https://www.youtube.com/watch?v=aqzUjErUnuE&t=124s) Launching
-                  of HandyRides continues for affordable mobility
-* [3:15](https://www.youtube.com/watch?v=aqzUjErUnuE&t=195s) Demo
-                  of what GreenVilleMOVES would look like
-* [33:30](https://www.youtube.com/watch?v=aqzUjErUnuE&t=2010s) EU
-                  is mandating speed limiters
-* [34:15](https://www.youtube.com/watch?v=aqzUjErUnuE&t=2055s) Tesla
-                  update to give parents control over teen driver speed
-                  and more
-* [39:50](https://www.youtube.com/watch?v=aqzUjErUnuE&t=2390s) The
-                  Drive report on Mercedes engineer criticism of Tesla
-                  FSD and its impact on public attitudes toward
-                  autonomous driving tech.
-* [42:04](https://www.youtube.com/watch?v=aqzUjErUnuE&t=2524s) The
-                  Verge report on Distance Technologies windshield AR
-                  heads up display
-* [45:00](https://www.youtube.com/watch?v=aqzUjErUnuE&t=2700s) Ken
-                  Pyle's Viodi piece on Smart Driving Car Summit
-* [0:00](https://www.youtube.com/watch?v=iJTbQ8m336w&t=0s) July
-                  1st marks the launch of a new mobility start-up!
-                  Join Princeton's Alain Kornhauser and co-host Fred
-                  Fishkin for details.   Plus..GM Cruise pays for crash
-                  report delays, Rimac robotaxis and automakers ask for
-                  reconsideration of automatic emergency braking rules.open00:32July
-                  1 new mobility start-up launch22:58GM
-                  Cruise  to pay California for delaying crash report25:23Rimac
-                  robotaxis?26:20auto
-                  industry wants automatic emergency braking rule
-                  reconsidered
-* [0:00](https://www.youtube.com/watch?v=SIxuHren_7I&t=0s) open
-* [0:30](https://www.youtube.com/watch?v=SIxuHren_7I&t=30s) Musk
-                  talks robotaxi business, Tesla Semis and more new
-                  vehicles
-* [15:27](https://www.youtube.com/watch?v=SIxuHren_7I&t=927s) Alain shows
-                  how a Brownsville MOVES mobility service could work.
-* [36:19](https://www.youtube.com/watch?v=SIxuHren_7I&t=2179s) Waymo
-                  issues software and mapping recall following telephone
-                  pole crash in Phoenix
-* [43:10](https://www.youtube.com/watch?v=SIxuHren_7I&t=2590s) GM
-                  investing 850 million dollars in Cruise and resuming
-                  operations in Houston
-
-[](https://www.youtube.com/playlist?list=PLFwuZ9jMeu5uwfTZP00zHjP7eSpG34Hsm)
-
-[SmartDrivingCars ZoomCasts](https://www.youtube.com/playlist?list=PLFwuZ9jMeu5uwfTZP00zHjP7eSpG34Hsm)
-
- [Book
-                  Now](https://www.thereefs.com/)
-
- [2026
-                Automated transportation Symposium (ATS)](https://www.cvent.com/c/abstracts/739f4041-3744-44c3-a97e-9f688c5e544f)
-
- [July
-                27-30, 2026](https://www.cvent.com/c/abstracts/739f4041-3744-44c3-a97e-9f688c5e544f),
-        [San
-                Diego, CA](https://www.cvent.com/c/abstracts/739f4041-3744-44c3-a97e-9f688c5e544f)
-
- [8](https://bridgingtransport.org/)[th](https://bridgingtransport.org/)[Bridging
-                Transportation Researchers (BTR#8)](https://bridgingtransport.org/)
-
- [Online
-                Conference!](https://bridgingtransport.org/)
-        August
-            12 & 13, 2026
-
- [](https://itnannualmeeting.org/)
-
- [https://www.itnamerica.org/](https://www.itnamerica.org/)
-
-[AI Debates Ignore One of Its
-              Great Plusses: Worker Mobility](https://www.realclearmarkets.com/articles/2026/06/24/ai_debates_ignore_one_of_its_great_plusses_worker_mobility_1190109.html)
-
-C. Winston, June 24, Will artificial
-          intelligence improve workers' lives, or hand them the
-          equivalent of a pink slip? It is one of the most pressing
-          questions facing the U.S. economy, and polling shows that
-          Americans are currently more anxious than excited about AI's
-          effect on work. Even among [top economists](https://www.wsj.com/tech/ai/economists-weigh-in-on-the-future-of-work-and-ai-f59311e9?msockid=10aa0deb45d36481083c1be0447e65ac),
-          there is a sharp divergence of opinion: while there is broad
-          consensus that AI will boost near-term productivity, experts
-          are heavily split on whether the technology will ultimately
-          eliminate more jobs than it adds. The prevailing narrative
-          focuses heavily on cognitive displacement, warning that
-          experienced workers in routine, information-processing roles
-          face genuine risk.
-
-However,
-          this hyper-focus on white-collar tasks entirely overlooks a
-          massive, offsetting effect of AI: its enormous potential to
-          improve tangible labor market benefits to households through
-          advances in mobility. We are already seeing the vanguard of
-          these advances in autonomous vehicles (AVs) via the deployment
-          of robotaxis throughout the world and advanced experiments
-          with autonomous trucking deliveries. By applying
-            artificial intelligence to the physical world, we are on the
-            verge of fundamentally reducing the cost of distance—the
-          ultimate physical friction of geography and human physiology
-          that constrains the performance of key markets in the U.S.
-          economy, above all, the labor market.
-
-...."
-             [Read more](https://www.realclearmarkets.com/articles/2026/06/24/ai_debates_ignore_one_of_its_great_plusses_worker_mobility_1190109.html)Hmmmm…
-            and demand responsiveness so that those who have to punch in
-            on time to keep their job at the warehouse or do custodial
-            work at the strip mall can do so without needing to buy a
-            car instead of feeding their family.  Thank you Winston.
-               Alain
-
-[I was wary of driverless cars and
-              their tech overlords – but they could give me a different
-              future](https://www.theguardian.com/commentisfree/2026/jun/24/driverless-cars-tech-overlords-disabilities-vehicles)
-
-G.
-          Stewart, June 24, " The robotaxis are coming! The robotaxis
-          are coming! Well, actually, they're already here. Until now
-          they've been the stuff of science fiction, but this summer London's
-          streets have seen Silicon Valley-based company Waymo testing
-          out self-driving cars. It hasn't been the smoothest of
-          introductions – from cars getting stuck in [a cul-de-sac and repeatedly waking](https://www.bbc.co.uk/news/articles/cx2d8x141j7o) up
-          the residents of Shoreditch to one [driving into a crime scene](https://www.london.gov.uk/who-we-are/what-london-assembly-does/questions-mayor/find-an-answer/police-operation-harlesden-disrupted-autonomous-vehicle), after
-          a double stabbing in Harlesden..
-
-But
-          there is an aspect to this too little considered: for me, and
-          others with accessibility needs, AVs offer a different future,
-          a possibility of independence that feels otherwise
-          unattainable. I will never be able to drive due to my poor
-          vision, a reality that has left me unable to apply for many
-          jobs and made me reliant on others to get around – especially
-          when outside of cities. Many rural areas simply don't have
-          trains or taxis, causing an accessibility minefield for anyone
-          living there or visiting. Driverless taxis may not solve that
-          but they offer a roadmap towards the wider rollout of
-          self-driving cars that could..."    [Read
-                  more](https://www.theguardian.com/commentisfree/2026/jun/24/driverless-cars-tech-overlords-disabilities-vehicles)Hmmmm… Wow…
-            there is hope.  Gabriel thinks there might be some real
-            quality of life value in this technology for serving the
-            latent demand of those with "accessibility needs," both
-            physical and economic, faced by more than 10% of those in
-            our communities.  Wow!!! Something for them. Thank you
-            Gabriel for your Opinion. Alain
-
-          [Teens riding outside Waymo vehicle
-              in Santa Monica](https://www.youtube.com/watch?v=HnZpDSr8rk8)
-
-L.
-          Pena, June 23, " Photos from a witness showed teens
-          dangerously hanging out the windows of a Waymo car in Santa
-          Monica. ..."    [Read
-                  more](https://www.youtube.com/watch?v=HnZpDSr8rk8)Hmmmm…
-            Wait!! A couple of things..
-
-1.
-            How did this reckless, extremely dangerous behavior evade
-            Waymo's notice? Is there that much latency with the
-            Philippines (sorry couldn't resist).
-
-2.
-            The control center can't remotely control the windows?  Up
-            the windows once, and they won't do that again?
-
-3.
-            Can't the control center automatically reroute the car to
-            the nearest police station?
-
-4.
-            This whole industry needs to only give rides to people who
-            will behave.  The safety problem on our roads is HUMAN
-            misbehavior.  The safety problem in AVs is primarily HUMAN
-            misbehavior.  It can't be tolerated from the very
-            beginning.  United Airlines will not let me near any of
-            their planes if they have any hint that I might misbehave.
-            If you want a high-quality affordable ride you MUST behave;
-            else, Walk!  Very simple.  In this case, Waymo knows who was
-            in their car because they have cameras (LiDAR… not
-            much help here).  If a loophole exists in legislation, close
-            that one so that folks who seek selfies in this way are
-            prosecuted and have their parents pay reparations. C'mon
-            ambulance chasers, chase HUMAN misbehavers in Waymos.
-
-Misbehaving
-            HUMAN drivers are ruining our conventional roadways.
-            Misbehaving riders and insurance fraudsters can ruin what
-            could be so darn good for so many people who have been left
-            behind by conventional mobility.  Hopefully, NJ, US
-            lobbyists, legislators and regulators will properly thwart
-            this very real threat fueled by the media, influencers and
-            social media.  Alain
-
-[Tesla Driver Using Autopilot
-                Crashes Into Home, Killing a Woman, Officials Say](https://www.nytimes.com/2026/06/21/us/tesla-autopilot-crash-texas.html)
-
-J.
-          Diaz, June 21, "
-…
-          Doorbell camera footage shows the Tesla crashing into a house
-          in Katy, Texas. ...." [Read
-                  more](https://www.nytimes.com/2026/06/21/us/tesla-autopilot-crash-texas.html) Hmmmm… This
-            is a tragic crash.  Elizabeth lost a grandmother to a
-            misbehaving driver. Maybe it was the technology, but the
-            scorecards that I read clearly show the misbehavers are
-            winning.  Why is it then, that the NYT prints this?   Wow…
-            how one sided was this reporting by Johnny, even though he
-            should have known that under normal operation, overriding
-            AutoPilot or FSD by depressing the accelerator leading to
-            excessive speeds initiates a warning that braking is
-            disabled thus allowing the driver to achieve what he is
-            wishing for.  It's his car.  He is legally in control and if
-            he thinks he should be in control, his call, the car won't
-            over-ride his desire.  But normally he is warned.  Johnny
-            failed to mention this in his reporting.  Hopefully someone
-            at the NYT has spoken with him.
-
-Well,
-            someone must have, because NYT chose [Lauren McCarthy's](https://www.nytimes.com/2026/06/22/business/tesla-texas-autopilot-crash-nhtsa.html) more
-            balanced approach by including "… A Tesla executive, Ashok
-            Elluswamy, who is in charge of the company's artificial
-            intelligence software, said on X late on Monday that the
-            driver "…manually
-          overrode self-driving by pressing the accelerator." He added
-          that the car had accelerated to 73 miles per hour….
-            "  Ouch!!! But she had to rehash the 2018 Huang crash which
-            to some (me) looked like CA DoT was not an innocent
-            bystander in that one for not having proper striping on the
-            road that may have caused a human driver to crash in a
-            similar way a couple of weeks earlier and, of course, a
-            couple weeks is not enough time for CA DoT to repair the
-            damaged crash attenuator that may have saved Mr. Huang's
-            life. Alain
-
-[](https://open.substack.com/pub/understandingai/p/human-drivers-keep-crashing-into-454?utm_campaign=post&utm_medium=email)[Princeton
-                Professor Alain Kornhauser, Always on the Move, Advances
-                Mobility for All](https://www.tapinto.net/towns/princeton/sections/loose-ends/articles/princeton-professor-alain-kornhauser-always-on-the-move-advances-mobility-for-all)
-
-P.
-          Hersh, March 21, "Alain Kornhauser, professor of Operations
-          Research & Financial Engineering at Princeton University,
-          realized early on in his academic career that his dream of
-          going to Mars was unrealistic in his lifetime.
-
-          "So, I had to pivot," says Alain, who has been on Princeton
-          University's faculty since 1972.
-
-          He moved on to far more down-to-earth dreams. He has achieved
-          an academic and business career revolving around the movement
-          of people and cargo from point a to point b on this
-          earth. Alain obsesses about mobility, just not the kind you
-          might expect for an 81, almost 82-year-old. ..." [Read
-                more](https://www.tapinto.net/towns/princeton/sections/loose-ends/articles/princeton-professor-alain-kornhauser-always-on-the-move-advances-mobility-for-all)[](https://www.tapinto.net/towns/princeton/sections/loose-ends/articles/princeton-professor-alain-kornhauser-always-on-the-move-advances-mobility-for-all)Hmmmm…
-            Thank you Pam! Finished 54; will retire @ 65.  Alain
-
-[](https://www.dropbox.com/scl/fi/hc8bomo8rnjrmyj5gjhrf/Blue-OrangeHRCars.jpg?rlkey=vz1t450s2e7o1yrj1f3936bh3&dl=0)[HandyRides](https://handyrides.com/welcome) Update
-
-Alain Kornhauser,
-          June 23, "... …" Hmmmm… .
-Speaker
-            Couglin & Senator Zwicker, thank you for your courage.
-            Elizabeth and I are staying in New Jersey and goin'
-            to Atlanta, North Carolina & …  [Elizabeth](https://www.youtube.com/watch?v=EvYQTvCVYz0) &
-          [Alain](https://www.youtube.com/watch?v=Uxp6OG8izQg).
-          🙂
+[Published](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.amazon.com%2FReal-Case-Driverless-Mobility-Vehicles%2Fdp%2F0443236852%2Fref%3Dsr_1_1%3Fcrid%3D1XSXZ611C2JCN%26keywords%3DKornhauser%2Bsena%26qid%3D1707095108%26sprefix%3Dkornhauser%2Bsena%252Caps%252C76%26sr%3D8-1%26ufe%3Dapp_do%253Aamzn1.fos.18ed3cb5-28d5-4975-8bc7-93deae8f9840&data=05%7C02%7Corfe-lists%40princeton.edu%7C5bfd1b90be9b4642ce3c08deb9d1a0ef%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C639152507884022226%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=oWwDlLywtjyoeC31WYzSDU3t2QpGpaec5o1nc0I4baw%3D&reserved=0) in
+ 2024 (but still relevant)!!!  [Go
+ to Amazon.com](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.amazon.com%2FReal-Case-Driverless-Mobility-Vehicles%2Fdp%2F0443236852%2Fref%3Dsr_1_1%3Fcrid%3D1XSXZ611C2JCN%26keywords%3DKornhauser%2Bsena%26qid%3D1707095108%26sprefix%3Dkornhauser%2Bsena%252Caps%252C76%26sr%3D8-1%26ufe%3Dapp_do%253Aamzn1.fos.18ed3cb5-28d5-4975-8bc7-93deae8f9840&data=05%7C02%7Corfe-lists%40princeton.edu%7C5bfd1b90be9b4642ce3c08deb9d1a0ef%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C639152507884044381%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=7OTHFTH1R3HGKeK%2FLUg%2FEmrA0%2F1hi6b64aAhDqpU4HQ%3D&reserved=0)…
 
 SmartDrivingCars
-          [ZoomCast 405](https://youtu.be/IGD6xtq4weA)/ [PodCast 405](https://open.spotify.com/episode/1dJJPYhaOXPTLGjRUp0Efz?si=wY3ReZjtRbOaS57CM3xrZQ) w/
-            Michael Sena
+[ZoomCast 413](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fyoutu.be%2FfhEncGQxAMk&data=05%7C02%7Corfe-lists%40princeton.edu%7C5bfd1b90be9b4642ce3c08deb9d1a0ef%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C639152507884072884%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=k5Ead5r1J2zDBkZoOv4UkFEljDpmSDffm5UYvTjeo1o%3D&reserved=0)/
+[Podcasts 413](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fopen.spotify.com%2Fepisode%2F5Rtml13uktodylnh4S1FQN%3Fsi%3DfInGIYxaQbmImv7ZbvAqdg&data=05%7C02%7Corfe-lists%40princeton.edu%7C5bfd1b90be9b4642ce3c08deb9d1a0ef%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C639152507884102185%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=Xdkx3pDBwE%2FQsj3CHa0tdgZfqbss3fSX3tcsuLyKxfg%3D&reserved=0) -
+SpaceX, Waymo, NVIDIA, May Mobility & more
 
-When
-          it comes to the opposition to driverless riding, there are
-          varied arguments. But on episode 405 of Smart Driving Cars,
-          guest Michael Sena contends the ability to provide mobility
-          that is more affordable is key. Sena joins
-          Princeton's Alain Kornhauser and co-host Fred Fishkin for that
-          plus some promising developments at this week's annual meeting
-          of the Transportation Research Board in Washington D.C.. Tune
-          in and subscribe!
+What is it like at the SpaceX files for an IPO, Waymo pauses for flooding, Seval Oz to keynote an AV Conference plus NVIDIA, Uber, May Mobility and more. Join Princeton's Alain Kornhauser
+ and co-host Fred Fishkin for episode 413 of Smart Driving Cars!
 
-
+* [0:00](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DfhEncGQxAMk&data=05%7C02%7Corfe-lists%40princeton.edu%7C5bfd1b90be9b4642ce3c08deb9d1a0ef%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C639152507884128808%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=4WPxoZd30J4o3zz8FgGp%2BWM0%2BITp38%2FIhp63kDG1gVo%3D&reserved=0) open
+* [0:45](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DfhEncGQxAMk%26t%3D45s&data=05%7C02%7Corfe-lists%40princeton.edu%7C5bfd1b90be9b4642ce3c08deb9d1a0ef%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C639152507884154177%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=rqu8Mcu0gttVUAKj1g%2F1kVQfAhXSrk95mXMX8%2Bg64gM%3D&reserved=0) Harvard moves to cap A's
+* [4:26](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DfhEncGQxAMk%26t%3D266s&data=05%7C02%7Corfe-lists%40princeton.edu%7C5bfd1b90be9b4642ce3c08deb9d1a0ef%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C639152507884178922%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=gdZldqzSzNHz1Lo0ij75cV9FCx4KIi8qaaEIEaT6knM%3D&reserved=0) while Princeton begins exam monitoring files form S1 pre-IPO
+* [16:23](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DfhEncGQxAMk%26t%3D983s&data=05%7C02%7Corfe-lists%40princeton.edu%7C5bfd1b90be9b4642ce3c08deb9d1a0ef%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C639152507884205661%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=HRWJqPzB%2FBW7UPDVcNYRfxPVAms3lRTiEN8TwhzBGNI%3D&reserved=0) Flooding causes Waymo to pause service
+* [25:06](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DfhEncGQxAMk%26t%3D1506s&data=05%7C02%7Corfe-lists%40princeton.edu%7C5bfd1b90be9b4642ce3c08deb9d1a0ef%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C639152507884234090%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=Py2R2a5TStUbHzslfkPixmtlcSxjD2QwgfWYpp2zzFQ%3D&reserved=0) Seval Oz to keynote AV Conference in Boca Raton
+* [28:14](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DfhEncGQxAMk%26t%3D1694s&data=05%7C02%7Corfe-lists%40princeton.edu%7C5bfd1b90be9b4642ce3c08deb9d1a0ef%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C639152507884261727%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=Ywci7M6Qvyoay8MDU2kt%2F%2BiNOKhlYelFkFycKteJiEg%3D&reserved=0) NVIDIA powering Uberself drivingpush into cities
+* [30:47](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DfhEncGQxAMk%26t%3D1847s&data=05%7C02%7Corfe-lists%40princeton.edu%7C5bfd1b90be9b4642ce3c08deb9d1a0ef%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C639152507884289360%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=e6qT6QVjfBDmkEjX08BOQgDQdUVq9fzegyjy9Oi1i50%3D&reserved=0) Latest Musing on Mobility from Michael Sena
+* [31:10](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DfhEncGQxAMk%26t%3D1870s&data=05%7C02%7Corfe-lists%40princeton.edu%7C5bfd1b90be9b4642ce3c08deb9d1a0ef%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C639152507884319354%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=n1XnYDnFy95%2Bsud%2Bp9WhvGSDXNmlghchVs4rjLcbM4I%3D&reserved=0) May Mobility deal withEcarXfor robotaxis
+* [32:05](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DfhEncGQxAMk%26t%3D1925s&data=05%7C02%7Corfe-lists%40princeton.edu%7C5bfd1b90be9b4642ce3c08deb9d1a0ef%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C639152507884347094%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=fe%2F3S2LBohQjBGKAiuBxR7eWB3PL66xErIQdet8wMzQ%3D&reserved=0) Driverless car legislation fails in Minnesota
+* [34:54](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DfhEncGQxAMk%26t%3D2094s&data=05%7C02%7Corfe-lists%40princeton.edu%7C5bfd1b90be9b4642ce3c08deb9d1a0ef%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C639152507884370589%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=vyeORUzFm5fgUtaOzFTmiCYP%2BVGs7D974aLwh8Wv4dg%3D&reserved=0) Congress works on surface transportation reauthorization
+* [43:28](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DfhEncGQxAMk%26t%3D2608s&data=05%7C02%7Corfe-lists%40princeton.edu%7C5bfd1b90be9b4642ce3c08deb9d1a0ef%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C639152507884389844%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=ai15q5QJ1jGu7vsLV%2FwxQmPKWl6PQL7bYy0u9yAQTsk%3D&reserved=0) Alain book recommendation- The Laws of Thought by Tom Griffiths
 
-
+[](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.youtube.com%2Fplaylist%3Flist%3DPLFwuZ9jMeu5uwfTZP00zHjP7eSpG34Hsm&data=05%7C02%7Corfe-lists%40princeton.edu%7C5bfd1b90be9b4642ce3c08deb9d1a0ef%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C639152507884409947%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=xuox7Vvpcym9YVrO2CCm6CU9%2BvJtyhqe07JyzWrOPm0%3D&reserved=0)[SmartDrivingCars
+ZoomCasts](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.youtube.com%2Fplaylist%3Flist%3DPLFwuZ9jMeu5uwfTZP00zHjP7eSpG34Hsm&data=05%7C02%7Corfe-lists%40princeton.edu%7C5bfd1b90be9b4642ce3c08deb9d1a0ef%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C639152507884431060%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=VebeN%2BT4ypzl%2FURmH1mWtYeh%2BIF%2FF%2BaCe5uYlckXotU%3D&reserved=0)
 
-
+[Book
+ Now](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.thereefs.com%2F&data=05%7C02%7Corfe-lists%40princeton.edu%7C5bfd1b90be9b4642ce3c08deb9d1a0ef%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C639152507884453186%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=KI7ZWD%2F8OsqkcNKnF9pT2nbqFH%2BK4guGODbH8C%2BJzDI%3D&reserved=0)
 
-                                2026
+[2026
+ Automated transportation Symposium (ATS)](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.cvent.com%2Fc%2Fabstracts%2F739f4041-3744-44c3-a97e-9f688c5e544f&data=05%7C02%7Corfe-lists%40princeton.edu%7C5bfd1b90be9b4642ce3c08deb9d1a0ef%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C639152507884488999%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=%2B2q73%2FkoYcL43nr%2Fi2801uhG8bepsbeKWmAvc7pOI8Y%3D&reserved=0)
 
-                                2026
+[July
+ 27-30, 2026](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.cvent.com%2Fc%2Fabstracts%2F739f4041-3744-44c3-a97e-9f688c5e544f&data=05%7C02%7Corfe-lists%40princeton.edu%7C5bfd1b90be9b4642ce3c08deb9d1a0ef%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C639152507884531582%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=UUq6QigPvpx8UUX8pjFT14H5fexCMfsnsTgiSbrnB7E%3D&reserved=0), [San
+ Diego, CA](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.cvent.com%2Fc%2Fabstracts%2F739f4041-3744-44c3-a97e-9f688c5e544f&data=05%7C02%7Corfe-lists%40princeton.edu%7C5bfd1b90be9b4642ce3c08deb9d1a0ef%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C639152507884566642%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=V9P3vvZUqqqK%2BxLgMap9bFG8yo56ZX11aH04Ax8tSLk%3D&reserved=0)
 
-                              2026
+[8](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fbridgingtransport.org%2F&data=05%7C02%7Corfe-lists%40princeton.edu%7C5bfd1b90be9b4642ce3c08deb9d1a0ef%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C639152507884602563%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=HieNPMRoyoKSovXNAa0ZgpvpmgUArqVZ9%2F13hZqS6i8%3D&reserved=0)[th](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fbridgingtransport.org%2F&data=05%7C02%7Corfe-lists%40princeton.edu%7C5bfd1b90be9b4642ce3c08deb9d1a0ef%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C639152507884642949%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=LH3qGbPUP0%2F5ZXznBQI4LDn2A4IqyEgCeSiZifCm8dg%3D&reserved=0)[Bridging
+ Transportation Researchers (BTR#8)](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fbridgingtransport.org%2F&data=05%7C02%7Corfe-lists%40princeton.edu%7C5bfd1b90be9b4642ce3c08deb9d1a0ef%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C639152507884678186%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=0qLsP6HQgC9wF6ROkeJh1WfmAOnRtKdRTm7KXWNAFMk%3D&reserved=0)
 
-                              2026
+[Online
+ Conference!](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fbridgingtransport.org%2F&data=05%7C02%7Corfe-lists%40princeton.edu%7C5bfd1b90be9b4642ce3c08deb9d1a0ef%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C639152507884711114%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=JNnv1DCrfZ5fMDoRjw8VUVTol3YaHqEeBcfro31X33M%3D&reserved=0)  August 12 & 13, 2026
 
-                              2026
+[](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fitnannualmeeting.org%2F&data=05%7C02%7Corfe-lists%40princeton.edu%7C5bfd1b90be9b4642ce3c08deb9d1a0ef%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C639152507884747703%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=GuESBfo59RBu34AsirwPcR2Or%2BAWbBlwSwcjfnJU%2Baw%3D&reserved=0)
 
-                              2026
+[https://www.itnamerica.org/](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.itnamerica.org%2F&data=05%7C02%7Corfe-lists%40princeton.edu%7C5bfd1b90be9b4642ce3c08deb9d1a0ef%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C639152507884789238%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=%2FPoYUqbklbXmzvcUu%2B7zbEd48O4hyh0O4vxbvFxKUas%3D&reserved=0)
 
-                              2026
+[H.
+ R. _T o authorize funding for Federal-aid highways, bridge construction and rehabilitation, highway safety programs, transit programs, and rail programs, and for other purposes.](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Ftransportation.house.gov%2Fuploadedfiles%2Fbuild_america_250_act_bill_text.pdf&data=05%7C02%7Corfe-lists%40princeton.edu%7C5bfd1b90be9b4642ce3c08deb9d1a0ef%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C639152507884821208%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=93LZrBgFu2fdnd9O8B5hpy6nymUntPPzK0HCoXkjRMg%3D&reserved=0)
 
-                              2026
+Staff, May 18, "A BILL To authorize funding for Federal-aid highways, bridge construction and rehabilitation, highway safety programs, transit programs, and
+ rail programs, and for other purposes. …" [Read
+ more](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Ftransportation.house.gov%2Fuploadedfiles%2Fbuild_america_250_act_bill_text.pdf&data=05%7C02%7Corfe-lists%40princeton.edu%7C5bfd1b90be9b4642ce3c08deb9d1a0ef%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C639152507884847486%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=GBgttUYlm2UYSXugc9Pk%2B0vNEaWZ%2BFQqHC44uKWWIPI%3D&reserved=0)  Hmmmm… Here
+ we go.  The house version.  Interesting elements include:
 
-                              2026
+* the inclusion of "Level 3" for Commercial Autonomous Commercial Vehicles, which, if there are appropriate updates in the hours of service regulations then a doubling of
+ the productivity of long-haul trucking can be unlocked.
 
-                              2025
+* Subtitle E—Safe Integration of Autonomous Commercial Motor Vehicles
 
-                              2025
+* Modifications to Title VI- Innovation, especially Section 6002 Technology deployment and much much more.. Alain
 
-                              2025
+ [Seval
+ Oz to Deliver Keynote at Autonomous Vehicle Conference 2026 on Scaling Autonomous Mobility in the U.S.](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.streetinsider.com%2FGlobe%2BNewswire%2FSeval%2BOz%2Bto%2BDeliver%2BKeynote%2Bat%2BAutonomous%2BVehicle%2BConference%2B2026%2Bon%2BScaling%2BAutonomous%2BMobility%2Bin%2Bthe%2BU.S.%2F26373633.html&data=05%7C02%7Corfe-lists%40princeton.edu%7C5bfd1b90be9b4642ce3c08deb9d1a0ef%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C639152507884870768%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=jFo%2B6J6y6hz5VCUoxn%2Bn7zo%2F3hVitsYp6GBmfCsolds%3D&reserved=0)
 
-                              2025
+Staff, May 23 "
+Guident and the Jacksonville Transportation Authority (JTA) today announced
+ that Seval Oz, nominee for Assistant Secretary of Transportation for Research and Technology at the U.S. Department of Transportation, will deliver the main keynote at the 5th Annual Autonomous Vehicle Conference held on May 29th, 2026, at the Boca Raton Innovation
+ Campus (BRiC).
 
-                              2025
+A recognized leader in transportation innovation and autonomous mobility, Oz will address one of the industry's most pressing challenges – how to transition autonomous mobility from limited pilot programs to scalable, real-world deployments across the U.S.
 
-                              25, 2025
+Her keynote, "From Pilot Programs to Scalable, Real-World Deployment: Building the Affordable Autonomy Economy," will examine the economic, policy, and infrastructure conditions required to make autonomous transportation achievable at scale. Oz is expected
+ to outline a national roadmap for deployment, including the role of public-private collaboration, the need for reshoring technology manufacturing and retooling for the future of mobility, and the importance of building systems that are innovative, operationally
+ sustainable, and safe. ..."    [Read
+more](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.streetinsider.com%2FGlobe%2BNewswire%2FSeval%2BOz%2Bto%2BDeliver%2BKeynote%2Bat%2BAutonomous%2BVehicle%2BConference%2B2026%2Bon%2BScaling%2BAutonomous%2BMobility%2Bin%2Bthe%2BU.S.%2F26373633.html&data=05%7C02%7Corfe-lists%40princeton.edu%7C5bfd1b90be9b4642ce3c08deb9d1a0ef%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C639152507884892690%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=kq7nv2rS9QslgFrAsWbEfuMd4i2SkxRnL4uwnhsx%2FmQ%3D&reserved=0)Hmmmm…  Looking
+ to be a good session focused on deployment. See you there. A recognized leader in transportation innovation and autonomous mobility, Oz will address one of the industry's most pressing challenges – how to transition autonomous mobility from limited pilot programs
+ to scalable, real-world deployments across the U.S.  For more information, visit
+[www.autonomousvehicleconference.com](https://nam12.safelinks.protection.outlook.com/?url=http%3A%2F%2Fwww.autonomousvehicleconference.com%2F&data=05%7C02%7Corfe-lists%40princeton.edu%7C5bfd1b90be9b4642ce3c08deb9d1a0ef%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C639152507884913865%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=bQ408nvsvAdGBH7jIfM9iDewrfqDIQz2vJq4hJwqtfg%3D&reserved=0). Alain
 
-                              2025
+[Harvard
+ Faculty Votes To Cap How Many A's Professors Hand Out](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.forbes.com%2Fsites%2Fmichaeltnietzel%2F2026%2F05%2F20%2Fharvard-faculty-give-thumbs-up-to-a-cap-on-a-grades%2F%3Futm_source%3Dnewsletter%26utm_medium%3Demail%26utm_campaign%3Ddailydozen%26cdlcid%3D61f272a26e1a1d1211e1a83f&data=05%7C02%7Corfe-lists%40princeton.edu%7C5bfd1b90be9b4642ce3c08deb9d1a0ef%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C639152507884941026%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=qxTNBiPLOO4F5R1Yg9hC%2B5XKRLSQgUXDIG%2FmH11aXlM%3D&reserved=0)
 
-                              2024
+M. Nietzel, May 20, " Harvard University faculty has approved a plan to cap the number of A grades instructors can assign to undergraduates in any given course.
 
-                              9, 2024
+Following months of campus debate and several revisions to an initial cap proposal, the faculty voted 458 to 201 in favor of what's being championed as a coordinated
+ attempt to fight grade inflation, according to [The
+ Harvard Crimson](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.thecrimson.com%2Farticle%2F2026%2F5%2F20%2Ffas-passes-a-grade-cap%2F&data=05%7C02%7Corfe-lists%40princeton.edu%7C5bfd1b90be9b4642ce3c08deb9d1a0ef%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C639152507884971339%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=ifrVzMvUZ%2B3e4Jx3XJaXaRfFhFbpv1ik0WAWJiIIgAE%3D&reserved=0)....
 
-                              2024
+* A 20% cap on A grades, emphasizing that
+A's should be reserved for work of "extraordinary distinction"
+* Ranking students by their percentile standing in each course, a numeric summary that would then be used in place of a grade point average to calculate internal university honors
 
-                              2024
+Because small courses are more likely to "attract advanced and highly motivated students," the committee also recommended giving faculty the flexibility to
+ assign an additional four A grades above the 20% limit for each class. For example, in a class with 20 students, 8
+A's would be permitted, while in a course of 100, the instructor could allocate 24 A's — 20% of the total number of students plus four additional. …"
+[Read
+ more](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.forbes.com%2Fsites%2Fmichaeltnietzel%2F2026%2F05%2F20%2Fharvard-faculty-give-thumbs-up-to-a-cap-on-a-grades%2F%3Futm_source%3Dnewsletter%26utm_medium%3Demail%26utm_campaign%3Ddailydozen%26cdlcid%3D61f272a26e1a1d1211e1a83f&data=05%7C02%7Corfe-lists%40princeton.edu%7C5bfd1b90be9b4642ce3c08deb9d1a0ef%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C639152507885001129%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=nCEzH8tKUZdgozQ4ytLDU7ROBV3rlhDVrq6F7q2iesM%3D&reserved=0)Hmmmm… Bob
+ Vanderbei and I have been suggesting that instead of A, B, C, D, F scale, the letter scale should be A+, A, A-, D, F. Still 5 categories that allow the faculty to properly differentiate achievement and befuddle clueless GPA-centric gatekeepers ... looking
+ at you Med Schools and Gold Mine.  Alain
 
-                              2024
+[Skip
+ navigation Search Sign in AI Didn't Break Education. It Exposed
+The Lie](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DR0XVocLKR68&data=05%7C02%7Corfe-lists%40princeton.edu%7C5bfd1b90be9b4642ce3c08deb9d1a0ef%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C639152507885031407%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=0MzEYOGqd09RtrE4zZuNe8lUd1N4lWLaZIhduMKcjp0%3D&reserved=0)
+
+House of El, May 20, " Princeton will now require instructors in exam rooms for the first time since 1893.
+The stated trigger is artificial intelligence, but the deeper issue is trust, assessment, and what education is
+actually testing. Nearly a third of Princeton seniors admitted to cheating, while almost nobody reported peer violations.
+AI did not invent academic dishonesty — it made old enforcement systems impossible to pretend still worked.
+Traditional exams were built for a world where knowledge was scarce and recall was the core skill.
+In the age of infinite information, the real skill is judgment: knowing what exists, what to ask, and how to evaluate what comes back.
+The deeper question is whether universities will redesign education around AI as a tool — or simply add more surveillance to preserve a broken format.
+ [Read
+ more](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DR0XVocLKR68&data=05%7C02%7Corfe-lists%40princeton.edu%7C5bfd1b90be9b4642ce3c08deb9d1a0ef%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C639152507885060567%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=RRior1KXlvBs0txlL4nw1jHIpUf21R3SRSz%2BZXJZ688%3D&reserved=0)Hmmmm… I
+ am deeply saddened that our honor code has been abolished. El stated that there was only one vote against. It wasn't me unfortunately, I didn't even know that it was on the agenda. What wasn't reported was the count of votes in favor; I doubt it was many more.
+
+... while I agree with many of El's opinions expressed in this video, I don't agree with the characterization of Princeton's honor code as an engagement of the student body as enforcement agents against cheating.  In my view, the honor code was a self policing
+ concept where the shaming is predominantly, if not exclusively by the self, instead of by one's peers or "the internet".  The key is for the system to ensure that the
+self is the enforcer, not others.  One knows when one cheats to achieve an advantage.  The purpose of the honor code is/was to seek to compete on level playing fields and not cheat to gain an advantage.  In fact, Princeton admissions should not even
+ consider admitting any student whose fundamental character is to resort to cheating. Consequently, Princeton's cheating problem is rooted in its admission process that doesn't eliminate at the very beginning applicants that have the propensity to cheat.  I
+ suspect that most students who admitted to cheating @ Princeton cheated before they came to Princeton. In fact, the competition for admission is so great that they cheated to get in and the Admission department's "AI" isn't smart enough to detect that cheating.
+
+Since that solves the cheating problem, what El focuses on is what should we be teaching and how should we rank order what have been learned.  I agree with many of the opinions that she expresses... especially "asking good questions is really important.  Also,
+ oral exams are much less prone to cheating. Also, my current opinion of AI is that it is just a tool, much like a calculator or the books in the library.  If it contributed to what comes next, then cite it and move on. Alain
+
+[AI
+ at the Wheel: The Effectiveness of Advanced Driver-Assistance System](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.journals.uchicago.edu%2Fdoi%2F10.1086%2F741590&data=05%7C02%7Corfe-lists%40princeton.edu%7C5bfd1b90be9b4642ce3c08deb9d1a0ef%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C639152507885090527%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=sZgm3MUpxQ5mp7OwBbScjuSlYroIXDHBp7OaW2XfVPo%3D&reserved=0)
+
+C. Winston, April 15, "
+Has automakers' use of artificial intelligence (AI) in advanced driver-assistance systems (ADASs) improved automobile safety? We address this question with a first- of-
+ its- kind trim- level dataset of the universe of registered automobiles and accidents in Texas over a 9-year period. We find that ADASs reduce the risk of a motorist getting in any type of accident by 11 to 14 percent and reduce the risk of a motorist getting
+ in a single-vehicle fatal accident by roughly one- third. Our finding that ADASs have improved automobile safety is especially important be- cause it provides early evidence of the benefits of vehicle automation in actual travel environments. Hopefully, it
+ will spur greater interest in the development and widespread adoption of fully autonomous vehicles and in the potential benefits of other transportation technologies using AI. …"
+[Read more](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.journals.uchicago.edu%2Fdoi%2F10.1086%2F741590&data=05%7C02%7Corfe-lists%40princeton.edu%7C5bfd1b90be9b4642ce3c08deb9d1a0ef%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C639152507885112609%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=FcFgE1y%2B1ZY5QcHMmxEA8o3tQIGJfkYPoeqWv1hW3EI%3D&reserved=0)
+Hmmmm…  A must read.    Alain
+
+[](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.michaellsena.com%2Fmusings-on-mobility%2F&data=05%7C02%7Corfe-lists%40princeton.edu%7C5bfd1b90be9b4642ce3c08deb9d1a0ef%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C639152507885131811%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=pyqDwN4MO6R%2BPGxNigmO9e3035ZtxuaY3rYBDYc%2BiHY%3D&reserved=0)[Living
+ in a City That Is Truly Not Built for Cars](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.michaellsena.com%2Fmusings-on-mobility%2F&data=05%7C02%7Corfe-lists%40princeton.edu%7C5bfd1b90be9b4642ce3c08deb9d1a0ef%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C639152507885150447%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=gISt8xajUjPVkCQmXUqucfDOG76yDszv72hFYMMpvlM%3D&reserved=0)
+
+M. Sena, May 1, " The hurly-burly of twentieth century life has not yet reached Gubbio, and that is why it presents itself to the visitor within its walls in
+ such agreeable fashion." – Francis Miltoun1 TALK ABOUT A CITY that was definitely not built for cars. Gubbio, in the Province of Perugia in the Italian Region of Umbria, wasn't really built for people, either. Mountain goats, perhaps. Its principal public
+ transportation system is a series of four elevators (lifts) that take riders up from one level to the next. To get from the bottom plain of the city (where the green grass grows) to the top level. ..."    [Read
+ more](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.michaellsena.com%2Fmusings-on-mobility%2F&data=05%7C02%7Corfe-lists%40princeton.edu%7C5bfd1b90be9b4642ce3c08deb9d1a0ef%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C639152507885168746%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=CqsCDKUb2rOCq%2BaPScp5EZqsrwFgbs0BElWDAetKPwQ%3D&reserved=0)Hmmmm…  Obviously, what we need is national
+ legislation and not a patchwork of local laws.  Alain
+
+[FORM
+ S-1 Space Exploration Technologies Corp.](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.sec.gov%2FArchives%2Fedgar%2Fdata%2F1181412%2F000162828026036936%2Fspaceexplorationtechnologi.htm&data=05%7C02%7Corfe-lists%40princeton.edu%7C5bfd1b90be9b4642ce3c08deb9d1a0ef%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C639152507885187118%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=dGDMPMBaj%2FXPtPekQAWmKzht8HUszt4Ji%2Bx2lVeYFf4%3D&reserved=0)
+
+Staff, May 20, "
+
+Our Mission
+
+Our mission is to build the systems and technologies necessary to make life multiplanetary, to understand the true nature of the universe, and to extend the
+ light of consciousness to the stars. To do this, we have formed the most
+ ambitious, vertically integrated innovation engine on (and off) Earth with unmatched capabilities to rapidly manufacture and launch space-based communications that connect the world, to harness the Sun to power a truth-seeking artificial intelligence
+ that advances scientific discovery, and ultimately to build a base on the Moon and cities on other planets.
+
+Overview
+
+Founded in 2002, SpaceX is the only company building the integrated hardware and software infrastructure of the future across space, connectivity, and AI. At
+ our core, we are builders. We design, manufacture, launch, and operate products and services built on cutting-edge technologies, including the world's most advanced rockets and spacecraft. We safely and reliably transport astronauts, satellites, and other
+ payloads on missions that benefit life on Earth. Since 2023, we have launched more than 80% of mass to orbit for the world each year with an over 99% mission success rate with Falcon rockets. We also operate a high-speed, low-latency global broadband data
+ and communications network powered by approximately 9,600 Starlink broadband and mobile satellites in Low-Earth
+
+Orbit, delivering connectivity to millions of
+consumer, enterprise, and government customers across 164 countries, territories, and other markets, as of March 31, 2026. Using our dedicated satellite-to-mobile constellation, we offer connectivity services, supplementing terrestrial
+ networks and substantially reducing mobile "dead zones" across approximately 30 countries. "
+[Read
+ more](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.sec.gov%2FArchives%2Fedgar%2Fdata%2F1181412%2F000162828026036936%2Fspaceexplorationtechnologi.htm&data=05%7C02%7Corfe-lists%40princeton.edu%7C5bfd1b90be9b4642ce3c08deb9d1a0ef%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C639152507885204790%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=i5RYfTOA%2FAWpuJDBNx%2B31K6nmEpqKLDthp6gNLH75zM%3D&reserved=0)  Hmmmm…
+Really impressive. Alain
+
+[Massive
+ Surprises From Starship Flight 12! 🤯](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DaPtMGJvJ72g&data=05%7C02%7Corfe-lists%40princeton.edu%7C5bfd1b90be9b4642ce3c08deb9d1a0ef%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C639152507885222656%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=aK7UuZdrVWVeJ5MecZIkHEuCsBErZS%2BC8zqBK3%2F9vaY%3D&reserved=0)
+
+M. House, May 23 "
+SpaceX has officially launched the first full Version 3 Starship in Flight 12, and this was the wildest test flight we have ever seen. From the first-ever launch from Pad
+ 2 at Starbase Texas, integrated hot staging, chaotic Super Heavy boost back issues, deployment footage external to the Starship (YES!), plasma-filled re-entry, and that unbelievable final splashdown camera angle… this mission delivered some absolutely insane
+ footage. [Read
+ more](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DaPtMGJvJ72g&data=05%7C02%7Corfe-lists%40princeton.edu%7C5bfd1b90be9b4642ce3c08deb9d1a0ef%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C639152507885241330%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=ALihuqPiSiIOSLt5MjThjCiBYgvZO6XhCrLLrG5lWdg%3D&reserved=0)Hmmmm… What
+ a enormous accomplishment from a private company.  Maybe they shouldn't go public? Alain
+
+[Tesla's
+ Semi Truck could Jolt the Trucking Industry](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F05%2F19%2Fbusiness%2Fenergy-environment%2Fteslas-semi-truck.html&data=05%7C02%7Corfe-lists%40princeton.edu%7C5bfd1b90be9b4642ce3c08deb9d1a0ef%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C639152507885266274%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=DtV0AqQQJZfurOTj45d2ThWrV5GLbV55SfG6m6%2Bh138%3D&reserved=0)
+
+Staff, May 20, "Tesla hasn't had a blockbuster new product since the Model Y sport utility vehicle went on sale in 2020.
+
+But early reviews of the Tesla Semi, an electric heavy truck, suggest that it could be a much-needed hit for the company. And it could shake up the staid business of truck manufacturing in the same way that Tesla's cars upended the auto industry.
+
+After years of delays, Tesla has begun taking orders for the Semi, which is expected to cost around $290,000 for the version that can travel up to 500 miles on a charge, much less expensive than heavy-duty electric trucks sold by Daimler, Volvo and other companies,
+ which usually sell for at least $400,000, according to estimates by the International Council on Clean Transportation. Tesla has said the Semi will also have a more affordable model that can travel 350 miles between charges. Both options would travel farther
+ than trucks from other suppliers. ..." [Read
+ more](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.nytimes.com%2F2026%2F05%2F19%2Fbusiness%2Fenergy-environment%2Fteslas-semi-truck.html&data=05%7C02%7Corfe-lists%40princeton.edu%7C5bfd1b90be9b4642ce3c08deb9d1a0ef%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C639152507885292584%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=P3AJ%2B24TjIuhuhjNc8KxZOvQ%2FmjqC7IYSHFpDC2KIVw%3D&reserved=0)
+Hmmmm…  And,
+ once they put FSD on these and they become "Level 3".   With compatible "hours-of-service' regulations the productivity opportunity of these semis will revolutionize logistics,
+[schumpeter-style](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.dropbox.com%2Fscl%2Ffi%2Fh4vp8rtdfobhqm53auza5%2FSchumpeter-Quote.jpg%3Frlkey%3D2waijg7lj3qgyyc1239d3fc1c%26dl%3D0&data=05%7C02%7Corfe-lists%40princeton.edu%7C5bfd1b90be9b4642ce3c08deb9d1a0ef%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C639152507885318249%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=e6TFqUIITK9Ls4y%2BSlHxVKbqV37rWG8xea53c1KM7qY%3D&reserved=0).  Alain
+
+[Ecarx,
+ Backed by Geely's Li, to Sell Robotaxis to US Startup](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-05-19%2Fecarx-backed-by-geely-s-li-to-sell-robotaxis-to-us-startup&data=05%7C02%7Corfe-lists%40princeton.edu%7C5bfd1b90be9b4642ce3c08deb9d1a0ef%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C639152507885343185%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=0dk9m9lxQsY9w19jR41VVWeclSMDm5PdQ6rpzmsdUl4%3D&reserved=0)
+
+Staff, May 20, "A no-go for Waymo? A bill that would of cleared the way for the driverless cars didn't pass as the 2026 session wrapped. So,
+ what does that mean for the future? ...." [Read
+ more](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-05-19%2Fecarx-backed-by-geely-s-li-to-sell-robotaxis-to-us-startup&data=05%7C02%7Corfe-lists%40princeton.edu%7C5bfd1b90be9b4642ce3c08deb9d1a0ef%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C639152507885363397%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=rlxn%2FhnsI%2BFAU7de3FClOa3n%2FchfZHNShC4bOPsDHuM%3D&reserved=0)
+Hmmmm…  Congratulations
+ Kurtis!!! Alain
+
+[](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D9T5-T6cUffY&data=05%7C02%7Corfe-lists%40princeton.edu%7C5bfd1b90be9b4642ce3c08deb9d1a0ef%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C639152507885382440%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=ECRa6HZnmmm849VHr3vXQOiRoNNgwRO3jD8BHiGl8Gs%3D&reserved=0)[What
+ does the future of Waymo look like in the Twin Cities?](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D9T5-T6cUffY&data=05%7C02%7Corfe-lists%40princeton.edu%7C5bfd1b90be9b4642ce3c08deb9d1a0ef%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C639152507885405850%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=DofAJExxVPv50eQ2xMapm4BA7BH7U6FYPzPVolFZAcA%3D&reserved=0)
+
+Bloomberg, April 29, "China has suspended issuing new licenses for autonomous vehicles, according to people familiar with the matter, after dozens of Baidu
+ Inc.'s Apollo Go robotaxis suddenly stopped in Wuhan last month, stranding passengers and disrupting traffic.
+
+The incident alarmed authorities, and three agencies including the Ministry of Industry and Information Technology convened a meeting earlier this month with
+ officials from cities that have robotaxis or autonomous-driving pilots, the people said. Regulators called for local governments to conduct a full self-review and enhance safety monitoring to prevent similar incidents, said the people, who declined to be identified
+ because they aren't authorized to speak publicly.…" [Read
+ more](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D9T5-T6cUffY&data=05%7C02%7Corfe-lists%40princeton.edu%7C5bfd1b90be9b4642ce3c08deb9d1a0ef%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C639152507885433713%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=4C1oSeEt2M%2BuaBJ%2B7k%2Fb%2BMRdmsY%2BLaEdvb2WiEipLV8%3D&reserved=0)Hmmmm… All
+ of this is not easy.  Hopefully they'll share with us what happened so that we can try to not let it happen to us. Alain
+
+[The
+ Laws of Thought: The Quest for a Mathematical Theory of the Mind](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.amazon.com%2FLaws-Thought-Quest-Mathematical-Theory%2Fdp%2F1250358353%23&data=05%7C02%7Corfe-lists%40princeton.edu%7C5bfd1b90be9b4642ce3c08deb9d1a0ef%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C639152507885459264%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=WD8LXHCZfvllv%2BK7UUwxD8YvVqaUx%2BTalZLy23EGFR0%3D&reserved=0)
+
+T. Griffiths, Feb. 10, "Everyone has a basic understanding of how the physical world works. We learn about physics and chemistry in school, letting us explain
+ the world around us in terms of concepts like force, acceleration, and gravity―the Laws of Nature. But we don't have the same fluency with concepts needed to understand the world inside us―the Laws of Thought. While the story of how mathematics has been used
+ to reveal the mysteries of the universe is familiar, the story of how it has been used to study the mind is not. ..."[Read
+ more](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.amazon.com%2FLaws-Thought-Quest-Mathematical-Theory%2Fdp%2F1250358353%23&data=05%7C02%7Corfe-lists%40princeton.edu%7C5bfd1b90be9b4642ce3c08deb9d1a0ef%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C639152507885481478%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=OOKVCtUFB%2B%2BVHsBZQTXNOuODxQaNi7xP0SHVd7Up2ds%3D&reserved=0)Hmmmm…  Excellent
+ book.  Congratulations Tom.  Also watch Brian Keating & Tom in "T[hey
+ Built AI. Why Can't They Explain It? Tom Griffiths](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.youtube.com%2Fshorts%2FBT7Lf2RysBY&data=05%7C02%7Corfe-lists%40princeton.edu%7C5bfd1b90be9b4642ce3c08deb9d1a0ef%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C639152507885503382%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=xQlex5HAEArlyAbrryaqhfJ9DNgUuFORzR6EdZHG7jY%3D&reserved=0)" Alain
+
+[Waymo
+ expands pause to four cities as robotaxis keep driving into floods](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Ftechcrunch.com%2F2026%2F05%2F21%2Fwaymo-pauses-service-in-four-cities-as-robotaxis-keep-driving-into-floods%2F&data=05%7C02%7Corfe-lists%40princeton.edu%7C5bfd1b90be9b4642ce3c08deb9d1a0ef%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C639152507885525654%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=gGo525PytJoZs2cqSPiLWW4DMPR17PYXYPY1XkKQTpM%3D&reserved=0)
+
+S. O'Kane, May 21, "Waymo has now paused service in four cities because its robotaxis are struggling to deal with heavy rain and flooded roads, a problem that
+ already prompted the company to issue a recall last week.
+
+One of Waymo's robotaxis was spotted driving through a flooded street in Atlanta, Georgia, on Wednesday before it ultimately got stuck for about an hour, according to local news reports. The vehicle was recovered and removed from the scene, Waymo told TechCrunch.
+ Waymo says it paused service in the city, just like it has in San Antonio, Texas, while it figures out a solution. …"
+Read more
+Hmmmm…  This is not good.  Wasn't the control center in the
+ Philippines awake at the time???  Sorry, that's not completely fair of me, but what are we all trying to do here in the very beginning of all of this?  Trying to cross the finish line before we've barely even crossed the start line?  Why are we trying to do
+ hard things when we haven't even done easy things yet?  Why are we trying to give rides on the curviest roads?, in the middle of crowds, in heavy rain, in heavy snow, on roads that are likely to flood.  Are the selfies and the thrill rides that important?
+ Heavy rains were forecasted, the HD map data should identify roads likely to flood.... and the operation and oversight of these vehicles is doable using today's "AI".  Alain
+
+[](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fopen.substack.com%2Fpub%2Funderstandingai%2Fp%2Fhuman-drivers-keep-crashing-into-454%3Futm_campaign%3Dpost%26utm_medium%3Demail&data=05%7C02%7Corfe-lists%40princeton.edu%7C5bfd1b90be9b4642ce3c08deb9d1a0ef%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C639152507885547934%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=sDfyJABVtKdVnMdGa3Zvdasq3A2TnAmtCMAN7wLG2aw%3D&reserved=0)[Princeton
+ Professor Alain Kornhauser, Always on the Move, Advances Mobility for All](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.tapinto.net%2Ftowns%2Fprinceton%2Fsections%2Floose-ends%2Farticles%2Fprinceton-professor-alain-kornhauser-always-on-the-move-advances-mobility-for-all&data=05%7C02%7Corfe-lists%40princeton.edu%7C5bfd1b90be9b4642ce3c08deb9d1a0ef%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C639152507885576574%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=nz49O0tJhVYUK2fjfDHoKccTJ2XbrWGiSY3Fs8o8QcE%3D&reserved=0)
+
+P. Hersh, March 21, "Alain Kornhauser, professor of Operations Research & Financial Engineering at Princeton University, realized early on
+ in his academic career that his dream of going to Mars was unrealistic in his lifetime.
+
+"So, I had to pivot," says Alain, who has been on Princeton University's faculty since 1972.
+
+He moved on to far more down-to-earth dreams. He has achieved an academic and business career revolving around the movement of people and cargo from point a to point b on this earth. Alain obsesses about mobility, just not the kind you might expect for an 81,
+ almost 82-year-old. ..." Read
+ more[](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.tapinto.net%2Ftowns%2Fprinceton%2Fsections%2Floose-ends%2Farticles%2Fprinceton-professor-alain-kornhauser-always-on-the-move-advances-mobility-for-all&data=05%7C02%7Corfe-lists%40princeton.edu%7C5bfd1b90be9b4642ce3c08deb9d1a0ef%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C639152507885605243%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=D6jCF0DpiGjeIr2ZaX4vQct3j6npJM5%2FXrXOdzY51m8%3D&reserved=0)Hmmmm…  Thank
+ you Pam! Alain
+
+[](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fhandyrides.com%2Fwelcome&data=05%7C02%7Corfe-lists%40princeton.edu%7C5bfd1b90be9b4642ce3c08deb9d1a0ef%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C639152507885632433%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=yVPS%2F7FXQGoQfggluBChoe%2BNDhdHj1nuSPdNCTPUQ8k%3D&reserved=0)
+[HandyRides](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fhandyrides.com%2Fwelcome&data=05%7C02%7Corfe-lists%40princeton.edu%7C5bfd1b90be9b4642ce3c08deb9d1a0ef%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C639152507885659189%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=M9%2FpPWXsgVfcp7m5rV4OVfbaTHva8gbpxq%2BKyAII494%3D&reserved=0) Update
+
+Alain Kornhauser, May 23,
+Continue follow-up to  "[My
+ Cousin Vinny](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FMy_Cousin_Vinny&data=05%7C02%7Corfe-lists%40princeton.edu%7C5bfd1b90be9b4642ce3c08deb9d1a0ef%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C639152507885683836%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=uwsoo7jIsQr%2BELW5gxgVGKH6d4UrYVUD5dXvsC7RfGY%3D&reserved=0)" in  [Atlanta](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.dropbox.com%2Fscl%2Ffi%2Foyem2csug12rf6rf1hodc%2FSolomon.JPG%3Frlkey%3Daspn8jbg17vep2iiegtq1pe6l%26dl%3D0&data=05%7C02%7Corfe-lists%40princeton.edu%7C5bfd1b90be9b4642ce3c08deb9d1a0ef%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C639152507885704919%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=Fkh8cyMijS2T%2B%2Bd4XL6mMMViKYS9HN3i8bsRwoufqqs%3D&reserved=0) (and NC) and an
+[Old
+ Guy giving ride to an Old Guy](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.dropbox.com%2Fscl%2Ffi%2F8teew0sxp65sn3k6f7t7w%2FJohn1Cropped.JPEG%3Frlkey%3Do3b26a8exf6aind32b055dbqr%26dl%3D0&data=05%7C02%7Corfe-lists%40princeton.edu%7C5bfd1b90be9b4642ce3c08deb9d1a0ef%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C639152507885729829%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=lMNPxQUN9q%2BhU6YsYmTYt1cvXTRK99aG8DmOIO7nDlU%3D&reserved=0) who needed a ride." Hmmmm… .  Also adding dignity to our mission:
+
+[Elizabeth](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DEvYQTvCVYz0&data=05%7C02%7Corfe-lists%40princeton.edu%7C5bfd1b90be9b4642ce3c08deb9d1a0ef%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C639152507885751120%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=a9dytuk8iuq78XrglHeymX4O0LuHtZeNC6syFE1yolw%3D&reserved=0)
+ & [Alain](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DThEf_88FFs4&data=05%7C02%7Corfe-lists%40princeton.edu%7C5bfd1b90be9b4642ce3c08deb9d1a0ef%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C639152507885770381%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=ZZm2THxlgTmSX8HOM%2FjzuuDmFn4TRx5wddjZkMbgfKU%3D&reserved=0). 🙂
 
 ***************************************************************************************************************
 
-This list is maintained by [Alain Kornhauser](mailto:alaink@princeton.edu) and hosted by the [Princeton University LISTSERV](http://lists.princeton.edu).
+This list is maintained by  and hosted by the
+.
+
+ your subscription.

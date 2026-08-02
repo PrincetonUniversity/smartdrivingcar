@@ -37,6 +37,7 @@ class TestProcessInbox:
 
             config = {
                 'inbox_directory': inbox,
+                'import_directory': os.path.join(tmpdir, 'import'),
                 'logging': {'enabled': False}
             }
 
@@ -47,6 +48,7 @@ class TestProcessInbox:
     def test_handles_missing_inbox(self):
         config = {
             'inbox_directory': '/nonexistent/path',
+            'import_directory': '/nonexistent/path2',
             'logging': {'enabled': False}
         }
 
@@ -59,8 +61,10 @@ class TestProcessInbox:
         with tempfile.TemporaryDirectory() as tmpdir:
             # Setup directories
             inbox = os.path.join(tmpdir, 'inbox')
+            import_dir = os.path.join(tmpdir, 'import')
             newsletters = os.path.join(tmpdir, '_newsletters')
             os.makedirs(inbox)
+            os.makedirs(import_dir)
             os.makedirs(newsletters)
 
             # Create a test .eml file
@@ -77,6 +81,7 @@ Content-Type: text/html; charset="utf-8"
 
             config = {
                 'inbox_directory': inbox,
+                'import_directory': import_dir,
                 'logging': {'enabled': False}
             }
 

@@ -130,12 +130,37 @@ def extract_slug_from_subject(subject):
         if re.match(r'^\d+\.\d+', slug):
             return slug
 
+    # If the subject has "SmartDrivingCars_" or "SmartDrivingCar_" or "SmartDrivingCars eLetter..."
+    # We can clean the prefix and check if the remainder starts with a pattern like \d+.\d+
+    cleaned = re.sub(r'^(SmartDrivingCars?\s+eLetter\.*|SmartDrivingCars?_?)\s*', '', subject, flags=re.IGNORECASE)
+    slug = slugify(cleaned)
+    if re.match(r'^\d+\.\d+', slug):
+        return slug
+
     # Fallback: search for direct pattern like "14.10-SevalOz-5.23.26" in the subject
     match = re.search(r'(\d+\.\d+-\S+)', subject)
     if match:
         slug = slugify(match.group(1).strip())
         if re.match(r'^\d+\.\d+', slug):
             return slug
+    return None
+
+
+def extract_slug_from_filename(filepath):
+    """Extract and slugify the newsletter identifier from the filename if it matches our pattern."""
+    if not filepath:
+        return None
+    basename = os.path.basename(filepath)
+    # Remove file extension
+    base_no_ext = os.path.splitext(basename)[0]
+
+    # Check if it starts with a common prefix
+    cleaned = re.sub(r'^(SmartDrivingCars?\s+eLetter\.*|SmartDrivingCars?_?)\s*', '', base_no_ext, flags=re.IGNORECASE)
+
+    # Try slugifying it
+    slug = slugify(cleaned)
+    if re.match(r'^\d+\.\d+', slug):
+        return slug
     return None
 
 
@@ -253,6 +278,10 @@ def main():
         subject = extract_subject_from_eml(eml_path)
         if subject:
             author_slug = extract_slug_from_subject(subject)
+
+    # Try extracting slug from input filename (very reliable fallback)
+    if not author_slug and args.input:
+        author_slug = extract_slug_from_filename(args.input)
 
     # Fallback: Extract author's slug from SmartDrivingCar.Com/<slug> pattern in body
     if not author_slug:

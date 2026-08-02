@@ -4,6 +4,8 @@ on:
   push:
     paths:
       - 'inbox/*.eml'
+      - 'inbox/*.html'
+      - 'import/*.eml'
       - 'import/*.html'
   workflow_dispatch:
 
@@ -46,6 +48,14 @@ jobs:
           HAS_FILES=false
           if ls inbox/*.eml 1> /dev/null 2>&1; then
             echo "Found .eml files in inbox"
+            HAS_FILES=true
+          fi
+          if ls inbox/*.html 1> /dev/null 2>&1; then
+            echo "Found .html files in inbox"
+            HAS_FILES=true
+          fi
+          if ls import/*.eml 1> /dev/null 2>&1; then
+            echo "Found .eml files in import"
             HAS_FILES=true
           fi
           if ls import/*.html 1> /dev/null 2>&1; then
