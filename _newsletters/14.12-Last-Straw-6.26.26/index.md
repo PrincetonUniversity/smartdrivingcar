@@ -2,7 +2,7 @@
 layout: newsletter
 title: "Friday, June 26, 2026"
 date: 2026-06-26
-permalink: /14.12-last-straw-6.26.26/
+permalink: /14.12-Last-Straw-6.26.26/
 display_name: "14.12 - Last Straw"
 ---
 

@@ -2,7 +2,7 @@
 layout: newsletter
 title: "Sunday, July 13, 2026"
 date: 2026-07-13
-permalink: /14.13-theletter-7.12.26/
+permalink: /14.13-TheLetter-7.12.26/
 display_name: "14.13 - Theletter"
 ---
 

@@ -15,10 +15,12 @@ RE_TAGS = re.compile(r'<(script|style)[^>]*>.*?</\1>', re.I | re.S)
 RE_HTML_TAG = re.compile(r'<[^>]+>')
 
 
-def slugify(text: str) -> str:
+def slugify(text: str, preserve_case: bool = False) -> str:
     text = unicodedata.normalize('NFKD', text).encode('ascii', 'ignore').decode('ascii')
     # Preserve dots, replace other non-alphanum (except dot) with dash
-    text = re.sub(r'[^a-zA-Z0-9.]+', '-', text).strip('-').lower()
+    text = re.sub(r'[^a-zA-Z0-9.]+', '-', text).strip('-')
+    if not preserve_case:
+        text = text.lower()
     return text or 'issue'
 
 
@@ -126,21 +128,21 @@ def extract_slug_from_subject(subject):
     match = re.search(r'smartdrivingcar\.com/(.+)', subject, re.IGNORECASE)
     if match:
         raw = match.group(1).strip()
-        slug = slugify(raw)
+        slug = slugify(raw, preserve_case=True)
         if re.match(r'^\d+\.\d+', slug):
             return slug
 
     # If the subject has "SmartDrivingCars_" or "SmartDrivingCar_" or "SmartDrivingCars eLetter..."
     # We can clean the prefix and check if the remainder starts with a pattern like \d+.\d+
     cleaned = re.sub(r'^(SmartDrivingCars?\s+eLetter\.*|SmartDrivingCars?_?)\s*', '', subject, flags=re.IGNORECASE)
-    slug = slugify(cleaned)
+    slug = slugify(cleaned, preserve_case=True)
     if re.match(r'^\d+\.\d+', slug):
         return slug
 
     # Fallback: search for direct pattern like "14.10-SevalOz-5.23.26" in the subject
     match = re.search(r'(\d+\.\d+-\S+)', subject)
     if match:
-        slug = slugify(match.group(1).strip())
+        slug = slugify(match.group(1).strip(), preserve_case=True)
         if re.match(r'^\d+\.\d+', slug):
             return slug
     return None
@@ -158,7 +160,7 @@ def extract_slug_from_filename(filepath):
     cleaned = re.sub(r'^(SmartDrivingCars?\s+eLetter\.*|SmartDrivingCars?_?)\s*', '', base_no_ext, flags=re.IGNORECASE)
 
     # Try slugifying it
-    slug = slugify(cleaned)
+    slug = slugify(cleaned, preserve_case=True)
     if re.match(r'^\d+\.\d+', slug):
         return slug
     return None
