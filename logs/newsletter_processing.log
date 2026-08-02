@@ -158,3 +158,14 @@ Created _newsletters/14.9-BeijingAutoShow-5.03.26/index.md
 2026-08-02 07:56:53,880 - INFO - Starting newsletter processing at 2026-08-02T07:56:53.880435
 2026-08-02 07:56:53,880 - INFO - No files found to process
 2026-08-02 07:56:53,880 - INFO - Processing complete. Success: 0, Failed: 0
+2026-08-02 08:58:58,172 - INFO - Starting newsletter processing at 2026-08-02T08:58:58.172355
+2026-08-02 08:58:58,172 - INFO - Found 2 .eml file(s) in import
+2026-08-02 08:58:58,172 - INFO - Processing: import/SmartDrivingCars_14.12-Last Straw-6.26.26.eml
+2026-08-02 08:58:58,416 - INFO - SUCCESS: import/SmartDrivingCars_14.12-Last Straw-6.26.26.eml
+2026-08-02 08:58:58,416 - INFO - Created _newsletters/14.12-Last-Straw-6.26.26/index.md
+2026-08-02 08:58:58,416 - INFO - Removed processed file: import/SmartDrivingCars_14.12-Last Straw-6.26.26.eml
+2026-08-02 08:58:58,431 - INFO - Processing: import/SmartDrivingCars_14.13-TheLetter-7.12.26.eml
+2026-08-02 08:58:58,663 - INFO - SUCCESS: import/SmartDrivingCars_14.13-TheLetter-7.12.26.eml
+2026-08-02 08:58:58,663 - INFO - Created _newsletters/14.13-TheLetter-7.12.26/index.md
+2026-08-02 08:58:58,663 - INFO - Removed processed file: import/SmartDrivingCars_14.13-TheLetter-7.12.26.eml
+2026-08-02 08:58:58,673 - INFO - Processing complete. Success: 2, Failed: 0
