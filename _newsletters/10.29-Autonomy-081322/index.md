@@ -397,12 +397,7 @@ F.
                                                           episode 277 of
                                                           Smart Driving
                                                           Cars."
-SmartDrivingCars[ZoomCast Episode 276](https://youtu.be/bvlEyVEN43s
- db5af077d7791bda4%7C0%7C0%7C637960127163923991%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=H%2FiBwhxl7UirGt1ewB1GOQ%2FdXnoYeHM4JduX22%2FQbVI%3D&reserved=0)/
-                                                          [PodCast 2](https://anchor.fm/smartdrivingcars/episodes/Smart-Driving-Cars-Episode-268-Why-wireless-EV-charging-is-key-to-autonomous-mobility-e1iimbi)[7](https://nam12.saf!
- elinks.protection.outlook.com/?url=https%3A%2F%2Fanchor.fm%2Fsmartdrivingcars%2Fepisodes%2FSmart-Driving-Cars-TRB-wrap-Tesla--more-Episode-276-e1llte5&data=05%7C01%7Calaink%40Princeton.EDU%7Cded33bfcbe524e46095508da7d5b054b%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C637960127163923991%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=5AxR89TLytoQGEGpWWPaWzSI%2FZh92Nyp9zLbTRLfb5A%3D&reserved=0)[6](https://anchor.fm/smartdrivingcars/episodes/Smart-Driving-Cars-TRB-wrap-Tesla--more-Episode-276-e1llte5
- 5%7C01%7Calaink%40Princeton.EDU%7Cded33bfcbe524e46095508da7d5b054b%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C637960127164080221%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=GhqJi%2FgowFR0vsI1x1CGvx1%2BF65Rv88BFJ36lEFRs6o%3D&reserved=0) w/R. Mudge, President, Compass
-                                                          Transportation
+SmartDrivingCars [ZoomCast Episode 276](https://youtu.be/bvlEyVEN43s) / [PodCast 276](https://anchor.fm/smartdrivingcars/episodes/Smart-Driving-Cars-TRB-wrap-Tesla--more-Episode-276-e1llte5) w/R. Mudge, President, Compass Transportation
 
 F.
                                                           Fishkin, July
