@@ -6,14 +6,6 @@ permalink: /14.14-TheLetter-8.2.26/
 display_name: "14.14 - Theletter"
 ---
 
-⚠ SECURITY WARNING
-
-This email links to a Google Form.
-
-Do not enter your password or Duo code in the form.
-
-Princeton University will never ask for your login credentials. If the message is suspicious, report it to the Phish Bowl at phishbowl@princeton.edu
-
  August 6, 2026
 
 Hello from Peru
