@@ -6,8 +6,6 @@ permalink: /14.14-TheLetter-8.2.26/
 display_name: "14.14 - Theletter"
 ---
 
- August 6, 2026
-
 Hello from Peru
 
 14h

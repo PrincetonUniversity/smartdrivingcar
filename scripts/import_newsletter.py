@@ -187,18 +187,51 @@ def extract_subject_from_eml(path):
         msg = BytesParser(policy=policy.default).parse(f)
     return msg.get('Subject', '')
 
+SDC_RE = re.compile(r'smartdrivingcar\.com', re.IGNORECASE)
+
+
+def _remove_sdc_html(text):
+    """Remove smartdrivingcar.com links from HTML without touching neighbouring text.
+
+    Raw HTML source lines wrap at arbitrary points, so deleting whole source
+    lines (as the plain-text path does) can cut visible words that merely share
+    a line with an href. Work on the parsed tree instead: drop anchors that
+    point at smartdrivingcar.com, then drop any paragraph whose visible text
+    still mentions the domain, then prune blocks left empty.
+    """
+    from bs4 import BeautifulSoup
+    soup = BeautifulSoup(text, 'html.parser')
+    for a in soup.find_all('a'):
+        targets = ' '.join(str(a.get(attr, '')) for attr in ('href', 'originalsrc'))
+        if SDC_RE.search(targets):
+            a.decompose()
+    for block in soup.find_all(['p', 'li']):
+        if not getattr(block, 'decomposed', False) and SDC_RE.search(block.get_text()):
+            block.decompose()
+    for block in soup.find_all(['p', 'li']):
+        if getattr(block, 'decomposed', False):
+            continue
+        if not block.get_text().replace('\xa0', ' ').strip() and not block.find('img'):
+            block.decompose()
+    return str(soup)
+
+
 def remove_sdc_line(text):
-    lines = text.splitlines()
+    if re.search(r'<\s*(a|p|div|html|body)\b', text, re.IGNORECASE):
+        text = _remove_sdc_html(text)
+        # Listserv macro lines (unsubscribe/subscribe ticket URLs)
+        return '\n'.join(l for l in text.splitlines() if not re.search(r'TICKET_URL\(', l))
     new_lines = []
-    for line in lines:
-        # Remove any line that links to smartdrivingcar.com (markdown or HTML)
-        if re.search(r'(\[.*?\]\(https?://smartdrivingcar\.com.*?\))|(<a[^>]*href=["\']https?://smartdrivingcar\.com.*?>.*?</a>)|smartdrivingcar\.com', line, re.IGNORECASE):
+    for line in text.splitlines():
+        # Remove any line that links to smartdrivingcar.com (markdown or plain text)
+        if SDC_RE.search(line):
             continue
         # Remove Listserv macro lines (unsubscribe/subscribe ticket URLs)
         if re.search(r'TICKET_URL\(', line):
             continue
         new_lines.append(line)
     return '\n'.join(new_lines)
+
 
 def remove_security_banner(md, max_lines=15):
     """Remove the Princeton mail-gateway phishing banner from converted markdown.
