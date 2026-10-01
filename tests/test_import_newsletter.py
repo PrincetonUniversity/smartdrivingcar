@@ -120,6 +120,37 @@ class TestRemoveSdcLine:
         result = remove_sdc_line(text)
         assert result == text
 
+    def test_html_keeps_words_sharing_a_source_line_with_sdc_href(self):
+        """Regression: 14.14/14.15 lost visible words wrapped onto an href line."""
+        html = (
+            '<p align="center"><a href="https://smartdrivingcar.com/Thursday, August 6, 2026">'
+            '<font href="https://smartdrivingcar.com/x">Thursday,\n August 6, 2026</font></a></p>\n'
+            '<p align="center"><a href="https://smartdrivingcar.com/14.15-Godfather-9.26.26">14.15</a>'
+            '<i>It\'s been\n a while</i></p>\n'
+            '<p>Body text</p>'
+        )
+        result = remove_sdc_line(html)
+        assert "August 6, 2026" not in result
+        assert "smartdrivingcar.com" not in result.lower()
+        assert "It's been" in result
+        assert "Body text" in result
+
+    def test_html_removes_safelinks_wrapped_sdc_anchor(self):
+        html = (
+            '<p>Keep me</p><p><a href="https://nam12.safelinks.protection.outlook.com/?url='
+            'https%3A%2F%2Fsmartdrivingcar.com%2F14.13" '
+            'originalsrc="https://smartdrivingcar.com/14.13">14.13-TheLetter-7.12.26</a></p>'
+        )
+        result = remove_sdc_line(html)
+        assert "14.13-TheLetter" not in result
+        assert "Keep me" in result
+
+    def test_html_keeps_other_links(self):
+        html = '<p><a href="https://example.com/story">Story</a> and more</p>'
+        result = remove_sdc_line(html)
+        assert 'href="https://example.com/story"' in result
+        assert "and more" in result
+
 
 BANNER = (
     "\u26a0 SECURITY WARNING\n\n"
