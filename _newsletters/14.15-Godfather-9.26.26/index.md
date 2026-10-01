@@ -6,14 +6,6 @@ permalink: /14.15-Godfather-9.26.26/
 display_name: "14.15 - Godfather"
 ---
 
-⚠ SECURITY WARNING
-
-This email links to a Google Form.
-
-Do not enter your password or Duo code in the form.
-
-Princeton University will never ask for your login credentials. If the message is suspicious, report it to the Phish Bowl at phishbowl@princeton.edu
-
  been a while
 
 15h

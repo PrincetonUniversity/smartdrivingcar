@@ -200,6 +200,39 @@ def remove_sdc_line(text):
         new_lines.append(line)
     return '\n'.join(new_lines)
 
+def remove_security_banner(md, max_lines=15):
+    """Remove the Princeton mail-gateway phishing banner from converted markdown.
+
+    The banner begins with a "SECURITY WARNING" line and ends with a line that
+    mentions the Phish Bowl / phishbowl@princeton.edu. The block is only removed
+    when the end marker appears within max_lines of the start, so ordinary
+    newsletter text is never swallowed.
+    """
+    start_re = re.compile(r'SECURITY\s+WARNING', re.IGNORECASE)
+    end_re = re.compile(r'phish\s*bowl', re.IGNORECASE)
+    lines = md.splitlines()
+    out = []
+    i = 0
+    while i < len(lines):
+        if start_re.search(lines[i]):
+            end = None
+            for j in range(i, min(i + max_lines, len(lines))):
+                if end_re.search(lines[j]):
+                    end = j
+                    break
+            if end is not None:
+                i = end + 1
+                # Drop blank lines left behind by the removed block
+                while i < len(lines) and not lines[i].strip():
+                    i += 1
+                continue
+        out.append(lines[i])
+        i += 1
+    result = '\n'.join(out)
+    if md.endswith('\n') and not result.endswith('\n'):
+        result += '\n'
+    return result
+
 def add_margins_to_markdown(md):
     # Do not wrap in a div; let layout/CSS handle margins
     return md.strip() + '\n'
@@ -329,6 +362,9 @@ def main():
         md = raw.strip() + '\n'
     else:
         md = html_to_markdown(raw)
+
+    # Strip the mail gateway's phishing banner
+    md = remove_security_banner(md)
 
     # Add left/right margins for readability
     md = add_margins_to_markdown(md)
