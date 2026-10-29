@@ -51,7 +51,7 @@ jobs:
         with:
           args: --no-progress --format detailed --offline --root-dir ./_site ./_site
           fail: true
-      - name: Ensure private pipeline files are excluded
+      - name: Check public artifact and archive navigation
         run: .venv/bin/python scripts/check_site.py
       - uses: actions/upload-pages-artifact@7b1f4a764d45c48632c6b24a0339c27f5614fb0b # v4
         with:

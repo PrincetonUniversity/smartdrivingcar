@@ -4,11 +4,17 @@ layout: default
 
 <h1>{{ page.title }}</h1>
 
-<div class="newsletter-page">
-  <div class="newsletter-main">
+<div class="archive-layout">
+  <section class="archive-issues" aria-label="Newsletter issues">
     <p><a href="/newsletter/">&larr; All Newsletters</a>{% if page.year and page.month %} | <a href="/newsletter/{{ page.year }}/">{{ page.year }}</a>{% endif %}</p>
 
-    <ul class="newsletter-archive">
+    <details class="archive-browser">
+      <summary>Browse archive</summary>
+      <nav aria-label="Archive navigation in content">
+        {% include archive-links.html %}
+      </nav>
+    </details>
+    <ul class="archive-issue-list">
     {% assign issues = site.newsletters | sort: 'date' | reverse %}
     {% for issue in issues %}
       {% assign issue_year = issue.date | date: '%Y' %}
@@ -28,41 +34,13 @@ layout: default
       {% endif %}
     {% endfor %}
     </ul>
-  </div>
+  </section>
 
-  <div class="newsletter-sidebar-col">
-    <nav class="newsletter-sidebar" aria-label="Newsletter archive navigation">
-      <h3>Browse by Year</h3>
-      <ul class="year-list">
-      {% assign years_seen = "" %}
-      {% for issue in issues %}
-        {% assign issue_year = issue.date | date: '%Y' %}
-        {% unless years_seen contains issue_year %}
-          {% assign years_seen = years_seen | append: issue_year | append: "," %}
-        <li><a href="/newsletter/{{ issue_year }}/">{{ issue_year }}</a></li>
-        {% endunless %}
-      {% endfor %}
-      </ul>
-
-      {% if page.year and page.month == nil %}
-      <h3>Browse by Month</h3>
-      <ul class="year-list">
-      {% assign months_seen = "" %}
-      {% for issue in issues %}
-        {% assign issue_year = issue.date | date: '%Y' %}
-        {% if issue_year == page.year %}
-          {% assign issue_month = issue.date | date: '%m' %}
-          {% assign month_key = issue_year | append: "-" | append: issue_month %}
-          {% unless months_seen contains month_key %}
-            {% assign months_seen = months_seen | append: month_key | append: "," %}
-        <li><a href="/newsletter/{{ issue_year }}/{{ issue_month }}/">{{ issue.date | date: '%B' }}</a></li>
-          {% endunless %}
-        {% endif %}
-      {% endfor %}
-      </ul>
-      {% endif %}
+  <aside class="archive-sidebar">
+    <nav class="archive-navigation" aria-label="Newsletter archive navigation">
+      {% include archive-links.html %}
     </nav>
-  </div>
+  </aside>
 </div>
 
 {{ content }}

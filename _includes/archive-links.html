@@ -1,0 +1,30 @@
+{% assign archive_issues = site.newsletters | sort: 'date' | reverse %}
+<h3>Browse by Year</h3>
+<ul class="archive-link-list">
+{% assign archive_years_seen = "" %}
+{% for archive_issue in archive_issues %}
+  {% assign archive_year = archive_issue.date | date: '%Y' %}
+  {% unless archive_years_seen contains archive_year %}
+    {% assign archive_years_seen = archive_years_seen | append: archive_year | append: "," %}
+  <li><a href="{{ '/newsletter/' | append: archive_year | append: '/' | relative_url }}">{{ archive_year }}</a></li>
+  {% endunless %}
+{% endfor %}
+</ul>
+
+{% if page.year and page.month == nil %}
+<h3>Browse by Month</h3>
+<ul class="archive-link-list">
+{% assign archive_months_seen = "" %}
+{% for archive_issue in archive_issues %}
+  {% assign archive_year = archive_issue.date | date: '%Y' %}
+  {% if archive_year == page.year %}
+    {% assign archive_month = archive_issue.date | date: '%m' %}
+    {% assign archive_month_key = archive_year | append: "-" | append: archive_month %}
+    {% unless archive_months_seen contains archive_month_key %}
+      {% assign archive_months_seen = archive_months_seen | append: archive_month_key | append: "," %}
+  <li><a href="{{ '/newsletter/' | append: archive_year | append: '/' | append: archive_month | append: '/' | relative_url }}">{{ archive_issue.date | date: '%B' }}</a></li>
+    {% endunless %}
+  {% endif %}
+{% endfor %}
+</ul>
+{% endif %}
