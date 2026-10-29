@@ -1,0 +1,155 @@
+name: Reconcile mailbox and publish
+
+on:
+  schedule:
+    - cron: '7,22,37,52 * * * *'
+  workflow_dispatch:
+
+concurrency:
+  group: pages-deploy
+  cancel-in-progress: false
+
+permissions:
+  contents: read
+
+env:
+  NEWSLETTER_PUBLIC_URL: ${{ vars.NEWSLETTER_PUBLIC_URL }}
+
+jobs:
+  reconcile:
+    if: vars.NEWSLETTER_PIPELINE_ENABLED == 'true'
+    runs-on: ubuntu-24.04
+    timeout-minutes: 15
+    environment: newsletter-mailbox
+    permissions:
+      contents: write
+      id-token: write
+    outputs:
+      revision: ${{ steps.prepare.outputs.revision }}
+      issues: ${{ steps.prepare.outputs.issues }}
+      created: ${{ steps.prepare.outputs.created }}
+      deploy: ${{ steps.prepare.outputs.deploy }}
+    steps:
+      - uses: actions/checkout@d23441a48e516b6c34aea4fa41551a30e30af803 # v6
+        with:
+          ref: main
+      - uses: actions/setup-python@ece7cb06caefa5fff74198d8649806c4678c61a1 # v6
+        with:
+          python-version: '3.13.9'
+      - run: |
+          python -m venv .venv
+          .venv/bin/python -m pip install -r requirements.lock
+      - name: Validate configuration before login
+        env:
+          NEWSLETTER_MAILBOX: ${{ secrets.NEWSLETTER_MAILBOX }}
+          NEWSLETTER_ALLOWED_AUTHOR: ${{ vars.NEWSLETTER_ALLOWED_AUTHOR }}
+          NEWSLETTER_LIST_ADDRESS: ${{ vars.NEWSLETTER_LIST_ADDRESS }}
+          NEWSLETTER_LOOKBACK_DAYS: ${{ vars.NEWSLETTER_LOOKBACK_DAYS || '90' }}
+          NEWSLETTER_MAX_AGE_DAYS: ${{ vars.NEWSLETTER_MAX_AGE_DAYS || '0' }}
+        run: |
+          .venv/bin/python -c 'import sys; sys.path.insert(0,"scripts"); from poll_mailbox import config; config(); print("PASS: mailbox configuration valid")'
+      - name: Validate optional monitoring configuration
+        env:
+          HEALTHCHECKS_PING_URL: ${{ secrets.HEALTHCHECKS_PING_URL }}
+          RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
+          RESEND_FROM: ${{ secrets.RESEND_FROM }}
+          RESEND_TO: ${{ secrets.RESEND_TO }}
+        run: .venv/bin/python scripts/pipeline_observe.py validate
+      - name: Signal poll start
+        continue-on-error: true
+        env:
+          HEALTHCHECKS_PING_URL: ${{ secrets.HEALTHCHECKS_PING_URL }}
+          RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
+          RESEND_FROM: ${{ secrets.RESEND_FROM }}
+          RESEND_TO: ${{ secrets.RESEND_TO }}
+          RESEND_NOTIFY_START: ${{ vars.RESEND_NOTIFY_START || 'false' }}
+        run: .venv/bin/python scripts/pipeline_observe.py start
+      - name: Azure OIDC login without subscription access
+        uses: azure/login@a641126d1b8aa4d1fa005f4f92df94a3a4c4c906 # v3
+        with:
+          client-id: ${{ secrets.NEWSLETTER_AZURE_CLIENT_ID }}
+          tenant-id: ${{ secrets.NEWSLETTER_AZURE_TENANT_ID }}
+          allow-no-subscriptions: true
+        env:
+          AZURE_CORE_OUTPUT: none
+      - name: Reconcile retained mailbox messages
+        env:
+          NEWSLETTER_MAILBOX: ${{ secrets.NEWSLETTER_MAILBOX }}
+          NEWSLETTER_ALLOWED_AUTHOR: ${{ vars.NEWSLETTER_ALLOWED_AUTHOR }}
+          NEWSLETTER_LIST_ADDRESS: ${{ vars.NEWSLETTER_LIST_ADDRESS }}
+          NEWSLETTER_LOOKBACK_DAYS: ${{ vars.NEWSLETTER_LOOKBACK_DAYS || '90' }}
+          NEWSLETTER_MAX_AGE_DAYS: ${{ vars.NEWSLETTER_MAX_AGE_DAYS || '0' }}
+        run: .venv/bin/python scripts/poll_mailbox.py
+      - name: Commit content and decide whether deployment needs repair
+        id: prepare
+        run: |
+          set -euo pipefail
+          git config user.name 'github-actions[bot]'
+          git config user.email 'github-actions[bot]@users.noreply.github.com'
+          git add -- _newsletters/ newsletter/
+          if ! git diff --staged --quiet; then
+            git commit -m 'Publish reconciled Listserv newsletters'
+            git push origin HEAD:main
+          fi
+          echo "revision=$(git rev-parse HEAD)" >> "$GITHUB_OUTPUT"
+          .venv/bin/python - <<'PY'
+          import json, os
+          from pathlib import Path
+          report = json.loads(Path('pipeline-result.json').read_text())
+          with open(os.environ['GITHUB_OUTPUT'], 'a') as stream:
+              stream.write('issues=' + json.dumps(report['issues']) + '\n')
+              stream.write('created=' + str(report['created']) + '\n')
+          PY
+          if .venv/bin/python scripts/verify_publication.py; then
+            echo 'deploy=false' >> "$GITHUB_OUTPUT"
+          else
+            echo 'deploy=true' >> "$GITHUB_OUTPUT"
+          fi
+  publish:
+    needs: reconcile
+    if: needs.reconcile.outputs.deploy == 'true'
+    permissions:
+      contents: read
+      pages: write
+      id-token: write
+    uses: ./.github/workflows/deploy-site.yml
+    with:
+      revision: ${{ needs.reconcile.outputs.revision }}
+      issues: ${{ needs.reconcile.outputs.issues }}
+  observe:
+    needs: [reconcile, publish]
+    if: always() && vars.NEWSLETTER_PIPELINE_ENABLED == 'true'
+    runs-on: ubuntu-24.04
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@d23441a48e516b6c34aea4fa41551a30e30af803 # v6
+        with:
+          persist-credentials: false
+      - uses: actions/setup-python@ece7cb06caefa5fff74198d8649806c4678c61a1 # v6
+        with:
+          python-version: '3.13.9'
+      - run: |
+          python -m venv .venv
+          .venv/bin/python -m pip install -r requirements.lock
+      - name: Report final publication status
+        env:
+          POLL_RESULT: ${{ needs.reconcile.result }}
+          DEPLOY_RESULT: ${{ needs.publish.result }}
+          CREATED: ${{ needs.reconcile.outputs.created || '0' }}
+          DEPLOYED: ${{ needs.reconcile.outputs.deploy }}
+          HEALTHCHECKS_PING_URL: ${{ secrets.HEALTHCHECKS_PING_URL }}
+          RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
+          RESEND_FROM: ${{ secrets.RESEND_FROM }}
+          RESEND_TO: ${{ secrets.RESEND_TO }}
+          RESEND_NOTIFY_IDLE: ${{ vars.RESEND_NOTIFY_IDLE || 'false' }}
+        run: |
+          .venv/bin/python - <<'PY'
+          import json, os, subprocess
+          from pathlib import Path
+          ok = os.environ['POLL_RESULT'] == 'success' and os.environ['DEPLOY_RESULT'] in ('success', 'skipped')
+          Path('pipeline-result.json').write_text(json.dumps({'created': int(os.environ['CREATED']), 'repaired': os.environ['DEPLOYED'] == 'true'}))
+          result = subprocess.run(['.venv/bin/python', 'scripts/pipeline_observe.py', 'success' if ok else 'failure'])
+          if not ok or result.returncode:
+              raise SystemExit(1)
+          print('PASS: end-to-end publishing cycle complete')
+          PY

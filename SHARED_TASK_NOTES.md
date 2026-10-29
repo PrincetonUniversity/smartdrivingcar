@@ -1,5 +1,9 @@
 # Shared Task Notes
 
+## October 2026 publishing update
+
+The mailbox reconciliation replacement, secure renderer, explicit Pages deployment, optional monitoring, and administrator commissioning procedure are implemented. See [the current setup and improvement plan](docs/newsletter-publishing.md). The historical notes below describe the original Azure path; the new reconciler stays disabled until administrator setup is complete.
+
 ## Current State
 
 All core features are now implemented and tested. Run tests with:

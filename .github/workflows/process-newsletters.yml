@@ -2,172 +2,56 @@ name: Process Newsletters
 
 on:
   push:
-    paths:
-      - 'inbox/*.eml'
-      - 'inbox/*.html'
-      - 'import/*.eml'
-      - 'import/*.html'
+    branches: [main]
+    paths: ['inbox/*.eml', 'inbox/*.html', 'import/*.eml', 'import/*.html']
   workflow_dispatch:
 
 concurrency:
   group: pages-deploy
   cancel-in-progress: false
 
+permissions:
+  contents: read
+
 jobs:
   process:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04
+    timeout-minutes: 10
     permissions:
       contents: write
+    outputs:
+      revision: ${{ steps.commit.outputs.revision }}
+    steps:
+      - uses: actions/checkout@d23441a48e516b6c34aea4fa41551a30e30af803 # v6
+        with:
+          ref: main
+      - uses: actions/setup-python@ece7cb06caefa5fff74198d8649806c4678c61a1 # v6
+        with:
+          python-version: '3.13.9'
+      - run: |
+          python -m venv .venv
+          .venv/bin/python -m pip install -r requirements.lock
+      - name: Process pending sources with strict renderer
+        run: .venv/bin/python scripts/import_pending.py
+      - name: Commit generated pages only
+        id: commit
+        run: |
+          set -euo pipefail
+          git config user.name 'github-actions[bot]'
+          git config user.email 'github-actions[bot]@users.noreply.github.com'
+          git add -- _newsletters/ newsletter/
+          git add -u -- inbox/ import/
+          if ! git diff --staged --quiet; then
+            git commit -m 'Publish imported newsletters'
+            git push origin HEAD:main
+          fi
+          echo "revision=$(git rev-parse HEAD)" >> "$GITHUB_OUTPUT"
+  publish:
+    needs: process
+    permissions:
+      contents: read
       pages: write
       id-token: write
-
-    steps:
-      - name: Checkout repository
-        uses: actions/checkout@v6
-        with:
-          fetch-depth: 0
-
-      - name: Setup Python
-        uses: actions/setup-python@v6
-        with:
-          python-version: '3.11'
-
-      - name: Install dependencies
-        run: |
-          pip install beautifulsoup4 pyyaml git-filter-repo
-
-      - name: Install AI dependencies
-        if: env.AI_SANDBOX_KEY != ''
-        env:
-          AI_SANDBOX_KEY: ${{ secrets.AI_SANDBOX_KEY }}
-        run: pip install portkey-ai
-
-      - name: Check for files to process
-        id: check_files
-        run: |
-          HAS_FILES=false
-          if ls inbox/*.eml 1> /dev/null 2>&1; then
-            echo "Found .eml files in inbox"
-            HAS_FILES=true
-          fi
-          if ls inbox/*.html 1> /dev/null 2>&1; then
-            echo "Found .html files in inbox"
-            HAS_FILES=true
-          fi
-          if ls import/*.eml 1> /dev/null 2>&1; then
-            echo "Found .eml files in import"
-            HAS_FILES=true
-          fi
-          if ls import/*.html 1> /dev/null 2>&1; then
-            echo "Found .html files in import"
-            HAS_FILES=true
-          fi
-          echo "has_files=$HAS_FILES" >> $GITHUB_OUTPUT
-
-      - name: Process newsletters
-        if: steps.check_files.outputs.has_files == 'true'
-        env:
-          NEWSLETTER_SCRUB_GIT_HISTORY: ${{ vars.NEWSLETTER_SCRUB_GIT_HISTORY || 'false' }}
-        run: |
-          python scripts/process_inbox.py
-
-      - name: AI post-process newsletters
-        if: steps.check_files.outputs.has_files == 'true' && env.AI_SANDBOX_KEY != ''
-        env:
-          AI_SANDBOX_KEY: ${{ secrets.AI_SANDBOX_KEY }}
-        run: |
-          # Find newly added newsletter files
-          FILES=$(git diff --name-only --diff-filter=A -- '_newsletters/*/index.md' 2>/dev/null || true)
-          if [ -n "$FILES" ]; then
-            echo "AI post-processing $(echo "$FILES" | wc -l | tr -d ' ') newsletter(s)..."
-            echo "$FILES" | while read -r f; do
-              python scripts/ai_post_process.py "$f" --verbose || echo "WARNING: AI post-processing failed for $f"
-            done
-          else
-            echo "No new newsletters to post-process"
-          fi
-
-      - name: Commit processed newsletters
-        if: steps.check_files.outputs.has_files == 'true'
-        run: |
-          git config --local user.email "github-actions[bot]@users.noreply.github.com"
-          git config --local user.name "github-actions[bot]"
-
-          # Check if history was rewritten (filter-repo removes remote)
-          if ! git remote get-url origin > /dev/null 2>&1; then
-            git remote add origin "https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git"
-          fi
-
-          # Add new newsletters
-          git add _newsletters/
-
-          # Add archive pages (year/month indexes)
-          git add newsletter/
-
-          # Remove processed files
-          git add -u inbox/
-          git add -u import/
-
-          # Add logs if they exist
-          if [ -d "logs" ]; then
-            git add logs/
-          fi
-
-          # Check if there are changes to commit
-          if git diff --staged --quiet; then
-            echo "No changes to commit"
-          else
-            git commit -m "Process newsletters
-
-            🤖 Automated newsletter processing"
-          fi
-
-          # Force push if history was scrubbed, otherwise normal push
-          if [ "${{ vars.NEWSLETTER_SCRUB_GIT_HISTORY }}" = "true" ]; then
-            echo "History was rewritten, force pushing..."
-            git push --force origin ${{ github.ref_name }}
-          else
-            git push
-          fi
-
-      - name: Upload processing logs
-        if: always()
-        uses: actions/upload-artifact@v4
-        with:
-          name: processing-logs
-          path: logs/
-          if-no-files-found: ignore
-
-      # Build and deploy site
-      - name: Setup Ruby
-        if: steps.check_files.outputs.has_files == 'true'
-        uses: ruby/setup-ruby@v1
-        with:
-          ruby-version: '3.3'
-          bundler-cache: true
-
-      - name: Install Gems
-        if: steps.check_files.outputs.has_files == 'true'
-        run: bundle install --path vendor/bundle
-
-      - name: Build site
-        if: steps.check_files.outputs.has_files == 'true'
-        run: |
-          if [ -f CNAME ]; then
-            bundle exec jekyll build --config _config.yml,_config_prod.yml
-          else
-            bundle exec jekyll build --config _config.yml,_config_preview.yml
-          fi
-        env:
-          JEKYLL_ENV: production
-
-      - name: Upload Pages artifact
-        if: steps.check_files.outputs.has_files == 'true'
-        uses: actions/upload-pages-artifact@v4
-        with:
-          path: _site
-
-      - name: Deploy to Pages
-        if: steps.check_files.outputs.has_files == 'true'
-        id: deployment
-        uses: actions/deploy-pages@v4
+    uses: ./.github/workflows/deploy-site.yml
+    with:
+      revision: ${{ needs.process.outputs.revision }}

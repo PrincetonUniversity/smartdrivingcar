@@ -26,12 +26,12 @@ jobs:
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v6
+        uses: actions/checkout@d23441a48e516b6c34aea4fa41551a30e30af803 # v6
         with:
           fetch-depth: 0
 
       - name: Setup Python
-        uses: actions/setup-python@v6
+        uses: actions/setup-python@ece7cb06caefa5fff74198d8649806c4678c61a1 # v6
         with:
           python-version: '3.11'
 
@@ -45,14 +45,14 @@ jobs:
         env:
           AI_SANDBOX_KEY: ${{ secrets.AI_SANDBOX_KEY }}
         run: |
-          FLAGS="--sanitize-only"
+          FLAGS=(--sanitize-only)
           if [ "${{ inputs.ai_cleanup }}" = "true" ] && [ -n "$AI_SANDBOX_KEY" ]; then
-            FLAGS=""
+            FLAGS=()
           fi
           if [ "${{ inputs.dry_run }}" = "true" ]; then
-            FLAGS="$FLAGS --dry-run"
+            FLAGS+=(--dry-run)
           fi
-          python scripts/ai_post_process.py $FLAGS _newsletters/*/index.md
+          python scripts/ai_post_process.py "${FLAGS[@]}" _newsletters/*/index.md
 
       - name: Commit sanitized newsletters
         if: inputs.dry_run == false
@@ -70,7 +70,7 @@ jobs:
       # Build and deploy site if changes were made
       - name: Setup Ruby
         if: inputs.dry_run == false
-        uses: ruby/setup-ruby@v1
+        uses: ruby/setup-ruby@7f797815d8adceb1c412e7abefdd1ab4abc47a5f # v1
         with:
           ruby-version: '3.3'
           bundler-cache: true
@@ -92,11 +92,11 @@ jobs:
 
       - name: Upload Pages artifact
         if: inputs.dry_run == false
-        uses: actions/upload-pages-artifact@v4
+        uses: actions/upload-pages-artifact@7b1f4a764d45c48632c6b24a0339c27f5614fb0b # v4
         with:
           path: _site
 
       - name: Deploy to Pages
         if: inputs.dry_run == false
         id: deployment
-        uses: actions/deploy-pages@v4
+        uses: actions/deploy-pages@d6db90164ac5ed86f2b6aed7e0febac5b3c0c03e # v4

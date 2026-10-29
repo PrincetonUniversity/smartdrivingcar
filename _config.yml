@@ -29,3 +29,26 @@ exclude:
   - Gemfile*
   - vendor
   - scripts
+  - azure
+  - config
+  - docs
+  - example-email
+  - import
+  - inbox
+  - logs
+  - pipeline
+  - tests
+  - .venv
+  - .pytest_cache
+  - .ruff_cache
+  - .mypy_cache
+  - requirements*.txt
+  - requirements*.lock
+  - pyproject.toml
+  - docker-compose.yml
+  - Dockerfile*
+  - Makefile
+  - example.env
+  - pipeline-result.json
+  - SHARED_TASK_NOTES.md
+  - README.md

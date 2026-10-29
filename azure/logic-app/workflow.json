@@ -114,7 +114,8 @@
                   "fetchOnlyWithAttachment": false,
                   "includeAttachments": false
                 }
-              }
+              },
+              "splitOn": "@triggerBody()?['value']"
             }
           },
           "actions": {
@@ -132,6 +133,19 @@
                   "body_html": "@{triggerBody()?['body']}",
                   "subject": "@{triggerBody()?['subject']}",
                   "received_date": "@{triggerBody()?['receivedDateTime']}"
+                },
+                "retryPolicy": {
+                  "type": "exponential",
+                  "count": 4,
+                  "interval": "PT10S"
+                }
+              },
+              "runtimeConfiguration": {
+                "secureData": {
+                  "properties": [
+                    "inputs",
+                    "outputs"
+                  ]
                 }
               }
             },

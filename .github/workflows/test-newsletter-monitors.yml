@@ -1,0 +1,40 @@
+name: Test optional newsletter monitors
+
+on:
+  workflow_dispatch:
+    inputs:
+      signal:
+        description: Send an operational test signal to the configured monitors
+        required: true
+        type: choice
+        options: [start, failure, success]
+        default: start
+
+permissions:
+  contents: read
+
+jobs:
+  test-monitors:
+    if: github.ref == 'refs/heads/main'
+    runs-on: ubuntu-24.04
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@d23441a48e516b6c34aea4fa41551a30e30af803 # v6
+        with:
+          persist-credentials: false
+      - uses: actions/setup-python@ece7cb06caefa5fff74198d8649806c4678c61a1 # v6
+        with:
+          python-version: '3.13.9'
+      - run: |
+          python -m venv .venv
+          .venv/bin/python -m pip install -r requirements.lock
+      - name: Deliver configured test signal
+        env:
+          SIGNAL: ${{ inputs.signal }}
+          HEALTHCHECKS_PING_URL: ${{ secrets.HEALTHCHECKS_PING_URL }}
+          RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
+          RESEND_FROM: ${{ secrets.RESEND_FROM }}
+          RESEND_TO: ${{ secrets.RESEND_TO }}
+          RESEND_NOTIFY_IDLE: 'true'
+          RESEND_NOTIFY_START: 'true'
+        run: .venv/bin/python scripts/pipeline_observe.py "$SIGNAL"

@@ -1,15 +1,17 @@
 ---
 layout: default
 ---
+<meta name="newsletter-permalink" content="{{ page.permalink | escape }}">
+{% if page.source_sha256 %}<meta name="newsletter-source" content="{{ page.source_sha256 | escape }}">{% endif %}
 <article class="newsletter-issue" aria-labelledby="issue-title">
   <header>
-    <h2 id="issue-title">{{ page.title }}</h2>
+    <h2 id="issue-title">{{ page.display_name | default: page.title | escape }}</h2>
     <p class="meta"><time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: '%B %d, %Y' }}</time></p>
   </header>
   <div class="issue-body">
-      <main class="newsletter-main">
+      <div class="newsletter-main">
         {{ content }}
-      </main>
+      </div>
   </div>
   <nav class="issue-pagination" aria-label="Issue navigation">
     {% if page.previous %}<a class="prev" href="{{ page.previous.url }}">&larr; {{ page.previous.title }}</a>{% endif %}

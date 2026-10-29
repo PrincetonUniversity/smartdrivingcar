@@ -2,110 +2,31 @@ name: Build and Deploy Site
 
 on:
   push:
-    branches: [ main ]
+    branches: [main]
     paths-ignore:
-      - 'README.md'
-      - 'SHARED_TASK_NOTES.md'
-      - 'Makefile'
-      - 'LICENSE'
-      - 'LICENSE.md'
-      - 'Gemfile'
-      - 'Dockerfile'
-      - 'CNAME'
-      - '.gitignore'
-      - '.dockerignore'
       - 'inbox/*.eml'
+      - 'inbox/*.html'
+      - 'import/*.eml'
       - 'import/*.html'
   workflow_dispatch:
 
+# All publishing entry points use the same lock; writers checkout current main.
 concurrency:
   group: pages-deploy
   cancel-in-progress: false
 
+permissions:
+  contents: read
+
 jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout
-        uses: actions/checkout@v6
-
-      - name: Setup Ruby
-        uses: ruby/setup-ruby@v1
-        with:
-          ruby-version: '3.3'
-          bundler-cache: true
-
-      - name: Install Gems
-        run: bundle install --path vendor/bundle
-      - name: Determine build mode
-        id: mode
-        run: |
-          if [ -f CNAME ]; then
-            echo "mode=prod" >> $GITHUB_OUTPUT
-            echo "Using production config (custom domain)"
-          else
-            echo "mode=preview" >> $GITHUB_OUTPUT
-            echo "Using preview (project site) config"
-          fi
-
-      - name: Build site
-        run: |
-          if [ "${{ steps.mode.outputs.mode }}" = "prod" ]; then
-            bundle exec jekyll build --config _config.yml,_config_prod.yml
-          else
-            bundle exec jekyll build --config _config.yml,_config_preview.yml
-          fi
-        env:
-          JEKYLL_ENV: production
-
-      - name: Debug built index (check for preview prefix)
-        run: |
-          if grep -q '/smartdrivingcar/assets/css/site.css' _site/index.html; then
-            echo 'Detected preview prefix in built index.html (unexpected for prod).'
-          else
-            echo 'No preview prefix present in built index.html.'
-          fi
-
-      - name: Link check (internal only)
-        uses: lycheeverse/lychee-action@v2
-        with:
-          args: --no-progress --format detailed --offline --root-dir ./_site ./_site
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Upload artifact
-        uses: actions/upload-artifact@v4
-        with:
-          name: site
-          path: _site
-
-  deploy:
-    needs: build
-    if: github.ref == 'refs/heads/main'
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write
-    steps:
-      - name: Download artifact
-        uses: actions/download-artifact@v4
-        with:
-          name: site
-          path: _site
-      - name: Deploy to Pages
-        uses: actions/upload-pages-artifact@v4
-        with:
-          path: _site
-
+  quality:
+    uses: ./.github/workflows/ci.yml
   publish:
-    needs: deploy
+    needs: quality
     permissions:
+      contents: read
       pages: write
       id-token: write
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
-    runs-on: ubuntu-latest
-    steps:
-      - name: Deploy
-        id: deployment
-        uses: actions/deploy-pages@v4
+    uses: ./.github/workflows/deploy-site.yml
+    with:
+      revision: main

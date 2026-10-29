@@ -2,7 +2,6 @@ _site/
 .sass-cache/
 .jekyll-cache/
 .bundle/
-Gemfile.lock
 vendor/
 .DS_Store
 scripts/__pycache__/clean_newsletter.cpython-313.pyc
@@ -18,3 +17,19 @@ azure/functions/lib/
 azure/functions/local.settings.json
 azure/functions/.venv/
 azure/functions/.python_packages/
+
+# Local environments, private mail, logs and generated output
+.venv/
+.env*
+node_modules/
+*.db
+build/
+logs/
+pipeline-result.json
+import/*.eml
+import/*.html
+inbox/*.eml
+inbox/*.html
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/

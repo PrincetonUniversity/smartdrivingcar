@@ -74,77 +74,30 @@ This site uses GitHub Actions for deployment instead of the default GitHub Pages
 3. Under **Build and deployment**, set **Source** to **GitHub Actions**.
 4. The `build.yml` workflow will automatically build and deploy on push to `main`.
 
-The workflow auto-selects production config if a `CNAME` file exists; otherwise preview config is used.
+The publishing workflow builds the production configuration for the custom domain. Local and preview modes remain available through the Makefile.
 
-Both workflows share a concurrency group (`pages-deploy`) to prevent race conditions during deployment.
+All publishing entry points share the `pages-deploy` concurrency group and explicitly invoke the reusable deployment workflow.
 
 ## Newsletter Workflow
 
-The site includes an automated system for processing email newsletters.
+The implemented replacement polls the newsletter mailbox with mailbox-scoped, read-only Microsoft Graph access and publishes Listserv deliveries through an explicit GitHub Pages deployment. Prof. Kornhauser continues sending to `smartdrivingcars@princeton.edu` with no extra publishing step.
 
-### Automated Processing
+**Administrator setup is required before enabling the scheduled reconciler.** Follow the [improvement plan and setup runbook](docs/newsletter-publishing.md) for Azure OIDC, Exchange mailbox isolation, commissioning, recovery, and optional Healthchecks.io and Resend notifications. Configuration names and empty credential placeholders are in [`example.env`](example.env).
 
-Two input directories are supported:
+For local imports, create a per-project virtual environment, install `requirements-dev.lock`, and run the safe renderer:
 
-- **`inbox/`** - For `.eml` files (complete emails with headers)
-- **`import/`** - For `.html` files (raw HTML body only, no email headers)
-
-1. Drop files into the appropriate directory.
-2. Commit and push to `main`.
-3. The `Process Newsletters` workflow will:
-   - Extract and clean HTML content
-   - Convert to markdown
-   - Create newsletter posts in `_newsletters/`
-   - Remove processed files from the source directory
-
-### Manual Processing
-
-```bash
-python3 scripts/import_newsletter.py --date 2025-08-22 --title "Newsletter Title" --input path/to/email.eml
+```zsh
+python3 -m venv .venv
+.venv/bin/python -m pip install -r requirements-dev.lock
+.venv/bin/python scripts/publish_newsletter.py --eml import/ISSUE.eml --dry-run
+.venv/bin/python scripts/publish_newsletter.py --eml import/ISSUE.eml
 ```
 
-Or from clipboard (HTML):
-```bash
-pbpaste | python3 scripts/import_newsletter.py --date 2025-08-22 --title "Newsletter Title" --raw-html
-```
+Review and commit only generated files in `_newsletters/` and `newsletter/`. Raw email inputs are ignored by Git. Existing curated issues are never overwritten automatically.
 
-### Azure Auto-Publishing Pipeline
+Run CI checks locally with `docker-compose run --build --rm tests` or `./pipeline/test.sh`. The Docker test service has no network access and runs lint, format, type checks, and verbose tests. All Python packages, Ruby gems, container images, and publishing actions are pinned.
 
-For fully automated publishing (no manual steps after setup), the Azure pipeline processes newsletters as soon as Listserv delivers them:
-
-```
-Listserv → orfe-lists@princeton.edu (O365)
-  → "SmartDrivingCars Newsletters for Processing" folder
-  → Azure Logic App (polls every 5 min)
-  → Azure Function (cleans HTML, converts to markdown)
-  → GitHub repository_dispatch
-  → receive-newsletter.yml (writes file, commits, pushes)
-  → build.yml (deploys to GitHub Pages)
-```
-
-**Deduplication** is enforced at two levels:
-- The Azure Function can check against a list of known slugs (optional `known_slugs` parameter)
-- The GitHub Actions workflow checks if `_newsletters/{slug}/index.md` already exists and skips if so
-
-**Deploy / Update / Teardown:**
-
-```bash
-# Initial deployment (interactive, prompts for Azure config)
-./azure/deploy/deploy.sh
-
-# Update Function App code or Logic App workflow after changes
-./azure/deploy/update.sh                # update everything
-./azure/deploy/update.sh --function-only # republish function code only
-
-# Remove all Azure resources
-./azure/deploy/teardown.sh
-```
-
-All scripts support `--help` for usage details. OAuth connections require one-time browser authorization during initial deploy.
-
-**After teardown**, the OAuth tokens in Azure are destroyed, but authorized app entries may remain on the connected accounts. To fully revoke access:
-- **GitHub**: Bot account > Settings > Applications > Authorized OAuth Apps — revoke "Microsoft Azure Logic Apps"
-- **O365**: Admin portal for the mailbox account — revoke consent for "Microsoft Azure Logic Apps"
+The original Azure arrival-trigger path is retained as an opt-in fallback. Its trigger-array bug is fixed in the template, and its GitHub receiver now validates payloads and deploys explicitly. See the runbook before enabling `NEWSLETTER_LEGACY_ENABLED`.
 
 ### Backfilling Old Newsletters
 

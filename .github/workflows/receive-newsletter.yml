@@ -8,104 +8,60 @@ concurrency:
   group: pages-deploy
   cancel-in-progress: false
 
+permissions:
+  contents: read
+
 jobs:
-  publish:
-    runs-on: ubuntu-latest
+  receive:
+    # Legacy dispatch stays opt-in after the read-only reconciler is commissioned.
+    if: vars.NEWSLETTER_LEGACY_ENABLED == 'true'
+    runs-on: ubuntu-24.04
+    timeout-minutes: 10
     permissions:
       contents: write
-
+    outputs:
+      revision: ${{ steps.commit.outputs.revision }}
+      issues: ${{ steps.commit.outputs.issues }}
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v6
+      - uses: actions/checkout@d23441a48e516b6c34aea4fa41551a30e30af803 # v6
         with:
-          fetch-depth: 0
-
-      - name: Setup Python
-        uses: actions/setup-python@v6
+          ref: main
+      - uses: actions/setup-python@ece7cb06caefa5fff74198d8649806c4678c61a1 # v6
         with:
-          python-version: '3.11'
-
-      - name: Install dependencies
-        run: pip install beautifulsoup4
-
-      - name: Install AI dependencies
-        if: env.AI_SANDBOX_KEY != ''
+          python-version: '3.13.9'
+      - run: |
+          python -m venv .venv
+          .venv/bin/python -m pip install -r requirements.lock
+      - name: Validate dispatch as data
         env:
-          AI_SANDBOX_KEY: ${{ secrets.AI_SANDBOX_KEY }}
-        run: pip install portkey-ai
-
-      - name: Check for duplicate
-        id: dedup
-        env:
-          SLUG: ${{ github.event.client_payload.slug }}
+          GITHUB_EVENT_PATH: ${{ github.event_path }}
+        run: .venv/bin/python scripts/publish_newsletter.py --dispatch
+      - name: Commit validated newsletter
+        id: commit
         run: |
-          FILEPATH="_newsletters/${SLUG}/index.md"
-          if [ -f "${FILEPATH}" ]; then
-            echo "is_duplicate=true" >> "$GITHUB_OUTPUT"
-            echo "Newsletter '${SLUG}' already exists at ${FILEPATH} — skipping"
-          else
-            echo "is_duplicate=false" >> "$GITHUB_OUTPUT"
+          set -euo pipefail
+          git config user.name 'github-actions[bot]'
+          git config user.email 'github-actions[bot]@users.noreply.github.com'
+          git add -- _newsletters/ newsletter/
+          if ! git diff --staged --quiet; then
+            git commit -m 'Publish validated newsletter'
+            git push origin HEAD:main
           fi
-
-      - name: Write newsletter file
-        if: steps.dedup.outputs.is_duplicate == 'false'
-        env:
-          SLUG: ${{ github.event.client_payload.slug }}
-          TITLE: ${{ github.event.client_payload.title }}
-          DATE: ${{ github.event.client_payload.date }}
-          MARKDOWN: ${{ github.event.client_payload.markdown }}
-          DISPLAY_NAME: ${{ github.event.client_payload.display_name }}
-        run: |
-          python3 - <<'PYEOF'
-          import os
-          import sys
-
-          slug = os.environ["SLUG"]
-          date = os.environ["DATE"]
-          markdown = os.environ["MARKDOWN"]
-
-          # Write newsletter markdown file
-          newsletter_dir = os.path.join("_newsletters", slug)
-          os.makedirs(newsletter_dir, exist_ok=True)
-          filepath = os.path.join(newsletter_dir, "index.md")
-
-          with open(filepath, "w", encoding="utf-8") as f:
-              f.write(markdown)
-
-          print(f"Wrote {filepath}")
-
-          # Ensure archive pages exist
-          sys.path.insert(0, "scripts")
-          from import_newsletter import ensure_archive_pages
-          ensure_archive_pages(date)
-          PYEOF
-
-      - name: AI post-process newsletter
-        if: steps.dedup.outputs.is_duplicate == 'false' && env.AI_SANDBOX_KEY != ''
-        env:
-          AI_SANDBOX_KEY: ${{ secrets.AI_SANDBOX_KEY }}
-          SLUG: ${{ github.event.client_payload.slug }}
-        run: |
-          FILEPATH="_newsletters/${SLUG}/index.md"
-          if [ -f "$FILEPATH" ]; then
-            python scripts/ai_post_process.py "$FILEPATH" --verbose || echo "WARNING: AI post-processing failed"
-          fi
-
-      - name: Commit and push
-        if: steps.dedup.outputs.is_duplicate == 'false'
-        run: |
-          git config --local user.email "github-actions[bot]@users.noreply.github.com"
-          git config --local user.name "github-actions[bot]"
-
-          git add _newsletters/
-          git add newsletter/
-
-          if git diff --staged --quiet; then
-            echo "No changes to commit"
-          else
-            SLUG="${{ github.event.client_payload.slug }}"
-            git commit -m "Publish newsletter: ${SLUG}
-
-            Automated via Azure newsletter pipeline"
-            git push
-          fi
+          echo "revision=$(git rev-parse HEAD)" >> "$GITHUB_OUTPUT"
+          .venv/bin/python - <<'PY'
+          import json, os
+          from pathlib import Path
+          report = json.loads(Path('pipeline-result.json').read_text())
+          with open(os.environ['GITHUB_OUTPUT'], 'a') as stream:
+              stream.write('issues=' + json.dumps(report['issues']) + '\n')
+          PY
+  publish:
+    needs: receive
+    permissions:
+      contents: read
+      pages: write
+      id-token: write
+    uses: ./.github/workflows/deploy-site.yml
+    with:
+      revision: ${{ needs.receive.outputs.revision }}
+      issues: ${{ needs.receive.outputs.issues }}

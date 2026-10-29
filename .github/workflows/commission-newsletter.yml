@@ -1,0 +1,43 @@
+name: Commission newsletter mailbox
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  commission:
+    if: github.ref == 'refs/heads/main'
+    runs-on: ubuntu-24.04
+    timeout-minutes: 15
+    environment: newsletter-mailbox
+    permissions:
+      contents: read
+      id-token: write
+    steps:
+      - uses: actions/checkout@d23441a48e516b6c34aea4fa41551a30e30af803 # v6
+        with:
+          ref: main
+          persist-credentials: false
+      - uses: actions/setup-python@ece7cb06caefa5fff74198d8649806c4678c61a1 # v6
+        with:
+          python-version: '3.13.9'
+      - run: |
+          python -m venv .venv
+          .venv/bin/python -m pip install -r requirements.lock
+      - uses: azure/login@a641126d1b8aa4d1fa005f4f92df94a3a4c4c906 # v3
+        with:
+          client-id: ${{ secrets.NEWSLETTER_AZURE_CLIENT_ID }}
+          tenant-id: ${{ secrets.NEWSLETTER_AZURE_TENANT_ID }}
+          allow-no-subscriptions: true
+        env:
+          AZURE_CORE_OUTPUT: none
+      - name: Verify live mailbox isolation and preview retained newsletter
+        env:
+          NEWSLETTER_MAILBOX: ${{ secrets.NEWSLETTER_MAILBOX }}
+          NEWSLETTER_NEGATIVE_TEST_MAILBOX: ${{ secrets.NEWSLETTER_NEGATIVE_TEST_MAILBOX }}
+          NEWSLETTER_ALLOWED_AUTHOR: ${{ vars.NEWSLETTER_ALLOWED_AUTHOR }}
+          NEWSLETTER_LIST_ADDRESS: ${{ vars.NEWSLETTER_LIST_ADDRESS }}
+          NEWSLETTER_LOOKBACK_DAYS: ${{ vars.NEWSLETTER_LOOKBACK_DAYS || '90' }}
+        run: .venv/bin/python scripts/commission_mailbox.py
