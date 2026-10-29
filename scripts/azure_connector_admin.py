@@ -350,7 +350,7 @@ def status(config: dict[str, Any]) -> None:
             if detail.get("status") == "Failed":
                 print(f"FAIL: action={action['name']} code={detail.get('code', 'unknown')}")
             if (
-                action["name"] in ("Probe_receipt", "Batch_receipt")
+                action["name"] in ("Probe_receipt", "Batch_receipt", "Rejected_receipt")
                 and detail.get("status") == "Succeeded"
             ):
                 url = detail.get("outputsLink", {}).get("uri")
@@ -372,6 +372,7 @@ def status(config: dict[str, Any]) -> None:
                                         "rejected",
                                         "remaining",
                                         "github_dispatch_accepted",
+                                        "reason",
                                     )
                                     if key in result
                                 }

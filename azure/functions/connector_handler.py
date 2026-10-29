@@ -21,6 +21,28 @@ SETTINGS = settings_from_env()
 connector_bp = func.Blueprint()
 
 
+def validation_reason(error: Exception) -> str:
+    message = str(error)
+    public = {
+        "Newsletter body is empty or unexpectedly short": "body_too_short",
+        "Newsletter body is missing or too large": "body_missing_or_too_large",
+        "Newsletter identifier must include its issue date": "issue_date_suffix_missing",
+        "Issue date is later than mailbox receipt date": "invalid_issue_date",
+        "Invalid newsletter identifier": "identifier_invalid",
+        "Candidate requires an HTML body": "html_body_required",
+        "Newsletter candidate is missing the expected Princeton Listserv headers": "listserv_header_mismatch",
+        "Connector result reached limit or is invalid; narrow lookback or increase limit": "connector_limit_reached",
+        "A single newsletter exceeds GitHub dispatch size; use reviewed local import": "dispatch_too_large",
+    }
+    if message in public:
+        return public[message]
+    if any(
+        word in message.lower() for word in ("month", "day", "year", "isoformat", "received date")
+    ):
+        return "invalid_issue_date"
+    return "invalid_input_shape"
+
+
 @connector_bp.route(
     route="prepare-connector-batch", methods=["POST"], auth_level=func.AuthLevel.FUNCTION
 )
@@ -45,10 +67,13 @@ def prepare_connector_batch(req: func.HttpRequest) -> func.HttpResponse:
             body.get("correlation_id", ""),
             {**SETTINGS, "limit": limit},
         )
-    except (ValueError, TypeError, KeyError, AttributeError):
-        logging.warning("Connector batch rejected: invalid input or policy validation")
+    except (ValueError, TypeError, KeyError, AttributeError) as error:
+        reason = validation_reason(error)
+        logging.warning("Connector batch rejected: reason=%s", reason)
         return func.HttpResponse(
-            '{"error":"invalid_connector_batch"}', status_code=400, mimetype="application/json"
+            json.dumps({"error": "invalid_connector_batch", "reason": reason}),
+            status_code=400,
+            mimetype="application/json",
         )
     except Exception:
         logging.error("Connector batch failed: upstream inventory unavailable")

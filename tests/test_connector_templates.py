@@ -111,3 +111,12 @@ def test_template_uses_shallow_trigger_replacement_and_private_settings_snapshot
                 check(child)
 
     check(definition)
+
+
+def test_handled_validation_error_still_fails_the_workflow():
+    definition = json.loads(Path("azure/connector/workflow.definition.json").read_text())
+    actions = definition["actions"]["Probe_or_process"]["else"]["actions"]
+    assert actions["Reject_batch"]["inputs"]["runStatus"] == "Failed"
+    assert actions["Reject_batch"]["runAfter"] == {
+        "Signal_rejection": ["Succeeded", "Failed", "TimedOut"]
+    }

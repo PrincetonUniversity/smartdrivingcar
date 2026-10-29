@@ -186,3 +186,33 @@ def test_renderer_is_stable_across_function_and_receiver():
     direct = parse_newsletter(BODY, SUBJECT, "2026-10-22")
     via_function = parse_newsletter(safe_html(BODY), SUBJECT, "2026-10-22")
     assert direct == via_function
+
+
+def test_function_returns_safe_validation_reason_for_operators(monkeypatch):
+    import importlib.util
+
+    import azure.functions as func
+
+    for key, value in {
+        "SDC_ALLOWED_AUTHOR": SETTINGS["author"],
+        "SDC_LIST_ADDRESS": SETTINGS["list"],
+        "SDC_GITHUB_REPOSITORY": SETTINGS["repository"],
+    }.items():
+        monkeypatch.setenv(key, value)
+    spec = importlib.util.spec_from_file_location(
+        "connector_handler_reason_test", "azure/functions/connector_handler.py"
+    )
+    module = importlib.util.module_from_spec(spec)
+    spec.loader.exec_module(module)
+    handler = module.prepare_connector_batch.build().get_user_function()
+    invalid = {**MESSAGE, "subject": "SmartDrivingCars_14.16-Date-99.99.26"}
+    request = func.HttpRequest(
+        method="POST",
+        url="/api/prepare-connector-batch",
+        body=json.dumps(
+            {"messages": [invalid], "mode": "test", "correlation_id": CORRELATION}
+        ).encode(),
+    )
+    response = handler(request)
+    assert response.status_code == 400
+    assert json.loads(response.get_body())["reason"] == "invalid_issue_date"

@@ -85,6 +85,11 @@
             "name": "remainingCount",
             "type": "integer",
             "value": 0
+          },
+          {
+            "name": "rejectionReason",
+            "type": "string",
+            "value": "none"
           }
         ]
       }
@@ -484,6 +489,87 @@
             "inputs": {
               "name": "remainingCount",
               "value": "@body('Prepare_batch')?['remaining']"
+            }
+          },
+          "Record_rejection": {
+            "type": "SetVariable",
+            "runAfter": {
+              "Prepare_batch": [
+                "Failed",
+                "TimedOut"
+              ]
+            },
+            "inputs": {
+              "name": "rejectionReason",
+              "value": "@if(contains(createArray('body_too_short','body_missing_or_too_large','issue_date_suffix_missing','invalid_issue_date','identifier_invalid','html_body_required','listserv_header_mismatch','connector_limit_reached','dispatch_too_large','invalid_input_shape'), body('Prepare_batch')?['reason']), body('Prepare_batch')?['reason'], 'upstream_failure')"
+            }
+          },
+          "Rejected_receipt": {
+            "type": "Compose",
+            "runAfter": {
+              "Record_rejection": [
+                "Succeeded"
+              ]
+            },
+            "inputs": {
+              "mode": "@parameters('mode')",
+              "correlation_id": "@variables('correlationId')",
+              "reason": "@variables('rejectionReason')",
+              "scanned": "@variables('scannedCount')"
+            }
+          },
+          "Signal_rejection": {
+            "type": "If",
+            "runAfter": {
+              "Rejected_receipt": [
+                "Succeeded",
+                "Failed",
+                "TimedOut"
+              ]
+            },
+            "expression": "@not(empty(parameters('healthchecksPingUrl')))",
+            "actions": {
+              "Ping_rejection": {
+                "type": "Http",
+                "runAfter": {},
+                "inputs": {
+                  "method": "GET",
+                  "uri": "@concat(parameters('healthchecksPingUrl'), '/fail')",
+                  "retryPolicy": {
+                    "type": "exponential",
+                    "count": 3,
+                    "interval": "PT10S"
+                  }
+                },
+                "runtimeConfiguration": {
+                  "secureData": {
+                    "properties": [
+                      "inputs",
+                      "outputs"
+                    ]
+                  }
+                }
+              }
+            },
+            "else": {
+              "actions": {}
+            }
+          },
+          "Reject_batch": {
+            "type": "Terminate",
+            "runAfter": {
+              "Signal_rejection": [
+                "Succeeded",
+                "Failed",
+                "TimedOut"
+              ]
+            },
+            "inputs": {
+              "runStatus": "Failed",
+              "runError": {
+                "code": "BatchValidationFailed",
+                "message": "@concat('Batch validation failed: ', variables('rejectionReason'))"
+              }
             }
           }
         }

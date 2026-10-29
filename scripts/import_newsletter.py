@@ -213,8 +213,13 @@ def _remove_sdc_html(text):
 def remove_sdc_line(text):
     if re.search(r'<\s*(a|p|div|html|body)\b', text, re.IGNORECASE):
         text = _remove_sdc_html(text)
-        # Listserv macro lines (unsubscribe/subscribe ticket URLs)
-        return '\n'.join(l for l in text.splitlines() if not re.search(r'TICKET_URL\(', l))
+        # HTML source lines can contain an entire message. Remove just the
+        # macro text node, never its source line or neighbouring article text.
+        from bs4 import BeautifulSoup
+        soup = BeautifulSoup(text, 'html.parser')
+        for node in soup.find_all(string=re.compile(r'TICKET_URL\(', re.IGNORECASE)):
+            node.replace_with(re.sub(r'TICKET_URL\([^)]*\)', '', str(node), flags=re.IGNORECASE))
+        return str(soup)
     new_lines = []
     for line in text.splitlines():
         # Remove any line that links to smartdrivingcar.com (markdown or plain text)

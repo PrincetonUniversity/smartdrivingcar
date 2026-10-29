@@ -247,12 +247,15 @@ def receive_batch(
         "created": 0,
         "validated": len(prepared),
         "scanned": int(payload.get("scanned", 0)),
+        "accepted": int(payload.get("accepted", len(prepared))),
+        "rejected": int(payload.get("rejected", 0)),
+        "preview_created": 0,
         "remaining": int(payload.get("remaining", 0)),
         "issues": manifest if mode == "production" else [],
     }
     for issue in prepared:
         status = write_issue(issue, destination)
-        report["created"] += status == "created"
+        report["created" if mode == "production" else "preview_created"] += status == "created"
         if mode == "production":
             # CLI runs from project root; archive generation consumes only the validated ISO date.
             ensure_archive_pages(issue["date"])
@@ -274,7 +277,16 @@ def main() -> None:
     if summary:
         with open(summary, "a") as stream:
             stream.write(f"### Newsletter connector {args.mode} receipt\n\n")
-            for key in ("correlation_id", "scanned", "validated", "created", "remaining"):
+            for key in (
+                "correlation_id",
+                "scanned",
+                "accepted",
+                "rejected",
+                "validated",
+                "created",
+                "preview_created",
+                "remaining",
+            ):
                 stream.write(f"- {key}: {report[key]}\n")
             stream.write(
                 "\nTest mode never commits or deploys newsletter content.\n"

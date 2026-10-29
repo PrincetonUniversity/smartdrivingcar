@@ -22,7 +22,7 @@ The latest supplied issue remains [14.16 Bad Media](https://smartdrivingcar.com/
 
 The existing Office 365 Outlook connector uses sign-in authorization. A `Connected` status is a prerequisite; the live folder probe verifies actual access. If the existing grant is revoked, reauthorize the connection through Azure's API connection screen under Princeton's consent policy. Do not replace it with a new app-only identity as a troubleshooting shortcut. [Microsoft documents the connector sign-in process](https://learn.microsoft.com/en-us/azure/connectors/connectors-create-api-office365-outlook).
 
-The connector's existing delegated permissions may be broader than read-only. This workflow uses only folder listing and message retrieval; it never sends, moves, deletes, or marks mail read. Mailbox transport and Listserv posting restrictions remain the sender-authentication boundary. The parser additionally requires the configured author, list recipient, and newsletter subject; supplied List-Help headers are validated when the connector provides them. The connector does not consistently expose RFC headers, so they are not assumed to be available.
+The connector's existing delegated permissions may be broader than read-only. This workflow uses only folder listing and message retrieval; it never sends, moves, deletes, or marks mail read. Mailbox transport and Listserv posting restrictions remain the sender-authentication boundary. The parser additionally requires the configured author, list recipient, and newsletter subject; supplied List-Help headers are validated when the connector provides them. The connector does not consistently expose RFC headers, so they are not assumed to be available. Rejected messages are counted in operator receipts. Production can still publish valid messages, but any rejection makes the final health result fail for operator review.
 
 ## Reproducible infrastructure and deployment
 
@@ -151,3 +151,9 @@ For reviewed local imports and reparsing, use `scripts/publish_newsletter.py --e
 `docker-compose run --build --rm tests` runs verbose unit tests, lint, format, and type checks without network access. CI also compiles both Bicep templates with pinned Bicep 0.43.8. Tests model connector messages, dispatch size limits, conflicts, sender gates, Function HTTP validation, test/production separation, private packaging, and cloud-free deployment dry runs. Live probe, parser smoke, GitHub preview, repeated delivery, and production verification provide separate observable acceptance surfaces.
 
 The next optional enhancement is validated extraction of CID image attachments into local assets, with size/type limits and metadata removal. It is independent of publishing reliability. AI rewriting is excluded from unattended publication so the professor's wording remains authoritative.
+
+## Verified deployment on October 29 2026
+
+The existing-connection folder probe resolved SDC Testing and read one copied message. The full mailbox-to-Function-to-GitHub test then scanned one message, accepted one, rejected none, and built the isolated preview successfully. [The successful test run](https://github.com/PrincetonUniversity/smartdrivingcar/actions/runs/40902473326) performed no newsletter commit or Pages deployment. Its Azure correlation ID is `06aad212-ab19-4987-a232-f61033ad3d87`.
+
+This test exposed and fixed a cleanup defect: compact Outlook HTML could place the gateway warning or a Listserv macro on the same source line as the entire article. Line-based cleanup erased the article. Cleanup now removes the bounded warning DOM block and individual macro text instead. Copying mail with Outlook is sufficient; opening or marking it read is not part of processing.

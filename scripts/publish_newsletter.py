@@ -18,7 +18,7 @@ from urllib.parse import parse_qs, urlsplit
 
 import yaml
 from bs4 import BeautifulSoup, Comment, Doctype, NavigableString, Tag
-from import_newsletter import ensure_archive_pages, remove_sdc_line, remove_security_banner
+from import_newsletter import ensure_archive_pages, remove_sdc_line
 
 SLUG = re.compile(r"\d{1,3}\.\d{1,3}-[A-Za-z0-9]+(?:[-.][A-Za-z0-9]+)*")
 SUBJECT = re.compile(
@@ -106,10 +106,42 @@ def escape(value: str) -> str:
     return html.escape(value, quote=True).replace("{", "&#123;").replace("}", "&#125;")
 
 
+def remove_html_gateway_banner(soup: BeautifulSoup) -> None:
+    """Remove the bounded warning block using DOM boundaries, not source lines."""
+    start = re.compile(r"^\W*SECURITY\s+WARNING\b", re.I)
+    end = re.compile(r"phish\s*bowl", re.I)
+    for block in list(soup.find_all(["table", "td", "div", "p"])):
+        if block.parent is None or getattr(block, "decomposed", False):
+            continue
+        text = block.get_text(" ", strip=True)
+        if not start.search(text):
+            continue
+        nodes = [str(node).strip() for node in block.find_all(string=True) if str(node).strip()]
+        # Do not remove an enclosing article container that continues past the warning.
+        if len(text) <= 2000 and any(end.search(node) for node in nodes[-2:]):
+            block.decompose()
+            continue
+        if block.name != "p":
+            continue
+        bounded = [block] + list(block.find_next_siblings())[:14]
+        chars = 0
+        for index, sibling in enumerate(bounded):
+            content = sibling.get_text(" ", strip=True)
+            chars += len(content)
+            if chars > 2000:
+                break
+            if end.search(content):
+                for warning in bounded[: index + 1]:
+                    warning.decompose()
+                break
+
+
 def safe_html(body: str) -> str:
     if not isinstance(body, str) or len(body.encode()) > MAX_BODY:
         raise ValueError("Newsletter body is missing or too large")
-    soup = BeautifulSoup(remove_sdc_line(remove_security_banner(body)), "html.parser")
+    soup = BeautifulSoup(body, "html.parser")
+    remove_html_gateway_banner(soup)
+    soup = BeautifulSoup(remove_sdc_line(str(soup)), "html.parser")
     for node in list(soup.find_all(string=lambda text: isinstance(text, (Comment, Doctype)))):
         node.extract()
     for tag in list(soup.find_all(list(DROP))):

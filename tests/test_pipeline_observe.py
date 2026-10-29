@@ -130,3 +130,12 @@ def test_built_site_cannot_expose_raw_email(tmp_path):
     (tmp_path / "private.eml").write_text("Private mail headers")
     with pytest.raises(ValueError, match="Private source file"):
         check_site(tmp_path)
+
+
+def test_operational_notice_reports_rejection_and_backlog_counts(monkeypatch):
+    resend_settings(monkeypatch)
+    with patch.object(pipeline_observe, "request_json") as request:
+        pipeline_observe.signal("failure", {"created": 1, "rejected": 2, "remaining": 3})
+    text = request.call_args.kwargs["data"]["text"]
+    assert "rejected: 2" in text and "remaining: 3" in text
+    assert "scanned:" not in text

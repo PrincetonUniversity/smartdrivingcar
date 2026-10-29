@@ -164,3 +164,17 @@ def test_duplicate_keeps_existing_public_url_case(tmp_path):
     incoming = parse_newsletter(BODY, SUBJECT.lower(), "2026-10-22")
     assert write_issue(incoming, tmp_path) == "duplicate"
     assert incoming["slug"] == issue["slug"]
+
+
+def test_minified_security_banner_does_not_erase_newsletter():
+    banner = "<table><tr><td><p>SECURITY WARNING</p><p>Report suspicious mail to the Phish Bowl.</p></td></tr></table>"
+    result = safe_html("<html><body>" + banner + BODY + "</body></html>")
+    assert "Useful commentary" in result
+    assert "SECURITY WARNING" not in result
+    assert "Phish Bowl" not in result
+
+
+def test_listserv_macro_on_same_html_line_does_not_erase_newsletter():
+    result = safe_html("<html><body>" + BODY + "<p>TICKET_URL(SIGNOFF)</p></body></html>")
+    assert "Useful commentary" in result
+    assert "TICKET_URL" not in result
