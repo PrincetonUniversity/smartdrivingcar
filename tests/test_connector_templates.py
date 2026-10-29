@@ -31,6 +31,19 @@ def test_test_and_production_are_separate_resources_and_folders():
     assert prod["parameters"]["folderName"] == "SmartDrivingCars Newsletters for Processing"
 
 
+@pytest.mark.parametrize("field", ["subscription", "resourceGroup"])
+def test_documentation_does_not_publish_deployment_identifiers(field):
+    config = json.loads(Path("azure/connector/production.json").read_text())
+    identifier = config[field].casefold()
+    assert identifier
+    candidates = list(Path(".").glob("*.md"))
+    for root in (Path("docs"), Path("azure"), Path(".github")):
+        candidates.extend(root.rglob("*.md"))
+    for path in candidates:
+        if identifier in path.read_text().casefold():
+            pytest.fail(f"Deployment-specific {field} must stay out of documentation: {path}")
+
+
 def test_reconciler_reads_read_messages_without_modifying_mail():
     definition = json.loads(Path("azure/connector/workflow.definition.json").read_text())
     action = definition["actions"]["Read_retained_messages"]

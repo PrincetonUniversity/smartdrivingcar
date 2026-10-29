@@ -1,6 +1,6 @@
 # Newsletter publishing with the existing Azure resources
 
-Prof. Kornhauser continues sending to **smartdrivingcars@princeton.edu**. The supported setup reuses the authorized Outlook and GitHub connections in **YOUR_AZURE_RESOURCE_GROUP**, subscription **YOUR_AZURE_SUBSCRIPTION_ID**, in Canada Central. It does not require a new Entra app, app-only Graph token, or Exchange Application RBAC grant.
+Prof. Kornhauser continues sending to **smartdrivingcars@princeton.edu**. The supported setup reuses the authorized Outlook and GitHub connections in the existing subscription and resource group configured under `azure/connector/`, in Canada Central. It does not require a new Entra app, app-only Graph token, or Exchange Application RBAC grant.
 
 The receiving mailbox is **orfe-lists@princeton.edu**. Production reads **SmartDrivingCars Newsletters for Processing**. An isolated, manually triggered test workflow reads **SDC Testing**, builds a preview, and produces an operator receipt without committing newsletter content or deploying Pages.
 
