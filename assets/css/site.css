@@ -181,3 +181,17 @@ main#content > .newsletter-issue > .issue-body { width: 100%; max-width: 78ch; }
 
 .email-newsletter .newsletter-image-alt { font-size: .76rem; letter-spacing: .05em; font-weight: 600; color: #647184; }
 .email-newsletter .newsletter-intro .newsletter-blue-emphasis { color: inherit; }
+
+/* Historical issues share the current email edition's reading surface. */
+.newsletter-contents { margin: 0 0 2rem; padding: .9rem 1.1rem; border: 1px solid #dce7ee; border-radius: .3rem; background: #f7fafc; }
+.newsletter-contents summary { cursor: pointer; color: #394856; font-size: .95rem; font-weight: 600; }
+.newsletter-contents summary span { margin-left: .7rem; font-size: .82rem; font-weight: 400; color: #596677; }
+.newsletter-contents ol { margin: 1rem 0 0; padding-left: 1.4rem; font-size: .92rem; line-height: 1.55; }
+.newsletter-contents li { margin: 0 0 .55rem; padding-left: .2rem; }
+.newsletter-contents a { color: #176da0; text-decoration: none; }
+.newsletter-contents a:hover, .newsletter-contents a:focus { text-decoration: underline; }
+.email-newsletter .newsletter-commentary { color: #a02b25; }
+.email-newsletter img { display: block; width: auto; max-width: 100%; height: auto; margin: 1.4rem auto; }
+.email-newsletter hr { border: 0; border-top: 1px solid #dce3e8; margin: 2rem 0; }
+.email-newsletter [id] { scroll-margin-top: 8rem; }
+@media print { .newsletter-contents { display: none; } .email-newsletter .newsletter-commentary { color: inherit; } }

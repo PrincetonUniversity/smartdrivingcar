@@ -7,6 +7,7 @@ def check_site(root: Path = Path("_site")) -> None:
     if not (root / "index.html").is_file():
         raise ValueError("Built site is missing its homepage")
     for directory in (
+        "build",
         "azure",
         "scripts",
         "config",

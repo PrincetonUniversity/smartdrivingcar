@@ -44,6 +44,8 @@ jobs:
         env:
           JEKYLL_ENV: production
         run: bundle exec jekyll build --config _config.yml,_config_prod.yml
+      - name: Verify every newsletter presentation and preserve archive routes
+        run: .venv/bin/python scripts/restyle_archive.py --check-site _site --repair-routes
       - name: Check internal links
         uses: lycheeverse/lychee-action@e7477775783ea5526144ba13e8db5eec57747ce8 # v2
         with:

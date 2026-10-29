@@ -25,6 +25,7 @@ defaults:
 sass:
   style: compressed
 exclude:
+  - build
   - node_modules
   - Gemfile*
   - vendor

@@ -5,7 +5,7 @@ layout: default
 {% if page.source_sha256 %}<meta name="newsletter-source" content="{{ page.source_sha256 | escape }}">{% endif %}
 <article class="newsletter-issue" aria-labelledby="issue-title">
   <header class="issue-header">
-    <h2 id="issue-title">{{ page.display_name | default: page.title | escape }}</h2>
+    <h2 id="issue-title">{{ page.presentation_title | default: page.display_name | default: page.title | escape }}</h2>
     <p class="meta"><time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: '%B %d, %Y' }}</time><a href="{{ '/newsletter/' | relative_url }}">Newsletter archive &rarr;</a></p>
   </header>
   <div class="issue-body">

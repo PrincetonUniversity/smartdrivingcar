@@ -4,5998 +4,5786 @@ title: "2021-03-15"
 date: 2021-03-15
 permalink: /9.10-OnStarIns-031321/
 display_name: "9.10 - Onstarins 031321"
+presentation_version: 1
+presentation_text_sha256: 9c27121d8f4d739386c42d175c49e92fbcca16aa1c3ad487d726a6882b024487
+presentation_title: 9.10 - On Star Ins
 ---
 
-March 13, 2021
+<nav class="newsletter-contents" aria-label="In this issue" markdown="0">
+<details><summary>In this issue <span>82 sections</span></summary><ol>
+<li><a href="#general-motors-aims-to-transform-auto-insurance-industry-with-onstar-insurance">General Motors Aims to Transform Auto Insurance Industry with OnStar Insurance</a></li>
+<li><a href="#safety-first-at-the-fully-smart-driving-car-summit">Safety First at the &quot;Fully&quot; Smart Driving Car Summit</a></li>
+<li><a href="#article-3">10th Session 3/05/21 Incentivizing Through Insurance</a></li>
+<li><a href="#article-4">9th Session 2/25/21 Can Level 3 be Delivered?</a></li>
+<li><a href="#article-5">8th Session 2/18/21 Who Will Build, Sell and Maintain Driverless Cars?</a></li>
+<li><a href="#article-6">7th Session 2/11/21 Finally Doing It</a></li>
+<li><a href="#article-7">6th Session 2/ 4/21 Safe Enough in the Operational Design Domain</a></li>
+<li><a href="#article-8">5th Session 1/28/21 At the Tipping Point</a></li>
+<li><a href="#article-9">4th Session 1/21/21 Why Customers are Buying Them</a></li>
+<li><a href="#article-10">3rd Session 1/14/21 The SmartDrivingCars We Can Buy Today</a></li>
+<li><a href="#smartdrivingcars-pod-cast-episode-203">SmartDrivingCars Pod-Cast Episode 203 ,</a></li>
+<li><a href="#article-12">Zoom-Cast Episode 203</a></li>
+<li><a href="#article-15">12th Live Episode: Live on Zoom</a></li>
+<li><a href="#article-16">Human-centered Design of Safe and Affordable Driverless Mobility</a></li>
+<li><a href="#article-17">noon ET, Thursday, Georgia, serif;&quot;&gt;</a></li>
+<li><a href="#adaptive-cruise-control-spurs-drivers-to-speed">Adaptive cruise control spurs drivers to speed</a></li>
+<li><a href="#bears-in-our-midst-familiarity-with-level-2-driving-automation-and-situational-awareness-of-on-road-events">Bears in our midst: familiarity with Level 2 driving: automation and situational awareness of on-road events</a></li>
+<li><a href="#luminar-volvo-subsidiary-partner-to-sell-automated-driving-systems-to-automakers">Luminar, Volvo subsidiary partner to sell automated driving systems to automakers</a></li>
+<li><a href="#tesla-touts-self-driving-to-consumers-to-the-dmv-it-tells-a-different-tale">Tesla touts self-driving to consumers. To the DMV, it tells a different tale</a></li>
+<li><a href="#lordstown-motors-accused-of-faking-ev-truck-pre-orders-by-short-seller-firm-hindenburg-research">Lordstown Motors accused of faking EV truck pre-orders by short-seller firm Hindenburg Research</a></li>
+<li><a href="#tesla-removed-drivers-who-werent-paying-attention-from-full-self-driving-beta-as-it-expands">Tesla removed drivers who weren&#x27;t paying attention from Full Self-Driving beta as it expands</a></li>
+<li><a href="#waymo-is-disclosing-more-autonomous-vehicle-data-for-research-purposes">Waymo is disclosing more autonomous vehicle data for research purposes</a></li>
+<li><a href="#waymo-simulated-real-world-crashes-to-prove-its-self-driving-cars-can-prevent-deaths">Waymo simulated real-world crashes to prove its self-driving cars can prevent deaths</a></li>
+<li><a href="#via-buys-mapping-startup-remix-for-100-million">Via buys mapping startup Remix for $100 million</a></li>
+<li><a href="#remembering-allan-mcdonald-he-refused-to-approve-challenger-launch-exposed-cover-up">Remembering Allan McDonald: He Refused To Approve Challenger Launch, Exposed Cover-Up</a></li>
+<li><a href="#what-full-autonomy-means-for-the-waymo-driver">What Full Autonomy Means for the Waymo Driver</a></li>
+<li><a href="#ite">ITE</a></li>
+<li><a href="#article-30">The Revolutionary Development of Self-Driving Vehicles and Implications for theTransportation Engineering Profession</a></li>
+<li><a href="#cmon-manthese-folks-didnt-getread-the-memo">C&#x27;mon Man! (These folks didn&#x27;t get/read the memo)</a></li>
+<li><a href="#sunday-supplement">Sunday Supplement</a></li>
+<li><a href="#half-baked">Half-Baked</a></li>
+<li><a href="#click-bait">Click-Bait</a></li>
+<li><a href="#calendar-of-upcoming">Calendar of Upcoming</a></li>
+<li><a href="#article-36">12th Live Episode: Live on Zoom</a></li>
+<li><a href="#article-37">Human-centered Design of Safe and Affordable Driverless Mobility</a></li>
+<li><a href="#article-38">noon ET, Thursday, Georgia, serif;&quot;&gt;</a></li>
+<li><a href="#article-39">The SYMPOSIUM ON THE FUTURE NETWORKED CAR 2021 VIRTUAL EVENT - 22â€&quot;25 MARCH 2021.</a></li>
+<li><a href="#on-the-more-technical-side">On the More Technical Side</a></li>
+<li><a href="#article-41">K. Kockelman&#x27;s AV Research Group at U of Texas</a></li>
+<li><a href="#article-58">Zoom-inar Video (Video replay) AmaZooks</a></li>
+<li><a href="#article-59">PodCast (Audio Only) AmaZooks</a></li>
+<li><a href="#article-60">Zoom-inar (Video replay) Insurance: For or Against SmartDrivingCars?</a></li>
+<li><a href="#article-61">PodCast (Audio Only) Insurance: For or Against SmartDrivingCars?</a></li>
+<li><a href="#article-62">Zoom-inar (Video replay) Everyone&#x27;s for Connectivity; but...</a></li>
+<li><a href="#article-63">PodCast (Audio Only) Everyone&#x27;s for Connectivity; but...</a></li>
+<li><a href="#article-64">PodCast (Audio Only) Smart Driving Cars: The Future of Public Roadway Transit</a></li>
+<li><a href="#article-65">SmartDrivingCar PodCast (Audio Only) Smart Driving Cars: The Driverless New Normal Debate</a></li>
+<li><a href="#article-66">Zoom Audience Comments</a></li>
+<li><a href="#article-67">Smart Driving Cars Podcast Episode 147 - Michael Sena</a></li>
+<li><a href="#article-68">Smart Driving Cars Podcast Episode 142 - J. Hughes</a></li>
+<li><a href="#article-69">Smart Driving Cars Podcast Episode 141- A. Roy</a></li>
+<li><a href="#article-70">Smart Driving Cars Podcast Episode 139- Randal O&#x27;Toole</a></li>
+<li><a href="#article-71">Smart Driving Cars Podcast Episode 138-Nick Zart</a></li>
+<li><a href="#article-72">Smart Driving Cars Podcast Episode 136</a></li>
+<li><a href="#article-73">Smart Driving Cars Podcast Episode 135 - with Jim Atkinson</a></li>
+<li><a href="#article-74">Smart Driving Cars Podcast Episode 130 with Dick Mudge &amp; Michael Sena</a></li>
+<li><a href="#article-75">Smart Driving Cars Podcast Episode 112 - J. Hardiman NJM</a></li>
+<li><a href="#article-76">Smart Driving Cars Podcast Episode 110 - Lance Elliot</a></li>
+<li><a href="#article-77">Smart Driving Cars Podcast Episode 108 3rd Summit Wrapup</a></li>
+<li><a href="#article-78">Smart Driving Cars Podcast Episode 107 3rd Summit Leilei Shinohara &amp; Staff Sergeant Terence McDonnell</a></li>
+<li><a href="#article-79">Smart Driving Cars Podcast Episode 106 3rd Summit David Kidd &amp; Cecillia Feeley</a></li>
+<li><a href="#article-80">Smart Driving Cars Podcast Episode 104 3rd Summit Anil Lewis &amp; Katherine Freund</a></li>
+<li><a href="#article-81">Smart Driving Cars Podcast Episode 97 - Michael Sena&#x27;69</a></li>
+<li><a href="#article-82">Smart Driving Cars Podcast Episode 71-Nader&#x27;55</a></li>
+<li><a href="#article-83">Smart Driving Cars Podcast Episode 69 - Chunka Mui</a></li>
+<li><a href="#article-84">Smart Driving Cars Podcast Episode 65 - Bernard Soriano, CA DMV</a></li>
+<li><a href="#article-85">Smart Driving Cars Podcast Episode 55-Larry Burns, Autonomy</a></li>
+<li><a href="#article-86">Automated Driving Technologies: Driving Change in Insurance</a></li>
+<li><a href="#article-87">Biden inherits big traffic safety mess</a></li>
+<li><a href="#article-88">G.M. Will Sell Only Zero-Emission Vehicles by 2035</a></li>
+<li><a href="#article-89">U Mich&#x27;s Robert Hampshire joins Biden administration to work in transportation research and technology</a></li>
+<li><a href="#article-90">Uber, After Years of Trying, Is Handing Off Its Self-Driving Car Project</a></li>
+<li><a href="#article-91">The Vehicle Fuel Debate Has Been Hijacked</a></li>
+<li><a href="#article-92">Waymo starts to open driverless ride-hailing service to the public</a></li>
+<li><a href="#article-93">Proposal for a new UN Regulation on uniform provisions concerning the approval of vehicles with regards to Automated Lane Keeping System</a></li>
+<li><a href="#article-95">Starsky Robotics Failed. Does That Mean Automated Trucking Is Dead?</a></li>
+<li><a href="#article-96">Market Framework and Outlook for Automated Vehicle Systems</a></li>
+<li><a href="#new-jersey-pending-legislation-re-autonomous-vehicles">New Jersey Pending Legislation re: Autonomous Vehicles</a></li>
+<li><a href="#article-98">Testimony of Alain Kornhauser, Assembly Science, Innovation and Technology - Monday, October 22, 2018 - 10:00:00 AM</a></li>
+<li><a href="#article-99">CPUC AUTHORIZES PASSENGER CARRIERS TO PROVIDE FREE TEST RIDES IN AUTONOMOUS VEHICLES WITH VALID CPUC AND DMV PERMITS</a></li>
+<li><a href="#extracting-cognition-out-of-images-for-the-purpose-of-autonomous-driving">Extracting Cognition out of Images for the Purpose of Autonomous Driving</a></li>
+<li><a href="#article-101">announce historic commitment of 20 automakers to make automatic emergency braking standard on new vehicles</a></li>
+</ol></details>
+</nav>
 
-                                                          blue;
-                                                          text-decoration:
-                                                          blue;
-                                                          text-decoration:
-                                                          none;">10th
-                                                          edition of the
-                                                          9th year of
-                                                          SmartDrivingCars
-                                                          eLetter
-
-### [General Motors Aims to Transform Auto Insurance Industry with OnStar Insurance](https://www.dropbox.com/s/96y8p2x2hpet1zr/GM_OnStar%20Auto%20Insurance%20Launch%20Media%20Advisory.pdf?dl=0)
-
-                                                          Press Release,
-                                                          March 11, "GM
-                                                          announced it
-                                                          will take its
-                                                          relentless
-                                                          focus on
-                                                          safety and
-                                                          delivering a
-                                                          world-class
-                                                          customer
-                                                          experience one
-                                                          step further
-                                                          with [OnStar Insurance](https://www.onstarinsurance.com/).
-                                                          ...  OnStar
-                                                          Insurance
-                                                          Services
-                                                          intends to
-                                                          leverage its
-                                                          unique
-                                                          understanding
-                                                          of the
-                                                          vehicles GM
-                                                          produces to
-                                                          offer..."
-                                                          [Read more](https://www.dropbox.com/s/96y8p2x2hpet1zr/GM_OnStar%20Auto%20Insurance%20Launch%20Media%20Advisory.pdf?dl=0)  Hmmmm.... See Kornhauser's [Automated Driving of Road Vehicles 101: Why, What, Where, When](https://www.dropbox.com/s/e9gnpjre1oqsbyd/AutomatedVehicleTechnologiesWhyWhatWhenWhere.pdf?dl=0).  Also:
-
-                                                          Given that:
-
-1.  ">90%" crashes involve driver misbehavior;
-
-2.  OEMs are including more
-                                                          SmartDriving
-                                                          technology in
-                                                          cars.  That
-                                                          technology
-                                                          comes in two
-                                                          part:
-    a.  SafelyDriven
-                                                          technology
-                                                          which "works"
-                                                          essentially
-                                                          everywhere,
-                                                          all the time
-                                                          to avert
-                                                          crashes by
-                                                          mitigating
-                                                          driver
-                                                          misbehavior,
-                                                          see #1
-                                                          above..
-
-        i. Examples: anti-lock
-                                                          brakes,
-                                                          electronic
-                                                          stability
-                                                          control,
-                                                          automated
-                                                          emergency
-                                                          braking, blind
-                                                          spot warning,
-                                                          ...)
-       ii. Liability/Insurance
-                                                          implications:
-                                                          the better
-                                                          these work the
-                                                          lower the
-                                                          expected
-                                                          liability, the
-                                                          lower the
-                                                          expected LOSS
-                                                          and the
-                                                          happier the
-                                                          company that insures their owners. 😁!
-        iii. OnStar/GM Insurance
-                                                          Advantage:
-                                                          They know
-                                                          earlier and
-                                                          better how
-                                                          well these
-                                                          systems can be
-                                                          expected to
-                                                          work. They
-                                                          designed and
-                                                          tested the
-                                                          systems before
-                                                          they put them
-                                                          in the
-                                                          showroom and
-                                                          have "the
-                                                          data" to
-                                                          compute better
-                                                          expected
-                                                          liabilities by
-                                                          driver
-                                                          characteristics
-                                                          and thus be
-                                                          better able to
-                                                          craft and
-                                                          price an
-                                                          insurance
-                                                          product for
-                                                          each purchaser
-                                                          of a GM
-                                                          vehicle.
-                                                          Simply, they
-                                                          will be better
-                                                          able to "[know when to hold 'em .. know when to fold 'em ... they can better know what's comin](https://www.youtube.com/watch?v=gDwCMxPwJ_4)'".
-
-    b.  SelfDriving technology
-                                                          which works
-                                                          only some of
-                                                          the time and
-                                                          some of the
-                                                          places  (Don't
-                                                          worry, as soon
-                                                          as they work
-                                                          all of the
-                                                          time and all
-                                                          of the places
-                                                          it will be a
-                                                          very big deal
-                                                          and you'll
-                                                          know it, but
-                                                          don't hold
-                                                          your breath.)
-
- Nor do any of them perform better
-                                                          than an
-                                                          average driver
-                                                          that is not
-                                                          misbehaving.
-                                                          Again, don't
-                                                          hold your
-                                                          breath.
-                                                          Consequently
-                                                          these systems
-                                                          are Comfort
-                                                          &
-                                                          Convenience features
-                                                          that, at best,
-                                                          should not
-                                                          degrade safety.  To not degrade safety,
-                                                          these systems
-                                                          must work
-                                                          properly when
-                                                          engaged by the
-                                                          driver and
-                                                          the driver
-                                                          must not engage
-                                                          them when and
-                                                          where these
-                                                          systems aren't
-                                                          going to work
-                                                          properly. (...
-                                                          Drivers must
-                                                          not misbehave
-                                                          in the use of
-                                                          these systems
-                                                          (... Use these
-                                                          systems
-                                                          outside their
-                                                          certified
-                                                          Operational
-                                                          Design Domain,
-                                                          ODD)).
-
-            i. Examples: Cruise
-                                                          Conroe
-                                                          (Feet-off ,
-                                                          but required
-                                                          the driver to
-                                                          steer
-                                                          (Hands-on), be
-                                                          aware and
-                                                          alert
-                                                          (Eyes-on) and
-                                                          be seated in
-                                                          the driver's
-                                                          seat
-                                                          (Butt-in), and
-                                                          available only
-                                                          in a certain
-                                                          speed range,
-                                                          lane-grade
-                                                          range, doesn't
-                                                          respond to
-                                                          traffic
-                                                          signals,
-                                                          doesn't work
-                                                          if there is a
-                                                          stationary
-                                                          object in the
-                                                          lane ahead,
-                                                          ...);
-                                                          Automated lane
-                                                          keeping
-                                                          ({Feet-on,
-                                                          Hands-off,
-                                                          Eyes-on,
-                                                          Butt-in}, but
-                                                          only if proper
-                                                          lane markings
-                                                          exist);
-                                                          Automated
-                                                          parking
-                                                          ({Feet-off,
-                                                          Hands-off,
-                                                          Eyes-on,
-                                                          Butt-out} all
-                                                          starting from
-                                                          speed zero in
-                                                          an area that
-                                                          is recognized
-                                                          by the systems
-                                                          as a parking
-                                                          opportunity);
-                                                          StupidSummon
-                                                          ({Feet-off,
-                                                          Hands-off,
-                                                          Eyes-on,
-                                                          Butt-out}, but
-                                                          only available
-                                                          within the
-                                                          driver's own
-                                                          property),
-                                                          "Level3"
-                                                          ({Feet-off,
-                                                          Hands-off,
-                                                          Eyes-off,
-                                                          Butt-in}, but
-                                                          only on some
-                                                          certified in
-                                                          real time road
-                                                          segments.)
-
-            ii.
-                                                          Liability/Insurance
-                                                          implications:
-                                                          To date these
-                                                          systems have
-                                                          been sold on a
-                                                          "buyer beware"
-                                                          basis in that
-                                                          all liability
-                                                          implications
-                                                          of their use
-                                                          fell on the
-                                                          shoulders of
-                                                          the driver and
-                                                          their
-                                                          insurer.
-                                                          Consequently,
-                                                          misuse of
-                                                          these systems
-                                                          was the
-                                                          driver's/insurer's
-                                                          "problem".
-                                                          Unfortunately,
-                                                          misuse of
-                                                          these systems
-                                                          and the
-                                                          resulting
-                                                          degradation of
-                                                          safety can be
-                                                          expected to
-                                                          cause
-                                                          regulators to
-                                                          insist that
-                                                          future
-                                                          versions of
-                                                          these
-                                                          SelfDriving
-                                                          technologies
-                                                          must include
-                                                          monitoring
-                                                          systems that
-                                                          preclude them
-                                                          from being
-                                                          available, let
-                                                          alone be used,
-                                                          outside of
-                                                          their
-                                                          real-time
-                                                          Operational
-                                                          Design
-                                                          Domain(ODD)
-                                                          for which
-                                                          their
-                                                          functionality
-                                                          has been
-                                                          "certified by
-                                                          the OEM" to
-                                                          not degrade
-                                                          safety.  This
-                                                          "floor" for
-                                                          safety can be
-                                                          expected to be
-                                                          that
-                                                          experienced by
-                                                          an average non-misbehaving
-                                                          driver in
-                                                          similar
-                                                          driving
-                                                          situations.
-
-This implies that if a crash
-                                                          happens during
-                                                          the use of one
-                                                          of these
-                                                          systems, it is
-                                                          1. one of
-                                                          these "rare"
-                                                          events in
-                                                          which the
-                                                          driver was not
-                                                          misbehaving.
-                                                          The insurer is
-                                                          dragged in and
-                                                          may well be
-                                                          liable (This
-                                                          is what
-                                                          insurance is
-                                                          supposed to be
-                                                          all about), or
-                                                          2. the
-                                                          system failed
-                                                          in its
-                                                          automated
-                                                          driving
-                                                          function.  The
-                                                          OEM is dragged
-                                                          in and may
-                                                          well be liable  from a product liability
-                                                          standpoint
-                                                          or 3. the
-                                                          driver was
-                                                          mis-behaving
-                                                          in the use of
-                                                          the system.
-                                                          This means
-                                                          that the
-                                                          system failed
-                                                          in precluding
-                                                          the system's
-                                                          use.  The OEM
-                                                          is dragged in
-                                                          and may well
-                                                          be liable
-from
-                                                          a product liability standpoint.
-
-3.
-                                                          Implications
-                                                          on Insurer:
-                                                            Let:
-$Aij
-                                                          be the
-                                                          distribution
-                                                          of expected
-                                                          expenses of
-                                                          "being dragged
-                                                          in and
-                                                          possibly
-                                                          having to pay
-                                                          damages" if
-                                                          driver i of GM
-                                                          car with
-                                                          features j
-                                                          gets involved
-                                                          in a "Rare
-                                                          events" crash,
-                                                          or crashes,
-                                                          over the
-                                                          duration of
-                                                          the insurance
-                                                          policy.
-
-                                                          (This expense
-                                                          distribution
-                                                          is largely a
-                                                          function of
-                                                          the kinds of
-                                                          driving driver
-                                                          i is going to
-                                                          do.  Its
-                                                          estimation is
-                                                          independent of
-                                                          any
-                                                          proprietary
-                                                          product
-                                                          information
-                                                          held by GM.
-                                                          OnStarInsurance
-                                                          is not
-                                                          advantaged.)
-
-$Bij
-                                                          be the
-                                                          distribution
-                                                          of expected
-                                                          expenses of
-                                                          "being dragged
-                                                          in" if driver
-                                                          i of GM car
-                                                          with features
-                                                          j gets
-                                                          involved in a
-                                                          crash, or
-                                                          crashes,
-                                                          resulting from
-                                                          the failure of
-                                                          features j to
-                                                          avoid the
-                                                          crash when
-                                                          driver i was
-                                                          misbehaving.
-
-                                                          (This expense
-                                                          distribution
-                                                          would arise
-                                                          from
-                                                          situations in
-                                                          which GM's
-                                                          SafelyDriven
-                                                          technology
-                                                          didn't perform
-                                                          perfectly.
-                                                          Given all of
-                                                          the testing
-                                                          that GM
-                                                          conducts on
-                                                          each of its
-                                                          technologies
-                                                          prior to their
-                                                          placement for
-                                                          sale in
-                                                          showroom,
-                                                          having access
-                                                          to those
-                                                          testing data
-                                                          allows
-                                                          OnStarInsurance
-                                                          to more
-                                                          accurately
-                                                          estimate this
-                                                          distribution.
-
-OnStarInsurance is substantially advantaged.)
-
-$Cij
-                                                          be the
-                                                          distribution
-                                                          of expected
-                                                          expenses of
-                                                          "being dragged
-                                                          in" if driver
-                                                          i of GM car
-                                                          with features
-                                                          j gets
-                                                          involved in a
-                                                          crash when the
-                                                          System was
-                                                          engaged
-                                                          and the
-                                                          incident
-                                                          occurred
-                                                          outside the
-                                                          System's
-                                                          certified ODD.
-
-                                                          (This expense
-                                                          distribution
-                                                          would arise
-                                                          from
-                                                          situations in
-                                                          which GM's
-                                                          automated
-                                                          Comfort&Convenience
-                                                          features
-                                                          either didn't
-                                                          perform as
-                                                          well as a
-                                                          well-behaving
-                                                          driver inside
-                                                          the feature's
-                                                          certified ODD,
-                                                          or driver i
-                                                          was able to
-                                                          mis-use the
-                                                          system by
-                                                          engaging it
-                                                          outside its
-                                                          ODD.  Again,
-                                                          given all of
-                                                          the testing
-                                                          that GM
-                                                          conducts on
-                                                          each of its
-                                                          technologies
-                                                          prior to their
-                                                          placement for
-                                                          sale in
-                                                          showrooms,
-                                                          having access
-                                                          to those
-                                                          testing data
-                                                          also allows
-                                                          one to more
-                                                          accurately
-                                                          estimate this
-                                                          distribution.
-
-OnStarInsurance is substantially advantaged.)
-
-In pricing insurance, the insurer
-                                                          must estimate
-                                                          the
-                                                          distribution
-                                                          of expected
-                                                          expenses
-                                                          associated
-                                                          with the
-                                                          crashes driver
-                                                          i can be
-                                                          expected to
-                                                          have in car
-                                                          with features
-                                                          j over the
-                                                          life of the
-                                                          policy and
-                                                          price that
-                                                          insurance
-                                                          product
-                                                          accordingly.
-
-For an outside insurer, call them
-                                                          WB: the
-                                                          expenses
-                                                          expected to be
-                                                          incurred over
-                                                          the life of
-                                                          the policy to
-                                                          insure Driver
-                                                          i in the
-                                                          purchase of a
-                                                          GM car with
-                                                          features j =
-                                                          $WBij = {$Aij}wb
-                                                          + {$Bij}wb
-                                                          + {$Cij}wb
-
-For
-                                                          GM: the
-                                                          expenses
-                                                          expected to be
-                                                          incurred over
-                                                          the life of
-                                                          the policy to
-                                                          insure Driver
-                                                          i in the
-                                                          purchase of a
-                                                          GM car with
-                                                          features j =
-                                                          $GMij = {$Bij}gm
-                                                          + {$Cij}gm
-                                                          (They get
-                                                          dragged in to
-                                                          all of the
-                                                          "non-rare"
-                                                          crashes
-                                                          because of
-                                                          product
-                                                          liability
-                                                          responsibility
-
-For
-                                                          OnStar
-                                                          Insurance: the
-                                                          expenses
-                                                          expected to be
-                                                          incurred over
-                                                          the life of
-                                                          the policy to
-                                                          insure Driver
-                                                          i in the
-                                                          purchase of a
-                                                          GM car with
-                                                          features j =
-                                                          $OSij =
-                                                          {$Aij}os
-                                                          (Since GM is
-                                                          already
-                                                          dragged in, no
-                                                          need for
-                                                          OnStarInsurance
-                                                          to also be
-                                                          drawn in to
-                                                          defend
-                                                          themselves.).
-
+<div class="email-newsletter newsletter-archive-edition" markdown="0">
+<p class="newsletter-intro">March 13, 2021</p>
+<p class="newsletter-intro">blue;
+text-decoration:
+blue;
+text-decoration:
+none;"&gt;10th
+edition of the
+9th year of
+SmartDrivingCars
+eLetter</p>
+<h3 class="newsletter-article-title" id="general-motors-aims-to-transform-auto-insurance-industry-with-onstar-insurance"><a href="https://www.dropbox.com/s/96y8p2x2hpet1zr/GM_OnStar%20Auto%20Insurance%20Launch%20Media%20Advisory.pdf?dl=0" rel="noopener noreferrer">General Motors Aims to Transform Auto Insurance Industry with OnStar Insurance</a></h3>
+<p>Press Release,
+March 11, "GM
+announced it
+will take its
+relentless
+focus on
+safety and
+delivering a
+world-class
+customer
+experience one
+step further
+with <a href="https://www.onstarinsurance.com/" rel="noopener noreferrer">OnStar Insurance</a>.
+...  OnStar
+Insurance
+Services
+intends to
+leverage its
+unique
+understanding
+of the
+vehicles GM
+produces to
+offer..."
+<a href="https://www.dropbox.com/s/96y8p2x2hpet1zr/GM_OnStar%20Auto%20Insurance%20Launch%20Media%20Advisory.pdf?dl=0" rel="noopener noreferrer">Read more</a>  </p><p class="newsletter-commentary">Hmmmm.... See Kornhauser's <a href="https://www.dropbox.com/s/e9gnpjre1oqsbyd/AutomatedVehicleTechnologiesWhyWhatWhenWhere.pdf?dl=0" rel="noopener noreferrer">Automated Driving of Road Vehicles 101: Why, What, Where, When</a>.  Also:</p>
+<p class="newsletter-commentary">Given that:</p>
+<p class="newsletter-commentary">1.  "&gt;90%" crashes involve driver misbehavior;</p>
+<p class="newsletter-commentary">2.  OEMs are including more
+SmartDriving
+technology in
+cars.  That
+technology
+comes in two
+part:
+a.  SafelyDriven
+technology
+which "works"
+essentially
+everywhere,
+all the time
+to avert
+crashes by
+mitigating
+driver
+misbehavior,
+see #1
+above..</p>
+<p class="newsletter-commentary">i. Examples: anti-lock
+brakes,
+electronic
+stability
+control,
+automated
+emergency
+braking, blind
+spot warning,
+...)
+ii. Liability/Insurance
+implications:
+the better
+these work the
+lower the
+expected
+liability, the
+lower the
+expected LOSS
+and the
+happier the
+company that insures their owners. 😁!
+iii. OnStar/GM Insurance
+Advantage:
+They know
+earlier and
+better how
+well these
+systems can be
+expected to
+work. They
+designed and
+tested the
+systems before
+they put them
+in the
+showroom and
+have "the
+data" to
+compute better
+expected
+liabilities by
+driver
+characteristics
+and thus be
+better able to
+craft and
+price an
+insurance
+product for
+each purchaser
+of a GM
+vehicle.
+Simply, they
+will be better
+able to "<a href="https://www.youtube.com/watch?v=gDwCMxPwJ_4" rel="noopener noreferrer">know when to hold 'em .. know when to fold 'em ... they can better know what's comin</a>'".</p>
+<p class="newsletter-commentary">b.  SelfDriving technology
+which works
+only some of
+the time and
+some of the
+places  (Don't
+worry, as soon
+as they work
+all of the
+time and all
+of the places
+it will be a
+very big deal
+and you'll
+know it, but
+don't hold
+your breath.)</p>
+<p class="newsletter-commentary">Nor do any of them perform better
+than an
+average driver
+that is not
+misbehaving.
+Again, don't
+hold your
+breath.
+Consequently
+these systems
+are Comfort
+&amp;
+Convenience features
+that, at best,
+should not
+degrade safety.  To not degrade safety,
+these systems
+must work
+properly when
+engaged by the
+driver and
+the driver
+must not engage
+them when and
+where these
+systems aren't
+going to work
+properly. (...
+Drivers must
+not misbehave
+in the use of
+these systems
+(... Use these
+systems
+outside their
+certified
+Operational
+Design Domain,
+ODD)).</p>
+<p class="newsletter-commentary">i. Examples: Cruise
+Conroe
+(Feet-off ,
+but required
+the driver to
+steer
+(Hands-on), be
+aware and
+alert
+(Eyes-on) and
+be seated in
+the driver's
+seat
+(Butt-in), and
+available only
+in a certain
+speed range,
+lane-grade
+range, doesn't
+respond to
+traffic
+signals,
+doesn't work
+if there is a
+stationary
+object in the
+lane ahead,
+...);
+Automated lane
+keeping
+(&#123;Feet-on,
+Hands-off,
+Eyes-on,
+Butt-in&#125;, but
+only if proper
+lane markings
+exist);
+Automated
+parking
+(&#123;Feet-off,
+Hands-off,
+Eyes-on,
+Butt-out&#125; all
+starting from
+speed zero in
+an area that
+is recognized
+by the systems
+as a parking
+opportunity);
+StupidSummon
+(&#123;Feet-off,
+Hands-off,
+Eyes-on,
+Butt-out&#125;, but
+only available
+within the
+driver's own
+property),
+"Level3"
+(&#123;Feet-off,
+Hands-off,
+Eyes-off,
+Butt-in&#125;, but
+only on some
+certified in
+real time road
+segments.)</p>
+<p class="newsletter-commentary">ii.
+Liability/Insurance
+implications:
+To date these
+systems have
+been sold on a
+"buyer beware"
+basis in that
+all liability
+implications
+of their use
+fell on the
+shoulders of
+the driver and
+their
+insurer.
 Consequently,
-                                                          OnStar has a fundamental
-                                                          pricing
-                                                          advantage
-                                                          because $OSij
-                                                          << $WBij.  Plus OnStar/GM can better
-                                                          estimate the $Bij and $Cij
-                                                          distributions.
-                                                          Thus OnStar "[knows when to hold 'em..](https://www.youtube.com/watch?v=gDwCMxPwJ_4)" in
-                                                          the insurance
-                                                          pricing game.
-
-Finally,
-                                                          it is very
-                                                          much in GM's
-                                                          interest to
-                                                          get its SafelyDriven
-                                                          technologies
-                                                          as perfect as
-                                                          possible so as
-                                                          to minimize {$Bij}gm
-                                                          on every
-                                                          vehicle GM
-                                                          sells and
-                                                          to forbid, as
-                                                          best as
-                                                          possible, the
-mis-use/availability of it SelfDriving Comfort&Convenience features
-                                                          outside their
-                                                          ODD to
-                                                          minimize {$Cij}gm
-                                                          on every vehicle
-                                                          GM sells.
-
+misuse of
+these systems
+was the
+driver's/insurer's
+"problem".
+Unfortunately,
+misuse of
+these systems
+and the
+resulting
+degradation of
+safety can be
+expected to
+cause
+regulators to
+insist that
+future
+versions of
+these
+SelfDriving
+technologies
+must include
+monitoring
+systems that
+preclude them
+from being
+available, let
+alone be used,
+outside of
+their
+real-time
+Operational
+Design
+Domain(ODD)
+for which
+their
+functionality
+has been
+"certified by
+the OEM" to
+not degrade
+safety.  This
+"floor" for
+safety can be
+expected to be
+that
+experienced by
+an average non-misbehaving
+driver in
+similar
+driving
+situations.</p>
+<p class="newsletter-commentary">This implies that if a crash
+happens during
+the use of one
+of these
+systems, it is
+1. one of
+these "rare"
+events in
+which the
+driver was not
+misbehaving.
+The insurer is
+dragged in and
+may well be
+liable (This
+is what
+insurance is
+supposed to be
+all about), or
+2. the
+system failed
+in its
+automated
+driving
+function.  The
+OEM is dragged
+in and may
+well be liable  from a product liability
+standpoint
+or 3. the
+driver was
+mis-behaving
+in the use of
+the system.
+This means
+that the
+system failed
+in precluding
+the system's
+use.  The OEM
+is dragged in
+and may well
+be liable
+from
+a product liability standpoint.</p>
+<p class="newsletter-commentary">3.
+Implications
+on Insurer:
+Let:
+$Aij
+be the
+distribution
+of expected
+expenses of
+"being dragged
+in and
+possibly
+having to pay
+damages" if
+driver i of GM
+car with
+features j
+gets involved
+in a "Rare
+events" crash,
+or crashes,
+over the
+duration of
+the insurance
+policy.</p>
+<p class="newsletter-commentary">(This expense
+distribution
+is largely a
+function of
+the kinds of
+driving driver
+i is going to
+do.  Its
+estimation is
+independent of
+any
+proprietary
+product
+information
+held by GM.
+OnStarInsurance
+is not
+advantaged.)</p>
+<p class="newsletter-commentary">$Bij
+be the
+distribution
+of expected
+expenses of
+"being dragged
+in" if driver
+i of GM car
+with features
+j gets
+involved in a
+crash, or
+crashes,
+resulting from
+the failure of
+features j to
+avoid the
+crash when
+driver i was
+misbehaving.</p>
+<p class="newsletter-commentary">(This expense
+distribution
+would arise
+from
+situations in
+which GM's
+SafelyDriven
+technology
+didn't perform
+perfectly.
+Given all of
+the testing
+that GM
+conducts on
+each of its
+technologies
+prior to their
+placement for
+sale in
+showroom,
+having access
+to those
+testing data
+allows
+OnStarInsurance
+to more
+accurately
+estimate this
+distribution.</p>
+<p class="newsletter-commentary">OnStarInsurance is substantially advantaged.)</p>
+<p class="newsletter-commentary">$Cij
+be the
+distribution
+of expected
+expenses of
+"being dragged
+in" if driver
+i of GM car
+with features
+j gets
+involved in a
+crash when the
+System was
+engaged
+and the
+incident
+occurred
+outside the
+System's
+certified ODD.</p>
+<p class="newsletter-commentary">(This expense
+distribution
+would arise
+from
+situations in
+which GM's
+automated
+Comfort&amp;Convenience
+features
+either didn't
+perform as
+well as a
+well-behaving
+driver inside
+the feature's
+certified ODD,
+or driver i
+was able to
+mis-use the
+system by
+engaging it
+outside its
+ODD.  Again,
+given all of
+the testing
+that GM
+conducts on
+each of its
+technologies
+prior to their
+placement for
+sale in
+showrooms,
+having access
+to those
+testing data
+also allows
+one to more
+accurately
+estimate this
+distribution.</p>
+<p class="newsletter-commentary">OnStarInsurance is substantially advantaged.)</p>
+<p class="newsletter-commentary">In pricing insurance, the insurer
+must estimate
+the
+distribution
+of expected
+expenses
+associated
+with the
+crashes driver
+i can be
+expected to
+have in car
+with features
+j over the
+life of the
+policy and
+price that
+insurance
+product
+accordingly.</p>
+<p class="newsletter-commentary">For an outside insurer, call them
+WB: the
+expenses
+expected to be
+incurred over
+the life of
+the policy to
+insure Driver
+i in the
+purchase of a
+GM car with
+features j =
+$WBij = &#123;$Aij&#125;wb
++ &#123;$Bij&#125;wb
++ &#123;$Cij&#125;wb</p>
+<p class="newsletter-commentary">For
+GM: the
+expenses
+expected to be
+incurred over
+the life of
+the policy to
+insure Driver
+i in the
+purchase of a
+GM car with
+features j =
+$GMij = &#123;$Bij&#125;gm
++ &#123;$Cij&#125;gm
+(They get
+dragged in to
+all of the
+"non-rare"
+crashes
+because of
+product
+liability
+responsibility</p>
+<p class="newsletter-commentary">For
+OnStar
+Insurance: the
+expenses
+expected to be
+incurred over
+the life of
+the policy to
+insure Driver
+i in the
+purchase of a
+GM car with
+features j =
+$OSij =
+&#123;$Aij&#125;os
+(Since GM is
+already
+dragged in, no
+need for
+OnStarInsurance
+to also be
+drawn in to
+defend
+themselves.).</p>
+<p class="newsletter-commentary">Consequently,
+OnStar has a fundamental
+pricing
+advantage
+because $OSij
+&lt;&lt; $WBij.  Plus OnStar/GM can better
+estimate the $Bij and $Cij
+distributions.
+Thus OnStar "<a href="https://www.youtube.com/watch?v=gDwCMxPwJ_4" rel="noopener noreferrer">knows when to hold 'em..</a>" in
+the insurance
+pricing game.</p>
+<p class="newsletter-commentary">Finally,
+it is very
+much in GM's
+interest to
+get its SafelyDriven
+technologies
+as perfect as
+possible so as
+to minimize &#123;$Bij&#125;gm
+on every
+vehicle GM
+sells and
+to forbid, as
+best as
+possible, the
+mis-use/availability of it SelfDriving Comfort&amp;Convenience features
+outside their
+ODD to
+minimize &#123;$Cij&#125;gm
+on every vehicle
+GM sells.</p>
+<p class="newsletter-commentary">The
+above is an
+extraordinarily
+strong
+financial
+incentive for
+GM to make its
+SafelyDriven
+and
+Comfort&amp;Convenience
+automated
+driving
+technologies
+as good as
+possible and,
+if they are
+going to do
+that, GM might
+as well also
+be in the
+insurance
+business.  Alain</p>
+<h3 class="newsletter-article-title" id="safety-first-at-the-fully-smart-driving-car-summit"><a href="https://viodi.com/2021/03/13/safety-first-at-the-fully-smart-driving-car-summit/" rel="noopener noreferrer">Safety First at the "Fully" Smart Driving Car Summit</a></h3>
+<p>K. Pyle, March
+13, "It is
+important to
+distinguish
+between those
+features that
+enhance safety
+versus those
+that provide
+safety and
+convenience is
+how
+Princeton's
+Dr. Alain
+Kornhauser set
+the stage for
+the Smart
+Driving Car
+Summit
+session,
+Incentivizing
+Through
+Regulation.
+Regulations
+must ensure
+that the
+comfort
+features, such
+as Automatic
+Cruise Control
+(ACC), do not
+degrade
+safety. He
+also believes
+that consumers
+should not
+have to "read
+the fine
+print" to
+understand the
+Operational
+Design Domain
+(ODD)
+limitations of
+a given
+feature....."
+<a href="https://viodi.com/2021/03/05/automated-driving-technologies-driving-change-in-insurance/" rel="noopener noreferrer">Read more</a>  </p><p class="newsletter-commentary">Hmmmm.... We had another
+excellent
+Session.
+Thank you for
+the summary,
+Ken.  Alain</p>
+<p><a href="https://viodi.com/author/Ken/" rel="noopener noreferrer">Ken Pyle</a>
+Session
+Summaries of
+4th Princeton
+SmartDrivingCar Summit:</p>
+<h3 class="newsletter-article-title" id="article-3"><a href="https://viodi.com/2021/03/05/automated-driving-technologies-driving-change-in-insurance/" rel="noopener noreferrer">10th Session    3/05/21 Incentivizing Through Insurance</a></h3>
+<h3 class="newsletter-article-title" id="article-4"><a href="https://viodi.com/2021/02/26/level-3-the-tech-is-here-but-the-problem-is-us/#talking-about-the-vehicles-people-can-buy" rel="noopener noreferrer">9th Session    2/25/21  Can Level 3 be Delivered?</a></h3>
+<h3 class="newsletter-article-title" id="article-5"><a href="https://viodi.com/2021/02/20/to-own-or-to-use-driverless-that-is-the-question/" rel="noopener noreferrer">8th Session    2/18/21  Who Will Build, Sell and Maintain Driverless Cars?</a></h3>
+<p><a href="https://www.dropbox.com/s/yfzscinfy41vrka/Sena_Session8%20SDC_Summit.pdf?dl=0" rel="noopener noreferrer">Michael Sena's Slides</a>,
+<a href="https://www.dropbox.com/s/8x4sd97vrifa9r9/Mercer_Session8%20SDC_Summit.pdf?dl=0" rel="noopener noreferrer">Glenn Mercer Slides</a></p>
+<h3 class="newsletter-article-title" id="article-6"><a href="https://viodi.com/2021/02/13/memories-of-the-past-reflect-the-future-of-driverless/" rel="noopener noreferrer">7th Session    2/11/21  Finally Doing It</a></h3>
+<h3 class="newsletter-article-title" id="article-7"><a href="https://viodi.com/2021/02/05/a-culture-of-safety-is-av-table-stakes/" rel="noopener noreferrer">6th Session    2/ 4/21   Safe Enough in the Operational Design Domain</a></h3>
+<h3 class="newsletter-article-title" id="article-8"><a href="https://viodi.com/2021/01/28/a-tipping-point-or-a-fork-in-the-road/" rel="noopener noreferrer">5th Session    1/28/21 At the Tipping Point</a></h3>
+<h3 class="newsletter-article-title" id="article-9"><a href="https://viodi.com/2021/02/10/viodi-view-02-10-21/#safety-in-the-showroom-the-dispatcher" rel="noopener noreferrer">4th Session    1/21/21 Why Customers are Buying Them</a></h3>
+<h3 class="newsletter-article-title" id="article-10"><a href="https://viodi.com/2021/01/16/where-are-we-on-the-road-to-safe-driving/" rel="noopener noreferrer">3rd Session    1/14/21 The SmartDrivingCars We Can Buy Today</a></h3>
+<p><a href="https://viodi.com/2021/01/08/whats-the-vision-for-the-smart-driving-future/" rel="noopener noreferrer">2nd Session</a><a href="https://viodi.com/2021/01/08/whats-the-vision-for-the-smart-driving-future/" rel="noopener noreferrer">1/ 7/21  A Look into the Future</a><a href="https://www.youtube.com/watch?v=pCc9N8o1dys&amp;feature=youtu.be" rel="noopener noreferrer">1st Session:</a><a href="https://www.youtube.com/watch?v=pCc9N8o1dys&amp;feature=youtu.be" rel="noopener noreferrer">12/17/20</a><a href="https://www.youtube.com/watch?v=pCc9N8o1dys&amp;feature=youtu.be" rel="noopener noreferrer">Setting the Stage</a></p>
+<h3 class="newsletter-article-title" id="smartdrivingcars-pod-cast-episode-203"><a href="https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-203" rel="noopener noreferrer">SmartDrivingCars Pod-Cast Episode 203</a>,</h3>
+<h3 class="newsletter-article-title" id="article-12"><a href="https://youtu.be/7UgzO7V8lV4" rel="noopener noreferrer">Zoom-Cast Episode 203</a></h3>
+<h3 class="newsletter-article-title" id="article-13"></h3>
+<h3 class="newsletter-article-title" id="article-14"></h3>
+<p>F. Fishkin,
+March 13,
+".GM's move to
+transform auto
+insurance
+through OnStar
+Insurance:
+Is it a win,
+win for
+all?      Is
+adaptive
+cruise control
+prompting some
+drivers to
+speed?     And
+what does
+Tesla really
+mean by "full
+self
+driving"?
+Just some of
+the questions
+tackled  in
+the latest
+edition of
+Smart Driving
+Cars with
+Princeton's
+Alain
+Kornhauser
+&amp; co-host
+Fred Fishkin."
+Alexa, play the
+Smart Driving
+Cars podcast!".
+Ditto with Siri,
+and GooglePlay
+...
+Alain</p>
+<p>4th Annual Princeton
+<a href="https://orfe.princeton.edu/conferences/sdc/" rel="noopener noreferrer">SmartDrivingCar Summit</a></p>
+<h3 class="newsletter-article-title" id="article-15"><a href="https://orfe.princeton.edu/conferences/sdc/session/20210318" rel="noopener noreferrer">12th Live Episode: Live on Zoom</a></h3>
+<h3 class="newsletter-article-title" id="article-16"><a href="https://orfe.princeton.edu/conferences/sdc/session/20210318" rel="noopener noreferrer">Human-centered Design of Safe and Affordable Driverless Mobility</a></h3>
+<p>What
+makes
+safely-driven
+and driverless
+mobility
+better for ALL
+users?</p>
+<h3 class="newsletter-article-title" id="article-17"><a href="https://orfe.princeton.edu/conferences/sdc/session/20210318" rel="noopener noreferrer">noon ET, Thursday, Georgia, serif;"&gt;</a></h3>
+<p>Georgia,
+serif;"&gt; <a href="https://www.youtube.com/watch?v=pCc9N8o1dys&amp;feature=youtu.be" rel="noopener noreferrer">Video Summary of 1st Session: Setting the Stage</a></p>
+<p>The
+SmartDrivingCars
+eLetter,
+Pod-Casts,
+Zoom-Casts and
+Zoom-inars are
+made possible
+in part by
+support from
+the Smart
+Transportation
+and Technology
+ETF, symbol
+MOTO.   For
+more
+information: <a href="https://www.smartetfs.com/" rel="noopener noreferrer">www.motoetf.com</a>.  Most funding is
+supplied by
+Princeton
+University's
+Department of
+Operations
+Research &amp;
+Financial
+Engineering
+and Princeton
+Autonomous
+Vehicle
+Engineering
+(PAVE)
+research
+laboratory as
+part of its
+research
+dissemination
+initiatives.</p>
+<h3 class="newsletter-article-title" id="adaptive-cruise-control-spurs-drivers-to-speed"><a href="https://www.iihs.org/news/detail/adaptive-cruise-control-spurs-drivers-to-speed" rel="noopener noreferrer">Adaptive cruise control spurs drivers to speed</a></h3>
+<p>Staff,
+March 11,
+"Drivers are
+using adaptive
+cruise control
+(ACC) as a
+tool for
+speeding,
+possibly
+undermining
+the feature's
+potential
+safety
+benefits, a
+new study from
+the Insurance
+Institute for
+Highway Safety
+found.</p>
+<p>Drivers are
+substantially
+more likely to
+speed when
+using ACC or
+partial
+automation
+that combines
+that feature
+with lane
+centering than
+when not using
+either
+technology,
+the study
+showed. When
+selecting a
+speed to "set
+and forget,"
+many drivers
+choose one
+that's over
+the limit.</p>
+<p>"ACC does have
+some safety
+benefits, but
+it's important
+to consider
+how drivers
+might cancel
+out these
+benefits by
+misusing the
+system," says
+IIHS
+Statistician
+Sam Monfort,
+the lead
+author of the
+paper. "Speed
+at impact is
+among the most
+important
+factors in
+whether or not
+a crash turns
+out to be
+fatal."...</p>
+<p>Nevertheless,
+an analysis of
+insurance
+claims data by
+the
+IIHS-affiliated
+Highway Loss
+Data Institute
+and other
+research
+indicate that
+ACC may lower
+crash risk..."
+<a href="https://www.iihs.org/news/detail/adaptive-cruise-control-spurs-drivers-to-speed" rel="noopener noreferrer">Read more</a>
+</p><p class="newsletter-commentary">Hmmmm.... As
+was argued
+above, ACC is
+NOT a
+SafelyDriven
+Automated
+system
+intended to
+enhance
+Safety.  It is
+a SelfDriving
+automated
+system
+intended to
+enhance driver
+Comfort&amp;Convenience,  As such, it must not diminish safety below
+that which
+could be
+achieved if
+the driver was
+alert, capable
+of driving and
+not
+mis-behaving.
 The
-                                                          above is an
-                                                          extraordinarily
-                                                          strong
-                                                          financial
-                                                          incentive for
-                                                          GM to make its
-                                                          SafelyDriven
-                                                          and
-                                                          Comfort&Convenience
-                                                          automated
-                                                          driving
-                                                          technologies
-                                                          as good as
-                                                          possible and,
-                                                          if they are
-                                                          going to do
-                                                          that, GM might
-                                                          as well also
-                                                          be in the
-                                                          insurance
-                                                          business.  Alain
-
-### [Safety First at the "Fully" Smart Driving Car Summit](https://viodi.com/2021/03/13/safety-first-at-the-fully-smart-driving-car-summit/)
-
-                                                          K. Pyle, March
-                                                          13, "It is
-                                                          important to
-                                                          distinguish
-                                                          between those
-                                                          features that
-                                                          enhance safety
-                                                          versus those
-                                                          that provide
-                                                          safety and
-                                                          convenience is
-                                                          how
-                                                          Princeton's
-                                                          Dr. Alain
-                                                          Kornhauser set
-                                                          the stage for
-                                                          the Smart
-                                                          Driving Car
-                                                          Summit
-                                                          session,
-                                                          Incentivizing
-                                                          Through
-                                                          Regulation.
-                                                          Regulations
-                                                          must ensure
-                                                          that the
-                                                          comfort
-                                                          features, such
-                                                          as Automatic
-                                                          Cruise Control
-                                                          (ACC), do not
-                                                          degrade
-                                                          safety. He
-                                                          also believes
-                                                          that consumers
-                                                          should not
-                                                          have to "read
-                                                          the fine
-                                                          print" to
-                                                          understand the
-                                                          Operational
-                                                          Design Domain
-                                                          (ODD)
-                                                          limitations of
-                                                          a given
-                                                          feature....."
-                                                          [Read more](https://viodi.com/2021/03/05/automated-driving-technologies-driving-change-in-insurance/)  Hmmmm.... We had another
-                                                          excellent
-                                                          Session.
-                                                          Thank you for
-                                                          the summary,
-                                                          Ken.  Alain
-
-[Ken Pyle](https://viodi.com/author/Ken/)
-                                                          Session
-                                                          Summaries of
-                                                          4th Princeton
-SmartDrivingCar Summit:
-
-[10th Session    3/05/21 Incentivizing Through Insurance](https://viodi.com/2021/03/05/automated-driving-technologies-driving-change-in-insurance/)
-
-[9th Session    2/25/21  Can Level 3 be Delivered?](https://viodi.com/2021/02/26/level-3-the-tech-is-here-but-the-problem-is-us/#talking-about-the-vehicles-people-can-buy)
-
-[8th Session    2/18/21  Who Will Build, Sell and Maintain Driverless Cars?](https://viodi.com/2021/02/20/to-own-or-to-use-driverless-that-is-the-question/)
-
-                                                          [Michael Sena's Slides](https://www.dropbox.com/s/yfzscinfy41vrka/Sena_Session8%20SDC_Summit.pdf?dl=0),
-                                                          [Glenn Mercer Slides](https://www.dropbox.com/s/8x4sd97vrifa9r9/Mercer_Session8%20SDC_Summit.pdf?dl=0)
-
-[7th Session    2/11/21  Finally Doing It](https://viodi.com/2021/02/13/memories-of-the-past-reflect-the-future-of-driverless/)
-
-[6th Session    2/ 4/21   Safe Enough in the Operational Design Domain](https://viodi.com/2021/02/05/a-culture-of-safety-is-av-table-stakes/)
-
-[5th Session    1/28/21 At the Tipping Point](https://viodi.com/2021/01/28/a-tipping-point-or-a-fork-in-the-road/)
-
-[4th Session    1/21/21 Why Customers are Buying Them](https://viodi.com/2021/02/10/viodi-view-02-10-21/#safety-in-the-showroom-the-dispatcher)
-
-[3rd Session    1/14/21 The SmartDrivingCars We Can Buy Today](https://viodi.com/2021/01/16/where-are-we-on-the-road-to-safe-driving/)
-
-[2nd Session](https://viodi.com/2021/01/08/whats-the-vision-for-the-smart-driving-future/)[1/ 7/21  A Look into the Future](https://viodi.com/2021/01/08/whats-the-vision-for-the-smart-driving-future/)[1st Session:](https://www.youtube.com/watch?v=pCc9N8o1dys&feature=youtu.be)[12/17/20](https://www.youtube.com/watch?v=pCc9N8o1dys&feature=youtu.be)[Setting the Stage](https://www.youtube.com/watch?v=pCc9N8o1dys&feature=youtu.be)
-
-### [SmartDrivingCars Pod-Cast Episode 203](https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-203),
-                                                          [Zoom-Cast Episode 203](https://youtu.be/7UgzO7V8lV4)
-
-###
-
-###
-
-                                                          F. Fishkin,
-                                                          March 13,
-                                                          ".GM's move to
-                                                          transform auto
-                                                          insurance
-                                                          through OnStar
-                                                          Insurance:
-                                                          Is it a win,
-                                                          win for
-                                                          all?      Is
-                                                          adaptive
-                                                          cruise control
-                                                          prompting some
-                                                          drivers to
-                                                          speed?     And
-                                                          what does
-                                                          Tesla really
-                                                          mean by "full
-                                                          self
-                                                          driving"?
-                                                          Just some of
-                                                          the questions
-                                                          tackled  in
-                                                          the latest
-                                                          edition of
-                                                          Smart Driving
-                                                          Cars with
-                                                          Princeton's
-                                                          Alain
-                                                          Kornhauser
-                                                          & co-host
-                                                          Fred Fishkin."
-                                                          Alexa, play the
-                                                          Smart Driving
-                                                          Cars podcast!".
-                                                          Ditto with Siri,
-                                                          and GooglePlay
-                                                          ...
-                                                          Alain
-
-4th Annual Princeton
-[SmartDrivingCar Summit](https://orfe.princeton.edu/conferences/sdc/)
-
-[12th Live Episode: Live on Zoom](https://orfe.princeton.edu/conferences/sdc/session/20210318)
-
-[Human-centered Design of Safe and Affordable Driverless Mobility](https://orfe.princeton.edu/conferences/sdc/session/20210318)
-
-What
-                                                          makes
-                                                          safely-driven
-                                                          and driverless
-                                                          mobility
-                                                          better for ALL
-                                                          users?
-
-
-[noon ET, Thursday, Georgia, serif;">](https://orfe.princeton.edu/conferences/sdc/session/20210318)
-
-                                                          Georgia,
-                                                          serif;"> [Video Summary of 1st Session: Setting the Stage](https://www.youtube.com/watch?v=pCc9N8o1dys&feature=youtu.be)
-
-
-                                                          The
-                                                          SmartDrivingCars
-                                                          eLetter,
-                                                          Pod-Casts,
-                                                          Zoom-Casts and
-                                                          Zoom-inars are
-                                                          made possible
-                                                          in part by
-                                                          support from
-                                                          the Smart
-                                                          Transportation
-                                                          and Technology
-                                                          ETF, symbol
-                                                          MOTO.   For
-                                                          more
-                                                          information: [www.motoetf.com](https://www.smartetfs.com/).  Most funding is
-                                                          supplied by
-                                                          Princeton
-                                                          University's
-                                                          Department of
-                                                          Operations
-                                                          Research &
-                                                          Financial
-                                                          Engineering
-                                                          and Princeton
-                                                          Autonomous
-                                                          Vehicle
-                                                          Engineering
-                                                          (PAVE)
-                                                          research
-                                                          laboratory as
-                                                          part of its
-                                                          research
-                                                          dissemination
-                                                          initiatives.
-
-### [Adaptive cruise control spurs drivers to speed](https://www.iihs.org/news/detail/adaptive-cruise-control-spurs-drivers-to-speed)
-
-Staff,
-                                                          March 11,
-                                                          "Drivers are
-                                                          using adaptive
-                                                          cruise control
-                                                          (ACC) as a
-                                                          tool for
-                                                          speeding,
-                                                          possibly
-                                                          undermining
-                                                          the feature's
-                                                          potential
-                                                          safety
-                                                          benefits, a
-                                                          new study from
-                                                          the Insurance
-                                                          Institute for
-                                                          Highway Safety
-                                                          found.
-
-                                                          Drivers are
-                                                          substantially
-                                                          more likely to
-                                                          speed when
-                                                          using ACC or
-                                                          partial
-                                                          automation
-                                                          that combines
-                                                          that feature
-                                                          with lane
-                                                          centering than
-                                                          when not using
-                                                          either
-                                                          technology,
-                                                          the study
-                                                          showed. When
-                                                          selecting a
-                                                          speed to "set
-                                                          and forget,"
-                                                          many drivers
-                                                          choose one
-                                                          that's over
-                                                          the limit.
-
-                                                          "ACC does have
-                                                          some safety
-                                                          benefits, but
-                                                          it's important
-                                                          to consider
-                                                          how drivers
-                                                          might cancel
-                                                          out these
-                                                          benefits by
-                                                          misusing the
-                                                          system," says
-                                                          IIHS
-                                                          Statistician
-                                                          Sam Monfort,
-                                                          the lead
-                                                          author of the
-                                                          paper. "Speed
-                                                          at impact is
-                                                          among the most
-                                                          important
-                                                          factors in
-                                                          whether or not
-                                                          a crash turns
-                                                          out to be
-                                                          fatal."...
-
-Nevertheless,
-                                                          an analysis of
-                                                          insurance
-                                                          claims data by
-                                                          the
-                                                          IIHS-affiliated
-                                                          Highway Loss
-                                                          Data Institute
-                                                          and other
-                                                          research
-                                                          indicate that
-                                                          ACC may lower
-                                                          crash risk..."
-                                                          [Read more](https://www.iihs.org/news/detail/adaptive-cruise-control-spurs-drivers-to-speed)
-                                                          Hmmmm.... As
-                                                          was argued
-                                                          above, ACC is
-                                                          NOT a
-                                                          SafelyDriven
-                                                          Automated
-                                                          system
-                                                          intended to
-                                                          enhance
-                                                          Safety.  It is
-                                                          a SelfDriving
-                                                          automated
-                                                          system
-                                                          intended to
-                                                          enhance driver
-Comfort&Convenience,  As such, it must not diminish safety below
-                                                          that which
-                                                          could be
-                                                          achieved if
-                                                          the driver was
-                                                          alert, capable
-                                                          of driving and
-                                                          not
-                                                          mis-behaving.
-                                                          The
-                                                          Operational
-                                                          Design Domains
-                                                          for each
-                                                          system needs
-                                                          to include
-                                                          {Min, Max}
-                                                          speed ranges
-                                                          that are
-                                                          dynamically
-                                                          set depending
-                                                          on local
-                                                          environmental
-                                                          and road
-                                                          surface
-                                                          conditions.
-                                                          These systems
-                                                          should only be
-                                                          available to
-                                                          assist the
-                                                          driver their
-                                                          certified ODD
-                                                          and the
-                                                          driver remains
-                                                          alert to
-                                                          conditions
-                                                          ahead
-                                                          (Eyes-on) and
-                                                          remains seated
-                                                          in the
-                                                          driver's seat
-                                                          (Butt-in).
-                                                          Alain
-
-### [Bears in our midst: familiarity with Level 2 driving: automation and situational awareness of on-road events](https://www.dropbox.com/s/xgcciib47zhq9dj/mf2220_IIHS_StudyOfCruiseControl.pdf?dl=0)
-
-A. Mueller,
-                                                          March 2021,
-                                                          "This study
-                                                          presents a
-                                                          novel paradigm
-                                                          to evaluate
-                                                          driver
-                                                          situational
-                                                          awareness (SA)
-                                                          when using
-                                                          Level 2 (L2)
-                                                          driving
-                                                          automation. An
-                                                          oversized pink
-                                                          teddy bear was
-                                                          mounted to the
-                                                          back of a
-                                                          study vehicle
-                                                          that overtook
-                                                          participants
-                                                          three times
-                                                          while they
-                                                          drove another
-                                                          study vehicle,
-                                                          a 2019
-                                                          Mercedes-Benz
-                                                          C300 equipped
-                                                          with a L2
-                                                          system, for
-                                                          approximately
-                                                          1 hour. The L2
-                                                          system was
-                                                          turned on or
-                                                          off for the
-                                                          drive,
-                                                          depending on
-                                                          the assigned
-                                                          condition, and
-                                                          participants
-                                                          varied in
-                                                          their
-                                                          familiarity
-                                                          with L2
-                                                          systems.
-                                                          Post-drive
-                                                          surveys
-                                                          measured SA
-                                                          about the bear
-                                                          and road by
-                                                          asking
-                                                          participants
-                                                          to recall the
-                                                          bear and the
-                                                          number of bear
-                                                          presentations
-                                                          as well as
-                                                          landmarks
-                                                          along the
-                                                          route. Cameras
-                                                          recorded
-                                                          participant
-                                                          eye glance
-                                                          behavior.
-                                                          Results show
-                                                          that the
-                                                          driving
-                                                          automation
-                                                          support only
-                                                          gave
-                                                          participants
-                                                          familiar with
-                                                          L2 systems an
-                                                          advantage for
-                                                          greater bear
-                                                          SA. Unfamiliar
-                                                          participants
-                                                          were at a
-                                                          disadvantage
-                                                          when assisted
-                                                          by the L2
-                                                          system, having
-                                                          poorer bear SA
-                                                          compared with
-                                                          unfamiliar
-                                                          participants
-                                                          who drove with
-                                                          the system
-                                                          off. Better
-                                                          bear SA
-                                                          corresponded
-                                                          with better
-                                                          landmark
-                                                          recall and
-                                                          wider on-road
-                                                          gaze
-                                                          dispersion.
-                                                          Our findings
-                                                          support the
-                                                          effectiveness
-                                                          of this
-                                                          paradigm to
-                                                          measure a
-                                                          driver's SA of
-                                                          the road
-                                                          objectively
-                                                          and
-                                                          unobtrusively
-                                                          when using a
-                                                          L2 system
-                                                          under
-                                                          real-world
-                                                          conditions...."
-                                                          [Read more](https://www.dropbox.com/s/xgcciib47zhq9dj/mf2220_IIHS_StudyOfCruiseControl.pdf?dl=0)  Hmmmm....All about what it might
-                                                          mean to have
-                                                          the ODD
-                                                          require
-                                                          "Eyes-on".  A
-                                                          basic question
-                                                          might be to
-                                                          what extent
-                                                          does "Looking
-                                                          at" mean
-                                                          "Seeing".
-                                                          "Looking at"
-                                                          can be
-                                                          remotely
-                                                          sensed.
-                                                          "Seeing" can't
-                                                          be readily
-                                                          sensed.  An
-                                                          alert driver
-                                                          needs not only
-                                                          to "look at"
-                                                          the situation
-                                                          ahead, but
-                                                          also needs to
-                                                          "see" the
-                                                          situation
-                                                          ahead.
-                                                          "Seeing"
-                                                          implies
-                                                          "Looking at",
-                                                          but "Looking
-                                                          at" does not
-                                                          imply
-                                                          "Seeing".
-                                                          Alain
-
-### [Luminar, Volvo subsidiary partner to sell automated driving systems to automakers](https://techcrunch.com/2021/03/11/luminar-volvo-subsidiary-partner-to-sell-automated-driving-systems-to-automakers/)
-
-                                                          K. Karosec,
-                                                          March 11,
-                                                          "Luminar
-                                                          Technologies
-                                                          has deepened
-                                                          ties with
-                                                          Volvo Cars to
-                                                          develop and
-                                                          eventually
-                                                          sell an
-                                                          automated
-                                                          driving system
-                                                          for highways
-                                                          to other
-                                                          automakers.
-                                                          The
-                                                          partnership,
-                                                          announced
-                                                          Thursday, is
-                                                          between
-                                                          Luminar and
-                                                          Volvo's
-                                                          self-driving
-                                                          software
-                                                          subsidiary
-                                                          Zenseact.
-
-                                                          The two
-                                                          companies are
-                                                          combining
-                                                          their tech to
-                                                          create what
-                                                          Luminar
-                                                          founder and
-                                                          CEO Austin
-                                                          Russell
-                                                          described as a
-                                                          "holistic
-                                                          autonomous
-                                                          vehicle
-                                                          stack"  made
-                                                          for production
-                                                          vehicles.
-                                                          Volvo will be
-                                                          the first
-                                                          customer.
-                                                          Russell and
-                                                          Zenseact CEO
-                                                          Ödgärd
-                                                          Andersson said
-                                                          Thursday they
-                                                          plan to also
-                                                          offer this
-                                                          system to
-                                                          other
-                                                          automakers..
-                                                          ..."  [Read more](https://techcrunch.com/2021/03/11/luminar-volvo-subsidiary-partner-to-sell-automated-driving-systems-to-automakers/)
-                                                          Hmmmm...   I suspect that this stack
-                                                          includes both
-                                                          the always-on
-                                                          SafelyDriven
-                                                          automated
-                                                          features that
-                                                          mitigate
-                                                          Driver
-                                                          misbehavior
-                                                          and
-                                                          SelfDriving
-                                                          confront and
-                                                          convenience
-                                                          features whose
-                                                          ODD includes
-                                                          Eyes-on and
-                                                          Butt-in
-                                                          Provisions.
-                                                          It will be the
-                                                          "size" of
-                                                          their ODD that
-                                                          will determine
-                                                          if they can be
-                                                          competitive in
-                                                          this market
-                                                          place. Note
-                                                          the size of
-                                                          that ODD will
-                                                          need to be
-                                                          conservative,
-                                                          else product
-                                                          liability
-                                                          claims will
-                                                          more than
-                                                          offset any
-                                                          market
-                                                          success.
-                                                          Alain
-
-### [Tesla touts self-driving to consumers. To the DMV, it tells a different tale](https://www.latimes.com/business/story/2021-03-09/elon-musk-wants-it-both-ways-with-telsas-full-self-driving)
-
-                                                          R. Mitchell,
-                                                          March 9, "For
-                                                          years, Tesla
-                                                          Chief
-                                                          Executive Elon
-                                                          Musk has been
-                                                          telling the
-                                                          public that
-                                                          fully
-                                                          autonomous
-                                                          Teslas are
-                                                          just around
-                                                          the corner, no
-                                                          more than a
-                                                          year or two
-                                                          off.
-
-                                                          The company
-                                                          has been
-                                                          telling
-                                                          regulators a
-                                                          very different
-                                                          story.
-
-                                                          In official
-                                                          correspondence
-                                                          with
-                                                          California's
-                                                          Department of
-                                                          Motor
-                                                          Vehicles,
-                                                          Tesla lawyers
-                                                          recently
-                                                          admitted the
-                                                          $10,000 option
-                                                          that Tesla
-                                                          sells as Full
-                                                          Self-Driving
-                                                          Capability is
-                                                          not, in fact,
-                                                          capable of
-                                                          full
-                                                          self-driving.
-                                                          "Currently
-                                                          neither
-                                                          Autopilot nor
-                                                          FSD Capability
-                                                          is an
-                                                          autonomous
-                                                          system," Tesla
-                                                          attorney Eric
-                                                          Williams said
-                                                          in a Dec. 28
-                                                          letter to the
-                                                          DMV, although
-                                                          that could
-                                                          change, he
-                                                          added.
-
-                                                          Not soon,
-                                                          though. Musk
-                                                          has been
-                                                          tweeting plans
-                                                          for a major
-                                                          Full
-                                                          Self-Driving
-                                                          software
-                                                          release. But
-                                                          Williams told
-                                                          the DMV that
-                                                          "we do not
-                                                          expect
-                                                          significant
-                                                          enhancements"
-                                                          that would
-                                                          allow full
-                                                          self-driving,
-                                                          and that the
-                                                          "final
-                                                          release" of a
-                                                          current
-                                                          feature
-                                                          package that
-                                                          lets Teslas
-                                                          stop at
-                                                          traffic lights
-                                                          and turn left
-                                                          and right
-                                                          without human
-                                                          input "will
-                                                          continue to be
-                                                          an SAE Level
-                                                          2, advanced
-                                                          driver-assist
-                                                          feature." In
-                                                          plain English,
-                                                          that means the
-                                                          vehicle cannot
-                                                          drive itself,
-                                                          at any time,
-                                                          without
-                                                          constant
-                                                          attention from
-                                                          a human
-                                                          driver.
-
-                                                          The emails
-                                                          were revealed
-                                                          after a public
-                                                          records
-                                                          request from
-                                                          the
-                                                          transparency
-                                                          advocacy
-                                                          organization
-                                                          Plainsite.
-                                                          They show the
-                                                          DMV
-                                                          questioning
-                                                          Tesla about
-                                                          its claims
-                                                          around Full
-                                                          Self-Driving
-                                                          technology and
-                                                          asking the
-                                                          company why it
-                                                          has not
-                                                          applied for a
-                                                          driverless
-                                                          vehicle test
-                                                          permit, as six
-                                                          other
-                                                          automakers and
-                                                          tech companies
-                                                          have
-                                                          done....." [Read more](https://www.latimes.com/business/story/2021-03-09/elon-musk-wants-it-both-ways-with-telsas-full-self-driving)  Hmmmm... Again, whatever Tesla
-                                                          wishes to call
-                                                          something, it
-                                                          is a
-                                                          Comfort&Convenience
-                                                          feature that
-                                                          needs to be
-                                                          made available
-                                                          within an
-                                                          Operational
-                                                          Design Domain
-                                                          specified and
-                                                          controlled by
-                                                          Tesla.  If
-                                                          crashes occur
-                                                          within the
-                                                          ODD, then it
-                                                          is a Tesla
-                                                          product
-                                                          liability
-                                                          concern.  If a
-                                                          crash occurs
-                                                          outside the
-                                                          ODD with the
-                                                          product
-                                                          engaged; then
-                                                          again, it is a
-                                                          Tesla product
-                                                          liability
-                                                          concern for
-                                                          allowing the
-                                                          system to be
-                                                          used outside
-                                                          of its ODD.
-                                                          These
-                                                          requirements
-                                                          will quickly
-                                                          encourage
-                                                          Tesla to
-                                                          create
-                                                          conservative
-                                                          ODDs and to
-                                                          stop enabling
-                                                          the mis-use of
-                                                          these systems
-                                                          outside of
-                                                          their ODD;
-                                                          else,
-                                                          liability
-                                                          claims will
-                                                          offset most,
-                                                          if not all, of
-                                                          Tesla's
-                                                          profitability.
-                                                          Alain
-
-### [Lordstown Motors accused of faking EV truck pre-orders by short-seller firm Hindenburg Research](https://techcrunch.com/2021/03/12/lordstown-motors-accused-of-faking-ev-truck-orders-by-short-seller-firm-hindenburg-research/)
-
-                                                          K. Karosec,
-                                                          March 11,
-                                                          "Hindenburg
-                                                          Research, the
-                                                          short-seller
-                                                          firm whose
-                                                          report on
-                                                          Nikola Motor
-                                                          led to an SEC
-                                                          investigation
-                                                          and [the resignation of its founder](https://techcrunch.com/2020/09/21/nikolas-chairman-steps-down-stock-crashes-following-allegations-of-fraud/),
-                                                          is targeting
-                                                          another
-                                                          electric
-                                                          vehicle
-                                                          company. This
-                                                          time it's
-                                                          Lordstown
-                                                          Motors, the
-                                                          Ohio electric
-                                                          automaker that
-                                                          went public
-                                                          after merging
-                                                          with
-                                                          special-purpose
-                                                          acquisition
-                                                          company
-                                                          DiamondPeak
-                                                          Holdings
-                                                          Corp., with a
-                                                          market value
-                                                          of $1.6
-                                                          billion.
-
-                                                          Hindenburg
-                                                          said in a
-                                                          report Friday
-                                                          that it has
-                                                          taken a short
-                                                          position on
-                                                          Lordstown
-                                                          Motors,
-                                                          causing shares
-                                                          to plummet
-                                                          21%. Shares
-                                                          have recovered
-                                                          slightly and
-                                                          are now down
-                                                          about 15% from
-                                                          the previous
-                                                          day's trade.
-                                                          Hindenburg's
-                                                          short position
-                                                          is based on a
-                                                          company that
-                                                          it says has
-                                                          "no revenue
-                                                          and no
-                                                          sellable
-                                                          product, which
-                                                          we believe has
-                                                          misled
-                                                          investors on
-                                                          both its
-                                                          demand and
-                                                          production
-                                                          capabilities."
-
-                                                          In a [report issued Friday](https://hindenburgresearch.com/lordstown/),
-                                                          Hindenburg
-                                                          disputes that
-                                                          the company
-                                                          has booked
-                                                          100,000
-                                                          pre-orders for
-                                                          its electric
-                                                          pickup truck,
-                                                          a stat shared
-                                                          by Lordstown
-                                                          Motors in
-                                                          January.
-                                                          ..."  [Read more](https://techcrunch.com/2021/03/12/lordstown-motors-accused-of-faking-ev-truck-orders-by-short-seller-firm-hindenburg-research/)  Hmmmm...  This
-                                                          looks UGLY.  Here
-                                                          we go again.
-                                                            Alain
-
-### [Tesla removed drivers who weren't paying attention from Full Self-Driving beta as it expands](https://electrek.co/2021/03/12/tesla-removed-drivers-werent-paying-attention-from-full-self-driving-beta/)
-
-                                                          F. Lambert,
-                                                          March 12,
-                                                          "Elon Musk
-                                                          says that has
-                                                          Tesla removed
-                                                          from the Full
-                                                          Self-Driving
-                                                          Beta drivers
-                                                          who they
-                                                          determined
-                                                          weren't paying
-                                                          enough
-                                                          attention......"
-                                                          [Read more](https://electrek.co/2021/03/12/tesla-removed-drivers-werent-paying-attention-from-full-self-driving-beta/)  Hmmmm...   This is only the very
-                                                          first step,
-                                                          that needs to
-                                                          be completely
-                                                          expanded.
-                                                          Since "Paying
-                                                          attention"
-                                                          means that
-                                                          FSD's ODD
-                                                          includes
-                                                          "Eyes-on" as
-                                                          well as
-                                                          "Butt-in",
-                                                          then Elon must
-                                                          enforce those
-conditions/constraints on FSD, or whatever he wishes to call it, and
-                                                          Elon MUST be
-                                                          held liable
-                                                          for crashes
-                                                          that happen
-                                                          when FDS is
-                                                          active and the
-                                                          crash isn't a
-                                                          result of
-                                                          really rare
-                                                          events like a
-                                                          bolder
-                                                          crashing down
-                                                          on the road or
-                                                          a bridge
-                                                          collapse,
-                                                          or.... Note...
-                                                          the real
-                                                          difference
-                                                          between FDS
-                                                          and Waymo's
-                                                          driver in
-                                                          "Chandler" is
-                                                          that Waymo's
-                                                          is Eyes-off,
-                                                          Butt-out in
-                                                          its "Chandler
-                                                          ODD" whereas
-                                                          Tesla's FSD's
-                                                          Eyes-off,
-                                                          Butt-out ODD
-                                                          is empty as
-                                                          is its
-                                                          Eyes-off,
-                                                          Butt-in
-                                                          ODD.    Big
-                                                          difference!!!!
-                                                          Alain
-
-### [Waymo is disclosing more autonomous vehicle data for research purposes](https://www.theverge.com/2021/3/10/22322100/waymo-motion-dataset-autonomous-vehicles-research)
-
-A. Hawkins,
-                                                          March 10,
-                                                          "Waymo is
-                                                          publicizing
-                                                          more data from
-                                                          its autonomous
-                                                          vehicles,
-                                                          which it says
-                                                          is for the
-                                                          benefit of the
-                                                          research
-                                                          community.
-                                                          Building on
-                                                          the trove of
-                                                          data it [released in 201](https://www.theverge.com/2019/8/21/20822755/waymo-self-driving-car-data-set-free-research)9,
-                                                          the Alphabet
-                                                          company is
-                                                          calling this
-                                                          latest batch
-                                                          "the largest
-                                                          interactive
-                                                          dataset yet
-                                                          released for
-                                                          research into
-                                                          behavior
-                                                          prediction and
-                                                          motion
-                                                          forecasting
-                                                          for autonomous
-                                                          driving."
-
-                                                          This "motion
-                                                          dataset"
-                                                          includes over
-                                                          100,000
-                                                          segments, each
-                                                          around 20
-                                                          seconds long,
-                                                          of objects
-                                                          like cars and
-                                                          people and
-                                                          their
-                                                          trajectories,
-                                                          as captured by
-                                                          Waymo's
-                                                          sensor-laden
-                                                          vehicles. The
-                                                          company has
-                                                          included
-                                                          corresponding
-                                                          3D maps and
-                                                          geographic
-                                                          details in
-                                                          each segment
-                                                          to provide
-                                                          researchers
-                                                          with context
-                                                          for their
-                                                          prediction
-                                                          modeling. In
-                                                          total, Waymo
-                                                          says it is
-                                                          releasing 570
-                                                          hours of
-                                                          "unique
-                                                          data."..." [Read more](https://www.theverge.com/2021/3/10/22322100/waymo-motion-dataset-autonomous-vehicles-research)  Hmmmm...   this is actually very
-                                                          valuable data
-                                                          if one is
-                                                          building
-                                                          simulation
-                                                          capabilities.
-                                                          Alain
-
-### [Waymo simulated real-world crashes to prove its self-driving cars can prevent deaths](https://www.theverge.com/2021/3/8/22315361/waymo-autonomous-vehicle-simulation-car-crash-deaths)
-
-A. Hawkins,
-                                                          March 8, "In a
-                                                          bid to prove
-                                                          that its robot
-                                                          drivers are
-                                                          safer than
-                                                          humans, Waymo
-                                                          simulated
-                                                          dozens of
-                                                          real-world
-                                                          fatal crashes
-                                                          that took
-                                                          place in
-                                                          Arizona over
-                                                          nearly a
-                                                          decade. The
-                                                          Google spinoff
-                                                          discovered
-                                                          that replacing
-                                                          either vehicle
-                                                          in a two-car
-                                                          crash with its
-                                                          robot-guided
-                                                          minivans would
-                                                          nearly
-                                                          eliminate all
-                                                          deaths, [according to data it publicized today](https://blog.waymo.com/2021/03/replaying-real-life.html).
-
-                                                          The results
-                                                          are meant to
-                                                          bolster
-                                                          Waymo's case
-                                                          that
-                                                          autonomous
-                                                          vehicles
-                                                          operate more
-                                                          safely than
-                                                          human-driven
-                                                          ones. With
-                                                          millions of
-                                                          people dying
-                                                          in auto
-                                                          crashes
-                                                          globally every
-                                                          year, AV
-                                                          operators are
-                                                          increasingly
-                                                          leaning on
-                                                          this safety
-                                                          case to spur
-                                                          regulators to
-                                                          pass
-                                                          legislation
-                                                          allowing more
-                                                          fully
-                                                          autonomous
-                                                          vehicles on
-                                                          the road...."
-                                                          [Read more](https://www.theverge.com/2021/3/8/22315361/waymo-autonomous-vehicle-simulation-car-crash-deaths)  Hmmmm...   this is actually very
-                                                          valuable data
-                                                          if one is
-                                                          building
-                                                          simulation
-                                                          capabilities.
-                                                          Alain
-
-### [Via buys mapping startup Remix for $100 million](https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/03/09/via-buys-mapping-startup-remix-for-100-million/amp/)
-
-K. Karosec,
-                                                          March 9,
-                                                          "Remix, the
-                                                          startup that
-                                                          developed
-                                                          mapping
-                                                          software used
-                                                          by cities for
-                                                          transportation
-                                                          planning and
-                                                          street design,
-                                                          was born out
-                                                          of a hackathon
-                                                          during a Code
-                                                          for America
-                                                          fellowship.
-                                                          Nearly seven
-                                                          years later,
-                                                          the San
-                                                          Francisco-based
-                                                          startup is
-                                                          being acquired
-                                                          by Via for
-                                                          $100 million
-                                                          in cash and
-                                                          equity.
-
-                                                          Remix will
-                                                          become a
-                                                          subsidiary of
-                                                          Via, an
-                                                          arrangement
-                                                          that will let
-                                                          the startup
-                                                          maintain its
-                                                          independent
-                                                          brand. Remix's
-                                                          65 employees
-                                                          and two of its
-                                                          co-founders —
-                                                          CEO Tiffany
-                                                          Chu and CTO
-                                                          Dan Getelman —
-                                                          will stay
-                                                          on..  ..."  [Read more](https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/03/09/via-buys-mapping-startup-remix-for-100-million/amp/)  Hmmmm...  Wow, I
-                                                          should start
-                                                          another
-                                                          "mapping
-                                                          company".  I
-                                                          can't imagine
-                                                          that "Cities
-                                                          pay anyone for
-'transportation mapping services' amounts that would make them worth
-                                                          $100M".  So,
-                                                          maybe the
-                                                          details are in
-                                                          the "cash and
-                                                          equity".  My
-                                                          over/under
-                                                          might be "5%
-                                                          cash/95%
-                                                          (over-valued)
-                                                          equity".
-                                                          While better
-                                                          "mapping"
-                                                          might help
-                                                          Via, it
-                                                          doesn't become
-self-sustaining until it can become Driverless, just like Uber/Lyft.
-                                                          Small
-                                                          cities/communities
-                                                          might contract
-                                                          them because
-                                                          they are
-                                                          cheaper than
-                                                          conventional
-                                                          bus service,
-                                                          but the
-                                                          margins will
-                                                          be small, the
-                                                          head-aches
-                                                          large, the
-                                                          "minimum
-                                                          waging" of
-                                                          workers
-                                                          essential and
-                                                          the despair of
-                                                          dealing with
-                                                          small villages
-                                                          that have
-                                                          essentially no
-                                                          budgets will
-                                                          be large.  If
-                                                          Hindenburg
-                                                          Research ever
-                                                          gets to Via,
-                                                          then
-                                                          watch-out.
-                                                          Alain
-
-### [Remembering Allan McDonald: He Refused To Approve Challenger Launch, Exposed Cover-Up](https://www.npr.org/2021/03/07/974534021/remembering-allan-mcdonald-he-refused-to-approve-challenger-launch-exposed-cover)
-
-H. Berkes,
-                                                          March 7, "On
-                                                          Jan. 27, 1986,
-                                                          Allan McDonald
-                                                          stood on the
-                                                          cusp of
-                                                          history.
-
-                                                          McDonald
-                                                          directed the
-                                                          booster rocket
-                                                          project at
-                                                          NASA
-                                                          contractor
-                                                          Morton
-                                                          Thiokol. He
-                                                          was
-                                                          responsible
-                                                          for the two
-                                                          massive
-                                                          rockets,
-                                                          filled with
-                                                          explosive
-                                                          fuel, that
-                                                          lifted space
-                                                          shuttles
-                                                          skyward. He
-                                                          was at the
-                                                          Kennedy Space
-                                                          Center in
-                                                          Florida for
-                                                          the launch of
-                                                          the Challenger
-                                                          "to approve or
-                                                          disapprove a
-                                                          launch if
-                                                          something came
-                                                          up," he told
-                                                          me in 2016, 30
-                                                          years after
-                                                          Challenger
-                                                          exploded.
-
-                                                          His job was to
-                                                          sign and
-                                                          submit an
-                                                          official form.
-                                                          Sign the form,
-                                                          he believed,
-                                                          and he'd risk
-                                                          the lives of
-                                                          the seven
-                                                          astronauts set
-                                                          to board the
-                                                          spacecraft the
-                                                          next morning.
-                                                          Refuse to
-                                                          sign, and he'd
-                                                          risk his job,
-                                                          his career and
-                                                          the good life
-                                                          he'd built for
-                                                          his wife and
-                                                          four children.
-
-                                                          "And I made
-                                                          the smartest
-                                                          decision I
-                                                          ever made in
-                                                          my lifetime,"
-                                                          McDonald told
-                                                          me. "I refused
-                                                          to sign it. I
-                                                          just thought
-                                                          we were taking
-                                                          risks we
-                                                          shouldn't be
-                                                          taking."...
-
-In
-                                                          retirement,
-                                                          McDonald
-                                                          became a
-                                                          fierce
-                                                          advocate of ethical
-decision-making and spoke to hundreds of engineering students,
-                                                          engineers and
-                                                          managers. He
-                                                          and Chapman
-                                                          University's
-                                                          Maier held
-                                                          leadership and
-                                                          ethics
-                                                          seminars for
-                                                          corporations
-                                                          and government
-                                                          agencies,
-                                                          including U.S.
-                                                          Space Command.
-
-                                                          Maier says
-                                                          that one of
-                                                          McDonald's key
-                                                          moments in his
-                                                          talks helps
-                                                          explain his
-                                                          ability to
-                                                          reconcile his
-                                                          brush with
-                                                          history.
-
-                                                          "What we
-                                                          should
-                                                          remember about
-                                                          Al McDonald
-                                                          [is] he would
-                                                          often stress
-                                                          his laws of
-                                                          the seven
-                                                          R's,"
-                                                          Maier says.
-                                                          "It was
-                                                          always, always
-                                                          do the Right
-                                                          thing for the
-                                                          Right
-                                                          reason at the
-                                                          Right
-                                                          time with the
-                                                          Right
-                                                          people. [And]
-                                                          you will have
-                                                          no Regrets
-                                                          for the Rest
-                                                          of your life.
-                                                          It's Really
-                                                          that simple if
-                                                          you just keep
-                                                          it focused
-                                                          that way,"
-                                                          McDonald told
-                                                          me in
-                                                          2016."... " [Read more](https://www.npr.org/2021/03/07/974534021/remembering-allan-mcdonald-he-refused-to-approve-challenger-launch-exposed-cover)  Hmmmm...  The seven R's.  What a great
-                                                          legacy.
-                                                          Alain
-
-### [What Full Autonomy Means for the Waymo Driver](https://spectrum.ieee.org/cars-that-think/transportation/self-driving/full-autonomy-waymo-driver)
-
-E.
-                                                          Ackerman, Mar
-                                                          4, "In
-                                                          January, Waymo
-                                                          posted a tweet
-                                                          breaking down
-                                                          what
-                                                          "autonomy"
-                                                          means for the
-                                                          Waymo Driver,
-                                                          which is how
-                                                          the company
-                                                          refers to its
-                                                          autonomous
-                                                          driving
-                                                          system. The
-                                                          video in the
-                                                          Tweet points
-                                                          out that Level
-                                                          1, 2, and 3
-                                                          autonomy are
-                                                          not "fully
-                                                          autonomous"
-                                                          because a
-                                                          human driver
-                                                          might be
-                                                          needed. Sounds
-                                                          good. The
-                                                          Waymo Driver
-                                                          operates at
-                                                          Level 4
-                                                          autonomy,
-                                                          meaning, Waymo
-                                                          says, that "no
-                                                          human driver
-                                                          is needed in
-                                                          our defined
-                                                          operational
-                                                          conditions."
-                                                          This, Waymo
-                                                          continues,
-                                                          represents
-                                                          "fully
-                                                          autonomous
-                                                          driving
-                                                          technology,"
-                                                          with the Waymo
-                                                          Driver being
-                                                          "fully
-                                                          independent
-                                                          from a human
-                                                          driver." ... "
-                                                          [Read more](https://spectrum.ieee.org/cars-that-think/transportation/self-driving/full-autonomy-waymo-driver)  Hmmmm... Unfortunately, the IEEE
-                                                          want to
-                                                          continue to
-                                                          debate the
-                                                          defnitions.
-                                                          who care???
-                                                          What is
-                                                          important is
-                                                          how the
-                                                          technology can
-                                                          actually
-                                                          deliver
-                                                          benefits to
-                                                          society.  Can
-                                                          it in fact
-                                                          deliver better
-                                                          mobility at a
-                                                          cheaper cost
-                                                          so that it has
-                                                          even just a
-                                                          small chance
-                                                          of being
-                                                          sustainable...
-                                                          lasting beyond
-                                                          some totally
-                                                          irrelevant
-                                                          "test" phase.
-
-Sure, Waymo may fall short of IEEE's 'manhood'
-                                                          definition of
-                                                          'Full', but
-                                                          who cares???
-                                                          What is
-                                                          important is..
-                                                          does what XXXX
-                                                          develop
-                                                          provide the
-                                                          opportunity to
-                                                          deliver
-                                                          mobility to
-                                                          those whose
-                                                          "quality-of-life"
-                                                          can be most
-                                                          enhanced by
-                                                          that offering
-                                                          and has the
-                                                          opportunity to
-                                                          be sustained
-                                                          as time goes
-                                                          on.  That is
-                                                          the challenge
-                                                          and the IEEE
-                                                          should be
-                                                          focused on
-                                                          that challenge
-                                                          and not some
-                                                          pre-teen
-                                                          playground
-                                                          issue focused
-                                                          on the meaning
-                                                          of "full".
-                                                          Alain
-
-### ITE
-                                                          [The Revolutionary Development of Self-Driving Vehicles and Implications for theTransportation Engineering Profession](https://www.dropbox.com/s/lqyfzxsd4sowekw/130709%20The%20Revolutionary%20Development%20of%20Self-Driving%20Venicles%20-ITE%20Journal%20Lutin%20Kornhauser%20and%20Lam.pdf?dl=0)
-
-Lutin/Kornhauser/Lam,
-                                                          July 2013,
-                                                          "Highway
-                                                          travel is
-                                                          about to
-                                                          undergo a
-                                                          dramatic
-                                                          transformation
-                                                          that is
-                                                          unprecedented
-                                                          in the history
-                                                          of
-                                                          transportation,
-                                                          and the
-                                                          Institute of
-                                                          Transportation
-                                                          Engineers
-                                                          (ITE) and its
-                                                          membership
-                                                          will face both
-                                                          opportunities
-                                                          and challenges
-                                                          that will
-                                                          reshape the
-                                                          future for our
-                                                          discipline.
-
-As this
-                                                          paper is being
-                                                          written, the
-                                                          rapid
-                                                          development of
-                                                          autonomous
-                                                          vehicles—self-driving
-                                                          cars—is under
-                                                          way, and there
-                                                          is some
-                                                          urgency for
-                                                          the
-                                                          transportation
-                                                          engineering
-                                                          profession to
-                                                          become
-                                                          actively
-                                                          engaged in
-                                                          dialogues and
-                                                          partnerships
-                                                          with a variety
-                                                          of
-                                                          stakeholders,
-                                                          including
-                                                          software and
-                                                          systems
-                                                          developers,
-                                                          auto
-                                                          manufacturers,
-                                                          and regulatory
-                                                          bodies...."  [Read more](https://www.dropbox.com/s/lqyfzxsd4sowekw/130709%20The%20Revolutionary%20Development%20of%20Self-Driving%20Venicles%20-ITE%20Journal%20Lutin%20Kornhauser%20and%20Lam.pdf?dl=0)  Hmmmm...  Can't
-                                                          believe almost
-                                                          8 years have
-                                                          past since we
-                                                          wrote this and
-                                                          I'm in my 9th
-                                                          year of
-                                                          writing this
-                                                          eLetter
-                                                          (almost 400
-                                                          issues).  Plus
-                                                          we're more
-                                                          than half way
-                                                          through our
-                                                          4th
-                                                          SmartDrivingCar
-                                                          Summit and
-                                                          Fred and I
-                                                          have done more
-                                                          than 200
-                                                          SmartDrivingCar
-                                                          PodCasts.
-                                                          A lot has
-                                                          happened, yet
-                                                          we are still
-                                                          at the very
-                                                          beginning.
-                                                          Whew!!!  Alain
-
-                                                          0, 0);">[Annual Princeton](https://orfe.princeton.edu/conferences/sdc/session/20210128)SmartDrivingCar
-                                                          Summit
-[12th Episode at noon on March 18, 2021](https://orfe.princeton.edu/conferences/sdc/session/20210225)
-                                                          TO BE followed by
-                                                          8 more weekly
-                                                          episodes
-                                                          through to
-                                                          April15,
-                                                          2021.  Each
-                                                          episode
-                                                          starting Live
-                                                          on Zoom @ noon
-                                                          Eastern
-                                                          (Princeton
-                                                          Time) and
-                                                          lasting for
-                                                          1.5 hours or
-                                                          until
-                                                          Discussion
-                                                          with audience
-                                                          ends.
-A.
-                                                          Kornhauser,
-                                                          Feb 6, "The
-                                                          focus of the
-                                                          Summit this
-                                                          year will be
-                                                          moving beyond
-                                                          the AI and the
-                                                          Sensors to
-                                                          addressing the
-                                                          challenges of
-Commercialization and  the delivery of tangible value to communities.
-                                                          We've made
-                                                          enormous
-                                                          progress with
-                                                          the
-                                                          technology.
-                                                          We're doing
-                                                          the
-                                                          investment;
-                                                          however, this
-                                                          investment
-                                                          delivers value
-                                                          only if is
-                                                          commercialized:
-                                                          made available
-                                                          and is used by
-                                                          consumers in
-                                                          large
-                                                          numbers.
-                                                          Demos and
-                                                          one-offs are
-                                                          "great", but
-                                                          to deliver
-                                                          value that is
-                                                          anywhere near
-                                                          commensurate
-                                                          with the
-                                                          magnitude of
-                                                          the investment
-                                                          made to date,
-                                                          initial
-                                                          deployments
-                                                          need to
-                                                          scale.  We
-                                                          can't just
-                                                          have
-                                                          "Morgantown
-                                                          PRT Systems"
-                                                          whose initial
-                                                          deployment has
-                                                          been nothing
-                                                          but enormously
-                                                          successful for
-                                                          45 years (an
-                                                          essentially
-                                                          perfect safety
-                                                          record, an
-                                                          excellent
-                                                          availability
-                                                          record and
-                                                          customer
-                                                          valued
-                                                          mobility).
-                                                          Unfortunately,
-                                                          the system was
-                                                          never expanded
-                                                          or duplicated
-                                                          anywhere.  It
-                                                          didn't scale.
-                                                          It is a
-                                                          one-off.
-
-Tests,
-                                                          demos and
-                                                          one-offs are
-                                                          nice niche
-                                                          deployments;
-                                                          however, what
-                                                          one really
-                                                          needs are
-                                                          initial
-                                                          deployments
-                                                          that have the
-                                                          opportunity to
-                                                          grow, be
-                                                          replicated and
-                                                          scale.  In
-                                                          1888, Frank
-                                                          Sprague,
-                                                          successfully
-                                                          deployed a
-                                                          small [electric street railway system in Richmond](https://en.wikipedia.org/wiki/Richmond_Union_Passenger_Railway),
-                                                          Va.  which
-                                                          became the
-                                                          reference for
-                                                          many other
-                                                          cites.  "... [By 1889 110 electric railways incorporating Sprague's equipment had been begun or planned on several continents](https://en.wikipedia.org/wiki/Frank_J._Sprague)..."
-                                                          Substantial
-                                                          scaled
-                                                          societal
-                                                          benefits
-                                                          emerged
-                                                          virally from
-                                                          this
-                                                          technology.
-                                                          It was
-                                                          eventually
-                                                          supplanted by
-                                                          the
-                                                          conventional
-                                                          automobile but
-                                                          for more than
-                                                          30 years it
-                                                          delivered
-                                                          substantial
-                                                          improvements
-                                                          to the
-                                                          quality-of-life
-                                                          for many.
-
-                                                          In part, the
-                                                          4th Summit
-                                                          will focus on
-                                                          defining the
-                                                          "Richmond" of
-                                                          Affordable
-                                                          Shared-ride
-                                                          On-demand
-                                                          Mobility-as-a-Service.
-                                                          The initial
-                                                          Operational
-                                                          Design Domain
-                                                          (ODD) that
-                                                          safely
-                                                          accommodates
-                                                          Driverless
-                                                          Mobility
-                                                          Machines that
-                                                          people
-                                                          actually
-                                                          choose to use
-                                                          and becomes
-                                                          the envy of
-                                                          communities
-                                                          throughout the
-                                                          country. " [Read more](https://orfe.princeton.edu/conferences/sdc/) Hmmmm... [Draft Program](https://orfe.princeton.edu/conferences/sdc/) is
-                                                          in flux.
-                                                          Consider all
-                                                          named
-                                                          individuals as
-                                                          "Invited yet
-                                                          to be
-                                                          confirmed".
-                                                          Alain
-
-## [C'mon Man!](https://www.youtube.com/watch?v=bnXl32ICWjQ)(These folks didn't get/read the memo)
-
-## Sunday Supplement
-
-## Half-Baked
-
-## Click-Bait
-
-### Calendar of Upcoming
-                                                          Events:s
-
-4th Annual Princeton
-[SmartDrivingCar Summit](https://orfe.princeton.edu/conferences/sdc/)
-
-[12th Live Episode: Live on Zoom](https://orfe.princeton.edu/conferences/sdc/session/20210318)
-
-[Human-centered Design of Safe and Affordable Driverless Mobility](https://orfe.princeton.edu/conferences/sdc/session/20210318)
-
-What
-                                                          makes
-                                                          safely-driven
-                                                          and driverless
-                                                          mobility
-                                                          better for ALL
-                                                          users?
-
-
-[noon ET, Thursday, Georgia, serif;">](https://orfe.princeton.edu/conferences/sdc/session/20210318)
-
-                                                          Georgia,
-                                                          serif;"> [Video Summary of 1st Session: Setting the Stage](https://www.youtube.com/watch?v=pCc9N8o1dys&feature=youtu.be)
-
-
-                                                          and
-
-[The SYMPOSIUM ON THE FUTURE NETWORKED CAR 2021 VIRTUAL EVENT - 22â€"25 MARCH 2021.](https://www.itu.int/en/fnc/2021/Pages/default.aspx)
-
-                                                          Georgia,
-                                                          serif;">
-
-### [On the More Technical Side](https://orfe.princeton.edu/~alaink/SmartDrivingCars/Papers/indexNew.html)
-
-[http://orfe.princeton.edu/~alaink/SmartDrivingCars/Papers/](https://orfe.princeton.edu/~alaink/SmartDrivingCars/Papers/indexNew.html)
-
-[K. Kockelman's AV Research Group at U of Texas](https://www.caee.utexas.edu/prof/kockelman/home.html#RESEARCH_&_REPORTS:_Self-Driving,_Automated,_&_Connected_Vehicles)
-
-###
-
-These
-                                                          editions are
-                                                          sponsored by
-                                                          the SmartETFs
-                                                          Smart
-                                                          Transportation
-                                                          and Technology
-                                                          ETF, symbol
-                                                          MOTO. For more
-                                                          information
-                                                          head to [www.motoetf.com](https://gate.sc/?url=http%3A%2F%2Fwww.motoetf.com&token=314192-1-1579871872239)
-
-[SmartDrivingCars Pod-Cast Episode 202](https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-202),
-                                                          [Zoom-Cast Episode 202](https://youtu.be/Hj3GmnTqfdk)
-President
-                                                          & CEO,
-                                                          RoadDB
-
-###
-
-###
-
-                                                          F. Fishkin,
-                                                          March 3, "When
-                                                          will we be
-                                                          able to
-                                                          purchase cars
-                                                          that can
-                                                          largely drive
-                                                          themselves?
-                                                          It may not be
-                                                          long...but
-                                                          don't expect
-                                                          to vacate the
-                                                          driver's
-                                                          seat.  That's
-                                                          the view of
-                                                          entrepreneur,
-                                                          tech pioneer
-                                                          and RoadDB CEO
-                                                          Russ
-                                                          Shields.   He
-                                                          takes an in
-                                                          depth look at
-                                                          where we are
-                                                          and where
-                                                          we're headed
-                                                          with
-                                                          Princeton's
-                                                          Alain
-                                                          Kornhauser
-                                                          & co-host
-                                                          Fred Fishkin."
-[SmartDrivingCars Pod-Cast Episode 201](https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-201),
-                                                          [Zoom-Cast Episode 201](https://youtu.be/n5oEfvBrWa8)
-                                                          w/Michael
-                                                          Sena,
-                                                          Publisher of The
-                                                          Dispatcher
-
-###
-
-###
-
-                                                          F. Fishkin,
-                                                          Feb. 26,
-                                                          "Smarter cars
-                                                          need smarter
-                                                          assembly...and
-                                                          location
-                                                          matters.   The
-                                                          Dispatcher
-                                                          publisher
-                                                          Michael Sena
-                                                          joins
-                                                          Princeton's
-                                                          Alain
-                                                          Kornhauser and
-                                                          co-host Fred
-                                                          Fishkin for a
-                                                          look at that,
-                                                          politics,
-                                                          climate and
-                                                          carmakers...plus
-                                                          Tesla,
-                                                          Velodyne,
-                                                          Foxconn and
-                                                          more.."
-[SmartDrivingCars Pod-Cast Episode 200](https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-200),
-                                                          [Zoom-Cast Episode 200](https://www.youtube.com/watch?v=iVHQuwNT4eY&feature=youtu.be)
-                                                          w/Edwin Olsen,
-                                                          CEO, May
-                                                          Mobility
-
-###
-
-###
-
-                                                          F. Fishkin,
-                                                          Feb. 22, "How
-                                                          May Mobility
-                                                          is building
-                                                          confidence in
-                                                          autonomous
-                                                          transportation
-                                                          and creating a
-                                                          road map for
-                                                          growth through
-                                                          the pandemic
-                                                          and beyond.
-                                                          CEO and
-                                                          co-founder
-                                                          Edwin Olson
-                                                          joins
-                                                          Princeton's
-                                                          Alain
-                                                          Kornhauser and
-                                                          co-host Fred
-                                                          Fishkin for
-                                                          that and
-                                                          more."
-
-SmartDrivingCars
-                                                          [Pod-Cast Episode 199](https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-199),
-                                                          [Zoom-Cast Episode 199](https://youtu.be/G7wnT9StV5Q)
-                                                          w/Marc
-                                                          Scribner,
-                                                          Senior
-                                                          Transportation
-                                                          Policy
-                                                          Analyst,
-                                                          Reason
-                                                          Foundation
-
-###
-
-                                                          F. Fishkin,
-                                                          Feb. 19, "How
-                                                          the Biden
-                                                          administration
-                                                          & Congress
-                                                          can pave the
-                                                          path for
-                                                          autonomous
-                                                          vehicles.
-                                                          Reason
-                                                          Foundation Sr.
-                                                          Transportation
-                                                          Policy Analyst
-                                                          Marc Scribner
-                                                          joins
-                                                          Princeton's
-                                                          Alain
-                                                          Kornhauser and
-                                                          co-host Fred
-                                                          Fishkin to
-                                                          focus on
-                                                          what's next.
-                                                          Plus jobs and
-                                                          autonomous
-                                                          trucking,
-                                                          Waymo, GM,
-                                                          Ford and
-                                                          more."
-SmartDrivingCars
-                                                          [Pod-Cast Episode 198](https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-198),
-                                                          [Zoom-Cast Episode 198](https://youtu.be/G7wnT9StV5Q)
-                                                          w/Dick Mudge,
-                                                          CEO, Compass
-                                                          Transportation
-                                                          &
-                                                          Technology
-
-###
-
-                                                          F. Fishkin,
-                                                          Feb. 13, Which
-                                                          autonomous
-                                                          vehicle
-                                                          companies will
-                                                          be the last
-                                                          standing?
-                                                          And does
-                                                          private
-                                                          ownership of
-                                                          self driving
-                                                          cars make
-                                                          sense?
-                                                          Compass
-                                                          Transportation
-                                                          and Technology
-                                                          President Dick
-                                                          Mudge joins
-                                                          Princeton's
-                                                          Alain
-                                                          Kornhauser and
-                                                          co-host Fred
-                                                          Fishkin for
-                                                          that...plus
-                                                          the latest on
-                                                          Tesla, GM,
-                                                          Toyota and
-                                                          more..."
-SmartDrivingCars
-                                                          [Pod-Cast Episode 197](https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-197),
-                                                          [Zoom-Cast Episode 197](https://youtu.be/1DXuNFbaxIc) w/Michel
-                                                          Parent,
-                                                          Founding
-                                                          Member of
-                                                          SuburVan
-
-###
-
-                                                          F. Fishkin,
-                                                          Feb. 5, "Smart
-                                                          mobility
-                                                          innovation in
-                                                          France.    Dr.
-                                                          Michel Parent
-                                                          founding
-                                                          member of
-                                                          SuburVan is
-                                                          aiming to
-                                                          provide fully
-                                                          autonomous
-                                                          mobility on
-                                                          the outskirts
-                                                          of Paris and
-                                                          more.    He
-                                                          joins
-                                                          Princeton's
-                                                          Alain
-                                                          Kornhauser and
-                                                          co-host Fred
-                                                          Fishkin for
-                                                          that...plus
-                                                          the latest on
-                                                          Ford, GM,
-                                                          Tesla, VW and
-                                                          more...."
-
-SmartDrivingCars
-                                                          [Pod-Cast Episode 196](https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-196),
-                                                          [Zoom-Cast Episode 196](https://youtu.be/isHyqJwvAok) w/Steve
-                                                          Polzin,
-                                                          Recently US
-                                                          DoT
-
-###
-
-                                                          F. Fishkin,
-                                                          Jan. 24, "Will
-                                                          more safe
-                                                          vehicle
-                                                          technology
-                                                          dampen the
-                                                          push for
-                                                          driverless
-                                                          mobility?
-                                                          Measuring the
-                                                          progress and
-                                                          challenges
-                                                          ahead with Dr.
-                                                          Steven
-                                                          Polzin..former
-                                                          Sr. Advisor,
-                                                          Office of the
-                                                          Ass't.
-                                                          Secretary for
-                                                          Research and
-                                                          Technology in
-                                                          the DOT. He
-                                                          joins
-                                                          Princeton's
-                                                          Alain
-                                                          Kornhauser
-                                                          & co-host
-                                                          Fred Fishkin
-                                                          ... plus GM
-                                                          going zero
-                                                          emission,
-                                                          Tesla, Waymo
-                                                          and more.."
-
-SmartDrivingCars
-                                                          [Pod-Cast Episode 195](https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-195)
-[Zoom-Cast Episode 195](https://www.youtube.com/watch?v=Cp2cUTElFmo)
-                                                          w/Diana Furchtgott-Roth, G. Washington U.
-
-###
-
-                                                          F. Fishkin,
-                                                          Jan. 24, "What
-                                                          progress has
-                                                          been made
-                                                          towards
-                                                          smarter, safer
-                                                          mobility? The
-                                                          push for a
-                                                          back-up to
-                                                          GPS. Why the
-                                                          jump in
-                                                          vehicle
-                                                          fatalities
-                                                          last year?
-                                                          Those issues
-                                                          and more as
-                                                          former deputy
-                                                          assistant U.S.
-                                                          Transportation
-                                                          Secretary for
-                                                          research and
-                                                          technology
-                                                          Diana
-                                                          Furchtgott
-                                                          Roth joins us.
-Plus...Microsoft, Cruise, Tesla and more on Smart Driving Cars with
-                                                          Princeton's
-                                                          Alain
-                                                          Kornhauser
-                                                          & co-host
-                                                          Fred Fishkin.
-SmartDrivingCars
-                                                          [Pod-Cast Episode 194](https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-194)
-[Zoom-Cast Episode 194](https://youtu.be/hK4Fj6erScY)
-                                                          w/Anuj
-                                                          Pradhan, UMass
-
-###
-
-                                                          F. Fishkin,
-                                                          Jan. 15,
-                                                          ""When it
-                                                          comes to
-                                                          vehicle safety
-technology...should manufacturers be sharing instead of competing?
-                                                          Should there
-                                                          be
-                                                          standardization?
-                                                          Anuj Pradhan,
-                                                          co-director of
-                                                          the Human
-                                                          Performance
-                                                          Lab at UMASS
-                                                          Amherst joins
-                                                          Princeton's
-                                                          Alain
-                                                          Kornhauser and
-                                                          co-host Fred
-                                                          Fishkin for
-                                                          that...plus
-                                                          the latest
-                                                          from GM,
-                                                          Tesla,
-                                                          Mobileye, Nio
-                                                          and more."
-SmartDrivingCars
-                                                          [Pod-Cast Episode 193](https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-193)
-[Zoom-Cast Episode 193](https://youtu.be/OETxB_wzkDw)
-                                                          w/Bobby
-                                                          Hambrick,
-                                                          AutonomousStuff
-
-###
-
-                                                          F. Fishkin,
-                                                          Jan. 8, "Bobby
-                                                          Hambrick
-                                                          started
-                                                          AutuonomouStuff
-                                                          in a barn in
-                                                          Morton,
-                                                          Illinois....and
-                                                          has pioneered
-                                                          much of the
-                                                          technology
-                                                          moving the
-                                                          autonomous
-                                                          industry
-                                                          forward, now
-                                                          as part of
-                                                          Hexagon. Bobby
-                                                          joins
-                                                          Princeton's
-                                                          Alain
-                                                          Kornhauser and
-                                                          co-host Fred
-                                                          Fishkin to
-                                                          look back and
-                                                          look ahead.
-                                                          Plus...Apple,
-                                                          Hyundai,
-                                                          Waymo, Tesla
-                                                          and more! "
-
-SmartDrivingCars
-                                                          [Pod-Cast Episode 192](https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-192)
-[Zoom-Cast Episode 192](https://youtu.be/D4XP43hJNe0)
-                                                          w/Danny
-                                                          Shapiro,
-                                                          nVIDIA
-
-###
-
-                                                          F. Fishkin,
-                                                          Dec. 30,
-                                                          "NVIDIA
-                                                          continues on a
-                                                          roll powering
-                                                          the Zoox robo
-                                                          taxi unveiled
-                                                          this month by
-                                                          Amazon.
-                                                          NVIDIA senior
-                                                          director of
-                                                          automotive
-                                                          Danny Shapiro
-                                                          outlines the
-                                                          progress and
-                                                          looks ahead to
-                                                          2021 in the
-                                                          latest Smart
-                                                          Driving Cars
-                                                          with
-                                                          Princeton's
-                                                          Alain
-                                                          Kornhauser and
-                                                          co-host Fred
-                                                          Fishkin. "
-
-SmartDrivingCars
-                                                          [Pod-Cast Episode 191](https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-191)
-                                                          [Zoom-Cast Episode 191](https://youtu.be/vGmU-NgR6Sw)
-                                                          w/ Louis
-                                                          Aaron'23 and
-                                                          Joel Johnson
-
-F.
-                                                          Fishkin, Dec.
-                                                          20, "College
-                                                          student Joel
-                                                          Johnson has
-                                                          been keeping a
-                                                          log of dozens
-                                                          of trips in
-                                                          Waymo's self
-                                                          driving
-                                                          service in
-                                                          Chandler,
-                                                          Arizona, and
-                                                          posting videos
-                                                          on YouTube.
-                                                          Louis
-                                                          Aaron'23,
-                                                          another
-                                                          student, has
-                                                          been working
-                                                          with Elon
-                                                          Musk's Boring
-                                                          Company in Las
-                                                          Vegas. The two
-                                                          share their
-                                                          experiences
-                                                          with
-                                                          Princeton's
-                                                          Alain
-                                                          Kornhauser and
-                                                          co-host Fred
-                                                          Fishkin in the
-                                                          latest Smart
-                                                          Driving
-                                                          Cars."
-
-SmartDrivingCars
-                                                          [Pod-Cast Episode 190](https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-190)
-                                                          [Zoom-Cast Episode 190](https://youtu.be/C8VeBIYi3g0)
-                                                          w/Chris
-                                                          Urmson, Aurora
-
-###
-
-                                                          F. Fishkin,
-                                                          Dec. 15, "With
-                                                          Aurora taking
-                                                          over Uber's
-                                                          self driving
-                                                          efforts,  what
-                                                          is on the
-                                                          horizon for
-                                                          the start up
-                                                          whose leaders
-                                                          have roots at
-                                                          Waymo,  Tesla
-                                                          and Uber?
-                                                          Co-founder and
-                                                          CEO Chris
-                                                          Urmson joins
-                                                          Princeton's
-                                                          Alain
-                                                          Kornhauser and
-                                                          co-host Fred
-                                                          Fishkin in
-                                                          this special
-                                                          edition of
-                                                          Smart Driving
-                                                          Cars."
-
-SmartDrivingCars [Pod-Cast Episode 187](https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-187)  [Zoom-Cast Episode 187](https://youtu.be/eyGCKObQ4e0)
-                                                          w/Michael
-                                                          Sena,  The
-                                                          Dispatcher
-
-F. Fishkin,
-                                                          Nov 25, "What
-                                                          you should
-                                                          know about
-                                                          electric cars,
-                                                          climate change
-                                                          and more.  The
-                                                          Dispatcher
-                                                          publisher
-                                                          Michael Sena
-                                                          joins
-                                                          Princeton's
-                                                          Alain
-                                                          Kornhauser and
-                                                          co-host Fred
-                                                          Fishkin in an
-                                                          eye opening
-                                                          edition of
-                                                          Smart Driving
-                                                          Cars.."
-
-SmartDrivingCars [Pod-Cast Episode 186](https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-186)  [Zoom-Cast Episode 186](https://youtu.be/fTCCqRPWeDo) w/Kelly
-Funkhouser, Consumer Report
-
-F. Fishkin,
-                                                          Nov 24, "When
-                                                          it comes to
-                                                          active driver
-                                                          assistance
-                                                          systems, what
-                                                          works and what
-                                                          needs
-                                                          improvement?
-                                                          Some answers
-                                                          from Kelly
-                                                          FunkhouserÃƒÆ'Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚Â¦
-                                                          program
-                                                          manager for
-                                                          vehicle
-                                                          interface,
-                                                          head of
-                                                          connected and
-                                                          automated
-                                                          vehicles at
-                                                          Consumer
-                                                          Reports.  She
-                                                          joins
-                                                          Princeton's
-                                                          Alain
-                                                          Kornhauser and
-                                                          co-host Fred
-                                                          Fishkin for
-                                                          episode 186 of
-                                                          Smart Driving
-                                                          Cars."
-
-SmartDrivingCars [Pod-Cast Episode 185](https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-185)
-                                                          [Zoom-Cast Episode 185](https://youtu.be/OWRRQb7VWLs) w/Dan
-                                                          Smith, Waymo
-F.
-                                                          Fishkin, Nov
-                                                          20, "Only
-                                                          Waymo has been
-                                                          transporting
-                                                          customers in
-                                                          driverless
-                                                          vehicles
-                                                          without a
-                                                          safety monitor
-                                                          on board.
-                                                          What goes into
-                                                          that kind of
-                                                          decision?
-                                                          Waymo
-                                                          Assistant
-                                                          General
-                                                          Counsel Dan
-                                                          Smith joins
-                                                          Princeton's
-                                                          Alain
-                                                          Kornhauser and
-                                                          co-host Fred
-                                                          Fishkin in
-                                                          this special
-                                                          edition of
-                                                          Smart Driving
-                                                          Cars."
-SmartDrivingCars [Pod-Cast Episode 184](https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-184)
-                                                          [Zoom-Cast Episode 184](https://youtu.be/fTCCqRPWeDo)
-                                                          w/Marjory
-                                                          Blumenthal, Rand
-F.
-                                                          Fishkin, Nov
-                                                          20, "So when
-                                                          are driverless
-                                                          vehicles safe
-                                                          enough to be
-                                                          deployed?
-                                                          Senior Rand
-                                                          Corporation
-                                                          policy
-                                                          researcher
-                                                          Marjory
-                                                          Blumenthal
-                                                          joins
-                                                          Princeton
-                                                          University's
-                                                          Alain
-                                                          Kornhauser and
-                                                          co-host Fred
-                                                          Fishkin to
-                                                          examine her
-                                                          latest report
-                                                          and more."
-
-SmartDrivingCars [Pod-Cast Episode 183](https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-183) [Zoom-Cast Episode 183](https://youtu.be/rr5lRSqJ0gY)
-                                                          w/Kirsten
-                                                          Korosec
-F.
-                                                          Fishkin, Nov
-                                                          13, "Rivian's
-                                                          hands free
-                                                          driver
-                                                          assistance
-                                                          will be
-                                                          standard
-                                                          equipment...while
-                                                          Ford unveils
-                                                          the E-Transit.
-                                                          TechCrunch
-                                                          Senior
-                                                          Transportation
-                                                          reporter and
-                                                          editor Kirsten
-                                                          Korosec joins
-                                                          Princeton's
-                                                          Alain
-                                                          Kornhauser and
-                                                          co-host Fred
-                                                          Fishkin for
-                                                          that plus
-                                                          Nuro, Tesla,
-                                                          Uber, Lyft,
-                                                          Cruise and
-                                                          more. Plus the
-                                                          coming changes
-                                                          for mobility
-                                                          under a new
-                                                          administration!"
-
-SmartDrivingCars [Pod-Cast Episode 182](https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-182) [Zoom-Cast Episode 182](https://youtu.be/0_PXnVj3_4M)
-F. Fishkin, Nov 6, "What will a new
-                                                          administration
-                                                          mean for
-                                                          autonomous
-                                                          mobility? And
-                                                          what about the
-                                                          passage of
-                                                          Proposition 22
-                                                          in California
-                                                          after Uber's
-                                                          big campaign?
-                                                          That plus
-                                                          luxury EVs
-                                                          coming from
-                                                          Bentley....and
-                                                          cheap EVs from
-                                                          China. Join
-                                                          Princeton's
-                                                          Alain
-                                                          Kornhauser and
-                                                          co-host Fred
-                                                          Fishkin for
-                                                          that and
-                                                          more."
-SmartDrivingCars [Pod-Cast Episode 181](https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-181) [Zoom-Cast Episode 181](https://youtu.be/qEuzTVpApX4)  w/Sheldon
-                                                          Sandler &
-                                                          Glenn Mercer
-                                                          F. Fishkin,
-                                                          Oct. 30,
-                                                          "Waymo
-                                                          releases self
-                                                          driving
-                                                          data...while
-                                                          traditional
-                                                          car dealers
-                                                          enjoy
-                                                          surprisingly
-                                                          strong profits
-                                                          during the
-                                                          pandemic.
-                                                          Why?  What
-                                                          about the
-                                                          coming
-                                                          autonomous
-                                                          mobility?
-                                                          Bell Air
-                                                          Partners'
-                                                          Sheldon
-                                                          Sandler and
-                                                          researcher-consultant
-                                                          Glenn Mercer
-                                                          explain in
-                                                          Episode 181 of
-                                                          Smart Driving
-                                                          Cars with
-                                                          Princeton's
-                                                          Alain
-                                                          Kornhauser and
-                                                          co-host Fred
-                                                          Fishkin.  "
-
-SmartDrivingCars  [Pod-Cast Episode 180](https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-180)  [Zoom-Cast Episode 180](https://youtu.be/9NvdetmCQik) w/John
-                                                          Rich,
-                                                          Ford/Argo,
-                                                          part 2
-F.
-                                                          Fishkin, Oct.
-                                                          15, "Ford and
-                                                          Argo AI have
-                                                          unveiled their
-                                                          next
-                                                          generation
-                                                          self-driving
-                                                          test vehicle.
-                                                          Once again,
-                                                          Ford's
-                                                          Director of
-                                                          Autonomous
-                                                          Vehicle and
-                                                          Technology
-                                                          Development
-                                                          John Rich
-                                                          joins
-                                                          Princeton's
-                                                          Alain
-                                                          Kornhauser and
-                                                          co-host Fred
-                                                          Fishkin to
-                                                          unveil the
-                                                          technology and
-                                                          the company's
-                                                          self driving
-                                                          business
-                                                          plans."
-SmartDrivingCars [Pod-Cast Episode 179](https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-179) [Zoom-Cast Episode 179](https://youtu.be/ngpKFmQNsxs)
-                                                          w/John Rich,
-                                                          Ford/Argo
-F.
-                                                          Fishkin, Oct.
-                                                          15, "Which
-                                                          autonomous
-                                                          vehicle
-                                                          platforms will
-                                                          survive? The
-                                                          director of
-                                                          Ford's
-                                                          Autonomous
-                                                          Vehicle and
-                                                          Technology
-                                                          Development
-                                                          says there may
-                                                          only be
-                                                          two...and Ford
-                                                          /Argo AI will
-                                                          be one of
-                                                          them. John
-                                                          Rich joins
-                                                          Princeton's
-                                                          Alain
-                                                          Kornhauser and
-                                                          co-host Fred
-                                                          Fishkin for
-                                                          that and
-                                                          more."
-SmartDrivingCars  [Pod-Cast Episode 178](https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-178)  [Zoom-Cast Episode 178](https://youtu.be/y41F1q0xiKI) w/Andrew
-                                                          Hawkins, Verge
-F.
-                                                          Fishkin, Oct.
-                                                          9, "Here we
-                                                          go! Waymo
-                                                          going fully
-                                                          driverless in
-                                                          Phoenix suburb
-                                                          service. The
-                                                          Verge senior
-                                                          transportation
-                                                          reporter
-                                                          Andrew Hawkins
-                                                          joins
-                                                          Princeton's
-                                                          Alain
-                                                          Kornhauser and
-                                                          co-host Fred
-                                                          Fishkin for
-                                                          that plus
-                                                          Tesla...
-                                                          Amazon...
-                                                          Rivian and
-                                                          more.
-                                                          Subscribe!
-
-SmartDrivingCars [Pod-Cast Episode 177](https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-177)
-                                                            [Zoom-Cast Episode 177](https://youtu.be/SB4Xg4qsTiQ)
-
-                                                          F. Fishkin,
-                                                          Oct. 2, "New
-                                                          grades for
-                                                          assisted
-                                                          driving
-                                                          systems from
-                                                          Euro NCAP.
-                                                          But Princeton
-                                                          Professor
-                                                          Alain
-                                                          Kornhauser
-                                                          says the devil
-                                                          is in the
-                                                          details in
-                                                          this edition
-                                                          with co-host
-                                                          Fred Fishkin.
-                                                          And there's
-                                                          Amazon's
-                                                          success
-                                                          against Covid
-                                                          plusTesla,
-                                                          Uber, GM,
-                                                          Nikola and
-                                                          more.
-SmartDrivingCars [Pod-Cast Episode 176](https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-176)  [Zoom-Cast Episode 176](https://youtu.be/lHjSTXH-GGchttps://www.youtube.com/watch?v=aHvG6Aqt6fk&feature=youtu.be)
-                                                          w/Marc
-                                                          Scribner
-
-F.
-                                                          Fishkin, Sept.
-                                                          25, "A new
-                                                          government
-                                                          entity to
-                                                          oversee
-                                                          autonomous
-                                                          vehicles? Marc
-                                                          Scribner, Sr.
-                                                          Transportation
-                                                          Policy Analyst
-                                                          at the Reason
-                                                          Foundation on
-                                                          regulation and
-                                                          more with
-                                                          Princeton's
-                                                          Alain
-                                                          Kornhauser and
-                                                          co-host Fred
-                                                          Fishkin.
-                                                          Plus...Tesla,
-                                                          Nikola, GM and
-                                                          the California
-                                                          move to ban
-                                                          new gasoline
-                                                          vehicles."
-
-SmartDrivingCars [Pod-Cast Episode 175](https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-175)   [Zoom-Cast Episode 175](https://youtu.be/lHjSTXH-GGc)
-                                                          w/Michael Sena
-                                                          F. Fishkin,
-                                                          Sept. 18,
-                                                          "Automobility
-                                                          and the future
-                                                          of car
-                                                          dealers...
-                                                          "The
-                                                          Dispatcher"
-                                                          publisher
-                                                          Michael Sena
-                                                          offers a
-                                                          different take
-                                                          on how car
-                                                          dealers may
-                                                          battle
-                                                          automakers
-                                                          pushing for
-                                                          direct to
-                                                          consumer
-                                                          subscriptions.
-                                                          That and more
-                                                          in this
-                                                          edition of
-                                                          Smart Driving
-                                                          Cars with
-                                                          Princeton's
-                                                          Alain
-                                                          Kornhauser and
-                                                          co-host Fred
-                                                          Fishkin."
-
-SmartDrivingCars [Pod-Cast Episode 174](https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-174) [Zoom-Cast Episode 174](https://youtu.be/AfRb9B-9boc) w/Kelly
-                                                          Funkhouser,
-                                                          Consumer
-                                                          Reports
-
-F.
-                                                          Fishkin, Sept.
-                                                          4, "Moving
-                                                          forward with
-                                                          autonomous
-                                                          vehicle
-                                                          testing, the
-                                                          head of safety
-                                                          at Uber's
-                                                          Advanced
-                                                          Technology
-                                                          Group is
-                                                          pledging
-                                                          safety data
-                                                          transparency.
-                                                          Nat Beuse
-                                                          joins
-                                                          Princeton's
-                                                          Alain
-                                                          Kornhauser and
-                                                          co host Fred
-                                                          Fishkin for
-                                                          that and more
-                                                          on the latest
-                                                          mobility
-                                                          headlines."
-SmartDrivingCars [Pod-Cast Episode 173](https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-173) [Zoom-Cast Episode 173](https://youtu.be/pvFnTmw-yz0)
-                                                          w/Nathanial
-                                                          Beuse
-F. Fishkin, Sept. 4, "Moving forward with
-                                                          autonomous
-                                                          vehicle
-                                                          testing, the
-                                                          head of safety
-                                                          at Uber's
-                                                          Advanced
-                                                          Technology
-                                                          Group is
-                                                          pledging
-                                                          safety data
-                                                          transparency.
-                                                          Nat Beuse
-                                                          joins
-                                                          Princeton's
-                                                          Alain
-                                                          Kornhauser and
-                                                          co host Fred
-                                                          Fishkin for
-                                                          that and more
-                                                          on the latest
-                                                          mobility
-                                                          headlines."
-SmartDrivingCars [Pod-Cast Episode 172](https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-172)[Zoom-Cast Episode 172](https://youtu.be/rAZyquSmvhQ)  Special
-                                                          Edition
-                                                          w/Danny
-                                                          Shapiro
-
-F.
-                                                          Fishkin ,Sept.
-                                                          2, "Mercedes
-                                                          unveils the
-                                                          latest S Class
-                                                          with more
-                                                          computing
-                                                          power than 60
-                                                          average
-                                                          cars...with
-                                                          NVIDIA playing
-                                                          a big role.
-                                                          NVIDIA's
-                                                          Director of
-                                                          Automotive
-                                                          Danny Shapiro
-                                                          joins
-                                                          Princeton's
-                                                          Alain
-                                                          Kornhauser and
-                                                          co-host Fred
-                                                          Fishkin for
-                                                          that and
-                                                          more."
-SmartDrivingCars  [Pod-Cast Episode 171](https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-171)[Zoom-Cast Episode 171](https://youtu.be/kR8V_eWfZa8) w/Henry
-                                                          Greenidge
-
-SmartDrivingCars  [PodCast 170](https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-170)  [ZoomCast Episode170](https://youtu.be/1BhwAGoSKzw)
-                                                          w/Michael Sena
-SmartDrivingCars  [PodCast Episode 169](https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-169) [ZoomCast Episode 169](https://youtu.be/MoDWQ5cPsjE)  w/Anthony
-                                                          Townsend
-SmartDrivingCars  [PodCast Episode 168](https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-168) [ZoomCast Episode 168](https://youtu.be/4Z3oCc1MBCU)  w/Olaf
-                                                          Sakkers
-SmartDrivingCars  [PodCast 167](https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-167)  [ZoomCast Episode167](https://youtu.be/tXIqGC9meH8)
-                                                          w/Robin Chase,
-                                                          Carlos Pardo
-                                                          & Daniel
-                                                          Sperling
-SmartDrivingCars [PodCast Episode 166](https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-166)[ZoomCast Episode 166](https://youtu.be/22ciz5Yr6Pg) w/Jay
-                                                          Rodgers'95,
-                                                          CEO Local
-                                                          Motors
-
-                                                          Zoom-inar
-                                                          Episode 005
-                                                          AmaZooks
-
-F. Fishkin,
-                                                          July 20, "Is
-                                                          Driverless
-                                                          home delivery
-                                                          the fastest
-                                                          route to
-                                                          Affordable
-                                                          Mobility for
-                                                          the Mobility
-                                                          Disadvantaged?
-                                                          ... "
-
-* [Zoom-inar Video (Video replay) AmaZooks](https://www.youtube.com/watch?v=hAxIbmmnJ08&feature=emb_err_woyt)
-
-* [PodCast (Audio Only) AmaZooks](https://soundcloud.com/smartdrivingcar/driving-the-debate-amazon-zoox-and-beyond)
-
-SmartDrivingCars [PodCast Episode 165](https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-165),[ZoomCast Episode165](https://youtu.be/5wwxVHKkFPk) w/Michael
-                                                          Sena
-
-F.
-                                                          Fishkin 16,
-                                                          "Is the option
-                                                          to buy a car
-                                                          at a
-                                                          dealership
-                                                          going to
-                                                          vanish? The
-                                                          Dispatcher
-                                                          publisher
-                                                          Michael Sena
-                                                          has a
-                                                          provocative
-                                                          perspective in
-                                                          this edition
-                                                          with
-                                                          Princeton's
-                                                          Alain
-                                                          Kornhauser
-                                                          & co-host
-                                                          Fred Fishkin.
-                                                          Plus..an
-                                                          update on the
-                                                          Amazon Zoox
-                                                          deal,
-                                                          autonomous
-                                                          vehicles and
-                                                          how they can
-                                                          help battle
-                                                          discrimination
-                                                          in
-                                                          transportation,
-                                                          TuSimple,
-                                                          Mobileye,
-                                                          Uber, Tesla
-                                                          and more."
-SmartDrivingCars [Pod-Cast 164 Episode 164](https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-164),   [Zoom-Cast Episode 163](https://www.youtube.com/watch?v=VxFEz8tqHJo&feature=youtu.be) w/Robbie
-                                                          Diamond
-
-F.
-                                                          Fishkin, July
-                                                          9, "Fostering
-                                                          economic
-                                                          opportunity
-                                                          through
-                                                          autonomous
-                                                          technology is
-                                                          the focus of
-                                                          an upcoming
-                                                          report from
-                                                          Security
-                                                          America's
-                                                          Future Energy.
-                                                          Founder and
-                                                          CEO Robbie
-                                                          Diamond shares
-                                                          details and
-                                                          more in this
-                                                          edition with
-                                                          Princeton's
-                                                          Alain
-                                                          Kornhauser and
-                                                          co-host Fred
-                                                          Fishkin. Plus
-                                                          ..are armed
-                                                          police
-                                                          officers
-                                                          really needed
-                                                          for traffic
-                                                          enforcement?
-                                                          And the latest
-                                                          from Tesla,
-                                                          Waymo and
-                                                          more.  ..."
-SmartDrivingCars  [Pod-Cast Episode 163](https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-163), [Zoom-Cast Episode 16](https://youtu.be/O5c8y-w4EdE)[3](https://youtu.be/O5c8y-w4EdE)
-                                                          w/Henry
-                                                          Greenidge
-F. Fishkin,
-                                                          July 2,
-                                                          "Transportation,
-                                                          racial
-                                                          injustices and
-                                                          changing the
-                                                          thinking
-                                                          around the
-                                                          future of
-                                                          mobility. NYU
-                                                          McSilver
-                                                          Institute for
-                                                          Poverty Policy
-                                                          & Research
-                                                          fellow Henry
-                                                          Greenidge
-                                                          joins
-                                                          Princeton's
-                                                          Alain
-                                                          Kornhauser and
-                                                          co-host Fred
-                                                          Fishkin in an
-                                                          eye and mind
-                                                          opening
-                                                          episode of
-                                                          Smart Driving
-                                                          Cars. Plus
-                                                          Amazon, Zoox,
-                                                          Waymo, Tesla
-                                                          & more.
-                                                          ."
-
-SmartDrivingCars  [Pod-Cast Episode 162,](https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-161)  [Zoom-Cast Episode 162](https://youtu.be/PHw_Jz9pP-0)  w/Cliff
-                                                          Winston
-
-F.
-                                                          Fishkin, June
-                                                          25, "From the
-                                                          Brookings
-                                                          Institution,
-                                                          Cliff Winston,
-                                                          co-author of
-                                                          Autonomous
-                                                          Vehicles...The
-                                                          Road to
-                                                          Economic
-                                                          Growth? joins
-                                                          Princeton's
-                                                          Alain
-                                                          Kornhauser and
-                                                          co-host Fred
-                                                          Fishkin.
-                                                          Plus..why are
-                                                          fatal crash
-                                                          rates rising
-                                                          in the midst
-                                                          of a
-                                                          pandemic...plus
-                                                          NVIDIA, Didi,
-                                                          Tesla and
-                                                          more."
-
-                                                          Episode 004  [Insurance: For or Against
-SmartDrivingCars?](https://www.youtube.com/watch?v=UHlPaNmjeag&feature=youtu.be)
-
-                                                          F. Fishkin,
-                                                          June 23, "But
-                                                          the debate is
-                                                          not really
-                                                          about
-                                                          technology nor
-                                                          is it about
-                                                          who delivers
-                                                          the best value
-                                                          for the money
-                                                          or the most
-                                                          privacy. It is
-                                                          about ..."
-
-* [Zoom-inar (Video replay)  Insurance: For or Against
-SmartDrivingCars?](https://www.youtube.com/watch?v=UHlPaNmjeag&feature=youtu.be)
-
-* [PodCast (Audio Only) Insurance: For or Against
-SmartDrivingCars?](https://soundcloud.com/smartdrivingcar/smart-driving-cars-zoom-tank-insurancefor-or-against-smart-driving-cars)
-
-[Listen](https://soundcloud.com/smartdrivingcar/smart-driving-cars-zoom-tank-insurancefor-or-against-smart-driving-cars)/[Watch](https://www.youtube.com/watch?v=DMNLH_fkcI4&feature=youtu.be) more  Hmmm...   We
-                                                          only scratched
-                                                          the surface.
-                                                          Alain
-SmartDrivingCars [Pod-Cast Episode 161](https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-161),[Zoom-Cast Episode 161](https://youtu.be/Cf75lnDthLI)
-                                                          w/Alberto
-                                                          Stochino
-F.
-                                                          Fishkin, June
-                                                          17, "Is less
-                                                          data sometimes
-                                                          more when it
-                                                          comes to
-                                                          driverless
-                                                          vehicle
-                                                          technology? [Perceptive](https://www.perceptivesensing.ai/) Founder and CEO
-                                                          Alberto
-                                                          Stochino joins
-                                                          Princeton's
-                                                          Alain
-                                                          Kornhauser and
-                                                          co-host Fred
-                                                          Fishkin for
-                                                          that plus the
-                                                          DOT's new plan
-                                                          for sharing
-                                                          autonomous
-                                                          safety
-                                                          information,
-                                                          the latest
-                                                          from Tesla,
-                                                          EVs from China
-                                                          and more."
-
-SmartDrivingCars [Pod-Cast Episode 160](https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-160), [Zoom-Cast Episode 160](https://youtu.be/98QX3nmhWMc)  w/Jessica
-                                                          Cicchino
-F.
-                                                          Fishkin, June
-                                                          12, "Insurance
-                                                          Institute for
-                                                          Highway
-                                                          Safety
-                                                          Research VP
-                                                          Jessica
-                                                          Cicchino
-                                                          co-authored a
-                                                          new study
-                                                          saying self
-                                                          driving
-                                                          vehicles could
-                                                          struggle to
-                                                          eliminate most
-                                                          crashes.   She
-                                                          joins
-                                                          Princeton's
-                                                          Alain
-                                                          Kornhauser and
-                                                          co-host Fred
-                                                          Fishkin to
-                                                          discuss the
-                                                          study.  Plus
-                                                          the latest on
-                                                          Tesla, Ford
-                                                          & VW,
-                                                          Covid-19 and
-                                                          more.  "
-
-SmartDrivingCars  [Pod-Cast Episode 159](https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-159),
-                                                           [Zoom-Cast Episode 159](https://youtu.be/bVjCME87XeU)
-                                                          w/Kara
-                                                          Kockelman
-F.
-                                                          Fishkin, June
-                                                          4, "Prof. Kara
-                                                          Kockelman's
-                                                          focus on smart
-                                                          transportation
-                                                          to save lives,
-                                                          money and the
-                                                          environment
-                                                          has made her a
-                                                          sought after
-                                                          global
-                                                          expert.  The
-                                                          U. of Texas
-                                                          Transportation
-                                                          Engineering
-                                                          Professor
-                                                          joins
-                                                          Princeton's
-                                                          Alain
-                                                          Kornhauser and
-                                                          co-host Fred
-                                                          Fishkin on the
-                                                          impact of
-                                                          Covid-19 and
-                                                          much more.
-                                                          Plus Tesla,
-                                                          Uber, Argo AI
-                                                          and the top
-                                                          smart driving
-                                                          headlines.
-                                                          For more on
-                                                          Dr.
-                                                          Kockelman's
-                                                          work....please
-                                                          visit...  [http://www.caee.utexas.edu/prof/kockelman](http://www.caee.utexas.edu/prof/kockelman)."
-
-                                                          DrivingTheDebate
-                                                          Episode 003  [Everyone's for Connectivity; but...](https://youtu.be/DMNLH_fkcI4)
-F. Fishkin,
-                                                          June 2, "But
-                                                          the debate is
-                                                          not really
-                                                          about
-                                                          technology nor
-                                                          is it about
-                                                          who delivers
-                                                          the best value
-                                                          for the money
-                                                          or the most
-                                                          privacy. It is
-                                                          about ..."
-
-* [Zoom-inar (Video replay)  Everyone's for Connectivity; but...](https://youtu.be/DMNLH_fkcI4)
-
-* [PodCast (Audio Only) Everyone's for Connectivity; but...](https://soundcloud.com/smartdrivingcar/zoom-tank-06-02-20-everyone-is-for-connectivitybut)
-
-[Listen](https://soundcloud.com/smartdrivingcar/zoom-tank-06-02-20-everyone-is-for-connectivitybut)/[Watch](https://www.youtube.com/watch?v=DMNLH_fkcI4&feature=youtu.be) more  Hmmm...   We
-                                                          only scratched
-                                                          the surface.
-                                                          Alain
-
-SmartDrivingCars [Pod-Cast Episode 158](https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-158),  [Zoom-Cast Episode 158](https://www.youtube.com/watch?v=T9HPSTVIrVY)
-                                                          w/Chunka Mui
-
-F.
-                                                          Fishkin, May
-                                                          28, "In the
-                                                          midst of the
-                                                          Covid-19
-                                                          pandemic, what
-                                                          are the
-                                                          smartest ways
-                                                          to re-build
-                                                          and plan for
-                                                          the future?
-                                                          Futurist and
-                                                          author Chunka
-                                                          Mui joins
-                                                          Princeton's
-                                                          Alain
-                                                          Kornhauser and
-                                                          co-host Fred
-                                                          Fishkin for
-                                                          that plus
-                                                          Amazon, Zoox,
-                                                          Intel
-                                                          Mobileye,
-                                                          Tesla, Uber
-                                                          and more."
-SmartDrivingCars [Pod-Cast Episode 157](https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-157),  [Zoom-Cast Episode 157](https://youtu.be/AQbuiJ70c7U) w/Grayson
-                                                          Brulte
-
-F.
-                                                          Fishkin, May
-                                                          21, "Global
-                                                          auto makers
-                                                          must
-                                                          completely
-                                                          re-think their
-                                                          autonomous
-                                                          mobility
-                                                          strategy as a
-                                                          result of the
-                                                          Covid-19
-                                                          pandemic. So
-                                                          says
-                                                          innovation
-                                                          strategist
-                                                          Grayson Brulte
-                                                          of Brulte
-                                                          &
-                                                          Company....who
-                                                          joins
-                                                          Princeton's
-                                                          Alain
-                                                          Kornhauser and
-                                                          co-host Fred
-                                                          Fishkin.
-                                                          Plus...Waymo,
-                                                          Tesla, Uber
-                                                          and more."
-
-  DrivingTheDebate
-                                                          Episode 002  [The Future of Public Roadway Transit](https://www.youtube.com/watch?v=3sqBZZzezUg)
-                                                          F. Fishkin,
-                                                          May 14, "Will
-                                                          the Bus be
-                                                          Thrown Under
-                                                          the Bus?...
-
-* [Zoom-inar Video (Video replay)](https://www.youtube.com/watch?v=3sqBZZzezUg)[Smart Driving Cars: The Future of Public Roadway Transit](https://www.youtube.com/watch?v=3sqBZZzezUg)
-
-* [PodCast (Audio Only) Smart Driving Cars: The Future of Public Roadway Transit](https://soundcloud.com/smartdrivingcar/zoom-tank-debate-2-the-future-of-public-roadway-transit)
-
-SmartDrivingCars  [Pod-Cast Episode 156](https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-156),  [Cars Zoom-Cast Episode 156](https://www.youtube.com/watch?v=a87wUmrIRII)
-                                                          w/Danny
-                                                          Shapiro2
-F.
-                                                          Fishkin, May
-                                                          14, "With new
-                                                          hardware and
-                                                          software
-                                                          capabilities
-                                                          NVIDIA is
-                                                          expanding into
-                                                          new areas of
-                                                          driver
-                                                          assistance
-                                                          technology.
-                                                          Sr. Director
-                                                          of Automotive
-                                                          Danny Shapiro
-                                                          joins
-                                                          Princeton's
-                                                          Alain
-                                                          Kornhauser and
-                                                          co-host Fred
-                                                          Fishkin for
-                                                          that...plus
-                                                          the latest on
-                                                          Waymo, Voyage,
-                                                          Ford and more.
-                                                          listen and
-                                                          subscribe!"
-
-SmartDrivingCars [Pod-Cast Episode 155](https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-155),[Zoom-Cast Episode 155](https://www.youtube.com/watch?v=1hJBUul2ogY&feature=youtu.be)
-                                                          w/Alex Roy2
-F.
-                                                          Fishkin, April
-                                                          29, "The
-                                                          continuing
-                                                          impact of
-                                                          Covid-19 on
-                                                          autonomous
-                                                          vehicle
-                                                          progress. But
-                                                          it may not be
-                                                          all bad news.
-                                                          Alex
-                                                          Roy...host of
-                                                          the No Parking
-                                                          Podcast and
-                                                          Director of
-                                                          Special
-                                                          Operations at
-                                                          Argo AI joins
-                                                          Princeton's
-                                                          Alain
-                                                          Kornhauser and
-                                                          co-host Fred
-                                                          Fishkin for
-                                                          that plus
-                                                          Tesla, Intel,
-                                                          Lyft, Uber and
-                                                          more. Listen
-                                                          and subscribe!
-
-SmartDrivingCars [Pod-Cast Episode 154](https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-154), [Zoom-Cast Episode 154](https://youtu.be/LmvKan80GOE)   w/Dan
-                                                          Sperling
-F.
-                                                          Fishkin, April
-                                                          29, "Can ride
-                                                          sharing
-                                                          rebound after
-                                                          the pandemic?
-                                                          Daniel
-                                                          Sperling,
-                                                          founding
-                                                          director of
-                                                          the Institute
-                                                          of
-                                                          Transportation
-                                                          Studies at UC
-                                                          Davis joins
-                                                          Princeton's
-                                                          Alain
-                                                          Kornhauser and
-                                                          co-host Fred
-                                                          Fishkin for
-                                                          that plus
-                                                          Tesla, Waymo,
-                                                          Ford and
-                                                          more."
-
-   DrivingTheDebate
-                                                          Episode 001 [The Driverless "New Normal" Debate](http://zoom-tank.com/)
-                                                          F. Fishkin,
-                                                          April 27,
-
-* [Zoom Video](https://www.youtube.com/watch?v=d19a8ueaXN0&feature=youtu.be)
-
-* [SmartDrivingCar PodCast (Audio Only) Smart Driving Cars: The Driverless New Normal Debate](https://soundcloud.com/smartdrivingcar/smart-driving-cars-the-driverless-new-normal-debate)
-
-* [Zoom Audience Questions](https://www.dropbox.com/s/mtkll891rfxlb09/Q%26AZoom-inar001NoNames.xlsx?dl=0) (Only
-                                                          a few were
-                                                          addressed in
-                                                          Zoom-inar)
-
-* [Zoom Audience Comments](https://www.dropbox.com/s/6c9ba6qrztce4og/Zoom-inar001_CommentsNoNames.xlsx?dl=0)
-
-* [YouTube Video](https://www.youtube.com/watch?v=d19a8ueaXN0)
-
- SmartDrivingCars  [Pod-Cast Episode 153](https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-153), [Zoom-Cast Episode 15](https://www.youtube.com/watch?v=8nW3AcoFeA8&feature=youtu.be)[3](https://www.youtube.com/watch?v=8nW3AcoFeA8&feature=youtu.be)
-                                                          w/Dick Mudge2
-
-SmartDrivingCars [Pod-Cast Episode 152,](https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-152)[Zoom-Cast Episode 15](https://youtu.be/xuIbtSJjDck)[2](https://youtu.be/xuIbtSJjDck)
-                                                          w/Brad
-                                                          Templeton
-
-[SmartDrivingCars Podcast Episode 148](https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-148)
-                                                          w/Richard
-                                                          Bishop
-
-   [SmartDrivingCars Zoom-Cast Episode 148](https://youtu.be/VkzPm5GwEz4) w/Richard
-                                                          Bishop
-
-[Smart Driving Cars Podcast Episode 147 - Michael Sena](https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-147)
-
- [Smart Driving Cars Podcast Episode 142 - J. Hughes](https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-142)
-
- [Smart Driving Cars Podcast Episode 141- A. Roy](https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-141)
-
- [Smart Driving Cars Podcast Episode 139- Randal O'Toole](https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-139)
-
- [Smart Driving Cars Podcast Episode 138-Nick Zart](https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-138)
-
- [Smart Driving Cars Podcast Episode 136](https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-136)
-
- [Smart Driving Cars Podcast Episode 135 - with Jim Atkinson](https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-135)
-
-[Smart Driving Cars Podcast Episode 130 with Dick Mudge & Michael Sena](https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-130)
-
-[Smart Driving Cars Podcast Episode 112 - J. Hardiman NJM](https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-112)
-
-[Smart Driving Cars Podcast Episode 110 - Lance Elliot](https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-110)
-
-[Smart Driving Cars Podcast Episode 108 3rd Summit Wrapup](https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-108)
-
-[Smart Driving Cars Podcast Episode 107 3rd Summit Leilei Shinohara & Staff Sergeant Terence McDonnell](https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-107)
-
-[Smart Driving Cars Podcast Episode 106 3rd Summit David Kidd & Cecillia Feeley](https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-106)
-
-[Smart Driving Cars Podcast Episode 104 3rd Summit Anil Lewis & Katherine Freund](https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-104)
-
-[Smart Driving Cars Podcast Episode 97 - Michael Sena'69](https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-97)
-
-[Smart Driving Cars Podcast Episode 71-Nader'55](https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-71)
-
-[Smart Driving Cars Podcast Episode 69 - Chunka Mui](https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-69)
-
-[Smart Driving Cars Podcast Episode 65 - Bernard Soriano, CA DMV](https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-65)
-
-[Smart Driving Cars Podcast Episode 58-Keith Code,](https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-58)[Motorcycles](https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-58)
-
-[Smart Driving Cars Podcast Episode 55-Larry Burns, Autonomy](https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-55)
-
-Recent Highlights of:
-
-                                                          March 5, 2021
-
-                                                          [Automated Driving Technologies: Driving Change in Insurance](https://viodi.com/2021/03/05/automated-driving-technologies-driving-change-in-insurance/)
-
-                                                          K. Pyle, March
-                                                          5, "It is in
-                                                          the insurance
-                                                          industry's
-                                                          best interest
-                                                          to use
-                                                          automated
-                                                          driving
-                                                          technology to
-                                                          make things
-                                                          safer through
-                                                          crash
-                                                          avoidance, not
-                                                          just crash
-                                                          mitigation.
-                                                          Unlike crash
-                                                          mitigation,
-                                                          crash
-                                                          avoidance
-                                                          saves the
-                                                          insurance
-                                                          company money.
-                                                          This was Alain
-                                                          Kornhauserâ's
-                                                          premise for
-                                                          the Smart
-                                                          Driving Car
-                                                          Summit,
-                                                          Incentivizing
-                                                          Through
-                                                          Insurance. The
-trillion-dollar question is whether the incentives to automate will
-                                                          overcome the
-                                                          countervailing
-                                                          forces of
-                                                          existing
-                                                          business
-                                                          practices in
-                                                          other parts of
-                                                          the mobility
-                                                          industry?...."
-                                                          [Read more](https://viodi.com/2021/03/05/automated-driving-technologies-driving-change-in-insurance/)  Hmmmm.... We had another
-                                                          excellent
-                                                          Session.
-                                                          Thank you for
-                                                          the summary,
-                                                          Ken.  Alain
-
-                                                          [March 2021 Issue](https://www.dropbox.com/s/vcwicdu3rz3h73z/The%20Dispatcher_March%202021.pdf?dl=0)
-M.
-                                                          Sena, Feb 23,
-                                                          " ... There is
-                                                          no way to test
-                                                          a car
-                                                          virtually...
-
-OEMs
-                                                          are still
-                                                          learning that
-                                                          that today's
-                                                          cars are not
-                                                          your father's
-                                                          Oldsmobile.
-
-                                                          Vehicle
-                                                          connectivity
-                                                          is not
-                                                          something that
-                                                          is tacked onto
-                                                          a car, like a
-battery-operated portable TOMTOM or GARMIN (or [CoPilot](https://copilottruck.com/)...Michael,
-                                                          How could you
-                                                          forget?...!)...navigation
-                                                          system....
-
-                                                          Driving Neat:
-                                                          Can U.S. Take
-                                                          Its Cars
-                                                          Without
-                                                          ICE?..."  [Read more](https://www.dropbox.com/s/vcwicdu3rz3h73z/The%20Dispatcher_March%202021.pdf?dl=0)  Hmmmm... Plus much much more.
-                                                          Enjoy!!! Alain
- [COMMENTARY: How the Biden Administration and Congress Can Pave the Path for Automated Vehicles](https://reason.org/policy-brief/challenges-and-opportunities-for-federal-automated-vehicle-policy/)
-M.
-                                                          Scribner, Feb.
-                                                          11, "Automated
-                                                          vehicle
-                                                          technology is
-                                                          coming; it's
-                                                          advancing very
-                                                          quickly," said
-                                                          now-confirmed
-                                                          Secretary of
-                                                          Transportation
-                                                          Pete Buttigieg
-                                                          during his
-                                                          confirmation
-                                                          hearing. â€œIt
-                                                          is something
-                                                          that holds the
-                                                          potential to
-                                                          be
-                                                          transformative
-                                                          and I think in
-                                                          many ways
-                                                          policy has not
-                                                          kept up.â€
-
-                                                          Secretary
-                                                          Buttigieg is
-                                                          absolutely
-                                                          correct. The
-                                                          U.S.
-                                                          Department of
-Transportation, specifically the National Highway Traffic Safety
-                                                          Administration
-                                                          division, has
-                                                          a number of
-                                                          tools at its
-                                                          disposal that
-                                                          can be used to
-                                                          modernize the
-                                                          federal
-                                                          regulatory
-                                                          environment to
-                                                          help speed the
-                                                          deployment of
-                                                          automated
-                                                          vehicle
-                                                          technologies
-                                                          that can
-                                                          greatly
-                                                          enhance
-                                                          safety,
-                                                          mobility, and
-                                                          access for all
-                                                          Americans.
-                                                          There is also
-                                                          an important
-                                                          role for
-                                                          Congress,
-                                                          especially at
-                                                          this early
-                                                          stage of
-                                                          automated
-                                                          vehicle
-                                                          development.
-
-                                                          To support
-                                                          reform efforts
-                                                          within the
-                                                          executive and
-                                                          legislative
-                                                          branches, my
-                                                          new Reason
-                                                          Foundation
-                                                          policy brief,
-                                                          [Challenges and Opportunities for Federal Automated Vehicle Policy](https://www.dropbox.com/s/7oiex3xvdh98f5y/challenges-opportunities-federal-automated-vehicle-policy.pdf?dl=0),
-                                                          lays out
-                                                          several steps
-                                                          policymakers
-                                                          can take to
-                                                          adapt the
-                                                          automotive
-                                                          regulatory
-                                                          apparatus to
-                                                          automated
-                                                          driving system
-                                                          technologies.
-                                                          The brief is
-                                                          broken into
-                                                          three main
-                                                          sections:
-                                                          defining
-                                                          automated
-                                                          vehicles, a
-                                                          survey of
-                                                          current
-                                                          federal
-                                                          automated
-                                                          vehicle policy
-                                                          development
-                                                          activities,
-                                                          and
-                                                          recommendations
-                                                          for federal
-                                                          policymakers.
-
-                                                          The reform
-                                                          recommendations
-                                                          for
-                                                          legislators
-                                                          and regulators
-                                                          are
-                                                          categorized
-                                                          under four
-                                                          themes: ..." [Read more](https://reason.org/policy-brief/challenges-and-opportunities-for-federal-automated-vehicle-policy/)  Hmmmm... Read especially: "[CHALLENGES AND OPPORTUNITIES FOR FEDERAL AUTOMATED VEHICLE POLICY](https://www.dropbox.com/s/7oiex3xvdh98f5y/challenges-opportunities-federal-automated-vehicle-policy.pdf?dl=0)".  Included is an extensive
-                                                          discussion on
-                                                          the SAE Levels
-                                                          where Marc
-                                                          states: "...most legacy automakers and new
-                                                          automated
-                                                          driving
-                                                          developers are
-                                                          planning to
-                                                          avoid SAE
-                                                          Level 3
-                                                          altogether.."
-                                                          and  "Given
-                                                          the wide
-                                                          diversity of
-                                                          road network
-                                                          operating
-                                                          conditions,
-                                                          achieving SAE
-                                                          Level 5 poses
-                                                          significant
-                                                          challenges...."
-                                                          That leaves
-                                                          just two very
-                                                          different
-                                                          classes of AVs
-                                                          ...
-                                                          Safely-driven
-                                                          AVs,
-                                                          encompasing
-                                                          SAE Levels 1
-                                                          & 2, that
-                                                          assist and
-                                                          support human
-                                                          drivers while
-                                                          requiring that
-                                                          a human driver
-                                                          ensures that
-                                                          the vehicle
-                                                          will be driven
-                                                          safely... and
-                                                          Driverless
-                                                          AVs, SAE Level
-                                                          4, where the
-                                                          responsibility
-                                                          that the
-                                                          vehicle will
-                                                          be driven
-                                                          safely is
-                                                          entirely borne
-                                                          by the driving
-                                                          technology.
-                                                          Those are the
-                                                          only two
-                                                          kinds.  Policy
-                                                          should focus
-                                                          on only those
-                                                          two and get
-                                                          those right.
-                                                          They are they
-                                                          only real
-                                                          opportunities
-                                                          for this
-                                                          technology ...
-                                                          one to help
-                                                          human drivers
-                                                          drive more
-                                                          safely and the
-                                                          other is to
-                                                          drive safely
-                                                          without any
-                                                          help or
-                                                          involvement by
-                                                          anyone riding
-                                                          long with the
-                                                          vehicle.
-                                                          Thus, the
-                                                          first order of
-                                                          business for
-                                                          Federal Policy
-                                                          is to simplify
-                                                          the process by
-                                                          concentrating
-                                                          on those two
-                                                          very diffent
-                                                          kinds of AVs
-                                                          and get those
-                                                          right.  Alain
-
-                                                          [Biden inherits big traffic safety mess](https://edition.pagesuite.com/popovers/dynamic_article_popover.aspx?guid=59e39325-8a38-42b3-af1d-6b62bdd0d6a0&v=sdk)
-
-                                                          R. Mitchell,
-                                                          Feb. 4, "...
-                                                          "  [Read more](https://edition.pagesuite.com/popovers/dynamic_article_popover.aspx?guid=59e39325-8a38-42b3-af1d-6b62bdd0d6a0&v=sdk)  Hmmmm... If the driver/owner is
-                                                          expected to be
-                                                          prepared to
-                                                          intervene to
-                                                          maintain
-                                                          safety, then
-                                                          it is NOT
+Operational
+Design Domains
+for each
+system needs
+to include
+&#123;Min, Max&#125;
+speed ranges
+that are
+dynamically
+set depending
+on local
+environmental
+and road
+surface
+conditions.
+These systems
+should only be
+available to
+assist the
+driver their
+certified ODD
+and the
+driver remains
+alert to
+conditions
+ahead
+(Eyes-on) and
+remains seated
+in the
+driver's seat
+(Butt-in).
+Alain</p>
+<h3 class="newsletter-article-title" id="bears-in-our-midst-familiarity-with-level-2-driving-automation-and-situational-awareness-of-on-road-events"><a href="https://www.dropbox.com/s/xgcciib47zhq9dj/mf2220_IIHS_StudyOfCruiseControl.pdf?dl=0" rel="noopener noreferrer">Bears in our midst: familiarity with Level 2 driving: automation and situational awareness of on-road events</a></h3>
+<p>A. Mueller,
+March 2021,
+"This study
+presents a
+novel paradigm
+to evaluate
+driver
+situational
+awareness (SA)
+when using
+Level 2 (L2)
+driving
+automation. An
+oversized pink
+teddy bear was
+mounted to the
+back of a
+study vehicle
+that overtook
+participants
+three times
+while they
+drove another
+study vehicle,
+a 2019
+Mercedes-Benz
+C300 equipped
+with a L2
+system, for
+approximately
+1 hour. The L2
+system was
+turned on or
+off for the
+drive,
+depending on
+the assigned
+condition, and
+participants
+varied in
+their
+familiarity
+with L2
+systems.
+Post-drive
+surveys
+measured SA
+about the bear
+and road by
+asking
+participants
+to recall the
+bear and the
+number of bear
+presentations
+as well as
+landmarks
+along the
+route. Cameras
+recorded
+participant
+eye glance
+behavior.
+Results show
+that the
+driving
+automation
+support only
+gave
+participants
+familiar with
+L2 systems an
+advantage for
+greater bear
+SA. Unfamiliar
+participants
+were at a
+disadvantage
+when assisted
+by the L2
+system, having
+poorer bear SA
+compared with
+unfamiliar
+participants
+who drove with
+the system
+off. Better
+bear SA
+corresponded
+with better
+landmark
+recall and
+wider on-road
+gaze
+dispersion.
+Our findings
+support the
+effectiveness
+of this
+paradigm to
+measure a
+driver's SA of
+the road
+objectively
+and
+unobtrusively
+when using a
+L2 system
+under
+real-world
+conditions...."
+<a href="https://www.dropbox.com/s/xgcciib47zhq9dj/mf2220_IIHS_StudyOfCruiseControl.pdf?dl=0" rel="noopener noreferrer">Read more</a>  </p><p class="newsletter-commentary">Hmmmm....All about what it might
+mean to have
+the ODD
+require
+"Eyes-on".  A
+basic question
+might be to
+what extent
+does "Looking
+at" mean
+"Seeing".
+"Looking at"
+can be
+remotely
+sensed.
+"Seeing" can't
+be readily
+sensed.  An
+alert driver
+needs not only
+to "look at"
+the situation
+ahead, but
+also needs to
+"see" the
+situation
+ahead.
+"Seeing"
+implies
+"Looking at",
+but "Looking
+at" does not
+imply
+"Seeing".
+Alain</p>
+<h3 class="newsletter-article-title" id="luminar-volvo-subsidiary-partner-to-sell-automated-driving-systems-to-automakers"><a href="https://techcrunch.com/2021/03/11/luminar-volvo-subsidiary-partner-to-sell-automated-driving-systems-to-automakers/" rel="noopener noreferrer">Luminar, Volvo subsidiary partner to sell automated driving systems to automakers</a></h3>
+<p>K. Karosec,
+March 11,
+"Luminar
+Technologies
+has deepened
+ties with
+Volvo Cars to
+develop and
+eventually
+sell an
+automated
+driving system
+for highways
+to other
+automakers.
+The
+partnership,
+announced
+Thursday, is
+between
+Luminar and
+Volvo's
+self-driving
+software
+subsidiary
+Zenseact.</p>
+<p>The two
+companies are
+combining
+their tech to
+create what
+Luminar
+founder and
+CEO Austin
+Russell
+described as a
+"holistic
+autonomous
+vehicle
+stack"  made
+for production
+vehicles.
+Volvo will be
+the first
+customer.
+Russell and
+Zenseact CEO
+Ödgärd
+Andersson said
+Thursday they
+plan to also
+offer this
+system to
+other
+automakers..
+..."  <a href="https://techcrunch.com/2021/03/11/luminar-volvo-subsidiary-partner-to-sell-automated-driving-systems-to-automakers/" rel="noopener noreferrer">Read more</a>
+</p><p class="newsletter-commentary">Hmmmm...   I suspect that this stack
+includes both
+the always-on
+SafelyDriven
+automated
+features that
+mitigate
+Driver
+misbehavior
+and
+SelfDriving
+confront and
+convenience
+features whose
+ODD includes
+Eyes-on and
+Butt-in
+Provisions.
+It will be the
+"size" of
+their ODD that
+will determine
+if they can be
+competitive in
+this market
+place. Note
+the size of
+that ODD will
+need to be
+conservative,
+else product
+liability
+claims will
+more than
+offset any
+market
+success.
+Alain</p>
+<h3 class="newsletter-article-title" id="tesla-touts-self-driving-to-consumers-to-the-dmv-it-tells-a-different-tale"><a href="https://www.latimes.com/business/story/2021-03-09/elon-musk-wants-it-both-ways-with-telsas-full-self-driving" rel="noopener noreferrer">Tesla touts self-driving to consumers. To the DMV, it tells a different tale</a></h3>
+<p>R. Mitchell,
+March 9, "For
+years, Tesla
+Chief
+Executive Elon
+Musk has been
+telling the
+public that
+fully
+autonomous
+Teslas are
+just around
+the corner, no
+more than a
+year or two
+off.</p>
+<p>The company
+has been
+telling
+regulators a
+very different
+story.</p>
+<p>In official
+correspondence
+with
+California's
+Department of
+Motor
+Vehicles,
+Tesla lawyers
+recently
+admitted the
+$10,000 option
+that Tesla
+sells as Full
+Self-Driving
+Capability is
+not, in fact,
+capable of
 full
-                                                          anything,
-                                                          period.
-                                                          Moreover, if
-                                                          the
-                                                          owner/driver
-                                                          is NOT
-                                                          prepared, nor
-                                                          permitted to
-                                                          intervene to
-                                                          maintain
-                                                          safety, then
-                                                          the fleet
-                                                          operator is
-                                                          required to
-                                                          accept the
-                                                          responsibility
-                                                          and "make
-                                                          whole" any and
-                                                          all
-                                                          liabilities
-                                                          arising from
-                                                          any  and all
-                                                          "at fault"
-                                                          crashes.
-                                                          Until Elon is
-                                                          willing to
-                                                          step up and
-                                                          take on that
-                                                          responsibility/liability
-                                                          or sell his
-                                                          cars
-                                                          exclusively to
-                                                          operating
-                                                          entities that
-                                                          assume that
-                                                          responsibility
-                                                          his Teslas are
-                                                          NOT full
-                                                          anything, period! Alain
-
-[Analyzing Ride-Share Potential and Empty Repositioning Requirements of a Nationwide aTaxi System](https://www.dropbox.com/s/custfytlu31kca7/Orf467F20Nationwide_aTaxiFinalReportCompilaation.pdf?dl=0)
+self-driving.
+"Currently
+neither
+Autopilot nor
+FSD Capability
+is an
+autonomous
+system," Tesla
+attorney Eric
+Williams said
+in a Dec. 28
+letter to the
+DMV, although
+that could
+change, he
+added.</p>
+<p>Not soon,
+though. Musk
+has been
+tweeting plans
+for a major
+Full
+Self-Driving
+software
+release. But
+Williams told
+the DMV that
+"we do not
+expect
+significant
+enhancements"
+that would
+allow full
+self-driving,
+and that the
+"final
+release" of a
+current
+feature
+package that
+lets Teslas
+stop at
+traffic lights
+and turn left
+and right
+without human
+input "will
+continue to be
+an SAE Level
+2, advanced
+driver-assist
+feature." In
+plain English,
+that means the
+vehicle cannot
+drive itself,
+at any time,
+without
+constant
+attention from
+a human
+driver.</p>
+<p>The emails
+were revealed
+after a public
+records
+request from
+the
+transparency
+advocacy
+organization
+Plainsite.
+They show the
+DMV
+questioning
+Tesla about
+its claims
+around Full
+Self-Driving
+technology and
+asking the
+company why it
+has not
+applied for a
+driverless
+vehicle test
+permit, as six
+other
+automakers and
+tech companies
+have
+done....." <a href="https://www.latimes.com/business/story/2021-03-09/elon-musk-wants-it-both-ways-with-telsas-full-self-driving" rel="noopener noreferrer">Read more</a>  </p><p class="newsletter-commentary">Hmmmm... Again, whatever Tesla
+wishes to call
+something, it
+is a
+Comfort&amp;Convenience
+feature that
+needs to be
+made available
+within an
+Operational
+Design Domain
+specified and
+controlled by
+Tesla.  If
+crashes occur
+within the
+ODD, then it
+is a Tesla
+product
+liability
+concern.  If a
+crash occurs
+outside the
+ODD with the
+product
+engaged; then
+again, it is a
+Tesla product
+liability
+concern for
+allowing the
+system to be
+used outside
+of its ODD.
+These
+requirements
+will quickly
+encourage
+Tesla to
+create
+conservative
+ODDs and to
+stop enabling
+the mis-use of
+these systems
+outside of
+their ODD;
+else,
+liability
+claims will
+offset most,
+if not all, of
+Tesla's
+profitability.
+Alain</p>
+<h3 class="newsletter-article-title" id="lordstown-motors-accused-of-faking-ev-truck-pre-orders-by-short-seller-firm-hindenburg-research"><a href="https://techcrunch.com/2021/03/12/lordstown-motors-accused-of-faking-ev-truck-orders-by-short-seller-firm-hindenburg-research/" rel="noopener noreferrer">Lordstown Motors accused of faking EV truck pre-orders by short-seller firm Hindenburg Research</a></h3>
+<p>K. Karosec,
+March 11,
+"Hindenburg
+Research, the
+short-seller
+firm whose
+report on
+Nikola Motor
+led to an SEC
+investigation
+and <a href="https://techcrunch.com/2020/09/21/nikolas-chairman-steps-down-stock-crashes-following-allegations-of-fraud/" rel="noopener noreferrer">the resignation of its founder</a>,
+is targeting
+another
+electric
+vehicle
+company. This
+time it's
+Lordstown
+Motors, the
+Ohio electric
+automaker that
+went public
+after merging
+with
+special-purpose
+acquisition
+company
+DiamondPeak
+Holdings
+Corp., with a
+market value
+of $1.6
+billion.</p>
+<p>Hindenburg
+said in a
+report Friday
+that it has
+taken a short
+position on
+Lordstown
+Motors,
+causing shares
+to plummet
+21%. Shares
+have recovered
+slightly and
+are now down
+about 15% from
+the previous
+day's trade.
+Hindenburg's
+short position
+is based on a
+company that
+it says has
+"no revenue
+and no
+sellable
+product, which
+we believe has
+misled
+investors on
+both its
+demand and
+production
+capabilities."</p>
+<p>In a <a href="https://hindenburgresearch.com/lordstown/" rel="noopener noreferrer">report issued Friday</a>,
+Hindenburg
+disputes that
+the company
+has booked
+100,000
+pre-orders for
+its electric
+pickup truck,
+a stat shared
+by Lordstown
+Motors in
+January.
+..."  <a href="https://techcrunch.com/2021/03/12/lordstown-motors-accused-of-faking-ev-truck-orders-by-short-seller-firm-hindenburg-research/" rel="noopener noreferrer">Read more</a>  </p><p class="newsletter-commentary">Hmmmm...  This
+looks UGLY.  Here
+we go again.
+Alain</p>
+<h3 class="newsletter-article-title" id="tesla-removed-drivers-who-werent-paying-attention-from-full-self-driving-beta-as-it-expands"><a href="https://electrek.co/2021/03/12/tesla-removed-drivers-werent-paying-attention-from-full-self-driving-beta/" rel="noopener noreferrer">Tesla removed drivers who weren't paying attention from Full Self-Driving beta as it expands</a></h3>
+<p>F. Lambert,
+March 12,
+"Elon Musk
+says that has
+Tesla removed
+from the Full
+Self-Driving
+Beta drivers
+who they
+determined
+weren't paying
+enough
+attention......"
+<a href="https://electrek.co/2021/03/12/tesla-removed-drivers-werent-paying-attention-from-full-self-driving-beta/" rel="noopener noreferrer">Read more</a>  </p><p class="newsletter-commentary">Hmmmm...   This is only the very
+first step,
+that needs to
+be completely
+expanded.
+Since "Paying
+attention"
+means that
+FSD's ODD
+includes
+"Eyes-on" as
+well as
+"Butt-in",
+then Elon must
+enforce those
+conditions/constraints on FSD, or whatever he wishes to call it, and
+Elon MUST be
+held liable
+for crashes
+that happen
+when FDS is
+active and the
+crash isn't a
+result of
+really rare
+events like a
+bolder
+crashing down
+on the road or
+a bridge
+collapse,
+or.... Note...
+the real
+difference
+between FDS
+and Waymo's
+driver in
+"Chandler" is
+that Waymo's
+is Eyes-off,
+Butt-out in
+its "Chandler
+ODD" whereas
+Tesla's FSD's
+Eyes-off,
+Butt-out ODD
+is empty as
+is its
+Eyes-off,
+Butt-in
+ODD.    Big
+difference!!!!
+Alain</p>
+<h3 class="newsletter-article-title" id="waymo-is-disclosing-more-autonomous-vehicle-data-for-research-purposes"><a href="https://www.theverge.com/2021/3/10/22322100/waymo-motion-dataset-autonomous-vehicles-research" rel="noopener noreferrer">Waymo is disclosing more autonomous vehicle data for research purposes</a></h3>
+<p>A. Hawkins,
+March 10,
+"Waymo is
+publicizing
+more data from
+its autonomous
+vehicles,
+which it says
+is for the
+benefit of the
+research
+community.
+Building on
+the trove of
+data it <a href="https://www.theverge.com/2019/8/21/20822755/waymo-self-driving-car-data-set-free-research" rel="noopener noreferrer">released in 201</a>9,
+the Alphabet
+company is
+calling this
+latest batch
+"the largest
+interactive
+dataset yet
+released for
+research into
+behavior
+prediction and
+motion
+forecasting
+for autonomous
+driving."</p>
+<p>This "motion
+dataset"
+includes over
+100,000
+segments, each
+around 20
+seconds long,
+of objects
+like cars and
+people and
+their
+trajectories,
+as captured by
+Waymo's
+sensor-laden
+vehicles. The
+company has
+included
+corresponding
+3D maps and
+geographic
+details in
+each segment
+to provide
+researchers
+with context
+for their
+prediction
+modeling. In
+total, Waymo
+says it is
+releasing 570
+hours of
+"unique
+data."..." <a href="https://www.theverge.com/2021/3/10/22322100/waymo-motion-dataset-autonomous-vehicles-research" rel="noopener noreferrer">Read more</a>  </p><p class="newsletter-commentary">Hmmmm...   this is actually very
+valuable data
+if one is
+building
+simulation
+capabilities.
+Alain</p>
+<h3 class="newsletter-article-title" id="waymo-simulated-real-world-crashes-to-prove-its-self-driving-cars-can-prevent-deaths"><a href="https://www.theverge.com/2021/3/8/22315361/waymo-autonomous-vehicle-simulation-car-crash-deaths" rel="noopener noreferrer">Waymo simulated real-world crashes to prove its self-driving cars can prevent deaths</a></h3>
+<p>A. Hawkins,
+March 8, "In a
+bid to prove
+that its robot
+drivers are
+safer than
+humans, Waymo
+simulated
+dozens of
+real-world
+fatal crashes
+that took
+place in
+Arizona over
+nearly a
+decade. The
+Google spinoff
+discovered
+that replacing
+either vehicle
+in a two-car
+crash with its
+robot-guided
+minivans would
+nearly
+eliminate all
+deaths, <a href="https://blog.waymo.com/2021/03/replaying-real-life.html" rel="noopener noreferrer">according to data it publicized today</a>.</p>
+<p>The results
+are meant to
+bolster
+Waymo's case
+that
+autonomous
+vehicles
+operate more
+safely than
+human-driven
+ones. With
+millions of
+people dying
+in auto
+crashes
+globally every
+year, AV
+operators are
+increasingly
+leaning on
+this safety
+case to spur
+regulators to
+pass
+legislation
+allowing more
+fully
+autonomous
+vehicles on
+the road...."
+<a href="https://www.theverge.com/2021/3/8/22315361/waymo-autonomous-vehicle-simulation-car-crash-deaths" rel="noopener noreferrer">Read more</a>  </p><p class="newsletter-commentary">Hmmmm...   this is actually very
+valuable data
+if one is
+building
+simulation
+capabilities.
+Alain</p>
+<h3 class="newsletter-article-title" id="via-buys-mapping-startup-remix-for-100-million"><a href="https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/03/09/via-buys-mapping-startup-remix-for-100-million/amp/" rel="noopener noreferrer">Via buys mapping startup Remix for $100 million</a></h3>
+<p>K. Karosec,
+March 9,
+"Remix, the
+startup that
+developed
+mapping
+software used
+by cities for
+transportation
+planning and
+street design,
+was born out
+of a hackathon
+during a Code
+for America
+fellowship.
+Nearly seven
+years later,
+the San
+Francisco-based
+startup is
+being acquired
+by Via for
+$100 million
+in cash and
+equity.</p>
+<p>Remix will
+become a
+subsidiary of
+Via, an
+arrangement
+that will let
+the startup
+maintain its
+independent
+brand. Remix's
+65 employees
+and two of its
+co-founders —
+CEO Tiffany
+Chu and CTO
+Dan Getelman —
+will stay
+on..  ..."  <a href="https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/03/09/via-buys-mapping-startup-remix-for-100-million/amp/" rel="noopener noreferrer">Read more</a>  </p><p class="newsletter-commentary">Hmmmm...  Wow, I
+should start
+another
+"mapping
+company".  I
+can't imagine
+that "Cities
+pay anyone for
+'transportation mapping services' amounts that would make them worth
+$100M".  So,
+maybe the
+details are in
+the "cash and
+equity".  My
+over/under
+might be "5%
+cash/95%
+(over-valued)
+equity".
+While better
+"mapping"
+might help
+Via, it
+doesn't become
+self-sustaining until it can become Driverless, just like Uber/Lyft.
+Small
+cities/communities
+might contract
+them because
+they are
+cheaper than
+conventional
+bus service,
+but the
+margins will
+be small, the
+head-aches
+large, the
+"minimum
+waging" of
+workers
+essential and
+the despair of
+dealing with
+small villages
+that have
+essentially no
+budgets will
+be large.  If
+Hindenburg
+Research ever
+gets to Via,
+then
+watch-out.
+Alain</p>
+<h3 class="newsletter-article-title" id="remembering-allan-mcdonald-he-refused-to-approve-challenger-launch-exposed-cover-up"><a href="https://www.npr.org/2021/03/07/974534021/remembering-allan-mcdonald-he-refused-to-approve-challenger-launch-exposed-cover" rel="noopener noreferrer">Remembering Allan McDonald: He Refused To Approve Challenger Launch, Exposed Cover-Up</a></h3>
+<p>H. Berkes,
+March 7, "On
+Jan. 27, 1986,
+Allan McDonald
+stood on the
+cusp of
+history.</p>
+<p>McDonald
+directed the
+booster rocket
+project at
+NASA
+contractor
+Morton
+Thiokol. He
+was
+responsible
+for the two
+massive
+rockets,
+filled with
+explosive
+fuel, that
+lifted space
+shuttles
+skyward. He
+was at the
+Kennedy Space
+Center in
+Florida for
+the launch of
+the Challenger
+"to approve or
+disapprove a
+launch if
+something came
+up," he told
+me in 2016, 30
+years after
+Challenger
+exploded.</p>
+<p>His job was to
+sign and
+submit an
+official form.
+Sign the form,
+he believed,
+and he'd risk
+the lives of
+the seven
+astronauts set
+to board the
+spacecraft the
+next morning.
+Refuse to
+sign, and he'd
+risk his job,
+his career and
+the good life
+he'd built for
+his wife and
+four children.</p>
+<p>"And I made
+the smartest
+decision I
+ever made in
+my lifetime,"
+McDonald told
+me. "I refused
+to sign it. I
+just thought
+we were taking
+risks we
+shouldn't be
+taking."...</p>
+<p>In
+retirement,
+McDonald
+became a
+fierce
+advocate of ethical
+decision-making and spoke to hundreds of engineering students,
+engineers and
+managers. He
+and Chapman
+University's
+Maier held
+leadership and
+ethics
+seminars for
+corporations
+and government
+agencies,
+including U.S.
+Space Command.</p>
+<p>Maier says
+that one of
+McDonald's key
+moments in his
+talks helps
+explain his
+ability to
+reconcile his
+brush with
+history.</p>
+<p>"What we
+should
+remember about
+Al McDonald
+[is] he would
+often stress
+his laws of
+the seven
+R's,"
+Maier says.
+"It was
+always, always
+do the Right
+thing for the
+Right
+reason at the
+Right
+time with the
+Right
+people. [And]
+you will have
+no Regrets
+for the Rest
+of your life.
+It's Really
+that simple if
+you just keep
+it focused
+that way,"
+McDonald told
+me in
+2016."... " <a href="https://www.npr.org/2021/03/07/974534021/remembering-allan-mcdonald-he-refused-to-approve-challenger-launch-exposed-cover" rel="noopener noreferrer">Read more</a>  </p><p class="newsletter-commentary">Hmmmm...  The seven R's.  What a great
+legacy.
+Alain</p>
+<h3 class="newsletter-article-title" id="what-full-autonomy-means-for-the-waymo-driver"><a href="https://spectrum.ieee.org/cars-that-think/transportation/self-driving/full-autonomy-waymo-driver" rel="noopener noreferrer">What Full Autonomy Means for the Waymo Driver</a></h3>
+<p>E.
+Ackerman, Mar
+4, "In
+January, Waymo
+posted a tweet
+breaking down
+what
+"autonomy"
+means for the
+Waymo Driver,
+which is how
+the company
+refers to its
+autonomous
+driving
+system. The
+video in the
+Tweet points
+out that Level
+1, 2, and 3
+autonomy are
+not "fully
+autonomous"
+because a
+human driver
+might be
+needed. Sounds
+good. The
+Waymo Driver
+operates at
+Level 4
+autonomy,
+meaning, Waymo
+says, that "no
+human driver
+is needed in
+our defined
+operational
+conditions."
+This, Waymo
+continues,
+represents
+"fully
+autonomous
+driving
+technology,"
+with the Waymo
+Driver being
+"fully
+independent
+from a human
+driver." ... "
+<a href="https://spectrum.ieee.org/cars-that-think/transportation/self-driving/full-autonomy-waymo-driver" rel="noopener noreferrer">Read more</a>  </p><p class="newsletter-commentary">Hmmmm... Unfortunately, the IEEE
+want to
+continue to
+debate the
+defnitions.
+who care???
+What is
+important is
+how the
+technology can
+actually
+deliver
+benefits to
+society.  Can
+it in fact
+deliver better
+mobility at a
+cheaper cost
+so that it has
+even just a
+small chance
+of being
+sustainable...
+lasting beyond
+some totally
+irrelevant
+"test" phase.</p>
+<p class="newsletter-commentary">Sure, Waymo may fall short of IEEE's 'manhood'
+definition of
+'Full', but
+who cares???
+What is
+important is..
+does what XXXX
+develop
+provide the
+opportunity to
+deliver
+mobility to
+those whose
+"quality-of-life"
+can be most
+enhanced by
+that offering
+and has the
+opportunity to
+be sustained
+as time goes
+on.  That is
+the challenge
+and the IEEE
+should be
+focused on
+that challenge
+and not some
+pre-teen
+playground
+issue focused
+on the meaning
+of "full".
+Alain</p>
+<h3 class="newsletter-article-title" id="ite">ITE</h3>
+<h3 class="newsletter-article-title" id="article-30"><a href="https://www.dropbox.com/s/lqyfzxsd4sowekw/130709%20The%20Revolutionary%20Development%20of%20Self-Driving%20Venicles%20-ITE%20Journal%20Lutin%20Kornhauser%20and%20Lam.pdf?dl=0" rel="noopener noreferrer">The Revolutionary Development of Self-Driving Vehicles and Implications for theTransportation Engineering Profession</a></h3>
+<p>Lutin/Kornhauser/Lam,
+July 2013,
+"Highway
+travel is
+about to
+undergo a
+dramatic
+transformation
+that is
+unprecedented
+in the history
+of
+transportation,
+and the
+Institute of
+Transportation
+Engineers
+(ITE) and its
+membership
+will face both
+opportunities
+and challenges
+that will
+reshape the
+future for our
+discipline.</p>
+<p>As this
+paper is being
+written, the
+rapid
+development of
+autonomous
+vehicles—self-driving
+cars—is under
+way, and there
+is some
+urgency for
+the
+transportation
+engineering
+profession to
+become
+actively
+engaged in
+dialogues and
+partnerships
+with a variety
+of
+stakeholders,
+including
+software and
+systems
+developers,
+auto
+manufacturers,
+and regulatory
+bodies...."  <a href="https://www.dropbox.com/s/lqyfzxsd4sowekw/130709%20The%20Revolutionary%20Development%20of%20Self-Driving%20Venicles%20-ITE%20Journal%20Lutin%20Kornhauser%20and%20Lam.pdf?dl=0" rel="noopener noreferrer">Read more</a>  </p><p class="newsletter-commentary">Hmmmm...  Can't
+believe almost
+8 years have
+past since we
+wrote this and
+I'm in my 9th
+year of
+writing this
+eLetter
+(almost 400
+issues).  Plus
+we're more
+than half way
+through our
+4th
+SmartDrivingCar
+Summit and
+Fred and I
+have done more
+than 200
+SmartDrivingCar
+PodCasts.
+A lot has
+happened, yet
+we are still
+at the very
+beginning.
+Whew!!!  Alain</p>
+<p>0, 0);"&gt;<a href="https://orfe.princeton.edu/conferences/sdc/session/20210128" rel="noopener noreferrer">Annual Princeton</a>SmartDrivingCar
+Summit
+<a href="https://orfe.princeton.edu/conferences/sdc/session/20210225" rel="noopener noreferrer">12th Episode at noon on March 18, 2021</a>
+TO BE followed by
+8 more weekly
+episodes
+through to
+April15,
+2021.  Each
+episode
+starting Live
+on Zoom @ noon
+Eastern
+(Princeton
+Time) and
+lasting for
+1.5 hours or
+until
+Discussion
+with audience
+ends.
+A.
+Kornhauser,
+Feb 6, "The
+focus of the
+Summit this
+year will be
+moving beyond
+the AI and the
+Sensors to
+addressing the
+challenges of
+Commercialization and  the delivery of tangible value to communities.
+We've made
+enormous
+progress with
+the
+technology.
+We're doing
+the
+investment;
+however, this
+investment
+delivers value
+only if is
+commercialized:
+made available
+and is used by
+consumers in
+large
+numbers.
+Demos and
+one-offs are
+"great", but
+to deliver
+value that is
+anywhere near
+commensurate
+with the
+magnitude of
+the investment
+made to date,
+initial
+deployments
+need to
+scale.  We
+can't just
+have
+"Morgantown
+PRT Systems"
+whose initial
+deployment has
+been nothing
+but enormously
+successful for
+45 years (an
+essentially
+perfect safety
+record, an
+excellent
+availability
+record and
+customer
+valued
+mobility).
+Unfortunately,
+the system was
+never expanded
+or duplicated
+anywhere.  It
+didn't scale.
+It is a
+one-off.</p>
+<p>Tests,
+demos and
+one-offs are
+nice niche
+deployments;
+however, what
+one really
+needs are
+initial
+deployments
+that have the
+opportunity to
+grow, be
+replicated and
+scale.  In
+1888, Frank
+Sprague,
+successfully
+deployed a
+small <a href="https://en.wikipedia.org/wiki/Richmond_Union_Passenger_Railway" rel="noopener noreferrer">electric street railway system in Richmond</a>,
+Va.  which
+became the
+reference for
+many other
+cites.  "... <a href="https://en.wikipedia.org/wiki/Frank_J._Sprague" rel="noopener noreferrer">By 1889 110 electric railways incorporating Sprague's equipment had been begun or planned on several continents</a>..."
+Substantial
+scaled
+societal
+benefits
+emerged
+virally from
+this
+technology.
+It was
+eventually
+supplanted by
+the
+conventional
+automobile but
+for more than
+30 years it
+delivered
+substantial
+improvements
+to the
+quality-of-life
+for many.</p>
+<p>In part, the
+4th Summit
+will focus on
+defining the
+"Richmond" of
+Affordable
+Shared-ride
+On-demand
+Mobility-as-a-Service.
+The initial
+Operational
+Design Domain
+(ODD) that
+safely
+accommodates
+Driverless
+Mobility
+Machines that
+people
+actually
+choose to use
+and becomes
+the envy of
+communities
+throughout the
+country. " <a href="https://orfe.princeton.edu/conferences/sdc/" rel="noopener noreferrer">Read more</a> </p><p class="newsletter-commentary">Hmmmm... <a href="https://orfe.princeton.edu/conferences/sdc/" rel="noopener noreferrer">Draft Program</a> is
+in flux.
+Consider all
+named
+individuals as
+"Invited yet
+to be
+confirmed".
+Alain</p>
+<h3 class="newsletter-article-title" id="cmon-manthese-folks-didnt-getread-the-memo"><a href="https://www.youtube.com/watch?v=bnXl32ICWjQ" rel="noopener noreferrer">C'mon Man!</a>(These folks didn't get/read the memo)</h3>
+<h3 class="newsletter-article-title" id="sunday-supplement">Sunday Supplement</h3>
+<h3 class="newsletter-article-title" id="half-baked">Half-Baked</h3>
+<h3 class="newsletter-article-title" id="click-bait">Click-Bait</h3>
+<h3 class="newsletter-article-title" id="calendar-of-upcoming">Calendar of Upcoming</h3>
+<p>Events:s</p>
+<p>4th Annual Princeton
+<a href="https://orfe.princeton.edu/conferences/sdc/" rel="noopener noreferrer">SmartDrivingCar Summit</a></p>
+<h3 class="newsletter-article-title" id="article-36"><a href="https://orfe.princeton.edu/conferences/sdc/session/20210318" rel="noopener noreferrer">12th Live Episode: Live on Zoom</a></h3>
+<h3 class="newsletter-article-title" id="article-37"><a href="https://orfe.princeton.edu/conferences/sdc/session/20210318" rel="noopener noreferrer">Human-centered Design of Safe and Affordable Driverless Mobility</a></h3>
+<p>What
+makes
+safely-driven
+and driverless
+mobility
+better for ALL
+users?</p>
+<h3 class="newsletter-article-title" id="article-38"><a href="https://orfe.princeton.edu/conferences/sdc/session/20210318" rel="noopener noreferrer">noon ET, Thursday, Georgia, serif;"&gt;</a></h3>
+<p>Georgia,
+serif;"&gt; <a href="https://www.youtube.com/watch?v=pCc9N8o1dys&amp;feature=youtu.be" rel="noopener noreferrer">Video Summary of 1st Session: Setting the Stage</a></p>
+<p>and</p>
+<h3 class="newsletter-article-title" id="article-39"><a href="https://www.itu.int/en/fnc/2021/Pages/default.aspx" rel="noopener noreferrer">The SYMPOSIUM ON THE FUTURE NETWORKED CAR 2021 VIRTUAL EVENT - 22â€"25 MARCH 2021.</a></h3>
+<p>Georgia,
+serif;"&gt;</p>
+<h3 class="newsletter-article-title" id="on-the-more-technical-side"><a href="https://orfe.princeton.edu/~alaink/SmartDrivingCars/Papers/indexNew.html" rel="noopener noreferrer">On the More Technical Side</a></h3>
+<p><a href="https://orfe.princeton.edu/~alaink/SmartDrivingCars/Papers/indexNew.html" rel="noopener noreferrer">http://orfe.princeton.edu/~alaink/SmartDrivingCars/Papers/</a></p>
+<h3 class="newsletter-article-title" id="article-41"><a href="https://www.caee.utexas.edu/prof/kockelman/home.html#RESEARCH_&amp;_REPORTS:_Self-Driving,_Automated,_&amp;_Connected_Vehicles" rel="noopener noreferrer">K. Kockelman's AV Research Group at U of Texas</a></h3>
+<h3 class="newsletter-article-title" id="article-42"></h3>
+<p>These
+editions are
+sponsored by
+the SmartETFs
+Smart
+Transportation
+and Technology
+ETF, symbol
+MOTO. For more
+information
+head to <a href="https://gate.sc/?url=http%3A%2F%2Fwww.motoetf.com&amp;token=314192-1-1579871872239" rel="noopener noreferrer">www.motoetf.com</a></p>
+<p><a href="https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-202" rel="noopener noreferrer">SmartDrivingCars Pod-Cast Episode 202</a>,
+<a href="https://youtu.be/Hj3GmnTqfdk" rel="noopener noreferrer">Zoom-Cast Episode 202</a>
+President
+&amp; CEO,
+RoadDB</p>
+<h3 class="newsletter-article-title" id="article-43"></h3>
+<h3 class="newsletter-article-title" id="article-44"></h3>
+<p>F. Fishkin,
+March 3, "When
+will we be
+able to
+purchase cars
+that can
+largely drive
+themselves?
+It may not be
+long...but
+don't expect
+to vacate the
+driver's
+seat.  That's
+the view of
+entrepreneur,
+tech pioneer
+and RoadDB CEO
+Russ
+Shields.   He
+takes an in
+depth look at
+where we are
+and where
+we're headed
+with
+Princeton's
+Alain
+Kornhauser
+&amp; co-host
+Fred Fishkin."
+<a href="https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-201" rel="noopener noreferrer">SmartDrivingCars Pod-Cast Episode 201</a>,
+<a href="https://youtu.be/n5oEfvBrWa8" rel="noopener noreferrer">Zoom-Cast Episode 201</a>
+w/Michael
+Sena,
+Publisher of The
+Dispatcher</p>
+<h3 class="newsletter-article-title" id="article-45"></h3>
+<h3 class="newsletter-article-title" id="article-46"></h3>
+<p>F. Fishkin,
+Feb. 26,
+"Smarter cars
+need smarter
+assembly...and
+location
+matters.   The
+Dispatcher
+publisher
+Michael Sena
+joins
+Princeton's
+Alain
+Kornhauser and
+co-host Fred
+Fishkin for a
+look at that,
+politics,
+climate and
+carmakers...plus
+Tesla,
+Velodyne,
+Foxconn and
+more.."
+<a href="https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-200" rel="noopener noreferrer">SmartDrivingCars Pod-Cast Episode 200</a>,
+<a href="https://www.youtube.com/watch?v=iVHQuwNT4eY&amp;feature=youtu.be" rel="noopener noreferrer">Zoom-Cast Episode 200</a>
+w/Edwin Olsen,
+CEO, May
+Mobility</p>
+<h3 class="newsletter-article-title" id="article-47"></h3>
+<h3 class="newsletter-article-title" id="article-48"></h3>
+<p>F. Fishkin,
+Feb. 22, "How
+May Mobility
+is building
+confidence in
+autonomous
+transportation
+and creating a
+road map for
+growth through
+the pandemic
+and beyond.
+CEO and
+co-founder
+Edwin Olson
+joins
+Princeton's
+Alain
+Kornhauser and
+co-host Fred
+Fishkin for
+that and
+more."</p>
+<p>SmartDrivingCars
+<a href="https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-199" rel="noopener noreferrer">Pod-Cast Episode 199</a>,
+<a href="https://youtu.be/G7wnT9StV5Q" rel="noopener noreferrer">Zoom-Cast Episode 199</a>
+w/Marc
+Scribner,
+Senior
+Transportation
+Policy
+Analyst,
+Reason
+Foundation</p>
+<h3 class="newsletter-article-title" id="article-49"></h3>
+<p>F. Fishkin,
+Feb. 19, "How
+the Biden
+administration
+&amp; Congress
+can pave the
+path for
+autonomous
+vehicles.
+Reason
+Foundation Sr.
+Transportation
+Policy Analyst
+Marc Scribner
+joins
+Princeton's
+Alain
+Kornhauser and
+co-host Fred
+Fishkin to
+focus on
+what's next.
+Plus jobs and
+autonomous
+trucking,
+Waymo, GM,
+Ford and
+more."
+SmartDrivingCars
+<a href="https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-198" rel="noopener noreferrer">Pod-Cast Episode 198</a>,
+<a href="https://youtu.be/G7wnT9StV5Q" rel="noopener noreferrer">Zoom-Cast Episode 198</a>
+w/Dick Mudge,
+CEO, Compass
+Transportation
+&amp;
+Technology</p>
+<h3 class="newsletter-article-title" id="article-50"></h3>
+<p>F. Fishkin,
+Feb. 13, Which
+autonomous
+vehicle
+companies will
+be the last
+standing?
+And does
+private
+ownership of
+self driving
+cars make
+sense?
+Compass
+Transportation
+and Technology
+President Dick
+Mudge joins
+Princeton's
+Alain
+Kornhauser and
+co-host Fred
+Fishkin for
+that...plus
+the latest on
+Tesla, GM,
+Toyota and
+more..."
+SmartDrivingCars
+<a href="https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-197" rel="noopener noreferrer">Pod-Cast Episode 197</a>,
+<a href="https://youtu.be/1DXuNFbaxIc" rel="noopener noreferrer">Zoom-Cast Episode 197</a> w/Michel
+Parent,
+Founding
+Member of
+SuburVan</p>
+<h3 class="newsletter-article-title" id="article-51"></h3>
+<p>F. Fishkin,
+Feb. 5, "Smart
+mobility
+innovation in
+France.    Dr.
+Michel Parent
+founding
+member of
+SuburVan is
+aiming to
+provide fully
+autonomous
+mobility on
+the outskirts
+of Paris and
+more.    He
+joins
+Princeton's
+Alain
+Kornhauser and
+co-host Fred
+Fishkin for
+that...plus
+the latest on
+Ford, GM,
+Tesla, VW and
+more...."</p>
+<p>SmartDrivingCars
+<a href="https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-196" rel="noopener noreferrer">Pod-Cast Episode 196</a>,
+<a href="https://youtu.be/isHyqJwvAok" rel="noopener noreferrer">Zoom-Cast Episode 196</a> w/Steve
+Polzin,
+Recently US
+DoT</p>
+<h3 class="newsletter-article-title" id="article-52"></h3>
+<p>F. Fishkin,
+Jan. 24, "Will
+more safe
+vehicle
+technology
+dampen the
+push for
+driverless
+mobility?
+Measuring the
+progress and
+challenges
+ahead with Dr.
+Steven
+Polzin..former
+Sr. Advisor,
+Office of the
+Ass't.
+Secretary for
+Research and
+Technology in
+the DOT. He
+joins
+Princeton's
+Alain
+Kornhauser
+&amp; co-host
+Fred Fishkin
+... plus GM
+going zero
+emission,
+Tesla, Waymo
+and more.."</p>
+<p>SmartDrivingCars
+<a href="https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-195" rel="noopener noreferrer">Pod-Cast Episode 195</a>
+<a href="https://www.youtube.com/watch?v=Cp2cUTElFmo" rel="noopener noreferrer">Zoom-Cast Episode 195</a>
+w/Diana Furchtgott-Roth, G. Washington U.</p>
+<h3 class="newsletter-article-title" id="article-53"></h3>
+<p>F. Fishkin,
+Jan. 24, "What
+progress has
+been made
+towards
+smarter, safer
+mobility? The
+push for a
+back-up to
+GPS. Why the
+jump in
+vehicle
+fatalities
+last year?
+Those issues
+and more as
+former deputy
+assistant U.S.
+Transportation
+Secretary for
+research and
+technology
+Diana
+Furchtgott
+Roth joins us.
+Plus...Microsoft, Cruise, Tesla and more on Smart Driving Cars with
+Princeton's
+Alain
+Kornhauser
+&amp; co-host
+Fred Fishkin.
+SmartDrivingCars
+<a href="https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-194" rel="noopener noreferrer">Pod-Cast Episode 194</a>
+<a href="https://youtu.be/hK4Fj6erScY" rel="noopener noreferrer">Zoom-Cast Episode 194</a>
+w/Anuj
+Pradhan, UMass</p>
+<h3 class="newsletter-article-title" id="article-54"></h3>
+<p>F. Fishkin,
+Jan. 15,
+""When it
+comes to
+vehicle safety
+technology...should manufacturers be sharing instead of competing?
+Should there
+be
+standardization?
+Anuj Pradhan,
+co-director of
+the Human
+Performance
+Lab at UMASS
+Amherst joins
+Princeton's
+Alain
+Kornhauser and
+co-host Fred
+Fishkin for
+that...plus
+the latest
+from GM,
+Tesla,
+Mobileye, Nio
+and more."
+SmartDrivingCars
+<a href="https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-193" rel="noopener noreferrer">Pod-Cast Episode 193</a>
+<a href="https://youtu.be/OETxB_wzkDw" rel="noopener noreferrer">Zoom-Cast Episode 193</a>
+w/Bobby
+Hambrick,
+AutonomousStuff</p>
+<h3 class="newsletter-article-title" id="article-55"></h3>
+<p>F. Fishkin,
+Jan. 8, "Bobby
+Hambrick
+started
+AutuonomouStuff
+in a barn in
+Morton,
+Illinois....and
+has pioneered
+much of the
+technology
+moving the
+autonomous
+industry
+forward, now
+as part of
+Hexagon. Bobby
+joins
+Princeton's
+Alain
+Kornhauser and
+co-host Fred
+Fishkin to
+look back and
+look ahead.
+Plus...Apple,
+Hyundai,
+Waymo, Tesla
+and more! "</p>
+<p>SmartDrivingCars
+<a href="https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-192" rel="noopener noreferrer">Pod-Cast Episode 192</a>
+<a href="https://youtu.be/D4XP43hJNe0" rel="noopener noreferrer">Zoom-Cast Episode 192</a>
+w/Danny
+Shapiro,
+nVIDIA</p>
+<h3 class="newsletter-article-title" id="article-56"></h3>
+<p>F. Fishkin,
+Dec. 30,
+"NVIDIA
+continues on a
+roll powering
+the Zoox robo
+taxi unveiled
+this month by
+Amazon.
+NVIDIA senior
+director of
+automotive
+Danny Shapiro
+outlines the
+progress and
+looks ahead to
+2021 in the
+latest Smart
+Driving Cars
+with
+Princeton's
+Alain
+Kornhauser and
+co-host Fred
+Fishkin. "</p>
+<p>SmartDrivingCars
+<a href="https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-191" rel="noopener noreferrer">Pod-Cast Episode 191</a>
+<a href="https://youtu.be/vGmU-NgR6Sw" rel="noopener noreferrer">Zoom-Cast Episode 191</a>
+w/ Louis
+Aaron'23 and
+Joel Johnson</p>
+<p>F.
+Fishkin, Dec.
+20, "College
+student Joel
+Johnson has
+been keeping a
+log of dozens
+of trips in
+Waymo's self
+driving
+service in
+Chandler,
+Arizona, and
+posting videos
+on YouTube.
+Louis
+Aaron'23,
+another
+student, has
+been working
+with Elon
+Musk's Boring
+Company in Las
+Vegas. The two
+share their
+experiences
+with
+Princeton's
+Alain
+Kornhauser and
+co-host Fred
+Fishkin in the
+latest Smart
+Driving
+Cars."</p>
+<p>SmartDrivingCars
+<a href="https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-190" rel="noopener noreferrer">Pod-Cast Episode 190</a>
+<a href="https://youtu.be/C8VeBIYi3g0" rel="noopener noreferrer">Zoom-Cast Episode 190</a>
+w/Chris
+Urmson, Aurora</p>
+<h3 class="newsletter-article-title" id="article-57"></h3>
+<p>F. Fishkin,
+Dec. 15, "With
+Aurora taking
+over Uber's
+self driving
+efforts,  what
+is on the
+horizon for
+the start up
+whose leaders
+have roots at
+Waymo,  Tesla
+and Uber?
+Co-founder and
+CEO Chris
+Urmson joins
+Princeton's
+Alain
+Kornhauser and
+co-host Fred
+Fishkin in
+this special
+edition of
+Smart Driving
+Cars."</p>
+<p>SmartDrivingCars <a href="https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-187" rel="noopener noreferrer">Pod-Cast Episode 187</a>  <a href="https://youtu.be/eyGCKObQ4e0" rel="noopener noreferrer">Zoom-Cast Episode 187</a>
+w/Michael
+Sena,  The
+Dispatcher</p>
+<p>F. Fishkin,
+Nov 25, "What
+you should
+know about
+electric cars,
+climate change
+and more.  The
+Dispatcher
+publisher
+Michael Sena
+joins
+Princeton's
+Alain
+Kornhauser and
+co-host Fred
+Fishkin in an
+eye opening
+edition of
+Smart Driving
+Cars.."</p>
+<p>SmartDrivingCars <a href="https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-186" rel="noopener noreferrer">Pod-Cast Episode 186</a>  <a href="https://youtu.be/fTCCqRPWeDo" rel="noopener noreferrer">Zoom-Cast Episode 186</a> w/Kelly
+Funkhouser, Consumer Report</p>
+<p>F. Fishkin,
+Nov 24, "When
+it comes to
+active driver
+assistance
+systems, what
+works and what
+needs
+improvement?
+Some answers
+from Kelly
+FunkhouserÃƒÆ'Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚Â¦
+program
+manager for
+vehicle
+interface,
+head of
+connected and
+automated
+vehicles at
+Consumer
+Reports.  She
+joins
+Princeton's
+Alain
+Kornhauser and
+co-host Fred
+Fishkin for
+episode 186 of
+Smart Driving
+Cars."</p>
+<p>SmartDrivingCars <a href="https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-185" rel="noopener noreferrer">Pod-Cast Episode 185</a>
+<a href="https://youtu.be/OWRRQb7VWLs" rel="noopener noreferrer">Zoom-Cast Episode 185</a> w/Dan
+Smith, Waymo
+F.
+Fishkin, Nov
+20, "Only
+Waymo has been
+transporting
+customers in
+driverless
+vehicles
+without a
+safety monitor
+on board.
+What goes into
+that kind of
+decision?
+Waymo
+Assistant
+General
+Counsel Dan
+Smith joins
+Princeton's
+Alain
+Kornhauser and
+co-host Fred
+Fishkin in
+this special
+edition of
+Smart Driving
+Cars."
+SmartDrivingCars <a href="https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-184" rel="noopener noreferrer">Pod-Cast Episode 184</a>
+<a href="https://youtu.be/fTCCqRPWeDo" rel="noopener noreferrer">Zoom-Cast Episode 184</a>
+w/Marjory
+Blumenthal, Rand
+F.
+Fishkin, Nov
+20, "So when
+are driverless
+vehicles safe
+enough to be
+deployed?
+Senior Rand
+Corporation
+policy
+researcher
+Marjory
+Blumenthal
+joins
+Princeton
+University's
+Alain
+Kornhauser and
+co-host Fred
+Fishkin to
+examine her
+latest report
+and more."</p>
+<p>SmartDrivingCars <a href="https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-183" rel="noopener noreferrer">Pod-Cast Episode 183</a> <a href="https://youtu.be/rr5lRSqJ0gY" rel="noopener noreferrer">Zoom-Cast Episode 183</a>
+w/Kirsten
+Korosec
+F.
+Fishkin, Nov
+13, "Rivian's
+hands free
+driver
+assistance
+will be
+standard
+equipment...while
+Ford unveils
+the E-Transit.
+TechCrunch
+Senior
+Transportation
+reporter and
+editor Kirsten
+Korosec joins
+Princeton's
+Alain
+Kornhauser and
+co-host Fred
+Fishkin for
+that plus
+Nuro, Tesla,
+Uber, Lyft,
+Cruise and
+more. Plus the
+coming changes
+for mobility
+under a new
+administration!"</p>
+<p>SmartDrivingCars <a href="https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-182" rel="noopener noreferrer">Pod-Cast Episode 182</a> <a href="https://youtu.be/0_PXnVj3_4M" rel="noopener noreferrer">Zoom-Cast Episode 182</a>
+F. Fishkin, Nov 6, "What will a new
+administration
+mean for
+autonomous
+mobility? And
+what about the
+passage of
+Proposition 22
+in California
+after Uber's
+big campaign?
+That plus
+luxury EVs
+coming from
+Bentley....and
+cheap EVs from
+China. Join
+Princeton's
+Alain
+Kornhauser and
+co-host Fred
+Fishkin for
+that and
+more."
+SmartDrivingCars <a href="https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-181" rel="noopener noreferrer">Pod-Cast Episode 181</a> <a href="https://youtu.be/qEuzTVpApX4" rel="noopener noreferrer">Zoom-Cast Episode 181</a>  w/Sheldon
+Sandler &amp;
+Glenn Mercer
+F. Fishkin,
+Oct. 30,
+"Waymo
+releases self
+driving
+data...while
+traditional
+car dealers
+enjoy
+surprisingly
+strong profits
+during the
+pandemic.
+Why?  What
+about the
+coming
+autonomous
+mobility?
+Bell Air
+Partners'
+Sheldon
+Sandler and
+researcher-consultant
+Glenn Mercer
+explain in
+Episode 181 of
+Smart Driving
+Cars with
+Princeton's
+Alain
+Kornhauser and
+co-host Fred
+Fishkin.  "</p>
+<p>SmartDrivingCars  <a href="https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-180" rel="noopener noreferrer">Pod-Cast Episode 180</a>  <a href="https://youtu.be/9NvdetmCQik" rel="noopener noreferrer">Zoom-Cast Episode 180</a> w/John
+Rich,
+Ford/Argo,
+part 2
+F.
+Fishkin, Oct.
+15, "Ford and
+Argo AI have
+unveiled their
+next
+generation
+self-driving
+test vehicle.
+Once again,
+Ford's
+Director of
+Autonomous
+Vehicle and
+Technology
+Development
+John Rich
+joins
+Princeton's
+Alain
+Kornhauser and
+co-host Fred
+Fishkin to
+unveil the
+technology and
+the company's
+self driving
+business
+plans."
+SmartDrivingCars <a href="https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-179" rel="noopener noreferrer">Pod-Cast Episode 179</a> <a href="https://youtu.be/ngpKFmQNsxs" rel="noopener noreferrer">Zoom-Cast Episode 179</a>
+w/John Rich,
+Ford/Argo
+F.
+Fishkin, Oct.
+15, "Which
+autonomous
+vehicle
+platforms will
+survive? The
+director of
+Ford's
+Autonomous
+Vehicle and
+Technology
+Development
+says there may
+only be
+two...and Ford
+/Argo AI will
+be one of
+them. John
+Rich joins
+Princeton's
+Alain
+Kornhauser and
+co-host Fred
+Fishkin for
+that and
+more."
+SmartDrivingCars  <a href="https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-178" rel="noopener noreferrer">Pod-Cast Episode 178</a>  <a href="https://youtu.be/y41F1q0xiKI" rel="noopener noreferrer">Zoom-Cast Episode 178</a> w/Andrew
+Hawkins, Verge
+F.
+Fishkin, Oct.
+9, "Here we
+go! Waymo
+going fully
+driverless in
+Phoenix suburb
+service. The
+Verge senior
+transportation
+reporter
+Andrew Hawkins
+joins
+Princeton's
+Alain
+Kornhauser and
+co-host Fred
+Fishkin for
+that plus
+Tesla...
+Amazon...
+Rivian and
+more.
+Subscribe!</p>
+<p>SmartDrivingCars <a href="https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-177" rel="noopener noreferrer">Pod-Cast Episode 177</a>
+<a href="https://youtu.be/SB4Xg4qsTiQ" rel="noopener noreferrer">Zoom-Cast Episode 177</a></p>
+<p>F. Fishkin,
+Oct. 2, "New
+grades for
+assisted
+driving
+systems from
+Euro NCAP.
+But Princeton
+Professor
+Alain
+Kornhauser
+says the devil
+is in the
+details in
+this edition
+with co-host
+Fred Fishkin.
+And there's
+Amazon's
+success
+against Covid
+plusTesla,
+Uber, GM,
+Nikola and
+more.
+SmartDrivingCars <a href="https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-176" rel="noopener noreferrer">Pod-Cast Episode 176</a>  <a href="https://youtu.be/lHjSTXH-GGchttps://www.youtube.com/watch?v=aHvG6Aqt6fk&amp;feature=youtu.be" rel="noopener noreferrer">Zoom-Cast Episode 176</a>
+w/Marc
+Scribner</p>
+<p>F.
+Fishkin, Sept.
+25, "A new
+government
+entity to
+oversee
+autonomous
+vehicles? Marc
+Scribner, Sr.
+Transportation
+Policy Analyst
+at the Reason
+Foundation on
+regulation and
+more with
+Princeton's
+Alain
+Kornhauser and
+co-host Fred
+Fishkin.
+Plus...Tesla,
+Nikola, GM and
+the California
+move to ban
+new gasoline
+vehicles."</p>
+<p>SmartDrivingCars <a href="https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-175" rel="noopener noreferrer">Pod-Cast Episode 175</a>   <a href="https://youtu.be/lHjSTXH-GGc" rel="noopener noreferrer">Zoom-Cast Episode 175</a>
+w/Michael Sena
+F. Fishkin,
+Sept. 18,
+"Automobility
+and the future
+of car
+dealers...
+"The
+Dispatcher"
+publisher
+Michael Sena
+offers a
+different take
+on how car
+dealers may
+battle
+automakers
+pushing for
+direct to
+consumer
+subscriptions.
+That and more
+in this
+edition of
+Smart Driving
+Cars with
+Princeton's
+Alain
+Kornhauser and
+co-host Fred
+Fishkin."</p>
+<p>SmartDrivingCars <a href="https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-174" rel="noopener noreferrer">Pod-Cast Episode 174</a> <a href="https://youtu.be/AfRb9B-9boc" rel="noopener noreferrer">Zoom-Cast Episode 174</a> w/Kelly
+Funkhouser,
+Consumer
+Reports</p>
+<p>F.
+Fishkin, Sept.
+4, "Moving
+forward with
+autonomous
+vehicle
+testing, the
+head of safety
+at Uber's
+Advanced
+Technology
+Group is
+pledging
+safety data
+transparency.
+Nat Beuse
+joins
+Princeton's
+Alain
+Kornhauser and
+co host Fred
+Fishkin for
+that and more
+on the latest
+mobility
+headlines."
+SmartDrivingCars <a href="https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-173" rel="noopener noreferrer">Pod-Cast Episode 173</a> <a href="https://youtu.be/pvFnTmw-yz0" rel="noopener noreferrer">Zoom-Cast Episode 173</a>
+w/Nathanial
+Beuse
+F. Fishkin, Sept. 4, "Moving forward with
+autonomous
+vehicle
+testing, the
+head of safety
+at Uber's
+Advanced
+Technology
+Group is
+pledging
+safety data
+transparency.
+Nat Beuse
+joins
+Princeton's
+Alain
+Kornhauser and
+co host Fred
+Fishkin for
+that and more
+on the latest
+mobility
+headlines."
+SmartDrivingCars <a href="https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-172" rel="noopener noreferrer">Pod-Cast Episode 172</a><a href="https://youtu.be/rAZyquSmvhQ" rel="noopener noreferrer">Zoom-Cast Episode 172</a>  Special
+Edition
+w/Danny
+Shapiro</p>
+<p>F.
+Fishkin ,Sept.
+2, "Mercedes
+unveils the
+latest S Class
+with more
+computing
+power than 60
+average
+cars...with
+NVIDIA playing
+a big role.
+NVIDIA's
+Director of
+Automotive
+Danny Shapiro
+joins
+Princeton's
+Alain
+Kornhauser and
+co-host Fred
+Fishkin for
+that and
+more."
+SmartDrivingCars  <a href="https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-171" rel="noopener noreferrer">Pod-Cast Episode 171</a><a href="https://youtu.be/kR8V_eWfZa8" rel="noopener noreferrer">Zoom-Cast Episode 171</a> w/Henry
+Greenidge</p>
+<p>SmartDrivingCars  <a href="https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-170" rel="noopener noreferrer">PodCast 170</a>  <a href="https://youtu.be/1BhwAGoSKzw" rel="noopener noreferrer">ZoomCast Episode170</a>
+w/Michael Sena
+SmartDrivingCars  <a href="https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-169" rel="noopener noreferrer">PodCast Episode 169</a> <a href="https://youtu.be/MoDWQ5cPsjE" rel="noopener noreferrer">ZoomCast Episode 169</a>  w/Anthony
+Townsend
+SmartDrivingCars  <a href="https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-168" rel="noopener noreferrer">PodCast Episode 168</a> <a href="https://youtu.be/4Z3oCc1MBCU" rel="noopener noreferrer">ZoomCast Episode 168</a>  w/Olaf
+Sakkers
+SmartDrivingCars  <a href="https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-167" rel="noopener noreferrer">PodCast 167</a>  <a href="https://youtu.be/tXIqGC9meH8" rel="noopener noreferrer">ZoomCast Episode167</a>
+w/Robin Chase,
+Carlos Pardo
+&amp; Daniel
+Sperling
+SmartDrivingCars <a href="https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-166" rel="noopener noreferrer">PodCast Episode 166</a><a href="https://youtu.be/22ciz5Yr6Pg" rel="noopener noreferrer">ZoomCast Episode 166</a> w/Jay
+Rodgers'95,
+CEO Local
+Motors</p>
+<p>Zoom-inar
+Episode 005
+AmaZooks</p>
+<p>F. Fishkin,
+July 20, "Is
+Driverless
+home delivery
+the fastest
+route to
+Affordable
+Mobility for
+the Mobility
+Disadvantaged?
+... "</p>
+<ul>
+<li>
+<h3 class="newsletter-article-title" id="article-58"><a href="https://www.youtube.com/watch?v=hAxIbmmnJ08&amp;feature=emb_err_woyt" rel="noopener noreferrer">Zoom-inar Video (Video replay) AmaZooks</a></h3>
+</li>
+<li>
+<h3 class="newsletter-article-title" id="article-59"><a href="https://soundcloud.com/smartdrivingcar/driving-the-debate-amazon-zoox-and-beyond" rel="noopener noreferrer">PodCast (Audio Only) AmaZooks</a></h3>
+</li>
+</ul>
+<p>SmartDrivingCars <a href="https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-165" rel="noopener noreferrer">PodCast Episode 165</a>,<a href="https://youtu.be/5wwxVHKkFPk" rel="noopener noreferrer">ZoomCast Episode165</a> w/Michael
+Sena</p>
+<p>F.
+Fishkin 16,
+"Is the option
+to buy a car
+at a
+dealership
+going to
+vanish? The
+Dispatcher
+publisher
+Michael Sena
+has a
+provocative
+perspective in
+this edition
+with
+Princeton's
+Alain
+Kornhauser
+&amp; co-host
+Fred Fishkin.
+Plus..an
+update on the
+Amazon Zoox
+deal,
+autonomous
+vehicles and
+how they can
+help battle
+discrimination
+in
+transportation,
+TuSimple,
+Mobileye,
+Uber, Tesla
+and more."
+SmartDrivingCars <a href="https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-164" rel="noopener noreferrer">Pod-Cast 164 Episode 164</a>,   <a href="https://www.youtube.com/watch?v=VxFEz8tqHJo&amp;feature=youtu.be" rel="noopener noreferrer">Zoom-Cast Episode 163</a> w/Robbie
+Diamond</p>
+<p>F.
+Fishkin, July
+9, "Fostering
+economic
+opportunity
+through
+autonomous
+technology is
+the focus of
+an upcoming
+report from
+Security
+America's
+Future Energy.
+Founder and
+CEO Robbie
+Diamond shares
+details and
+more in this
+edition with
+Princeton's
+Alain
+Kornhauser and
+co-host Fred
+Fishkin. Plus
+..are armed
+police
+officers
+really needed
+for traffic
+enforcement?
+And the latest
+from Tesla,
+Waymo and
+more.  ..."
+SmartDrivingCars  <a href="https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-163" rel="noopener noreferrer">Pod-Cast Episode 163</a>, <a href="https://youtu.be/O5c8y-w4EdE" rel="noopener noreferrer">Zoom-Cast Episode 16</a><a href="https://youtu.be/O5c8y-w4EdE" rel="noopener noreferrer">3</a>
+w/Henry
+Greenidge
+F. Fishkin,
+July 2,
+"Transportation,
+racial
+injustices and
+changing the
+thinking
+around the
+future of
+mobility. NYU
+McSilver
+Institute for
+Poverty Policy
+&amp; Research
+fellow Henry
+Greenidge
+joins
+Princeton's
+Alain
+Kornhauser and
+co-host Fred
+Fishkin in an
+eye and mind
+opening
+episode of
+Smart Driving
+Cars. Plus
+Amazon, Zoox,
+Waymo, Tesla
+&amp; more.
+."</p>
+<p>SmartDrivingCars  <a href="https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-161" rel="noopener noreferrer">Pod-Cast Episode 162,</a>  <a href="https://youtu.be/PHw_Jz9pP-0" rel="noopener noreferrer">Zoom-Cast Episode 162</a>  w/Cliff
+Winston</p>
+<p>F.
+Fishkin, June
+25, "From the
+Brookings
+Institution,
+Cliff Winston,
+co-author of
+Autonomous
+Vehicles...The
+Road to
+Economic
+Growth? joins
+Princeton's
+Alain
+Kornhauser and
+co-host Fred
+Fishkin.
+Plus..why are
+fatal crash
+rates rising
+in the midst
+of a
+pandemic...plus
+NVIDIA, Didi,
+Tesla and
+more."</p>
+<p>Episode 004  <a href="https://www.youtube.com/watch?v=UHlPaNmjeag&amp;feature=youtu.be" rel="noopener noreferrer">Insurance: For or Against
+SmartDrivingCars?</a></p>
+<p>F. Fishkin,
+June 23, "But
+the debate is
+not really
+about
+technology nor
+is it about
+who delivers
+the best value
+for the money
+or the most
+privacy. It is
+about ..."</p>
+<ul>
+<li>
+<h3 class="newsletter-article-title" id="article-60"><a href="https://www.youtube.com/watch?v=UHlPaNmjeag&amp;feature=youtu.be" rel="noopener noreferrer">Zoom-inar (Video replay)  Insurance: For or Against
+SmartDrivingCars?</a></h3>
+</li>
+<li>
+<h3 class="newsletter-article-title" id="article-61"><a href="https://soundcloud.com/smartdrivingcar/smart-driving-cars-zoom-tank-insurancefor-or-against-smart-driving-cars" rel="noopener noreferrer">PodCast (Audio Only) Insurance: For or Against
+SmartDrivingCars?</a></h3>
+</li>
+</ul>
+<p><a href="https://soundcloud.com/smartdrivingcar/smart-driving-cars-zoom-tank-insurancefor-or-against-smart-driving-cars" rel="noopener noreferrer">Listen</a>/<a href="https://www.youtube.com/watch?v=DMNLH_fkcI4&amp;feature=youtu.be" rel="noopener noreferrer">Watch</a> more  </p><p class="newsletter-commentary">Hmmm...   We
+only scratched
+the surface.
+Alain
+SmartDrivingCars <a href="https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-161" rel="noopener noreferrer">Pod-Cast Episode 161</a>,<a href="https://youtu.be/Cf75lnDthLI" rel="noopener noreferrer">Zoom-Cast Episode 161</a>
+w/Alberto
+Stochino
+F.
+Fishkin, June
+17, "Is less
+data sometimes
+more when it
+comes to
+driverless
+vehicle
+technology? <a href="https://www.perceptivesensing.ai/" rel="noopener noreferrer">Perceptive</a> Founder and CEO
+Alberto
+Stochino joins
+Princeton's
+Alain
+Kornhauser and
+co-host Fred
+Fishkin for
+that plus the
+DOT's new plan
+for sharing
+autonomous
+safety
+information,
+the latest
+from Tesla,
+EVs from China
+and more."</p>
+<p class="newsletter-commentary">SmartDrivingCars <a href="https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-160" rel="noopener noreferrer">Pod-Cast Episode 160</a>, <a href="https://youtu.be/98QX3nmhWMc" rel="noopener noreferrer">Zoom-Cast Episode 160</a>  w/Jessica
+Cicchino
+F.
+Fishkin, June
+12, "Insurance
+Institute for
+Highway
+Safety
+Research VP
+Jessica
+Cicchino
+co-authored a
+new study
+saying self
+driving
+vehicles could
+struggle to
+eliminate most
+crashes.   She
+joins
+Princeton's
+Alain
+Kornhauser and
+co-host Fred
+Fishkin to
+discuss the
+study.  Plus
+the latest on
+Tesla, Ford
+&amp; VW,
+Covid-19 and
+more.  "</p>
+<p class="newsletter-commentary">SmartDrivingCars  <a href="https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-159" rel="noopener noreferrer">Pod-Cast Episode 159</a>,
+<a href="https://youtu.be/bVjCME87XeU" rel="noopener noreferrer">Zoom-Cast Episode 159</a>
+w/Kara
+Kockelman
+F.
+Fishkin, June
+4, "Prof. Kara
+Kockelman's
+focus on smart
+transportation
+to save lives,
+money and the
+environment
+has made her a
+sought after
+global
+expert.  The
+U. of Texas
+Transportation
+Engineering
+Professor
+joins
+Princeton's
+Alain
+Kornhauser and
+co-host Fred
+Fishkin on the
+impact of
+Covid-19 and
+much more.
+Plus Tesla,
+Uber, Argo AI
+and the top
+smart driving
+headlines.
+For more on
+Dr.
+Kockelman's
+work....please
+visit...  <a href="http://www.caee.utexas.edu/prof/kockelman" rel="noopener noreferrer">http://www.caee.utexas.edu/prof/kockelman</a>."</p>
+<p class="newsletter-commentary">DrivingTheDebate
+Episode 003  <a href="https://youtu.be/DMNLH_fkcI4" rel="noopener noreferrer">Everyone's for Connectivity; but...</a>
+F. Fishkin,
+June 2, "But
+the debate is
+not really
+about
+technology nor
+is it about
+who delivers
+the best value
+for the money
+or the most
+privacy. It is
+about ..."</p>
+<ul>
+<li>
+<h3 class="newsletter-article-title" id="article-62"><a href="https://youtu.be/DMNLH_fkcI4" rel="noopener noreferrer">Zoom-inar (Video replay)  Everyone's for Connectivity; but...</a></h3>
+</li>
+<li>
+<h3 class="newsletter-article-title" id="article-63"><a href="https://soundcloud.com/smartdrivingcar/zoom-tank-06-02-20-everyone-is-for-connectivitybut" rel="noopener noreferrer">PodCast (Audio Only) Everyone's for Connectivity; but...</a></h3>
+</li>
+</ul>
+<p><a href="https://soundcloud.com/smartdrivingcar/zoom-tank-06-02-20-everyone-is-for-connectivitybut" rel="noopener noreferrer">Listen</a>/<a href="https://www.youtube.com/watch?v=DMNLH_fkcI4&amp;feature=youtu.be" rel="noopener noreferrer">Watch</a> more  </p><p class="newsletter-commentary">Hmmm...   We
+only scratched
+the surface.
+Alain</p>
+<p>SmartDrivingCars <a href="https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-158" rel="noopener noreferrer">Pod-Cast Episode 158</a>,  <a href="https://www.youtube.com/watch?v=T9HPSTVIrVY" rel="noopener noreferrer">Zoom-Cast Episode 158</a>
+w/Chunka Mui</p>
+<p>F.
+Fishkin, May
+28, "In the
+midst of the
+Covid-19
+pandemic, what
+are the
+smartest ways
+to re-build
+and plan for
+the future?
+Futurist and
+author Chunka
+Mui joins
+Princeton's
+Alain
+Kornhauser and
+co-host Fred
+Fishkin for
+that plus
+Amazon, Zoox,
+Intel
+Mobileye,
+Tesla, Uber
+and more."
+SmartDrivingCars <a href="https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-157" rel="noopener noreferrer">Pod-Cast Episode 157</a>,  <a href="https://youtu.be/AQbuiJ70c7U" rel="noopener noreferrer">Zoom-Cast Episode 157</a> w/Grayson
+Brulte</p>
+<p>F.
+Fishkin, May
+21, "Global
+auto makers
+must
+completely
+re-think their
+autonomous
+mobility
+strategy as a
+result of the
+Covid-19
+pandemic. So
+says
+innovation
+strategist
+Grayson Brulte
+of Brulte
+&amp;
+Company....who
+joins
+Princeton's
+Alain
+Kornhauser and
+co-host Fred
+Fishkin.
+Plus...Waymo,
+Tesla, Uber
+and more."</p>
+<p>DrivingTheDebate
+Episode 002  <a href="https://www.youtube.com/watch?v=3sqBZZzezUg" rel="noopener noreferrer">The Future of Public Roadway Transit</a>
+F. Fishkin,
+May 14, "Will
+the Bus be
+Thrown Under
+the Bus?...</p>
+<ul>
+<li>
+<p><a href="https://www.youtube.com/watch?v=3sqBZZzezUg" rel="noopener noreferrer">Zoom-inar Video (Video replay)</a><a href="https://www.youtube.com/watch?v=3sqBZZzezUg" rel="noopener noreferrer">Smart Driving Cars: The Future of Public Roadway Transit</a></p>
+</li>
+<li>
+<h3 class="newsletter-article-title" id="article-64"><a href="https://soundcloud.com/smartdrivingcar/zoom-tank-debate-2-the-future-of-public-roadway-transit" rel="noopener noreferrer">PodCast (Audio Only) Smart Driving Cars: The Future of Public Roadway Transit</a></h3>
+</li>
+</ul>
+<p>SmartDrivingCars  <a href="https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-156" rel="noopener noreferrer">Pod-Cast Episode 156</a>,  <a href="https://www.youtube.com/watch?v=a87wUmrIRII" rel="noopener noreferrer">Cars Zoom-Cast Episode 156</a>
+w/Danny
+Shapiro2
+F.
+Fishkin, May
+14, "With new
+hardware and
+software
+capabilities
+NVIDIA is
+expanding into
+new areas of
+driver
+assistance
+technology.
+Sr. Director
+of Automotive
+Danny Shapiro
+joins
+Princeton's
+Alain
+Kornhauser and
+co-host Fred
+Fishkin for
+that...plus
+the latest on
+Waymo, Voyage,
+Ford and more.
+listen and
+subscribe!"</p>
+<p>SmartDrivingCars <a href="https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-155" rel="noopener noreferrer">Pod-Cast Episode 155</a>,<a href="https://www.youtube.com/watch?v=1hJBUul2ogY&amp;feature=youtu.be" rel="noopener noreferrer">Zoom-Cast Episode 155</a>
+w/Alex Roy2
+F.
+Fishkin, April
+29, "The
+continuing
+impact of
+Covid-19 on
+autonomous
+vehicle
+progress. But
+it may not be
+all bad news.
+Alex
+Roy...host of
+the No Parking
+Podcast and
+Director of
+Special
+Operations at
+Argo AI joins
+Princeton's
+Alain
+Kornhauser and
+co-host Fred
+Fishkin for
+that plus
+Tesla, Intel,
+Lyft, Uber and
+more. Listen
+and subscribe!</p>
+<p>SmartDrivingCars <a href="https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-154" rel="noopener noreferrer">Pod-Cast Episode 154</a>, <a href="https://youtu.be/LmvKan80GOE" rel="noopener noreferrer">Zoom-Cast Episode 154</a>   w/Dan
+Sperling
+F.
+Fishkin, April
+29, "Can ride
+sharing
+rebound after
+the pandemic?
+Daniel
+Sperling,
+founding
+director of
+the Institute
+of
+Transportation
+Studies at UC
+Davis joins
+Princeton's
+Alain
+Kornhauser and
+co-host Fred
+Fishkin for
+that plus
+Tesla, Waymo,
+Ford and
+more."</p>
+<p>DrivingTheDebate
+Episode 001 <a href="http://zoom-tank.com/" rel="noopener noreferrer">The Driverless "New Normal" Debate</a>
+F. Fishkin,
+April 27,</p>
+<ul>
+<li>
+<p><a href="https://www.youtube.com/watch?v=d19a8ueaXN0&amp;feature=youtu.be" rel="noopener noreferrer">Zoom Video</a></p>
+</li>
+<li>
+<h3 class="newsletter-article-title" id="article-65"><a href="https://soundcloud.com/smartdrivingcar/smart-driving-cars-the-driverless-new-normal-debate" rel="noopener noreferrer">SmartDrivingCar PodCast (Audio Only) Smart Driving Cars: The Driverless New Normal Debate</a></h3>
+</li>
+<li>
+<p><a href="https://www.dropbox.com/s/mtkll891rfxlb09/Q%26AZoom-inar001NoNames.xlsx?dl=0" rel="noopener noreferrer">Zoom Audience Questions</a> (Only
+a few were
+addressed in
+Zoom-inar)</p>
+</li>
+<li>
+<h3 class="newsletter-article-title" id="article-66"><a href="https://www.dropbox.com/s/6c9ba6qrztce4og/Zoom-inar001_CommentsNoNames.xlsx?dl=0" rel="noopener noreferrer">Zoom Audience Comments</a></h3>
+</li>
+<li>
+<p><a href="https://www.youtube.com/watch?v=d19a8ueaXN0" rel="noopener noreferrer">YouTube Video</a></p>
+</li>
+</ul>
+<p>SmartDrivingCars  <a href="https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-153" rel="noopener noreferrer">Pod-Cast Episode 153</a>, <a href="https://www.youtube.com/watch?v=8nW3AcoFeA8&amp;feature=youtu.be" rel="noopener noreferrer">Zoom-Cast Episode 15</a><a href="https://www.youtube.com/watch?v=8nW3AcoFeA8&amp;feature=youtu.be" rel="noopener noreferrer">3</a>
+w/Dick Mudge2</p>
+<p>SmartDrivingCars <a href="https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-152" rel="noopener noreferrer">Pod-Cast Episode 152,</a><a href="https://youtu.be/xuIbtSJjDck" rel="noopener noreferrer">Zoom-Cast Episode 15</a><a href="https://youtu.be/xuIbtSJjDck" rel="noopener noreferrer">2</a>
+w/Brad
+Templeton</p>
+<p><a href="https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-148" rel="noopener noreferrer">SmartDrivingCars Podcast Episode 148</a>
+w/Richard
+Bishop</p>
+<p><a href="https://youtu.be/VkzPm5GwEz4" rel="noopener noreferrer">SmartDrivingCars Zoom-Cast Episode 148</a> w/Richard
+Bishop</p>
+<h3 class="newsletter-article-title" id="article-67"><a href="https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-147" rel="noopener noreferrer">Smart Driving Cars Podcast Episode 147 - Michael Sena</a></h3>
+<h3 class="newsletter-article-title" id="article-68"><a href="https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-142" rel="noopener noreferrer">Smart Driving Cars Podcast Episode 142 - J. Hughes</a></h3>
+<h3 class="newsletter-article-title" id="article-69"><a href="https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-141" rel="noopener noreferrer">Smart Driving Cars Podcast Episode 141- A. Roy</a></h3>
+<h3 class="newsletter-article-title" id="article-70"><a href="https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-139" rel="noopener noreferrer">Smart Driving Cars Podcast Episode 139- Randal O'Toole</a></h3>
+<h3 class="newsletter-article-title" id="article-71"><a href="https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-138" rel="noopener noreferrer">Smart Driving Cars Podcast Episode 138-Nick Zart</a></h3>
+<h3 class="newsletter-article-title" id="article-72"><a href="https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-136" rel="noopener noreferrer">Smart Driving Cars Podcast Episode 136</a></h3>
+<h3 class="newsletter-article-title" id="article-73"><a href="https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-135" rel="noopener noreferrer">Smart Driving Cars Podcast Episode 135 - with Jim Atkinson</a></h3>
+<h3 class="newsletter-article-title" id="article-74"><a href="https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-130" rel="noopener noreferrer">Smart Driving Cars Podcast Episode 130 with Dick Mudge &amp; Michael Sena</a></h3>
+<h3 class="newsletter-article-title" id="article-75"><a href="https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-112" rel="noopener noreferrer">Smart Driving Cars Podcast Episode 112 - J. Hardiman NJM</a></h3>
+<h3 class="newsletter-article-title" id="article-76"><a href="https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-110" rel="noopener noreferrer">Smart Driving Cars Podcast Episode 110 - Lance Elliot</a></h3>
+<h3 class="newsletter-article-title" id="article-77"><a href="https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-108" rel="noopener noreferrer">Smart Driving Cars Podcast Episode 108 3rd Summit Wrapup</a></h3>
+<h3 class="newsletter-article-title" id="article-78"><a href="https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-107" rel="noopener noreferrer">Smart Driving Cars Podcast Episode 107 3rd Summit Leilei Shinohara &amp; Staff Sergeant Terence McDonnell</a></h3>
+<h3 class="newsletter-article-title" id="article-79"><a href="https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-106" rel="noopener noreferrer">Smart Driving Cars Podcast Episode 106 3rd Summit David Kidd &amp; Cecillia Feeley</a></h3>
+<h3 class="newsletter-article-title" id="article-80"><a href="https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-104" rel="noopener noreferrer">Smart Driving Cars Podcast Episode 104 3rd Summit Anil Lewis &amp; Katherine Freund</a></h3>
+<h3 class="newsletter-article-title" id="article-81"><a href="https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-97" rel="noopener noreferrer">Smart Driving Cars Podcast Episode 97 - Michael Sena'69</a></h3>
+<h3 class="newsletter-article-title" id="article-82"><a href="https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-71" rel="noopener noreferrer">Smart Driving Cars Podcast Episode 71-Nader'55</a></h3>
+<h3 class="newsletter-article-title" id="article-83"><a href="https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-69" rel="noopener noreferrer">Smart Driving Cars Podcast Episode 69 - Chunka Mui</a></h3>
+<h3 class="newsletter-article-title" id="article-84"><a href="https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-65" rel="noopener noreferrer">Smart Driving Cars Podcast Episode 65 - Bernard Soriano, CA DMV</a></h3>
+<p><a href="https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-58" rel="noopener noreferrer">Smart Driving Cars Podcast Episode 58-Keith Code,</a><a href="https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-58" rel="noopener noreferrer">Motorcycles</a></p>
+<h3 class="newsletter-article-title" id="article-85"><a href="https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-55" rel="noopener noreferrer">Smart Driving Cars Podcast Episode 55-Larry Burns, Autonomy</a></h3>
+<p>Recent Highlights of:</p>
+<p>March 5, 2021</p>
+<h3 class="newsletter-article-title" id="article-86"><a href="https://viodi.com/2021/03/05/automated-driving-technologies-driving-change-in-insurance/" rel="noopener noreferrer">Automated Driving Technologies: Driving Change in Insurance</a></h3>
+<p>K. Pyle, March
+5, "It is in
+the insurance
+industry's
+best interest
+to use
+automated
+driving
+technology to
+make things
+safer through
+crash
+avoidance, not
+just crash
+mitigation.
+Unlike crash
+mitigation,
+crash
+avoidance
+saves the
+insurance
+company money.
+This was Alain
+Kornhauserâ's
+premise for
+the Smart
+Driving Car
+Summit,
+Incentivizing
+Through
+Insurance. The
+trillion-dollar question is whether the incentives to automate will
+overcome the
+countervailing
+forces of
+existing
+business
+practices in
+other parts of
+the mobility
+industry?...."
+<a href="https://viodi.com/2021/03/05/automated-driving-technologies-driving-change-in-insurance/" rel="noopener noreferrer">Read more</a>  </p><p class="newsletter-commentary">Hmmmm.... We had another
+excellent
+Session.
+Thank you for
+the summary,
+Ken.  Alain</p>
+<p><a href="https://www.dropbox.com/s/vcwicdu3rz3h73z/The%20Dispatcher_March%202021.pdf?dl=0" rel="noopener noreferrer">March 2021 Issue</a>
+M.
+Sena, Feb 23,
+" ... There is
+no way to test
+a car
+virtually...</p>
+<p>OEMs
+are still
+learning that
+that today's
+cars are not
+your father's
+Oldsmobile.</p>
+<p>Vehicle
+connectivity
+is not
+something that
+is tacked onto
+a car, like a
+battery-operated portable TOMTOM or GARMIN (or <a href="https://copilottruck.com/" rel="noopener noreferrer">CoPilot</a>...Michael,
+How could you
+forget?...!)...navigation
+system....</p>
+<p>Driving Neat:
+Can U.S. Take
+Its Cars
+Without
+ICE?..."  <a href="https://www.dropbox.com/s/vcwicdu3rz3h73z/The%20Dispatcher_March%202021.pdf?dl=0" rel="noopener noreferrer">Read more</a>  </p><p class="newsletter-commentary">Hmmmm... Plus much much more.
+Enjoy!!! Alain
+ <a href="https://reason.org/policy-brief/challenges-and-opportunities-for-federal-automated-vehicle-policy/" rel="noopener noreferrer">COMMENTARY: How the Biden Administration and Congress Can Pave the Path for Automated Vehicles</a>
+M.
+Scribner, Feb.
+11, "Automated
+vehicle
+technology is
+coming; it's
+advancing very
+quickly," said
+now-confirmed
+Secretary of
+Transportation
+Pete Buttigieg
+during his
+confirmation
+hearing. â€œIt
+is something
+that holds the
+potential to
+be
+transformative
+and I think in
+many ways
+policy has not
+kept up.â€</p>
+<p class="newsletter-commentary">Secretary
+Buttigieg is
+absolutely
+correct. The
+U.S.
+Department of
+Transportation, specifically the National Highway Traffic Safety
+Administration
+division, has
+a number of
+tools at its
+disposal that
+can be used to
+modernize the
+federal
+regulatory
+environment to
+help speed the
+deployment of
+automated
+vehicle
+technologies
+that can
+greatly
+enhance
+safety,
+mobility, and
+access for all
+Americans.
+There is also
+an important
+role for
+Congress,
+especially at
+this early
+stage of
+automated
+vehicle
+development.</p>
+<p class="newsletter-commentary">To support
+reform efforts
+within the
+executive and
+legislative
+branches, my
+new Reason
+Foundation
+policy brief,
+<a href="https://www.dropbox.com/s/7oiex3xvdh98f5y/challenges-opportunities-federal-automated-vehicle-policy.pdf?dl=0" rel="noopener noreferrer">Challenges and Opportunities for Federal Automated Vehicle Policy</a>,
+lays out
+several steps
+policymakers
+can take to
+adapt the
+automotive
+regulatory
+apparatus to
+automated
+driving system
+technologies.
+The brief is
+broken into
+three main
+sections:
+defining
+automated
+vehicles, a
+survey of
+current
+federal
+automated
+vehicle policy
+development
+activities,
+and
+recommendations
+for federal
+policymakers.</p>
+<p>The reform
+recommendations
+for
+legislators
+and regulators
+are
+categorized
+under four
+themes: ..." <a href="https://reason.org/policy-brief/challenges-and-opportunities-for-federal-automated-vehicle-policy/" rel="noopener noreferrer">Read more</a>  </p><p class="newsletter-commentary">Hmmmm... Read especially: "<a href="https://www.dropbox.com/s/7oiex3xvdh98f5y/challenges-opportunities-federal-automated-vehicle-policy.pdf?dl=0" rel="noopener noreferrer">CHALLENGES AND OPPORTUNITIES FOR FEDERAL AUTOMATED VEHICLE POLICY</a>".  Included is an extensive
+discussion on
+the SAE Levels
+where Marc
+states: "...most legacy automakers and new
+automated
+driving
+developers are
+planning to
+avoid SAE
+Level 3
+altogether.."
+and  "Given
+the wide
+diversity of
+road network
+operating
+conditions,
+achieving SAE
+Level 5 poses
+significant
+challenges...."
+That leaves
+just two very
+different
+classes of AVs
+...
+Safely-driven
+AVs,
+encompasing
+SAE Levels 1
+&amp; 2, that
+assist and
+support human
+drivers while
+requiring that
+a human driver
+ensures that
+the vehicle
+will be driven
+safely... and
+Driverless
+AVs, SAE Level
+4, where the
+responsibility
+that the
+vehicle will
+be driven
+safely is
+entirely borne
+by the driving
+technology.
+Those are the
+only two
+kinds.  Policy
+should focus
+on only those
+two and get
+those right.
+They are they
+only real
+opportunities
+for this
+technology ...
+one to help
+human drivers
+drive more
+safely and the
+other is to
+drive safely
+without any
+help or
+involvement by
+anyone riding
+long with the
+vehicle.
+Thus, the
+first order of
+business for
+Federal Policy
+is to simplify
+the process by
+concentrating
+on those two
+very diffent
+kinds of AVs
+and get those
+right.  Alain</p>
+<h3 class="newsletter-article-title" id="article-87"><a href="https://edition.pagesuite.com/popovers/dynamic_article_popover.aspx?guid=59e39325-8a38-42b3-af1d-6b62bdd0d6a0&amp;v=sdk" rel="noopener noreferrer">Biden inherits big traffic safety mess</a></h3>
+<p>R. Mitchell,
+Feb. 4, "...
+"  <a href="https://edition.pagesuite.com/popovers/dynamic_article_popover.aspx?guid=59e39325-8a38-42b3-af1d-6b62bdd0d6a0&amp;v=sdk" rel="noopener noreferrer">Read more</a>  </p><p class="newsletter-commentary">Hmmmm... If the driver/owner is
+expected to be
+prepared to
+intervene to
+maintain
+safety, then
+it is NOT
+full
+anything,
+period.
+Moreover, if
+the
+owner/driver
+is NOT
+prepared, nor
+permitted to
+intervene to
+maintain
+safety, then
+the fleet
+operator is
+required to
+accept the
+responsibility
+and "make
+whole" any and
+all
+liabilities
+arising from
+any  and all
+"at fault"
+crashes.
+Until Elon is
+willing to
+step up and
+take on that
+responsibility/liability
+or sell his
+cars
+exclusively to
+operating
+entities that
+assume that
+responsibility
+his Teslas are
+NOT full
+anything, period! Alain</p>
+<p><a href="https://www.dropbox.com/s/custfytlu31kca7/Orf467F20Nationwide_aTaxiFinalReportCompilaation.pdf?dl=0" rel="noopener noreferrer">Analyzing Ride-Share Potential and Empty Repositioning Requirements of a Nationwide aTaxi System</a>
 G.
-                                                          Laniewki, Jan
-                                                          26. ":..."  [Read more](https://www.dropbox.com/s/custfytlu31kca7/Orf467F20Nationwide_aTaxiFinalReportCompilaation.pdf?dl=0)  Hmmmm... Very nice Nation-wide
-                                                          investigation
-                                                          by my students
-                                                          this past
-                                                          Fall. Alain
-
-[G.M. Will Sell Only Zero-Emission Vehicles by 2035](https://www.nytimes.com/2021/01/28/business/gm-zero-emission-vehicles.html?campaign_id=60&emc=edit_na_20210128&instance_id=0&nl=breaking-news&ref=headline&regi_id=89228009&segment_id=50516&user_id=bb3a3afb7a60246a936251b2f79cc1db)
-
-                                                          N. Boudette,
-                                                          Jan. 28, "The
-                                                          days of the
-                                                          internal
-                                                          combustion
-                                                          engine are
-                                                          numbered.
-
-                                                          General Motors
-                                                          said Thursday
-                                                          that it would
-                                                          phase out
-                                                          petroleum-powered
-                                                          cars and
-                                                          trucks and
-                                                          sell only
-                                                          vehicles that
-                                                          have zero
-                                                          tailpipe
-                                                          emissions by
-                                                          2035, a
-                                                          seismic shift
-                                                          by one of the
-                                                          world's
-                                                          largest
-                                                          automakers
-                                                          that makes
-                                                          billions of
-                                                          dollars today
-                                                          from
-                                                          gas-guzzling
-                                                          pickup trucks
-                                                          and sport
-                                                          utility
-                                                          vehicles.
-
-                                                          .."  [Read more](https://www.nytimes.com/2021/01/28/business/gm-zero-emission-vehicles.html?campaign_id=60&emc=edit_na_20210128&instance_id=0&nl=breaking-news&ref=headline&regi_id=89228009&segment_id=50516&user_id=bb3a3afb7a60246a936251b2f79cc1db)Hmmmm...
-                                                          Great!
-                                                          (maybe???):
-                                                          Good News:
-                                                          Zero emission
-                                                          vehicles; Bad
-                                                          News: From
-                                                          where cometh
-                                                          the marginal
-                                                          electricity
-                                                          that enables
-                                                          that
-                                                          Zero-Emission
-                                                          Vehicle to
-                                                          move and what
-                                                          carries that
-                                                          electricity to
-                                                          the point on
-                                                          the road where
-                                                          that
-                                                          electricity is
-                                                          used to power
-                                                          that Zero-Emission
-                                                          Vehicle?
-                                                          Until we have
-                                                          a "Zero
-                                                          Emission
-                                                          Battery" and
-                                                          all
-                                                          electricity is
-                                                          created using
-                                                          Zero Emission,
-                                                          GM cannot
-                                                          produce, nor
-                                                          sell, Zero
-                                                          Emission
-                                                          Vehicles that
-                                                          actually move
-                                                          (other than [downhill a la Nikola](https://arstechnica.com/cars/2020/09/nikola-admits-prototype-was-rolling-downhill-in-promotional-video/)).
-                                                          So please tout
-                                                          the whole
-                                                          story!!  (Will
-                                                          these EVs be
-                                                          less polluting
-                                                          than an ICE
-                                                          that GM could
-                                                          build and sell
-                                                          "by 2035"? is
-                                                          the real
-                                                          question.  The
-                                                          answer depends
-                                                          on where we
-                                                          will be with
-                                                          electricity
-                                                          production and
-                                                          distribution,
-                                                          the efficiency
-                                                          and makeup of
-                                                          batteries and
-                                                          the
-                                                          improvement of
-                                                          ICEs. (I
-                                                          didn't mean to
-                                                          imply that it
-                                                          was a simple
-                                                          question, but
-                                                          the NY Times
-                                                          should be more
-                                                          than
-                                                          click-bait.).
-                                                            Alain
-
-                                                          January 29,
-                                                          2021
-
-                                                          blue;
-                                                          text-decoration:
-                                                          none;">
-
-                                                          [U Mich's Robert Hampshire joins Biden administration to work in transportation research and technology](https://news.umich.edu/u-ms-robert-hampshire-joins-biden-administration-to-work-in-transportation-research-and-technology/)
-
-                                                          J. Karoub,
-                                                          Jan. 21,
-                                                          "Robert
-                                                          Hampshire,
-                                                          associate
-                                                          professor at
-                                                          the University
-                                                          of Michiga's
-                                                          Gerald R. Ford
-                                                          School of
-                                                          Public Policy
-                                                          whose research
-                                                          and policy
-                                                          engagement
-                                                          focuses on
-                                                          understanding
-                                                          the societal,
-                                                          climate and
-                                                          equity
-                                                          implications
-                                                          of autonomous
-                                                          and connected
-                                                          vehicles and
-                                                          other
-                                                          innovative
-                                                          mobility
-                                                          services, has
-                                                          joined the
-                                                          Biden
-                                                          administration
-                                                          to work in the
-                                                          U.S.
-                                                          Transportation
-                                                          ..  [Read more](https://news.umich.edu/u-ms-robert-hampshire-joins-biden-administration-to-work-in-transportation-research-and-technology/)  Hmmmm...  What a fantastic
-                                                          appointment.
-Congratulations Robert!  Alain
-
-                                                          [AUTOMATED VEHICLES: Comprehensive Plan](https://www.dropbox.com/s/35vtszzmvv90ohx/USDOT_AVCP.pdf?dl=0)
+Laniewki, Jan
+26. ":..."  <a href="https://www.dropbox.com/s/custfytlu31kca7/Orf467F20Nationwide_aTaxiFinalReportCompilaation.pdf?dl=0" rel="noopener noreferrer">Read more</a>  </p><p class="newsletter-commentary">Hmmmm... Very nice Nation-wide
+investigation
+by my students
+this past
+Fall. Alain</p>
+<h3 class="newsletter-article-title" id="article-88"><a href="https://www.nytimes.com/2021/01/28/business/gm-zero-emission-vehicles.html?campaign_id=60&amp;emc=edit_na_20210128&amp;instance_id=0&amp;nl=breaking-news&amp;ref=headline&amp;regi_id=89228009&amp;segment_id=50516&amp;user_id=bb3a3afb7a60246a936251b2f79cc1db" rel="noopener noreferrer">G.M. Will Sell Only Zero-Emission Vehicles by 2035</a></h3>
+<p>N. Boudette,
+Jan. 28, "The
+days of the
+internal
+combustion
+engine are
+numbered.</p>
+<p>General Motors
+said Thursday
+that it would
+phase out
+petroleum-powered
+cars and
+trucks and
+sell only
+vehicles that
+have zero
+tailpipe
+emissions by
+2035, a
+seismic shift
+by one of the
+world's
+largest
+automakers
+that makes
+billions of
+dollars today
+from
+gas-guzzling
+pickup trucks
+and sport
+utility
+vehicles.</p>
+<p>.."  <a href="https://www.nytimes.com/2021/01/28/business/gm-zero-emission-vehicles.html?campaign_id=60&amp;emc=edit_na_20210128&amp;instance_id=0&amp;nl=breaking-news&amp;ref=headline&amp;regi_id=89228009&amp;segment_id=50516&amp;user_id=bb3a3afb7a60246a936251b2f79cc1db" rel="noopener noreferrer">Read more</a></p><p class="newsletter-commentary">Hmmmm...
+Great!
+(maybe???):
+Good News:
+Zero emission
+vehicles; Bad
+News: From
+where cometh
+the marginal
+electricity
+that enables
+that
+Zero-Emission
+Vehicle to
+move and what
+carries that
+electricity to
+the point on
+the road where
+that
+electricity is
+used to power
+that Zero-Emission
+Vehicle?
+Until we have
+a "Zero
+Emission
+Battery" and
+all
+electricity is
+created using
+Zero Emission,
+GM cannot
+produce, nor
+sell, Zero
+Emission
+Vehicles that
+actually move
+(other than <a href="https://arstechnica.com/cars/2020/09/nikola-admits-prototype-was-rolling-downhill-in-promotional-video/" rel="noopener noreferrer">downhill a la Nikola</a>).
+So please tout
+the whole
+story!!  (Will
+these EVs be
+less polluting
+than an ICE
+that GM could
+build and sell
+"by 2035"? is
+the real
+question.  The
+answer depends
+on where we
+will be with
+electricity
+production and
+distribution,
+the efficiency
+and makeup of
+batteries and
+the
+improvement of
+ICEs. (I
+didn't mean to
+imply that it
+was a simple
+question, but
+the NY Times
+should be more
+than
+click-bait.).
+Alain</p>
+<p>January 29,
+2021</p>
+<p>blue;
+text-decoration:
+none;"&gt;</p>
+<h3 class="newsletter-article-title" id="article-89"><a href="https://news.umich.edu/u-ms-robert-hampshire-joins-biden-administration-to-work-in-transportation-research-and-technology/" rel="noopener noreferrer">U Mich's Robert Hampshire joins Biden administration to work in transportation research and technology</a></h3>
+<p>J. Karoub,
+Jan. 21,
+"Robert
+Hampshire,
+associate
+professor at
+the University
+of Michiga's
+Gerald R. Ford
+School of
+Public Policy
+whose research
+and policy
+engagement
+focuses on
+understanding
+the societal,
+climate and
+equity
+implications
+of autonomous
+and connected
+vehicles and
+other
+innovative
+mobility
+services, has
+joined the
+Biden
+administration
+to work in the
+U.S.
+Transportation
+..  <a href="https://news.umich.edu/u-ms-robert-hampshire-joins-biden-administration-to-work-in-transportation-research-and-technology/" rel="noopener noreferrer">Read more</a>  </p><p class="newsletter-commentary">Hmmmm...  What a fantastic
+appointment.
+Congratulations Robert!  Alain</p>
+<p><a href="https://www.dropbox.com/s/35vtszzmvv90ohx/USDOT_AVCP.pdf?dl=0" rel="noopener noreferrer">AUTOMATED VEHICLES: Comprehensive Plan</a>
 E.
-                                                          Chao, Jan.
-                                                          2021, "The
-                                                          Automated
-                                                          Vehicles
-                                                          Comprehensive
-                                                          Plan
-                                                          (Comprehensive
-                                                          Plan)
-                                                          describes how
-                                                          the United
-                                                          States
-                                                          Department of
-                                                          Transportation
-                                                          (U.S. DOT) is
-                                                          supporting the
-                                                          safe
-                                                          integration of
-                                                          Automated
-                                                          Driving
-                                                          Systems (ADS)2
-                                                          into the
-                                                          surface
-                                                          transportation
-                                                          system. It
-                                                          explains
-                                                          Departmental
-                                                          goals related
-                                                          to ADS,
-                                                          identifies
-                                                          actions being
-                                                          taken to meet
-                                                          those goals,
-                                                          and provides
-                                                          real-world
-                                                          examples of
-                                                          how these
-                                                          Departmental
-                                                          actions relate
-                                                          to emerging
-                                                          ADS
-                                                          applications...
-                                                            "  [Read more](https://www.dropbox.com/s/35vtszzmvv90ohx/USDOT_AVCP.pdf?dl=0)  Hmmmm...  I guess this is a good
-                                                          plan.  Of
-                                                          course, Safety
-                                                          is #1, as it
-                                                          should be.
-                                                          DoT's #1
-                                                          public
-                                                          responsibility
-                                                          is Safety.
-                                                          Whether Cyber
-                                                          Security and
-                                                          Privacy are #
-                                                          2 and 3  and
-                                                          ahead of
-                                                          Enhanced
-                                                          Mobility and
-                                                          Accessibility
-                                                          is certainly
-                                                          debatable.
-                                                          And if the Enhanced
-                                                          Mobility and
-                                                          Accessibility
-                                                          of the
-                                                          "mobility
-                                                          disadvantaged
-                                                          that have been
-                                                          left behind by
-                                                          our current
-                                                          favored
-                                                          transport
-                                                          system"  were
-                                                          to be a
-                                                          category, then
-                                                          that one
-                                                          should be
-                                                          right behind
-                                                          Safety at #2
-                                                          if not ahead
-                                                          of Safety and
-                                                          a solid #1.
-                                                          The rest. as
-                                                          they should,
-                                                          are
-                                                          appropriately
-                                                          details.  What
-                                                          is most
-                                                          disconcerting
-                                                          about the
-                                                          report are the
-                                                          images. To me,
-                                                          those images
-                                                          depict the
-                                                          current
-                                                          "haves", not
-                                                          "have-nots"
-                                                          and thus don't
-                                                          really address
-                                                          the mobility
-                                                          needs and
-                                                          desires of
-                                                          those whose
-                                                          quality-of-life
-                                                          could be most
-                                                          enhanced by
-                                                          automation
-                                                          technology.
-                                                          These images
-                                                          seem to focus
-                                                          the Plan on
-                                                          giving those
-                                                          that already
-                                                          have pretty
-                                                          good ways to
-                                                          get around,
-                                                          yet another
-                                                          way to get
-                                                          around, where,
-                                                          when you
-                                                          finally get
-                                                          right down to
-                                                          it, may at
-                                                          best be only
-                                                          slightly
-                                                          better than
-                                                          what they
-                                                          already have.
-                                                          This
-                                                          Comprehensive
-                                                          Plan should
-                                                          first be
-                                                          focused on
-                                                          providing
-                                                          high-quality
-                                                          affordable
-                                                          mobility to
-                                                          those whose
-                                                          quality-of-life
-                                                          could be most
-                                                          improved by
-                                                          such new
-                                                          technologies
-                                                          and
-                                                          subsequently
-                                                          serve those
-                                                          that already
-                                                          enjoy and can
-                                                          afford other
-                                                          high-quality
-                                                          forms of
-                                                          mobility.
-
-Also, Elaine, thank you for a
-                                                          really good 4
-                                                          years.  You
-                                                          (and USDoT)
-                                                          were really
-                                                          the star of
-                                                          what was
-                                                          otherwise a
-                                                          most
-                                                          embarrassing
-                                                          Presidency.
-                                                          Also, thanks
-                                                          to Diana
-                                                          Furchtgott-Roth
-                                                          and many
-                                                          others in US
-                                                          DoT.  Alain
-
-                                                          January 08,
-                                                          2021
-
-  [Automatic braking is now on most new cars. But not GM or Fiat Chrysler vehicles](https://www.cnn.com/2020/12/17/business/automatic-braking/)
+Chao, Jan.
+2021, "The
+Automated
+Vehicles
+Comprehensive
+Plan
+(Comprehensive
+Plan)
+describes how
+the United
+States
+Department of
+Transportation
+(U.S. DOT) is
+supporting the
+safe
+integration of
+Automated
+Driving
+Systems (ADS)2
+into the
+surface
+transportation
+system. It
+explains
+Departmental
+goals related
+to ADS,
+identifies
+actions being
+taken to meet
+those goals,
+and provides
+real-world
+examples of
+how these
+Departmental
+actions relate
+to emerging
+ADS
+applications...
+"  <a href="https://www.dropbox.com/s/35vtszzmvv90ohx/USDOT_AVCP.pdf?dl=0" rel="noopener noreferrer">Read more</a>  </p><p class="newsletter-commentary">Hmmmm...  I guess this is a good
+plan.  Of
+course, Safety
+is #1, as it
+should be.
+DoT's #1
+public
+responsibility
+is Safety.
+Whether Cyber
+Security and
+Privacy are #
+2 and 3  and
+ahead of
+Enhanced
+Mobility and
+Accessibility
+is certainly
+debatable.
+And if the Enhanced
+Mobility and
+Accessibility
+of the
+"mobility
+disadvantaged
+that have been
+left behind by
+our current
+favored
+transport
+system"  were
+to be a
+category, then
+that one
+should be
+right behind
+Safety at #2
+if not ahead
+of Safety and
+a solid #1.
+The rest. as
+they should,
+are
+appropriately
+details.  What
+is most
+disconcerting
+about the
+report are the
+images. To me,
+those images
+depict the
+current
+"haves", not
+"have-nots"
+and thus don't
+really address
+the mobility
+needs and
+desires of
+those whose
+quality-of-life
+could be most
+enhanced by
+automation
+technology.
+These images
+seem to focus
+the Plan on
+giving those
+that already
+have pretty
+good ways to
+get around,
+yet another
+way to get
+around, where,
+when you
+finally get
+right down to
+it, may at
+best be only
+slightly
+better than
+what they
+already have.
+This
+Comprehensive
+Plan should
+first be
+focused on
+providing
+high-quality
+affordable
+mobility to
+those whose
+quality-of-life
+could be most
+improved by
+such new
+technologies
+and
+subsequently
+serve those
+that already
+enjoy and can
+afford other
+high-quality
+forms of
+mobility.</p>
+<p class="newsletter-commentary">Also, Elaine, thank you for a
+really good 4
+years.  You
+(and USDoT)
+were really
+the star of
+what was
+otherwise a
+most
+embarrassing
+Presidency.
+Also, thanks
+to Diana
+Furchtgott-Roth
+and many
+others in US
+DoT.  Alain</p>
+<p>January 08,
+2021</p>
+<p><a href="https://www.cnn.com/2020/12/17/business/automatic-braking/" rel="noopener noreferrer">Automatic braking is now on most new cars. But not GM or Fiat Chrysler vehicles</a>
 C.
-                                                          Isidore, Dec
-                                                          17, "Automatic
-                                                          braking, once
-                                                          a feature
-                                                          available
-                                                          exclusively to
-                                                          high-end cars,
-                                                          is becoming
-                                                          common across
-                                                          the industry,
-                                                          according to
-                                                          analysis from
-                                                          Consumer
-                                                          Reports and
-                                                          the Insurance
-                                                          Institute for
-                                                          Highway
-                                                          Safety.
-
-                                                          .. "  [Read more](https://www.cnn.com/2020/12/17/business/automatic-braking/)  Hmmmm... Set up for the [3rd session of the SDC Summit](https://orfe.princeton.edu/conferences/sdc/session/20210114).
-                                                          Alain
-
-                                                          December 31,
-                                                          2020
-  [Sustainable and Attainable: Zoox Unveils Autonomous Robotaxi Powered by NVIDIA](https://blogs.nvidia.com/blog/2020/12/17/zoox-autonomous-robotaxi-powered-by-nvidia/)
+Isidore, Dec
+17, "Automatic
+braking, once
+a feature
+available
+exclusively to
+high-end cars,
+is becoming
+common across
+the industry,
+according to
+analysis from
+Consumer
+Reports and
+the Insurance
+Institute for
+Highway
+Safety.</p>
+<p>.. "  <a href="https://www.cnn.com/2020/12/17/business/automatic-braking/" rel="noopener noreferrer">Read more</a>  </p><p class="newsletter-commentary">Hmmmm... Set up for the <a href="https://orfe.princeton.edu/conferences/sdc/session/20210114" rel="noopener noreferrer">3rd session of the SDC Summit</a>.
+Alain</p>
+<p>December 31,
+2020
+  <a href="https://blogs.nvidia.com/blog/2020/12/17/zoox-autonomous-robotaxi-powered-by-nvidia/" rel="noopener noreferrer">Sustainable and Attainable: Zoox Unveils Autonomous Robotaxi Powered by NVIDIA</a>
 D. Shapiro,
-                                                          Dec. 17, "When
-                                                          it comes to
-                                                          future
-                                                          mobility, you
-                                                          may not have
-                                                          to pave as
-                                                          many paradises
-                                                          for personal
-                                                          car parking
-                                                          lots.
-
-                                                          This week,
-                                                          autonomous
-                                                          mobility
-                                                          company Zoox
-                                                          unveiled its
-                                                          much-anticipated
-                                                          purpose-built
-                                                          robotaxi.
-                                                          Designed for
-                                                          everyday urban
-                                                          mobility, the
-                                                          vehicle is
-                                                          powered by
-                                                          NVIDIA and is
-                                                          one of the
-                                                          first level 5
-                                                          robotaxis
-                                                          featuring
-                                                          bi-directional
-                                                          capabilities,
-                                                          providing a
-                                                          concrete view
-                                                          into the next
-                                                          generation of
-                                                          intelligent
-                                                          transportation...."
-                                                          [Read more](https://blogs.nvidia.com/blog/2020/12/17/zoox-autonomous-robotaxi-powered-by-nvidia/)  Hmmmm... Watch Zoom-Cast 192.
-                                                          Alain
-
-                                                          December 11,
-                                                          2020
-
-                                                          [Uber, After Years of Trying, Is Handing Off Its Self-Driving Car Project](https://www.nytimes.com/2020/12/07/technology/uber-self-driving-car-project.html)
-
-C. Metz
-                                                          & K.
-                                                          Conger, Dec 7,
-                                                          "Uber, which
-                                                          spent hundreds
-                                                          of millions of
-                                                          dollars on a
-                                                          self-driving
-                                                          car project
-                                                          that
-                                                          executives
-                                                          once believed
-                                                          was a key to
-                                                          becoming
-                                                          profitable, is
-                                                          handing the
-                                                          autonomous
-                                                          vehicle effort
-                                                          over to a
-                                                          Silicon Valley
-                                                          start-up, the
-                                                          companies said
-                                                          on
-                                                          Mondayh...." [Read more](https://www.nytimes.com/2020/12/07/technology/uber-self-driving-car-project.html) Hmmmm...  Actually a good
-                                                          article.
-                                                          Alain
-
-                                                          December 04,
-                                                          2020
-
-  [Nikola Teaches GM a Lesson](https://www.wsj.com/articles/nikola-teaches-gm-a-lesson-11606760549)
+Dec. 17, "When
+it comes to
+future
+mobility, you
+may not have
+to pave as
+many paradises
+for personal
+car parking
+lots.</p>
+<p>This week,
+autonomous
+mobility
+company Zoox
+unveiled its
+much-anticipated
+purpose-built
+robotaxi.
+Designed for
+everyday urban
+mobility, the
+vehicle is
+powered by
+NVIDIA and is
+one of the
+first level 5
+robotaxis
+featuring
+bi-directional
+capabilities,
+providing a
+concrete view
+into the next
+generation of
+intelligent
+transportation...."
+<a href="https://blogs.nvidia.com/blog/2020/12/17/zoox-autonomous-robotaxi-powered-by-nvidia/" rel="noopener noreferrer">Read more</a>  </p><p class="newsletter-commentary">Hmmmm... Watch Zoom-Cast 192.
+Alain</p>
+<p>December 11,
+2020</p>
+<h3 class="newsletter-article-title" id="article-90"><a href="https://www.nytimes.com/2020/12/07/technology/uber-self-driving-car-project.html" rel="noopener noreferrer">Uber, After Years of Trying, Is Handing Off Its Self-Driving Car Project</a></h3>
+<p>C. Metz
+&amp; K.
+Conger, Dec 7,
+"Uber, which
+spent hundreds
+of millions of
+dollars on a
+self-driving
+car project
+that
+executives
+once believed
+was a key to
+becoming
+profitable, is
+handing the
+autonomous
+vehicle effort
+over to a
+Silicon Valley
+start-up, the
+companies said
+on
+Mondayh...." <a href="https://www.nytimes.com/2020/12/07/technology/uber-self-driving-car-project.html" rel="noopener noreferrer">Read more</a> </p><p class="newsletter-commentary">Hmmmm...  Actually a good
+article.
+Alain</p>
+<p>December 04,
+2020</p>
+<p><a href="https://www.wsj.com/articles/nikola-teaches-gm-a-lesson-11606760549" rel="noopener noreferrer">Nikola Teaches GM a Lesson</a>
 S. Wilmot,
-                                                          Nov 30,
-                                                          "Nikola Corp.
-                                                          NKLA 0.76%
-                                                          isn't turning
-                                                          out to be the
-                                                          next Tesla
-                                                          that investors
-                                                          and    were
-                                                          hoping for.
-                                                          ..."  [Read more](https://www.wsj.com/articles/nikola-teaches-gm-a-lesson-11606760549) Hmmmm... Lessons for many in this
-                                                          endeavor.  See
-                                                          also[Andrew Hawkin's take](https://www.theverge.com/2020/11/30/21726594/gm-nikola-deal-equity-badger-truck-hydrogen)
-                                                          as well as [David Morris'](https://fortune.com/2020/11/30/nikola-gm-deal-collapses-devastating-news/).
-                                                          Alain
-
-                                                          November 26,
-
- [The Vehicle Fuel Debate Has Been Hijacked](https://www.dropbox.com/s/lw27g9qlolrjkpb/The%20Dispatcher_December%202020.pdf?dl=0)
-
-M.
-                                                          Sena, Nov. 19,
-                                                          "The lead
-                                                          article this
-                                                          month was
-                                                          inspired by a
-                                                          diagram I
-                                                          received
-                                                          showing how
-                                                          much of the
-                                                          energy that we
-                                                          generate to
-                                                          heat our
-                                                          homes, light
-                                                          up our rooms,
-                                                          make the
-                                                          concrete and
-                                                          steel to build
-                                                          our
-                                                          infrastructure
-                                                          and power our
-                                                          transportation
-                                                          is wasted.
-                                                          It's over
-                                                          two-thirds.
-                                                          Wasted! Half
-                                                          of it is from
-                                                          producing
-                                                          electricity.
-
-                                                          ..."  [Read more](https://www.dropbox.com/s/lw27g9qlolrjkpb/The%20Dispatcher_December%202020.pdf?dl=0)Hmmmm... What can I say?? Another great
-                                                          edition of the
-                                                          Dispatcher. Be
-                                                          sure to read
-                                                          all the way
-                                                          through
-                                                          including  "[Musings of a Dispatcher: Cars are from Mars](https://www.dropbox.com/s/lw27g9qlolrjkpb/The%20Dispatcher_December%202020.pdf?dl=0)".  Enjoy and listen/watch the
-                                                          following [Pod](https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-187)/[Zoom](https://youtu.be/eyGCKObQ4e0)-casts.  Alain
-
-  [Waymo's Safety Methodologies and Safety Readiness Determinations](https://www.dropbox.com/s/b5hwf3nzgwjzy46/Waymo-Safety-Methodologies-and-Readiness-Determinations.pdf?dl=0)
+Nov 30,
+"Nikola Corp.
+NKLA 0.76%
+isn't turning
+out to be the
+next Tesla
+that investors
+and    were
+hoping for.
+..."  <a href="https://www.wsj.com/articles/nikola-teaches-gm-a-lesson-11606760549" rel="noopener noreferrer">Read more</a> </p><p class="newsletter-commentary">Hmmmm... Lessons for many in this
+endeavor.  See
+also<a href="https://www.theverge.com/2020/11/30/21726594/gm-nikola-deal-equity-badger-truck-hydrogen" rel="noopener noreferrer">Andrew Hawkin's take</a>
+as well as <a href="https://fortune.com/2020/11/30/nikola-gm-deal-collapses-devastating-news/" rel="noopener noreferrer">David Morris'</a>.
+Alain</p>
+<p>November 26,</p>
+<h3 class="newsletter-article-title" id="article-91"><a href="https://www.dropbox.com/s/lw27g9qlolrjkpb/The%20Dispatcher_December%202020.pdf?dl=0" rel="noopener noreferrer">The Vehicle Fuel Debate Has Been Hijacked</a></h3>
+<p>M.
+Sena, Nov. 19,
+"The lead
+article this
+month was
+inspired by a
+diagram I
+received
+showing how
+much of the
+energy that we
+generate to
+heat our
+homes, light
+up our rooms,
+make the
+concrete and
+steel to build
+our
+infrastructure
+and power our
+transportation
+is wasted.
+It's over
+two-thirds.
+Wasted! Half
+of it is from
+producing
+electricity.</p>
+<p>..."  <a href="https://www.dropbox.com/s/lw27g9qlolrjkpb/The%20Dispatcher_December%202020.pdf?dl=0" rel="noopener noreferrer">Read more</a></p><p class="newsletter-commentary">Hmmmm... What can I say?? Another great
+edition of the
+Dispatcher. Be
+sure to read
+all the way
+through
+including  "<a href="https://www.dropbox.com/s/lw27g9qlolrjkpb/The%20Dispatcher_December%202020.pdf?dl=0" rel="noopener noreferrer">Musings of a Dispatcher: Cars are from Mars</a>".  Enjoy and listen/watch the
+following <a href="https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-187" rel="noopener noreferrer">Pod</a>/<a href="https://youtu.be/eyGCKObQ4e0" rel="noopener noreferrer">Zoom</a>-casts.  Alain</p>
+<p><a href="https://www.dropbox.com/s/b5hwf3nzgwjzy46/Waymo-Safety-Methodologies-and-Readiness-Determinations.pdf?dl=0" rel="noopener noreferrer">Waymo's Safety Methodologies and Safety Readiness Determinations</a>
 N, Webb,
-                                                          Oct. 30, "As
-                                                          the world's
-                                                          most
-                                                          experienced
-                                                          developer of
-                                                          automated
-                                                          driving
-                                                          systems, Waymo
-                                                          has extensive
-                                                          experience in
-                                                          developing and
-                                                          applying
-                                                          state-of-the-art
-                                                          safety
-                                                          methodologies.
-                                                          Waymo's
-                                                          methodologies
-                                                          help implement
-                                                          Waymo's
+Oct. 30, "As
+the world's
+most
+experienced
+developer of
+automated
+driving
+systems, Waymo
+has extensive
+experience in
+developing and
+applying
+state-of-the-art
+safety
+methodologies.
+Waymo's
+methodologies
+help implement
+Waymo's
 forward-looking safety philosophy: Waymo will reduce traffic injuries
-                                                          and fatalities
-                                                          by driving
-                                                          safely and
-                                                          responsibly,
-                                                          and will
-                                                          carefully
-                                                          manage risk as
-                                                          we scale our
-                                                          operations.
-                                                          Waymo's safety
-                                                          methodologies,
-                                                          which draw on
-                                                          well
-                                                          established
-                                                          engineering
-                                                          processes and
-                                                          address new
-                                                          safety
-                                                          challenges
-                                                          specific to
-                                                          Automated
-                                                          Vehicle
-                                                          technology,
-                                                          provide a firm
-                                                          foundation for
-                                                          safe
-                                                          deployment of
-                                                          our Level 4
-                                                          ADS, which we
-                                                          also refer to
-                                                          as the Waymo
-                                                          Driver.
-                                                          Waymo's
-                                                          determination
-                                                          of its
-                                                          readiness to
-                                                          deploy its AVs
-                                                          safely in
-                                                          different
-                                                          settings rests
-                                                          on that firm
-                                                          foundation and
-                                                          on a thorough
-                                                          analysis of
-                                                          risks specific
-                                                          to a
-                                                          particular
-                                                          Operational
-                                                          Design Domain
-                                                          )...."  [Read more](https://www.dropbox.com/s/b5hwf3nzgwjzy46/Waymo-Safety-Methodologies-and-Readiness-Determinations.pdf?dl=0) Hmmmm...  The process.  Must
-                                                          read!  Alain
-
-  [Waymo Public Road Safety Performance Data](https://www.dropbox.com/s/6sf4mu1y3f8fr7s/Waymo-Public-Road-Safety-Performance-Data.pdf?dl=0)
+and fatalities
+by driving
+safely and
+responsibly,
+and will
+carefully
+manage risk as
+we scale our
+operations.
+Waymo's safety
+methodologies,
+which draw on
+well
+established
+engineering
+processes and
+address new
+safety
+challenges
+specific to
+Automated
+Vehicle
+technology,
+provide a firm
+foundation for
+safe
+deployment of
+our Level 4
+ADS, which we
+also refer to
+as the Waymo
+Driver.
+Waymo's
+determination
+of its
+readiness to
+deploy its AVs
+safely in
+different
+settings rests
+on that firm
+foundation and
+on a thorough
+analysis of
+risks specific
+to a
+particular
+Operational
+Design Domain
+)...."  <a href="https://www.dropbox.com/s/b5hwf3nzgwjzy46/Waymo-Safety-Methodologies-and-Readiness-Determinations.pdf?dl=0" rel="noopener noreferrer">Read more</a> </p><p class="newsletter-commentary">Hmmmm...  The process.  Must
+read!  Alain</p>
+<p><a href="https://www.dropbox.com/s/6sf4mu1y3f8fr7s/Waymo-Public-Road-Safety-Performance-Data.pdf?dl=0" rel="noopener noreferrer">Waymo Public Road Safety Performance Data</a>
 M. Schwall,
-                                                          Oct. 30,
-                                                          "Waymo's
-                                                          mission to
-                                                          reduce traffic
-                                                          injuries and
-                                                          fatalities and
-                                                          improve
-                                                          mobility for
-                                                          all has led us
-                                                          to expand
-                                                          deployment of
-                                                          automated
-                                                          vehicles (AVs)
-                                                          on public
-                                                          roads without
-                                                          a human driver
-                                                          behind the
-                                                          wheel.  As
-                                                          part of this
-                                                          process, Waymo
-                                                          is committed
-                                                          to providing
-                                                          the public
-                                                          with
-                                                          informative
-                                                          and relevant
-                                                          data regarding
-                                                          the
-                                                          demonstrated
-                                                          safety of
-                                                          Waymo's
-                                                          automated
-                                                          driving system
-                                                          (ADS), which
-                                                          we call the
-                                                          Waymo
-                                                          Driver...." [Read more](https://www.dropbox.com/s/6sf4mu1y3f8fr7s/Waymo-Public-Road-Safety-Performance-Data.pdf?dl=0) Hmmmm...  The substance.  Must
-                                                          read! ...
-
-I had the priveledge of reviewing Waymo's most recent
-                                                          Safety
-                                                          Reports [1](https://www.dropbox.com/s/b5hwf3nzgwjzy46/Waymo-Safety-Methodologies-and-Readiness-Determinations.pdf?dl=0) , [2](https://www.dropbox.com/s/6sf4mu1y3f8fr7s/Waymo-Public-Road-Safety-Performance-Data.pdf?dl=0) (above)
-
-In the past, safety reports by the AV community have
-                                                          largely been a
-                                                          response to
-                                                          NHTSA'Ãƒâ€šÃ‚Â¢s [Voluntary Safety Self-Assessments](https://www.nhtsa.gov/automated-driving-systems/voluntary-safety-self-assessment) and
-                                                          have, in my
-                                                          opinion, been
-                                                          largely public
-                                                          relations
-                                                          documents.
-                                                          While
-                                                          generally
-                                                          descriptive
-                                                          about the
-                                                          testing
-                                                          processes they
-                                                          contain very
-                                                          little, if
-                                                          any,
-                                                          substantive
-                                                          information
-                                                          about their safety
-                                                          related experience
-                                                          to-date
-                                                          focused
-                                                          exclusively on
-                                                          driverless
-                                                          operation.
-
-Safe driverless operation is absolutely necessary for
-                                                          AVs to evolve
-                                                          from extremely
-                                                          expensive
-                                                          chauffeured
-                                                          rides to
-                                                          affordable
-                                                          mobility
-                                                          available to
-                                                          essentially
-                                                          anyone
-                                                          throughout an
-                                                          Operational
-                                                          Design Domain
-                                                          (ODD).
-                                                          Affordability
-                                                          requires that
-                                                          the mobility
-                                                          be delivered
-                                                          without a
-                                                          driver or
-                                                          attendant
-                                                          on-board the
-                                                          vehicle.  Only
-                                                          passengers.
-
-The decision to remove the driver/attendant rests in
-                                                          part on the
-                                                          shoulders of
-                                                          public safety
-                                                          regulators who
-                                                          need to allow
-                                                          such
-                                                          operation, but
-                                                          more
-                                                          importantly,
-                                                          on the
-                                                          shoulders of
-                                                          the real
-                                                          decision
-                                                          makers at the
-                                                          AV company.
-                                                          In the end, it
-                                                          is those AV
-                                                          company
-                                                          decision
-                                                          makers who
-                                                          will be held
-                                                          fully
-                                                          responsible
-                                                          for any lapse
-                                                          in the safety
-                                                          of the
-                                                          driverless
-                                                          operation.
-                                                          These decision
-                                                          makers are
-                                                          inside the AV
-                                                          companies and
-                                                          are, of
-                                                          course, privy
-                                                          to all the
-                                                          details and
-                                                          substance
-                                                          about their
-                                                          own safety
-                                                          related
-                                                          driverless
-                                                          operation,
-                                                          which, in the
-                                                          past, has not
-                                                          been shared in
-                                                          their
-                                                          Voluntary
-                                                          Safety
-                                                          Self-assessments.
-
-My impression is that these just released Waymo Safety
-                                                          Reports
-                                                          contain the
-                                                          substantive
-                                                          information
-                                                          that clearly
-                                                          depicts
-                                                          Waymo's
-                                                          safety-related
-                                                          driverless
-                                                          operational
-                                                          experience.
-                                                          To me, they
-                                                          read like
-                                                          internal
-                                                          documents
-                                                          meant to guide
-                                                          and inform
-                                                          internal
-                                                          decision
-                                                          makers to
-                                                          objectively
-                                                          decide if a
-                                                          sufficiently
-                                                          safe
-                                                          operational
-                                                          experience has
-                                                          been achieved
-                                                          in order to
-                                                          vote to fully
-                                                          accept the
-                                                          safety
-                                                          responsibility
-                                                          of driverless
-                                                          operation in
-                                                          their
-                                                          Operational
-                                                          Design
-                                                          Domain.
-
-Given the information that is contained in these
-                                                          documents, it
-                                                          does not
-                                                          surprise me
-                                                          that Waymo
-                                                          decision
-                                                          makers have
-                                                          decided to
-                                                          proceed with
-                                                          driverless
-                                                          operation in
-                                                          the Phoenix
-                                                          Operational
-                                                          Design Domain.
-                                                          Had I had the
-                                                          responsibility
-                                                          of being one
-                                                          of the
-                                                          decision
-                                                          makers
-                                                          reviewing
-                                                          these
-                                                          documents, I
-                                                          would have
-                                                          also voted
-                                                          yes.
-
-                                                          Alain
-
-                                                          rgb(51, 51,
-                                                          October 09,
-                                                          2020
-
- [Waymo starts to open driverless ride-hailing service to the public](https://techcrunch.com/2020/10/08/waymo-starts-to-open-driverless-ride-hailing-service-to-the-public/)
-
-K.
-                                                          Korosec, Oct.
-                                                          8, "Waymo,
-                                                          the Google
-                                                          self-driving-project-turned-Alphabet
-                                                          unit, is
-                                                          beginning to
-                                                          open up its
-                                                          driverless
-                                                          ride-hailing
-                                                          service to the
-                                                          public.
-
-                                                          ..."  [Read more](https://techcrunch.com/2020/10/08/waymo-starts-to-open-driverless-ride-hailing-service-to-the-public/)  Hmmmm...  "...fully Driverless...".
-                                                          That means
-                                                          that Krafcik,
-                                                          the Waymo
-                                                          "Board",
-                                                          Alphabet's
-                                                          Board and all
-                                                          the lawyers
-                                                          have signed
-                                                          off and
-                                                          said... We are
-                                                          safe enough to
-                                                          basically bet
-                                                          the ranch that
-                                                          the expected
-                                                          value of the
-                                                          mobility that
-                                                          we'll be
-                                                          putting out on
-                                                          the streets
-                                                          of our Operational Design Domain, which is under our control,
-                                                          is worth
-                                                          whatever
-                                                          expected risk
-                                                          still exists
-                                                          that some bad
-                                                          things may
-                                                          happen.  That
-                                                          is an enormous
-                                                          hurdle that
-                                                          has been
-                                                          achieved by an
-                                                          entity that
-                                                          has an
-                                                          enormous
-                                                          ranch.  CONGRATULATIONS!!!
-                                                          It hasn't come
-                                                          easy, nor has
-                                                          it come
-                                                          without intese
-                                                          diligence and
-                                                          effort. CONGRATULATIONS!!! Alain
-                                                          rgb(51, 51,
-                                                          October 09,
-                                                          2020
-
-  [ASSISTED DRIVING GRADINGS](https://www.euroncap.com/en/ratings-rewards/assisted-driving-gradings/)
+Oct. 30,
+"Waymo's
+mission to
+reduce traffic
+injuries and
+fatalities and
+improve
+mobility for
+all has led us
+to expand
+deployment of
+automated
+vehicles (AVs)
+on public
+roads without
+a human driver
+behind the
+wheel.  As
+part of this
+process, Waymo
+is committed
+to providing
+the public
+with
+informative
+and relevant
+data regarding
+the
+demonstrated
+safety of
+Waymo's
+automated
+driving system
+(ADS), which
+we call the
+Waymo
+Driver...." <a href="https://www.dropbox.com/s/6sf4mu1y3f8fr7s/Waymo-Public-Road-Safety-Performance-Data.pdf?dl=0" rel="noopener noreferrer">Read more</a> </p><p class="newsletter-commentary">Hmmmm...  The substance.  Must
+read! ...</p>
+<p class="newsletter-commentary">I had the priveledge of reviewing Waymo's most recent
+Safety
+Reports <a href="https://www.dropbox.com/s/b5hwf3nzgwjzy46/Waymo-Safety-Methodologies-and-Readiness-Determinations.pdf?dl=0" rel="noopener noreferrer">1</a> , <a href="https://www.dropbox.com/s/6sf4mu1y3f8fr7s/Waymo-Public-Road-Safety-Performance-Data.pdf?dl=0" rel="noopener noreferrer">2</a> (above)</p>
+<p class="newsletter-commentary">In the past, safety reports by the AV community have
+largely been a
+response to
+NHTSA'Ãƒâ€šÃ‚Â¢s <a href="https://www.nhtsa.gov/automated-driving-systems/voluntary-safety-self-assessment" rel="noopener noreferrer">Voluntary Safety Self-Assessments</a> and
+have, in my
+opinion, been
+largely public
+relations
+documents.
+While
+generally
+descriptive
+about the
+testing
+processes they
+contain very
+little, if
+any,
+substantive
+information
+about their safety
+related experience
+to-date
+focused
+exclusively on
+driverless
+operation.</p>
+<p class="newsletter-commentary">Safe driverless operation is absolutely necessary for
+AVs to evolve
+from extremely
+expensive
+chauffeured
+rides to
+affordable
+mobility
+available to
+essentially
+anyone
+throughout an
+Operational
+Design Domain
+(ODD).
+Affordability
+requires that
+the mobility
+be delivered
+without a
+driver or
+attendant
+on-board the
+vehicle.  Only
+passengers.</p>
+<p class="newsletter-commentary">The decision to remove the driver/attendant rests in
+part on the
+shoulders of
+public safety
+regulators who
+need to allow
+such
+operation, but
+more
+importantly,
+on the
+shoulders of
+the real
+decision
+makers at the
+AV company.
+In the end, it
+is those AV
+company
+decision
+makers who
+will be held
+fully
+responsible
+for any lapse
+in the safety
+of the
+driverless
+operation.
+These decision
+makers are
+inside the AV
+companies and
+are, of
+course, privy
+to all the
+details and
+substance
+about their
+own safety
+related
+driverless
+operation,
+which, in the
+past, has not
+been shared in
+their
+Voluntary
+Safety
+Self-assessments.</p>
+<p class="newsletter-commentary">My impression is that these just released Waymo Safety
+Reports
+contain the
+substantive
+information
+that clearly
+depicts
+Waymo's
+safety-related
+driverless
+operational
+experience.
+To me, they
+read like
+internal
+documents
+meant to guide
+and inform
+internal
+decision
+makers to
+objectively
+decide if a
+sufficiently
+safe
+operational
+experience has
+been achieved
+in order to
+vote to fully
+accept the
+safety
+responsibility
+of driverless
+operation in
+their
+Operational
+Design
+Domain.</p>
+<p class="newsletter-commentary">Given the information that is contained in these
+documents, it
+does not
+surprise me
+that Waymo
+decision
+makers have
+decided to
+proceed with
+driverless
+operation in
+the Phoenix
+Operational
+Design Domain.
+Had I had the
+responsibility
+of being one
+of the
+decision
+makers
+reviewing
+these
+documents, I
+would have
+also voted
+yes.</p>
+<p class="newsletter-commentary">Alain</p>
+<p>rgb(51, 51,
+October 09,
+2020</p>
+<h3 class="newsletter-article-title" id="article-92"><a href="https://techcrunch.com/2020/10/08/waymo-starts-to-open-driverless-ride-hailing-service-to-the-public/" rel="noopener noreferrer">Waymo starts to open driverless ride-hailing service to the public</a></h3>
+<p>K.
+Korosec, Oct.
+8, "Waymo,
+the Google
+self-driving-project-turned-Alphabet
+unit, is
+beginning to
+open up its
+driverless
+ride-hailing
+service to the
+public.</p>
+<p>..."  <a href="https://techcrunch.com/2020/10/08/waymo-starts-to-open-driverless-ride-hailing-service-to-the-public/" rel="noopener noreferrer">Read more</a>  </p><p class="newsletter-commentary">Hmmmm...  "...fully Driverless...".
+That means
+that Krafcik,
+the Waymo
+"Board",
+Alphabet's
+Board and all
+the lawyers
+have signed
+off and
+said... We are
+safe enough to
+basically bet
+the ranch that
+the expected
+value of the
+mobility that
+we'll be
+putting out on
+the streets
+of our Operational Design Domain, which is under our control,
+is worth
+whatever
+expected risk
+still exists
+that some bad
+things may
+happen.  That
+is an enormous
+hurdle that
+has been
+achieved by an
+entity that
+has an
+enormous
+ranch.  CONGRATULATIONS!!!
+It hasn't come
+easy, nor has
+it come
+without intese
+diligence and
+effort. CONGRATULATIONS!!! Alain
+rgb(51, 51,
+October 09,
+2020</p>
+<p class="newsletter-commentary"><a href="https://www.euroncap.com/en/ratings-rewards/assisted-driving-gradings/" rel="noopener noreferrer">ASSISTED DRIVING GRADINGS</a>
 Staff,
-                                                          Oct. 2020  "On
-                                                          this page you
-                                                          will find the
-                                                          gradings of
-                                                          cars tested by
-                                                          Euro NCAP on
-                                                          automated
-                                                          driving
-                                                          technologies.
-
-                                                          September 25,
-                                                          2020
-
-  [Proposal for a new UN Regulation on uniform provisions concerning the approval of vehicles with regards to Automated Lane Keeping System](https://www.dropbox.com/s/k9aa8x6p4rqjaxd/Level3RegulatonECE-TRANS-WP29-2020-081e.docx?dl=0)
-
-                                                          rgb(51, 51,
-                                                          September 11,
-                                                          2020
- [Tesla's 'Full Self-Driving Capability' Falls Short of Its Name](https://www.consumerreports.org/autonomous-driving/tesla-full-self-driving-capability-review-falls-short-of-its-name/)
+Oct. 2020  "On
+this page you
+will find the
+gradings of
+cars tested by
+Euro NCAP on
+automated
+driving
+technologies.</p>
+<p class="newsletter-commentary">September 25,
+2020</p>
+<h3 class="newsletter-article-title" id="article-93"><a href="https://www.dropbox.com/s/k9aa8x6p4rqjaxd/Level3RegulatonECE-TRANS-WP29-2020-081e.docx?dl=0" rel="noopener noreferrer">Proposal for a new UN Regulation on uniform provisions concerning the approval of vehicles with regards to Automated Lane Keeping System</a></h3>
+<p>rgb(51, 51,
+September 11,
+2020
+ <a href="https://www.consumerreports.org/autonomous-driving/tesla-full-self-driving-capability-review-falls-short-of-its-name/" rel="noopener noreferrer">Tesla's 'Full Self-Driving Capability' Falls Short of Its Name</a>
 M.
-                                                          Monticello.
-                                                          Sept. 8, The
-                                                          features might
-                                                          be cutting
-                                                          edge, even
-                                                          cool, but we
-                                                          think buyers
-                                                          should be wary
-                                                          of shelling
-                                                          out $8,000 for
-                                                          what electric
-                                                          car company
-                                                          Tesla calls
-                                                          its Full
-                                                          Self-Driving
-                                                          Capability
-                                                          option. Tesla
-                                                          claims every
-                                                          new vehicle it
-                                                          builds
-                                                          includes all
-                                                          the hardware
-                                                          necessary to
-                                                          be fully
-                                                          autonomous,
-                                                          and the
-                                                          company says
-                                                          that through
-                                                          future
-                                                          over-the-air
-                                                          software
-                                                          updates, its
-                                                          cars should
-                                                          eventually be
-                                                          capable of
-                                                          driving
-                                                          themselves.  .... Anytime anyone uses words
-                                                          such as "Full"
-                                                          the one thing
-                                                          that you know
-                                                          that they are
-                                                          "Full" of is
-                                                          ....   "Full"
-                                                          is about a
-                                                          perception,
-                                                          not a fact.
-                                                          Even the
-                                                          definition of
-                                                          "autonomous"
-                                                          has caveats
-                                                          (or should I
-                                                          say Full of
-                                                          caveats?).
-                                                          What I
-                                                          interpret Elon
-                                                          to be selling
-                                                          is: sufficient
-                                                          hardware
-                                                          (sensors,
-                                                          memory,
-                                                          compute power
-                                                          and
-                                                          communications
-                                                          bandwidth)
-                                                          that, with
-                                                          more elegant
-                                                          software, may
-                                                          be able to do
-                                                          a way better
-                                                          job in safely
-                                                          driving a
-                                                          car.  What he
-                                                          has never said
-                                                          is that this
-                                                          hardware plus
-                                                          future
-                                                          software is
-                                                          going to be
-                                                          good enough
-                                                          for him to be
-                                                          held
-                                                          responsible if
-                                                          something bad
-                                                          happens when
-                                                          the car is
-                                                          being driven
-                                                          by that
-                                                          hardware and
-                                                          software
-                                                          combination.
-                                                          That said,
-                                                          lets move
-                                                          on...
-
-                                                          But for now,
-                                                          Full
-                                                          Self-Driving
-                                                          Capability,
-                                                          which includes
-                                                          features that
-                                                          can assist the
-                                                          driver with
-                                                          parking,
-                                                          changing lanes
-                                                          on the
-                                                          highway, and
-                                                          even coming to
-                                                          a complete
-                                                          halt at
-                                                          traffic lights
-                                                          and stop
-                                                          signs, remains
-                                                          a misnomer ...Yes!...   Below, we explain each feature in
-                                                          the suite, its
-                                                          intended use,
-                                                          and how each
-                                                          performed in
-                                                          our tests....
-                                                          " [Read more](https://www.consumerreports.org/autonomous-driving/tesla-full-self-driving-capability-review-falls-short-of-its-name/) Hmmmm.... [See Video](https://www.consumerreports.org/autonomous-driving/tesla-full-self-driving-capability-review-falls-short-of-its-name/), [Watch Zoom-Cast](https://youtu.be/AfRb9B-9boc).  Help with
-                                                          parking....
-                                                          no  one parks
-                                                          a good car
-                                                          into a tight
-                                                          parking place;
-                                                          else, that
-                                                          car's life as
-                                                          a god car
-                                                          rapidly
-                                                          disappears.
-                                                          Stupid Summon
-                                                          is just
-                                                          stupid... your
-                                                          car is not
-                                                          your dog and
-                                                          certainly not
-                                                          in the WalMart
-                                                          parking lot.
-                                                          (or should I
-                                                          have said
-                                                          WholePaycheck
-                                                          parking lot)
-                                                          Here puppy,
-                                                          here puppy!
-
-I really like what Consumer
-                                                          Reports has
-                                                          been doing on
-                                                          this front.
-                                                          Trying to help
-                                                          consumers
-                                                          understant
-                                                          what is what.
-                                                          Alain
-
-                                                          rgb(51, 51,
-                                                          255);">Saturday,
-                                                           [The Biggest Self-Driving Truck Startup Stumbles in Hitting High Goals](https://www.theinformation.com/articles/the-biggest-self-driving-truck-startup-stumbles-in-hitting-high-goals)
-                                                          rgb(51, 51,
-                                                          255);">Thursday,
-                                                             [Car OEMs Driving Toward Relevance or Perdition](https://www.dropbox.com/s/ltmk5s3hdpwf6nr/The-Dispatcher_August-2020.pdf?dl=0)
-
-###
-
-                                                          rgb(51, 51,
-                                                          255);">Thursday,
-                                                           [Fostering Economic Opportunity through Autonomous Vehicle Technology](https://us02web.zoom.us/webinar/register/WN_bUHzsV9BSm-tJkKQ6QVNqg)
-                                                          rgb(51, 51,
-                                                          255);">Thursday,
-
- [Announcing 2020-2021 Fellow-in-Residence Henry L. Greenidge, Esq.](https://mcsilver.nyu.edu/henry-greenidge-fellow-in-residence/)
-                                                          rgb(51, 51,
-                                                          255);">Thursday,
-
-                                                          [Luminaries Battle In Lincoln-Douglas Style Debate About The Future Of Self-Driving Cars](https://www.forbes.com/sites/lanceeliot/2020/04/28/luminaries-battle-in-lincoln-douglas-style-debate-about-the-future-of-self-driving-cars/#35c0455028b6)
-                                                          rgb(51, 51,
-                                                          255);">Friday,
-
-  [What Negative Oil Prices Mean and How the Impact Could Last](https://www.nytimes.com/article/negative-oil-prices-facts-history.html)
-                                                          rgb(51, 51,
-                                                          255);">Friday,
-
-
-  [Starsky Robotics Failed. Does That Mean Automated Trucking Is Dead?](https://www.forbes.com/sites/richardbishop1/2020/03/24/starsky-robotics-failed-does-that-mean-automated-trucking-is-dead/#51d50d840c84)
-
-                                                          rgb(51, 51,
-                                                          255);">Friday,
-                                                          January 31,
-                                                          2020
-
-
-[2020 Hyundai Sonata stars in Super Bowl ad all about 'Smaht Pah](https://www.dropbox.com/s/dk1wlzbg6rkpqkd/Smaht%20Pahk%20_%202020%20Hyundai%20Sonata%20_%20Hyundai-85iRQdjCzj0.mp4?dl=0https://www.dropbox.com/s/dk1wlzbg6rkpqkd/Smaht%20Pahk%20_%202020%20Hyundai%20Sonata%20_%20Hyundai-85iRQdjCzj0.mp4?dl=0)[k'](https://www.dropbox.com/s/dk1wlzbg6rkpqkd/Smaht%20Pahk%20_%202020%20Hyundai%20Sonata%20_%20Hyundai-85iRQdjCzj0.mp4?dl=0https://www.dropbox.com/s/dk1wlzbg6rkpqkd/Smaht%20Pahk%20_%202020%20Hyundai%20Sonata%20_%20Hyundai-85iRQdjCzj0.mp4?dl=0)
-
-                                                          rgb(51, 51,
-                                                          255);">Sunday,
-                                                          January 12,
-
-   Hmmmm... Reflections
-
-A.
-                                                          Kornhauser,
-                                                          Jan 12,    Hmmmm...   Self-driving cars are
-                                                          hot and the
-                                                          OEMs are
-                                                          responding.
-                                                          I'm about to
-                                                          buy a new
-                                                          Subaru Outback
-                                                          and [EyeSight](https://www.youtube.com/watch?v=OFuMAc8S8HI)is
-                                                          standard.  It
-                                                          is no longer
-                                                          just AutoPilot
-                                                          or expensive
-                                                          options that
-                                                          car salesmen
-                                                          don't sell.
-                                                          Car companies,
-                                                          as reflected
-                                                          in what is in
-                                                          showrooms and
-                                                          what was
-                                                          promoted at
-                                                          CES, have
-                                                          realized the
-                                                          comfort and
-                                                          convenience of
-                                                          Self-driving
-                                                          technology
-                                                          (cars that
-                                                          have a lot of
-                                                          the
-                                                          Safe-driving
-                                                          car features
-                                                          but also
-                                                          enable you to
-                                                          take your feet
-                                                          off the pedals
-                                                          and hands off
-                                                          the wheel at
-                                                          least for
-                                                          short periods
-                                                          of time. These
-                                                          technologies
-                                                          are really
-                                                          becoming the
-                                                          'chrome and
-                                                          fins' that
-                                                          sell cars to
-                                                          individuals in
-                                                          the 2020s.
-                                                          The momentum
-                                                          is all behind
-                                                          that happening
-                                                          and there is
-                                                          little
-                                                          Washington or
-                                                          Trenton or
-                                                          Princeton
-                                                          Council can do
-                                                          about it.
-                                                          Hopefully part
-                                                          of that
-                                                          momentum will
-                                                          be to make
-                                                          these systems
-                                                          actually work
-                                                          well,
-                                                          especially the
-                                                          Automated
-                                                          Emergency
-                                                          Braking
-                                                          Systems (MUST
-                                                          quit assuming that all stationary objects in the lane
-                                                          ahead can be
-                                                          passed under and
-                                                          consequently
-                                                          each is
-                                                          disregarded.
-                                                          As Tesla is
-                                                          finding out,
-                                                          sometimes
-                                                          those objects
-                                                          are parked
-                                                          firetrucks.)
-                                                          and begin to
-                                                          put hard
-                                                          limits on
-                                                          over-speeding,
-                                                          tailgating and
-                                                          use while
-                                                          driver is
-                                                          impaired.
-                                                          Self-driving
-                                                          cars are
-                                                          unfortunately
-                                                          going to lead
-                                                          to substantial
-                                                          urban sprawl,
-                                                          increased VMT,
-                                                          increased
-                                                          congestion and
-                                                          do nothing to
-                                                          help the
-                                                          energy and
-                                                          pollution
-                                                          challenges of
-                                                          our addiction
-                                                          to the
-                                                          personal
-                                                          automobile.
-                                                          Only
-                                                          'Waymo-style
-                                                          Driverless'
-                                                          (autonomousTaxis,
-                                                          (aTaxis))
-                                                          tuned to
-                                                          entice
-                                                          ride-sharing
-                                                          can
-                                                          potentially
-                                                          stem the tide
-                                                          of ever more
-                                                          personal car
-                                                          ownership and
-                                                          ever expanding
-                                                          urban sprawl.
-                                                          Alain
-
-                                                          rgb(51, 51,
-                                                          255);">Monday,
-                                                          January 6,
-                                                          2020
-
-A.
-                                                          Kornhauser,
-                                                          Jan. 6,    Hmmmm...   I'm in rehab and hope
-                                                          to go home on
-                                                          Wednesday
-                                                          morning. Thank
-                                                          you to so many
-                                                          of you for all
-                                                          the good
-                                                          wishes and
-                                                          prayers.  They
-                                                          each helped.
-                                                          I'm looking to
-                                                          making a full
-                                                          recovery.
-                                                          Remember, if
-                                                          you don't feel
-                                                          well, get
-                                                          evaluated by a
-                                                          doctor.  I was
-                                                          totally
-                                                          clueless about
-                                                          what hit me
-                                                          from out of
-                                                          nowhere.
-                                                          Alain
-
-                                                          rgb(51, 51,
-                                                          255);">Saturday,
-                                                          November 23,
-                                                          2019
-[Self-driving car capital? One senator thinks it can be Florida](https://www.miamiherald.com/news/business/article237625484.html)
-                                                          rgb(51, 51,
-                                                          255);">
-
-                                                          rgb(51, 51,
-                                                          255);">Saturday,
-                                                          September 28,
-                                                          2019
-[Public forum will explore possibility of transit on demand in Princeton](https://planetprinceton.com/2019/09/22/public-forum-will-explore-possibility-of-transit-on-demand-in-princeton/)
-
-                                                          rgb(51, 51,
-                                                          255);">Thursday,
-                                                          November 22,
-
-  [Market Framework and Outlook for Automated Vehicle Systems](https://www.dropbox.com/s/rbrei4tuxbh7fls/SocietyOfActuaries_market-framework-automated-vehicle2018.pdf?dl=0)
-
-                                                          October 24,
-
-### [New Jersey Pending Legislation re: Autonomous Vehicles](https://www.princeton.edu/%7Ealaink/CARTS/AutonomousVehiclePendingLegislationNJ_Oct2018.docx)
-
-Oct 16, [Establishes fully autonomous vehicle pilot program A4573](https://www.njleg.state.nj.us/2018/Bills/A5000/4573_I1.PDF) Sponsors:
-                                                          Zwicker (D16);
-                                                          Benson (D14)
-
-Oct 16, [Establishes](https://legiscan.com/NJ/text/AJR164/2018)[New Jersey Advanced Autonomous Vehicle Task Force AJR164](https://legiscan.com/NJ/text/AJR164/2018)Sponsors:
-                                                          Benson (D14);
-                                                          Zwicker (D16);
-                                                          Lampitt (D6)
-
-                                                          Oct 16, [Directs MVC to establish driver's license endorsement for autonomous vehicles A4541](https://www.njleg.state.nj.us/2018/Bills/A5000/4541_I1.PDF) Sponsors:
-                                                          Zwicker (D16);
-                                                          Benson (D14);
-                                                          Lampitt
-                                                          (D6)..."  [Read more](https://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/PDFs/NVIDIA-Self-Driving-Safety-Report-2018.pdf)Hmmmm.... Things are beginning to move in New
-                                                          Jersey.  Alain
-
- [Testimony of Alain Kornhauser, Assembly Science, Innovation and Technology - Monday, October 22, 2018 - 10:00:00 AM](https://www.princeton.edu/%7Ealaink/CARTS/NJTestimonyAV_Assembly_102218Final.pdf)
-
-[A](https://www.njleg.state.nj.us/media/mp.asp?M=A/2018/AST/1022-1000AM-J0-1.m4a&S=2018)[udio Recording of Assembly Science, Innovation and Technology - Monday, October 22, 2018 - 10:00:00 AM](https://www.njleg.state.nj.us/media/mp.asp?M=A/2018/AST/1022-1000AM-J0-1.m4a&S=2018)
-
- [CPUC AUTHORIZES PASSENGER CARRIERS TO PROVIDE FREE TEST RIDES IN AUTONOMOUS VEHICLES WITH VALID CPUC AND DMV PERMITS](http://docs.cpuc.ca.gov/PublishedDocs/Published/G000/M215/K467/215467801.PDF)
-
-PRELIMINARY
-                                                          REPORT:
-                                                          HIGHWAY:
-                                                          HWY18MH010 (Uber/Herzberg
-                                                          Crash)
+Monticello.
+Sept. 8, The
+features might
+be cutting
+edge, even
+cool, but we
+think buyers
+should be wary
+of shelling
+out $8,000 for
+what electric
+car company
+Tesla calls
+its Full
+Self-Driving
+Capability
+option. Tesla
+claims every
+new vehicle it
+builds
+includes all
+the hardware
+necessary to
+be fully
+autonomous,
+and the
+company says
+that through
+future
+over-the-air
+software
+updates, its
+cars should
+eventually be
+capable of
+driving
+themselves.  .... Anytime anyone uses words
+such as "Full"
+the one thing
+that you know
+that they are
+"Full" of is
+....   "Full"
+is about a
+perception,
+not a fact.
+Even the
+definition of
+"autonomous"
+has caveats
+(or should I
+say Full of
+caveats?).
+What I
+interpret Elon
+to be selling
+is: sufficient
+hardware
+(sensors,
+memory,
+compute power
+and
+communications
+bandwidth)
+that, with
+more elegant
+software, may
+be able to do
+a way better
+job in safely
+driving a
+car.  What he
+has never said
+is that this
+hardware plus
+future
+software is
+going to be
+good enough
+for him to be
+held
+responsible if
+something bad
+happens when
+the car is
+being driven
+by that
+hardware and
+software
+combination.
+That said,
+lets move
+on...</p>
+<p>But for now,
+Full
+Self-Driving
+Capability,
+which includes
+features that
+can assist the
+driver with
+parking,
+changing lanes
+on the
+highway, and
+even coming to
+a complete
+halt at
+traffic lights
+and stop
+signs, remains
+a misnomer ...Yes!...   Below, we explain each feature in
+the suite, its
+intended use,
+and how each
+performed in
+our tests....
+" <a href="https://www.consumerreports.org/autonomous-driving/tesla-full-self-driving-capability-review-falls-short-of-its-name/" rel="noopener noreferrer">Read more</a> </p><p class="newsletter-commentary">Hmmmm.... <a href="https://www.consumerreports.org/autonomous-driving/tesla-full-self-driving-capability-review-falls-short-of-its-name/" rel="noopener noreferrer">See Video</a>, <a href="https://youtu.be/AfRb9B-9boc" rel="noopener noreferrer">Watch Zoom-Cast</a>.  Help with
+parking....
+no  one parks
+a good car
+into a tight
+parking place;
+else, that
+car's life as
+a god car
+rapidly
+disappears.
+Stupid Summon
+is just
+stupid... your
+car is not
+your dog and
+certainly not
+in the WalMart
+parking lot.
+(or should I
+have said
+WholePaycheck
+parking lot)
+Here puppy,
+here puppy!</p>
+<p class="newsletter-commentary">I really like what Consumer
+Reports has
+been doing on
+this front.
+Trying to help
+consumers
+understant
+what is what.
+Alain</p>
+<p>rgb(51, 51,
+255);"&gt;Saturday,
+<a href="https://www.theinformation.com/articles/the-biggest-self-driving-truck-startup-stumbles-in-hitting-high-goals" rel="noopener noreferrer">The Biggest Self-Driving Truck Startup Stumbles in Hitting High Goals</a>
+rgb(51, 51,
+255);"&gt;Thursday,
+<a href="https://www.dropbox.com/s/ltmk5s3hdpwf6nr/The-Dispatcher_August-2020.pdf?dl=0" rel="noopener noreferrer">Car OEMs Driving Toward Relevance or Perdition</a></p>
+<h3 class="newsletter-article-title" id="article-94"></h3>
+<p>rgb(51, 51,
+255);"&gt;Thursday,
+<a href="https://us02web.zoom.us/webinar/register/WN_bUHzsV9BSm-tJkKQ6QVNqg" rel="noopener noreferrer">Fostering Economic Opportunity through Autonomous Vehicle Technology</a>
+rgb(51, 51,
+255);"&gt;Thursday,</p>
+<p><a href="https://mcsilver.nyu.edu/henry-greenidge-fellow-in-residence/" rel="noopener noreferrer">Announcing 2020-2021 Fellow-in-Residence Henry L. Greenidge, Esq.</a>
+rgb(51, 51,
+255);"&gt;Thursday,</p>
+<p><a href="https://www.forbes.com/sites/lanceeliot/2020/04/28/luminaries-battle-in-lincoln-douglas-style-debate-about-the-future-of-self-driving-cars/#35c0455028b6" rel="noopener noreferrer">Luminaries Battle In Lincoln-Douglas Style Debate About The Future Of Self-Driving Cars</a>
+rgb(51, 51,
+255);"&gt;Friday,</p>
+<p><a href="https://www.nytimes.com/article/negative-oil-prices-facts-history.html" rel="noopener noreferrer">What Negative Oil Prices Mean and How the Impact Could Last</a>
+rgb(51, 51,
+255);"&gt;Friday,</p>
+<h3 class="newsletter-article-title" id="article-95"><a href="https://www.forbes.com/sites/richardbishop1/2020/03/24/starsky-robotics-failed-does-that-mean-automated-trucking-is-dead/#51d50d840c84" rel="noopener noreferrer">Starsky Robotics Failed. Does That Mean Automated Trucking Is Dead?</a></h3>
+<p>rgb(51, 51,
+255);"&gt;Friday,
+January 31,
+2020</p>
+<p><a href="https://www.dropbox.com/s/dk1wlzbg6rkpqkd/Smaht%20Pahk%20_%202020%20Hyundai%20Sonata%20_%20Hyundai-85iRQdjCzj0.mp4?dl=0https://www.dropbox.com/s/dk1wlzbg6rkpqkd/Smaht%20Pahk%20_%202020%20Hyundai%20Sonata%20_%20Hyundai-85iRQdjCzj0.mp4?dl=0" rel="noopener noreferrer">2020 Hyundai Sonata stars in Super Bowl ad all about 'Smaht Pah</a><a href="https://www.dropbox.com/s/dk1wlzbg6rkpqkd/Smaht%20Pahk%20_%202020%20Hyundai%20Sonata%20_%20Hyundai-85iRQdjCzj0.mp4?dl=0https://www.dropbox.com/s/dk1wlzbg6rkpqkd/Smaht%20Pahk%20_%202020%20Hyundai%20Sonata%20_%20Hyundai-85iRQdjCzj0.mp4?dl=0" rel="noopener noreferrer">k'</a></p>
+<p>rgb(51, 51,
+255);"&gt;Sunday,
+January 12,</p>
+<p class="newsletter-commentary">Hmmmm... Reflections</p>
+<p>A.
+Kornhauser,
+Jan 12,    </p><p class="newsletter-commentary">Hmmmm...   Self-driving cars are
+hot and the
+OEMs are
+responding.
+I'm about to
+buy a new
+Subaru Outback
+and <a href="https://www.youtube.com/watch?v=OFuMAc8S8HI" rel="noopener noreferrer">EyeSight</a>is
+standard.  It
+is no longer
+just AutoPilot
+or expensive
+options that
+car salesmen
+don't sell.
+Car companies,
+as reflected
+in what is in
+showrooms and
+what was
+promoted at
+CES, have
+realized the
+comfort and
+convenience of
+Self-driving
+technology
+(cars that
+have a lot of
+the
+Safe-driving
+car features
+but also
+enable you to
+take your feet
+off the pedals
+and hands off
+the wheel at
+least for
+short periods
+of time. These
+technologies
+are really
+becoming the
+'chrome and
+fins' that
+sell cars to
+individuals in
+the 2020s.
+The momentum
+is all behind
+that happening
+and there is
+little
+Washington or
+Trenton or
+Princeton
+Council can do
+about it.
+Hopefully part
+of that
+momentum will
+be to make
+these systems
+actually work
+well,
+especially the
+Automated
+Emergency
+Braking
+Systems (MUST
+quit assuming that all stationary objects in the lane
+ahead can be
+passed under and
+consequently
+each is
+disregarded.
+As Tesla is
+finding out,
+sometimes
+those objects
+are parked
+firetrucks.)
+and begin to
+put hard
+limits on
+over-speeding,
+tailgating and
+use while
+driver is
+impaired.
+Self-driving
+cars are
+unfortunately
+going to lead
+to substantial
+urban sprawl,
+increased VMT,
+increased
+congestion and
+do nothing to
+help the
+energy and
+pollution
+challenges of
+our addiction
+to the
+personal
+automobile.
+Only
+'Waymo-style
+Driverless'
+(autonomousTaxis,
+(aTaxis))
+tuned to
+entice
+ride-sharing
+can
+potentially
+stem the tide
+of ever more
+personal car
+ownership and
+ever expanding
+urban sprawl.
+Alain</p>
+<p>rgb(51, 51,
+255);"&gt;Monday,
+January 6,
+2020</p>
+<p>A.
+Kornhauser,
+Jan. 6,    </p><p class="newsletter-commentary">Hmmmm...   I'm in rehab and hope
+to go home on
+Wednesday
+morning. Thank
+you to so many
+of you for all
+the good
+wishes and
+prayers.  They
+each helped.
+I'm looking to
+making a full
+recovery.
+Remember, if
+you don't feel
+well, get
+evaluated by a
+doctor.  I was
+totally
+clueless about
+what hit me
+from out of
+nowhere.
+Alain</p>
+<p>rgb(51, 51,
+255);"&gt;Saturday,
+November 23,
+2019
+<a href="https://www.miamiherald.com/news/business/article237625484.html" rel="noopener noreferrer">Self-driving car capital? One senator thinks it can be Florida</a>
+rgb(51, 51,
+255);"&gt;</p>
+<p>rgb(51, 51,
+255);"&gt;Saturday,
+September 28,
+2019
+<a href="https://planetprinceton.com/2019/09/22/public-forum-will-explore-possibility-of-transit-on-demand-in-princeton/" rel="noopener noreferrer">Public forum will explore possibility of transit on demand in Princeton</a></p>
+<p>rgb(51, 51,
+255);"&gt;Thursday,
+November 22,</p>
+<h3 class="newsletter-article-title" id="article-96"><a href="https://www.dropbox.com/s/rbrei4tuxbh7fls/SocietyOfActuaries_market-framework-automated-vehicle2018.pdf?dl=0" rel="noopener noreferrer">Market Framework and Outlook for Automated Vehicle Systems</a></h3>
+<p>October 24,</p>
+<h3 class="newsletter-article-title" id="new-jersey-pending-legislation-re-autonomous-vehicles"><a href="https://www.princeton.edu/%7Ealaink/CARTS/AutonomousVehiclePendingLegislationNJ_Oct2018.docx" rel="noopener noreferrer">New Jersey Pending Legislation re: Autonomous Vehicles</a></h3>
+<p>Oct 16, <a href="https://www.njleg.state.nj.us/2018/Bills/A5000/4573_I1.PDF" rel="noopener noreferrer">Establishes fully autonomous vehicle pilot program A4573</a> Sponsors:
+Zwicker (D16);
+Benson (D14)</p>
+<p>Oct 16, <a href="https://legiscan.com/NJ/text/AJR164/2018" rel="noopener noreferrer">Establishes</a><a href="https://legiscan.com/NJ/text/AJR164/2018" rel="noopener noreferrer">New Jersey Advanced Autonomous Vehicle Task Force AJR164</a>Sponsors:
+Benson (D14);
+Zwicker (D16);
+Lampitt (D6)</p>
+<p>Oct 16, <a href="https://www.njleg.state.nj.us/2018/Bills/A5000/4541_I1.PDF" rel="noopener noreferrer">Directs MVC to establish driver's license endorsement for autonomous vehicles A4541</a> Sponsors:
+Zwicker (D16);
+Benson (D14);
+Lampitt
+(D6)..."  <a href="https://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/PDFs/NVIDIA-Self-Driving-Safety-Report-2018.pdf" rel="noopener noreferrer">Read more</a></p><p class="newsletter-commentary">Hmmmm.... Things are beginning to move in New
+Jersey.  Alain</p>
+<h3 class="newsletter-article-title" id="article-98"><a href="https://www.princeton.edu/%7Ealaink/CARTS/NJTestimonyAV_Assembly_102218Final.pdf" rel="noopener noreferrer">Testimony of Alain Kornhauser, Assembly Science, Innovation and Technology - Monday, October 22, 2018 - 10:00:00 AM</a></h3>
+<p><a href="https://www.njleg.state.nj.us/media/mp.asp?M=A/2018/AST/1022-1000AM-J0-1.m4a&amp;S=2018" rel="noopener noreferrer">A</a><a href="https://www.njleg.state.nj.us/media/mp.asp?M=A/2018/AST/1022-1000AM-J0-1.m4a&amp;S=2018" rel="noopener noreferrer">udio Recording of Assembly Science, Innovation and Technology - Monday, October 22, 2018 - 10:00:00 AM</a></p>
+<h3 class="newsletter-article-title" id="article-99"><a href="http://docs.cpuc.ca.gov/PublishedDocs/Published/G000/M215/K467/215467801.PDF" rel="noopener noreferrer">CPUC AUTHORIZES PASSENGER CARRIERS TO PROVIDE FREE TEST RIDES IN AUTONOMOUS VEHICLES WITH VALID CPUC AND DMV PERMITS</a></h3>
+<p>PRELIMINARY
+REPORT:
+HIGHWAY:
+HWY18MH010 (Uber/Herzberg
+Crash)
 May
-                                                          24, "About
-                                                          9:58 p.m., on
-                                                          Sunday, March
-                                                          18, 2018, an
-                                                          Uber
-                                                          Technologies,
-                                                          Inc. test
-                                                          vehicle, based
-                                                          on a modified
-                                                          2017 Volvo
-                                                          XC90 and
-                                                          operating with
-                                                          a self-driving
-                                                          system in
-                                                          computer
-                                                          control mode,
-                                                          struck a
-                                                          pedestrian on
-                                                          northbound
-                                                          Mill Avenue,
-                                                          in Tempe,
-                                                          Maricopa
-                                                          County,
-                                                          Arizona.
-
-...The
-                                                          vehicle was
-                                                          factory
-                                                          equipped with
-                                                          several
-                                                          advanced
-                                                          driver
-                                                          assistance
-                                                          functions by
-                                                          Volvo Cars,
-                                                          the original
-                                                          manufacturer.
-                                                          The systems
-                                                          included a
-                                                          collision
-                                                          avoidance
-                                                          function with
-                                                          automatic
-                                                          emergency
-
-                                                          braking, known
-                                                          as City
-                                                          Safety, as
-                                                          well as
-                                                          functions for
-                                                          detecting
-                                                          driver
-                                                          alertness and
-                                                          road sign
-                                                          information.
-                                                          All these
-                                                          Volvo
-                                                          functions are
-                                                          disabled when
-                                                          the test
-                                                          vehicle is
-                                                          operated in
-                                                          computer
-                                                          control..."[Read more](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/PDFs/NTSBuberPreliminaryMay2018.pdf) Hmmmm.... Uber must believe
-                                                          that its
-                                                          systems are
-                                                          better at
-                                                          avoiding
-                                                          Collisions and
-                                                          Automated
-                                                          Emergency
-                                                          Braking than
-                                                          Volvo's.  At least this gets Volvo
-                                                          "off the
-                                                          hook".
-
-"...According to data obtained from the self-driving
-                                                          system, the
-                                                          system first
-                                                          registered
-                                                          radar and
-                                                          LIDAR
-                                                          observations
-                                                          of the
-                                                          pedestrian
-                                                          about 6
-                                                          seconds before
-                                                          impact, when
-                                                          the vehicle
-                                                          was traveling
-                                                          at 43 mph..." (=
-                                                          63
-                                                          feet/second)
-                                                          So the system
-                                                          started
-                                                          "seeing an
-                                                          obstacle when
-                                                          it was 63 x 6
-                                                          = 378 feet
-                                                          away... more
-                                                          than a
-                                                          football
-                                                          field,
-                                                          including end
-                                                          zones!
-
-"...As the vehicle
-                                                          and pedestrian
-                                                          paths
-                                                          converged, the
-                                                          self-driving
-                                                          system
-                                                          software
-                                                          classified the
-                                                          pedestrian as
-                                                          an unknown
-                                                          object, as a
-                                                          vehicle, and
-                                                          then as a
-                                                          bicycle with
-                                                          varying
-                                                          expectations
-                                                          of future
-                                                          travel
-                                                          path..." (NTSB: Please tell us
-                                                          precisely when
-                                                          it classified
-                                                          this "object'
-                                                          as a vehicle and
-                                                          be explicit
-                                                          about the
-                                                          expected "future
-                                                          travel
-                                                          paths."  Forget the path, please just tell us the precise
-                                                          velocity
-                                                          vector that
-                                                          Uber's system
-                                                          attached to
-                                                          the "object",
-                                                          then the
-                                                          "vehicle".
-                                                          Why didn't the
-                                                          the Uber
-                                                          system
-                                                          instruct the
-                                                          Volvo to begin
-                                                          to slow down
-                                                          (or speed up)
-                                                          to avoid a
-                                                          collision?  If
-                                                          these paths
-                                                          (or velocity
-                                                          vectors) were
-                                                          not accurate,
-                                                          then why
-                                                          weren't they
-                                                          accurate?  Why
-                                                          was the object
-                                                          classified as
-                                                          a
-                                                          "Vehicle" ??  When did it finally classify the object as a "bicycle"?  Why did
-                                                          it change
-                                                          classifications?
-                                                          How often was
-                                                          the
-                                                          classification
-                                                          of this object
-                                                          done.  Please
-                                                          divulge the
-                                                          time and the
-                                                          outcome of
-                                                          each
-                                                          classification
-                                                          of this
-                                                          object.
-                                                          In the tests
-                                                          that Uber has
-                                                          done, how
-                                                          often has the
-                                                          system
-                                                          mis-classified
-                                                          an object as a"pedestrian"when the object was
-                                                          actually an
-                                                          overpass, or
-                                                          an overhead
-                                                          sign or
-                                                          overhead
-                                                          branches/leaves
-                                                          that the car
-                                                          could safely
-                                                          pass under, or
-                                                          was nothing at
-                                                          all??
-                                                          (Basically,
-                                                          what are the
-                                                          false alarm
-                                                          characteristics
-                                                          of Uber's
-                                                          Self-driving
-                                                          sensor/software
-                                                          system as a
-                                                          function of
-                                                          vehicle speed
-                                                          and
-                                                          time-of-day?)
-
-"...At 1.3 seconds before impact, (impact speed was 39mph = 57.2 ft/sec) the
-                                                          self-driving
-                                                          system
-                                                          determined
-                                                          that an
-                                                          emergency
-                                                          braking
-                                                          maneuver was
-                                                          needed to
-                                                          mitigate a
-                                                          collision" (1.3
-                                                          x 57.2 = 74.4
-                                                          ft. which is
-                                                          about equal to
-                                                          the [braking distance](http://www.brakingdistances.com/39Mph). So
-                                                          it still could
-                                                          have stopped
-                                                          short.
-
-"...According to Uber, emergency braking maneuvers are not
-                                                          enabled while
-                                                          the vehicle is
-                                                          under computer
-                                                          control, to
-                                                          reduce (eradicate??) the potential for erratic
-                                                          vehicle
-                                                          behavior.
-                                                          ..." NTSB:  Please describe/define potential  and erratic vehicle behavior   Also
-                                                          please uncover
-                                                          and divulge
-                                                          the design
-                                                          & decision
-                                                          process that
-                                                          Uber went
-                                                          through to
-                                                          decide that
-                                                          this risk
-                                                          (disabling the
-                                                          AEB) was worth
-                                                          the reward of
-                                                          eradicating " "erratic vehicle behavior".  This is fundamentally BAD design.  If the Uber
-                                                          system's false
-                                                          alarm rate is
-                                                          so large that
-                                                          the best way
-                                                          to deal with
-                                                          false alarms
-                                                          is to turn off
-                                                          the AEB, then
-                                                          the system
-                                                          should never
-                                                          have been
-                                                          permitted on
-                                                          public
-                                                          roadways.
-
-"...The vehicle operator is
-                                                          relied on to
-                                                          intervene and
-                                                          take action. " Wow!
-                                                          If Uber's
-                                                          system
-                                                          fundamentally
-                                                          relies on a
-                                                          human to
-                                                          intervene,
-                                                          then Uber is
-                                                          nowhere near
-                                                          creating a
-                                                          Driverless
-                                                          vehicle.
-                                                          Without its
-                                                          own Driverless
-                                                          vehicle Uber
-                                                          is past "Peak
-                                                          valuation".
-
-"...The system is not designed to alert the
-                                                          operator. " That
-                                                          may be the
-                                                          only good part
-                                                          of Uber's
-                                                          design.  In a
-                                                          Driverless
-                                                          vehicle, there
-                                                          is no one to
-                                                          warn, so don't
-                                                          waste your
-                                                          time.  If it
-                                                          is important
-                                                          enough to
-                                                          warn, then it
-                                                          is important
-                                                          enough for the
-                                                          automated
-                                                          system to
-                                                          start
-                                                          initiating
-                                                          things to do
-                                                          something
-                                                          about it.
-                                                          Plus, the
-                                                          Driver may not
-                                                          know what to
-                                                          do anyway.
-                                                          This is pretty
-                                                          much as I
-                                                          stated in [PodCast of SmartDrivingCar](https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-30),
-                                                          10,  2018
-  [Don't Worry, Driverless Cars Are Learning From Grand Theft Auto](https://www.bloomberg.com/news/articles/2017-04-17/don-t-worry-driverless-cars-are-learning-from-grand-theft-auto)
-
-### [Extracting Cognition out of Images for the Purpose of Autonomous Driving](http://orfe.princeton.edu/%7Ealaink/Theses/chenyiPhDfinal_ExtractingCognitionOutOfImagesForThePurposeOfAutonomousDriving.pdf)
-
-[announce historic commitment of 20 automakers to make automatic emergency braking standard on new vehicles](http://www.nhtsa.gov/About+NHTSA/Press+Releases/nhtsa-iihs-commitment-on-aeb-03172016)
-
-Sunday,
-                                                          December 19,
-                                                          2015
-[Adam Jonas' View on Autonomous Cars](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Videos/Adam%20Jones%20-%20Shared%20Autonomy%20-%20Morgan%20Stanley.mp4)
+24, "About
+9:58 p.m., on
+Sunday, March
+18, 2018, an
+Uber
+Technologies,
+Inc. test
+vehicle, based
+on a modified
+2017 Volvo
+XC90 and
+operating with
+a self-driving
+system in
+computer
+control mode,
+struck a
+pedestrian on
+northbound
+Mill Avenue,
+in Tempe,
+Maricopa
+County,
+Arizona.</p>
+<p>...The
+vehicle was
+factory
+equipped with
+several
+advanced
+driver
+assistance
+functions by
+Volvo Cars,
+the original
+manufacturer.
+The systems
+included a
+collision
+avoidance
+function with
+automatic
+emergency</p>
+<p>braking, known
+as City
+Safety, as
+well as
+functions for
+detecting
+driver
+alertness and
+road sign
+information.
+All these
+Volvo
+functions are
+disabled when
+the test
+vehicle is
+operated in
+computer
+control..."<a href="http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/PDFs/NTSBuberPreliminaryMay2018.pdf" rel="noopener noreferrer">Read more</a> </p><p class="newsletter-commentary">Hmmmm.... Uber must believe
+that its
+systems are
+better at
+avoiding
+Collisions and
+Automated
+Emergency
+Braking than
+Volvo's.  At least this gets Volvo
+"off the
+hook".</p>
+<p class="newsletter-commentary">"...According to data obtained from the self-driving
+system, the
+system first
+registered
+radar and
+LIDAR
+observations
+of the
+pedestrian
+about 6
+seconds before
+impact, when
+the vehicle
+was traveling
+at 43 mph..." (=
+63
+feet/second)
+So the system
+started
+"seeing an
+obstacle when
+it was 63 x 6
+= 378 feet
+away... more
+than a
+football
+field,
+including end
+zones!</p>
+<p class="newsletter-commentary">"...As the vehicle
+and pedestrian
+paths
+converged, the
+self-driving
+system
+software
+classified the
+pedestrian as
+an unknown
+object, as a
+vehicle, and
+then as a
+bicycle with
+varying
+expectations
+of future
+travel
+path..." (NTSB: Please tell us
+precisely when
+it classified
+this "object'
+as a vehicle and
+be explicit
+about the
+expected "future
+travel
+paths."  Forget the path, please just tell us the precise
+velocity
+vector that
+Uber's system
+attached to
+the "object",
+then the
+"vehicle".
+Why didn't the
+the Uber
+system
+instruct the
+Volvo to begin
+to slow down
+(or speed up)
+to avoid a
+collision?  If
+these paths
+(or velocity
+vectors) were
+not accurate,
+then why
+weren't they
+accurate?  Why
+was the object
+classified as
+a
+"Vehicle" ??  When did it finally classify the object as a "bicycle"?  Why did
+it change
+classifications?
+How often was
+the
+classification
+of this object
+done.  Please
+divulge the
+time and the
+outcome of
+each
+classification
+of this
+object.
+In the tests
+that Uber has
+done, how
+often has the
+system
+mis-classified
+an object as a"pedestrian"when the object was
+actually an
+overpass, or
+an overhead
+sign or
+overhead
+branches/leaves
+that the car
+could safely
+pass under, or
+was nothing at
+all??
+(Basically,
+what are the
+false alarm
+characteristics
+of Uber's
+Self-driving
+sensor/software
+system as a
+function of
+vehicle speed
+and
+time-of-day?)</p>
+<p class="newsletter-commentary">"...At 1.3 seconds before impact, (impact speed was 39mph = 57.2 ft/sec) the
+self-driving
+system
+determined
+that an
+emergency
+braking
+maneuver was
+needed to
+mitigate a
+collision" (1.3
+x 57.2 = 74.4
+ft. which is
+about equal to
+the <a href="http://www.brakingdistances.com/39Mph" rel="noopener noreferrer">braking distance</a>. So
+it still could
+have stopped
+short.</p>
+<p class="newsletter-commentary">"...According to Uber, emergency braking maneuvers are not
+enabled while
+the vehicle is
+under computer
+control, to
+reduce (eradicate??) the potential for erratic
+vehicle
+behavior.
+..." NTSB:  Please describe/define potential  and erratic vehicle behavior   Also
+please uncover
+and divulge
+the design
+&amp; decision
+process that
+Uber went
+through to
+decide that
+this risk
+(disabling the
+AEB) was worth
+the reward of
+eradicating " "erratic vehicle behavior".  This is fundamentally BAD design.  If the Uber
+system's false
+alarm rate is
+so large that
+the best way
+to deal with
+false alarms
+is to turn off
+the AEB, then
+the system
+should never
+have been
+permitted on
+public
+roadways.</p>
+<p class="newsletter-commentary">"...The vehicle operator is
+relied on to
+intervene and
+take action. " Wow!
+If Uber's
+system
+fundamentally
+relies on a
+human to
+intervene,
+then Uber is
+nowhere near
+creating a
+Driverless
+vehicle.
+Without its
+own Driverless
+vehicle Uber
+is past "Peak
+valuation".</p>
+<p class="newsletter-commentary">"...The system is not designed to alert the
+operator. " That
+may be the
+only good part
+of Uber's
+design.  In a
+Driverless
+vehicle, there
+is no one to
+warn, so don't
+waste your
+time.  If it
+is important
+enough to
+warn, then it
+is important
+enough for the
+automated
+system to
+start
+initiating
+things to do
+something
+about it.
+Plus, the
+Driver may not
+know what to
+do anyway.
+This is pretty
+much as I
+stated in <a href="https://soundcloud.com/smartdrivingcar/smart-driving-cars-episode-30" rel="noopener noreferrer">PodCast of SmartDrivingCar</a>,
+10,  2018
+  <a href="https://www.bloomberg.com/news/articles/2017-04-17/don-t-worry-driverless-cars-are-learning-from-grand-theft-auto" rel="noopener noreferrer">Don't Worry, Driverless Cars Are Learning From Grand Theft Auto</a></p>
+<h3 class="newsletter-article-title" id="extracting-cognition-out-of-images-for-the-purpose-of-autonomous-driving"><a href="http://orfe.princeton.edu/%7Ealaink/Theses/chenyiPhDfinal_ExtractingCognitionOutOfImagesForThePurposeOfAutonomousDriving.pdf" rel="noopener noreferrer">Extracting Cognition out of Images for the Purpose of Autonomous Driving</a></h3>
+<h3 class="newsletter-article-title" id="article-101"><a href="http://www.nhtsa.gov/About+NHTSA/Press+Releases/nhtsa-iihs-commitment-on-aeb-03172016" rel="noopener noreferrer">announce historic commitment of 20 automakers to make automatic emergency braking standard on new vehicles</a></h3>
+<p class="newsletter-commentary">Sunday,
+December 19,
+2015
+<a href="http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Videos/Adam%20Jones%20-%20Shared%20Autonomy%20-%20Morgan%20Stanley.mp4" rel="noopener noreferrer">Adam Jonas' View on Autonomous Cars</a>
 Video
-                                                          similar to
-                                                          part of Adam's
-                                                          Luncheon talk
-                                                          @ 2015 Florida
-                                                          Automated
-                                                          Vehicle
-                                                          Symposium on
-                                                          Dec 1.  [Hmmm ... Watch Video](http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Videos/Adam%20Jones%20-%20Shared%20Autonomy%20-%20Morgan%20Stanley.mp4) especially
-                                                          at the 13:12
-                                                          mark.
-                                                          Compelling;
-                                                          especially
-                                                          after the 60
-                                                          Minutes
-                                                          segment
-                                                          above!  Also
-                                                          see his [TipRanks](https://www.tipranks.com/analysts/adam-jonas).
-                                                          Alain
-
---
-
- Alain L.
-                                Kornhauser, PhD
-
-                              Professor, Operations Research &
-                              Financial Engineering
-
-                              Director, Transportation Program
-
-                              Faculty Chair, Princeton Autonomous
-                              Vehicle Engineering
-
- 229 Sherrerd Hall
-
-                                      Princeton University
-
-                                      Princeton, NJ
-
-                                      609-258-4657 (o)
-
-                                      609-980-1427 (c)
-
-***************************************************************************************************************
+similar to
+part of Adam's
+Luncheon talk
+@ 2015 Florida
+Automated
+Vehicle
+Symposium on
+Dec 1.  <a href="http://orfe.princeton.edu/%7Ealaink/SmartDrivingCars/Videos/Adam%20Jones%20-%20Shared%20Autonomy%20-%20Morgan%20Stanley.mp4" rel="noopener noreferrer">Hmmm ... Watch Video</a> especially
+at the 13:12
+mark.
+Compelling;
+especially
+after the 60
+Minutes
+segment
+above!  Also
+see his <a href="https://www.tipranks.com/analysts/adam-jonas" rel="noopener noreferrer">TipRanks</a>.
+Alain</p>
+<p>--</p>
+<p>Alain L.
+Kornhauser, PhD</p>
+<p>Professor, Operations Research &amp;
+Financial Engineering</p>
+<p>Director, Transportation Program</p>
+<p>Faculty Chair, Princeton Autonomous
+Vehicle Engineering</p>
+<p>229 Sherrerd Hall</p>
+<p>Princeton University</p>
+<p>Princeton, NJ</p>
+<p>609-258-4657 (o)</p>
+<p>609-980-1427 (c)</p>
+<hr/>
+</div>

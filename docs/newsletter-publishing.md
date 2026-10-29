@@ -165,3 +165,29 @@ Renderer version 2 preserves the professor's wording, punctuation, quotations, c
 The latest issue was reparsed from the original EML. A comparison against the previously published edition found no removed non-whitespace prose characters. Source header/cross-reference text that old cleanup had erased was restored, including “It's been a while.” Desktop and 390-pixel phone layouts were checked in a real browser with no horizontal page overflow. Tests cover source text preservation, heading recognition, emphasis, inline resets, safe image alternatives, empty linked-image fallbacks, and repeated rendering stability.
 
 Images still use alternative text or a visible destination link; attached images and tracking pixels are not fetched. Malformed date-style self-links are unwrapped while their date text remains. Image attachment extraction remains the separate, size/type-validated enhancement described above.
+
+## Archive presentation migration
+
+All 366 newsletter sources were traversed. The 365 historical Markdown entries now use the current issue's reading typography, blue article headings, paragraph rhythm, and responsive content width. The current HTML email edition remains the reference. Long issues have a keyboard-accessible, collapsible contents list. Reader titles remove filename separators and redundant date suffixes while retaining the original title, date, display name, and permalink metadata.
+
+The migration normalizes 313,864 lines of inherited email indentation, which previously turned ordinary prose into narrow columns or monospace code blocks. It unwraps 468 Outlook link wrappers without fetching their destinations. Explicit `Hmmmm…` editorial markers separate commentary from quoted reporting and use the current issue's controlled red accent; continuation paragraphs remain commentary until the author signs off or a new article begins. The older Markdown no longer contains the original Word color information, so this is a structural cue rather than a reconstruction of lost formatting. Existing emphasis, paragraphs, lists, links, and the archive's existing poster image are retained. Decorative asterisk separators become horizontal rules.
+
+Every transformed issue stores a fingerprint of its rendered prose. Tests check every entry separately. The migration verifies that formatting changes retain the prose fingerprint and link order; the compiled-site check verifies the fingerprint again after Jekyll rendering. Existing heading anchors are preserved from the previous build. Two legacy permalinks containing consecutive dots need output-path repair because Jekyll otherwise splits their directories; the deployment now repairs these paths before checking internal links and uploading Pages.
+
+Run the migration against a previously built site, with the default read-only pass first:
+
+```zsh
+.venv/bin/python scripts/restyle_archive.py --reference-site build/presentation-before
+.venv/bin/python scripts/restyle_archive.py --reference-site build/presentation-before --write
+docker-compose run --build --rm tests
+```
+
+After a Jekyll build, validate every compiled issue and preserve its canonical route:
+
+```zsh
+.venv/bin/python scripts/restyle_archive.py --check-site _site --repair-routes
+```
+
+The formatter is idempotent: running it again leaves the migrated entries unchanged. `build/` is excluded from Jekyll output and rejected by the private-file deployment guard. Temporary comparison builds, screenshots, raw mail, and test reports remain outside the committed site sources.
+
+Acceptance covered all 366 compiled issues and all 366 browser pages at both 1440-pixel desktop and 390-pixel phone widths. Every historical issue had a measurable typography or section-structure change, and none overflowed the page horizontally. Original front-matter fields and previously published heading anchors were retained. The 628-test container suite includes a separate presentation and prose-integrity check for each issue.

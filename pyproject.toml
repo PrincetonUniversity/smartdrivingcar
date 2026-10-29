@@ -1,14 +1,14 @@
 [tool.ruff]
 # Existing import/backfill utilities retain their established style. New security
 # and publishing code has full lint/format checks without an unrelated refactor.
-include = ["azure/functions/connector_handler.py", "scripts/connector_batch.py", "scripts/azure_connector_admin.py", "tests/test_connector_pipeline.py", "tests/test_connector_templates.py", "scripts/publish_newsletter.py", "scripts/poll_mailbox.py", "scripts/pipeline_http.py", "scripts/pipeline_observe.py", "scripts/verify_publication.py", "scripts/check_site.py", "scripts/import_pending.py", "scripts/commission_mailbox.py", "tests/test_publish_pipeline.py", "tests/test_pipeline_workflows.py", "tests/test_pipeline_admin.py", "tests/test_poll_mailbox.py", "tests/test_pipeline_observe.py"]
+include = ["scripts/restyle_archive.py", "tests/test_archive_presentation.py", "azure/functions/connector_handler.py", "scripts/connector_batch.py", "scripts/azure_connector_admin.py", "tests/test_connector_pipeline.py", "tests/test_connector_templates.py", "scripts/publish_newsletter.py", "scripts/poll_mailbox.py", "scripts/pipeline_http.py", "scripts/pipeline_observe.py", "scripts/verify_publication.py", "scripts/check_site.py", "scripts/import_pending.py", "scripts/commission_mailbox.py", "tests/test_publish_pipeline.py", "tests/test_pipeline_workflows.py", "tests/test_pipeline_admin.py", "tests/test_poll_mailbox.py", "tests/test_pipeline_observe.py"]
 line-length = 100
 
 [tool.ruff.lint]
 select = ["E4", "E7", "E9", "F", "I"]
 
 [tool.mypy]
-files = ["azure/functions/connector_handler.py", "scripts/connector_batch.py", "scripts/azure_connector_admin.py", "scripts/publish_newsletter.py", "scripts/poll_mailbox.py", "scripts/pipeline_http.py", "scripts/pipeline_observe.py", "scripts/verify_publication.py", "scripts/check_site.py", "scripts/import_pending.py", "scripts/commission_mailbox.py"]
+files = ["scripts/restyle_archive.py", "azure/functions/connector_handler.py", "scripts/connector_batch.py", "scripts/azure_connector_admin.py", "scripts/publish_newsletter.py", "scripts/poll_mailbox.py", "scripts/pipeline_http.py", "scripts/pipeline_observe.py", "scripts/verify_publication.py", "scripts/check_site.py", "scripts/import_pending.py", "scripts/commission_mailbox.py"]
 python_version = "3.13"
 check_untyped_defs = true
 disallow_untyped_defs = true
