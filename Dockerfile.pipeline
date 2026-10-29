@@ -1,0 +1,23 @@
+FROM python:3.13.9-slim-bookworm@sha256:b685a4fa58bb19d1814d78a1ec0f0208f351452724f78b20212c984d6e124a34 AS publisher
+WORKDIR /app
+RUN python -m venv /app/.venv
+ENV PATH="/app/.venv/bin:$PATH" PYTHONDONTWRITEBYTECODE=1 PYTHONUNBUFFERED=1
+COPY requirements.lock ./
+RUN python -m pip install --no-cache-dir -r requirements.lock
+COPY scripts/ scripts/
+COPY config/ config/
+RUN useradd --uid 10001 --create-home publisher && chown -R publisher:publisher /app
+USER publisher
+# Supply a short-lived GRAPH_ACCESS_TOKEN and bind-mount a working copy when running locally.
+CMD ["python", "scripts/poll_mailbox.py", "--dry-run"]
+
+FROM publisher AS tests
+USER root
+RUN apt-get update && apt-get install -y --no-install-recommends zsh \
+    && rm -rf /var/lib/apt/lists/*
+COPY requirements-dev.lock ./
+RUN python -m pip install --no-cache-dir -r requirements-dev.lock
+COPY . .
+RUN chown -R publisher:publisher /app
+USER publisher
+CMD ["bash", "pipeline/test.sh"]

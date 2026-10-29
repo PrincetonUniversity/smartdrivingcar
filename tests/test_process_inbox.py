@@ -91,7 +91,8 @@ Content-Type: text/html; charset="utf-8"
                 os.chdir(tmpdir)
                 results = process_inbox(config)
                 # Should process successfully
-                assert results['processed'] == 1 or results['failed'] == 1
+                assert results['processed'] == 1
+                assert results['failed'] == 0
             finally:
                 os.chdir(original_cwd)
 
@@ -106,7 +107,7 @@ class TestProcessEmlFile:
             config = {'logging': {'enabled': False}}
             # Should handle gracefully without crashing
             result = process_eml_file(temp_path, config)
-            assert isinstance(result, bool)
+            assert result is False
         finally:
             os.unlink(temp_path)
 

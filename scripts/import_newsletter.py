@@ -55,18 +55,12 @@ def html_to_markdown(html: str) -> str:
 def extract_body_from_eml(path: str) -> str:
     with open(path, 'rb') as f:
         msg = BytesParser(policy=policy.default).parse(f)
-    # Prefer HTML part
-    if msg.is_multipart():
-        for part in msg.walk():
-            ctype = part.get_content_type()
-            if ctype == 'text/html':
-                return part.get_content()
-        for part in msg.walk():
-            if part.get_content_type() == 'text/plain':
-                return part.get_content()
-    else:
-        return msg.get_content()
-    return ''
+    if not msg.keys():
+        raise ValueError("Input is not an email message")
+    body = msg.get_body(preferencelist=('html', 'plain'))
+    if body is None:
+        raise ValueError("Email has no inline text or HTML body")
+    return body.get_content()
 
 
 def extract_first_date(text):

@@ -1,0 +1,15 @@
+services:
+  tests:
+    build:
+      context: .
+      dockerfile: Dockerfile.pipeline
+      target: tests
+    network_mode: none
+    read_only: true
+    tmpfs:
+      - /tmp
+    environment:
+      PYTHONDONTWRITEBYTECODE: '1'
+      PYTEST_ADDOPTS: '-p no:cacheprovider'
+      MYPY_CACHE_DIR: /tmp/mypy
+      RUFF_CACHE_DIR: /tmp/ruff
