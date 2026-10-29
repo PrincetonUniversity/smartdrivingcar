@@ -1,0 +1,153 @@
+name: Receive Outlook connector batch
+
+on:
+  repository_dispatch:
+    types: [newsletter-connector-test, newsletter-connector-batch]
+
+concurrency:
+  group: ${{ github.event.action == 'newsletter-connector-test' && 'newsletter-connector-tests' || 'pages-deploy' }}
+  cancel-in-progress: false
+
+permissions:
+  contents: read
+
+jobs:
+  test:
+    if: github.event.action == 'newsletter-connector-test'
+    runs-on: ubuntu-24.04
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@d23441a48e516b6c34aea4fa41551a30e30af803 # v6
+        with:
+          persist-credentials: false
+      - uses: actions/setup-python@ece7cb06caefa5fff74198d8649806c4678c61a1 # v6
+        with:
+          python-version: '3.13.9'
+      - run: |
+          python -m venv .venv
+          .venv/bin/python -m pip install -r requirements.lock
+      - name: Validate test event in an isolated preview directory
+        run: .venv/bin/python scripts/connector_batch.py --mode test --preview "$RUNNER_TEMP/newsletter-preview"
+      - uses: ruby/setup-ruby@7f797815d8adceb1c412e7abefdd1ab4abc47a5f # v1
+        with:
+          ruby-version: '3.3.10'
+          bundler-cache: true
+      - name: Build isolated preview without publishing
+        env:
+          JEKYLL_ENV: production
+        run: |
+          bundle exec jekyll build --source "$RUNNER_TEMP/newsletter-preview" --destination "$RUNNER_TEMP/newsletter-preview-build" --config "$RUNNER_TEMP/newsletter-preview/_config.yml,$RUNNER_TEMP/newsletter-preview/_config_prod.yml"
+          .venv/bin/python - <<'PY'
+          import json, os
+          from pathlib import Path
+          from bs4 import BeautifulSoup
+          output = Path(os.environ['RUNNER_TEMP']) / 'newsletter-preview-build'
+          report = json.loads(Path('pipeline-result.json').read_text())
+          assert report['validated'] > 0, 'Copy a newsletter into SDC Testing to complete the mail path test'
+          pages = [path for path in output.rglob('index.html') if BeautifulSoup(path.read_text(), 'html.parser').find('div', class_='email-newsletter')]
+          assert len(pages) > 0, 'No rendered newsletter found in preview'
+          with open(os.environ['GITHUB_STEP_SUMMARY'], 'a') as stream:
+              stream.write('\n**PASS: isolated newsletter preview built; no commit or Pages deployment occurred.**\n')
+          print('PASS: safe newsletter preview built without publication')
+          PY
+      # Deliberately no contents:write, artifact upload, commit, or Pages deployment.
+  receive:
+    if: github.event.action == 'newsletter-connector-batch' && vars.NEWSLETTER_CONNECTOR_ENABLED == 'true'
+    runs-on: ubuntu-24.04
+    timeout-minutes: 10
+    permissions:
+      contents: write
+    outputs:
+      revision: ${{ steps.prepare.outputs.revision }}
+      issues: ${{ steps.prepare.outputs.issues }}
+      report: ${{ steps.prepare.outputs.report }}
+      deploy: ${{ steps.prepare.outputs.deploy }}
+    steps:
+      - uses: actions/checkout@d23441a48e516b6c34aea4fa41551a30e30af803 # v6
+        with:
+          ref: main
+      - uses: actions/setup-python@ece7cb06caefa5fff74198d8649806c4678c61a1 # v6
+        with:
+          python-version: '3.13.9'
+      - run: |
+          python -m venv .venv
+          .venv/bin/python -m pip install -r requirements.lock
+      - name: Validate production batch
+        run: .venv/bin/python scripts/connector_batch.py --mode production
+      - name: Commit and determine whether publication needs repair
+        id: prepare
+        env:
+          NEWSLETTER_PUBLIC_URL: ${{ vars.NEWSLETTER_PUBLIC_URL }}
+        run: |
+          set -euo pipefail
+          git config user.name 'github-actions[bot]'
+          git config user.email 'github-actions[bot]@users.noreply.github.com'
+          git add -- _newsletters/ newsletter/
+          if ! git diff --staged --quiet; then
+            git commit -m 'Publish reconciled Outlook newsletters'
+            git push origin HEAD:main
+          fi
+          echo "revision=$(git rev-parse HEAD)" >> "$GITHUB_OUTPUT"
+          .venv/bin/python - <<'PY'
+          import json, os
+          from pathlib import Path
+          report = json.loads(Path('pipeline-result.json').read_text())
+          with open(os.environ['GITHUB_OUTPUT'], 'a') as stream:
+              stream.write('issues=' + json.dumps(report['issues']) + '\n')
+              stream.write('report=' + json.dumps(report) + '\n')
+          PY
+          if .venv/bin/python scripts/verify_publication.py; then
+            echo 'deploy=false' >> "$GITHUB_OUTPUT"
+          else
+            echo 'deploy=true' >> "$GITHUB_OUTPUT"
+          fi
+  publish:
+    needs: receive
+    if: needs.receive.outputs.deploy == 'true'
+    permissions:
+      contents: read
+      pages: write
+      id-token: write
+    uses: ./.github/workflows/deploy-site.yml
+    with:
+      revision: ${{ needs.receive.outputs.revision }}
+      issues: ${{ needs.receive.outputs.issues }}
+  observe:
+    needs: [receive, publish]
+    if: always() && github.event.action == 'newsletter-connector-batch' && vars.NEWSLETTER_CONNECTOR_ENABLED == 'true'
+    runs-on: ubuntu-24.04
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@d23441a48e516b6c34aea4fa41551a30e30af803 # v6
+        with:
+          persist-credentials: false
+      - uses: actions/setup-python@ece7cb06caefa5fff74198d8649806c4678c61a1 # v6
+        with:
+          python-version: '3.13.9'
+      - run: |
+          python -m venv .venv
+          .venv/bin/python -m pip install -r requirements.lock
+      - name: Report verified publication status
+        env:
+          RECEIVE_RESULT: ${{ needs.receive.result }}
+          PUBLISH_RESULT: ${{ needs.publish.result }}
+          REPORT_JSON: ${{ needs.receive.outputs.report || '{}' }}
+          REPAIRED: ${{ needs.receive.outputs.deploy }}
+          HEALTHCHECKS_PING_URL: ${{ secrets.HEALTHCHECKS_PING_URL }}
+          RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
+          RESEND_FROM: ${{ secrets.RESEND_FROM }}
+          RESEND_TO: ${{ secrets.RESEND_TO }}
+          RESEND_NOTIFY_IDLE: ${{ vars.RESEND_NOTIFY_IDLE || 'false' }}
+        run: |
+          .venv/bin/python - <<'PY'
+          import json, os, subprocess
+          from pathlib import Path
+          report = json.loads(os.environ['REPORT_JSON'])
+          report['repaired'] = os.environ['REPAIRED'] == 'true'
+          Path('pipeline-result.json').write_text(json.dumps(report))
+          ok = os.environ['RECEIVE_RESULT'] == 'success' and os.environ['PUBLISH_RESULT'] in ('success', 'skipped')
+          result = subprocess.run(['.venv/bin/python', 'scripts/pipeline_observe.py', 'success' if ok else 'failure'])
+          if not ok or result.returncode:
+              raise SystemExit(1)
+          print('PASS: Outlook connector publication verified')
+          PY

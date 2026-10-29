@@ -1,0 +1,30 @@
+{
+  "$schema": "https://schema.management.azure.com/schemas/2019-04-01/deploymentParameters.json#",
+  "contentVersion": "1.0.0.0",
+  "parameters": {
+    "location": {
+      "value": "canadacentral"
+    },
+    "storageAccountName": {
+      "value": "stsdcnewsletter0xms"
+    },
+    "hostingPlanName": {
+      "value": "CanadaCentralLinuxDynamicPlan"
+    },
+    "functionAppName": {
+      "value": "orfe-dept-azure-sdc-func"
+    },
+    "insightsName": {
+      "value": "orfe-dept-azure-sdc-func"
+    },
+    "workspaceName": {
+      "value": "orfe-dept-azure-sdc-logs"
+    },
+    "office365ConnectionName": {
+      "value": "orfe-dept-azure-sdc-o365"
+    },
+    "githubConnectionName": {
+      "value": "orfe-dept-azure-sdc-github"
+    }
+  }
+}

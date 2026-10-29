@@ -20,3 +20,8 @@ jobs:
         run: docker build --target tests -f Dockerfile.pipeline -t newsletter-tests .
       - name: Lint, format, type check and test without network access
         run: docker run --rm --network none --read-only --tmpfs /tmp -e MYPY_CACHE_DIR=/tmp/mypy -e RUFF_CACHE_DIR=/tmp/ruff newsletter-tests
+      - name: Validate reproducible Azure templates
+        run: |
+          az bicep install --version v0.43.8
+          az bicep build --file azure/connector/main.bicep --outfile /tmp/sdc-connector.json
+          az bicep build --file azure/connector/foundation.bicep --outfile /tmp/sdc-foundation.json

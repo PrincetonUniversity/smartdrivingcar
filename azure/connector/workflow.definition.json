@@ -1,0 +1,560 @@
+{
+  "$schema": "https://schema.management.azure.com/providers/Microsoft.Logic/schemas/2016-06-01/workflowdefinition.json#",
+  "contentVersion": "1.0.0.0",
+  "parameters": {
+    "$connections": {
+      "type": "Object"
+    },
+    "processorUrl": {
+      "type": "String"
+    },
+    "processorKey": {
+      "type": "SecureString"
+    },
+    "mode": {
+      "type": "String"
+    },
+    "mailbox": {
+      "type": "String"
+    },
+    "folderName": {
+      "type": "String"
+    },
+    "folderId": {
+      "type": "String"
+    },
+    "repository": {
+      "type": "String"
+    },
+    "lookbackDays": {
+      "type": "Int"
+    },
+    "messageLimit": {
+      "type": "Int"
+    },
+    "healthchecksPingUrl": {
+      "type": "SecureString"
+    }
+  },
+  "triggers": {
+    "Poll": {
+      "type": "Recurrence",
+      "recurrence": {
+        "frequency": "Minute",
+        "interval": 15
+      },
+      "runtimeConfiguration": {
+        "concurrency": {
+          "runs": 1
+        }
+      }
+    }
+  },
+  "actions": {
+    "Initialize": {
+      "type": "InitializeVariable",
+      "runAfter": {},
+      "inputs": {
+        "variables": [
+          {
+            "name": "folderId",
+            "type": "string",
+            "value": "@parameters('folderId')"
+          },
+          {
+            "name": "correlationId",
+            "type": "string",
+            "value": "@guid()"
+          },
+          {
+            "name": "scannedCount",
+            "type": "integer",
+            "value": 0
+          },
+          {
+            "name": "acceptedCount",
+            "type": "integer",
+            "value": 0
+          },
+          {
+            "name": "rejectedCount",
+            "type": "integer",
+            "value": 0
+          },
+          {
+            "name": "remainingCount",
+            "type": "integer",
+            "value": 0
+          }
+        ]
+      }
+    },
+    "Resolve_folder": {
+      "type": "If",
+      "runAfter": {
+        "Initialize": [
+          "Succeeded"
+        ]
+      },
+      "expression": "@empty(variables('folderId'))",
+      "actions": {
+        "List_root_folders": {
+          "type": "ApiConnection",
+          "runAfter": {},
+          "inputs": {
+            "host": {
+              "connection": {
+                "name": "@parameters('$connections')['office365']['connectionId']"
+              }
+            },
+            "method": "get",
+            "path": "/OnFilePickerOpen",
+            "queries": {
+              "operation": "MailFolders",
+              "mailboxAddress": "@parameters('mailbox')",
+              "top": 1000,
+              "skip": 0
+            },
+            "retryPolicy": {
+              "type": "exponential",
+              "count": 4,
+              "interval": "PT10S"
+            }
+          },
+          "runtimeConfiguration": {
+            "secureData": {
+              "properties": [
+                "inputs",
+                "outputs"
+              ]
+            }
+          }
+        },
+        "Find_root_target": {
+          "type": "Query",
+          "runAfter": {
+            "List_root_folders": [
+              "Succeeded"
+            ]
+          },
+          "inputs": {
+            "from": "@body('List_root_folders')?['value']",
+            "where": "@equals(item()?['DisplayName'], parameters('folderName'))"
+          },
+          "runtimeConfiguration": {
+            "secureData": {
+              "properties": [
+                "inputs",
+                "outputs"
+              ]
+            }
+          }
+        },
+        "Root_or_inbox": {
+          "type": "If",
+          "runAfter": {
+            "Find_root_target": [
+              "Succeeded"
+            ]
+          },
+          "expression": "@equals(length(body('Find_root_target')), 1)",
+          "actions": {
+            "Use_root_folder": {
+              "type": "SetVariable",
+              "runAfter": {},
+              "inputs": {
+                "name": "folderId",
+                "value": "@first(body('Find_root_target'))?['Id']"
+              }
+            }
+          },
+          "else": {
+            "actions": {
+              "Find_inbox": {
+                "type": "Query",
+                "runAfter": {},
+                "inputs": {
+                  "from": "@body('List_root_folders')?['value']",
+                  "where": "@equals(toLower(item()?['DisplayName']), 'inbox')"
+                },
+                "runtimeConfiguration": {
+                  "secureData": {
+                    "properties": [
+                      "inputs",
+                      "outputs"
+                    ]
+                  }
+                }
+              },
+              "Inbox_available": {
+                "type": "If",
+                "runAfter": {
+                  "Find_inbox": [
+                    "Succeeded"
+                  ]
+                },
+                "expression": "@equals(length(body('Find_inbox')), 1)",
+                "actions": {
+                  "List_inbox_folders": {
+                    "type": "ApiConnection",
+                    "runAfter": {},
+                    "inputs": {
+                      "host": {
+                        "connection": {
+                          "name": "@parameters('$connections')['office365']['connectionId']"
+                        }
+                      },
+                      "method": "get",
+                      "path": "/OnFilePickerBrowse",
+                      "queries": {
+                        "operation": "MailFolders",
+                        "id": "@first(body('Find_inbox'))?['Id']",
+                        "mailboxAddress": "@parameters('mailbox')",
+                        "top": 1000,
+                        "skip": 0
+                      },
+                      "retryPolicy": {
+                        "type": "exponential",
+                        "count": 4,
+                        "interval": "PT10S"
+                      }
+                    },
+                    "runtimeConfiguration": {
+                      "secureData": {
+                        "properties": [
+                          "inputs",
+                          "outputs"
+                        ]
+                      }
+                    }
+                  },
+                  "Find_inbox_target": {
+                    "type": "Query",
+                    "runAfter": {
+                      "List_inbox_folders": [
+                        "Succeeded"
+                      ]
+                    },
+                    "inputs": {
+                      "from": "@body('List_inbox_folders')?['value']",
+                      "where": "@equals(item()?['DisplayName'], parameters('folderName'))"
+                    },
+                    "runtimeConfiguration": {
+                      "secureData": {
+                        "properties": [
+                          "inputs",
+                          "outputs"
+                        ]
+                      }
+                    }
+                  },
+                  "Use_inbox_or_fail": {
+                    "type": "If",
+                    "runAfter": {
+                      "Find_inbox_target": [
+                        "Succeeded"
+                      ]
+                    },
+                    "expression": "@equals(length(body('Find_inbox_target')), 1)",
+                    "actions": {
+                      "Use_inbox_folder": {
+                        "type": "SetVariable",
+                        "runAfter": {},
+                        "inputs": {
+                          "name": "folderId",
+                          "value": "@first(body('Find_inbox_target'))?['Id']"
+                        }
+                      }
+                    },
+                    "else": {
+                      "actions": {
+                        "No_target": {
+                          "type": "Terminate",
+                          "runAfter": {},
+                          "inputs": {
+                            "runStatus": "Failed",
+                            "runError": {
+                              "code": "FolderNotFound",
+                              "message": "Check configured folder name or specify folderId; no mail was changed."
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                },
+                "else": {
+                  "actions": {
+                    "No_inbox": {
+                      "type": "Terminate",
+                      "runAfter": {},
+                      "inputs": {
+                        "runStatus": "Failed",
+                        "runError": {
+                          "code": "FolderNotFound",
+                          "message": "Check configured folder name or specify folderId; no mail was changed."
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "else": {
+        "actions": {}
+      }
+    },
+    "Read_retained_messages": {
+      "type": "ApiConnection",
+      "runAfter": {
+        "Resolve_folder": [
+          "Succeeded"
+        ]
+      },
+      "inputs": {
+        "host": {
+          "connection": {
+            "name": "@parameters('$connections')['office365']['connectionId']"
+          }
+        },
+        "method": "get",
+        "path": "/v3/Mail",
+        "queries": {
+          "folderPath": "@variables('folderId')",
+          "mailboxAddress": "@parameters('mailbox')",
+          "fetchOnlyUnread": false,
+          "fetchOnlyWithAttachment": false,
+          "includeAttachments": false,
+          "top": "@parameters('messageLimit')",
+          "searchQuery": "@concat('received>=', formatDateTime(addDays(utcNow(), mul(-1, parameters('lookbackDays'))), 'yyyy-MM-dd'))"
+        },
+        "retryPolicy": {
+          "type": "exponential",
+          "count": 4,
+          "interval": "PT10S"
+        }
+      },
+      "runtimeConfiguration": {
+        "secureData": {
+          "properties": [
+            "inputs",
+            "outputs"
+          ]
+        }
+      }
+    },
+    "Probe_or_process": {
+      "type": "If",
+      "runAfter": {
+        "Count_messages": [
+          "Succeeded"
+        ]
+      },
+      "expression": "@equals(parameters('mode'), 'probe')",
+      "actions": {
+        "Probe_receipt": {
+          "type": "Compose",
+          "runAfter": {},
+          "inputs": {
+            "mode": "probe",
+            "folder_resolved": true,
+            "message_count": "@variables('scannedCount')",
+            "correlation_id": "@variables('correlationId')"
+          }
+        }
+      },
+      "else": {
+        "actions": {
+          "Prepare_batch": {
+            "type": "Http",
+            "runAfter": {},
+            "inputs": {
+              "method": "POST",
+              "uri": "@parameters('processorUrl')",
+              "headers": {
+                "Content-Type": "application/json",
+                "x-functions-key": "@parameters('processorKey')"
+              },
+              "body": {
+                "messages": "@body('Read_retained_messages')?['value']",
+                "mode": "@parameters('mode')",
+                "correlation_id": "@variables('correlationId')",
+                "message_limit": "@parameters('messageLimit')"
+              },
+              "retryPolicy": {
+                "type": "exponential",
+                "count": 4,
+                "interval": "PT10S"
+              }
+            },
+            "runtimeConfiguration": {
+              "secureData": {
+                "properties": [
+                  "inputs",
+                  "outputs"
+                ]
+              }
+            }
+          },
+          "Dispatch_receipt": {
+            "type": "ApiConnection",
+            "runAfter": {
+              "Count_remaining": [
+                "Succeeded"
+              ]
+            },
+            "inputs": {
+              "host": {
+                "connection": {
+                  "name": "@parameters('$connections')['github']['connectionId']"
+                }
+              },
+              "method": "post",
+              "path": "@concat('/repos/', parameters('repository'), '/dispatches')",
+              "body": {
+                "event_type": "@if(equals(parameters('mode'), 'test'), 'newsletter-connector-test', 'newsletter-connector-batch')",
+                "client_payload": "@body('Prepare_batch')"
+              },
+              "retryPolicy": {
+                "type": "exponential",
+                "count": 4,
+                "interval": "PT10S"
+              }
+            },
+            "runtimeConfiguration": {
+              "secureData": {
+                "properties": [
+                  "inputs",
+                  "outputs"
+                ]
+              }
+            }
+          },
+          "Batch_receipt": {
+            "type": "Compose",
+            "runAfter": {
+              "Dispatch_receipt": [
+                "Succeeded"
+              ]
+            },
+            "inputs": {
+              "mode": "@parameters('mode')",
+              "correlation_id": "@variables('correlationId')",
+              "scanned": "@variables('scannedCount')",
+              "accepted": "@variables('acceptedCount')",
+              "rejected": "@variables('rejectedCount')",
+              "remaining": "@variables('remainingCount')",
+              "github_dispatch_accepted": true
+            }
+          },
+          "Count_accepted": {
+            "type": "SetVariable",
+            "runAfter": {
+              "Prepare_batch": [
+                "Succeeded"
+              ]
+            },
+            "inputs": {
+              "name": "acceptedCount",
+              "value": "@body('Prepare_batch')?['accepted']"
+            }
+          },
+          "Count_rejected": {
+            "type": "SetVariable",
+            "runAfter": {
+              "Count_accepted": [
+                "Succeeded"
+              ]
+            },
+            "inputs": {
+              "name": "rejectedCount",
+              "value": "@body('Prepare_batch')?['rejected']"
+            }
+          },
+          "Count_remaining": {
+            "type": "SetVariable",
+            "runAfter": {
+              "Count_rejected": [
+                "Succeeded"
+              ]
+            },
+            "inputs": {
+              "name": "remainingCount",
+              "value": "@body('Prepare_batch')?['remaining']"
+            }
+          }
+        }
+      }
+    },
+    "Report_upstream_failure": {
+      "type": "If",
+      "runAfter": {
+        "Probe_or_process": [
+          "Failed",
+          "TimedOut",
+          "Skipped"
+        ]
+      },
+      "expression": "@not(empty(parameters('healthchecksPingUrl')))",
+      "actions": {
+        "Signal_failure": {
+          "type": "Http",
+          "runAfter": {},
+          "inputs": {
+            "method": "GET",
+            "uri": "@concat(parameters('healthchecksPingUrl'), '/fail')",
+            "retryPolicy": {
+              "type": "exponential",
+              "count": 3,
+              "interval": "PT10S"
+            }
+          },
+          "runtimeConfiguration": {
+            "secureData": {
+              "properties": [
+                "inputs",
+                "outputs"
+              ]
+            }
+          }
+        }
+      },
+      "else": {
+        "actions": {}
+      }
+    },
+    "Fail_after_upstream_error": {
+      "type": "Terminate",
+      "runAfter": {
+        "Report_upstream_failure": [
+          "Succeeded",
+          "Failed",
+          "TimedOut"
+        ]
+      },
+      "inputs": {
+        "runStatus": "Failed",
+        "runError": {
+          "code": "PublishingUpstreamFailed",
+          "message": "See the failed action and operator runbook. No mailbox data was changed."
+        }
+      }
+    },
+    "Count_messages": {
+      "type": "SetVariable",
+      "runAfter": {
+        "Read_retained_messages": [
+          "Succeeded"
+        ]
+      },
+      "inputs": {
+        "name": "scannedCount",
+        "value": "@length(body('Read_retained_messages')?['value'])"
+      }
+    }
+  },
+  "outputs": {}
+}

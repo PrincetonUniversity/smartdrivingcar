@@ -2,7 +2,7 @@
 
 ## October 2026 publishing update
 
-The mailbox reconciliation replacement, secure renderer, explicit Pages deployment, optional monitoring, and administrator commissioning procedure are implemented. See [the current setup and improvement plan](docs/newsletter-publishing.md). The historical notes below describe the original Azure path; the new reconciler stays disabled until administrator setup is complete.
+The supported mailbox reconciliation path now reuses the existing authorized Azure connectors, with Bicep adoption/recovery templates and isolated SDC Testing receipts. The app-only Graph path is optional. See [the current setup and improvement plan](docs/newsletter-publishing.md). The historical notes below describe the original Azure path; the new reconciler stays disabled until administrator setup is complete.
 
 ## Current State
 

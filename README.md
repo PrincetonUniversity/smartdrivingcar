@@ -80,9 +80,9 @@ All publishing entry points share the `pages-deploy` concurrency group and expli
 
 ## Newsletter Workflow
 
-The implemented replacement polls the newsletter mailbox with mailbox-scoped, read-only Microsoft Graph access and publishes Listserv deliveries through an explicit GitHub Pages deployment. Prof. Kornhauser continues sending to `smartdrivingcars@princeton.edu` with no extra publishing step.
+The supported pipeline reuses the existing authorized Azure Outlook and GitHub connections, reconciles retained messages in the configured newsletter folder, and publishes through an explicit, verified GitHub Pages deployment. Prof. Kornhauser continues sending to `smartdrivingcars@princeton.edu` with no extra publishing step.
 
-**Administrator setup is required before enabling the scheduled reconciler.** Follow the [improvement plan and setup runbook](docs/newsletter-publishing.md) for Azure OIDC, Exchange mailbox isolation, commissioning, recovery, and optional Healthchecks.io and Resend notifications. Configuration names and empty credential placeholders are in [`example.env`](example.env).
+**Administrator setup is required before enabling the scheduled reconciler.** Follow the [improvement plan and setup runbook](docs/newsletter-publishing.md) for reproducible Bicep adoption, the SDC Testing folder probe and isolated preview, production cutover, recovery, and optional Healthchecks.io and Resend notifications. The normal connector setup needs no new app-only Graph grant. Configuration names and empty credential placeholders are in [`example.env`](example.env).
 
 For local imports, create a per-project virtual environment, install `requirements-dev.lock`, and run the safe renderer:
 
@@ -97,7 +97,7 @@ Review and commit only generated files in `_newsletters/` and `newsletter/`. Raw
 
 Run CI checks locally with `docker-compose run --build --rm tests` or `./pipeline/test.sh`. The Docker test service has no network access and runs lint, format, type checks, and verbose tests. All Python packages, Ruby gems, container images, and publishing actions are pinned.
 
-The original Azure arrival-trigger path is retained as an opt-in fallback. Its trigger-array bug is fixed in the template, and its GitHub receiver now validates payloads and deploys explicitly. See the runbook before enabling `NEWSLETTER_LEGACY_ENABLED`.
+Use `azure/connector/deploy.zsh --dry-run` to inspect the existing-resource deployment. Test mode never commits newsletter content or publishes Pages. The original Azure arrival-trigger path is retained as an opt-in fallback. Its trigger-array bug is fixed in the template, and its GitHub receiver now validates payloads and deploys explicitly. See the runbook before enabling `NEWSLETTER_LEGACY_ENABLED`.
 
 ### Backfilling Old Newsletters
 

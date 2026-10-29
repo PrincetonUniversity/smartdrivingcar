@@ -1,0 +1,19 @@
+{
+  "subscription": "996314b4-bcc8-45e5-a21f-8f7096e7e71e",
+  "resourceGroup": "orfe-dept-azure-alaink-sdc-rg",
+  "parameters": {
+    "functionAppName": "orfe-dept-azure-sdc-func",
+    "office365ConnectionName": "orfe-dept-azure-sdc-o365",
+    "githubConnectionName": "orfe-dept-azure-sdc-github",
+    "location": "canadacentral",
+    "repository": "PrincetonUniversity/smartdrivingcar",
+    "mailbox": "orfe-lists@princeton.edu",
+    "allowedAuthor": "alaink@princeton.edu",
+    "listAddress": "smartdrivingcars@princeton.edu",
+    "lookbackDays": 90,
+    "messageLimit": 100,
+    "mode": "production",
+    "folderName": "SmartDrivingCars Newsletters for Processing",
+    "workflowName": "orfe-dept-azure-sdc-reconcile"
+  }
+}

@@ -33,3 +33,7 @@ inbox/*.html
 .pytest_cache/
 .ruff_cache/
 .mypy_cache/
+
+# Private deployment parameters and packages
+azure/connector/*.local.json
+*.zip

@@ -1,177 +1,153 @@
-# Reliable newsletter publishing and administrator setup
+# Newsletter publishing with the existing Azure resources
 
-Prof. Kornhauser continues sending his newsletter to **smartdrivingcars@princeton.edu**. After the administrator setup below, a read-only reconciliation job discovers the Listserv delivery in the newsletter mailbox, renders a safe web edition, commits it, deploys GitHub Pages, and verifies the public issue. The professor needs no GitHub, Azure, Resend, or Healthchecks account.
+Prof. Kornhauser continues sending to **smartdrivingcars@princeton.edu**. The supported setup reuses the authorized Outlook and GitHub connections in **YOUR_AZURE_RESOURCE_GROUP**, subscription **YOUR_AZURE_SUBSCRIPTION_ID**, in Canada Central. It does not require a new Entra app, app-only Graph token, or Exchange Application RBAC grant.
 
-The replacement is implemented in this repository and **disabled until its identity and mailbox permissions are configured**. The latest supplied issue, **14.16 Bad Media dated October 22, 2026**, is published at [its permanent public URL](https://smartdrivingcar.com/14.16-badMedia-10.22.26/). Existing subscriptions and Listserv distribution remain the source of email delivery.
+The receiving mailbox is **orfe-lists@princeton.edu**. Production reads **SmartDrivingCars Newsletters for Processing**. An isolated, manually triggered test workflow reads **SDC Testing**, builds a preview, and produces an operator receipt without committing newsletter content or deploying Pages.
 
-## Confirmed failures in the previous pipeline
+The latest supplied issue remains [14.16 Bad Media](https://smartdrivingcar.com/14.16-badMedia-10.22.26/). The optional [app-only Graph alternative](app-only-newsletter-setup.md) is retained for organizations that later prefer a dedicated mailbox-scoped application. It is not a prerequisite for this setup.
 
-Azure's October 22 run received a trigger body containing `value: [message]`. The Logic App lacked `splitOn`, read `triggerBody()['body']` from the enclosing object, and the Function returned HTTP 400 with `Missing body_html field`. The September 27 run also failed at processing. The template now splits the array and protects processor inputs and outputs in run history.
+## Existing resources and ownership
 
-The receiver also committed using `GITHUB_TOKEN` and expected that push to start the Pages workflow. GitHub suppresses push-triggered workflow runs from that token. Every publishing entry point now invokes the shared deployment workflow directly. [GitHub documents this token behavior](https://docs.github.com/en/actions/how-tos/write-workflows/choose-when-workflows-run/trigger-a-workflow).
+| Resource | Existing name | Treatment |
+| --- | --- | --- |
+| Outlook API connection | `orfe-dept-azure-sdc-o365` | Reference existing authorization |
+| GitHub API connection | `orfe-dept-azure-sdc-github` | Reference existing authorization |
+| Function App | `orfe-dept-azure-sdc-func` | Add batch endpoint; retain old endpoint and hosting |
+| Function hosting plan | `CanadaCentralLinuxDynamicPlan` | Preserve Linux Consumption Y1 |
+| Function storage | `stsdcnewsletter0xms` | Preserve existing account and data |
+| Application Insights | `orfe-dept-azure-sdc-func` | Preserve existing telemetry resource |
+| Original arrival Logic App | `orfe-dept-azure-sdc-logic` | Preserve until production reconciliation is accepted |
+| Test Logic App | `orfe-dept-azure-sdc-test` | Manage with Bicep; reads only the configured test folder |
+| Production reconciler | `orfe-dept-azure-sdc-reconcile` | Manage with Bicep; initially disabled |
 
-An arrival trigger cannot recover a message it already missed. Reconciliation scans retained mail regardless of its read flag or folder, which also removes dependence on an Outlook folder rule. It deliberately keeps the mail intact for recovery.
+The existing Office 365 Outlook connector uses sign-in authorization. A `Connected` status is a prerequisite; the live folder probe verifies actual access. If the existing grant is revoked, reauthorize the connection through Azure's API connection screen under Princeton's consent policy. Do not replace it with a new app-only identity as a troubleshooting shortcut. [Microsoft documents the connector sign-in process](https://learn.microsoft.com/en-us/azure/connectors/connectors-create-api-office365-outlook).
 
-## Implemented pipeline
+The connector's existing delegated permissions may be broader than read-only. This workflow uses only folder listing and message retrieval; it never sends, moves, deletes, or marks mail read. Mailbox transport and Listserv posting restrictions remain the sender-authentication boundary. The parser additionally requires the configured author, list recipient, and newsletter subject; supplied List-Help headers are validated when the connector provides them. The connector does not consistently expose RFC headers, so they are not assumed to be available.
+
+## Reproducible infrastructure and deployment
+
+`azure/connector/main.bicep` is the normal adoption template. It declares the existing connections and Function App as `existing`, adds the selected workflow, and merges three publishing-policy settings into a private snapshot of existing Function settings. The deployment tool retrieves that snapshot and the Function key into a mode-0600 temporary parameter file, supplies them as secure ARM parameters, and removes the file afterward. It never prints or commits those values. Bicep resource references reuse infrastructure rather than recreating it. [Microsoft's existing-resource reference](https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/existing-resource) describes this model.
+
+`existing-resources.json` records the non-secret resource inventory; `recovery.parameters.example.json` provides foundation parameters. `test.json` and `production.json` pin the subscription, resource group, names, region, mailbox, folder, author, and list address. They contain no credentials. For an opaque folder ID or deployment-specific override, copy one to a `*.local.json` file, which Git ignores. Folder resolution handles folders at the mailbox root or directly under Inbox. Deeper folders can use their explicit folder ID. Folder IDs and callback URLs stay out of public receipts.
+
+`azure/connector/foundation.bicep` describes recovery infrastructure: storage, Linux Consumption plan, Python 3.11 Function App, telemetry, and connection shells. Use it only for disaster recovery or a separate deployment, not normal updates of this resource group. Connection consent is stateful and cannot be reconstructed from source code; after a full rebuild, browser authorization is still required. The recovery template uses HTTPS, TLS 1.2, disabled public blob access, and a dedicated logging workspace. Normal adoption preserves the existing storage/telemetry resources. Deploying Function code also enforces HTTPS-only on the existing Function App.
+
+`Dockerfile.functions` packages the Function runtime using an immutable Microsoft image digest. `Dockerfile.pipeline` packages the same Python test surface. ZIP deployment uses the existing Consumption service and the locked `azure/functions/requirements.txt`; it does not migrate the hosting plan to containers. The deployment package includes both old and new endpoints and the shared safe renderer.
+
+## Processing and publication
 
 ```mermaid
 flowchart LR
-  A[Professor sends to Listserv] --> B[Newsletter mailbox retains delivery]
-  B --> C[GitHub scheduled reconciliation]
-  C --> D[Validate author and Listserv delivery]
-  D --> E[Sanitize and preserve newsletter structure]
-  E --> F[Commit issue once]
-  F --> G[Explicit Pages deployment]
-  G --> H[Verify public URL and source fingerprint]
-  H --> I[Optional Healthchecks and Resend status]
+  Mail[Retained newsletter folder] --> Read[Existing Outlook connection]
+  Read --> Parse[Existing Function App and shared safe parser]
+  Parse --> Dispatch[Existing GitHub connection]
+  Dispatch --> Mode{Fixed workflow mode}
+  Mode -->|test| Preview[Isolated preview and test receipt]
+  Mode -->|production enabled| Commit[Commit new issues]
+  Commit --> Verify[Verify public issue fingerprints]
+  Verify -->|missing or stale| Deploy[Explicit Pages deployment]
+  Deploy --> Confirm[Verify public result]
 ```
 
-The schedule runs at minutes 7, 22, 37, and 52. A manual workflow run can recover immediately. The default lookback is 90 days; operators can extend it to 3650 days for recovery. The job follows Graph pagination, retries throttling and transient service errors, bounds message/response sizes and page counts, and rejects redirected API destinations before sending credentials. It never marks mail read, moves it, deletes it, or sends newsletter email.
+Production reconciles every 15 minutes using `Get emails V3`, including read messages. It searches the configured folder over a 90-day window and defaults to a 100-message limit. Reaching the limit fails visibly instead of silently dropping older messages; narrow the lookback or increase the bound when recovering a large backlog. Search queries avoid the connector's documented first-250-message limitation for simple filters. [The Outlook connector reference](https://learn.microsoft.com/en-us/connectors/office365/#get-emails-v3) documents these controls.
 
-The issue identifier and date come from the subject, such as `SmartDrivingCars_14.16-badMedia-10.22.26`. A strict identifier prevents path traversal. New issues contain a fingerprint of sanitized content. Duplicate deliveries do not overwrite posts; changed content with the same identifier fails for manual review. Legacy and manually imported issues are marked or treated as curated: they remain authoritative and are skipped without replacing them. This avoids treating Microsoft Graph HTML normalization as a revision of a manually imported edition. Version 1 parsing preserves headings, paragraphs, lists, tables, and emphasis; unwraps Outlook Safe Links; removes active content and per-recipient subscription tickets; and escapes Liquid syntax before Jekyll sees it. Images are represented by their alternative text; remote pixels and CID images are not fetched.
+The Function validates and sanitizes each candidate. It preserves headings, emphasis, paragraphs, lists, and tables; removes active HTML, recipient tickets, and Outlook tracking wrappers; and escapes template syntax before Jekyll evaluates it. It does not fetch remote images or CID attachments. The renderer is tested for stability across the Function-to-GitHub boundary.
 
-The workflow verifies each discovered public issue's identity and, for new-format issues, its source fingerprint. A committed issue whose deployment failed is retried on a later poll even though it is now a duplicate. No advancing mailbox cursor can hide an unpublished issue. All publishers share the same concurrency group and use normal pushes, with no automated history rewriting or force push. GitHub may replace a pending run under concurrency; reconciliation recovers from retained mail on the next run.
+GitHub dispatch payloads have a bounded size. A batch includes as many oldest pending issues as fit; the receipt reports `remaining`, and later sweeps drain the backlog after commits appear in the repository. A single oversize issue fails for a reviewed local import. Every retained known issue is included in the public-verification manifest. Changed content for an automatically managed identifier requires manual review; curated legacy/manual imports remain authoritative.
 
-## Security model
+GitHub independently validates the batch. Production requires repository variable `NEWSLETTER_CONNECTOR_ENABLED=true`. New content is committed with a normal push, and the reusable Pages workflow is invoked explicitly when public verification shows an issue missing or stale. A failed deployment is recoverable on the next sweep even when the source file has already been committed. No mailbox cursor or read flag advances.
 
-Use a dedicated Entra application with GitHub OIDC federation restricted to the repository's `newsletter-mailbox` environment. Restrict that environment to `main`; allow automated jobs without a required reviewer after commissioning. The identity needs **Application Mail.Read scoped to only the newsletter mailbox through Exchange Application RBAC**. It needs no Azure subscription role, tenant-wide Graph Mail.Read grant, password, Mail.Send, or Mail.ReadWrite.
+The original defects were an unsplit `value` array in the arrival trigger and relying on bot commits to trigger another workflow. The old template's `splitOn` correction and explicit receiver deployment remain available, but reconciliation is the preferred recovery mechanism. Azure's dispatch receipt means GitHub accepted the event; the final GitHub receipt and public verification establish publication success.
 
-Exchange RBAC grants and Entra API grants are additive. Adding tenant-wide Entra Mail.Read would defeat the mailbox boundary. The administrator must check for that grant and test a real Graph request against a different mailbox, because Exchange's authorization test excludes separate Entra grants. [Microsoft explains mailbox scopes, additive grants, and authorization tests](https://learn.microsoft.com/en-us/exchange/permissions-exo/application-rbac).
+## First run using SDC Testing
 
-The application accepts only the configured author, Listserv sender, list recipient, newsletter subject, and Princeton List-Help marker. These headers narrow processing; they do not cryptographically authenticate an email. Before enabling, Princeton administrators must confirm Listserv posting restrictions and authenticated transport/anti-spoofing controls for delivery into this mailbox. Avoid forwarding through a service that changes sender metadata. Keep this a dedicated processing mailbox so the scoped identity cannot read unrelated departmental correspondence.
+Prerequisites are your existing Azure CLI login, GitHub CLI login, local project `.venv`, and access to this resource group. No new mailbox grant is part of this path.
 
-Raw MIME messages, Graph identifiers, recipient headers, tokens, and private mailbox addresses are never committed or deliberately logged by the new pipeline. Public issue text is intended for publication. Operator notifications contain only workflow links and counts. GitHub workflow editors and `main` writers are trusted to deploy code; protect `main`, review workflow changes, and use CODEOWNERS or equivalent repository policy. Container tests run without network access. Pages builds fail if source emails or private pipeline directories appear in the site artifact.
+1. Copy one real newsletter from the last 90 days into **SDC Testing** in **orfe-lists@princeton.edu**, preserving its author, recipient, subject, date, and HTML body. Copy the existing delivery rather than forwarding it. Do not email the subscriber list to test the system.
+2. Inspect the proposed changes:
 
-## Administrator setup
+   ```zsh
+   ./azure/connector/deploy.zsh --dry-run
+   .venv/bin/python scripts/azure_connector_admin.py plan --mode test
+   ```
 
-### 1 Confirm mailbox and delivery policy
+3. Deploy and enable the test workflow and shared Function adapter:
 
-Confirm the actual mailbox UPN with its owner. Existing project documentation names `orfe-lists@princeton.edu`, but the workflow requires an explicit secret rather than assuming it. Ensure it subscribes to the SmartDrivingCars list and retains messages for at least 90 days. The replacement searches across folders, so no special folder rule is necessary.
+   ```zsh
+   ./azure/connector/deploy.zsh --enable
+   ```
 
-Confirm the author is `alaink@princeton.edu`, the delivered Sender is `smartdrivingcars@princeton.edu`, and List-Help contains the Princeton SmartDrivingCars archive URL. Confirm the transport and list posting controls described above. Save a known delivery for commissioning.
+   Deployment preserves the authorized connections, deploys the workflow disabled while code is prepared, publishes the Function ZIP, and smoke-tests the deployed parser with a synthetic **test-mode** request. That smoke request sends no mail and dispatches no GitHub event. The workflow is enabled only after the Function responds correctly.
 
-### 2 Create the dedicated identity
+4. Run the real mailbox test:
 
-On macOS with Azure CLI, GitHub CLI, and project Python available:
+   ```zsh
+   ./azure/connector/test.zsh
+   .venv/bin/python scripts/azure_connector_admin.py status --mode test
+   ```
+
+   Tests are on demand through a private callback, not a recurring schedule. The helper obtains and invokes that callback without printing its signed URL.
+
+5. Open **Receive Outlook connector batch** in GitHub Actions. The test job's summary shows `correlation_id`, message counts, validation counts, and the preview result. Match that correlation ID to Azure's **Batch_receipt** action. Require the preview-build success message and at least one validated newsletter. An empty folder or zero accepted newsletters fails the full test explicitly.
+
+6. Repeat the test to confirm deterministic behavior. Confirm no newsletter source commit or Pages deployment was created by either test run.
+
+The GitHub test job has read-only repository permissions, no Pages permission, no commit step, no deployment step, and no content artifact upload. Test previews live only in the runner's temporary directory. A forged test payload cannot select the production receiver. Operator receipts contain counts and correlation IDs, not email content or addresses.
+
+For a folder-access-only diagnosis before code deployment:
 
 ```zsh
-python3 -m venv .venv
-.venv/bin/python -m pip install -r requirements-dev.lock
-az login --tenant YOUR_TENANT_ID
-export NEWSLETTER_APP_NAME=smartdrivingcar-newsletter-publisher
-export NEWSLETTER_GITHUB_REPOSITORY=PrincetonUniversity/smartdrivingcar
-export NEWSLETTER_AZURE_TENANT_ID=YOUR_TENANT_ID
-./azure/pipeline/deploy.zsh --dry-run
-./azure/pipeline/deploy.zsh
+./azure/connector/deploy.zsh --probe --enable
+./azure/connector/test.zsh
+.venv/bin/python scripts/azure_connector_admin.py status --mode test
 ```
 
-The script creates or finds the dedicated named app and service principal and reconciles its named OIDC credential. Re-running `update.zsh` applies the same configuration. Record its client ID and **enterprise service principal object ID**. Use a new unique app name, never an identity shared with another application. OIDC avoids a stored application password. [GitHub's Azure OIDC guide](https://docs.github.com/en/actions/how-tos/secure-your-work/security-harden-deployments/oidc-in-azure) explains the trust relationship.
+Probe mode reports folder resolution and message count and sends nothing to GitHub. Deploy normally afterward to exercise parsing, dispatch, and preview construction.
 
-Create GitHub environment **newsletter-mailbox**, restrict deployment branches to `main`, and configure the secrets below. The exact federation subject is `repo:PrincetonUniversity/smartdrivingcar:environment:newsletter-mailbox`.
+## Production cutover after acceptance
 
-### 3 Grant and verify mailbox isolation
+Keep `NEWSLETTER_PIPELINE_ENABLED=false` for the optional app-only reconciler and `NEWSLETTER_LEGACY_ENABLED=false` for the original dispatch receiver. Set the new production gate and deploy only after the test receipts pass:
 
-An Exchange administrator runs PowerShell 7 with the ExchangeOnlineManagement module and connects using `Connect-ExchangeOnline`. The included script supports `-WhatIf` and reuses its named scope/assignment:
-
-```powershell
-./azure/pipeline/configure-mailbox.ps1 `
-  -ClientId YOUR_CLIENT_ID -EnterpriseObjectId YOUR_ENTERPRISE_OBJECT_ID `
-  -Mailbox YOUR_NEWSLETTER_MAILBOX -OtherMailbox A_DIFFERENT_TEST_MAILBOX -WhatIf
-
-# Review the preview, then repeat without -WhatIf.
+```zsh
+gh variable set NEWSLETTER_CONNECTOR_ENABLED --repo PrincetonUniversity/smartdrivingcar --body true
+./azure/connector/deploy.zsh --mode production --enable --skip-code
+./azure/connector/test.zsh --mode production
+.venv/bin/python scripts/azure_connector_admin.py status --mode production
 ```
 
-It assigns only `Application Mail.Read` in the single-mailbox scope and checks positive and negative RBAC results. Confirm the dedicated app has no tenant-wide Entra mail grants. Allow Exchange permission propagation time, potentially up to two hours, before evaluating live access.
+`--skip-code` reuses the tested Function package and checks its smoke response before enabling the production reconciler. Inspect the production GitHub run, confirm the public issue and archive links, and repeat a sweep to verify duplicate handling. Then disable the old arrival Logic App `orfe-dept-azure-sdc-logic` through Azure. Leave the two API connections authorized: the new reconciler still uses them.
 
-Using the dedicated application's token, verify that Graph can read the target mailbox and receives HTTP 403 for the negative control mailbox. Do not use an administrator's delegated token for this test. The commissioning workflow below obtains the exact OIDC identity that production uses and performs both live requests.
-
-### 4 Set GitHub configuration
-
-Environment **newsletter-mailbox** secrets:
-
-| Name | Value |
-| --- | --- |
-| `NEWSLETTER_AZURE_CLIENT_ID` | Dedicated app client ID |
-| `NEWSLETTER_AZURE_TENANT_ID` | Princeton tenant ID |
-| `NEWSLETTER_MAILBOX` | Confirmed newsletter mailbox UPN |
-| `NEWSLETTER_NEGATIVE_TEST_MAILBOX` | A different mailbox used only for commissioning isolation tests |
-
-Repository variables:
-
-| Name | Initial value |
-| --- | --- |
-| `NEWSLETTER_ALLOWED_AUTHOR` | `alaink@princeton.edu` |
-| `NEWSLETTER_LIST_ADDRESS` | `smartdrivingcars@princeton.edu` |
-| `NEWSLETTER_LOOKBACK_DAYS` | `90` |
-| `NEWSLETTER_MAX_AGE_DAYS` | `0`, or an agreed delivery-age threshold such as `28` |
-| `NEWSLETTER_PUBLIC_URL` | `https://smartdrivingcar.com` |
-| `NEWSLETTER_PIPELINE_ENABLED` | `false` until commissioning passes |
-| `NEWSLETTER_LEGACY_ENABLED` | `false` |
-
-A nonzero maximum age fails when the newest accepted newsletter delivery is too old, including when no candidate arrives in the lookback window. This detects stopped Listserv delivery separately from a stopped scheduler. Set it according to the professor's actual publication cadence; zero disables this optional expectation.
-
-### 5 Commission and enable
-
-Run **Commission newsletter mailbox** from Actions. It validates configuration, logs in as the dedicated OIDC application, checks target access and negative-control denial, and dry-runs reconciliation without writing mail or repository content. Require a known retained newsletter to match. Review the aggregate counts; no raw email is uploaded.
-
-When commissioning passes, set `NEWSLETTER_PIPELINE_ENABLED=true` and run **Reconcile mailbox and publish** manually. Verify the known public issue, inspect any new posts, and repeat the workflow to confirm duplicate handling. Test an operator failure notification using the optional monitoring test action before relying on alerts. Require these acceptance checks before disabling the old Azure Logic App. Do not send test newsletters to the live subscriber list.
-
-The old receiver is gated by `NEWSLETTER_LEGACY_ENABLED=true` for deliberate fallback only. Its `splitOn` template correction is available if the administrator chooses to redeploy it. The new reconciler does not require that Azure Function or Logic App, or its GitHub OAuth connection. After acceptance, disable the old Logic App and revoke its unused OAuth connections; do not delete unrelated departmental Azure resources.
+If a test folder is no longer needed, `./azure/connector/teardown.zsh --mode test` disables only its workflow. It does not delete messages, connections, the Function App, storage, or the resource group. All deployment, update, test, and teardown wrappers support `--dry-run` and stop at errors.
 
 ## Optional monitoring
 
-### Healthchecks
+Store a production Healthchecks UUID ping URL in repository secret `HEALTHCHECKS_PING_URL`. Configure a 15-minute period with a generous grace time, such as 60 minutes. The GitHub production observer sends success only after public verification, or `/fail` on a processing/deployment error. Absence of success detects failures before dispatch, revoked connector authorization, or a stopped Azure scheduler. Test receipts never keep the production check green.
 
-Create a Healthchecks.io check with a 15-minute period and a generous grace period, for example 60 minutes to accommodate GitHub scheduling delays and deployment. Store its private UUID ping URL as repository secret `HEALTHCHECKS_PING_URL`. The pipeline sends `/start` at the beginning, the base URL only after reconciliation/public verification succeeds, and `/fail` on failure. No email body or logs accompany the pings. [Healthchecks documents explicit failure signals](https://healthchecks.io/docs/signaling_failures/).
+For an immediate upstream Azure failure signal, provide the same URL in exported `SDC_HEALTHCHECKS_PING_URL` when deploying the **production** template. It becomes a secure Logic App parameter and is hidden from action inputs/outputs. Upstream failure reporting cannot turn a failed publishing run into a success. [Healthchecks failure signaling](https://healthchecks.io/docs/signaling_failures/) defines `/fail` behavior.
 
-Configure Healthchecks alert recipients/integrations independently. An absence of success pings detects a disabled workflow, expired trust, stalled GitHub runner, cancellation, or service outage even if workflow code cannot run. GitHub schedules can be delayed and public-repository schedules are disabled after 60 days without repository activity; see [GitHub's scheduling behavior](https://docs.github.com/en/actions/reference/workflows-and-actions/events-that-trigger-workflows#schedule). Monitor the monitor and re-enable the schedule if necessary.
+For optional Resend status email, verify a sending domain and set repository secrets `RESEND_API_KEY`, `RESEND_FROM`, and `RESEND_TO`, all together. Use a sending-only key and a single operator recipient. The production observer reports new-publication success, repaired deployments, and failures; `RESEND_NOTIFY_IDLE=true` enables routine poll status. Notifications contain workflow links and counts, never newsletter bodies. L-Soft continues to distribute the newsletter itself. Use **Test optional newsletter monitors** to verify delivery before relying on alerts. [Resend's sending API](https://resend.com/docs/api-reference/emails/send-email) supports these operational messages.
 
-### Resend
+## Recovery and maintenance
 
-Verify a sending domain in Resend and create a sending-only API key restricted to it. Add repository secrets `RESEND_API_KEY`, `RESEND_FROM`, and `RESEND_TO`; use one operator address for `RESEND_TO`. All three are required together. The list continues receiving its newsletter exclusively through L-Soft.
-
-The implementation sends failure notices, new-publication success notices, and successful deployment-repair notices. Set repository variables `RESEND_NOTIFY_IDLE=true` for every successful poll or `RESEND_NOTIFY_START=true` for start notifications; both default false to reduce routine mail. Requests use Resend idempotency keys and bounded retries. Notifications contain public workflow links and numeric counts. [Resend's API](https://resend.com/docs/api-reference/emails/send-email) supports these operational messages.
-
-Provider failures are visible in Actions and do not undo a successful publication. Both providers are attempted independently. Resend cannot report a schedule that never starts; use Healthchecks for absence detection. Configure optional services only after their domains, recipients, and credentials are ready.
-
-## Recovery and manual imports
-
-| Symptom | Operator action |
+| Failure surface | Meaning and response |
 | --- | --- |
-| Mail arrived but no website update | Run reconciliation manually; inspect failed step. Increase lookback if needed. |
-| Graph 401 or 403 | Check OIDC subject, environment branch restriction, dedicated identity, mailbox scope, and propagation. Re-run commissioning. |
-| Newsletter candidate fails validation | Inspect retained mail privately. Check author/list headers and subject. Do not loosen gates globally to accept one message. |
-| Same identifier has changed content | Compare revisions privately; explicitly reparse and review the one issue. Automatic overwriting is intentionally blocked. |
-| Commit succeeded but Pages failed | Re-run reconciliation. Public verification triggers a rebuild of existing posts. |
-| Maximum age failure | Check mailbox subscription, list delivery, transport quarantine, and actual publication cadence. |
-| Healthchecks overdue | Check whether scheduled Actions were disabled or delayed, then identity/provider health. |
-| Resend failure | Check sending-domain verification, key restriction, recipient, and provider dashboard; workflow status remains authoritative. |
+| Folder probe fails | Check connection authorization, exact folder name, mailbox, nesting, or explicit folder ID. No message was changed. |
+| Function returns invalid batch | Inspect the retained message privately; check author/list/subject/HTML and size limits. |
+| Connector message count reaches limit | Increase `messageLimit` or reduce `lookbackDays`; no cursor was advanced. |
+| Batch reports remaining issues | Later scheduled sweeps drain the bounded backlog; inspect that the count decreases. |
+| GitHub inventory lookup fails | Check GitHub availability/rate limiting; the next sweep retries. No source mail is discarded. |
+| Azure dispatch accepted but no GitHub job | Check GitHub connector repository access and the production gate; a dispatch acknowledgment is not publication success. |
+| GitHub preview has zero validated issues | Put a copied real delivery in SDC Testing and inspect policy matching. |
+| Same identifier has changed content | Compare the versions and explicitly review/reparse that one issue. |
+| Commit exists but web verification fails | Re-run reconciliation; it invokes a deployment repair. |
+| Healthchecks overdue | Check Azure run history, connection authorization, GitHub receiver status, and provider availability. |
 
-For a local EML import, retain the source outside Git and run:
+Use `./azure/connector/update.zsh` for repeatable updates; it defaults to test and disabled until `--enable` is supplied. To stop production, set `NEWSLETTER_CONNECTOR_ENABLED=false` and run `./azure/connector/teardown.zsh --mode production`. Already accepted work may finish; inspect outstanding workflow runs. Both steps are reversible, and neither deletes mail or resources.
 
-```zsh
-.venv/bin/python scripts/publish_newsletter.py --eml import/ISSUE.eml --dry-run > /tmp/newsletter-preview.md
-# Review the preview, then create the issue with the same safe renderer.
-.venv/bin/python scripts/publish_newsletter.py --eml import/ISSUE.eml
-git add _newsletters/ newsletter/
-git commit -m 'Publish reviewed newsletter'
-git push origin main
-```
+For reviewed local imports and reparsing, use `scripts/publish_newsletter.py --eml FILE --dry-run`, inspect the result, then create or explicitly replace only the intended issue source. Commit generated newsletter/archive pages, never raw MIME input, credentials, private deployment parameters, callback URLs, or Function ZIPs.
 
-To reparse an existing issue, generate the dry-run preview, compare it with its existing `index.md`, and replace only that file after review. Preserve its permalink. Never commit the raw `.eml`, credentials, processing logs, or temporary preview. `.gitignore` excludes these inputs by default. GitHub's legacy pending-source workflow remains available for previously tracked imports; new local imports should commit generated pages only.
+## Verification and follow-up work
 
-To disable the replacement safely:
+`docker-compose run --build --rm tests` runs verbose unit tests, lint, format, and type checks without network access. CI also compiles both Bicep templates with pinned Bicep 0.43.8. Tests model connector messages, dispatch size limits, conflicts, sender gates, Function HTTP validation, test/production separation, private packaging, and cloud-free deployment dry runs. Live probe, parser smoke, GitHub preview, repeated delivery, and production verification provide separate observable acceptance surfaces.
 
-```zsh
-export NEWSLETTER_AZURE_CLIENT_ID=YOUR_CLIENT_ID
-./azure/pipeline/teardown.zsh --dry-run
-./azure/pipeline/teardown.zsh
-```
-
-This disables the repository switch and removes the dedicated GitHub federation. Allow already-issued access tokens to expire. The Exchange administrator can then remove `SDC-Publisher-CLIENT_ID` with `Remove-ManagementRoleAssignment`, remove `SDC-MailRead-CLIENT_ID` with `Remove-ManagementScope`, and remove the unused dedicated app after confirming it has no other consumers. Mail and public pages remain available.
-
-## Tests and future improvements
-
-Run `docker-compose run --build --rm tests` or `./pipeline/test.sh` inside the project `.venv`. CI runs lint, formatting, type checks, and verbose tests in the same container without network access. Service calls, retries, monitoring, unsafe content, duplicate delivery, and publication verification are modeled with mocks. Administration scripts have executable dry-run tests with unusable cloud CLI stubs. Microsoft tenant permissions and live provider notifications require the manual commissioning tests above.
-
-The next optional presentation improvement is safe extraction of CID image attachments into validated, size-limited local image assets with metadata removal and no arbitrary remote fetching. A later event-driven Graph subscription can shorten latency while keeping reconciliation as recovery. Neither is required for the professor's send-once workflow. AI rewriting is excluded from unattended publishing so the professor's wording remains authoritative.
+The next optional enhancement is validated extraction of CID image attachments into local assets, with size/type limits and metadata removal. It is independent of publishing reliability. AI rewriting is excluded from unattended publication so the professor's wording remains authoritative.

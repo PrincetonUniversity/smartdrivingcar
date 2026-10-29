@@ -1,0 +1,9 @@
+FROM mcr.microsoft.com/azure-functions/python:4-python3.11@sha256:fda0eb7572744efe38792fbd778b89c06ab37e77f7b659ce669620eb15fef2b6
+ENV AzureWebJobsScriptRoot=/home/site/wwwroot FUNCTIONS_WORKER_RUNTIME=python
+WORKDIR /home/site/wwwroot
+COPY azure/functions/requirements.txt ./
+RUN python -m pip install --no-cache-dir --target /home/site/wwwroot/.python_packages/lib/site-packages -r requirements.txt
+COPY azure/functions/*.py azure/functions/host.json ./
+COPY scripts/connector_batch.py scripts/publish_newsletter.py scripts/import_newsletter.py scripts/clean_newsletter.py scripts/poll_mailbox.py scripts/pipeline_http.py ./lib/
+# Supply SDC_ALLOWED_AUTHOR, SDC_LIST_ADDRESS and SDC_GITHUB_REPOSITORY at runtime.
+# Image is Linux amd64; production Consumption deployment uses the same ZIP package.

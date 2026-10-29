@@ -1,0 +1,46 @@
+{
+  "subscription": "996314b4-bcc8-45e5-a21f-8f7096e7e71e",
+  "resourceGroup": "orfe-dept-azure-alaink-sdc-rg",
+  "location": "canadacentral",
+  "capturedOn": "2026-10-29",
+  "resources": [
+    {
+      "name": "stsdcnewsletter0xms",
+      "type": "Microsoft.Storage/storageAccounts",
+      "sku": "Standard_LRS",
+      "kind": "StorageV2"
+    },
+    {
+      "name": "CanadaCentralLinuxDynamicPlan",
+      "type": "Microsoft.Web/serverfarms",
+      "sku": "Y1",
+      "tier": "Dynamic"
+    },
+    {
+      "name": "orfe-dept-azure-sdc-func",
+      "type": "Microsoft.Web/sites",
+      "runtime": "Python|3.11"
+    },
+    {
+      "name": "orfe-dept-azure-sdc-func",
+      "type": "Microsoft.Insights/components"
+    },
+    {
+      "name": "orfe-dept-azure-sdc-o365",
+      "type": "Microsoft.Web/connections",
+      "api": "office365",
+      "authorization": "existing; never exported"
+    },
+    {
+      "name": "orfe-dept-azure-sdc-github",
+      "type": "Microsoft.Web/connections",
+      "api": "github",
+      "authorization": "existing; never exported"
+    },
+    {
+      "name": "orfe-dept-azure-sdc-logic",
+      "type": "Microsoft.Logic/workflows",
+      "purpose": "original arrival trigger"
+    }
+  ]
+}
