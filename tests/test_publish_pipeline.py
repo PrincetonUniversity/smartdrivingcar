@@ -178,3 +178,125 @@ def test_listserv_macro_on_same_html_line_does_not_erase_newsletter():
     result = safe_html("<html><body>" + BODY + "<p>TICKET_URL(SIGNOFF)</p></body></html>")
     assert "Useful commentary" in result
     assert "TICKET_URL" not in result
+
+
+def test_author_words_and_cross_references_are_preserved():
+    from bs4 import BeautifulSoup
+
+    source = '<p>Earlier analysis at <a href="https://smartdrivingcar.com/14.15-Godfather-9.26.26/">the previous issue</a> still matters.</p><p>Visit smartdrivingcar.com for context.</p>'
+    result = safe_html(source)
+    assert (
+        BeautifulSoup(result, "html.parser").get_text()
+        == BeautifulSoup(source, "html.parser").get_text()
+    )
+    assert 'href="https://smartdrivingcar.com/14.15-Godfather-9.26.26/"' in result
+
+
+def test_word_emphasis_is_semantic_and_idempotent():
+    from bs4 import BeautifulSoup
+
+    source = '<p><span style="font-weight:700;font-style:italic;color:#C00000">Hmmmm… “Exact words”—Alain.</span></p>'
+    result = safe_html(source)
+    soup = BeautifulSoup(result, "html.parser")
+    assert soup.find("strong") and soup.find("em")
+    assert soup.find(class_="newsletter-accent")
+    assert soup.get_text() == BeautifulSoup(source, "html.parser").get_text()
+    assert "style=" not in result
+    assert safe_html(result) == result
+
+
+def test_large_linked_article_title_becomes_scannable_heading():
+    from bs4 import BeautifulSoup
+
+    source = '<p><b><span style="font-size:18.0pt"><a href="https://example.org/story">The next chapter in accessible autonomous transport</a></span></b></p><p>Article quotation.</p>'
+    result = safe_html(source)
+    soup = BeautifulSoup(result, "html.parser")
+    assert soup.find("h3", class_="newsletter-article-title")
+    assert soup.get_text() == BeautifulSoup(source, "html.parser").get_text()
+
+
+def test_generic_inline_spans_and_spacer_paragraphs_do_not_bloat_layout():
+    result = safe_html(
+        '<p>&nbsp;</p><p><span style="position:fixed;background:url(https://bad.test)">Keep these words.</span></p>'
+    )
+    assert result == "<p>Keep these words.</p>"
+
+
+def test_email_date_is_not_promoted_to_an_article_heading():
+    from bs4 import BeautifulSoup
+
+    result = safe_html(
+        '<p style="font-size:20pt"><a href="https://smartdrivingcar.com/">Thursday, October 22, 2026</a></p>'
+    )
+    assert not BeautifulSoup(result, "html.parser").find("h3")
+    assert "Thursday, October 22, 2026" in result
+
+
+def test_styled_empty_image_link_still_has_a_visible_destination():
+    from bs4 import BeautifulSoup
+
+    result = safe_html(
+        '<p><a href="https://example.org/event"><span style="font-weight:bold"><img src="cid:poster" alt=""></span></a></p>'
+    )
+    anchor = BeautifulSoup(result, "html.parser").find("a")
+    assert anchor and anchor.get_text(strip=True) == "https://example.org/event"
+
+
+def test_explicit_word_emphasis_resets_remain_visible():
+    from bs4 import BeautifulSoup
+
+    result = safe_html(
+        '<p><i><b>Emphasis <span style="font-style:normal;font-weight:400">ordinary quoted words</span></b></i></p>'
+    )
+    span = BeautifulSoup(result, "html.parser").find("span")
+    assert span and {"newsletter-upright", "newsletter-normal-weight"} <= set(span["class"])
+    assert safe_html(result) == result
+
+
+def test_short_centered_masthead_is_compact_without_changing_words():
+    from bs4 import BeautifulSoup
+
+    source = (
+        '<p align="center"><b>SmartDrivingCars eLetter</b></p><h3>Article</h3><p>Commentary.</p>'
+    )
+    result = safe_html(source)
+    soup = BeautifulSoup(result, "html.parser")
+    assert soup.find("p", class_="newsletter-intro")
+    assert soup.get_text() == BeautifulSoup(source, "html.parser").get_text()
+    assert safe_html(result) == result
+
+
+def test_image_alternative_text_is_kept_as_a_subtle_caption():
+    from bs4 import BeautifulSoup
+
+    result = safe_html('<p><img src="cid:logo" alt="TNY"> Article headline.</p>')
+    assert (
+        BeautifulSoup(result, "html.parser").find("span", class_="newsletter-image-alt").get_text()
+        == "TNY"
+    )
+    assert safe_html(result) == result
+
+
+def test_malformed_date_permalink_does_not_create_a_broken_header_link():
+    from bs4 import BeautifulSoup
+
+    source = '<p><a href="https://smartdrivingcar.com/Thursday,%20October%2022,%202026">Thursday, October 22, 2026</a></p>'
+    result = safe_html(source)
+    assert BeautifulSoup(result, "html.parser").get_text() == "Thursday, October 22, 2026"
+    assert not BeautifulSoup(result, "html.parser").find("a")
+
+
+def test_empty_unlinked_images_do_not_change_the_next_render_fingerprint():
+    source = '<p><b><span style="color:#C00000"><img src="cid:empty" alt=""></span></b></p>' + BODY
+    rendered = safe_html(source)
+    assert safe_html(rendered) == rendered
+
+
+def test_word_wrapper_whitespace_has_a_stable_fingerprint():
+    source = (
+        '<div><span style="font-family:Arial">\n</span><span style="font-family:Arial">\n</span>'
+        + BODY
+        + "</div>"
+    )
+    rendered = safe_html(source)
+    assert safe_html(rendered) == rendered

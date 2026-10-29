@@ -157,3 +157,11 @@ The next optional enhancement is validated extraction of CID image attachments i
 The existing-connection folder probe resolved SDC Testing and read one copied message. The full mailbox-to-Function-to-GitHub test then scanned one message, accepted one, rejected none, and built the isolated preview successfully. [The successful test run](https://github.com/PrincetonUniversity/smartdrivingcar/actions/runs/40902473326) performed no newsletter commit or Pages deployment. Its Azure correlation ID is `06aad212-ab19-4987-a232-f61033ad3d87`.
 
 This test exposed and fixed a cleanup defect: compact Outlook HTML could place the gateway warning or a Listserv macro on the same source line as the entire article. Line-based cleanup erased the article. Cleanup now removes the bounded warning DOM block and individual macro text instead. Copying mail with Outlook is sufficient; opening or marking it read is not part of processing.
+
+## Authorial fidelity and web presentation
+
+Renderer version 2 preserves the professor's wording, punctuation, quotations, cross-issue links, bold/italic emphasis, and explicit emphasis resets. Word's red and blue text is mapped to a small set of controlled CSS classes. Large linked article titles become semantic headings; short centered masthead paragraphs receive compact spacing. Arbitrary email CSS is never published. The site keeps its existing logo, navigation, Open Sans typography, blue link palette, and white reading surface. Red source emphasis remains visible in a readable darker red.
+
+The latest issue was reparsed from the original EML. A comparison against the previously published edition found no removed non-whitespace prose characters. Source header/cross-reference text that old cleanup had erased was restored, including “It's been a while.” Desktop and 390-pixel phone layouts were checked in a real browser with no horizontal page overflow. Tests cover source text preservation, heading recognition, emphasis, inline resets, safe image alternatives, empty linked-image fallbacks, and repeated rendering stability.
+
+Images still use alternative text or a visible destination link; attached images and tracking pixels are not fetched. Malformed date-style self-links are unwrapped while their date text remains. Image attachment extraction remains the separate, size/type-validated enhancement described above.

@@ -155,3 +155,29 @@ main#content > .newsletter-issue > .issue-body { width: 100%; max-width: 78ch; }
 .email-newsletter blockquote { border-left: 3px solid #2ea3f2; margin-left: 0; padding-left: 1rem; }
 .email-newsletter pre { white-space: pre-wrap; }
 @media (max-width: 600px) { main#content { width: 92%; } .newsletter-issue header h2 { font-size: 1.6rem; } }
+
+/* Preserve the email's emphasis while using the site's reading typography. */
+.newsletter-issue > .issue-header { padding-bottom: 1.5rem; border-bottom: 1px solid #e4e8ed; margin-bottom: 2rem; }
+.newsletter-issue .issue-header .meta { display: flex; flex-wrap: wrap; align-items: center; gap: .5rem 1.5rem; margin: .8rem 0 0; }
+.issue-header .meta a { color: #176da0; text-decoration: none; }
+.issue-header .meta a:hover, .issue-header .meta a:focus { text-decoration: underline; }
+.email-newsletter { line-height: 1.8; }
+.email-newsletter p { margin: 0 0 1.15rem; }
+.email-newsletter a { color: #176da0; text-decoration: underline; text-decoration-color: #a2c6db; text-underline-offset: .16em; }
+.email-newsletter a:hover, .email-newsletter a:focus { color: #0b4d78; text-decoration-color: currentColor; }
+.email-newsletter .newsletter-accent { color: #a02b25; }
+.email-newsletter .newsletter-blue-emphasis { color: #176da0; }
+.email-newsletter h3.newsletter-article-title { margin: 2.3rem 0 .9rem; padding-top: 1.4rem; border-top: 1px solid #e4e8ed; font-size: 1.3rem; line-height: 1.4; font-weight: 700; }
+.email-newsletter h3.newsletter-article-title:first-of-type { margin-top: 1.7rem; padding-top: 0; border-top: 0; }
+.email-newsletter h3.newsletter-article-title a { text-decoration: none; }
+.email-newsletter blockquote { margin: 1.4rem 0; padding: .3rem 1.1rem; color: #394856; background: #f7fafc; border-left: 3px solid #c4dce9; }
+.email-newsletter li { margin-bottom: .35rem; }
+@media (max-width: 600px) { .email-newsletter { font-size: 1rem; } .email-newsletter h3.newsletter-article-title { font-size: 1.18rem; } }
+@media print { .issue-header .meta a { display: none; } .email-newsletter .newsletter-accent, .email-newsletter .newsletter-blue-emphasis { color: inherit; } }
+
+.email-newsletter p.newsletter-intro { margin-bottom: .4rem; font-size: .94rem; color: #596677; }
+.email-newsletter .newsletter-upright { font-style: normal; }
+.email-newsletter .newsletter-normal-weight { font-weight: 400; }
+
+.email-newsletter .newsletter-image-alt { font-size: .76rem; letter-spacing: .05em; font-weight: 600; color: #647184; }
+.email-newsletter .newsletter-intro .newsletter-blue-emphasis { color: inherit; }

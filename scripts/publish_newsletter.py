@@ -14,11 +14,11 @@ import re
 from datetime import date
 from pathlib import Path
 from typing import Any
-from urllib.parse import parse_qs, urlsplit
+from urllib.parse import parse_qs, unquote, urlsplit
 
 import yaml
 from bs4 import BeautifulSoup, Comment, Doctype, NavigableString, Tag
-from import_newsletter import ensure_archive_pages, remove_sdc_line
+from import_newsletter import ensure_archive_pages
 
 SLUG = re.compile(r"\d{1,3}\.\d{1,3}-[A-Za-z0-9]+(?:[-.][A-Za-z0-9]+)*")
 SUBJECT = re.compile(
@@ -26,6 +26,7 @@ SUBJECT = re.compile(
 )
 ALLOWED = {
     "p",
+    "span",
     "div",
     "h1",
     "h2",
@@ -136,16 +137,68 @@ def remove_html_gateway_banner(soup: BeautifulSoup) -> None:
                 break
 
 
+PRESENTATION_CLASSES = {
+    "newsletter-accent",
+    "newsletter-blue-emphasis",
+    "newsletter-article-title",
+    "newsletter-intro",
+    "newsletter-upright",
+    "newsletter-normal-weight",
+    "newsletter-image-alt",
+}
+RED_INK = {"red", "#ff0000", "#c00000", "#c82613", "rgb(192,0,0)", "rgb(200,38,19)"}
+BLUE_INK = {"blue", "#0000ff", "#0563c1", "rgb(0,0,255)"}
+
+
+def word_style(node: Tag) -> dict[str, str]:
+    """Interpret only semantic cues, never pass email CSS to the web page."""
+    return {
+        key.strip().lower(): value.strip().lower()
+        for declaration in str(node.get("style", "")).split(";")
+        if ":" in declaration
+        for key, value in [declaration.split(":", 1)]
+    }
+
+
+def article_heading(node: Tag) -> bool:
+    if node.name != "p":
+        return False
+    text = node.get_text(" ", strip=True)
+    links = node.find_all("a")
+    if not 20 <= len(text) <= 240 or len(links) != 1:
+        return False
+    if len(links[0].get_text(" ", strip=True)) < len(text) * 0.9:
+        return False
+    if not safe_url(str(links[0].get("href", ""))):
+        return False
+    if re.search(
+        r"\b(?:Monday|Tuesday|Wednesday|Thursday|Friday|Saturday|Sunday),?\s+[A-Za-z]+\.?\s+\d{1,2},\s+\d{4}",
+        text,
+        re.I,
+    ):
+        return False
+    for styled in [node, *node.find_all(style=True)]:
+        size = word_style(styled).get("font-size", "")
+        match = re.fullmatch(r"(\d+(?:\.\d+)?)pt", size)
+        if match and float(match.group(1)) >= 14:
+            return True
+    return False
+
+
 def safe_html(body: str) -> str:
     if not isinstance(body, str) or len(body.encode()) > MAX_BODY:
         raise ValueError("Newsletter body is missing or too large")
     soup = BeautifulSoup(body, "html.parser")
     remove_html_gateway_banner(soup)
-    soup = BeautifulSoup(remove_sdc_line(str(soup)), "html.parser")
     for node in list(soup.find_all(string=lambda text: isinstance(text, (Comment, Doctype)))):
         node.extract()
     for tag in list(soup.find_all(list(DROP))):
         tag.decompose()
+    for node in soup.find_all(string=re.compile(r"TICKET_URL\(", re.I)):
+        node.replace_with(re.sub(r"TICKET_URL\([^)]*\)", "", str(node), flags=re.I))
+    for paragraph in list(soup.find_all("p")):
+        if not paragraph.get_text(strip=True) and not paragraph.find(["img", "hr"]):
+            paragraph.decompose()
     # Remove per-recipient Listserv subscription tickets and historical appendices.
     for tag in list(soup.find_all(["p", "div"])):
         if tag.parent is None:
@@ -167,6 +220,18 @@ def safe_html(body: str) -> str:
         ):
             tag.extract()
 
+    intro_count = 0
+    for paragraph in soup.find_all(["p", "h1", "h2", "h3"]):
+        if paragraph.name != "p" or article_heading(paragraph) or intro_count >= 5:
+            break
+        centered = (
+            str(paragraph.get("align", "")).lower() == "center"
+            or word_style(paragraph).get("text-align") == "center"
+        )
+        if centered and 0 < len(paragraph.get_text(" ", strip=True)) <= 160:
+            paragraph["class"] = "newsletter-intro"
+            intro_count += 1
+
     def render(node: Any) -> str:
         if isinstance(node, NavigableString):
             return escape(str(node))
@@ -174,23 +239,79 @@ def safe_html(body: str) -> str:
             return ""
         if node.name == "img":
             # CID images and tracking pixels cannot load; retain descriptive alt text.
-            return escape(str(node.get("alt", "")))
+            alternative = escape(str(node.get("alt", "")))
+            return (
+                '<span class="newsletter-image-alt">' + alternative + "</span>"
+                if alternative.strip()
+                else ""
+            )
         content = "".join(render(child) for child in node.children)
-        if node.name not in ALLOWED:
+        if (
+            node.name == "p"
+            and not BeautifulSoup("<div>" + content + "</div>", "html.parser").get_text(strip=True)
+            and not re.search(r"<(?:br|hr)\b", content)
+        ):
+            return ""
+        style = word_style(node)
+        if style.get("font-weight") in {"bold", "700", "800", "900"} and node.name not in {
+            "b",
+            "strong",
+        }:
+            content = "<strong>" + content + "</strong>"
+        if style.get("font-style") == "italic" and node.name not in {"i", "em"}:
+            content = "<em>" + content + "</em>"
+        if style.get("text-decoration") == "underline" and node.name != "u":
+            content = "<u>" + content + "</u>"
+        raw_classes = node.get("class")
+        class_names = (
+            raw_classes
+            if isinstance(raw_classes, list)
+            else (raw_classes.split() if isinstance(raw_classes, str) else [])
+        )
+        classes = set(class_names) & PRESENTATION_CLASSES
+        if style.get("font-style") == "normal":
+            classes.add("newsletter-upright")
+        if style.get("font-weight") in {"normal", "400"}:
+            classes.add("newsletter-normal-weight")
+        color = re.sub(r"\s+", "", style.get("color", ""))
+        if color in RED_INK:
+            classes.add("newsletter-accent")
+        elif color in BLUE_INK and node.name != "a":
+            classes.add("newsletter-blue-emphasis")
+        name = node.name
+        if article_heading(node):
+            name = "h3"
+            classes.add("newsletter-article-title")
+        if name not in ALLOWED or (name == "span" and not classes):
             return content
         attrs = ""
-        if node.name == "a":
+        if name == "a":
             target = safe_url(str(node.get("href", "")))
             if not target:
                 return content
-            if not content.strip():
+            parsed = urlsplit(target)
+            if parsed.hostname in {"smartdrivingcar.com", "www.smartdrivingcar.com"} and re.match(
+                r"^/(?:Monday|Tuesday|Wednesday|Thursday|Friday|Saturday|Sunday),\s",
+                unquote(parsed.path),
+                re.I,
+            ):
+                return content
+            if not BeautifulSoup("<div>" + content + "</div>", "html.parser").get_text(strip=True):
                 content = escape(target)
             attrs = f' href="{escape(target)}" rel="noopener noreferrer"'
-        if node.name in {"br", "hr"}:
-            return f"<{node.name}>"
-        return f"<{node.name}{attrs}>{content}</{node.name}>"
+        if classes:
+            attrs += ' class="' + " ".join(sorted(classes)) + '"'
+        if name in {"br", "hr"}:
+            return f"<{name}>"
+        return f"<{name}{attrs}>{content}</{name}>"
 
-    return "".join(render(child) for child in soup.children).strip()
+    rendered = "".join(render(child) for child in soup.children).strip()
+    # Unwrapping Word's spans can join whitespace nodes. Canonicalize once so
+    # Function and receiver fingerprints agree, while preserving preformatted text.
+    canonical = BeautifulSoup("<div>" + rendered + "</div>", "html.parser").div
+    if canonical is None:
+        raise ValueError("Newsletter HTML normalization failed")
+    return canonical.decode_contents().replace("{", "&#123;").replace("}", "&#125;")
 
 
 def validate_slug(slug: Any) -> str:
@@ -230,7 +351,7 @@ def parse_newsletter(
         "permalink": f"/{slug}/",
         "display_name": title,
         "source_sha256": hashlib.sha256(rendered.encode()).hexdigest(),
-        "parser_version": 1,
+        "parser_version": 2,
         "source_authority": "curated" if curated else "mailbox",
     }
     markdown = "---\n" + yaml.safe_dump(metadata, sort_keys=False, allow_unicode=True) + "---\n\n"
