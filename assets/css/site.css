@@ -128,16 +128,11 @@ section:last-of-type{margin-bottom:0}
 .newsletter-main{min-width:0}
 .newsletter-main h2{margin-top:0}
 .archive-navigation{display:block}
-.archive-navigation h3,.archive-browser h3{margin:24px 0 12px;font-size:1rem;color:#666}
+.archive-navigation h3{margin:24px 0 12px;font-size:1rem;color:#666}
 .archive-link-list{list-style:none;margin:0;padding:0}
 .archive-link-list li{margin:0 0 8px}
 .archive-link-list a{color:#176da0;text-decoration:none;font-weight:600}
 .archive-link-list a:hover,.archive-link-list a:focus{text-decoration:underline}
-.archive-browser{margin:0 0 24px;padding:.4rem 0}
-.archive-browser summary{cursor:pointer;color:#176da0;font-weight:600}
-.archive-browser summary:focus-visible{outline:2px solid #176da0;outline-offset:4px}
-.archive-browser .archive-link-list{display:flex;flex-wrap:wrap;gap:.3rem 1rem}
-.archive-browser .archive-link-list li{margin:0}
 @media (max-width:768px){
 .archive-layout{grid-template-columns:minmax(0,1fr);gap:30px}
 .archive-sidebar{order:-1}

@@ -43,21 +43,20 @@ def check_archive_navigation(root: Path = Path("_site")) -> int:
         for blocked in soup.select(".newsletter-sidebar, #newsletter-sidebar"):
             blocked.decompose()
         sidebar = soup.select_one(".archive-sidebar nav")
-        browser = soup.select_one(".archive-issues details")
-        fallback = browser.find("nav") if browser else None
-        if sidebar is None or browser is None or fallback is None or not browser.summary:
-            raise ValueError("Archive navigation needs a separate native fallback")
+        if sidebar is None:
+            raise ValueError("Archive navigation is missing")
+        if soup.select(".archive-browser"):
+            raise ValueError("Archive navigation has a duplicate disclosure")
         sidebar_links = {str(link["href"]) for link in sidebar.select("a[href]")}
-        fallback_links = {str(link["href"]) for link in fallback.select("a[href]")}
-        if not sidebar_links or sidebar_links != fallback_links:
-            raise ValueError("Archive navigation links are missing or inconsistent")
+        if not sidebar_links:
+            raise ValueError("Archive navigation links are missing")
         if any(not target.startswith("/newsletter/") for target in sidebar_links):
             raise ValueError("Archive navigation contains a non-archive destination")
-        if browser.select("script,form,input,button,[onclick],[onchange],[hidden]"):
-            raise ValueError("Archive fallback must use ordinary native HTML")
+        if sidebar.select("script,form,input,button,[onclick],[onchange],[hidden]"):
+            raise ValueError("Archive navigation must use ordinary native HTML")
         if sidebar.get("hidden") is not None or sidebar.get("aria-hidden") == "true":
             raise ValueError("Archive navigation was explicitly hidden")
-    print(f"PASS: all {len(pages)} archive indexes retain independent native navigation")
+    print(f"PASS: all {len(pages)} archive indexes retain native navigation without duplication")
     return len(pages)
 
 

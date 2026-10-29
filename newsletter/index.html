@@ -9,12 +9,6 @@ permalink: /newsletter/
 <div class="archive-layout">
   <section class="archive-issues" aria-labelledby="recent-issues">
     <h2 id="recent-issues">Recent Issues</h2>
-    <details class="archive-browser">
-      <summary>Browse archive</summary>
-      <nav aria-label="Archive navigation in content">
-        {% include archive-links.html %}
-      </nav>
-    </details>
     <ul class="archive-issue-list">
     {% assign issues = site.newsletters | sort: 'date' | reverse %}
     {% for issue in issues %}

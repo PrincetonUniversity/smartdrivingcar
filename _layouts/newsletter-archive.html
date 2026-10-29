@@ -8,12 +8,6 @@ layout: default
   <section class="archive-issues" aria-label="Newsletter issues">
     <p><a href="/newsletter/">&larr; All Newsletters</a>{% if page.year and page.month %} | <a href="/newsletter/{{ page.year }}/">{{ page.year }}</a>{% endif %}</p>
 
-    <details class="archive-browser">
-      <summary>Browse archive</summary>
-      <nav aria-label="Archive navigation in content">
-        {% include archive-links.html %}
-      </nav>
-    </details>
     <ul class="archive-issue-list">
     {% assign issues = site.newsletters | sort: 'date' | reverse %}
     {% for issue in issues %}
