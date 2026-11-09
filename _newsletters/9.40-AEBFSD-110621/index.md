@@ -2,11 +2,14 @@
 layout: newsletter
 title: "2021-11-07"
 date: 2021-11-07
-permalink: /9.40-AEB&amp;FSD-110621/
-display_name: "9.40 - Aeb&Amp;Fsd 110621"
+permalink: /9.40-AEBFSD-110621/
+redirect_from:
+- /9.40-AEB&FSD-110621/
+- /9.40-AEB&amp;FSD-110621/
+display_name: "9.40 - AEB&FSD"
 presentation_version: 1
 presentation_text_sha256: 39b6517a71b6ae4959dc57669ea4d38e82badcc2d03fa6cd0ff1d5f568a47b5f
-presentation_title: 9.40 - AEB&amp;FSD
+presentation_title: 9.40 - AEB&FSD
 ---
 
 <nav class="newsletter-contents" aria-label="In this issue" markdown="0">
