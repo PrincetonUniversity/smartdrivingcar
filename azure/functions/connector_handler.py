@@ -68,7 +68,7 @@ def prepare_connector_batch(req: func.HttpRequest) -> func.HttpResponse:
         "Connector batch accepted; scanned=%d accepted=%d invalid=%d remaining=%d",
         result["scanned"],
         result["accepted"],
-        result["invalid"],
+        len(result["invalid_details"]),
         result["remaining"],
     )
     return func.HttpResponse(json.dumps(result), status_code=200, mimetype="application/json")

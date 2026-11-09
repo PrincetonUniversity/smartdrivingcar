@@ -173,7 +173,8 @@ def prepare_batch(
         "scanned": len(messages),
         "accepted": 0,
         "rejected": 0,
-        "invalid": 0,
+        # GitHub allows at most 10 top-level client_payload properties; the
+        # invalid count is len(invalid_details), not a separate property.
         "invalid_details": [],
         "remaining": 0,
         "issues": [],
@@ -181,7 +182,6 @@ def prepare_batch(
     }
 
     def report_invalid(reason: str, received: Any) -> None:
-        result["invalid"] += 1
         result["invalid_details"].append(invalid_entry(reason, received))
 
     pending: list[dict[str, str]] = []
