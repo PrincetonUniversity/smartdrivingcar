@@ -176,8 +176,12 @@ def test_managed_existing_issue_conflict_is_visible():
             return_value={"source_sha256": "old", "source_authority": "mailbox"},
         ),
     ):
-        with pytest.raises(ValueError, match="conflict"):
-            prepare_batch([MESSAGE], "production", CORRELATION, SETTINGS)
+        result = prepare_batch([MESSAGE], "production", CORRELATION, SETTINGS)
+    assert result["invalid"] == 1
+    assert result["invalid_details"] == [
+        {"reason": "content_conflict", "received": MESSAGE["receivedDateTime"]}
+    ]
+    assert result["verify_slugs"] == []
 
 
 def test_renderer_is_stable_across_function_and_receiver():
@@ -214,8 +218,27 @@ def test_function_returns_safe_validation_reason_for_operators(monkeypatch):
         ).encode(),
     )
     response = handler(request)
-    assert response.status_code == 400
-    assert json.loads(response.get_body())["reason"] == "invalid_issue_date"
+    # A bad newsletter is reported per message; the rest of the batch proceeds.
+    assert response.status_code == 200
+    assert json.loads(response.get_body())["invalid_details"] == [
+        {"reason": "invalid_issue_date", "received": MESSAGE["receivedDateTime"]}
+    ]
+    # A problem with the batch itself still rejects it with a safe reason code.
+    whole = func.HttpRequest(
+        method="POST",
+        url="/api/prepare-connector-batch",
+        body=json.dumps(
+            {
+                "messages": [MESSAGE],
+                "mode": "test",
+                "correlation_id": CORRELATION,
+                "message_limit": 1,
+            }
+        ).encode(),
+    )
+    rejected = handler(whole)
+    assert rejected.status_code == 400
+    assert json.loads(rejected.get_body())["reason"] == "connector_limit_reached"
 
 
 # ── Punctuation in issue titles (14.17-M&E-11.8.26 stalled every batch) ──
@@ -284,3 +307,96 @@ def test_degenerate_or_hostile_titles_are_still_safe(subject):
     except ValueError:
         return
     assert "<script>" not in issue["markdown"].split("---\n", 2)[1]
+
+
+# ── One bad newsletter must not block the others (Nov 8 outage) ──────────
+
+
+def candidate(subject, received="2026-11-08T21:50:00Z", **overrides):
+    return {**copy.deepcopy(MESSAGE), "subject": subject, "receivedDateTime": received, **overrides}
+
+
+GOOD = candidate("SmartDrivingCars_14.17-ME-11.8.26")
+FUTURE = candidate("SmartDrivingCars_14.18-Future-12.31.26")  # issue date after receipt
+NOT_HTML = candidate("SmartDrivingCars_14.19-Plain-11.8.26", isHtml=False)
+
+
+def test_bad_candidate_is_reported_and_good_one_still_published():
+    result = batch("production", messages=[FUTURE, GOOD, NOT_HTML], known=set())
+    assert [item["subject"] for item in result["issues"]] == [GOOD["subject"]]
+    assert result["verify_slugs"] == ["14.17-ME-11.8.26"]
+    assert (result["accepted"], result["invalid"], result["rejected"]) == (1, 2, 0)
+    assert result["invalid_details"] == [
+        {"reason": "invalid_issue_date", "received": FUTURE["receivedDateTime"]},
+        {"reason": "html_body_required", "received": NOT_HTML["receivedDateTime"]},
+    ]
+
+
+def test_invalid_details_carry_no_content_or_subjects():
+    result = batch("production", messages=[FUTURE], known=set())
+    dumped = json.dumps(result["invalid_details"])
+    assert "Future" not in dumped and "commentary" not in dumped and "@" not in dumped
+    assert all(set(item) == {"reason", "received"} for item in result["invalid_details"])
+
+
+def test_clean_batch_reports_zero_invalid():
+    result = batch("production", messages=[GOOD], known=set())
+    assert (result["invalid"], result["invalid_details"]) == (0, [])
+
+
+def test_single_oversized_newsletter_is_reported_without_blocking_others():
+    huge = candidate(
+        "SmartDrivingCars_14.15-Huge-11.1.26",
+        received="2026-11-01T12:00:00Z",
+        body="<p>" + "x" * 70_000 + "</p>",
+    )
+    result = batch("production", messages=[huge, GOOD], known=set())
+    assert [item["subject"] for item in result["issues"]] == [GOOD["subject"]]
+    assert result["invalid_details"] == [
+        {"reason": "dispatch_too_large", "received": huge["receivedDateTime"]}
+    ]
+    assert result["remaining"] == 0
+
+
+def test_batch_level_problems_still_reject_the_whole_batch():
+    with pytest.raises(ValueError, match="limit"):
+        prepare_batch([GOOD] * 100, "production", CORRELATION, SETTINGS, set())
+    with pytest.raises(ValueError):
+        prepare_batch([GOOD], "production", "not-a-uuid", SETTINGS, set())
+    with pytest.raises(ValueError):
+        prepare_batch("not a list", "production", CORRELATION, SETTINGS, set())
+
+
+def test_upstream_inventory_failure_is_not_mistaken_for_a_bad_message():
+    with (
+        patch("connector_batch.known_newsletters", return_value={"14.16-badMedia-10.22.26"}),
+        patch("connector_batch.public_metadata", side_effect=RuntimeError("API down")),
+    ):
+        with pytest.raises(RuntimeError):
+            prepare_batch([MESSAGE], "production", CORRELATION, SETTINGS)
+
+
+def test_receiver_carries_invalid_report(tmp_path):
+    payload = batch("production", messages=[FUTURE, GOOD], known=set())
+    report = receive_batch(payload, mode="production", root=tmp_path)
+    assert report["created"] == 1
+    assert report["invalid"] == 1
+    assert report["invalid_details"] == [
+        {"reason": "invalid_issue_date", "received": FUTURE["receivedDateTime"]}
+    ]
+
+
+@pytest.mark.parametrize(
+    "details",
+    [
+        [{"reason": "made_up", "received": "2026-11-08T21:50:00Z"}],
+        [{"reason": "identifier_invalid", "received": "<script>"}],
+        [{"reason": "identifier_invalid", "received": "2026-11-08T21:50:00Z", "subject": "x"}],
+        [{"reason": "identifier_invalid", "received": "2026-11-08T21:50:00Z"}] * 101,
+        "not a list",
+    ],
+)
+def test_receiver_rejects_malformed_invalid_report(tmp_path, details):
+    payload = {**batch("production", messages=[GOOD], known=set()), "invalid_details": details}
+    with pytest.raises(ValueError, match="invalid report"):
+        receive_batch(payload, mode="production", root=tmp_path)
