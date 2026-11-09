@@ -27,6 +27,29 @@ MAX_DISPATCH = 58_000  # Entire GitHub dispatch body must stay below 64 KiB.
 MODES = {"test", "production"}
 
 
+def reason_code(error: Exception) -> str:
+    """Public, content-free reason code for a validation error."""
+    message = str(error)
+    public = {
+        "Newsletter body is empty or unexpectedly short": "body_too_short",
+        "Newsletter body is missing or too large": "body_missing_or_too_large",
+        "Newsletter identifier must include its issue date": "issue_date_suffix_missing",
+        "Issue date is later than mailbox receipt date": "invalid_issue_date",
+        "Invalid newsletter identifier": "identifier_invalid",
+        "Candidate requires an HTML body": "html_body_required",
+        "Newsletter candidate is missing the expected Princeton Listserv headers": "listserv_header_mismatch",
+        "Connector result reached limit or is invalid; narrow lookback or increase limit": "connector_limit_reached",
+        "A single newsletter exceeds GitHub dispatch size; use reviewed local import": "dispatch_too_large",
+    }
+    if message in public:
+        return public[message]
+    if any(
+        word in message.lower() for word in ("month", "day", "year", "isoformat", "received date")
+    ):
+        return "invalid_issue_date"
+    return "invalid_input_shape"
+
+
 def addresses(value: Any) -> set[str]:
     if isinstance(value, dict):
         return addresses(value.get("emailAddress", {}).get("address", ""))
