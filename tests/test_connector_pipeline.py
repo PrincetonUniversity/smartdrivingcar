@@ -177,7 +177,7 @@ def test_managed_existing_issue_conflict_is_visible():
         ),
     ):
         result = prepare_batch([MESSAGE], "production", CORRELATION, SETTINGS)
-    assert result["invalid"] == 1
+    assert len(result["invalid_details"]) == 1
     assert result["invalid_details"] == [
         {"reason": "content_conflict", "received": MESSAGE["receivedDateTime"]}
     ]
@@ -325,7 +325,7 @@ def test_bad_candidate_is_reported_and_good_one_still_published():
     result = batch("production", messages=[FUTURE, GOOD, NOT_HTML], known=set())
     assert [item["subject"] for item in result["issues"]] == [GOOD["subject"]]
     assert result["verify_slugs"] == ["14.17-ME-11.8.26"]
-    assert (result["accepted"], result["invalid"], result["rejected"]) == (1, 2, 0)
+    assert (result["accepted"], len(result["invalid_details"]), result["rejected"]) == (1, 2, 0)
     assert result["invalid_details"] == [
         {"reason": "invalid_issue_date", "received": FUTURE["receivedDateTime"]},
         {"reason": "html_body_required", "received": NOT_HTML["receivedDateTime"]},
@@ -341,7 +341,7 @@ def test_invalid_details_carry_no_content_or_subjects():
 
 def test_clean_batch_reports_zero_invalid():
     result = batch("production", messages=[GOOD], known=set())
-    assert (result["invalid"], result["invalid_details"]) == (0, [])
+    assert result["invalid_details"] == []
 
 
 def test_single_oversized_newsletter_is_reported_without_blocking_others():
@@ -400,3 +400,11 @@ def test_receiver_rejects_malformed_invalid_report(tmp_path, details):
     payload = {**batch("production", messages=[GOOD], known=set()), "invalid_details": details}
     with pytest.raises(ValueError, match="invalid report"):
         receive_batch(payload, mode="production", root=tmp_path)
+
+
+def test_dispatch_payload_fits_githubs_property_limit():
+    """repository_dispatch allows at most 10 top-level client_payload properties
+    (422 "No more than 10 properties are allowed; 11 were supplied", Nov 9)."""
+    for messages in ([GOOD], [FUTURE, GOOD], [MESSAGE]):
+        result = batch("production", messages=messages, known=set())
+        assert len(result) <= 10, sorted(result)
