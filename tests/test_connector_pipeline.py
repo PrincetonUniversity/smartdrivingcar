@@ -216,3 +216,71 @@ def test_function_returns_safe_validation_reason_for_operators(monkeypatch):
     response = handler(request)
     assert response.status_code == 400
     assert json.loads(response.get_body())["reason"] == "invalid_issue_date"
+
+
+# ── Punctuation in issue titles (14.17-M&E-11.8.26 stalled every batch) ──
+
+PUNCTUATED = [
+    ("SmartDrivingCars_14.17-M&E-11.8.26", "14.17-ME-11.8.26", "14.17 - M&E"),
+    (
+        "SmartDrivingCars_14.18-Waymo's Turn-11.15.26",
+        "14.18-Waymos-Turn-11.15.26",
+        "14.18 - Waymo's Turn",
+    ),
+    (
+        "SmartDrivingCars 14.19-Tesla, Waymo!-11.22.26",
+        "14.19-Tesla-Waymo-11.22.26",
+        "14.19 - Tesla, Waymo!",
+    ),
+    (
+        "SmartDrivingCars 14.20-Q&A (Part 2)?-11.29.26",
+        "14.20-QA-Part-2-11.29.26",
+        "14.20 - Q&A (Part 2)?",
+    ),
+]
+
+
+@pytest.mark.parametrize("subject, slug, title", PUNCTUATED)
+def test_punctuation_is_dropped_from_identifier_but_kept_in_title(subject, slug, title):
+    from publish_newsletter import parse_newsletter
+
+    issue = parse_newsletter(BODY, subject, "2026-12-01")
+    assert issue["slug"] == slug
+    assert f"permalink: /{slug}/" in issue["markdown"]
+    assert title in issue["markdown"]
+
+
+def test_existing_identifiers_are_unchanged():
+    from publish_newsletter import parse_newsletter
+
+    assert parse_newsletter(BODY, SUBJECT, "2026-10-22")["slug"] == "14.16-badMedia-10.22.26"
+
+
+def test_real_m_and_e_issue_passes_the_connector_batch():
+    """The exact Nov 8 subject must not reject the batch (identifier_invalid)."""
+    message = {
+        **copy.deepcopy(MESSAGE),
+        "subject": "SmartDrivingCars_14.17-M&E-11.8.26",
+        "receivedDateTime": "2026-11-08T21:50:00Z",
+    }
+    with patch("connector_batch.request_json", side_effect=AssertionError("no network in tests")):
+        result = batch("production", messages=[message], known={"14.16-badMedia-10.22.26"})
+    assert (result["accepted"], result["rejected"]) == (1, 0)
+    assert result["verify_slugs"] == ["14.17-ME-11.8.26"]
+
+
+@pytest.mark.parametrize(
+    "subject",
+    [
+        "SmartDrivingCars_14.17-&&&-11.8.26",  # nothing left after stripping
+        "SmartDrivingCars_14.17-<script>-11.8.26",  # stripped, but must not smuggle markup into the title unescaped
+    ],
+)
+def test_degenerate_or_hostile_titles_are_still_safe(subject):
+    from publish_newsletter import parse_newsletter
+
+    try:
+        issue = parse_newsletter(BODY, subject, "2026-12-01")
+    except ValueError:
+        return
+    assert "<script>" not in issue["markdown"].split("---\n", 2)[1]
