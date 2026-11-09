@@ -96,3 +96,16 @@ def test_issue_9_40_keeps_both_of_its_old_addresses():
     assert meta["permalink"] == "/9.40-AEBFSD-110621/"
     assert sorted(meta["redirect_from"]) == ["/9.40-AEB&FSD-110621/", "/9.40-AEB&amp;FSD-110621/"]
     assert meta["presentation_title"] == "9.40 - AEB&FSD"
+
+
+def test_link_checker_is_not_told_to_ignore_internal_links():
+    """`^file:///` in .lycheeignore excluded every internal link (57736 of 57736)."""
+    import re
+
+    patterns = [
+        line.strip()
+        for line in Path(".lycheeignore").read_text().splitlines()
+        if line.strip() and not line.lstrip().startswith("#")
+    ]
+    for url in ("file:///home/runner/work/x/x/_site/about/", "file:///w/_site/9.41-x-111221/"):
+        assert not [p for p in patterns if re.search(p, url)], url
