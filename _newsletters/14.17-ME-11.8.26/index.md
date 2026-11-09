@@ -3,6 +3,8 @@ layout: newsletter
 title: 14.17 - M&E
 date: '2026-11-08'
 permalink: /14.17-ME-11.8.26/
+redirect_from:
+- /14.17-M&E-11.8.26/
 display_name: 14.17 - M&E
 source_sha256: d306e281442d174a80629e8eadda42585ae67f4b637bd44aee8409319406fbcd
 parser_version: 2
