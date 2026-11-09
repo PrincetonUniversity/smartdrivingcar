@@ -328,7 +328,10 @@ def parse_newsletter(
     match = SUBJECT.fullmatch(subject.strip())
     if not match:
         raise ValueError("Subject is not a newsletter issue")
-    slug = validate_slug(re.sub(r"[ _/-]+", "-", match.group(1)))
+    raw = re.sub(r"[ _/-]+", "-", match.group(1))
+    # The identifier is the URL: drop punctuation it can't carry (M&E -> ME,
+    # Waymo's -> Waymos, matching earlier archive slugs). The title keeps it.
+    slug = validate_slug(re.sub(r"-{2,}", "-", re.sub(r"[^A-Za-z0-9.-]", "", raw)).strip("-"))
     suffix = re.search(r"-(\d{1,2})[.-](\d{1,2})[.-](\d{2}|\d{4})$", slug)
     if not suffix:
         raise ValueError("Newsletter identifier must include its issue date")
@@ -340,7 +343,10 @@ def parse_newsletter(
     rendered = safe_html(body)
     if len(BeautifulSoup(rendered, "html.parser").get_text(strip=True)) < 80:
         raise ValueError("Newsletter body is empty or unexpectedly short")
-    display = re.sub(r"-\d{1,2}[.-]\d{1,2}[.-]\d{2,4}$", "", slug).replace("-", " ")
+    # Title from the subject as written, limited to plain punctuation (no
+    # markup characters); identical to the slug when the subject had none.
+    shown = re.sub(r"[^A-Za-z0-9 .,'&!?()$:%+-]", "", raw)
+    display = re.sub(r"-\d{1,2}[.-]\d{1,2}[.-]\d{2,4}$", "", shown).replace("-", " ").strip()
     display = re.sub(r"(?<=[a-z])(?=[A-Z])", " ", display)
     display = re.sub(r"^(\d+\.\d+ )(.)", lambda m: m.group(1) + m.group(2).upper(), display)
     title = re.sub(r"^(\d+\.\d+) ", r"\1 - ", display)
