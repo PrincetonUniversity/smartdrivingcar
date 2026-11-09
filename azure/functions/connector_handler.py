@@ -14,33 +14,15 @@ if not library.is_dir():
     library = Path(__file__).resolve().parents[2] / "scripts"
 sys.path.insert(0, str(library))
 
-from connector_batch import prepare_batch, settings_from_env  # noqa: E402
+from connector_batch import prepare_batch, reason_code, settings_from_env  # noqa: E402
 
 # Fail at worker startup if the publishing identity policy is not configured.
 SETTINGS = settings_from_env()
 connector_bp = func.Blueprint()
 
 
-def validation_reason(error: Exception) -> str:
-    message = str(error)
-    public = {
-        "Newsletter body is empty or unexpectedly short": "body_too_short",
-        "Newsletter body is missing or too large": "body_missing_or_too_large",
-        "Newsletter identifier must include its issue date": "issue_date_suffix_missing",
-        "Issue date is later than mailbox receipt date": "invalid_issue_date",
-        "Invalid newsletter identifier": "identifier_invalid",
-        "Candidate requires an HTML body": "html_body_required",
-        "Newsletter candidate is missing the expected Princeton Listserv headers": "listserv_header_mismatch",
-        "Connector result reached limit or is invalid; narrow lookback or increase limit": "connector_limit_reached",
-        "A single newsletter exceeds GitHub dispatch size; use reviewed local import": "dispatch_too_large",
-    }
-    if message in public:
-        return public[message]
-    if any(
-        word in message.lower() for word in ("month", "day", "year", "isoformat", "received date")
-    ):
-        return "invalid_issue_date"
-    return "invalid_input_shape"
+# Reason codes are shared with per-message reporting in connector_batch.
+validation_reason = reason_code
 
 
 @connector_bp.route(
