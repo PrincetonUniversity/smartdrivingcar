@@ -153,3 +153,37 @@ def test_operational_notice_lists_invalid_newsletters_without_content(monkeypatc
     text = request.call_args.kwargs["data"]["text"]
     assert "created: 1" in text and "invalid: 1" in text
     assert "identifier_invalid (received 2026-11-08T21:50:00Z)" in text
+
+
+LINK_REPORT = {
+    "checked": 3,
+    "repaired": [
+        {
+            "issue": "/14.17-ME-11.8.26/",
+            "link": "/14.17-M&E-11.8.26/",
+            "target": "/14.17-ME-11.8.26/",
+        }
+    ],
+    "broken": [{"issue": "/14.17-ME-11.8.26/", "link": "/14.18-NextWeek-11.15.26/"}],
+}
+
+
+def test_broken_link_warning_emails_operators_without_marking_publishing_down(monkeypatch):
+    resend_settings(monkeypatch)
+    monkeypatch.setenv(
+        "HEALTHCHECKS_PING_URL", "https://hc-ping.com/00000000-0000-0000-0000-000000000000"
+    )
+    with patch.object(pipeline_observe, "request_json") as request:
+        pipeline_observe.signal("warning", LINK_REPORT)
+    (call,) = request.call_args_list  # Resend only: no Healthchecks ping
+    data = call.kwargs["data"]
+    assert data["subject"] == "SmartDrivingCar publishing warning"
+    assert "broken link: /14.18-NextWeek-11.15.26/ in /14.17-ME-11.8.26/" in data["text"]
+    assert "repaired: /14.17-M&E-11.8.26/ -> /14.17-ME-11.8.26/" in data["text"]
+
+
+def test_no_warning_email_when_every_link_works(monkeypatch):
+    resend_settings(monkeypatch)
+    with patch.object(pipeline_observe, "request_json") as request:
+        pipeline_observe.signal("warning", {**LINK_REPORT, "broken": []})
+    request.assert_not_called()

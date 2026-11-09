@@ -31,7 +31,9 @@ def signal(status: str, report: dict[str, Any] | None = None) -> None:
     validate_config()
     failures = 0
     ping = os.environ.get("HEALTHCHECKS_PING_URL", "")
-    if ping:
+    # A warning means publishing succeeded with something to fix (a broken
+    # newsletter link): tell operators by email, but never mark the check down.
+    if ping and status != "warning":
         suffix = {"start": "/start", "success": "", "failure": "/fail"}[status]
         try:
             request_json(ping + suffix, host="hc-ping.com", expect_json=False)
@@ -42,6 +44,7 @@ def signal(status: str, report: dict[str, Any] | None = None) -> None:
     resend_key = os.environ.get("RESEND_API_KEY", "")
     should_notify = (
         status == "failure"
+        or (status == "warning" and bool((report or {}).get("broken")))
         or (status == "start" and os.environ.get("RESEND_NOTIFY_START") == "true")
         or (
             status == "success"
@@ -66,6 +69,11 @@ def signal(status: str, report: dict[str, Any] | None = None) -> None:
             # Reason codes and receipt times only (validated by the receiver).
             for entry in report.get("invalid_details", [])[:20]:
                 text += f"not published: {entry['reason']} (received {entry['received']})\n"
+            # Paths on the public site only; the newsletters themselves are public.
+            for entry in report.get("broken", [])[:20]:
+                text += f"broken link: {entry['link']} in {entry['issue']}\n"
+            for entry in report.get("repaired", [])[:20]:
+                text += f"repaired: {entry['link']} -> {entry['target']}\n"
         try:
             request_json(
                 "https://api.resend.com/emails",
@@ -94,13 +102,14 @@ def signal(status: str, report: dict[str, Any] | None = None) -> None:
 
 def main() -> None:
     parser = argparse.ArgumentParser(description=__doc__)
-    parser.add_argument("status", choices=["validate", "start", "success", "failure"])
+    parser.add_argument("status", choices=["validate", "start", "success", "failure", "warning"])
+    parser.add_argument("--report", type=Path, default=Path("pipeline-result.json"))
     args = parser.parse_args()
     validate_config()
     if args.status == "validate":
         print("PASS: monitoring configuration valid")
         return
-    report_path = Path("pipeline-result.json")
+    report_path = args.report
     report = json.loads(report_path.read_text()) if report_path.exists() else None
     signal(args.status, report)
 

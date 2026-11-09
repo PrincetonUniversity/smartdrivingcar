@@ -116,6 +116,10 @@ jobs:
     with:
       revision: ${{ needs.reconcile.outputs.revision }}
       issues: ${{ needs.reconcile.outputs.issues }}
+    secrets:
+      RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
+      RESEND_FROM: ${{ secrets.RESEND_FROM }}
+      RESEND_TO: ${{ secrets.RESEND_TO }}
   observe:
     needs: [reconcile, publish]
     if: always() && vars.NEWSLETTER_PIPELINE_ENABLED == 'true'

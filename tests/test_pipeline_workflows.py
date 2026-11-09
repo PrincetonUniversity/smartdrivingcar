@@ -22,3 +22,50 @@ def test_receiver_deploys_explicitly_after_bot_commit():
 def test_connector_report_fails_on_invalid_newsletters_after_publishing_the_rest():
     text = Path(".github/workflows/receive-connector.yml").read_text()
     assert "int(report.get('invalid', 0)) == 0" in text
+
+
+def deploy_steps():
+    import yaml
+
+    workflow = yaml.safe_load(Path(".github/workflows/deploy-site.yml").read_text())
+    return workflow, workflow["jobs"]["deploy"]["steps"]
+
+
+def step_index(steps, needle):
+    return next(
+        i for i, step in enumerate(steps) if needle in (step.get("run", "") + step.get("uses", ""))
+    )
+
+
+def test_newsletter_links_are_repaired_before_lychee_and_upload():
+    _, steps = deploy_steps()
+    links = step_index(steps, "scripts/newsletter_links.py")
+    assert step_index(steps, "restyle_archive.py") < links
+    assert links < step_index(steps, "lycheeverse/lychee-action")
+    assert links < step_index(steps, "upload-pages-artifact")
+    assert "--lychee-ignore .lycheeignore" in steps[links]["run"]
+    assert "$RUNNER_TEMP/link-report.json" in steps[links]["run"]  # never inside _site
+
+
+def test_broken_link_warning_is_sent_after_publishing():
+    _, steps = deploy_steps()
+    warn = step_index(steps, "pipeline_observe.py warning")
+    assert warn > step_index(steps, "deploy-pages")
+    for name in ("RESEND_API_KEY", "RESEND_FROM", "RESEND_TO"):
+        assert steps[warn]["env"][name] == "${{ secrets." + name + " }}"
+
+
+def test_every_site_deploy_caller_passes_only_the_email_secrets():
+    workflow, _ = deploy_steps()
+    declared = workflow[True]["workflow_call"]["secrets"]  # PyYAML reads `on` as True
+    assert set(declared) == {"RESEND_API_KEY", "RESEND_FROM", "RESEND_TO"}
+    assert all(spec["required"] is False for spec in declared.values())
+    import yaml
+
+    callers = 0
+    for path in Path(".github/workflows").glob("*.yml"):
+        for job in yaml.safe_load(path.read_text())["jobs"].values():
+            if job.get("uses") == "./.github/workflows/deploy-site.yml":
+                callers += 1
+                assert job.get("secrets") == {n: "${{ secrets." + n + " }}" for n in declared}, path
+    assert callers == 5
