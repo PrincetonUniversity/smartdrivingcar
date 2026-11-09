@@ -7,6 +7,7 @@ from pathlib import Path
 from unittest.mock import patch
 
 import pytest
+import yaml
 
 sys.path.insert(0, str(Path(__file__).resolve().parents[1] / "scripts"))
 
@@ -408,3 +409,49 @@ def test_dispatch_payload_fits_githubs_property_limit():
     for messages in ([GOOD], [FUTURE, GOOD], [MESSAGE]):
         result = batch("production", messages=messages, known=set())
         assert len(result) <= 10, sorted(result)
+
+
+# ── The as-written address keeps working (https://smartdrivingcar.com/14.17-M&E-11.8.26) ──
+
+
+def front_matter(issue):
+    return yaml.safe_load(issue["markdown"].split("---\n", 2)[1])
+
+
+@pytest.mark.parametrize(
+    "subject, alias",
+    [
+        ("SmartDrivingCars_14.17-M&E-11.8.26", "/14.17-M&E-11.8.26/"),
+        ("SmartDrivingCars_14.18-Waymo's Turn-11.15.26", "/14.18-Waymo's-Turn-11.15.26/"),
+        ("SmartDrivingCars 14.19-Tesla, Waymo!-11.22.26", "/14.19-Tesla,-Waymo!-11.22.26/"),
+    ],
+)
+def test_punctuated_subject_keeps_its_as_written_address(subject, alias):
+    from publish_newsletter import parse_newsletter
+
+    meta = front_matter(parse_newsletter(BODY, subject, "2026-12-01"))
+    assert meta["redirect_from"] == [alias]
+    assert meta["permalink"] != alias
+
+
+@pytest.mark.parametrize(
+    "subject",
+    [
+        SUBJECT,  # nothing was dropped: no alias
+        "SmartDrivingCars 14.20-Q&A (Part 2)?-11.29.26",  # '?' would start a query string
+        "SmartDrivingCars 14.21-100% Sure-11.29.26",  # '%' would be read as an escape
+        "SmartDrivingCars 14.22-Tag #1-11.29.26",  # '#' would start a fragment
+    ],
+)
+def test_no_alias_when_unneeded_or_not_a_safe_path(subject):
+    from publish_newsletter import parse_newsletter
+
+    assert "redirect_from" not in front_matter(parse_newsletter(BODY, subject, "2026-12-01"))
+
+
+def test_published_14_17_keeps_its_as_written_address():
+    meta = yaml.safe_load(
+        Path("_newsletters/14.17-ME-11.8.26/index.md").read_text().split("---\n", 2)[1]
+    )
+    assert meta["permalink"] == "/14.17-ME-11.8.26/"
+    assert meta["redirect_from"] == ["/14.17-M&E-11.8.26/"]

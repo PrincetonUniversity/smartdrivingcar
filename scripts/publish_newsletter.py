@@ -350,11 +350,19 @@ def parse_newsletter(
     display = re.sub(r"(?<=[a-z])(?=[A-Z])", " ", display)
     display = re.sub(r"^(\d+\.\d+ )(.)", lambda m: m.group(1) + m.group(2).upper(), display)
     title = re.sub(r"^(\d+\.\d+) ", r"\1 - ", display)
-    metadata = {
+    metadata: dict[str, Any] = {
         "layout": "newsletter",
         "title": title,
         "date": issue_date.isoformat(),
         "permalink": f"/{slug}/",
+    }
+    # Keep the address as written in the subject working (/14.17-M&E-11.8.26/)
+    # when punctuation was dropped from the identifier. Only characters that
+    # are literal in a URL path qualify: ?, #, % and spaces would change what
+    # a browser requests.
+    if raw != slug and re.fullmatch(r"[A-Za-z0-9._~!$&'()*+,;=:@-]{1,160}", raw):
+        metadata["redirect_from"] = [f"/{raw}/"]
+    metadata |= {
         "display_name": title,
         "source_sha256": hashlib.sha256(rendered.encode()).hexdigest(),
         "parser_version": 2,
