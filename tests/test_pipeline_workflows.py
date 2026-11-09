@@ -69,3 +69,30 @@ def test_every_site_deploy_caller_passes_only_the_email_secrets():
                 callers += 1
                 assert job.get("secrets") == {n: "${{ secrets." + n + " }}" for n in declared}, path
     assert callers == 5
+
+
+def archive_front_matter():
+    import yaml
+
+    for source in sorted(Path("_newsletters").glob("*/index.md")):
+        yield source, yaml.safe_load(source.read_text().split("---", 2)[1])
+
+
+def test_no_archived_issue_has_html_entities_in_its_address_or_titles():
+    """9.40 was archived as /9.40-AEB&amp;FSD-110621/: links to it 404ed and its
+    title rendered as 'AEB&amp;FSD'."""
+    import re
+
+    entity = re.compile(r"&(?:[A-Za-z]+|#\d+|#x[0-9A-Fa-f]+);")
+    for source, meta in archive_front_matter():
+        for key in ("permalink", "title", "display_name", "presentation_title"):
+            assert not entity.search(str(meta.get(key, ""))), (source.parent.name, key)
+        assert "&" not in meta["permalink"], source.parent.name
+        assert source.parent.name == meta["permalink"].strip("/"), source.parent.name
+
+
+def test_issue_9_40_keeps_both_of_its_old_addresses():
+    meta = dict(archive_front_matter())[Path("_newsletters/9.40-AEBFSD-110621/index.md")]
+    assert meta["permalink"] == "/9.40-AEBFSD-110621/"
+    assert sorted(meta["redirect_from"]) == ["/9.40-AEB&FSD-110621/", "/9.40-AEB&amp;FSD-110621/"]
+    assert meta["presentation_title"] == "9.40 - AEB&FSD"
