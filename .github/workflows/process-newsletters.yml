@@ -55,3 +55,7 @@ jobs:
     uses: ./.github/workflows/deploy-site.yml
     with:
       revision: ${{ needs.process.outputs.revision }}
+    secrets:
+      RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
+      RESEND_FROM: ${{ secrets.RESEND_FROM }}
+      RESEND_TO: ${{ secrets.RESEND_TO }}

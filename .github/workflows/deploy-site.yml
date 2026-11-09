@@ -9,6 +9,14 @@ on:
       issues:
         type: string
         default: '[]'
+    # Only for the broken-link warning email; absent means no email is sent.
+    secrets:
+      RESEND_API_KEY:
+        required: false
+      RESEND_FROM:
+        required: false
+      RESEND_TO:
+        required: false
 
 permissions:
   contents: read
@@ -46,6 +54,12 @@ jobs:
         run: bundle exec jekyll build --config _config.yml,_config_prod.yml
       - name: Verify every newsletter presentation and preserve archive routes
         run: .venv/bin/python scripts/restyle_archive.py --check-site _site --repair-routes
+      - name: Repair or report links to this site inside newsletters
+        # Never blocks publishing: unambiguous targets get a redirect page in
+        # _site; anything else is reported, and lychee is told to skip it.
+        run: >-
+          .venv/bin/python scripts/newsletter_links.py _site
+          --report "$RUNNER_TEMP/link-report.json" --lychee-ignore .lycheeignore
       - name: Check internal links
         uses: lycheeverse/lychee-action@e7477775783ea5526144ba13e8db5eec57747ce8 # v2
         with:
@@ -70,3 +84,9 @@ jobs:
           Path('pipeline-result.json').write_text(json.dumps({'issues': json.loads(os.environ['ISSUE_SLUGS'])}))
           PY
           .venv/bin/python scripts/verify_publication.py
+      - name: Warn operators about broken newsletter links
+        env:
+          RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
+          RESEND_FROM: ${{ secrets.RESEND_FROM }}
+          RESEND_TO: ${{ secrets.RESEND_TO }}
+        run: .venv/bin/python scripts/pipeline_observe.py warning --report "$RUNNER_TEMP/link-report.json"

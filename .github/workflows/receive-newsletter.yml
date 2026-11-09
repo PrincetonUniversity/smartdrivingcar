@@ -65,3 +65,7 @@ jobs:
     with:
       revision: ${{ needs.receive.outputs.revision }}
       issues: ${{ needs.receive.outputs.issues }}
+    secrets:
+      RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
+      RESEND_FROM: ${{ secrets.RESEND_FROM }}
+      RESEND_TO: ${{ secrets.RESEND_TO }}
