@@ -314,6 +314,17 @@ def safe_html(body: str) -> str:
     return canonical.decode_contents().replace("{", "&#123;").replace("}", "&#125;")
 
 
+def clean_identifier(text: str) -> str:
+    """The URL-safe identifier for an issue title as written.
+
+    Separators become single hyphens and punctuation an identifier can't
+    carry is dropped (M&E -> ME, Waymo's -> Waymos, matching earlier archive
+    slugs). Shared by the parser and the newsletter link repair.
+    """
+    hyphenated = re.sub(r"[ _/-]+", "-", text)
+    return re.sub(r"-{2,}", "-", re.sub(r"[^A-Za-z0-9.-]", "", hyphenated)).strip("-")
+
+
 def validate_slug(slug: Any) -> str:
     if not isinstance(slug, str) or len(slug) > 160 or not SLUG.fullmatch(slug):
         raise ValueError("Invalid newsletter identifier")
@@ -329,9 +340,7 @@ def parse_newsletter(
     if not match:
         raise ValueError("Subject is not a newsletter issue")
     raw = re.sub(r"[ _/-]+", "-", match.group(1))
-    # The identifier is the URL: drop punctuation it can't carry (M&E -> ME,
-    # Waymo's -> Waymos, matching earlier archive slugs). The title keeps it.
-    slug = validate_slug(re.sub(r"-{2,}", "-", re.sub(r"[^A-Za-z0-9.-]", "", raw)).strip("-"))
+    slug = validate_slug(clean_identifier(raw))
     suffix = re.search(r"-(\d{1,2})[.-](\d{1,2})[.-](\d{2}|\d{4})$", slug)
     if not suffix:
         raise ValueError("Newsletter identifier must include its issue date")
