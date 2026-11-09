@@ -17,3 +17,8 @@ def test_receiver_deploys_explicitly_after_bot_commit():
     assert "uses: ./.github/workflows/deploy-site.yml" in workflow
     assert "GITHUB_EVENT_PATH" in workflow
     assert "${{ github.event.client_payload" not in workflow
+
+
+def test_connector_report_fails_on_invalid_newsletters_after_publishing_the_rest():
+    text = Path(".github/workflows/receive-connector.yml").read_text()
+    assert "int(report.get('invalid', 0)) == 0" in text

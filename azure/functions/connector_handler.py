@@ -65,9 +65,10 @@ def prepare_connector_batch(req: func.HttpRequest) -> func.HttpResponse:
             mimetype="application/json",
         )
     logging.info(
-        "Connector batch accepted; scanned=%d accepted=%d remaining=%d",
+        "Connector batch accepted; scanned=%d accepted=%d invalid=%d remaining=%d",
         result["scanned"],
         result["accepted"],
+        result["invalid"],
         result["remaining"],
     )
     return func.HttpResponse(json.dumps(result), status_code=200, mimetype="application/json")

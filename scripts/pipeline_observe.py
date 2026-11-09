@@ -60,9 +60,12 @@ def signal(status: str, report: dict[str, Any] | None = None) -> None:
         # Public run URL and numeric counts only; no email content, addresses or subjects.
         text = f"Newsletter publishing: {status}.\nRun: {run_url}\n"
         if report:
-            for key in ("scanned", "created", "duplicates", "rejected", "remaining"):
+            for key in ("scanned", "created", "duplicates", "rejected", "invalid", "remaining"):
                 if key in report:
                     text += f"{key}: {int(report[key])}\n"
+            # Reason codes and receipt times only (validated by the receiver).
+            for entry in report.get("invalid_details", [])[:20]:
+                text += f"not published: {entry['reason']} (received {entry['received']})\n"
         try:
             request_json(
                 "https://api.resend.com/emails",

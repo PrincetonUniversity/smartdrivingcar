@@ -139,3 +139,17 @@ def test_operational_notice_reports_rejection_and_backlog_counts(monkeypatch):
     text = request.call_args.kwargs["data"]["text"]
     assert "rejected: 2" in text and "remaining: 3" in text
     assert "scanned:" not in text
+
+
+def test_operational_notice_lists_invalid_newsletters_without_content(monkeypatch):
+    resend_settings(monkeypatch)
+    report = {
+        "created": 1,
+        "invalid": 1,
+        "invalid_details": [{"reason": "identifier_invalid", "received": "2026-11-08T21:50:00Z"}],
+    }
+    with patch.object(pipeline_observe, "request_json") as request:
+        pipeline_observe.signal("failure", report)
+    text = request.call_args.kwargs["data"]["text"]
+    assert "created: 1" in text and "invalid: 1" in text
+    assert "identifier_invalid (received 2026-11-08T21:50:00Z)" in text

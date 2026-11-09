@@ -40,6 +40,7 @@ def reason_code(error: Exception) -> str:
         "Newsletter candidate is missing the expected Princeton Listserv headers": "listserv_header_mismatch",
         "Connector result reached limit or is invalid; narrow lookback or increase limit": "connector_limit_reached",
         "A single newsletter exceeds GitHub dispatch size; use reviewed local import": "dispatch_too_large",
+        "Newsletter content conflict requires manual review": "content_conflict",
     }
     if message in public:
         return public[message]
@@ -48,6 +49,34 @@ def reason_code(error: Exception) -> str:
     ):
         return "invalid_issue_date"
     return "invalid_input_shape"
+
+
+# Every code reason_code can produce; the receiver accepts no others.
+REASONS = {
+    "body_too_short",
+    "body_missing_or_too_large",
+    "issue_date_suffix_missing",
+    "invalid_issue_date",
+    "identifier_invalid",
+    "html_body_required",
+    "listserv_header_mismatch",
+    "connector_limit_reached",
+    "dispatch_too_large",
+    "content_conflict",
+    "invalid_input_shape",
+}
+RECEIVED = re.compile(r"\d{4}-\d{2}-\d{2}T\d{2}:\d{2}:\d{2}(?:\.\d{1,7})?Z?")
+CANDIDATE_ERRORS = (ValueError, TypeError, KeyError, AttributeError)
+
+
+def invalid_entry(reason: str, received: Any) -> dict[str, str]:
+    """A bad newsletter, identified only by reason code and receipt time.
+
+    Operators find it in the mailbox by its receipt time; reports never carry
+    subjects, addresses or content.
+    """
+    ok = isinstance(received, str) and RECEIVED.fullmatch(received)
+    return {"reason": reason, "received": received if ok else "unknown"}
 
 
 def addresses(value: Any) -> set[str]:
@@ -144,10 +173,17 @@ def prepare_batch(
         "scanned": len(messages),
         "accepted": 0,
         "rejected": 0,
+        "invalid": 0,
+        "invalid_details": [],
         "remaining": 0,
         "issues": [],
         "verify_slugs": [],
     }
+
+    def report_invalid(reason: str, received: Any) -> None:
+        result["invalid"] += 1
+        result["invalid_details"].append(invalid_entry(reason, received))
+
     pending: list[dict[str, str]] = []
     for message in messages:
         if not isinstance(message, dict):
@@ -161,24 +197,25 @@ def prepare_batch(
         ):
             result["rejected"] += 1
             continue
-        # Some connector versions omit RFC headers. When supplied, validate the Listserv marker.
-        if message.get("internetMessageHeaders"):
-            validate_list_headers(message, settings)
-        body = message.get("body", "")
-        if isinstance(body, dict):
-            if body.get("contentType", "").casefold() != "html":
+        # One bad newsletter is reported and skipped; it must not block the others.
+        # Upstream (network) errors are not candidate errors and still fail the batch.
+        try:
+            # Some connector versions omit RFC headers. When supplied, validate the Listserv marker.
+            if message.get("internetMessageHeaders"):
+                validate_list_headers(message, settings)
+            body = message.get("body", "")
+            if isinstance(body, dict):
+                if body.get("contentType", "").casefold() != "html":
+                    raise ValueError("Candidate requires an HTML body")
+                body = body.get("content", "")
+            if message.get("isHtml") is False:
                 raise ValueError("Candidate requires an HTML body")
-            body = body.get("content", "")
-        if message.get("isHtml") is False:
-            raise ValueError("Candidate requires an HTML body")
-        received = message.get("receivedDateTime", "")
-        if not isinstance(received, str):
-            raise ValueError("Invalid received date")
-        issue = parse_newsletter(body, subject, received)
-        result["accepted"] += 1
-        existing = canonical.get(issue["slug"].casefold())
-        if existing and mode == "production":
-            if lookup_metadata:
+            received = message.get("receivedDateTime", "")
+            if not isinstance(received, str):
+                raise ValueError("Invalid received date")
+            issue = parse_newsletter(body, subject, received)
+            existing = canonical.get(issue["slug"].casefold())
+            if existing and mode == "production" and lookup_metadata:
                 metadata = public_metadata(settings["repository"], existing)
                 incoming = yaml.safe_load(issue["markdown"].split("---", 2)[1])
                 if (
@@ -187,30 +224,38 @@ def prepare_batch(
                     and metadata["source_sha256"] != incoming["source_sha256"]
                 ):
                     raise ValueError("Newsletter content conflict requires manual review")
+        except CANDIDATE_ERRORS as error:
+            report_invalid(reason_code(error), message.get("receivedDateTime"))
+            continue
+        result["accepted"] += 1
+        if existing and mode == "production":
             result["verify_slugs"].append(existing)
             continue
         pending.append({"subject": subject, "received": received, "body_html": safe_html(body)})
     # Oldest first: backlog drains across later sweeps after authoritative Git commits.
     pending.sort(key=lambda item: (item["received"], item["subject"]))
-    for item in pending:
-        tentative = {**result, "issues": result["issues"] + [item]}
-        if (
-            len(
-                json.dumps(
-                    {"event_type": "newsletter-connector-batch", "client_payload": tentative}
-                ).encode()
-            )
-            > MAX_DISPATCH
-        ):
-            if not result["issues"]:
-                raise ValueError(
-                    "A single newsletter exceeds GitHub dispatch size; use reviewed local import"
-                )
+
+    def dispatch_size(issues: list[dict[str, str]]) -> int:
+        payload = {**result, "issues": issues}
+        return len(
+            json.dumps(
+                {"event_type": "newsletter-connector-batch", "client_payload": payload}
+            ).encode()
+        )
+
+    deferred = 0
+    for index, item in enumerate(pending):
+        if dispatch_size(result["issues"] + [item]) > MAX_DISPATCH:
+            if dispatch_size([item]) > MAX_DISPATCH:
+                # Can never be dispatched; needs a reviewed local import.
+                report_invalid("dispatch_too_large", item["received"])
+                continue
+            deferred = len(pending) - index
             break
         result["issues"].append(item)
         slug = parse_newsletter(item["body_html"], item["subject"], item["received"])["slug"]
         result["verify_slugs"].append(slug)
-    result["remaining"] = len(pending) - len(result["issues"])
+    result["remaining"] = deferred
     result["verify_slugs"] = sorted(set(result["verify_slugs"]))
     if (
         len(
@@ -242,6 +287,20 @@ def receive_batch(
     if not isinstance(manifest, list) or len(manifest) > 1000:
         raise ValueError("Invalid verification manifest")
     manifest = [validate_slug(slug) for slug in manifest]
+    # Absent from payloads of Functions deployed before per-message reporting.
+    invalid = payload.get("invalid_details", [])
+    if (
+        not isinstance(invalid, list)
+        or len(invalid) > 100
+        or any(
+            not isinstance(entry, dict)
+            or set(entry) != {"reason", "received"}
+            or entry["reason"] not in REASONS
+            or not (entry["received"] == "unknown" or RECEIVED.fullmatch(str(entry["received"])))
+            for entry in invalid
+        )
+    ):
+        raise ValueError("Malformed invalid report")
     prepared = [
         parse_newsletter(item["body_html"], item["subject"], item["received"]) for item in items
     ]
@@ -272,6 +331,8 @@ def receive_batch(
         "scanned": int(payload.get("scanned", 0)),
         "accepted": int(payload.get("accepted", len(prepared))),
         "rejected": int(payload.get("rejected", 0)),
+        "invalid": len(invalid),
+        "invalid_details": invalid,
         "preview_created": 0,
         "remaining": int(payload.get("remaining", 0)),
         "issues": manifest if mode == "production" else [],
