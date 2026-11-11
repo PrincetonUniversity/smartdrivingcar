@@ -2,6 +2,7 @@
 
 import json
 import os
+import re
 import subprocess
 import sys
 import zipfile
@@ -133,3 +134,96 @@ def test_handled_validation_error_still_fails_the_workflow():
     assert actions["Reject_batch"]["runAfter"] == {
         "Signal_rejection": ["Succeeded", "Failed", "TimedOut"]
     }
+
+
+# ── Healthchecks URL: never silently dropped, survives a wiped laptop ────
+
+PING = "https://hc-ping.com/00000000-0000-0000-0000-000000000000"
+SETTING = "SDC_HEALTHCHECKS_PING_URL"
+
+
+def ping_url(**kwargs):
+    import azure_connector_admin
+
+    defaults = {"mode": "production", "environ": {}, "current": {}, "allow_missing": False}
+    return azure_connector_admin.healthchecks_ping_url(**{**defaults, **kwargs})
+
+
+def test_production_ping_url_comes_from_the_environment_first():
+    assert ping_url(environ={SETTING: PING}, current={SETTING: PING.replace("0", "1")}) == PING
+
+
+def test_production_ping_url_is_recovered_from_azure_when_not_exported():
+    """After a fresh clone nothing is exported; the Function's settings remember it."""
+    assert ping_url(current={SETTING: PING}) == PING
+
+
+def test_production_without_any_ping_url_refuses_to_deploy():
+    with pytest.raises(ValueError, match="SDC_HEALTHCHECKS_PING_URL"):
+        ping_url()
+
+
+def test_operator_can_deliberately_deploy_without_healthchecks():
+    assert ping_url(allow_missing=True) == ""
+
+
+def test_malformed_ping_url_is_rejected_without_echoing_it():
+    with pytest.raises(ValueError) as error:
+        ping_url(environ={SETTING: "https://evil.example/secret-token"})
+    assert "secret-token" not in str(error.value)
+
+
+def test_test_mode_never_pings_production_healthchecks():
+    assert ping_url(mode="test", environ={SETTING: PING}) == ""
+
+
+def test_ping_url_is_persisted_into_function_settings():
+    import azure_connector_admin
+
+    merged = azure_connector_admin.with_ping_setting({"OTHER": "x"}, PING)
+    assert merged == {"OTHER": "x", SETTING: PING}
+    assert azure_connector_admin.with_ping_setting({"OTHER": "x"}, "") == {"OTHER": "x"}
+
+
+def test_no_healthchecks_flag_exists():
+    text = Path("scripts/azure_connector_admin.py").read_text()
+    assert '"--no-healthchecks"' in text
+
+
+# ── Older azure/deploy scripts act only on the newsletter subscription ──
+
+
+def run_subscription_guard(tmp_path, current):
+    # A shell function, not a stub file: CI mounts /tmp without exec permission.
+    script = (
+        f'az() {{ echo "$*" >> "{tmp_path}/calls"; echo {current}; }}; '
+        "source azure/deploy/subscription.sh && require_newsletter_subscription"
+    )
+    return subprocess.run(["bash", "-c", script], capture_output=True, text=True)
+
+
+def test_wrong_default_subscription_stops_the_older_scripts(tmp_path):
+    result = run_subscription_guard(tmp_path, "1d966cca-b59d-49a0-ba86-39c4a1c85c0f")
+    assert result.returncode != 0
+    expected = json.loads(Path("azure/connector/production.json").read_text())["subscription"]
+    assert f"az account set --subscription {expected}" in result.stderr
+
+
+def test_newsletter_subscription_passes_the_guard(tmp_path):
+    expected = json.loads(Path("azure/connector/production.json").read_text())["subscription"]
+    assert run_subscription_guard(tmp_path, expected).returncode == 0
+
+
+@pytest.mark.parametrize("script", ["deploy.sh", "update.sh", "teardown.sh"])
+def test_older_scripts_check_the_subscription_before_changing_anything(script):
+    lines = Path("azure/deploy", script).read_text().splitlines()
+    guard = next(i for i, line in enumerate(lines) if "require_newsletter_subscription" in line)
+    mutating = re.compile(
+        r"\baz\b.*\b(create|delete|update|set|deploy|publish|restart|start|stop)\b"
+    )
+    first_change = next(
+        i for i, line in enumerate(lines) if mutating.search(line) and "account set" not in line
+    )
+    assert guard < first_change, (
+        f"{script}: guard on line {guard + 1}, change on {first_change + 1}"
+    )

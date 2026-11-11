@@ -117,6 +117,8 @@ fi
 
 SUBSCRIPTION=$(az account show --query name -o tsv)
 ok "Logged in to Azure (subscription: ${SUBSCRIPTION})"
+source "$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)/subscription.sh"
+require_newsletter_subscription || fail "Azure CLI is on the wrong subscription (see above)"
 
 if [[ -f "${SCRIPTS_DIR}/clean_newsletter.py" && -f "${SCRIPTS_DIR}/import_newsletter.py" ]]; then
     ok "Newsletter processing scripts found"
