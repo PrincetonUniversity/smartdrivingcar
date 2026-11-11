@@ -15,6 +15,7 @@ import tempfile
 import time
 import uuid
 import zipfile
+from collections.abc import Mapping
 from pathlib import Path
 from typing import Any
 from urllib.request import Request, urlopen
@@ -54,6 +55,39 @@ def load_config(path: Path) -> dict[str, Any]:
     if params["mode"] == "test" and params["workflowName"] == "orfe-dept-azure-sdc-logic":
         raise ValueError("Test workflow cannot replace the original production trigger")
     return config
+
+
+PING_SETTING = "SDC_HEALTHCHECKS_PING_URL"
+PING_URL = re.compile(r"https://hc-ping\.com/[0-9a-fA-F-]{36}")
+
+
+def healthchecks_ping_url(
+    *, mode: str, environ: Mapping[str, str], current: Mapping[str, str], allow_missing: bool
+) -> str:
+    """The Healthchecks URL the production reconciler pings on Azure-side failures.
+
+    Taken from the exported SDC_HEALTHCHECKS_PING_URL, else from the Function's
+    settings, where every production deploy stores it, so a fresh clone needs
+    nothing exported. Deploying production without one fails unless the operator
+    passes --no-healthchecks. The URL is a credential and is never printed.
+    """
+    if mode != "production":
+        return ""
+    url = environ.get(PING_SETTING) or current.get(PING_SETTING, "")
+    if url and not PING_URL.fullmatch(url):
+        raise ValueError(f"{PING_SETTING} must be an https://hc-ping.com/<uuid> URL")
+    if not url and not allow_missing:
+        raise ValueError(
+            f"Production needs a Healthchecks URL: export {PING_SETTING} (the "
+            "smartdrivingcar-com-newsletter check's ping URL from Healthchecks.io; the same "
+            "value as the HEALTHCHECKS_PING_URL repository secret), or pass --no-healthchecks"
+        )
+    return url
+
+
+def with_ping_setting(current: Mapping[str, str], url: str) -> dict[str, str]:
+    """Function settings to deploy, carrying the ping URL so later deploys find it."""
+    return {**current, PING_SETTING: url} if url else dict(current)
 
 
 def resource_url(config: dict[str, Any]) -> str:
@@ -150,7 +184,13 @@ def smoke_processor(config: dict[str, Any], key: str) -> None:
 
 
 def deploy(
-    config: dict[str, Any], *, plan: bool, probe: bool, enable: bool, skip_code: bool = False
+    config: dict[str, Any],
+    *,
+    plan: bool,
+    probe: bool,
+    enable: bool,
+    skip_code: bool = False,
+    allow_missing_ping: bool = False,
 ) -> None:
     check_connections(config)
     key = command(
@@ -190,15 +230,22 @@ def deploy(
                 "json",
             ]
         )
-        parameters["existingAppSettings"] = {
-            "value": {item["name"]: item["value"] for item in current_settings}
-        }
+        current = {item["name"]: item["value"] for item in current_settings}
+        ping = healthchecks_ping_url(
+            mode=config["parameters"]["mode"],
+            environ=os.environ,
+            current=current,
+            allow_missing=allow_missing_ping,
+        )
+        parameters["existingAppSettings"] = {"value": with_ping_setting(current, ping)}
         parameters["functionKey"] = {"value": key}
-        parameters["healthchecksPingUrl"] = {
-            "value": os.environ.get("SDC_HEALTHCHECKS_PING_URL", "")
+        parameters["healthchecksPingUrl"] = {"value": ping}
+        print(
+            "PASS: Healthchecks failure signal "
+            + ("configured" if ping else "not configured (--no-healthchecks)")
             if config["parameters"]["mode"] == "production"
-            else ""
-        }
+            else "INFO: test mode does not signal Healthchecks"
+        )
         params_file = directory / "parameters.json"
         params_file.write_text(json.dumps({"parameters": parameters}))
         params_file.chmod(0o600)
@@ -389,6 +436,11 @@ def main() -> None:
     parser.add_argument("--probe", action="store_true")
     parser.add_argument("--enable", action="store_true")
     parser.add_argument("--skip-code", action="store_true")
+    parser.add_argument(
+        "--no-healthchecks",
+        action="store_true",
+        help="deploy production without the Healthchecks failure signal (not recommended)",
+    )
     args = parser.parse_args()
     config = load_config(args.config or REPO / "azure/connector" / (args.mode + ".json"))
     if config["parameters"]["mode"] != args.mode:
@@ -424,6 +476,7 @@ def main() -> None:
             probe=args.probe,
             enable=args.enable,
             skip_code=args.skip_code,
+            allow_missing_ping=args.no_healthchecks,
         )
     elif args.action == "status":
         status(config)

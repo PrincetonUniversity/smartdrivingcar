@@ -150,6 +150,8 @@ if $DEPLOY_FUNCTION || $DEPLOY_CONNECTIONS || $DEPLOY_LOGIC_APP; then
     if az account show &>/dev/null; then
         SUBSCRIPTION=$(az account show --query name -o tsv)
         ok "Logged in to Azure (subscription: ${SUBSCRIPTION})"
+        source "$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)/subscription.sh"
+        require_newsletter_subscription || fail "Azure CLI is on the wrong subscription (see above)"
     else
         fail "Not logged in to Azure. Run: az login"
     fi
