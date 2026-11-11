@@ -82,6 +82,8 @@ All publishing entry points share the `pages-deploy` concurrency group and expli
 
 The supported pipeline reuses the existing authorized Azure Outlook and GitHub connections, reconciles retained messages in the configured newsletter folder, and publishes through an explicit, verified GitHub Pages deployment. Prof. Kornhauser continues sending to `smartdrivingcars@princeton.edu` with no extra publishing step.
 
+**Setting up on a new or wiped machine?** Follow [Restoring on a new machine](docs/newsletter-publishing.md#restoring-on-a-new-machine): install the tools, sign in, clone, and check access. Nothing has to be copied from the old computer.
+
 **Administrator setup is required before enabling the scheduled reconciler.** Follow the [improvement plan and setup runbook](docs/newsletter-publishing.md) for reproducible Bicep adoption, the SDC Testing folder probe and isolated preview, production cutover, recovery, and optional Healthchecks.io and Resend notifications. The normal connector setup needs no new app-only Graph grant. Configuration names and empty credential placeholders are in [`example.env`](example.env).
 
 For local imports, create a per-project virtual environment, install `requirements-dev.lock`, and run the safe renderer:
