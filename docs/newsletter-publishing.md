@@ -4,7 +4,7 @@ Prof. Kornhauser continues sending to **smartdrivingcars@princeton.edu**. The su
 
 The receiving mailbox is **orfe-lists@princeton.edu**. Production reads **SmartDrivingCars Newsletters for Processing**. An isolated, manually triggered test workflow reads **SDC Testing**, builds a preview, and produces an operator receipt without committing newsletter content or deploying Pages.
 
-The latest supplied issue remains [14.16 Bad Media](https://smartdrivingcar.com/14.16-badMedia-10.22.26/). The optional [app-only Graph alternative](app-only-newsletter-setup.md) is retained for organizations that later prefer a dedicated mailbox-scoped application. It is not a prerequisite for this setup.
+Published issues are listed at [smartdrivingcar.com](https://smartdrivingcar.com/). The optional [app-only Graph alternative](app-only-newsletter-setup.md) is retained for organizations that later prefer a dedicated mailbox-scoped application. It is not a prerequisite for this setup.
 
 ## Existing resources and ownership
 
@@ -119,20 +119,91 @@ gh variable set NEWSLETTER_CONNECTOR_ENABLED --repo PrincetonUniversity/smartdri
 
 If a test folder is no longer needed, `./azure/connector/teardown.zsh --mode test` disables only its workflow. It does not delete messages, connections, the Function App, storage, or the resource group. All deployment, update, test, and teardown wrappers support `--dry-run` and stop at errors.
 
-## Optional monitoring
+## Monitoring
 
 Store a production Healthchecks UUID ping URL in repository secret `HEALTHCHECKS_PING_URL`. Configure a 15-minute period with a generous grace time, such as 60 minutes. The GitHub production observer sends success only after public verification, or `/fail` on a processing/deployment error. Absence of success detects failures before dispatch, revoked connector authorization, or a stopped Azure scheduler. Test receipts never keep the production check green.
 
-For an immediate upstream Azure failure signal, provide the same URL in exported `SDC_HEALTHCHECKS_PING_URL` when deploying the **production** template. It becomes a secure Logic App parameter and is hidden from action inputs/outputs. Upstream failure reporting cannot turn a failed publishing run into a success. [Healthchecks failure signaling](https://healthchecks.io/docs/signaling_failures/) defines `/fail` behavior.
+The production Logic App pings the same check with `/fail` when it can't read the mailbox or reach GitHub. A production deploy takes the URL from exported `SDC_HEALTHCHECKS_PING_URL`, otherwise from the Function App's settings, where every production deploy stores it. It refuses to deploy without one unless you pass `--no-healthchecks`. The URL is a secure Logic App parameter, hidden from action inputs and outputs, and never printed by the deploy tool. Upstream failure reporting cannot turn a failed publishing run into a success. [Healthchecks failure signaling](https://healthchecks.io/docs/signaling_failures/) defines `/fail` behavior.
 
 For optional Resend status email, verify a sending domain and set repository secrets `RESEND_API_KEY`, `RESEND_FROM`, and `RESEND_TO`, all together. Use a sending-only key and a single operator recipient. The production observer reports new-publication success, repaired deployments, and failures; `RESEND_NOTIFY_IDLE=true` enables routine poll status. Notifications contain workflow links and counts, never newsletter bodies. L-Soft continues to distribute the newsletter itself. Use **Test optional newsletter monitors** to verify delivery before relying on alerts. [Resend's sending API](https://resend.com/docs/api-reference/emails/send-email) supports these operational messages.
+
+## Restoring on a new machine
+
+Nothing needed to run or manage publishing lives only on an administrator's computer. Code and non-secret configuration are in this repository, secrets are in GitHub and Azure, and the mailbox and GitHub authorizations live in Azure. After a wipe, restore the tools and sign-ins; there is nothing to copy back.
+
+| What | Where it lives | If you need it again |
+| --- | --- | --- |
+| Azure targets: subscription, resource group, resource names | `azure/connector/production.json` and `test.json` (committed) | Nothing to do |
+| Outlook and GitHub connector authorizations | Azure API connections in the resource group | Reauthorize in the portal only if a probe reports them disconnected |
+| Function key | Azure Function App | Read by the deploy tool at deploy time |
+| Healthchecks ping URL | Repository secret `HEALTHCHECKS_PING_URL`, and Function App setting `SDC_HEALTHCHECKS_PING_URL` for the Logic App | Healthchecks.io: open the newsletter check and copy its ping URL |
+| Resend email settings | Repository secrets `RESEND_API_KEY`, `RESEND_FROM`, `RESEND_TO` | Resend dashboard |
+| Publishing switches | Repository variables such as `NEWSLETTER_CONNECTOR_ENABLED` | `gh variable list` |
+
+### 1 Install the tools
+
+On macOS with [Homebrew](https://brew.sh):
+
+```zsh
+brew install azure-cli gh python@3.13
+az bicep install
+```
+
+Also install **Docker Desktop**, which runs the same checks as CI. zsh is the macOS default shell. Two more tools are needed only for specific tasks:
+
+- The older `azure/deploy/update.sh` also needs Azure Functions Core Tools: `brew tap azure/functions && brew install azure-functions-core-tools@4`.
+- Building the site locally needs Ruby **3.3.10** and Bundler **4.0.23**, the versions the deploy uses. Homebrew's current Ruby does not resolve this lockfile; use a version manager such as `rbenv`, or build inside a `ruby:3.3.10` Docker container.
+
+### 2 Sign in
+
+```zsh
+az login                 # an account with access to the subscription in production.json
+gh auth login            # access to this repository; admin rights to change variables
+```
+
+You don't need to change the Azure CLI's default subscription. The connector tools target the subscription in `production.json` directly. The older `azure/deploy/*.sh` scripts stop with the exact `az account set` command to run if the CLI is on a different one.
+
+### 3 Clone and set up Python
+
+```zsh
+gh repo clone PrincetonUniversity/smartdrivingcar
+cd smartdrivingcar
+python3.13 -m venv .venv
+.venv/bin/python -m pip install -r requirements-dev.lock
+```
+
+### 4 Check access before changing anything
+
+These commands only read:
+
+```zsh
+.venv/bin/python scripts/azure_connector_admin.py status --mode production
+gh variable get NEWSLETTER_CONNECTOR_ENABLED
+gh secret list                      # expect HEALTHCHECKS_PING_URL and the RESEND_* secrets
+docker-compose run --build --rm tests
+```
+
+### 5 Redeploy only when something changed
+
+Production keeps running without your computer. When you do redeploy the connector, use:
+
+```zsh
+./azure/connector/update.zsh --mode production --enable
+```
+
+Nothing needs to be exported first: the deploy reads the Healthchecks URL back from the Function App's settings. If it reports that none is stored, export it once from Healthchecks.io and run the command again:
+
+```zsh
+export SDC_HEALTHCHECKS_PING_URL='https://hc-ping.com/…'
+```
 
 ## Recovery and maintenance
 
 | Failure surface | Meaning and response |
 | --- | --- |
 | Folder probe fails | Check connection authorization, exact folder name, mailbox, nesting, or explicit folder ID. No message was changed. |
-| Function returns invalid batch | Inspect the retained message privately; check author/list/subject/HTML and size limits. |
+| Run reports `not published: <reason> (received <time>)` | One newsletter failed validation and was skipped; the rest of the batch was published. Find it in the mailbox by its receipt time and check author, list, subject, HTML and size. The run keeps failing every sweep until it is fixed or removed. |
+| Function rejects the whole batch | A problem with the batch itself, not one newsletter: malformed input or the connector's message limit. |
 | Connector message count reaches limit | Increase `messageLimit` or reduce `lookbackDays`; no cursor was advanced. |
 | Batch reports remaining issues | Later scheduled sweeps drain the bounded backlog; inspect that the count decreases. |
 | GitHub inventory lookup fails | Check GitHub availability/rate limiting; the next sweep retries. No source mail is discarded. |
