@@ -455,3 +455,29 @@ def test_published_14_17_keeps_its_as_written_address():
     )
     assert meta["permalink"] == "/14.17-ME-11.8.26/"
     assert meta["redirect_from"] == ["/14.17-M&E-11.8.26/"]
+
+
+# Word splits text across spans, so the appendix cutoff only matches after one
+# sanitizing pass. The receiver fingerprints what the Function sent it.
+SPLIT_APPENDIX_BODY = (
+    BODY + "<p><span>Previous Smart</span><span>DrivingCars</span></p><p>14.15 and older</p>"
+)
+
+
+def test_unchanged_message_is_not_a_conflict_when_sanitizing_is_not_idempotent():
+    from publish_newsletter import parse_newsletter
+
+    message = {**MESSAGE, "body": SPLIT_APPENDIX_BODY}
+    sent = batch(mode="test", messages=[message])["issues"][0]["body_html"]
+    committed = parse_newsletter(sent, SUBJECT, message["receivedDateTime"])
+    committed_sha = yaml.safe_load(committed["markdown"].split("---", 2)[1])["source_sha256"]
+    with (
+        patch("connector_batch.known_newsletters", return_value={"14.16-badMedia-10.22.26"}),
+        patch(
+            "connector_batch.public_metadata",
+            return_value={"source_sha256": committed_sha, "source_authority": "mailbox"},
+        ),
+    ):
+        result = prepare_batch([message], "production", CORRELATION, SETTINGS)
+    assert result["invalid_details"] == []
+    assert result["verify_slugs"] == ["14.16-badMedia-10.22.26"]

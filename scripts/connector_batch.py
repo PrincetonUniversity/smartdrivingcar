@@ -213,7 +213,11 @@ def prepare_batch(
             received = message.get("receivedDateTime", "")
             if not isinstance(received, str):
                 raise ValueError("Invalid received date")
-            issue = parse_newsletter(body, subject, received)
+            # Fingerprint exactly the HTML the receiver will parse and commit.
+            # Sanitizing is not idempotent (Word splits text across spans), so
+            # hashing the raw body can flag an unchanged message as a conflict.
+            sent = safe_html(body)
+            issue = parse_newsletter(sent, subject, received)
             existing = canonical.get(issue["slug"].casefold())
             if existing and mode == "production" and lookup_metadata:
                 metadata = public_metadata(settings["repository"], existing)
@@ -231,7 +235,7 @@ def prepare_batch(
         if existing and mode == "production":
             result["verify_slugs"].append(existing)
             continue
-        pending.append({"subject": subject, "received": received, "body_html": safe_html(body)})
+        pending.append({"subject": subject, "received": received, "body_html": sent})
     # Oldest first: backlog drains across later sweeps after authoritative Git commits.
     pending.sort(key=lambda item: (item["received"], item["subject"]))
 
