@@ -187,3 +187,36 @@ def test_no_warning_email_when_every_link_works(monkeypatch):
     with patch.object(pipeline_observe, "request_json") as request:
         pipeline_observe.signal("warning", {**LINK_REPORT, "broken": []})
     request.assert_not_called()
+
+
+@pytest.mark.parametrize("key", ["repaired", "deployment_repaired"])
+@pytest.mark.parametrize("deployed", [True, False])
+def test_failure_email_survives_workflow_deployment_flag(monkeypatch, key, deployed):
+    # Production payload of 2026-11-26: a boolean under "repaired" raised
+    # TypeError and the failure email was never sent.
+    resend_settings(monkeypatch)
+    report = {
+        "created": 0,
+        "invalid": 1,
+        "invalid_details": [{"reason": "content_conflict", "received": "unknown"}],
+        key: deployed,
+    }
+    with patch.object(pipeline_observe, "request_json") as request:
+        pipeline_observe.signal("failure", report)
+    assert "content_conflict" in request.call_args.kwargs["data"]["text"]
+
+
+def test_success_email_reports_a_deployment_repair(monkeypatch):
+    resend_settings(monkeypatch)
+    with patch.object(pipeline_observe, "request_json") as request:
+        pipeline_observe.signal("success", {"created": 0, "deployment_repaired": True})
+    request.assert_called_once()
+
+
+def test_workflows_report_deployment_repair_under_its_own_key():
+    # "repaired" is the newsletter link report's list; a boolean there crashed
+    # the observer and suppressed failure email.
+    for name in ("receive-connector.yml", "reconcile-newsletters.yml"):
+        text = Path(".github/workflows", name).read_text()
+        assert "deployment_repaired" in text
+        assert "'repaired'" not in text

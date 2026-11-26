@@ -147,7 +147,7 @@ jobs:
           import json, os, subprocess
           from pathlib import Path
           report = json.loads(os.environ['REPORT_JSON'])
-          report['repaired'] = os.environ['REPAIRED'] == 'true'
+          report['deployment_repaired'] = os.environ['REPAIRED'] == 'true'
           Path('pipeline-result.json').write_text(json.dumps(report))
           ok = os.environ['RECEIVE_RESULT'] == 'success' and os.environ['PUBLISH_RESULT'] in ('success', 'skipped') and int(report.get('rejected', 0)) == 0 and int(report.get('invalid', 0)) == 0
           result = subprocess.run(['.venv/bin/python', 'scripts/pipeline_observe.py', 'success' if ok else 'failure'])
