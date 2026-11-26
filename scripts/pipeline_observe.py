@@ -49,7 +49,10 @@ def signal(status: str, report: dict[str, Any] | None = None) -> None:
         or (
             status == "success"
             and (
-                ((report or {}).get("created", 0) > 0 or (report or {}).get("repaired", False))
+                (
+                    (report or {}).get("created", 0) > 0
+                    or (report or {}).get("deployment_repaired") is True
+                )
                 or os.environ.get("RESEND_NOTIFY_IDLE") == "true"
             )
         )
@@ -72,7 +75,9 @@ def signal(status: str, report: dict[str, Any] | None = None) -> None:
             # Paths on the public site only; the newsletters themselves are public.
             for entry in report.get("broken", [])[:20]:
                 text += f"broken link: {entry['link']} in {entry['issue']}\n"
-            for entry in report.get("repaired", [])[:20]:
+            # "repaired" is the link report's list of fixed links.
+            link_repairs = report.get("repaired")
+            for entry in (link_repairs if isinstance(link_repairs, list) else [])[:20]:
                 text += f"repaired: {entry['link']} -> {entry['target']}\n"
         try:
             request_json(
